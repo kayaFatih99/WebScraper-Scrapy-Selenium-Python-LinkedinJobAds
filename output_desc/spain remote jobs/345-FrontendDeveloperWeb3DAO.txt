@@ -1,0 +1,34 @@
+About the job
+Frontend Developer - Web3, DAO - Remote based - UK and Europe
+
+We're looking for a front-end engineer that can build delightful interfaces for governance, DeFi, and analytics. You will build user experiences defined by product and design specifications using modern javascript-based frameworks, as well as modular and performant component libraries. Our goal is to help set a new standard for user experiences that integrate and extend the DeFi ecosystem.
+
+When joining the team you’ll be fully integrated into the design and code review process and have the autonomy to take over non-trivial features from end to end.
+
+The Frontend Developer will be required:
+React,
+JavaScript,
+Graphql,
+HTML, and CSS, this candidate will be able to translate user and business needs into functional frontend design.
+
+The Frontend Developer will be responsible for:
+Create a unified component library that is functional, elegant, performant, and mobile-friendly
+Extract and develop core modules from design mocks
+Consistently apply composability, performance, and accessibility standards
+Distinguish tradeoffs of building one-off vs reusable features
+Ensure that components are well-tested
+Review contributions and components developed by the ecosystem and design partners
+Influence the creation, design, and execution of delightful DeFi products
+
+Qualifications
+2+ years of front-end framework experience
+Prior experience working with component libraries or design teams in user-facing applications
+Familiarity with javascript-based languages and frameworks
+A desire to keep up with modern best practices in web development
+Ideally (non-essential) but familiarity with the web3 frontend stack (ethers.js/web3.js, EIP-1193, client-side private key management, etc.)
+Some exposure to building trading interfaces, data-heavy analytics pages, documentation portals and more
+A deep understanding of the architecture of modern client-side applications
+
+If you're interested in the UX/UI Designer role, then please reach out to Poppy for more information.
+
+web3, crypto, DAO, Ethereum, React, Javascript - Frontend Developer - Web3, DAO

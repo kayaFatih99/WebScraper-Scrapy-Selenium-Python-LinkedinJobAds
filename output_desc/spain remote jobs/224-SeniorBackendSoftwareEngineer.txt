@@ -1,0 +1,52 @@
+About the job
+Senior Software Engineer
+
+Do you want to change the world? At Cabify, that's what we're doing. We aim to make cities better places to live by improving mobility for the people living in them, connecting riders to drivers at the touch of a button. Maybe one day cities will be places where nobody needs a private car. But we've still got a long way to go...fancy joining us?
+
+Right now, we have more than 20 million users around the world. We work across 8 countries and 90 cities, adapting our product fast to be leaders in all of those markets and taking care about sustainability.
+
+We are looking for engineers with experience working with any backend technology, though we use Go, Elixir and Ruby for our day to day work. We believe that even if you have worked in other programming languages such as Java all your life you can still pick up Elixir or Go pretty quickly. For us, it is more important to have someone who is adaptable and can pick up languages quickly.
+
+You will:
+Work on cross-team, impactful projects.
+Lead parts of these projects helping your team to deliver in a fast, reliable and high-quality way.
+Work on building and maintaining distributed applications.
+Improve reliability, scalability and performance of our services so they always meet their SLAs.
+Develop new features, tweak existing ones in a data-driven fashion in collaboration with our Data Science team.
+Produce simple, maintainable code while always looking to improve on it.
+Own your code all the way to production with a self-service continuous delivery pipeline and production infrastructure.
+Run what you build using bleeding edge container orchestration and monitoring technologies.
+
+Our Ideal candidate has:
+Great alignment with our principles, we take this very seriously.
+Sound knowledge of common algorithms & data structures.
+Experience in developing medium/large-scale web applications and distributed systems in a production environment.
+Experience with common design and architectural patterns.
+Ability to work independently, but being a good team player too.
+Ability to understand and help to make great product and business decisions.
+Ability to achieve results in a fast-paced, changing environment.
+A willingness to work with Ruby code occasionally is a plus!
+Experience slaying monoliths is a plus!
+
+What's it like to work at Cabify?
+
+We're a company full of happy, motivated people and we never want that to change. Here are some more reasons why it rocks to be part of our family:
+Excellent Salary conditions (€)
+Mid-Senior: 40K - 48K
+Senior: 50K - 65K
+We also offer a very competitive stock options plan.
+Recharge day: Every 3rd Friday monthly off!
+Our office is located in Madrid, but a fully remote position is also available for this role.
+Flexible work environment & hours.
+Regular team events.
+Cabify staff free rides.
+Personal development programs based on our career paths.
+Annual budget for training
+Flexible compensation plan: Restaurant tickets, transport tickets, healthcare and childcare
+All the equipment you need (you only have to bring your talent).
+A pet room ,so you don't have to leave your furry friend at home
+And last but not least...free coffee and fruit!
+
+Cabify is proud of being an equal opportunity workplace. We celebrate diversity and we are committed to creating an inclusive environment for all employees regardless of background, gender, religion, orientation, age or ability.
+
+Join us!

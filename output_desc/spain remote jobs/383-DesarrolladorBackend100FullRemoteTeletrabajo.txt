@@ -1,0 +1,36 @@
+About the job
+ISPROX somos una Consultora de Recursos Humanos especializada en la captación de Talento para organizaciones empresariales. Tenemos el objetivo de seleccionar talento para las compañías que mejor cuiden el capital humano y tengan en el centro de sus políticas a las personas. ISPROX tenemos presencia en todo el territorio nacional, para estar cerca de nuestros clientes y candidatos.
+
+Funciones
+
+Desarrollo Backend de la app.
+
+Requerimos:
+
+- Desarrolladores Java Back-end Junior, Mid y Senior. Tenemos múltiples posiciones abiertas, ya que vamos a montar varios equipos.
+- Experiencia con Java al menos 3 años.
+- Testing. Esto es fundamental para nosotros (JUnit y Mockito). Si hace TDD mejor que mejor.
+
+El salario en la oferta que hagamos dependerá de la familiaridad que tenga el candidato con:
+- Microservicios. Nos vale Spring aunque un gran plus sería conocer Quarkus, que es el framework que usamos.
+- Arquitectura hexagonal.
+- Colas distribuidas y orientación a eventos.
+- Caché distribuida.
+- Nube pública (si es AWS ¡mejor que mejor!)
+- Kubernetes (usamos EKS)
+- Docker
+- Jenkins (si ha diseñado pipelines con groovy es un plus)
+
+Idiomas:
+- Necesario: Español
+- Muy deseable por motivo de expansión internacional: Inglés, Italiano y Portugués.
+
+Se ofrece
+
+- Salario bruto anual entre 35K y 45K según experiencia y valía.
+- 100€ al mes en concepto de gastos por teletrabajo (12 mensualidades)
+- 100% remoto. Trabaja desde donde quieras sin problemas.
+- Flexibilidad en horario (de la de verdad).
+- Flexibilidad en las herramientas de trabajo: Sistema operativo, IDE, etc…
+- ¡Excepcional ambiente de trabajo en el equipo, damos mucha importancia a esto!
+- Entrar en un proyecto que está creciendo mucho y en un punto en el que tenemos que tomar todavía muchas decisiones importantes, por lo que puede haber muchas y muy importantes oportunidades de escalar profesionalmente.

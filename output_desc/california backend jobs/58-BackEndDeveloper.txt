@@ -1,0 +1,17 @@
+About the job
+Title: Backend Engineer with AWS (Cloud)
+Location: Only Locals to Bay Area, CA (Any 2 days of the week to office), Mt. View, CA
+Duration: Long-Term Contract
+
+Candidates willing to work on W2 can apply only.
+
+Java, REST, Spring & AWS
+Client is looking for someone who has 9+ yrs of experience and locals to Bay Area, CA
+Description:
+
+• Experience in Java
+• Must have excellent experience on Multithreading Concepts , Microservices. Data Structures and Algorithms, Networking and Operating Systems.
+• Experience with XML, REST, JSON. Understanding of software development lifecycle processes. Experience with Scrum, Agile and iterative approaches is a plus.
+• Excellent communication skills:
+• Demonstrated ability to explain complex technical issues to both technical and non-technical audiences.
+• Team player, possessing strong analytical, problem solving and communication skills.

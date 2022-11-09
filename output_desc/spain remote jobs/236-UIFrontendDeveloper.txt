@@ -1,0 +1,41 @@
+About the job
+About INDG
+At INDG we develop technology that enables engaging, hyper-realistic digital product experiences. Our goal is to make "every product playable", by combining the science of technology with the artistry of computer-generated content. Our offices are in Amsterdam and Bucharest and we have an ever-growing team of remote workers from different areas of the world – the US, Singapore, Brazil, South Africa.. Clients include Adidas, The North Face, Hillrom, Yamaha, Philips and more. Our CG artists, interactive designers, and developers focus on creating virtual versions of our clients' products, so lifelike it feels like you could reach out and touch them. Our culture brings together creative, tech and business individuals. It’s a heady cocktail that keeps us inspired, empowered and passionate.
+
+INDG is experiencing exciting growth and expansion. To help us on the challenging journey to create the most beautiful and best-performing experiences for both clients and customers, we are looking for a Senior Frontend Developer!
+
+Together with our 3D Studio and the Art & Design Department you will create high-end applications that will exceed our customers' expectations. Our customers are big, international clients such as Philips, Adidas, Yamaha, Ralph Lauren and Electrolux.
+
+As well as web-based applications, we develop solutions for various platforms including mobile, tablets and native, applying new techniques and technologies such as AR (Augmented Reality) and advanced real-time & pre-rendered 3D.
+
+
+What will you be doing?
+Write reusable and maintainable code
+Write client-side code to create desktop/mobile application
+Implementing new features and functionality
+Implement a UI/UX design including CSS animations and transitions
+Support of existing functionality
+Support of asset and content creation and product configurations
+Code review and testing
+Collaboration in a cross-functional team to ensure the project meets business objectives and compliance standards
+Proactive contribution to identifying issues and solving them
+
+Would be amazing if you have:
+6+ years of experience in UI frontend development
+Experience with JavaScript/TypeScript, React, Redux
+Experience in developing mobile/desktop applications
+Have experience with, or be an expert in, various JavaScript MVC
+Strong and proven experience in HTML/CSS
+Deep knowledge and approaches to HTML, CSS, and responsive UI
+Experience with CSS extension languages (Less, Sass, SCSS) and pre-processor tools
+Ability to build and design product UI library architecture
+Strong knowledge of UI/UX design concepts
+Ability to implement a UI/UX design including CSS animations and transitions
+Strong knowledge of design tools ( Photoshop, XD, Figma, Zeplin, Sketch, etc.)
+Proven track record of delivering projects with high-quality User Interfaces
+Fundamentals in object-oriented design, data structures, algorithm design, problem-solving, and complexity analysis
+Knowledge of high-load architectures and technologies on a backend at least on a basic level (.Net/ NodeJS) - nice to have
+Experience working in OSX /Windows / Linux/ iOS/ Android environment
+Experience working with Jira / Github / Gitlab
+Degree in Computer Science or Engineering or similar field
+Upper-Intermediate English level

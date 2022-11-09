@@ -1,0 +1,66 @@
+About the job
+Somos una empresa española de desarrollo de Software con más de 15 años de experiencia.
+
+Dedicados principalmente a productos innovadores (con varios premios de innovación del Ministerio de Industria y Comunidad de Madrid), utilizando siempre las últimas tecnologías.
+
+Creamos software innovador para los campos de inteligencia artificial y principalmente para marketing digital
+
+Tareas
+
+programación en React y Python principalmente
+
+Requisitos
+
+Nivel de inglés alto (B1+)
+
+Localizado en España o misma zona horaria
+
+Dotes comunicativas
+
+Capacidad de trabajar en equipo
+
+Conocimientos de las tecnologías:
+
+Python: Mínimo dos años de experiencia profesional (con capacidad para manejar estructuras complejas de datos) - Se realizará una prueba de nivel en la entrevista.
+
+Git
+
+Linux (desarrollarás en servidores linux)
+
+MySQL
+
+Conocimientos básicos de redes
+
+Conocimientos básicos de funcionamiento de APIs
+
+Requisitos valorables:
+
+Conocimientos de Docker y/o Kubernetes
+
+Administración de servidores a través de terminal (Ubuntu, Ubuntu server)
+
+Conocimientos de AWS
+
+Conocimiento de Frameworks para la creación de APIs cómo Flask, FastAPI o DJango
+
+Creación de servidores web (Apache, Nginx, Traefik)
+
+Conocimiento de conexión con APIs externas, autenticación OAuth2, etc.
+
+Beneficios
+
+Rango salarial de 30k a 32k dependiendo de valía
+
+Buen ambiente de trabajo
+
+Flexibilidad horaria
+
+Trabajo 100% remoto
+
+Posibilidad de trabajar en las últimas tecnologías
+
+Libertad de desarrollo
+
+Trabajarás con un equipo altamente cualificado
+
+Incorporación inmediata

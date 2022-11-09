@@ -1,0 +1,35 @@
+About the job
+Somos ARATECH, Lifestyle Technology. Una empresa con más de 10 años de experiencia en IT y consultoría. El grupo de profesionales que trabaja en ARATECH tiene como misión ofrecer las mejores soluciones a nuestros clientes trabajando junto a ellos en su Transformación Digital para proveer del mejor asesoramiento estableciendo una colaboración estrecha.
+
+Actualmente estamos en búsqueda de desarrollador Backend Node.js para que se una a nuestro equipo joven y dinámico
+
+Requisitos:
+
+Experiencia previa de 2 años como desarrollador backend.
+Conocimientos sólidos y experiencia en el manejo de las siguientes tecnologías: node.js, nest.js ó express.js
+Conocimiento de Base de datos relacionales (MySQL, PostgreSQL...) y no relacionales (MongoDB).
+Herramientas para la construcción de catálogos de APIs (Swagger, GraphQL...)
+
+Deseables:
+
+Desarrollo en Angular para integrar APIs (no maquetación)
+Herramientas Integración continua
+Haber trabajado con metodologías ágiles, scrum.
+Conocimientos Google Cloud
+
+¿Qué ofrecemos?
+
+Muy buen ambiente de trabajo junto a un equipo de profesionales expertos en IT.
+Formación continua conciliada con un desarrollo profesional que depende únicamente de ti.
+Te ofrecemos la posibilidad de incorporar a proyectos atractivos con la mejor tecnología.
+Flexibilidad de horario.
+22 días de vacaciones más 1 día extra por cumpleaños.
+5 días más de vacaciones al cumplir el trienio.
+Los viernes salimos a las 15:00!
+Horario flexible de lunes a jueves de 8,30 horas y los viernes intensivos de 6 horas.
+Jornada intensiva de verano.
+Eventos anuales de equipo..
+Contrato Indefinido.
+Flexibilidad horaria para realizar trámites personales.
+
+¡Atrévete a formar parte de un gran equipo!

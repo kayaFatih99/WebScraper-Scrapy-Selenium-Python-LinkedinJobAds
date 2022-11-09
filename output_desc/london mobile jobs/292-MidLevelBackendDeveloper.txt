@@ -1,0 +1,64 @@
+About the job
+Introducing Spotlas
+
+Spotlas is a brand new social network revolutionising the way people discover, choose and experience spots all over the world.
+
+Follow friends, family, influencers, celebrities and locals in order to see all of their favourite spots around the world – from cafes, restaurants, bars & nightclubs to hotels, museums, shops and beaches.
+
+Any spot, any occasion, anywhere in the world.
+
+The Role
+
+We are looking for a talented and formidable Backend Developer to join our rapidly growing development team and to grow into a leading member of that team.
+
+The role will involve…
+
+Designing, implementing and managing the most powerful backend that we can conceive from top to bottom and without restrictions.
+
+Creating backend solutions to an extremely diverse range of problems which will challenge and grow your skill set in every direction.
+
+Working very closely with management, frontend developers, designers and the ideas themselves to have a complete understanding of and to contribute to the larger vision for Spotlas.
+
+Challenging the universally accepted coding practices with the ambition to contribute to the evolution of software development.
+
+You should have experience in….
+
+Go programming language - whether that is from learning in your spare time, creating your own projects, or working within a formal setting.
+
+Other scripting languages, such as Javascript, Java, NodeJs or Kotlin.
+
+Managing Linux based infrastructure, relational databases including postgreSQL & ELK stack.
+
+Strong understanding of the development cycle and programming techniques and tools.
+
+The perfect candidate will also have…
+
+An eagerness and excitement to learn and pick up new skills.
+
+The ability to learn and improve quickly.
+
+An extremely high level of attention to detail.
+
+Excellent communication skills.
+
+An excitement & appreciation for Spotlas, the platform and the startup environment.
+
+The desire to work hard and at a high level of intensity.
+
+Salary
+
+The starting salary for this role is £32k - £40k depending on the experience of the person we hire. In addition to this, you will have the opportunity to be enrolled into our employee share options scheme.
+
+Location
+
+Ideally we are looking for someone who will be able to commute into our offices in Marylebone on a flexible basis. We offer all of our employees flexibility with opportunities to work from home and for an exceptional candidate we would be open to offering fully remote work.
+
+How to Apply
+
+Email us at wasil@spotlas.com with a cover letter explaining why you want the job and why you think you will be great at it (max 200 words).
+
+Interview Process
+
+Technical Test
+Technical Interview
+Character Interview

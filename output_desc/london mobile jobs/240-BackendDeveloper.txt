@@ -1,0 +1,30 @@
+About the job
+Implementation of new product features in Back End and possibly some Front End.
+Create new and improve on existing algorithms, like our RPA orchestration algorithms.
+Full responsibility over code quality, performance and design choices.
+Participate in code and design reviews, teach and learn from other engineers.
+Help train and mentor junior developers.
+Be comfortable in helping to demonstrate our product to internal and external audiences.
+Be a lead-advocate for engineering quality - leading adherence to definition of done, and ensuring the number of stories coming back from QA are minimised
+
+Requirements
+Robust .NET Core Web applications development skill and excellent understanding of MSSQL.
+Windows Services in .Net Core development experience is an asset but not a requirement.
+Familiar with DevOps concepts and technologies such as CI/CD, configuration management, virtual machines or containers and cloud hosting services such as Azure, etc.
+Software engineering best practices knowledge (e.g. unit testing, code reviews, design documentation, SCRUM, Kanban).
+You have a curious mind that wants to learn about our customers and how we can provide value to them through our product.
+You have attention to detail and quality, but in an efficient and non-obsessive way.
+You are comfortable with getting into existing code bases.
+You are able to work independently when needed, and alongside teammates on projects, often at the same time.
+You are fluent in spoken and written English
+Though not essential any experience with vanilla JavaScript is advantageous, but may impress us further if you also know React
+
+Benefits
+Private Healthcare Plan
+Pension Plans
+Life Assurance
+Work From Home
+Training & Development
+Stock Option Plan
+
+For hires outside of the UK, Norway, and the US we will engage you via our Employer of Record, www.oysterhr.com/. They will employ you through their local entity and take care of paying your salary, all local taxes, benefits, your employment agreement, and full legal compliance. This gives you the comfort of being an employee with full rights and protection in your local jurisdiction whilst pursuing your role with us here at RPA Supervisor.

@@ -1,0 +1,37 @@
+About the job
+Opportunity to grow|Tech Consultancy firm
+
+About Our Client
+
+Tech Consultanfy firm located across EU, USA and Asia, with offices in Valencia.
+
+Job Description
+
+Write clean code to develop functional software components. Express your solid skills on JavaScript, HTML, CSS3 and modern web frameworks.
+Follow agile programming best practices, development conventions and adopt a DevOps culture.
+Stay up-to-date with open source trends and emerging frontend technologies.
+Give support in the architecture definition and design of the solution.
+Perform deployment, validations and verification testing.
+The Successful Applicant
+
+The Ideal Candidate Would Have/be
+
+Proactive, team-player, open-minded personality with a passion for open source, new technologies and agile software development.
+4+ years of hands-on frontend software development experience, focused in ReactJS (valuable Redux or Next).
+Solid knowledge in JavaScript / TypeScript (+ES6), HTML, CSS / SASS.
+Experience in Agile environments and Devops principles. Experience with Kubernetes, Docker or Jenkins is valuable.
+Knowledge of Jest and TDD is a plus.
+Good English and Spanish skills.
+You are based in Spain.
+What's on Offer
+
+Salary up to €52.000 annual gross
+Remote up to 100% and flexible schedule (you can work from 8 to 19h)
+Possibility to choose your work devices (HP or Mac)
+Flexible remuneration (health insurance...)
+Cool offices in Valenca city in case you want to work from there.
+24 days of vacation.
+English lessons.
+Contact: Arturo García-Serna
+
+Quote job ref: JN-102022-5802149

@@ -1,0 +1,59 @@
+About the job
+¡Hola! Te damos la bienvenida a MissCar, la app para compartir coche entre chicas de una ciudad a otra, ahorrando en cada viaje, disfrutando al máximo de la experiencia y que contribuye a reducir nuestra huella de carbono en el mundo.
+
+Nuestra misión es crear una Comunidad de mujeres viajeras basada en la confianza, para que vivan momentos y experiencias de forma auténtica, mediante el uso de soluciones de movilidad más sostenibles e inteligentes. ¡Ya somos más de 30.000!
+
+Buscamos un desarrollador/a full stack senior con ganas de afrontar nuevos retos, que le apasionen las líneas de código, que posea un perfil resolutivo, que tenga experiencia demostrable creando productos sólidos y que quiera unirse a la aventura de un equipo joven, dinámico y ágil.
+
+Apostamos por aquellas personas creativas, motivadas, ilusionadas y curiosas, que disfrutan de lo que hacen, que ofrecen soluciones, que tienen iniciativa propia y que son autosuficientes en sus funciones.
+
+Stack tecnológico principal:
+
+Desarrollo backend con Java Spring Boot
+Desarrollo frontend con React Native
+Gestión del CMS con React
+Infraestructura basada en AWS
+Control de versiones con tecnología Git
+Documentación de proyectos con JavaDoc
+
+
+Otras tecnologías recomendadas:
+
+MangoPay
+Alice Biometrics
+Firebase
+Analytics
+Amplitude
+AppsFlyer
+
+Las funciones que desempeñarás son:
+
+Desarrollo de la arquitectura del sitio web en PHP
+Desarrollo de la interfaz de usuaria y otros componentes en frontend
+Desarrollo de funcionalidades en backend
+Gestión de la subida de versiones a Google Play y App Store
+Gestión de bases de datos con MySQL
+Supervisión de la velocidad y escalabilidad del producto
+Tuning & debugging de nuevas compilaciones
+Gestión del tiempo con los entregables
+
+Lo que esperamos de ti es:
+
+Participar en las misiones del equipo de producto (desarrollos, revisiones de código, seguimiento de lanzamientos, soporte, etc.)
+Trabajar en colaboración con el equipo de producto (nuevas herramientas, enfoque de calidad, etc.)
+Proponer e implementar mejoras técnicas
+Participar en la vida tecnológica de la empresa (documentación, meetups, trabajo colaborativo, etc.)
+Contribuir en el desarrollo de un entorno de entregables de alta calidad
+Disfrutar del trabajo en equipo en un entorno ágil
+
+
+¿Por qué MissCar?
+
+Trabaja desde casa
+Horario de trabajo flexible, para que te puedas organizar como quieras
+Salario competitivo, dependiendo de tus cualidades, experiencia y trayectoria
+Contrato indefinido a jornada completa
+
+
+Escríbenos, ¡te estamos esperando!
+MissCar es una startup que ofrece igualdad de oportunidades y valora la diversidad. No discriminamos por motivos de raza, religión, color, nacionalidad, género, orientación sexual, edad, estado civil o discapacidad.

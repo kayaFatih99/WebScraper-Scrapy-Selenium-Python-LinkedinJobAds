@@ -1,0 +1,26 @@
+About the job
+This job is sourced from a job board. Learn more
+Contract | $80-120/hr | San Jose,CA
+
+One of the largest internet hosting companies in the world is looking for an ElasticSearch Expert. This is a contract, remote role.
+
+The responsibilities included with this role are overseeing a team of engineers and managing the infrastructure of their platform. The biggest focus points of this role include: ElasticSearch, and scripting/coding experience. If you have a focused ElasticSearch mindset then this is the role for you!
+
+Job Responsibilities
+Managing and maintaining the platform’s search infrastructure
+Trouble shooting and scaling
+Training the team of engineers in ElasticSearch
+Required Skills And Experience
+5-7 years experience with ElasticSearch
+3-5 years experience in one or some of the following coding/scripting languages: Ruby/Java/Golang
+Experience with Nomad(Nice to have)
+Experience with Kubernetes(Nice to have)
+Experience with Puppet(Nice to have)
+Experience with Terraform(Nice to have)
+Experience with Public Cloud Services: Azure/AWS/GCP(Nice to have)
+Tech Breakdown
+50% ElasticSearch
+50% Coding/Scripting
+Applicants must be currently authorized to work in the U.S. on a full-time basis now and in the future.
+
+Motion Recruitment Partners is an Equal Opportunity Employer, including EOE Protected Veterans/Disability/Women. All applicants must be currently authorized to work on a full-time basis in the country for which they are applying, and no sponsorship is currently available. Employment is subject to the successful completion of a pre-employment background screening including a criminal check. Accommodation will be provided in all parts of the hiring process as required under Motion Recruitment Employment Accommodation policy. Applicants need to make their needs known in advance.

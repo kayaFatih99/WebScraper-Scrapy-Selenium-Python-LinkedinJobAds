@@ -1,0 +1,93 @@
+About the job
+Backend/Frontend Software Engineer
+
+About this Job
+Type of job: Full-time
+Role: Software Engineer
+Experience level: Junior - Middle - Senior
+Industry: Mobility, Automotive, Banking, Utilities
+Company Size: 40 - 60 people
+Salary range: € 24.000 - € 45.000
+Job location: Rome (chances to work remotely)
+Language: Italian or English (fluent)
+
+Job description
+This job position is aimed at Backend/Frontend Software Engineers. Let's clarify what we mean exactly. At our company, a Software Engineer is expected to have cross-functional skills between backend and frontend. However, we are glad to hire IT professionals that are focused on one of these two sides specifically. If you will join our team, we will expect you to develop new skills also on the side you are less familiar with. This will be achieved through both training on the job and personal training courses tailored at improving your missing skills.
+We are looking for a smart person who is strongly goal-oriented and able to reason analytically. This profile should be able to collaborate with the other team members to solve all the daily challenges that will arise. They will have to use their programming and engineering skills to analyze the current code and improve it. They will also constantly collaborate to the improvement of our company processes. We expect to find a person who, before writing tons of code, dedicates the right amount of time to planning and modeling.
+We also expect you to keep a high code quality with a "living documentation" approach and high level code comments, in order to make collaboration with other team members as easy as possible. A very important skill for us is the ability to autonomously evaluate your own work and schedule code refactors when necessary.
+Finally, we expect you to autonomously evaluate and criticize the design choices you will work with day by day, actively contributing in evolving our projects and constantly aiming to improve both yourself and your team.
+
+Backend Software engineer
+The person we are looking for will work on two possible aspects of our system. On one hand, we expect you to develop a backend system made up of microservices. On the other hand, you might be working on what we define as "the backend part of our frontend", hence developing client-side code which does not include any graphical and user-facing part.
+
+Frontend Software engineer
+Frontend software engineers will work on client-side code. On one hand, we will expect you to develop the UI part of our clients (basically UI components using HTML and CSS), both Web, using mostly React, and mobile, using ReactNative. On the other hand you will work on developing frontend logics, including complex flows for the end user of our applications. We often use state machines to model frontend logics, if you are curious of how we do this, we can discuss this in detail during our interview process.
+
+Requirements
+Enthusiasm to solve complex problems
+Knowledge of most common design patterns and best practices
+Some knowledge of "Our working stack" section (scroll down)
+Basic knowledge of DevOps practices (UNIX scripting, Docker)
+
+Bonus points
+Computer Science or Engineering degree
+Open Source contributor
+StackOverflow contributor
+Academic papers published
+Cross-functional skills between backend and frontend
+
+Company overview
+Here at moveax, we have the ambition to be regarded as the best possible partner for any business that seeks help in facing the daily challenges of the tech world. We are proud to be the right people to interact with in the field of digital and cybersecurity. Over the years we have also gained great experience in the world of blockchain (digital assets, DLT) and artificial intelligence.We believe our main competitive advantage is having a team made of young talents who have a strong passion for technology. We treat every project for our customers with the same care we have for our own projects and we constantly try to improve our processes to achieve the best possible results. We are based in Rome, between Trastevere and San Pietro neighbourhoods.The main market segments we work in are: mobility and transportation, banking and finance, public administration.
+
+Your position at our company
+The person we are looking for will be part of our Digital business unit. This business unit is made up of 4 departments that work together to deliver the best possible products:
+Delivery dept.: handles project management and customer relations to support customer business and prioritisation
+Experience dept.: takes care of Service Design, UX and UI activities
+Engineering dept.: takes care of the architectural design and development of our projects. This is the department you are applying for
+Cloud & infrastructure dept.: handles site reliability, infrastructure and cloud services
+
+As stated, you will work at our Engineering department and will be expected to cooperate with the other departments listed above to deliver the best project possible.
+Our Digital business unit as a whole basically works in two directions:
+Providing our customers projects aimed at end-to-end digital innovation, working with the customer from project inception and definition up to project delivery, in an agile way
+Delivering company products in cooperation with of our Innovation business unit to launch highly innovative projects on the market, leveraging our internal practices, especially focusing on blockchain technology and AI
+
+Engineering Team
+The following is a description of an average member of our team:
+Quite young (around 30 years old): this does not mean we are not open to older collaborators, it is just an indication that we like to invest on young talents regardless of the years of experience they have
+Driven by great passion for technology: the ones who love their job perform better with less effort
+Open source and StackOverflow contributor: it's nice to take but it's also nice to give something back to the community
+Knowledge cruncher, the world runs fast and you have to stay up to date, read a lot and learning from those who have already faced a problem before you is definitely the right path to take
+Passionate about the UNIX-like world, what's better than knowing what's happening in your PC?
+Beer lover, it helps to think better :)
+
+Benefits
+Ask for a book, we'll get it
+Foosball and playstation
+Free beer on friday
+Free coffee
+Team building travels every year
+
+Our working stack
+Project management
+Issue tracking: Atlassian JIRA
+Team communication: Slack, rarely emails
+Metodology: Agile-Scrum, Domain Driven Design (DDD)
+
+Development
+The following list includes most technologies that we have been using on our projects. These is not meant to be an exhaustive list, as we plan to investigate new technologies and are open to different technologies based on project requirements.
+Version Control: GitHub, Bitbucket
+Frontend
+Frameworks: ReactJS with Redux, Angular, Vue.js
+Language: TypeScript
+Backend
+Frameworks: NestJS, NodeJS, Java Spring, Django, Laravel, very rarely .Net,
+Languages: Go, TypeScript, Java, Python3, PHP (only as a last resort), C# (if required by the project)
+Infrastructure:
+Cloud providers: AWS, Azure
+Containerization: OpenStack, Docker, Kubernetes
+Persistence, events, communication: MongoDB, Redis, PostgreSQL, Apache Kafka
+CI/CD: Bitbucket Pipeline, ArgoCD
+IaC: Terraform, Ansible
+
+Joel test
+Source control. One-step build. Daily builds. Quiet working conditions. Bug-tracking database. Best tools that money can buy. Bugs fixed before writing new code. Testers. Up-to-date schedule. Code screening. Specs. Hallway usability testing.

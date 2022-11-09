@@ -1,0 +1,43 @@
+About the job
+Our product is based in a high scalable, high performance micro services built with a NodeJS/MongoDB/Redis/AWS stack, supporting millions of visits and requests per day and real-time data services.
+
+As part of our growth in the crypto/DeFi ecosystem we look for people to reinforce our backend team with a new full-time position.
+
+Requirements
+
+- Proven leadership experience managing a technology team.
+- Software engineering background with several years of proven experience in software development and particularly in Web products.
+- Experience with NodeJS development for backend services and RESTful APIs.
+- Knowledge in NoSQL databases (ideally MongoDB) and Redis.
+- Good written and verbal communication skills in English
+- Experience with agile methodologies - SCRUM, Kanban, or similar.
+- Working with remote teams, contributing to paired programming and code review.
+
+- Bonus if you have experience in data analytics or Web3, DeFi, Blockchain
+
+- 100% remote and flexible schedule.
+- Bank holidays based on your location
+
+Responsibilities
+
+- Crafting new features as part of a multi-disciplined product team
+- Ensuring that projects are built to meet performance, security, and functional requirements
+- Assisting with testing, debugging, documentation, and overall quality assurance of projects
+- Mentoring junior developers in the team and planning their skill development
+- Acting as a technical leader for the assigned product team
+- Helping in setting up best practices for coding and conducting regular code reviews
+- Providing an estimated time to complete programming tasks/objectives and being committed to meeting them
+- Setting up processes while working in collaboration with other teams (internal or external) to efficiently meet the technical needs of the assigned project
+- Release flow management
+- Helping manage the Backend guild tasks and moving forward with more advanced tasks, including researching new technologies/approaches
+- Assisting in resolving technical issues reported by customer support
+
+Your day-to-day work will include
+
+- Leading and supporting the technology team.
+- Finding the right balance between time to market and software excellence.
+- Designing and implementing solutions to improve platform performance, stability and user experience.
+- Strategically plan all initiatives with the executive team to ensure that business objectives are properly aligned with the development of the software.
+
+Compensation
+$50-$80K / year

@@ -1,0 +1,101 @@
+About the job
+Senior Backend Engineer Remote Opportunity. We are looking for a volunteer, who strives to make a difference and contribute to making the world a better place.
+
+
+What you'll do:
+
+Design, discuss, code, test, and implement new features for our PWA.
+
+Develop, and support our PWA.
+
+Work closely and collaborate with a cross-functional engineering team and marketing team to develop features.
+
+Listen to customers, understand their needs, and represent them in delivering our product roadmaps.
+
+Propose methods and process improvements to increase developer velocity
+
+Requirements gathering on incoming requests.
+
+Writing database queries and stored procedures with complex relationships.
+
+Debugging platform as part of troubleshooting.
+
+Code reviews as a part of the software development lifecycle.
+
+Self-service functionality
+
+Utility servers such as SFTP or proxies
+
+
+
+About knowledge, experience, and skills
+
+5 or more years of experience in Python (Django framework).
+
+Familiar with task management systems (ClickUp)
+
+Desire to work in a dynamic start-up environment
+
+Strong interpersonal communication skills
+
+Experience in working in IT-startups / IT-companies will be a plus.
+
+Experience with cloud technologies
+
+Experience in remote work will be a plus.
+
+
+Recommended Profile:
+
+Be an open-minded person with life-healthy values, proactivity, reliability, courtesy, creativity, teamwork, and flexibility.
+
+Commit to your position as a Volunteer. As our company is looking for funding, you will not be paid, and there is no guarantee that we will succeed. This project is for volunteers.
+
+Be an expert in your domain but ready to wear multiple hats
+
+
+Our technical stack: Python (Django), Javascript (React.js), Typescript, PostgreSQL Heroku (later will be AWS or Microsoft Azure cloud).
+
+
+
+
+
+About Solution Social Network
+
+Solution Social Network (Solution) is an international company based in the US that is developing a new innovative social network of help. Currently, Solution has volunteers in 30 countries: USA, Canada, Brazil, Mexico, South Africa, Nigeria, Cameroon, Kenya, Rwanda, Egypt, UAE, Qatar, United Kingdom, Portugal, Germany, France, Bulgaria, Ukraine, Sweden, Denmark, Turkey, Iran, Iraq, India, Pakistan, Kuwait, Georgia and even Australia.
+
+
+We look forward to advancing global solutions capable of solving the most persistent global challenges.
+
+
+We are developing a social platform where people, groups, communities, institutions, non-profit/non-governmental organizations, and businesses can engage and collaborate to solve societal and personal issues related to healthcare, education, climate change, discrimination, work, business, etc.
+
+
+Our Mission
+
+
+Put simply Solution exists for a better world. We strive to improve the lives of billions of people by providing an innovative social network that connects, solves issues quickly, and drives positive growth for now and for future generations. We help anybody who is also on a mission to better the world.
+
+
+Our Vision
+
+
+We want to make the world a better place for everyone. We support people worldwide to unify their forces to resolve global and local issues that people, groups, communities, institutions, non-profit and non-governmental organizations, and businesses face every day.
+
+
+Learn more about us: https://www.linkedin.com/company/the-solutions-sn/
+
+
+Total Rewards
+
+Work with a multinational team experienced in different areas.
+
+Make a difference and contribute to international causes.
+
+Explore new areas of work with a striving IT Startup.
+
+Grow professionally and emotionally and interact with other experts in your domain of work.
+
+Working alongside an ambitious, kind, no-drama team
+
+Opportunity to work flexibly and remotely from anywhere in the world.

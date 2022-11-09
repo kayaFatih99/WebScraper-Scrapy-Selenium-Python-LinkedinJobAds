@@ -1,0 +1,39 @@
+About the job
+Sebastián Consultores selecciona para importante Partner de Software, especializado en CRM y herramientas de Gestión empresarial, un PHP FULLSTACK DEVELOPER para ampliar el equipo de desarrollo.
+
+La persona seleccionada se encargará de:
+
+– Desarrollo de nuevas funcionalidades sobre sistemas CRM (SugarCRM principalmente) con el objetivo de adaptar el sistema a las necesidades de los clientes siempre mediante la utilización de buenas prácticas de programación.
+
+– Realización de mantenimiento correctivo y evolutivos en proyectos existentes minimizando deuda técnica y evolucionando los sistemas para asegurar su sostenibilidad presente y futura.
+
+– Redacción de documentación técnica.
+
+– Desarrollo y realización de pruebas.
+
+Se ofrece:
+
+– Contratación indefinida en importante empresa puntera en su sector.
+
+– Formación sobre la herramienta (SugarCRM) si todavía no se conoce.
+
+– Desarrollo profesional.
+
+– Posibilidad de flexibilidad horaria.
+
+– Teletrabajo 100%
+
+– Trabajar en un equipo multinacional
+
+Requisitos:
+
+Formación académica: CFGS en el área tecnológica, Ingeniero Técnico/Superior Informático, estudios afines. Se valorará otro tipo de formación con experiencia suficiente en las funciones descritas.
+
+Experiencia de, al menos, 2 años en desarrollo de las funciones descritas con dominio de:
+Desarrollo web con PHP, Javascript, HTML y CSS.
+Experiencia con bases de datos MySQL.
+Experiencia con control de versiones GIT y con servicios web SOAP, REST
+Desarrollo en base a buenas prácticas y código limpio.
+Experiencia en metodología Agile.
+Conocimientos en herramientas de calidad de software.
+Experiencia en desarrollo bajo Frameworks (Laravel, Symfony, Zend, Yii..)

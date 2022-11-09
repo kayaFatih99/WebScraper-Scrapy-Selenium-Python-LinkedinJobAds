@@ -1,0 +1,34 @@
+About the job
+Back-End Web Developer - PHP
+Remote - Based in the UK only
+Salary: 40k - 45K
+
+WordPress & WooCommerce and various 3rd party systems on the Google Cloud Platform.
+As a Back-end Web Developer you will have a big influence on our technical platforms.
+
+Responsibilities:
+• PHP within WordPress, WordPress Plugins and Cloud Functions
+• Writing and modifying Javascript and Jquery code
+• Writing and modifying and maintaining the integrations with 3rd party systems via google Cloud Platform
+• Troubleshoot and resolve application issues, providing diagnostic, and analytical support
+• Plan and implement model data structures for scalability
+• Write secure code
+• Participate in all phases of the development life cycle
+• Work on the maintenance and improvement of existing data structures
+• Research, evaluate and analyse technical and design requirements
+• Troubleshoot and fix bugs/flaws to ensure servers are running optimally.
+
+Required Skills & Experience:
+• Proficient in PHP and PHP frameworks, HTML5, JavaScript, JQuery, SQL
+• Excellent relational database skills with MySQL
+• Version control (Git)
+• Composer and Package Control
+• Exposure to Google Cloud Platform
+o In Particular:
+o GSQL
+o Cloud Functions
+• WordPress / WooCommerce bespoke theme, customisation and maintenance
+• Customisation and use of WooCommerce
+• Working with REST APIs
+• Proficiency in presenting information to end users and business
+• Demonstrates close attention to details and accuracy

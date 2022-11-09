@@ -1,0 +1,38 @@
+About the job
+🌐 Sandbox is a multiplayer browser for teams and friends – an instant collaboration layer across the internet and everything in it, where everyone can interact equally and fully.
+
+No more passive screen-sharing or viewing content separately – instead, be together in the browser.
+
+We’re building something wildly ambitious, changing the way that people use the internet together and collaborate online.
+
+💡 The role, in short: Remote position in UTC±4h. $90-160k and 0.8-1.4% stock options in the company. Join a creative team building a thoughtful product to rethink human connection and collaboration at a distance.
+
+
+We’re looking for someone with:
+
+Crucial:
+
+The ability to lead and spearhead technical design and system architecture
+Willingness and ability to get hands on
+Strong AWS, EC2, Linux and Docker experience. Even better if you have shipped to production
+A systems-thinking mindset and an ability to understand the full stack
+The ability to start building, as well as to help hire and evaluate new members to join the team
+3+ years of TypeScript and ReactJS experience
+General familiarity with networking technology (HTTP, web-sockets, DNS)
+Excellent written communications skills (necessary for remote work)
+
+Desirable:
+
+Experience building real-time applications and deploying low-latency web servers a plus
+Experience working with Go, WebRTC, Terraform, Ansible, Amplify, Chrome extensions
+Experience writing automated tests
+
+
+Why should you care about this role? 🤷
+
+We’re creating something amazing. The collaboration experience has been held back for decades, and we’re finally here to change that. Be a part of fundamentally re-inventing what it means to work remotely.
+We’re building a tight-knit, world-class team. We invest a lot of energy into getting the cultural fit right, to build a high-performing team that enjoys what they do.
+A place where you can bring your ideas and preferences. We’re early in the process and you have the power to really make a difference here.
+We care about craftsmanship. We pay attention to the details and seek inspiration everywhere. Get the freedom and breathing room to do your best work.
+We're remote first. Feel free to live anywhere in the UTC±4h timezone. We always try to make life easy for you. We only do meetings when they're really needed so that you can stay in flow.
+We are backed by the investors behind Revolut and Hopin. We can count on a pool of investors that have built and played instrumental roles in iconic companies, including Figma, Microsoft, Flexport, Square and more.

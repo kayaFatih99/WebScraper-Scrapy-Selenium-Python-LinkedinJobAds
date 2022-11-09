@@ -1,0 +1,26 @@
+About the job
+Planhat helps companies deal with their most important topic - to grow their NRR. Modern technology companies build their business on Planhat to make their customers more successful. A single platform for the entire company, from CS to Product to Operations, to collaborate on.
+Our customers are active in a wide range of verticals from SaaS to cybersecurity, life sciences, marketplace, consulting, decarbonization, dental equipment, and every day trying to execute on their vision. They all partner with Planhat for their unique reasons, but with the common goal centered around becoming more data-driven and proactive with their customers. Our platform is like a lego set - assembled to each person's imagination and liking.
+
+What you’ll get:
+- Work on a product that helps companies solve their most strategically pressing issue - how do you reduce churn and grow your revenue?
+- Work with a small and fast-growing team, where everyone has a great attitude;
+- Flexibility in working hours/location;
+- Ability to influence tech/product decisions, small and large;
+- Working with modern tech stack: NodeJS (latest), MongoDB (latest or almost), VueJS, gcloud-based solutions;
+- You'll deliver fast. In the first few days, you’ll deploy your first bugfix, in the first month - you’ll deliver several impactful improvements; in 3-4 months - you’ll own a module/feature;
+- Working in a fast-growing company (yearly growth of 150% - 200%);
+- Hard work - high reward
+
+We also do not have a specific salary range, so feel free to share your expectations with us!
+
+Our expectations:
+- 4+ years experience in Full-Stack web development;
+- 4+ years experience in using JavaScript and Node.Js;
+- Good sense of building UI/UX;
+- Good business acumen;
+- Self-organizing and focusing on delivery;
+- Ready to contribute full-time;
+- Good communication skills (English);
+- Bonus. Working experience in B2B SaaS companies with multi-tenancy architecture;
+- Bonus. Experience with big data and high-load systems;

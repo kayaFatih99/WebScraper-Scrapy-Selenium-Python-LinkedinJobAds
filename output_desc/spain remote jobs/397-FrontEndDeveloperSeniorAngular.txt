@@ -1,0 +1,40 @@
+About the job
+Ready to join an outstanding culture that cares about diversity and inclusion, corporate social responsibility and gives the freedom to innovate, influence decisions, and chart an exciting career?
+CGI is more than just an IT company. Be part of a team that supports the local community with the ability draw on global best-in-class talent! Benefits include a share purchase program, profit sharing, wellness credits, training and development programs, and flexible work schedules and locations.
+
+
+The Project
+
+Our client, Telecommunications leader in USA, needs a talented Angular Developer with strong knowledge and expertise to deliver best-in-class Front End Solutions.
+As a developer, you will be joining one of the client’s Technology teams focus on Software Solutions in TELCO field. Day to day you will design, build, and test various application programs in accordance with a specified business need and in a way that achieves the development goals for assigned projects. You will join a project team in an agile environment and you will belong to multicultural and collaborative Squad.
+This position is based ONLY IN SPAIN.
+
+Required Qualifications To Be Successful In This Role
+Core
+5+ years of experience developing with Angular 9+,
+Fluent English
+Experience with NPM
+Experience developing with HTML + CSS.
+Used to work with Protractor, Karma/Jasmine or Jest.
+Used to work with Atlassian suite: Bitbucket, Jira, Confluence
+
+Needed
+• Google Analytics and Google Tag Manager.
+• AWS tools for virtualization
+Nice To Have
+• Angular JS, Bootstrap
+• JSON and RESTful API, Docker, Elasticsearch.
+• Maven as packaging tool.
+• Shell Scripts, Build Pipelines with several tools.
+• SQL and databases such as PostgresQL, Aurora, DynamoDB, Cognito
+
+
+Insights you can act on
+
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees "members" because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.

@@ -1,0 +1,26 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Proactive Staffing, is seeking the following. Apply via Dice today!
+
+Full Stack .NET Developer Development of Applications in an Agile/Scrum environment requiting the following skills:
+
+Must Have:
+
+SCRUM experience, Responsive Design / CSS Media Queries, HTML5, CSS, Bootstrap, JavaScript / NodeJS, React, ReactJS, Redux
+.NET (C#), .NET Core, ASP.NET MVC, WCF, WebAPI / Rest
+General: TDD / Unit Testing , SQL, REST, LINQ, DI/IOC
+Experience with backend database quires.
+Experience with Oracle / PLSQL and SQL Server
+Ant Design, React UI Components
+Must have excellent problem solving skills.
+Must be able to work independently on full stack development project for numerous application.
+Ability to complete tasks with limited assistance.
+
+Start: ASAP
+
+Location(s): Philadelphia, PA (100% remote)
+
+Type: Contract or CTH
+
+Duration: 6+ months with likelihood of extension
+
+provided by Dice

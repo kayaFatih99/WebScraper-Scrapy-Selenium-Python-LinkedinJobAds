@@ -1,0 +1,30 @@
+About the job
+Want to be part of building something totally new? Want to be member of one of the Great Places to Work® in Spain?
+Gofore is an international company with a strong presence in the private and public sector, driving digitalization and business transformation for our customers in Smart Cities, eGovernment, Industry 4.0, and many more.
+Our team in Madrid is looking for an energetic, open-minded, and curious person, who is always eager to learn more and help colleagues with continuous improvement.
+Your experience:
+You have a minimum of 5 years hands-on experience in the software development industry.
+You are experienced in one or more of these technologies: Spring, Typescript,Node.js, Ansible, Kubernetes, Docker, but you have been through so many different technologies that you are motivated to learn new ones.
+Front-end frameworks such as React, Angular or Vue are also familiar to you.
+You are comfortable to work with relational and non-relational databases.
+You love the elegant code that is easy to maintain and develop.
+You prefer working in teams but are not afraid to be the driver in projects.
+You have a customer-oriented attitude when communicating with non-technical people.
+
+Extra points if you have experience with:
+React Native, GraphQL, Gitlab CI, or microservices and queue messaging frameworks such as RabbitMQ, Kafka.
+Public cloud platforms such as AWS, Azure or GCP.
+Also, you know and appreciate the principles of software development and web application security practices such as OWASP.
+Experience in an international environment and experience with testing and agile methodologies such as Scrum.
+Benefits:
+Our team is the best in our field, and we offer a complete employment package:
+Competitive salary of +45K and a fixed contract.
+Flexible work schedule (8 hours per day including lunch time).
+Remote work mode.
+Restaurant & Transport tickets, and private healthcare insurance on top of your salary.
+Thirteen days a year for your own personal development.
+You choose to work with the latest MacBook Pro or Lenovo X1 models.
+Enjoy Nordic-inspired flat hierarchies, lean working methods, and cultural diversity in multidisciplinary teams.
+If all these things sound like your dream job, don’t hesitate to contact us! Apply here and join the crew!
+
+*Being fluent in English and have residency or working Visa in Spain is required for this position.

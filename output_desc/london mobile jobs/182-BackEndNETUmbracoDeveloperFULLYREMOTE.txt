@@ -1,0 +1,19 @@
+About the job
+This FABULOUS independent, award-winning digital agency is looking for a .NET / Umbraco Developer to join them where you will be working with global clients, from FTSE 100 multinationals to independent businesses.
+
+Must Have’s:
+
+C# / .Net / .Net core
+ASP.Net MVC
+Umbraco v8 – v10
+SQL Server
+Comfortable using Git & Visual Studio.
+A good understanding of JavaScript / HMTL5 / CSS
+
+Nice to have’s:
+
+Knowledge of Umbraco Heartcore or other headless CMS
+AngularJS
+Knowledge of Sitecore and Mailchimp
+
+For more information, please contact Peter Chick

@@ -1,0 +1,58 @@
+About the job
+Company Description
+SYSTEMIQ was set up in 2016 to drive the implementation of the Paris Agreement and the UN Sustainable Development Goals (SDGs) by transforming markets and business models in three key economic systems: land use, materials and energy. By addressing failures in these systems, SYSTEMIQ aims to unlock economic opportunities that benefit business, society and the environment. We do this through five activities:
+Convene and support coalitions of leaders to shape policies and business strategies that will rapidly transform economic activity;
+Work with companies that want to be pioneers in and drivers of change towards more sustainable systems;
+Co-create and incubate the market solutions most likely to build regenerative economic systems
+Invest our own venture capital and expertise in opportunities with the biggest potential to drive rapid system change;
+Direct larger pools of capital into regenerative economic systems, enabling them to scale and multiply.
+
+SYSTEMIQ is an equal opportunities employer. SYSTEMIQ’s recruitment and selection policy ensures the best possible skill mix of colleagues and the highest quality candidates are appointed using objective job-related criteria.
+In order to deliver in these areas, we recruit and develop distinctive and varied individuals who strive to achieve our mission, challenge the status quo and act as change leaders.
+
+ANALYTIQ — SYSTEMIQ’s Analytics Hub
+World-class analytics is not sufficient to drive true system-level change, but it is a necessary ingredient. As we scale, SYSTEMIQ builds out a robust and distinctive analytical capability and offering.
+SYSTEMIQ has already had big successes in the area of analytics, as shown in our work in the Mission Possible Partnership, Breaking the Plastic Wave, Plastic IQ, PlastSimulator, among several others. We are now looking to scale these analytical capabilities into one central analytics hub: ANALYTIQ.
+
+ANALYTIQ has four objectives:
+To be a driving force and catalyst of SYSTEMIQ’s mission through powerful analytics and tools.
+To make a significant contribution to SYSTEMIQ’s impact and economic success, while working collaboratively and supporting the objectives of other SYSTEMIQ platforms (energy, materials, nature) and impact vehicles.
+To create consistency and excellence in our analytical work by being the professional authority of anything analytics within SYSTEMIQ, also enhancing our ability to attract talent – like you, in this space.
+To strengthen and amplify our existing IP efforts by carrying over learnings, insights and data from project to project.
+
+Position
+We are looking for experienced Full-Stack Developers to join the newly formed analytics unit, ANALYTIQ, on contract base or as fulltime employees. ANALYTIQ will provide first-class analytical models, data tools and web apps for a variety of topics across all our platform areas.
+Working in our software team you will leverage our modelling and analysis work to build world-class tools that support and guide decisions for system change by some of the largest and most influential stakeholders in our economic systems.
+You will develop insight into our deep domain knowledge on a broad range of sustainability topics and get a chance to work with some of the most prominent institutions in the field. Our highly strategic work aims at significant impact over the next 3-5 years. It requires advanced problem solving, analytical and relationship skills to deliver breakthrough insights, action and results.
+
+Requirements
+SYSTEMIQ is looking for individuals with a strong record of analytics, achievement and disruptive impact in solving complex problems. You have proven results in different contexts and are keen to work in a young, entrepreneurial company where you can get involved in a variety of work and achieve maximum impact. You are passionate about SYSTEMIQ's mission and approach to system change.
+
+Responsibilities:
+Develop decision support tools to accelerate and scale system change
+Build other sustainability-related products across SYSTEMIQ platforms
+Building data solutions, component libraries and writing documentation
+Contribute to architectural and design decisions taken for future products
+
+Skills / Experience:
+Strong quantitative background with a BSc degree in computer science, mathematics, physics, engineering or an equivalent area
+2+ years of experience or graduates who have done significant work during studies incl. engineering practices such as design-driven development, CI/CD, building highly scalable applications, application security
+Programming experience in Python or other languages
+HTML/CSS and TypeScript/JavaScript experience incl. current tooling and frameworks like Angular.js, Vue.js, React.js, Htmx
+Desirable: Experience with configuration management (e.g. Ansible, Nix/NixOS), cloud providers (e.g. AWS, Azure, GCP) and containerization (e.g. Docker, Kubernetes)
+Desirable: Experience with relational and non-relational databases (e.g. PostgreSQL, SQLite, MongoDB, Elasticsearch)
+Desirable: Experience in building and deploying RESTful API services
+
+Applications from current residents will be considered:
+Amsterdam/Munich/ London/
+
+Disclaimer: Please ensure you are legally eligible to work/live in your location when applying for this role. Visa sponsorship or relocation costs will not be provided.
+
+Diversity & Inclusion
+
+We believe that diversity and inclusion are at the heart of system change and the mission we have set ourselves. So, we commit ourselves to:
+Embedding diverse and inclusive ways of working from day to day. This includes recruitment, performance management, and people processes and policies.
+Providing a supportive environment. We want people to be themselves and be at their best, regardless of their background, personality, gender, sexual orientation, race, mental health, religion, or other characteristics.
+Enabling a long-term, sustainable approach to work and life more generally. We want to support our people at all stages of their lives – as parents or caregivers, through changing life circumstances – and to accommodate personal priorities where they matter most.
+Reward and Recognition
+The remuneration and benefits package will reflect the successful candidates' experience and the country where hired.

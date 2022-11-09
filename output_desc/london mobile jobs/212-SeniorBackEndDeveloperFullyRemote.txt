@@ -1,0 +1,72 @@
+About the job
+NO AGENCIES PLEASE
+
+The Company:
+
+1account was founded in 2018 and has created a real-time, eKYC platform to validate consumers’ identity and age. Businesses offering age-restricted products and services have responded well and the product is widely used in the UK. The company is continually refining its product and seeking to expand internationally. The company has also built a Rapid Registration/Checkout solution for previously-verified consumers which facilitates registration and validation in a single click - an industry first. They have also brought to market a very exciting new Digital ID app (search for 1account in your app store) which consumers can use to prove age and identity themselves both online and offline. The app has approval from Trading Standards and has participated in a Home Office Sandbox for testing new technology for alcohol sales.
+1account is also part of DCMS’ Digital Identity Trust Framework working group and the Home Office Sandbox trials for use of innovative technology to verify age of consumers.
+Finally, the business has procured an advisory board of impressive quality including ex-C-level execs of William Hill, Jockey Club, Booker Cash & Carry and ex-government regulatory officers. The advisory board sits above a growing team, currently 25 strong.
+
+Now you have the chance to join the team: we are looking for capable Senior Back-End Engineers to join the team. Our need to grow is urgent - we are ready and waiting to hear from you as soon as you are able.
+
+The Role:
+
+Conversational fluency in Russian language is an essential for this role.
+
+We are looking for Senior Back-End Engineers with 3 to 5 years’ experience working with Java and AWS.
+
+● We adhere strongly to the startup mindset - we use the best tech, we build quickly, we fix forwards, iterate based on feedback and involve engineers from ideation to user feedback
+
+● You will largely be building new features for existing products, or building new products - but there is always maintenance, of course
+
+● We follow agile processes; roadmap to backlog, two week period, fortnightly retro and planning, daily standups
+
+● You will work in a cross-functional squad of engineers reporting via a Lead Engineer to the CTO
+
+● You will participate in planning and grooming sessions - our engineers decide how best to implement product features - and may even offer suggestions as to how features will work
+
+● We try to avoid specialization, to avoid knowledge silos - you will be expected to cross-review and pick up work right across the product suite
+
+● Team is primarily London-based, but with some team members elsewhere in Europe - we work remotely.
+
+The Candidate:
+
+● You are a Senior-level engineer - that is three to five years’ experience in commercial roles
+
+● You create clean, testable and well-documented code - and always leave existing code in a better state than you found it
+
+● We are looking for someone who is ready to join a team and contribute for the medium term at least - this is not a contract - we are in this for the long haul - and hope you are too
+
+● You keep up to date with new and emerging technology and identify opportunities for its commercial application
+
+● Because we are looking for people who can engage in the whole product process from time to time, we are looking for people able to think commercially, analyze and communicate
+
+● We don’t like chaos and run an organized backlog with good roadmap visibility - but sometimes stuff gotta get done in a hurry - you have to be ready to lean in when needed
+
+● Ready to participate - you need to be ready to bring ideas to the game - if you think we could do something better, faster, more elegantly, less elegantly! Then we are ready to hear your opinions
+
+Key skills:
+
+We love AWS, and where possible use their services to save time, do the heavy lifting and increase reliability. You should be familiar with most of these:
+● Java 11
+● AWS - key areas being DynamoDB and Lambda
+● Gitlab CI/CD
+● Java 8/11
+● DynamoDB
+● Cognito
+● Serverless Framework
+● RESTful APIs
+● Microservices
+● AWSMicroservice development
+● Document oriented databases
+● Integrating APIs from external providers
+
+Recruitment Process:
+
+The company will operate the following interview process.
+
+1. A quick introductory call with our CTO or Lead Engineer
+2. Technical interview with other members of the engineering team
+3. Face to face interview with our CTO and another member of the senior team
+
+We try to onboard at speed - we will prioritize our calls and meetings with you.

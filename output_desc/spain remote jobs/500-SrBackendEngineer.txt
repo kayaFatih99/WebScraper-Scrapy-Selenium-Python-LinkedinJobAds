@@ -1,0 +1,48 @@
+About the job
+Recently named ‘Adweek Creator Agency of the Year, Whalar is a global, award-winning creator commerce company that works closely with today’s biggest brands, content creators, and world-leading social platforms to deliver innovative and creative content. We differentiate ourselves by our unique capabilities, including proprietary technology, brand partnership expertise, brilliant creator talent management, and dedicated Web3 innovation practice.
+We believe this is a rare chance to join a truly special team and to help us shape the future of a highly respected, growth-oriented business that is committed to doing well by doing good.
+
+Location/Remote
+This role is tied to our Malaga Office but can be remote and sit anywhere in Spain. We are also open to candidates who are EU citizens and want to relocate to Spain.
+
+Experience
+A minimum of 3+ years of backend software development experience (i.e. PHP, C++, Python, Java, Golang, C#, etc.)
+Understanding of microservices architecture and best practices
+Solid knowledge of REST APIs and web service architecture
+Proven experience using best practices (SOLID, Clean code, TDD)
+Experience writing unit and integration tests
+Experience using Symfony or Laravel frameworks
+Experience using Docker
+Experience using code analyzer tools (phpstan, phpmd, sonar, etc)
+Good command of written and spoken English
+
+Bonus Points:
+Experience with PHP 7.4+ and Symfony or Laravel frameworks
+Experience using code analyzer tools (phpstan, phpmd, sonar, etc.)
+Experience with RabbitMQ or Kafka
+Knowledge of Python or NodeJS
+Experience Elasticsearch
+Experience using AWS
+
+Soft skills:
+Self organiser
+Good communicator
+Problem solver
+Curious by nature with an attention to detail
+A contributor - everyone in our team has a voice
+
+Our values:
+Our people are our superpowers. At Whalar, diversity, equity, inclusion, and accessibility are at the core of who we are. We are deeply committed to reflecting on the unique journeys, authentic voices, and perspectives of our people, our creators, and the communities they represent. Our hope is to impact accessibility beyond compliance and help break societal stigmas and stereotypes. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for everything creator, we want to meet you, and we encourage you to apply.
+
+The perks:
+Whalar is a remote-first working environment, providing our employees with the flexibility to be their most creative and successful versions of themselves. Whalar is located across 18 states in the US and 6 countries including offices in London and Málaga, Spain. Whalar provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs.
+Remote-first company (but if you are around Málaga we also have an office available if you wish to go)
+Flexi-working hours approach
+25 days’s PTO per year + Winter break (between Xmas and NY’s) on top of your PTO to refresh
+Yearly professional development allowance for your job-related development
+One-off home office set up allowance to help you get comfortable with your home office setup + Monthly teleworking allowance
+Private health insurance for you paid by Whalar
+English language development classes
+Full subscription with Calm and FWR Progress apps
+Volunteer days available
+Whalar provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Equal opportunity extends to all aspects of the employment relationship, including hiring, promotions, training, working conditions, compensation, and benefits.

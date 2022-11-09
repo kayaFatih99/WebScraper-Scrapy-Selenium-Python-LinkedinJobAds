@@ -1,0 +1,28 @@
+About the job
+¿Quieres formar parte del #TeamPanel?
+
+Estamos buscando ampliar equipo con un desarrollador backend con NodeJS (Typescript / Javascript) y con al menos 5 años de experiencia con conocimiento solvente en Metodologías Ágiles.
+
+Requisitos de la oferta...
+Desarrollador backend con NodeJS (Typescript / Javascript).
+Experiencia en Reactjs
+Experiencia en metodologías de desarrollo ágiles.
+Experiencia con ecosistema Atlassian (JIRA Confluence).
+Control de versiones con repositorios Git (Github Gitlab) y GitFlow (creación de ramas proceso release solución de bugs y hotfix).
+Calidad en el desarrollo código limpio uso de patrones de programación.
+Experiencia en TDD AWS serverless
+Conocimiento en Microservicios y Microfrontends
+Lugar de trabajo
+
+Remoto
+
+Qué te ofrecemos
+Impulsaremos tu Talento con un Plan de Desarrollo Profesional y Programas de Tutoría individualizada.
+Completo Programa de formación que incluye desde programas de especialización técnica hasta idiomas habilidades en gestión de proyectos metodologías ágiles y certificaciones. Tanto on-line como presencial.
+Políticas de conciliación como el Teletrabajo en modo full-remote jornada continua los viernes y en verano flexibilidad horaria días de permiso en navidad y facilidades para la movilidad geográfica de los empleados.
+Beneficios sociales como retribución flexible complemento al 100 de bajas médicas condiciones especiales en seguro médico privado o Tarjeta VISA empleados.
+Nuestra empresa es hoy referencia en el sector del Software Quality Assurance participando en varios proyectos de investigación a nivel europeo y con muchos más proyectos sobre los que podrás diseñar una trayectoria profesional a largo plazo. Aplica y nos conoceremos.
+
+NodeJS, Typescript, Javascript, TDD, AWS, GIT, GITFLOW
+
+df4311b052ab432c4b4f

@@ -1,0 +1,45 @@
+About the job
+Descripción
+
+Somos ARATECH, Lifestyle Technology
+
+Nuestro objetivo principal es proveer servicios informáticos de última tecnología a nuestros clientes. La innovación, creatividad, transparencia, capacidad de adaptación, atención al cliente y vocación de servicio son las características de nuestro equipo.
+
+El grupo de profesionales que trabaja en ARATECH tiene como misión ofrecer las mejores soluciones a nuestros clientes trabajando junto a ellos en su Transformación Digital para proveer del mejor asesoramiento estableciendo una colaboración estrecha.
+
+Actualmente buscamos 1 Desarrollador/a Frontend con experiencia en soluciones de software que se unan a nuestro equipo joven y dinámico.
+
+¿Qué ofrecemos?
+
+Muy buen ambiente de trabajo junto a un equipo de profesionales expertos en IT.
+Formación continua conciliada con un desarrollo profesional que depende únicamente de ti.
+Te ofrecemos la posibilidad de incorporarte a proyectos atractivos con la mejor tecnología.
+Flexibilidad de horario.
+Teletrabajo.
+22 días de vacaciones más 1 día extra por cumpleaños.
+5 días más de vacaciones al cumplir el trienio.
+Los viernes salimos a las 15:00!
+Horario flexible de lunes a jueves de 8,30 horas y los viernes intensivos de 6 horas.
+Eventos anuales de equipo.
+Flexibilidad horaria para realizar trámites personales.
+
+Requisitos:
+
+Lo que necesitamos de ti:
+
+Al menos 2 años de experiencia desarrollando con JavaScript, con framework Angular.
+Experiencia en desarrollo front con HTML5, CSS3.
+Dominio de Javascript.
+Experiencia en Maquetación mobile first o responsive
+Experiencia en trabajar con Metodologías Ágiles (Scrum) dentro de un equipo de 3 a 5 personas.
+Capacidad de adaptar el código ya realizado y creación de código nuevo.
+Integración de APIs y saber leer documentación en Swagger o GraphQL
+GitLab, GitHub o Stash.
+
+Deseable:
+
+Conocimiento de diferentes frameworks de javascript como Vue.js o React.js.
+Conocimiento para ver proyectos creados en Figma y Zeplin (herramienta de diseño)
+Conocimientos de integración continua.
+Experiencia trabajando en proyectos gestionados con plataforma JIRA
+Inglés (B2)

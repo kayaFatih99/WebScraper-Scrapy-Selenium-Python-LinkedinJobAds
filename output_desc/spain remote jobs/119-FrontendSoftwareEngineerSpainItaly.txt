@@ -1,0 +1,77 @@
+About the job
+As a Frontend Software Engineer, you’ll work on cutting-edge technologies to design, scale, and maintain Frontend applications using Vuejs and React. TUI Musement Frontend architecture is mainly based on our home-made Shared Components Architecture, which is intended to provide an highly reusable set of components. TUI Musement’s backend architecture embraces the “backend for frontend” pattern. This approach allows us to easily connect our backend to a bunch of different client applications: SPA, mobile app, or other backend systems.
+
+About The Job
+
+You will be a key part of a team that owns all phases of the product development life cycle, from conception to delivery to customers.
+You will be required to collaborate with system architects and product managers to deliver high-quality technical solutions.
+You’ll work on cutting edge technologies as well as mature technologies to design, scale, and maintain our backend architecture.
+You’ll develop high-quality backend code with a strong focus on automated testing.
+You’ll participate in code reviews to guarantee high software quality standards and consistency across the codebase.
+You’ll participate actively in our SCRUM ceremonies to plan sprints, estimate tasks, and continuously improve our methodology.
+You will report to the Engineering Manager.
+
+About You
+
+Good knowledge of vanilla JavaScript, TypeScript and modern Frontend frameworks (Vuejs and React).
+Previous experience with Webpack, or other tools needed to build/bundle JavaScript applications.
+Experience with REST API implementation and Open API.
+Product engineer mindset: good understanding of the entire product development process (design, development, and deployment).
+Passion for software development and the ability to communicate and collaborate at all levels of the organization.
+Agile methodologies knowledge.
+Deep focus on automated tests (unit, functional, integration).
+Familiarity with CI/CD development process.
+Familiarity working with AWS cloud solutions (S3, Cloudfront).
+Good understanding of the entire web development process (design, development, and deployment).
+Previous experience with Nodejs and Express, Progressive Web Apps are considered a plus.
+Bachelor’s or master’s degree in Computer Science/Engineering or equivalent.
+
+Level of Experience :
+
+For this position we’re hiring two seniority levels:
+
+Software Engineer
+
+Good knowledge of the testing pyramids and writing testable code which includes edge cases.
+In the context of team's domain, works productively in that portion and uses a systematic approach to debug issue within a single service.
+Understands the importance of security. Utilizes this knowledge to ask more senior engineers for help on making decisions that may have security implications.
+Sizes tasks appropriately, considering prioritization and dependencies, by delivering small features in small batches that are relevant for the customer.
+Understands the importance of the CI/CD principles and actively contributes to improving its implementation.
+Easily deals with uncertainty effectively, by acting responsibly even without having the total picture.
+Mentors Junior teammates and conveys to other team members valuable feedback in line with company and Product strategies.
+Having a basic understanding of their team's domain and how it contributes to overall business strategy.
+
+Senior Software Engineer
+
+Everything mentioned in Software Engineer plus:
+
+Consistently writes production-ready code that is easily testable. Constantly strives to make it readable by refactoring appropriately.
+Is aware of the organization's monitoring philosophy and uses systematic debugging to diagnose cross service issues.
+Consistently designs code that is aligned with the overall service architecture.
+Approaches all engineering work with a security lens. Actively looks for security vulnerabilities both in the code and when providing peer reviews.
+Ensures their commitments are realistic, understands their priority and urgency, and delivers upon them accordingly.
+Delivers feedback to their team's business stakeholders when opportunities arise.
+Helps their teammates overcome obstacles, resolve blockers, and complete work tasks.
+Enabling redundancy and backfill ability.
+Actively contributes to improving processes within the team.
+Understands the organization's engineering strategy. Usually involved in discussions about the implications for their team.
+
+Growth path :
+
+At TUI Musement we have set standards for placing people in specific roles and levels of experience. We are very keen to ensure that everyone recognizes himself in the role with the level of experience he deserves. For this purpose, we have adopted a matrix of skills that we use to accompany people to progress in their career path by setting specific personal goals for each one.
+
+About Our Offer
+
+Being a valuable team member of TUI, the No.1 global and socially aware travel company.
+Competitive salary and benefits.
+TUI Musement operates in over 115 destinations, offering more career opportunities than any other travel company.
+Clear and transparent growth path within the TUI Musement Engineering Career ladder.
+Develop yourself by working as part of an international team and through our free global learning and development program including free language lessons and various Management Development Programs.
+
+TUI Musement is a leading Tours & Activities business. It combines a scalable digital platform with local service delivery, to offer excursions, activities, tickets and transfers in more than 50 countries worldwide. There are over 130,000 'things to do' in all major holiday and city destinations, which are distributed through B2B partners, via the Musement and TUI websites and direct to TUI customers. We also offer services to cruise lines through Intercruises Shoreside & Port Services in port worldwide. TUI Musement sold around 10 million excursions, tours and activities delivered by our international colleagues located around the world and is one of the major growth areas of TUI Group.
+
+In 2018, TUI's Tours & Activities division acquired Musement, a leading traveltech start-up. Following a two-year transition period, both became one fully integrated business - known as TUI Musement - combining the global reach, strong resources and high quality in-destination service delivery of TUI, with the digital capabilities, agile working methodology and start-up mindset of Musement.
+
+If you want to know more about why TUI Group is the world’s leading tourism group, and our continuing work in the diversity & inclusion space, simply visit careers.tuigroup.com
+
+#TUIjobs #TUIMusement

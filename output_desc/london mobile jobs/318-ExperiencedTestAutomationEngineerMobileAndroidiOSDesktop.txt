@@ -1,0 +1,74 @@
+About the job
+Founded in 2014 in London, United Kingdom, Garrison has raised more than $50m to date from London investors including Dawn Capital, IP Group, NM Capital and BGF. Garrison's strengths lie in its experienced and dedicated teams, building on years of expertise in cyber security to bring genuinely game changing technology to the industry.
+
+Garrison is working to build the future of cyber security and is already deploying at scale in both the government and commercial space. Our existing customers are large organisations averaging over 50,000 employees each, across sectors including banking, insurance, media, telco, law and government.
+
+
+Our working culture
+We are an exciting start-up with ground-breaking technology; a very serious mission to solve real world problems, but with a positive and highly inclusive atmosphere, and an excellent work/life balance!
+
+At Garrison we celebrate diversity and inclusion, and we're focused on continuously improving equality for the benefit of our employees, products and community. We recruit, develop and retain talent purely on the basis of qualifications, merit and business needs.
+
+We are proud to be an equal opportunity employer and we take every possible step to ensure that every person employed or seeking employment with us receives fair treatment. No-one shall be disadvantaged on the grounds of age, disability, gender, ethnicity, religion or belief, sexual orientation, marital and parental status, neurodiversity, social background, physical ability, illness or otherwise.
+
+Our employee benefits are as follows:
+25 days holiday allowance per year (with the opportunity to purchase more)
+Company pension scheme of 8% base salary (depending on minimum contribution)
+Personal annual training budget
+Share options
+Perkbox discounts
+Life assurance and critical illness cover
+Employee Assistance Programme
+Enhanced parental leave
+Income protection
+Cycle to work scheme
+Interest-free season ticket loans
+Flexible working hours and working from home options
+Daily fruit, snacks and drinks in our offices
+Regular socials - such as games nights, quiz nights and company picnics
+
+
+Overview of the role
+As a Test Engineer at Garrison, you will be instrumental in improving the test workflows, practices and processes employed by the User Experience engineering team and working as part of the team to ensure high quality of the Garrison solution throughout the development lifecycle, directly influencing the efficiency and success of the wider Engineering department.
+
+The User Experience team's technology stack ranges from low-level embedded software to mobile and desktop applications, including bespoke versions of the Android OS and Chromium browser, and you will have the opportunity to work with talented engineers in each of these areas, learning about the technology and applying your core skills and experience in testing on those environments.
+
+You will focus on functionally testing the product during development and release cycles, ensuring that the quality of the Garrison solution always remain at a high standard.
+
+You will also have the opportunity to learn about automation and develop, maintain, and run new and existing automated tests, as well as develop tools, methods and infrastructure to make our test practices as effective and efficient as possible.
+
+Garrison has a challenging, supportive and fast-moving working environment with a huge opportunity to learn about different technologies, develop new skills and set out on a range of career paths.
+
+
+Key Responsibilities
+
+Test capability development
+Enabling User Experience engineers at Garrison to effectively test new features by providing support during development.
+Expanding coverage of both feature and regression test suites, aiming at improving the quality of test outcomes.
+Generate test reports that show trends and coverage over time.
+
+Supporting innovation
+Promoting a "Testing mindset" and accelerating the adoption of new tools, workflows and best practices across new and existing projects.
+Coordinating with multiple teams at Garrison for integration testing.
+
+Quality and Security assurance
+Assuring the quality of the product by working with developers to ensure new features are properly tested, and that the product doesn't suffer from regressions.
+Recognising the industry that Garrison operates in, and appreciating the importance of following Garrison's information security policies.
+
+
+Skills and Experience
+Any experience with scripting and automation is beneficial.
+
+You'll be perfect for the role if you have the following:
+Strong experience in testing desktop and mobile applications manually and willing to learn and implement automation.
+Experience of working in a multi-disciplinary engineering team, with a passion for improving engineering workflows and quality, working across teams to embed rapid feedback into engineering practices.
+Designing and executing test cases (automating them is beneficial).
+Testing of desktop applications (Windows / Linux).
+Testing of mobile apps (Android / iOS).
+Understanding of a wide range of development tools and technologies, including issue trackers, IDEs, source control systems, continuous integration tools etc.
+Understanding the different types of tests that should be run at different points in the development cycle (e.g. unit, component, integration, end to end).
+Exposure to and interest in programming for test automation.
+
+And experience in these areas would be a massive bonus (but don't worry if you've not covered these yet!)
+Experience of developing test tools and automated tests that are used to verify and validate product features prior to release and are run during continuous integration pipelines. Experience with scripting (e.g. Python) or knowledge of a compiled object-oriented programming language such as C++ or Java/Kotlin.
+TDD & BDD.

@@ -1,0 +1,31 @@
+About the job
+About the company
+
+hackajob is partnering with albelli and Photobox Group which have merged to create a leading player in the online European Photo Product and Gifting market. Together they now serve a pan-European customer base of over 7 million customers, supported by our 1,150 colleagues across the United Kingdom, the Netherlands, France, Spain, Germany, Norway and Sweden. They are focussed on inspiring our customers to easily make beautiful photo products and bring their special moments to life.
+
+Responsibilities:
+
+The Photobox mobile apps team have recently completed their first steps in creating a brand new experience for our customers. We’re excited to improve on this and continue being the best way to order personalised gifts on mobile.
+You will mostly be using Swift with a small helping of Objective-C on the side, ensuring that all code is tested to the appropriate standards to allow us to ship regularly and owning your tasks from refinement to delivery
+
+The impact you’ll make:
+Develop and maintain our iOS apps as part of the mobile apps team.
+Regularly ship apps in an environment where teams are free to shape the direction.
+Work within a close-knit, cross-functional team, and share your skills in a team that supports and values sharing knowledge
+Be ready to eat great street food and share super interesting facts about the world when it’s your turn at our daily stand-ups.
+
+You will be working in a relaxed, social environment with a team who are excited to embrace challenges, conventional or otherwise. The team love learning new things and sharing what they are doing, so if this describes you and you’re ready to try your hand at something different, get in touch!
+
+You'll require:
+
+iOS development - Swift and Objective-C (We are mostly moved over to Swift but there’s a little bit of Apple’s older language around.)
+Git and GitHub
+Experience retrieving and sending data to remote systems
+
+As a plus: experience with TDD, AWS, Firebase, Scrum, and Android development (Kotlin/Java)
+
+This role is also available as home working with travel to the office 3-4 days per sprint.
+
+*This role requires you to be based and eligible to work in the UK.*
+
+If you are interested in discussing this great opportunity, please apply directly or send me a private message!

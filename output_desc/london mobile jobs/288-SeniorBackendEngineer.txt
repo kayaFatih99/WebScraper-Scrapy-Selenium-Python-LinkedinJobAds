@@ -1,0 +1,70 @@
+About the job
+Working Location
+We are a mixture of remote and hybrid working. Our primary location and only hybrid office is in London and we have remote teams across locations globally which overlap well with the GMT time zone.
+
+Applicant requirements
+Able to overlap with the GMT UK timezone and hours of 10am - 5pm
+Our common company language is English and applicants must be able to communicate in this language fluently
+Must be able to travel to London for in person company events/workshops 2-5 times a year without a requirement of a visa or long haul travel
+
+What we are looking for
+We are looking for a Senior Backend Engineer who will be reporting to our Technical Delivery Manager. You will build and maintain technology to support the studio and teams across Drest. You will work in close collaboration with our game teams and enjoy a creative, challenging and collaborative workplace where your ideas will be every bit as valued as your programming expertise.
+You are passionate about new technologies, system development, large scale systems and ideally games! Naturally proactive, you will actively contribute with ideas and solutions and thrive working in an ever-evolving environment as Drest grows, both as a product and company.
+
+What you will do..
+Design and implement new systems, services and features.
+Write magnificent code and review your peers’ in a collaborative environment using proven design patterns and experiential wisdom.
+Make quick, sound estimates and propose alternatives to save on implementation time.
+Identify and drive codebase improvements with your peers.
+Plan against and tackle new challenges that arise during development.
+Optimize our stack for performance and scalability.
+Identify and evaluate new technologies that help us grow the business.
+Work closely with your Technical Delivery Manager to deliver features for the teams across Drest.
+Participate in knowledge sharing sessions to improve the team’s knowledge and experience through learning and sharing.
+Collaborate and communicate with other teams to define and build features to meet expectations.
+Contribute to a positive development culture and create a safe and inclusive environment for all.
+Adapt and grow with Drest, a dynamic environment and regularly learn and share.
+
+What you will bring..
+Development experience supporting a live product in a fast-paced environment.
+Proficient in architecting, designing and implementing server-side components, features and systems for a scalable live product.
+Expertise in at least one server-side language (e.g. Node/Typescript, Python, C#, Java, PHP) with a desire to develop in Typescript.
+Experience with relational databases (e.g. PostgreSQL, MySQL), NoSQL databases (e.g. DynamoDB, Couchbase) and caching technologies (e.g. Redis).
+Experience in designing, implementing and working with APIs and microservices.
+Excellent understanding of software engineering fundamentals (design patterns, architecture at scale, maintainability over time, data structures, robust API design, etc.).
+Strong understanding of CI/CD processes and proficient in the use of source control solutions such as GIT.
+Good grasp of Agile principles and methodologies (Scrum, Kanban).
+Ability to work independently and as part of a larger team.
+
+What else you could bring but is not essential..
+Experience with AWS or other cloud service providers.
+Experience with Terraform.
+C# and Unity Knowledge.
+Client development experience.
+Familiarity with game architecture and technologies (gameplay, economy, graphics, etc.).
+Good understanding of the challenges involved in maintaining, iterating and scaling a product.
+Experience supporting the implementation of 3rd parties SDKs (e.g. Facebook, Firebase, etc.).
+Experience with asynchronous, multi-threaded, parallel programming paradigms and other techniques to maximize responsiveness and do operations in the background.
+Experience with industry-standard bug reporting software such as JIRA.
+A passion for games, including mobile.
+Bachelor’s or Master’s degree in Computer Science, or equivalent.
+
+What you will get in return
+A competitive salary
+Private Medical Insurance
+Dental, Optical and Hearing cover
+Cycle Scheme
+Life Assurance
+25 days annual leave + Local Bank Holidays
+Birthday Leave
+Cross-team learning opportunities
+Hybrid/Remote working options
+
+More About DREST
+DREST is the world’s first interactive luxury lifestyle & styling game, combining state-of-the-art technology with a luxury fashion and beauty styling experience that has real-time content at its core.
+We are an award-winning fast-growth digital platform led by industry experts from the tech, luxury fashion, gaming and e-commerce worlds.
+Centered around gamification, entertainment and creativity, DREST combines state-of-the-art technology with in-game fashion discovery, styling and shopping, all inspired by a real-time content feed reflecting the daily global fashion and lifestyle zeitgeist.
+Our mission is to open up the fun, fantasy and creativity of the exclusive world of fashion, lifestyle and luxury to all via social gaming. By doing this, we are creating new and meaningful communications for one of the most exciting and impactful industries in the world through the application of gaming and proprietary technology and seminal art and design.
+The leader in the development of luxury, lifestyle & beauty games, DREST partners with the very best of luxury brands worldwide including Gucci, Prada, Valentino, Burberry, Cartier, Breitling, Fenty, Armani, NARS and Bang & Olufsen amongst 250 others. DREST’s e-commerce partner is Farfetch, the world’s leading luxury fashion marketplace where everything one plays with is shoppable in real life. Named by Fast Company as one of ‘The Most Innovative Gaming Companies’ in the world (2021) DREST is forging ahead in this groundbreaking gaming genre.
+Our employees are spread across the globe and we pride ourselves on our multiculturalism & diversity. We hire from the exciting worlds of gaming, tech, luxury fashion & lifestyle bringing a variety of perspectives closer together with the aim of creating inclusive, dynamic, equitable & original products tailored to our audiences around the world.
+Apply for this job

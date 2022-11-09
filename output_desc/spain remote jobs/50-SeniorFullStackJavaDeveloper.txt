@@ -1,0 +1,39 @@
+About the job
+Our customer, dormakaba, is a Swiss/German multinational that has operated all over the world for more than 150 years and is one of the leading providers of innovative security and access solutions for selected segments of the fast-growing security industry. They will hire the selected candidate as an internal and permanent employee, in Madrid (Spain).
+
+Tasks
+Enhance the IAS platform to meet the additional requirements for upcoming rollouts in Switzerland and across Europe.
+Take the role of a member in an agile Scrum team using JIRA/Confluence.
+Collaborate with Product Owners to define requirements together.
+Keep Quality Assurance & Automation practices very present.
+Ensure top-otch-3rd-level support for your application.
+
+Requirements
+
+Education and Training
+
+University degree or equivalent in technical College or relevant related experience.
+
+Desirable to have any Java certification, especially in the field of Developing Applications for the Java EE 8 Platform and Java EE Design Patterns.
+
+Mandatory Skills
+Practical experience with Java11, Spring4, Hibernate5, Swing, JDBC, Soap/REST, XML, React, Node.js
+Experience with Maven3, NPM, git, Jenkins, SonarQube.
+Experience with Docker, Kubernetes, Azure cloud services…
+Deep knowledge of SQL and especially Microsoft SQL Server (2019 Standard Edition)
+A broad knowledge of software patterns, OO-design and 3-Tier architecture.
+Experience working in Scrum/Agile teams.
+
+Languages
+Spanish: Native or fluent.
+English: Very good Business English required.
+German: Desirable but not a must.
+
+Benefits
+Ongoing contract.
+Flexible schedule.
+Remote working: 100%, except for some occasional monthly meetings or some workshops with colleagues from Germany.
+Appropriate training to advance your professional career.
+Pleasant and informal work environment.
+
+If you have extensive experience as a Senior Full Stack Java developer and speak English fluently, this offer is designed for you.

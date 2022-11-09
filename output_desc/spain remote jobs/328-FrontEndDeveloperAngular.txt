@@ -1,0 +1,17 @@
+About the job
+Project Description:
+Our client is a leading Global Financial Institution that runs the initiative Centre for Enablement which equips a development team with the skills, tools, and support to migrate their application to the cloud, forming a tailored support package aligned to an application team's needs.
+Responsibilities:
+This role would be for development of the front end of the pattern library.
+Currently the main use case is around fairly complex search, filter and sort and this would need to be enhanced.
+Also candidate will:
+- Provide design recommendations, develops application and custom integration solutions including major enhancements and interfaces.
+- Make complex modifications to existing software applications in accordance with high-level specifications and industry standards.
+- Develop new cross-functional software systems using disciplined software development processes.
+- Carry out unit testing and implements cross-functional systems ensuring the system meets the needs of clients and businesses.
+Mandatory Skills Description:
+- Relevant experience working with JavaScript, Angular technologies (3+ years Angular frontend development)
+- JSON enconding/decoding
+- Javascript debugging (base64 encoding and apostrophe handling)
+- Design pattern
+- Gitlab and Gitlab Pages

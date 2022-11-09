@@ -1,0 +1,29 @@
+About the job
+Come disrupt Brick and Mortar!
+
+At Shoppermotion, we’re committed to cultivating a diverse and inclusive workplace. We welcome people of all backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work. We'd love to have you come join us here! Shoppermotion is open to hiring a fully remote person to help us scale our customer base and markets.
+Are you interested in distributed systems or big data? Shoppermotion is seeking to transform the physical retail store sector with its proprietary mapping technology that enables brands and retailers to better understand in-store shopper behaviour in real time.
+The key feature of our technology is that it extracts visitors insights without any shopper interaction. All the analytics are processed anonymously and passively. We are already delivering analytics to the largest FMCG and retail companies worldwide and we aim to become the leading analytics platform in the offline retail sector.
+We are looking for our LEAD FULL-STACK ENGINEER to help us keep growing and join our team. Aiming to become the VP of engineering as the development team grows. Responding directly to the CTO and CEO.
+In the last 2 years, we have found the market fit for our product and it is time to scale. As the lead engineer, we need a profile with a broad product vision. We’re looking for a position where you’ll get to work at all levels of the stack.
+The main responsibilities of this profile are
+Actively participate in the design and development of new functionalities together with the product and sales team.
+Help design and conceptualize the evolution of our infrastructure in terms of scaling, continuous delivery, and redundancy.
+Acquire knowledge of the platform at a founder level to become the top of the development team.
+Collect customer feedback for good customer development.
+Be an active part in hiring new technical profiles.
+Designing new data models, APIs, and implementing pixel-perfect UIs.
+You’d be a good fit if
+You’re a full-stack web developer with 3+ years of experience in Javascript.
+Experience with any of the following is a plus: RoR, Python, Scala, MongoDB.
+You have experience in team management.
+You have communication skills.
+You can communicate in English.
+Perks and Compensation
+Competitive salary (40-60k€).
+Access to our Employee Stock Options Plan.
+Training budgets.
+Fully remote.
+Flexible work hours.
+We are passionate about what we do and have fun as we do it.
+Several off-site activities every year.

@@ -1,0 +1,37 @@
+About the job
+Overview
+
+Medallia is the pioneer and market leader in Experience Management. Our award-winning SaaS platform, Medallia Experience Cloud, leads the market in the understanding and management of experience for candidates, customers, employees, patients, citizens and residents.
+
+We are more than a software company. We want to be known as a company that does the right thing, no matter the challenge or controversy. We are committed to creating a culture that values every person and every experience. Individual life experiences shape the way we interact with the world, which is why we encourage people to bring their whole selves to work each day. The strength of our global workforce is the most significant contributor to our success.
+
+We believe: Every Experience Matters. Talent is Everywhere. All Belong Here.
+
+At Medallia, we hire the whole person.
+
+Medallia for Digital helps companies capture customer feedback across emerging web and mobile channels, engage customers with compelling digital experiences and keep pace with customers' constantly changing behavior. Medallia for Digital is a native component of Medallia Medallia Experience Cloud™
+
+Responsibilities
+
+As a Front End Developer you need to be experienced in all aspects of the full software development cycle, including:
+
+Design and development for the end-user
+Web architecture, algorithms, and client side programming
+Taking a project from requirements through to deployment
+
+Qualifications
+
+Minimum Qualifications
+
+Experience in HTML, CSS and JS (ES6, TypeScript).
+Experience in developing ReactJS framework for web/mobile.
+Knowledge of Javascript internals, object oriented programming, functional programming
+Fluent in English
+
+Preferred Qualifications
+
+Experience in accessibility patterns
+Knowledge in testing methodologies (unit-testing, TDD, mocking).
+Knowledge of graphql
+
+At Medallia, we celebrate diversity and recognize the value it brings to our customers and employees. Medallia is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, genetic information, disability, veteran status, or any other applicable status protected by state or local law. Individuals with a disability who need an accommodation to apply please contact us at ApplicantAccessibility@medallia.com. For information regarding how Medallia collects and uses personal information, please review our Privacy Policies.

@@ -1,0 +1,58 @@
+About the job
+Puedes ver mucha más información sobre nosotros y sobre el puesto en detalle en: https://www.notion.so/tulotero/TuLotero-T-cnicos-p-blico-fdb231c4d5a24a429727ef1fdae6360b
+
+Qué ofrecemos
+Salario bruto anual entre 35K y 45K según experiencia y valía.100% remoto.
+Trabaja desde donde quieras sin problemas.
+100€/mes aparte en concepto de teletrabajo.
+Flexibilidad en horario.
+Flexibilidad en las herramientas de trabajo: Sistema operativo, IDE, etc…
+Buen ambiente de trabajo en el equipo.
+El día de tu cumpleaños para ti es festivo.
+Recharge day: 3er viernes de cada mes, libre.
+Días libres para asistencia a eventos de interés tales como Codemotion, LechazoConf y DevFest.
+Formación: Selección de cursos en plataformas como Udemy o CodelyTV.
+Entrar en un proyecto que está creciendo mucho y en un punto en el que tenemos que tomar todavía muchas decisiones importantes.
+
+Qué necesitamos
+Tenemos el reto de escalar equipo de backend para poder abordar las mejoras necesarias que se necesitan realizar para ir subiendo en número de usuarios y también para ir abriendo nuevos países.
+
+Actualmente estamos organizados en 2 equipos de 3-5 personas, y nuestra idea es ir incorporando más gente para ir incrementando este número poco a poco.
+
+Necesitamos un desarrollador Backend que domine Java, el ecosistema Jakarta EE y/o Spring. Actualmente estamos migrando nuestro monolito JavaEE a microservicios con Quarkus, por lo que si lo conoces o dominas mejor que mejor.
+
+Esta migración de monolito a microservicios queremos ir acelerandola y por ello necesitamos gente que domine este mundillo.
+
+Inicialmente participarás más como responsable de tareas concretas y cortas, con el objetivo de que vayas cogiendo ritmo y vayas aprendiendo de las diferentes partes y módulos de los que se compone el producto. Poco a poco irás participando más como revisor y asumiendo la responsabilidad de aportar ideas para mejorar el sistema, no sólo en cuanto a funcionalidades nuevas sino también en cuanto a desarrollar y promover buenas prácticas de programación en el equipo.
+
+El testing para nosotros es algo indispensable y necesitamos que la persona que entre venga con la rutina de hacerlos. Si es mediante TDD mejor todavía.
+
+Una persona autónoma que pueda resolver los problemas por sí mismo.
+
+Que traigas conocimientos de Inglés a nivel técnico.
+
+Actualmente en TuLotero hacemos guardias, Estas consisten en estar disponible con acceso a un ordenador de lunes a domingo, aunque gran parte de las incidencias no son críticas y se pueden gestionar con el teléfono. No te preocupes, empezarás a hacer guardias pasados los 2/3 primeros meses desde tu incorporación y SIEMPRE, al inicio, serán en tu horario habitual y acompañado de un compañero veterano. Además, en las primeras guardias habrá incidencias que no puedas resolver y tengas que derivar al departamento correspondiente.
+
+Todas las dudas que puedas tener te las despejaremos antes de iniciar el proceso de selección.
+
+Qué nos encantaría
+Conocimiento sobre colas y orientación a eventos es algo que valoramos mucho.
+
+Recomendable experiencia trabajando con la nube pública (si es AWS ¡mejor que mejor!)
+
+Estaría genial si no sólo has utilizado sistemas de integración continua (Jenkins o similar) como usuario, sino que tengas experiencia definiendo pipelines de builds y despliegues a los diferentes entornos.
+
+No usamos Docker de manera intensiva, y no es necesario ser un crack en ello, pero sí que necesitamos unos conocimientos básicos.
+
+Tenemos cabida para todos los perfiles. Si además de programar te gusta gestionar un equipo de unas 3-5 personas, no te quepa duda de que en TuLotero vas a poder hacerlo.
+
+Aunque no se espera que programes en Android e IOS, es verdad que muchas veces diseñamos APIs pensando en el consumo que tienen que hacer nuestros compañeros desde las apps. Si alguna vez has trabajado con Android e IOS, estamos seguros de que tendrás una visión más completa de cómo hacer unos endpoints más usables para tus compañeros de otros departamentos.
+
+Proceso de selección
+1. Envíanos un mail a talento@tulotero.com presentándote y adjuntando tu CV. Además, si lo tienes, envíanos un enlace a tu perfil de GitHub o enlace donde podamos ver proyectos en los que hayas trabajado. Cuéntanos por qué piensas que eres el candidato ideal para trabajar con nosotros.
+
+2. Te enviaremos un ejercicio por correo electrónico para demostrar tus habilidades técnicas, que podrás hacer en cualquier momento y tomándote el tiempo que sea necesario.
+
+3. Te haremos una entrevista vía Google Meet, que consistirá en una revisión de la prueba, y será una “excusa” para hablar de tecnologías y hacernos una idea de tu perfil.
+
+4. Ya está, si eres la persona adecuada para trabajar con nosotros te haremos una oferta.

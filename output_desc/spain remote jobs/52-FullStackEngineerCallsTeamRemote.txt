@@ -1,0 +1,33 @@
+About the job
+Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. Hundreds of thousands of developers around the globe trust Mattermost to increase their productivity by bringing together team communication, task and project management, and workflow orchestration into a unified platform for agile software development.
+
+Founded in 2016, Mattermost’s open source platform powers over 800,000 workspaces worldwide with the support of over 4,000 contributors from across the developer community. The company serves over 800 customers, including European Parliament, NASA, Nasdaq, Samsung, SAP, United States Air Force and Wealthfront, and is backed by world-class investors including Battery Ventures, Redpoint, S28 Capital, YC Continuity. To learn more, visit www.mattermost.com .
+
+We value high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you'll learn more about working at Mattermost and apply!
+
+Mattermost is seeking an experienced full stack Software Engineer to join the Calls team and help bring voice and screen sharing to the Mattermost Suite. Built using WebRTC, Mattermost Calls integrates with the existing Channels, Boards and Playbooks products to allow both self-hosted and Cloud customers to securely communicate with each other on a platform they can control.
+
+Responsibilities
+Own the end-to-end design, iteration, development, testing, and release of new features and products
+Work seamlessly with product managers and designers to understand, define, and improve product requirements
+Identify, champion, and implement necessary architectural changes
+Ramp up quickly on existing codebases with an eye towards maintenance and improvement
+Provide quality code review feedback to peers and community members
+Stay abreast of relevant, new technologies that might improve team efficiency (or just developer happiness!)
+Refine your expertise in end-to-end testing, not only in authoring new tests but in iterating on our testing infrastructure.
+Required Background/Skills
+BS in Computer Science, Computer Engineering, or Mathematics related field
+2+ years of full stack software engineering experience
+Expertise developing in at most of Go, TypeScript, React, Redux, Electron
+Passion for communicating clearly, concisely and correctly: whether it's code, documentation, or even just a post in Mattermost
+Confidence working independently in an asynchronous team environment
+Excitement about thinking critically and creatively
+We Are Currently Hiring Staff In These Countries/regions
+
+Mattermost is a remote-first company with staff living and working across the globe.
+
+Australia - Brazil - Bulgaria - Canada - Chile - Colombia - Finland - Georgia - Germany - Greece - India - Ireland - Mauritius - Mexico - Norway - Pakistan - Philippines - Poland - Portugal - Spain - South Korea - Suriname - Turkey - Uganda - Ukraine - Uruguay - United Kingdom - United States
+
+We are constantly working towards adding more countries/regions to this list, but first we need to make sure we are compliant with local laws and regulations, which takes time.
+
+Mattermost is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people from all walks of life. We don't discriminate against staff or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!

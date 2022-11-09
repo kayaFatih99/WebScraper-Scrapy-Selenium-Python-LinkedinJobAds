@@ -1,0 +1,23 @@
+About the job
+Software Engineer/Full-stack Developer/ Fullstack Engineer/ Software Developer
+Estonia, Tallinn - Fully Remote anywhere in Europe
+Salary range 50k-80k + Generous stock options
+
+My client is on a mission to build innovative software, that manufacturers will treasure as much as their products.
+Since 2017, they have given manufacturers worldwide a heightened look at their business, connecting all the processes and tools they use with intuitive and easy-to-use ERP software. Their customers range from hobby makers to multi-million-dollar manufacturing businesses. To date, my client has raised over $16 million in funding from VC firms and angel investors.
+Their customer base is growing rapidly; the same goes for their product. They're launching new features and updates weekly.
+My client is looking for experienced software engineers to join their forward-thinking Engineering team. Their team comprises of ex-Skype, ex-Pipedrive, ex-Wise, ex-Veriff, you name it. If you're eager to make an impact and shape the future of manufacturing and up for the challenges of building complex software, you have found the right place!
+
+Key technologies
+React
+Node,js
+Typescript
+PostgreSQL
+Kafka
+AWS
+
+Please apply now and let us meet on an introduction zoom call to discuss the details and next steps.
+
+Best regards
+George Hall
+George@taylorhallrecruitment.com

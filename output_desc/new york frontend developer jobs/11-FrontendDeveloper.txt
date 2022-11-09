@@ -1,0 +1,39 @@
+About the job
+Job Title-Front end Developer
+Location – Columbus/New york
+Work type- hybrid on W2
+Job type- C2H (6 months)
+Client- JPMC
+
+Responsibilities:
+Code, design, and testing in a heterogeneous technology environment.
+Strong understanding of the overall software delivery lifecycle (SDLC) and activities.
+Enacting agile development values and practices.
+Enable close cooperation across all roles and functions.
+Promote and participate in the continuous improvement of structure, processes, and tools to enable the teams to deliver more value.
+Identify opportunities for process and tool improvements and drive those from concept to implementation.
+Engineer a world-class platform with an eye towards rapid iteration and creative problem solving.
+Ensure quality and completeness of the product through the unit, component, integration, and end-to-end testing.
+Adhere to architecture standards, risk management, and security policies.
+Contribute and collaborate in the creation and consumption of open, standards-based solutions, while working with existing enterprise technologies and infrastructure.
+Requirements:
+Strong customer focus.
+Excellent problem-solving and analytical skills.
+Strong verbal and written communication skills.
+Strong hands-on coding experience.
+Expertise in React, JavaScript, TypeScript, and other web technologies for implementing web applications.
+Experience in unit, component, integration, and end-to-end testing, including libraries like Jest, React Testing Library, Cypress, Selenium, etc.
+Knowledge of CSS
+Experience in page optimization (performance), understanding of performance consideration for React applications
+Desirable:
+Knowledge of APIs
+Knowledge and experience with building pipelines, such as Jenkins, etc.
+Knowledge and experience with Cloud technologies such as Kubernetes, Docker, GKP, AWS, etc.
+Good understanding of Material UI, Chakra UI, or similar component libraries.
+Experience with SSR (Server-Side Rendering) and SSG (Server-Side Generation) preferably using Next.js.
+Qualifications:
+5+ years of work experience building and modern shipping applications
+Strong experience developing web applications
+Strong experience with HTML5, CSS, and JavaScript.
+Knowledge and demonstration of computer science fundamentals
+BS or MS in Computer Science or a related field

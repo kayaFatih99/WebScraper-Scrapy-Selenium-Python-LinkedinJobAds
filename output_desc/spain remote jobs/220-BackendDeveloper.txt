@@ -1,0 +1,17 @@
+About the job
+We currently have a Backend Developer open position in our Barcelona office.
+
+Project
+It's a challenging project where you will work back to back with multiskilled AI teams. You will build consumer facing apps for clients integrating technologies like Computer Vision, Machine Learning or Natural Language Processing.
+Functions
+Work with a large arsenal of open source and cutting-edge technologies such as Node.js and MongoDB.
+Write secure code and create applications based on microservices architecture.
+Participate in all phases of the development life cycle, focusing on coding, testing, and debugging.
+Work on the maintenance or enhancement of existing data structures.
+Develop additional server level functionality and tools.
+Requirements
+Node.js, MongoDB.
+Knowledge on Python (optional).
+Resourceful and self-motivated on innovation.
+Immediate availability.
+Competitive salary according to the candidate skills.

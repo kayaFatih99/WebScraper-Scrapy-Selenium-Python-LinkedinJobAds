@@ -1,0 +1,32 @@
+About the job
+CMV Consultores es una empresa de Servicios de IT dedicada fundamentalmente a la selección de profesionales con perfiles técnicos. Asimismo ofrece a sus clientes servicios de asesoría y soporte en la implantación de soluciones tecnológicas y desarrollo de aplicaciones
+
+CMV Consultores en colaboración con importante partner del sector IT precisa incorporar un perfil Programador Web React para participar en un proyecto en colaboración con uno de nuestros socios comerciales más importantes del sector IT
+
+Al menos 3 años trabajando en proyectos reales y distribuidos al público.
+
+Conocimientos avanzados en React js con clases y componentes
+
+Experiencia y conocimientos con Redux context y hooks
+
+Capacidad de análisis y resolución de problemas.
+
+Haber trabajado mediante revisiones de código cruzadas
+
+Conocimiento y aplicación de las buenas prácticas de code styling.
+
+Manejo del sistema de control de versiones git.
+
+Conocer y aplicar los principios de SOLID.
+
+Haber trabajado con tests unitarios.
+
+Haber trabajado con metodologías ágiles Scrum y/o Kanban.
+
+Autónomo resolutivo y proactivo.
+
+Capacidad de liderar a 2-3 desarrolladores más juniors
+
+react, redux
+
+54711840e299d3529043

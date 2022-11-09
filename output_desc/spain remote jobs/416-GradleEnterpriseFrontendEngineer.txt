@@ -1,0 +1,76 @@
+About the job
+Gradle Enterprise is a first-of-its-kind product that software teams use to accelerate and optimize Gradle and Apache Maven™ builds. It comprises several facets including large volume data ingestion and processing, complex data analysis and visualization, and distributed caching and execution systems.
+
+Our software is used by some of the world's leading software organizations, such as Netflix, Airbnb, Spotify, and Twitter. We regularly collaborate with these and other users to make our products continuously better.
+
+Profile
+
+We are looking for front-end engineers with a demonstrated ability to efficiently deliver and maintain robust and useful front-end solutions, as part of a collaborative team.
+
+Our ideal candidates have a proven ability to deliver testable, evolvable, and scalable React-based architectures. They are passionate about user experience and are driven to deliver value to users. They thrive on challenging problems, understand the nuances of performance and memory optimization, possess and can capably articulate strong opinions, and feel comfortable collaborating with a distributed team.
+
+Responsibilities
+
+Designing and implementing robust solutions
+Applying automated quality assurance
+Employing modern software development techniques and practices
+Doing user research, outreach and support
+Assisting clients during trials and in production
+Managing individual project priorities, deadlines and deliverables
+Contributing to changes that improve the team’s velocity and efficiency
+
+Minimum Qualifications
+
+5 years of software development experience
+Experience programming in JavaScript and React
+Working proficiency and communication skills in written and verbal English
+
+Preferred Qualifications
+
+Experience delivering large-scale front-end solutions with React
+Experience working with CSS and layout managers
+Experience developing and maintaining Webpack builds
+Ability to debug, profile, and optimize code
+Ability to perform and receive code reviews
+Systematic problem-solving approach, coupled with effective communication skills
+Interest and ability to learn new software development skills and techniques
+
+What we offer
+
+Developing a unique software product used by other software engineers that love it
+Tackling and solving together intriguing performance, scalability, and usability challenges
+An automation-focused, test-driven engineering culture
+An ambitious and experienced engineering team, dedicated to craft and delivery
+Close collaboration with world-class engineers around the globe on novel products
+In-person onboarding with your team and yearly, extraordinary company offsite event
+Opportunities for growth in technical and managerial responsibilities
+Attractive compensation package including company equity
+
+Location
+
+Anywhere in the world with working conditions that allow for seamless collaboration with your colleagues through email, chat, and video streaming
+
+How to apply
+
+The following is required with your application:
+
+Attach your Resume/CV and answer the required fields below
+Create a build scan for any OSS project and tag it with frontend-engineer
+
+Next steps
+
+After applying, familiarize yourself with the Gradle Enterprise hiring process to understand the next steps.
+
+About Us
+
+We are committed and skilled software engineers, product designers, and marketing experts who are passionate about developer productivity. We take pride in delivering products that are relied upon daily by some of the world's leading software organizations, such as Netflix, LinkedIn, Airbnb, Spotify, and Twitter.
+
+Our team is globally distributed but deeply connected. We value our interpersonal relationships as much as we value our achievements. We are a diverse and inclusive workplace where we learn from each other and together. We welcome people of different backgrounds, experiences, abilities, and perspectives.
+
+Visit our careers page to learn more about the company and see other open positions. Visit Glassdoor to read what current and former Gradle employees have to say about the company.
+
+Privacy Notice
+
+For information about our collection, use, and disclosure of applicants’ personal information as well as applicants’ rights over their personal information, please see our Job Applicant Privacy Notice.
+
+Listen to Roberto Lucha describing his work on the Gradle Enterprise Front-End Engineering team.

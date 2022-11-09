@@ -1,0 +1,67 @@
+About the job
+About the role
+Being a Senior Engineer at Blexr is about having a holistic approach to software development. Bring your expertise to the product and actively collaborate with Product Managers, Engineers, Designers, QA, DevOps and stakeholders to ensure the team is highly cohesive and able to deliver against product outcomes. You will be setting standards and leading cultural change to ensure the team stays updated with modern technologies and ways of working; helping to shift left parts of traditionally separate areas such as Quality and DevOps. You will focus on understanding the needs of our customers, the needs of our team, how to communicate ideas effectively and producing high-quality production software that enable us to move at pace.
+Blexr is going through a tremendous amount of change and this role is an exciting opportunity to work across greenfield and brownfield opportunities, help to establish the architecture for our key publishing platforms, help to recognise Blexr’s vision and create the conditions and culture for long term growth and success. And have some fun along the way.
+
+Key responsibilities
+Support product delivery by building, testing, and releasing production quality features utilising best engineering practices.
+Ensure software is of high quality, security, performance, reliability, robust, extensibility, resiliency, observability, etc. by having a holistic approach to software development.
+Write simple, clean, test-driven secure code with a focus on modern good practises while minimising technical debt and complexity.
+Refactor, optimise, and improve existing code for better maintainability and scalability, and reduce technical debt in general.
+Produce key documentation and artefacts to ensure a common understanding of the engineering characteristics of your product.
+Test own work with a view to minimal work items being returned for defects to be fixed.
+Lead by example through mechanisms such as design/code reviews and virtual pairing.
+Be a champion for your Engineering approach within your tribe and within Blexr.
+Help develop product specifications, architectural design, build and deployment automation.
+Be responsible for the availability and reliability characteristics of your application.
+Unwavering focus on seamless, continuous delivery - ensuring that time to production is measured in low minutes.
+Take a highly data driven approach to your work.
+Troubleshoot, identify root causes, and remediate complex technical issues.
+Note: There may be need for participation in an On-Call rota, depending on the characteristics of the product you build.
+
+About you
+Several years of experience acting as a Full Stack Engineer - with a core focus on delivering content focused, responsive websites to global audiences.
+Excellent understanding of modern front end approaches and frameworks across HTML, CSS, JavaScript, TypeScript, Next.js, etc.
+Previous experience leading teams that have built websites for global availability, high performance, localisation/internationalisation.
+Solid understanding of core HTTP principles and headers, from Cross domain policies to Cache control headers.
+Extensive experience working in fully automated CI/CD environments.
+Strong understanding and application of TDD principles across the stack, from unit to acceptance testing, and associated frameworks.
+Highly pragmatic and delivery focused - you enjoy nothing more than seeing multiple releases roll out to customers every day - but also know when to slow down to speed up.
+Reasonable understanding of data privacy and data security challenges - and how to apply solutions for these in your solution from day one.
+Highly opinionated (but open minded!) on what best practice looks like - and keen to align those around you on this.
+Solid understanding of API design and engineering, predominately using RESTful approaches, but also emerging approaches such as GraphQL.
+Strong communicator - both written and verbal, who appreciates the beauty of great diagram and loves the art of storytelling - particularly to non-technical audiences.
+Experience working with modern architectural approaches such as microservices / micro-frontends / reusable component libraries.
+Experience with a range of content management platforms - predominately on headless systems (e.g.: Strapi / Contentful / etc).
+Occasional travel to London and Malta depending on the needs of your team and your project.
+
+Desirable
+Experience with, and working knowledge of other languages, including Python, PHP and SQL.
+Experience with delivering capabilities at the edge.
+Experience working in referral/affiliate marketing websites, or comparison websites.
+Experience building experimentation into your stack from day one (e.g.: Blue/Green, A/B, MVT, etc).
+Experience working on global websites that are localised to different regions.
+Experience building with AWS services (including with basic certification) a distinct advantage.
+
+The technology stack
+Here’s a slice of what we’re using for this product at Blexr:
+GitLab, with CI/CD
+AWS - with full ownership and access for Product Development Teams. Pick your tools and build great things.
+Docker - With deployment using common orchestration tools such as Fargate
+Next.js/React
+Node.js
+Cloudflare
+A range of CMS platforms (some of which you’ll be involved in choosing)
+ELK
+Notion
+Redshift, Airflow and Tableau for Data/BI
+… and whatever you’d like to bring to the table. Our technology approach is adaptable and focused on using the right technology that has the right impact for our customers.
+
+Benefits working at Blexr
+Company pension contributions (e.g. you give 8%, we give 10% up to a maximum)
+Personal Gym & Wellbeing Budget*
+Personal Training and development Budget*
+Health insurance for you and option for your family
+Remote first with option for remote working space
+Hardware of choice*
+Home-working set up budget

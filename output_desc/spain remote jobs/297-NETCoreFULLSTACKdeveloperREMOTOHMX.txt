@@ -1,0 +1,21 @@
+About the job
+Experis IT, empresa del grupo ManpowerGroup, es líder mundial en reclutamiento y selección profesional y gestión de proyectos. Promovemos el crecimiento de las organizaciones a través de un intenso proceso de atracción, evaluación y selección, especializado en perfiles IT.
+
+Buscamos un/a .NET CORE developer para incorporarse en nuestro cliente del sector IT.
+
+¿QUÉ BUSCAMOS?
+Buscamos una persona proactiva, resiliente y con gran capacidad de trabajo para desarrollar junto al equipo las siguientes fases de nuestros proyectos de última tecnología. Además de:
+Experiencia de 3 años desarrollando software fullstack; en frontend trabajamos con REACT y en el backend con .NET CORE.
+Experiencia contrastada en la utilización de las siguientes herramientas o frameworks ReactJS, Redux , Rest API, CSS/SCSS, .NET Core 5/6, ASPNET CORE, EF/ Dapper, Xunit moq Unit Testing...
+Inglés B2 deseable.
+
+
+¿QUÉ OFRECEMOS?
+Contrato indefinido con cliente final.
+Horario flexible.
+Estabilidad, buscamos a una persona que quiera crecer con el proyecto.
+Proyecto en REMOTO.
+
+
+
+La confidencialidad está garantizada durante todo el proceso de selección.

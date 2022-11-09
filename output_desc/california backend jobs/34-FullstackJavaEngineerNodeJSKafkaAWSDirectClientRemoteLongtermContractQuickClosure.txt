@@ -1,0 +1,32 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Accion Labs, is seeking the following. Apply via Dice today!
+
+Dear Professional,
+
+Hope you doing well,
+
+We are engaged with the client as a Partner, Long term Contract, 100% Remote EST Hours. One interview, and done.
+
+I tried reaching you for the below opportunity with my direct client, kindly revert back to me if you are available and interested. Thanks!
+
+Job Description:
+
+Experiencein building microservices –Spring Boot, Node JS
+Experience designing well-defined reactive APIs.
+Strong experience with – Streaming platforms such as Kafka, AWSKinesis Data Streams.
+Experiencein setting up the streaming platform in AWS (Kafka or Kinesis Data Streams…)
+Experiencein working with containers
+Nice to have experience in building GraphQL or gRPC API’s.
+Nice to have Batch or stream processing systems such as Apache Spark.
+Experience writing API proxies on platforms such as AWS API Gateway
+Deploying software using CI/CD tools such as GitLab’s, Jenkins, AWS, GitBucket CI/CD, DevOps, etc.
+Hands-on experience with API tools such as Swagger, Postman, and Assertible
+Strong knowledge of modern authorization mechanisms, such as OAuth2 and JSON Web Token
+Working within an Agile framework (ideally Scrum)
+Experience in PYTHON is a great plus.
+Test-driven development and behavior-driven development
+Nice to have hands-on experience with testing tools such as Cucumber and their integration into CI/CD pipelines
+Developing software applications using relational and NoSQL databases
+Datastores such as MongoDB, Cassandra, Redis, Elasticsearch, MySQL, and Oracle.
+Must demonstrate a solid knowledge of computer science fundamentals like data structures and algorithms.
+- provided by Dice

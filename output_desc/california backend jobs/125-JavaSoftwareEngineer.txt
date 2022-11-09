@@ -1,0 +1,29 @@
+About the job
+We are looking for frontrunners in the field of Java. You may have a Software Development background, an Operations background or you were raised in a Java culture from the start of your career. The field of Java covers a wide range of organizational design, process design and technology engineering.
+
+Responsibilities :
+
+● Understand the business needs and make critical design decisions and implement the same with other team members.
+● Participate in day to day activities involving design, development, test/production support, deployment and production monitoring and support monthly Billing updates.
+● Maintain application server for backend batch processes and frontend API processes.
+● Communicate with external teams including business clients on various issues and resolutions to provide the best customer experience.
+● Participate in requirement gathering and create design documents.
+
+Requirements :
+
+● Relevant years of experience in Java, J2EE, Spring, Hibernate, MySQL, JavaScript 4+ years of experience in design, development and support application solutions.
+● Good understanding of front-end technologies- Angular JS, JQuery, CSS and HTML.
+● Experience with multiple Source/Version control systems and understanding of code merging concepts.
+● Ability to work in a team environment.
+● Work on bug fixing and improving application performance.
+
+Desired Skills:
+● Must have a Bachelor’s degree or Master’s Degree or equivalent
+● Understanding of Core Java, with a solid understanding of object-oriented programming, various design and architectural patterns.
+● Adapt in working with Agile methodology
+● Strong communication skills.
+
+If you are interested kindly fill up the form below or contact from the details below.
+https://gobeats.app/#/forms/?link=xT8cgETCOPDTKufyjKwlCfoe0Ss32KEArN4YATqEcPDHWyEsDm
+
+sidhvi.k@consultadd.com/469 908 0528

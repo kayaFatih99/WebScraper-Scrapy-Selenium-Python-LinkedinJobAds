@@ -1,0 +1,27 @@
+About the job
+Desde Oxford Global Resources buscamos una persona que desee incorporarse a un entorno dinámico para una unidad de Cloud. El candidato deberá sentirse cómodo trabajando en todas las capas de aplicaciones software, y tener una actitud proactiva para explorar nuevas tecnologías.
+Nuestrro cliente, en su unidad de Cloud de Teldat, está constantemente incorporando nuevos proyectos, prototipos y tecnologías, por lo que, si te sientes cómodo "cacharreando" y proponiendo nuevas ideas o mejoras para ideas ya existentes, esta es tu oportunidad.
+Te incorporarás a un equipo joven y multidisciplinar arropado por un gran grupo, con la posibilidad de formación, aprender de gente experta, y con un ambiente amistoso.
+
+Se requiere:
+Desarrollador/a fullstack especializado en back-end con al menos 2 años de experiencia trabajando en proyectos de software.
+Experiencia desarrollo en la nube.
+Se valorará positivamente experiencia en lenguaje Ruby, Python y ReactJS.
+GIT, JIRA, Agile, TDD - Test driven development (Unit test, mock), BBDD no relacionales.
+Prefieren perfiles que no vengan de Bootcamps
+Nivel alto de inglés hablado y escrito.
+
+Condiciones
+
+Salario competitivo.
+Localización: Madrid o Barcelona
+Contrato de 6 meses con Oxford Global Resources y paso a plantilla.
+Nuesto cliente ofrece:
+Contrato indefinido.
+Desarrollo profesional.
+Flexibilidad horaria y modelo híbrido de teletrabajo.
+Si reside en Madrid o Barcelona 50% en remoto. Se valoraría otras opciones de remoto depediendo del perfil y de la experiencia
+22 días de vacaciones +3 festivos de empresa + libre disposición.
+Planes de Compensación Flexible (seguro médico, guardería, transporte, comida.).
+Plan de Formación.
+Plaza de parking.

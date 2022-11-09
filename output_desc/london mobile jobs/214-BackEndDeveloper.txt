@@ -1,0 +1,32 @@
+About the job
+Backend Engineer – VideoTech – Node/TypeScript - £70-90k
+
+Company
+
+I’m working alongside a technology business who have created a video platform that is helping the world to make the switch into fully remote conferences! They made a huge transition in 2020 for obvious reasons and are now growing rapidly due to an influx of new clients at the start of this year.
+
+The business have been around for over five years now, but their core platform is only actually two years old and is constantly having new features added to it which are requested by their paying users. You’ll be working in a team of five engineers in the UK, with a further 15 engineers based in Europe.
+
+They work mostly remotely but the engineers do have some presence in the London office - ideally once a week / fortnight.
+
+The role
+
+Upon joining the team, you’ll have the chance to work across a number of greenfield features for the streaming & AR side of the platform.
+
+You'll be tasked with working across a number of new feature builds, building new microsevices, doing external API integrations and helping the team to ensure high quality code is always being shipped out!
+
+The full stack you will work with includes: Node.js, TypeScript, Express, Redis, AWS
+
+For clarity, you don’t need to have experience in every area mentioned here! So long as you have experience working with TypeScript & are comfortable working across complex backend projects, let’s have a chat!
+
+Interview process
+
+30 min intro call with Technical Director
+Technical deepdive with the team - 2-3 hrs
+Offer!
+
+Salary & package
+
+On offer is a salary up to £90,000 DOE + a long list of benefits including medical insurance, paid learning scheme, WFH setup allowance, Perkbox etc.
+
+What are your thoughts? Feel free to apply or message me directly if you’d like any more information.

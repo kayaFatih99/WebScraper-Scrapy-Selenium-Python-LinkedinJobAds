@@ -1,0 +1,43 @@
+About the job
+Your assignments
+
+Lead, manage and engage an international engineering development team, delivering connectivity and IoT solutions, which are combined into end-to-end solutions and applications
+Key target is to attract, maintain and engage digital talent that results in highly performance oriented and fast digital, agile development teams capable to deliver multiple releases for digital applications p.a.
+Focus on the digital ecosystem for the responsible functional components, and provide functionally reach, reliable modules according to architectural framework in an agile, fast way
+Segregate medical and non-medical device functionality to enable fast development cycles
+Provide engineering expertise in the software development technologies, hardware connectivity solutions and methodologies
+Deliver Medical and non-Medical Modules and Solutions as well as electronic accessories in medical environment
+Recommend methods, materials and layouts for improvement based on development needs and capabilities including working with product owner teams to optimize applications for maximum speed and scalability
+Strong agile mindset and organization that delivers speed and fast releases
+Develop IOT and connectivity solutions for uni-/bi-directional communication and enabling remote software updates while harmonizing connectivity solution portfolio to drive standardized connectivity solutions including RSU, Device Management solutions.
+Interfacing to dialysis machines and related machine engineering departments
+Structuring the data provisioning methods and mechanisms for data analytics at scale into the product development
+Oversee the design implementation and following the overall architecture guidance for the product
+Oversee the development of reusable code, libraries, and microservices for future use
+Collaboration and proactive communication with PO’s in order to ensure continuity between Digital Services & Solutions and Business Vertical
+Establish world class modern standard code & design practices
+Deliver all solutions in a modular/ agile approach to enable digital agility
+Manage the version/ sustaining/ security and patch processes
+Implement standards as well as automation activities for coding, development or operations in alignment with Tech Excellence
+Offer further specialized development/security services teams
+Manage external implementation partner for scope and quality to be delivered in time with given budget
+
+Your profile
+
+Bachelor or Master’s degree in Mechanical Software Engineering, Information/Digital Technology, Embedded Software Engineering or similar
+Multiple years leadership experience in a similar function with focus on connectivity and IoT platform development and management, ideally in a regulated environment (MedTech, Automotive, Telecommunication, …)
+Experience as a full stack software developer, especially on backend and embedded solutions
+Experience setting up skeleton application frameworks to layout application foundation
+Proven track record as a technical or development leader in digital growth, innovation and agile environments
+Track record on delivery of complex IoT, cloud-based solutions with high speed and reliability
+Experienced leader of an international organization of 25+ employees (internal and external)
+Experience in on-/ near-/offshoring and implementation partnership development
+Our offer to you
+
+There is a lot for you to discover at Fresenius, because we have a lot to offer. No matter in which field you are an expert (m/f/d) and how much experience you bring with you - for your professional future with meaning:
+The opportunity to work on a mobile basis, individually in consultation with your manager
+Whether in front of or behind the scenes - you will help to make better and better medicine available to more and more people around the world
+Individual opportunities for self-determined career planning and professional development
+A corporate culture in which there is enough room for innovative thinking - to find the best, not the fastest, solution together
+A large number of committed people with a wide range of skills, talents and experience
+The benefits of a successful global corporation with the collegial culture of a medium-sized company

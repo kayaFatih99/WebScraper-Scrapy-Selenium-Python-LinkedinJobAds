@@ -1,0 +1,53 @@
+About the job
+ABOUT OLIO
+OLIO is the world’s only neighbour-to-neighbour food sharing app, and their mission is to solve the problem of food waste in the home and local community, at scale. Reducing food waste has been identified as the #1 most important thing humanity can do to mitigate the worst effects of the climate crisis.
+
+OLIO solves this problem with their award-winning mobile and web app and they now have just under 6 million users who have given away 34 million portions of food and 3 million household items in their non-food section. Their bold ambition to have 1 billion OLIOers by 2030. Do you want to be part of this amazing challenge as their Senior Ruby on Rails Developer?
+
+OLIO have an incredibly strong culture and was last year listed as a top 5 place to work by Escape The City. They live for their mission, but like to have fun along the way!
+
+‍THE ROLE:
+
+Set technical standards and best practices for the team and lead front end feature development
+Architect and help set the technical direction for large-scale React and React Native web applications using AWS Cloud services
+Ensure the technical feasibility of UI/UX designs and design features with user privacy and security at top of mind
+Participate in all aspects of software development activities including design, scoping, coding, code review, unit-testing and bug fixing
+Work closely with the Engineering Manager, Product, Design, and other cross-functional groups to drive product vision
+Explore and prototype new technologies to incorporate into the development effort
+
+MEET THE OLIO TECH TEAM:
+👉 https://youtu.be/-BRdneWLcTY
+
+YOU WILL HAVE:
+Experience building mobile apps using react-native (both iOS and Android platforms with regards to: store submission processes, push notifications)
+Work as a hands-on lead with strong mobile architecture and development experience in mobile native apps for entire software development lifecycle.
+Experience working with RESTful APIs, JavaScript and Flow/Typescript
+Agile processes and Test Driven Development, ideally in a multiple team environment
+‍
+Nice to have experience
+Experience working in companies during hyper growth
+Experience with automated UI testing.
+Experience with some of the specific client side tools and libraries: Redux, React-navigation, Storybook, React-native-web
+
+OLIO are BIG on their values and are looking for people who are:
+Mission obsessed
+Self-starters with a ‘can-do’ attitude
+Resourceful and creative
+Thorough, but able to move quickly and decisively
+A ruthless ability to prioritise
+Excellent communication skills
+Fun to work with ☺
+
+OLIO BENEFITS 🤩
+🚀“Remote first” flexible working around your home and life commitments.
+🚀 Unlimited annual leave (so long as you take your statutory and get your work done!)
+🚀Equity - we want you to be part of our success!
+🚀Monthly in real life and virtual socials, (adapted to engagement preferences), plus Summer and Christmas parties.
+🚀Mental health support via the InsideOut app (including free 1:1 counselling or coaching sessions).
+🚀And much more!
+
+OLIO have an incredibly strong culture and was last year listed as a Top 5 place to work by Escape The City. They live for their mission, but like to have fun along the way! ⚡️
+
+If you're interested or know someone who could be a good fit, please email angela@missiondriventalent.co.uk
+
+Head to this link to apply 👉 https://www.missiondriventalent.co.uk/role-details/technical-lead

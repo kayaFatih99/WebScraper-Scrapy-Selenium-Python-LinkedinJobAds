@@ -1,0 +1,55 @@
+About the job
+Appfire is an enterprise collaboration software company that enables teams to plan and deliver their best work. Since launching in 2005 as one of the original Atlassian ecosystem partners, Appfire has built a portfolio of top-selling apps for more than 30,000 customers — including 55% of Fortune 500 companies. As a product-led company, Appfire identifies gaps in industries serving developers and client support teams and then builds solutions that drive productivity and efficiency.
+
+Appfire continues to grow exponentially, with teams spanning 20+ countries. We are financially strong, continuously meeting or exceeding revenue targets, and we invest heavily in strengthening the foundation of our organization. Being philanthropic is integral to operating our business, so we donate 1% of employee time, product, profit, and equity as part of our Pledge 1% commitment.
+
+Come join our team!
+
+What To Expect
+Software development of Atlassian apps in the cloud environment.
+TypeScript is our preferred programming language.
+With React we design the most modern user interfaces in the browser.
+On the AWS our backend runs on node.js.
+By using serverless lambda functions, we achieve a slim, highly scalable platform.
+REST / JSON APIs dominate the interfaces between the various system components.
+
+Your Tasks
+Analysis to implement new features and technical problems.
+Participation in the architecture. Design and implementation of complex software algorithms.
+Ensuring our high standards in terms of software quality and usability.
+Expansion and optimization of our cloud environment in AWS.
+Constant improvement of the performance and scalability of our solutions.
+
+Your Profile
+Bachelor's degree in Computer Science or equivalent
+3+ years of professional experience in software engineering
+Strong fundamentals in software development
+TypeScript expert
+Experience with React & Redux
+Good knowledge of frontend technologies such as HTML5 & CSS
+Experience with modern unit testing frameworks (e.g. Jest, Puppeteer)
+Experience with APIs based on REST / JSON
+Experience with relational databases
+Proven project experience in the cloud environment, with distributed architectures, serverless technology, asynchronous & event-based programming, high concurrency.
+Project experience with an IDE, source control tools, CI, build engineering.
+Moving initiative and targeted approach
+As a team player you contribute to an optimal overall solution, but you are used to solving your tasks independently and target-oriented.
+Good written and verbal English communication skills
+
+Also An Advantage
+Experience with Atlassian products (Jira, Confluence, etc.)
+Experience with agile software development
+Experience with DevOps and cloud concepts
+Familiarity with data-driven development
+
+What We Offer
+Every Appfire employee is eligible for company equity
+25 paid days off, regardless of years of experience
+Flexible working schedule
+Development opportunities via our Appfire University
+
+Why a Career at Appfire?
+
+Appfire is a global company of awesome humans working to help teams all over the world. We believe that bold ideas light the way for builders - just like us! Our culture embraces YOUR unique skills, while providing a collaborative, diverse environment that thrives on change and growth for the entire Appfire family! At Appfire, innovators are wanted!
+
+Appfire is proud to be an Equal Opportunity Employer and we prohibit discrimination or harassment of any kind. We celebrate diversity and are committed to creating an inclusive environment for all employees.

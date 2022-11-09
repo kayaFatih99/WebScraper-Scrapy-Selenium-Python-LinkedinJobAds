@@ -1,0 +1,83 @@
+About the job
+Flutter Developer
+
+Intro to Gophr
+
+On demand delivery has never been so in demand. E-commerce has seen 5 years worth of growth in the past 18 months, and online grocery has gone nuts, bananas and crackers.Then add into the mix ever tighter margins, and all-time-high customer expectations (thanks Prime) and you see why better, and faster and more efficient delivery is so in demand.
+
+Which is where we come in. Gophr is a delivery tech company that’s reimagining same day delivery to make it work better for everyone involved; the businesses who need things delivered, their customers, and the couriers delivering to those customers. This is what we mean by great delivery, and this is what drives our vision. To give all businesses access to great delivery and all couriers access to great business.
+
+
+The role
+
+
+As the Flutter Developer you will be a part of our courier team building a complex courier delivery application. This is an essential part of our product offering and a massive opportunity for you to make your mark on.
+
+
+As the Flutter Developer you will:
+
+
+be part of an Agile team responsible for mobile development
+develop high-performance, complex applications
+write testable, scalable code that supports and enhances mobile applications
+build modular, reusable components and features
+support and nurture first and third party API led applications to ensure that data renders with little delay
+collaborate on a daily basis with a team of product managers, engineers, and UX designers to understand business requirements, user experience goals and pain points
+
+
+An Ideal candidate for the Flutter Developer role will have:
+
+experience in Mobile Development; Flutter, Dart, Swift, Java
+strong critical thinking and problem solving skills
+knowledge about Software architecture and design patterns, implementation and testing cycle (TDD) and Domain-driven design (DDD)
+experience with third-party libraries and APIs
+
+
+
+What you’ll get from us:
+
+Our commitment to you to make this role one of the most positive and definitive career experiences you’ve ever had. We’re currently experiencing very high growth with a sustainable business model and a very exciting product roadmap that we believe will have significant ramifications for the industry in the UK, and beyond.
+
+We are a small team, growing fast and that will give you plenty of opportunity to shape your role. Our tech is constantly evolving, we’re capturing tons of data and we have some pretty radical plans for all of it moving forward.
+
+
+Other stuff:
+
+
+Competitive salary package
+Allowance to spend on your home office
+Personal development budget
+Highly flexible working hours
+Work from wherever you like
+Quarterly company retreats and parties - weeks and long weekends away
+Mental health days separate from holidays
+Ideas and feedback driven working environment: ideas come from both internal and external sources, including bonus rewards for successful outcomes
+Committed to sustainability: all deliveries were carbon negative in 2020
+
+What we’re about:
+
+
+Our mission is to build the largest, smartest same-day delivery network in the UK and beyond through technology that empowers professional couriers of all shapes and sizes to build companies that serve their local communities. A delivery network that creates better outcomes for everyone involved, and feels like magic for those using it.
+
+There are over 23,000 courier companies in the UK. 20,000 turnover less than £500k a year, 10,000 of which make less than £50k a year. And they all need help in driving up vehicle efficiency, reducing operational costs, winning new business and access to regular cashflow that runs like clockwork so they can grow as much as possible, and not have to stress about getting paid or figuring out how to stay competitive against larger players.
+
+We’ve spent the last 8 years understanding the needs of these operators providing multiple last-mile services, across vehicle types, to customers from every industry sector. The level of knowledge we’ve gleaned in that time has given us a clear understanding of where we have to take Gophr next, and what elements need to be in place for us to get where we have to be fast.
+
+
+We’re already well on the way:
+
+
+Series A closed end of 2020.
+Deloitte Fast 50 winner in 2020 and 2021; PwC eCommerce top 30 winner 2021.
+6 million parcels delivered, in a market that’s set to 3X in size in the next 3 years.
+10,000+ clients ranging from household name retailers (Co-op and Hellofresh) to independent local restaurants like Smokestak (great brisket) who were winning from established incumbents, and well-funded competitors
+4.5* Trustpilot (best rated sameday courier)
+Net Promoter Score tracking at 75+ over the last 12 months (rare in most industries, unheard of in ours)
+
+
+We’ve gotten where we are to date due to a highly knowledgeable, experienced and solid team of good people who are heads down working to solve big problems. Ideas come from everywhere across the business; we’re run on feedback - from the internal team, to couriers, customers and partners.
+
+
+We expect that if you’re successful from your 1st interview to an offer shouldn’t take more than 7 working days.
+
+Apply now!

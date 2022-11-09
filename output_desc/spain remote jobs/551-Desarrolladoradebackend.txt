@@ -1,0 +1,34 @@
+About the job
+En Codeoscopic buscamos Back-end Developers que quieran incorporarse a un equipo de trabajo joven y dinámico, para crear y evolucionar las aplicaciones web que son y serán el presente y futuro del sector de los seguros en España.
+Construimos plataformas SaaS que permiten a los diferentes intervinientes en la venta y gestión de seguros llevar a cabo su trabajo de una forma más eficiente y que de esta forma puedan prestar un mejor servicio a sus clientes, y lo hacemos en estrecha colaboración con ellos.
+
+Competencias
+Formación y conocimientos necesarios:
+Experiencia laboral demostrada como back-end developer con Java al menos 3 años.
+Experiencia den Framework Spring.
+Conocimiento de bases de datos relacionales, SQL y tecnologías ORM (JPA, Hibernate).
+Conocimiento sobre herramientas de versionado de código (preferentemente Git).
+Habilidades valoradas
+JAX-RS (Rest)
+Bean Validation
+Jackson
+Apache HttpClient
+FreeMarker
+XML
+Conocimientos sobre testing
+
+Atribuciones del puesto
+Contribuir en todas las fases del ciclo de desarrollo de la aplicación centrándose en la codificación y depuración.
+Escribir código bien diseñado, eficiente, limpio.
+Solucionar problemas y depurar las aplicaciones.
+Participar en los análisis y diseños técnicos de la implementación de las features de la aplicación.
+Colaborar con los front-end developers y otros miembros del equipo para cohesionar los desarrollos back con los front.
+Condiciones:
+Duración : Período de prueba según convenio + indefinido.
+Salario salario según valía ( 30.000 – 40.000).
+Seguro de salud. Dispondrás de un seguro totalmente gratuito para ti, al que podrás incorporar en condiciones especiales a tus familiares y conocidos.
+Jornada laboral Dispondrás de una jornada laboral de 35h semanales.
+Horario flexible: Tendrás cierta flexibilidad para poder conciliar la vida laboral con la familiar. Jornada intensiva los meses de julio y agosto.
+Cursos de formación con openwebinars,
+Oficina: trabajo en Full Remote Trabajarás desde casa, sin necesidad de desplazarte a diario para ir a la oficina.
+Incorporación inmediata a una empresa estable, con más de 10 años de recorrido.

@@ -1,0 +1,56 @@
+About the job
+PhotoShelter is hiring a remote native mobile app engineer to help architect, build and improve the apps that photographers and visual storytellers depend on daily.
+
+Our market leading digital asset management solutions enable creative people to store, organise and share content, effortlessly and at scale.
+
+Joining as a senior engineer, you will work alongside the mobile engineering manager and product owner, and will have a significant impact on the development journey of our mobile apps.
+
+We're a small apps team working within a diverse multi-disciplined engineering team, in an Agile environment. You'll be given time to do the right thing, in the right way, supported within the right culture. You'll also get to use the most modern practices and the latest components from Apple and Google.
+
+You'll find us open to your perspectives and ideas, collaborating to accelerate the growth of mobile within Photoshelter. You'll also share our appetite for improving things, e.g. around technology exploration, tooling, app architecture, coding standards, mentoring, and integration with our wider stack - just let us know how you'd like to grow.
+
+Qualities and skills sought
+
+Solid industry experience building well-implemented and really usable native iOS and/or Android apps
+A willingness to work dual-platform, and across all aspects of the apps - you may cross train within this role
+Adept with Swift and/or Kotlin
+Experience with SwiftUI and/or Jetpack Compose
+Experience using SaaS APIs in a mobile application
+Excellent analytical and problem solving skills
+Familiarity with best practice mobile app architectures
+Familiarity with mobile unit testing
+A self-starting, innovative and collaboration-oriented approach
+
+You may also bring - or like to gain within the role
+
+UI layout, UX design | continuous integration | Atlassian suite (Jira, Confluence) | communicating concepts to the broader team
+
+Current ecosystem - we'll welcome your influence
+
+Swift | UIKit + SwiftUI | Kotlin | JetPack | MVVM architecture | RxSwift | Heap Analytics | Agile | AWS | AndroidX | Appium Test Framework | GitHub Enterprise | Jira | Confluence | Bamboo CI | Slack | Google Workspace
+
+Joining salary and benefits
+
+£60,000 - £80,000 - we're keeping an open mind
+Contributory pension scheme
+Personal development plan that you can shape e.g. training/certifications/conferences
+25 days holiday + public holidays | flexible hours | free car parking at office, covered cycle racks | excellent coffee and tea | choice of high end workstation
+
+About us
+
+PhotoShelter is a leader in visual media technology that helps photographers and creative teams work effortlessly and engage audiences instantly - all while maintaining the integrity of their content. Across our platform of SaaS products, we manage over 750 million visual assets for 80,000 professional photographers and over 1,200 large brands, including universities, pro sports teams, corporate and consumer brands, and leading nonprofits. We're built by and for creative people, and we’re committed to celebrating and supporting creative work. https://www.photoshelter.com/
+
+Our values
+We recognise that diverse viewpoints and experiences are essential to the success of our team. Alongside our commitment to photographers and creative teams, we in turn ensure that team members from all backgrounds are supported to grow creatively and professionally in their careers at PhotoShelter. We’re proud to be an equal opportunity employer, and are committed to providing all employees with a work environment that celebrates individuality and remains free from any form of discrimination and harassment. It’s not about our bottom line, it’s about the core values that drive us forward.
+
+Hiring process: informal chat, technical interview, interview with team members, final chat with CTO and offer/outcome (all remote). We will provide access to our apps for the process.
+
+Location: fully remote within UK, or from our office in Cambridge Research Park, just outside Cambridge
+
+Please note, we can only consider candidates that hold an established right to work in the UK
+
+Even if your CV isn't ready, please talk with Vittoria at techfolk to find out more:
+
+0117 318 2447 | photoshelter [at] techfolk.co.uk | @VixRubino
+
+RECRUITERS: PhotoShelter has selected techfolk as its exclusive recruitment partner for this position and cold calling or speculative applications are not welcomed.

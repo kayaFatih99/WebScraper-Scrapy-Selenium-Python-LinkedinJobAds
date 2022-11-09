@@ -1,0 +1,32 @@
+About the job
+Job Description
+
+The Web Software Developer position will be a member of the Web Services Team tasked with delivering cutting edge solutions across the company from within Kodak’s Worldwide Information Systems group.
+
+We call Kodak.com home, but we don’t stop there. Public sites, private sites, portals, e-commerce, the corporate intranet, and other employee and customer facing applications are all examples of channels we design, develop, and maintain with a mix of cloud, on-site, and hybrid implementations.
+
+Working with the team, the position is responsible for requirements gathering, designing, developing, documenting, testing, and deploying web sites and applications for internal and external use.
+
+Kodak offers a unique opportunity to contribute to an iconic global company. We combine the strength of a brand that is recognized and beloved around the world with the excitement and entrepreneurial spirit of a start-up. We are focused on the future and looking for professionals with energy, ideas and ambition to help us take the next steps in our transformation. We’re building a culture which values creativity in all its forms, having a global perspective, a focus on sustainability, and the trust we’ve earned over decades of building strong relationships.
+
+Required Skills/Experience
+Minimum of a Bachelor's Degree in a relevant field (Computer Science, Information Technology, Software Development, New Media, etc)
+Experience troubleshooting and resolving issues surrounding system performance, response times, and capacity.
+Experience with implementing and managing Apache, IIS, or other web servers.
+Experience with Microsoft Azure Cloud or similar.
+Experience with databases and SQL.
+Experience and working knowledge of HTML, SCSS, and JavaScript. You should be able to code by hand.
+Experience with APIs, web services, and response processing (JSON for example) for application integrations.
+Experience with frameworks like VUE.js and Node.js
+Experience with Web Content Management Systems like Craft, WordPress, etc.
+Experience developing responsive designs using grid systems, media queries, user agents, etc.
+Experience with source code management tools. We use GitHub.
+Excellent communication and interpersonal skills.
+Self-motivated and highly organized, accountable, and focused.
+Committed to seeing projects through from start to finish and takes ownership of troubleshooting and solving issues.
+Able to collaborate and clearly communicate with other developers. Projects will include a mix of both individual and group deliverables.
+Strong understanding of the user journey and how technology can be used to achieve business objectives in clear and concise ways to serve the customer/user.
+Desired Skills/Experience
+Experience with Java development a plus
+Experience developing mobile applications for Android or iOS is a plus.
+Experience with enterprise level systems like Digital Asset Management tools, SAP, and SalesForce is a plus.

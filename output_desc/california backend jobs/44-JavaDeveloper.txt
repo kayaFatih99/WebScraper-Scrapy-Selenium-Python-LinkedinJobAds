@@ -1,0 +1,34 @@
+About the job
+Location: REMOTE
+
+Description: Our client is currently seeking a Java Developer
+
+Remote Contract to Hire
+
+This Job Will Have The Following Responsibilities
+
+Talent will be responsible for working through assigned tickets, fixing bugs or developing new codes
+Assisting SLO with day to day coverage on/offshore support team
+Solid organizational skills and focus on accuracy and attention to detail.
+Excellent analytical, problem solving and troubleshooting abilities
+Self-motivated with the ability to work both independently and in a team environment
+Providing accurate and timely estimates for tasks
+Provide support and leadership in critical production support issue resolution
+Support the team for application availability, reliability and stability on a 7 by 24 by 365 basis
+Conduct or facilitate root cause analysis on all in-scope incidents and recommend a corrective action plan
+Work with team to achieve timely resolution of all production issues meeting or exceeding Service Level Agreements
+Conduct peer code reviews to ensure the work delivered by the team is of high quality standards
+Work with business to prioritize production issue resolution
+Work with the Service Manager in process improvement initiatives as directed by the service
+
+Qualifications & Requirements
+
+(50% development/ 50% production support) ideally
+At least 4-5 years of experience with production support/development
+Fixing bugs, working through tickets, troubleshooting, understanding how the server works, do some monitoring etc.
+Java background, will potentially have to write APIs from scratch
+*Will not have to do on call support
+
+Contact: mfox@judge.com
+
+This job and many more are available through The Judge Group. Find us on the web at www.judge.com

@@ -1,0 +1,16 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Newt Global, is seeking the following. Apply via Dice today!
+
+Required:
+
+Hands on experience in Java back-end development and skills with Spring-boot framework
+Minimum 3 years of experience in Spring Boot and 5+ years with Java
+Experience with Continuous Delivery principles and related tools (Kubernetes, OpenShift, Docker)
+Familiar with Microservices design
+Understanding of the Design Patterns, Architectural Blueprints, UML, and Application Design
+Experience in developing Rest Webservice
+Experience on creating unit test using JUnit, Mockito or Power Mock
+Experience on markup language such as JSON and YML
+Experience on using Quality and Security scan tools such as Sonar, Fortify and Web Inspect
+Experienced on Agile methodology
+- provided by Dice

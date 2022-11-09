@@ -1,0 +1,32 @@
+About the job
+Hicron is a Polish IT integrator focused on providing enterprise level IT services. We are serving customers in more than 20 countries on 4 continents delivering top level systems and solutions. We have a team of more than 300 experts in IT consulting, software development, quality assurance, IT process and project management. You can learn more about us at http://www.hicron.com.
+
+We are looking for a Full-stack Developer to join our Hicron Software House team. We are currently working on a project for a client from the USA in the automotive industry.
+
+
+Job description:
+· Participation in product development
+· Programming in back-end and front-end technologies
+· working with AWS services (Lambda, API Gateway, S3, Elasticsearch)
+· Pair programming
+· Active participation/co-decision in application design
+· Taking care of the highest code quality
+· Cooperation with an external customer
+· Working in a scrum team
+· Delivering high quality code
+· Spreading and proposing the best software development practices
+Our expectations:
+· At least 3 years of experience on similar position
+· Experience with programming in TypeScript
+· Experience with working on Node.js platform
+· Experience in working with Scrum methodology
+· Fluent English
+· Ability to share knowledge and introduce IT solutions
+· Knowledge of Java will be a big plus
+· Ability to work between 10 and 6 pm
+
+What we offer:
+· Indefinite contract
+· Remote work
+· Ability to work with modern tools and have a real impact on technologies used in projects
+· Work in an organization that uses open communication at every level with corporate projects and a non-corporate work atmosphere

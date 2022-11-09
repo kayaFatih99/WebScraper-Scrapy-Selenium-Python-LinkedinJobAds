@@ -1,0 +1,23 @@
+About the job
+Desde Kapres Technology estamos buscando un/a Front-end developer with experience in Liferay DXP 7.3 con Ingles muy Alto, para un proyecto internacional en un importante cliente del sector seguros en Madrid, trabajo en remoto pero alguna vez hay que ir a las oficinas de Madrid.
+
+Expertises:
+
+LIFERAY DXP 7.3 (Themes, ADTs, Fragments, Structures, Templates, Style books, Page Templates)
+SASS (Expert)
+CSS3 (Expert)
+HTML5 (Expert)
+Bootstrap (Expert)
+Javscript technologies (Expert)
+Angular (Autonomous)
+React (Autonomous)
+Accesibility (Autonomous)
+Web Performance (Autonomous)
+NPM (Autonomous)
+Agility
+GIT
+
+¿Qué ofrecemos?
+
+Modalidad: remoto.
+Contrato indefinido.

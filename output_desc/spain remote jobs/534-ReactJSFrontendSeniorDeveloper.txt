@@ -1,0 +1,55 @@
+About the job
+¿Eres Desarrollador FrontEnd y trabajas con tecnologías como ReactJS y Angular? Si te interesa formar parte de nuestro equipo de desarrollo agile para trabajar en los proyectos más innovadores, con las últimas tecnologías en un gran cliente del sector fintech, no te pierdas las ventajas de trabajar en Entelgy. PENSANDO EN TI te ofrecemos:
+
+Entelgy College: NUESTRA UNIVERSIDAD
+
+Self Service Digital: ELIGE tu FORMACIÓN
+Soluciones de Vanguardia: A TU MEDIDA
+Planes de Certificación: CERTIFICATE!
+Idiomas: Digital y presencial
+Itinerarios de desarrollo: CRECE
+Comunidades de Talento: EMPRENDE y CO-CREA en las células de innovación
+
+Plan Flexible Working: CONCILIACIÓN
+MyFlex: RETRIBUCIÓN FLEXIBLE, Tarjeta Restaurant, Tarjeta transporte, Seguro de Salud y Cheques Guardería
+MyClub: CLUB DEL AHORRO, portal con más de 450 descuentos para empleados
+SPORTCLUB: liga de fútbol, baloncesto, carreras, maratones y corporate sport game
+
+Y mucho más...descúbrelo!
+
+¿Qué vas a hacer?
+
+Desarrollo de proyectos web front end desde cero para la venta de artículos de banca digital.
+Análisis, Desarrollos, pruebas, coordinación con equipo QA.
+Desarrollo de componentes reutilizables y autocontenidos.
+Resolución de problemas de compatibilidad entre navegadores.
+Trabajo en equipo bajo metodologías ágiles Scrum bajo formato de teletrabajo.
+
+¿Qué debes saber?
+
+Al menos 3 años de experiencia en desarrollos front end
+Al menos último año dedicado a desarrollo con ReactJS
+Javascript, ReactJS, Redux, y React Router
+Webpack
+Test-driven-development (TDD)
+Unit testing + Jest
+Control de versiones: GIT
+JIRA, Confluence
+Nivel alto de inglés
+Necesario residir y tener domicilio fiscal en España
+
+Deseable conocimientos sobre Typescript y Flow
+
+¿Quieres saber más?
+
+Somos The BusinessTech Consultancy, un acelerador de la transformación digital, con más de 1.900 profesionales presentes en España, Brasil, Chile, Argentina, Colombia, Perú, México y USA. Ofrecemos soluciones integradas y globales que nos hacen ser diferenciales, a través de nuestras 4 divisiones: Consulting Tech, Transformación Digital, Seguridad y Outsourcing.
+
+Forma parte de un gran equipo en una empresa con una CULTURA DIGITAL y AGILE, orientada a las Personas y el Talento.
+
+¡Los mejores proyectos te esperan!
+
+https://www.youtube.com/watch?v=BZD3ufY6vGI&t=31s
+
+¿Estás listo para venirte con nosotros?
+
+¡Únete al equipo! ¡Te estamos esperando!

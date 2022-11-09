@@ -1,0 +1,24 @@
+About the job
+Hi,
+Hope you are doing Good.
+This is Suraj Singh from Skill-Bird. Skill-Bird is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We are constantly on the lookout for professionals to fulfil the staffing needs of our clients, and we currently have a job opening that may interest you. Below is a summary of the position. If you are interested in the opportunity listed below, please forward your updated resume along with current contact information, or perhaps you can recommend someone who would be interested in this position.
+Position: Senior Full Stack Engineer
+Location: Southern California (San Diego, Irvine, Carlsbad)- Hybrid (3 days in the office, 2 days WFH)
+Duration: Full-Time
+Interview Mode: Phone and Video
+• Work Authorization: US Citizen / GC Holder
+Must have: C, C++, embedded engineering, SPI/UART, SQL, NodeJS, Realtime OS – Not job hoppers
+Job Description :-
+5+ years of experience in Software Engineering
+Expertise in C/C++ languages
+Familiarity with common peripheral protocols (SPI, UART, I2C, etc.)
+Working knowledge of Linux kernel configuration or driver development
+Practice in Agile development
+Experience with Real-Time Operating System (RTOS)
+
+Thanks & Regards,
+Suraj Kumar Singh
+SKILLBIRD LLC,
+4 Peddlers Row, Unit#5, Newark, DE 19702
+Contact: +1 302-469-8004
+Note: We work through Prime Vendor/Prefferd Vendor

@@ -1,0 +1,49 @@
+About the job
+At Intelygenz, we envision a future where processes accelerate performance. For the companies we work with, this means finding ways to optimize their data using cutting-edge technologies like AI-enabled automation. This mindset is a huge part of our culture. We thrive on pooling our skills, collaborating on projects, helping one another learn and creating innovations.
+
+The role
+We are looking for a person with initiative, open to discussion/debate, used to working in a team. If you have not worked in pair programming you will be expected to be open to doing so.
+A person who is not afraid of mistakes and welcomes constructive criticism, petitions, and change.
+A person who is eager to learn and try new technologies.
+What are you going to do?
+Your day-to-day will be with java 1.7 and python all infrastructure in AWS automated and immutable. For microservices development, we use ATDD and DDD and infrastructure as code. The project consists of moving the bank's authorization center to the cloud, processing about 400,000 transactions per hour and allowing online fraud (real-time) and data analysis.
+
+What will make you succeed in your role?✌️:
+Application and infrastructure development using Java and Python.
+Knowledge of AWS environment
+Lifecycle (CI/CD), pipeline design, operation, and monitoring.
+Test-Driven Development (TDD, ATDD).
+Pair programming (optional to have worked this way in the past, but this is how you will be asked to work at times with us).
+
+Bonus Points:
+Have initiative, open to discussion/debate, and be used to working in a team.
+Have worked in pair programming.
+Not be afraid of mistakes and accept constructive criticism, requests, and changes.
+Be willing to learn and try new technologies.
+
+After applying, what will the process be like?
+
+📲 Firstly, you will start with an Initial Interview with the Talent Team.
+⌨ Then, you will continue performing the technical assessment.
+💯 You will always get complete feedback about your performance.
+👫 If the feedback is positive, you will have a technical interview with a colleague.
+📖 Last but not least, the final stage will be an offer.
+
+Why Intelygenz?
+100% Flexible 🧑🏻‍💻
+Flexible schedule and 100% freedom to work from anywhere you’d like (Spain based)
+Career Plan & Mentoring 🚀
+Specific career plans for horizontal and vertical growth plus mentoring to help you grow in your career. Let your motivations do the talking!
+Unlimited Learning 📚
+English classes, paid events, Udemy courses and one hour per week to take part in continuous tech training programs with your co-workers. Sky is the limit!!
+Always be yourself 👐🏽
+Don't be afraid of who you are! You will feel embraced and supported by the team and the whole company.
+Physical&Mental Health 💪🏽
+Stay physically and mentally fit with Gympass (online & in-person). Plus you can join our sports teams!!
+Happy Hours... ❤️
+... and an Intelygenz Anniversary exclusive T-Shirt
+Home Office Budget
+Operating System of your choice
+Flexible retribution - restaurant, transport and nursery
+50% of health insurance coverage
+Salary range💲: 38.000-44.000€

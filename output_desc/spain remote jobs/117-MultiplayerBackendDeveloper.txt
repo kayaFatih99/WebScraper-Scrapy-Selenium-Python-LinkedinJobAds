@@ -1,0 +1,48 @@
+About the job
+¡TE QUEREMOS A TÍ!😉
+
+Como desarrollador de backend, crearás y darás soporte a los sistemas de backend necesarios para lanzar y operar con éxito un juego en vivo, y conectar a los jugadores para que puedan interactuar juntos.
+
+Trabajarás estrechamente con los diseñadores y otros desarrolladores, guiándolos hacia una implementación robusta y escalable.
+
+Colaborarás con tus compañeros y te asegurarás de que tu trabajo se integre bien con los otros ingredientes del juego, proporcionando al jugador una experiencia única y sin fricciones.👾
+
+Tareas
+
+¿CUÁLES SERÁN TUS RESPONSABILIDADES? 👩‍💻
+Prototipar características y conceptos del juego online en el backend.
+Desarrollar nuevos servicios y redactar documentos de diseño de software.
+Colaborar con los diseñadores para iterar sobre las características y optimizar la experiencia del jugador.
+Apoyar las características y los lanzamientos en vivo.
+Ayudar a crear una cultura técnica saludable que anime a los ingenieros a aprender y crecer.
+Trabajar en estrecha colaboración con nuestros socios y tomar / dar retroalimentación técnica
+
+Requisitos
+
+Tecnologías IMPRESCINDIBLES
+C++
+C#
+
+Tecnologías Deseables
+C#
+
+Conocimientos requeridos imprescindibles
+Gran interés por los juegos.
+Se requieren varios años de experiencia profesional en backend.
+Experiencia con un lenguaje de programación de tipado fuerte (C++, Java, C#, o similar)
+Experiencia con AWS, Azure o Google Cloud.
+Experiencia con PlayFab, EOS, u otros servicios populares de BackEnd de juegos.
+Experiencia con Unreal Engine.
+
+Perfil deseado 🧑🏻‍🚀
+Capacidad para realizar múltiples tareas, organizar y priorizar el trabajo.
+Comunicador fuerte - proactivo para desbloquearse, hacer preguntas, y navegar por los obstáculos con un equipo.
+
+Beneficios
+
+¿QUÉ TE OFRECEMOS?
+Desarrollo y crecimiento profesional 🚀
+Salario competitivo 💸
+100% teletrabajo
+Gran flexibilidad
+Equipo y entorno de trabajo agradable 🤗

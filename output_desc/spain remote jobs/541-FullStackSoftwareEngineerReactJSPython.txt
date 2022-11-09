@@ -1,0 +1,41 @@
+About the job
+This is an excellent opportunity for a self-driven Full-stack Engineer to work together with an international Software Engineering team and develop web platform which visualise automotive imaging industry data.
+
+About the role:
+Our partner’s car stock photo library is the gold standard for automotive imagery, offering the highest quality vehicle multimedia assets for commercial use. They continuously pioneer top-of-the-line technology to provide unparalleled coverage and speed to market for automotive stock photos, car stock videos and virtual reality assets. It would be ideal for someone who enjoys working in a team, solving technical problems as well as believes in making a purposeful and positive impact around them.
+
+Preferred candidates have:
+At least 2 years experience with ReactJS and Typescript
+Strong experience with Python
+Some experience with AWS infrastructure
+Some experience with Docker
+Good knowledge with relational databases (RDBMS)
+Experience with continuous integration (CI/CD pipeline)
+Familiarity with GraphQL
+Familiarity with code management and deployment solutions (Git, Rez, Pip, Salt)
+Familiarity with Mac and Linux OS level programming;
+
+We expect you to:
+Have good knowledge of programming patterns and a strong affinity for design is a plus
+Ability to analyse and connect individual requests to formulate broader solutions
+Understand computer graphics workflows would be advantage
+Be familiar with principles of CG production and management software like Autodesk Maya, Nuke, Unreal Engine, FTrack - not a requirement but you will likely be exposed to that sooner than later
+Fluent in English
+
+Salary
+Gross salary FROM 5,000 Eur based on skills and experience.
+
+Location
+Work from anywhere - see you online. We have offices in old-town Vilnius when you need or feel like coming in.
+
+What about perks?
+Outgrow your role. Join other initiatives. Build your skills and test your strengths.
+Learn. All the time. Would you like to attend conferences or take paid training? There is a budget for that.
+We will not let you become obsolete. But whatever you do - give it your best.
+Pitch your ideas about anything. We build startups! Let’s build yours together.
+Work hard, play hard. Adrenaline junkie or zen. Or a casual all-nighter in the city.
+Take time off. Even if you don't - still do. Don’t feel bad about taking a day with a same-day notice. We have all been there. Just be respectful of your responsibilities and to your team.
+Additional health insurance. Take care of yourself. It just makes sense.
+
+About Us
+We build cool stuff and have fun doing it. Adroiti is a stack-agnostic technology incubator company. Founded a decade ago, we wondered a lot, built a lot, and learned a lot. We are a diverse group of 50+ engineers, artists, facilitators, avatars and entrepreneurs, empowered by technology. We aim to build disruptive, meaningful, and incremental innovations. We are informal, and we relish adaptive work culture.

@@ -1,0 +1,72 @@
+About the job
+Canonical is a pioneer in the digital workplace, established in 2004 with a global, remote-first policy that has delivered world class open source and sets the pace in cloud, developer and IoT technology.
+
+We want Canonical to remain the best at remote work. It's part of our enjoyment of our mission - both to deliver the world's best free software, and to push the boundaries of 21st-century work and collaboration. It seems that everyone had a taste of remote work in the past few years, but at Canonical we think it can continue to evolve and improve. We want to take our remote-first workplace to the next level, and are investing in the next wave of tooling to support and streamline our operation.
+
+Our goal is to improve the state of the art even further in key business processes for a distributed team: hiring, collaboration, communication, learning, documentation, development, and open source development. We want to understand our distributed teams as well as we could understand co-located teams. We want to help them work better, be happier, and make better decisions.
+
+Our Workplace Engineering team of web and analytics specialists build new tools, dashboards and analytics that empower colleagues, managers and executives to make better decisions and deliver better work.
+
+To be successful in this team you must be an expert in two or more of the following:
+Backend web service programming in Python and Node.JS
+CSS and front-end web programming with React
+Data analytics and statistical analysis
+Natural language processing, sentiment analysis, machine learning
+Data visualisation
+
+The ideal candidate will use their passion for experimentation and analytics to build tomorrow’s tech organisation. This team will help us gain insights into the business and our talent pool, and use those insights to improve the experience of working at Canonical. In some cases, we might productise these capabilities as SAAS for other tech companies.
+
+What you’ll do
+Design and deliver web based systems and SAAS
+Provide new insights into the Canonical workplace experience
+Enable new processes and improve existing workflows
+Collaborate proactively with a distributed team
+Write high-quality code to create new features
+Debug issues and produce high-quality code to fix them
+Consistently provide high-quality code reviews to other engineers
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel 2 to 4 weeks annually
+Understand completion criteria and push work to completion
+Work to reduce complexity
+Advocate and advance modern, agile software development practices
+Connect to many data sources and provide insightful visualisations
+Providing tooling to support optimised processes
+
+Who you are
+You are knowledgeable and passionate about web and software development
+You are curious, flexible, articulate, and accountable
+You try to learn and use web best practices in your work
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You take web best practices into account with your work
+You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree
+You have solid experience working in an agile development environment
+You drive work to completion
+You take operational considerations (CI, updating, monitoring, observability, life-cycle management) into account
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You follow industry trends and new technologies
+You’re capable of representing your team as a subject matter expert
+Have an interest in data visualisation
+Enjoy working with many APIs to help many teams across Canonical
+You enjoy driving process improvements within the company
+
+What we offer
+An opportunity to shape a company and products with a strong influence in the open source community
+An inclusive work environment with friendly people, broadly skilled from UX design to copywriting
+Learning and development
+Annual compensation review
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+Interview process
+Your application will be reviewed by our team
+You will be sent a set of written interview questions and your answer will be reviewed anonymously
+You will be asked to take a standardised aptitude test
+A short interview with a team member
+An HR interview
+You will be asked to complete a coding test
+A series of four more detailed technical interviews
+Hiring manager interview
+Offer
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.

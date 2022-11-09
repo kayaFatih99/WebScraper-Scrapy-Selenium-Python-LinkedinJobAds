@@ -1,0 +1,27 @@
+About the job
+We are looking for a Front End Engineer based in the EU/EEA area to join our Dev team to translate interface designs into responsive HTML templates to be implemented by backend engineers.
+
+What you will do:
+
+The Front End Engineer will work closely with the Chief Technology Officer to:
+👻 Frontend development for new and existing features
+👻 Develop clean, high-quality code and automated tests to verify its operation;
+👻 Participate and perform code review that aligns to required standards of security, performance and code-quality.
+👻 Interact with the users of the Interface to understand varying use cases and record requirements.
+👻 Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
+👻 Commitment to accomplishing the task at hand and identify the fastest and most reliable way to solve a problem.
+👻 Enforce high-quality visual standards and brand consistency on all web properties.
+👻 Building reusable cross platform components and front-end libraries for future use.
+👻 Work closely with the Product Owners and Designers to create user-friendly workflows.
+👻 Supporting backend engineers.
+
+Who You Are
+👻 5+ experience with JavaScript (e.g. ES6+ or TypeScript), ReactJS, jQuery, SASS and HTML5
+👻 Fluent spoken and written English
+👻 Experience working in cross functional terms
+
+Would be a plus:
+👻 Bachelor of Science in Computer Science or related field
+👻 Experience with Web Components
+
+If you'd like to find out more please send over your CV to eleonora.gottifredi@pentasia.com or check the link above.

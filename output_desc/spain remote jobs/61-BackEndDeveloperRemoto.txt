@@ -1,0 +1,39 @@
+About the job
+Si desarrollando e investigado el tiempo se te pasa volando...¡esta oportunidad es para ti!
+
+En Tarlogic buscamos a un/a BackEnd developer para incorporarse al equipo de Research en remoto 100% porque... ¡el teletrabajo para nosotros es una realidad!
+
+Trabajarás dentro del departamento de Desarrollo e I+D de Tarlogic el cual desarrolla y comercializa sus propias soluciones y plataformas entre las que se encuentran la gama de productos Acrylic WiFi (www.acrylicwifi.com). También, darás apoyo al resto de departamentos creando plataformas para la optimización del desarrollo de negocio, además de realizar el mantenimiento y evolutivos de las ya existentes, relacionado con la ciberseguridad, y la digitalización de la compañía.
+
+Si valoras un ambiente joven y agradable, quieres trabajar con un grupo de personas con inquietudes muy diversas, con altos conocimientos técnicos, dinámico, en formación continua y pasión por la inverstigación, el desarrollo y la innvovación... ¡Estás en el lugar correcto! ¡Nosotros somos nuestro propio cliente!
+
+¿Por qué formar parte de Tarlogic?
+
+️ 100% Teletrabajo
+
+️ Jornada intensiva todos los viernes del año y durante todo el verano ️
+
+️ Proyecto Jornada de 4 días
+
+️ Flexibilidad horaria de entrada y salida
+
+️ Plan de carrera individual. Formaciones (certificaciones, idiomas...)
+
+️ Días de libre disposición para acudir a eventos formativos
+
+️ Posibilidad de elegir cuando quieres disfrutar de tus festivos ️
+y mucho más ¡No te lo pierdas! Requisitos: Requisitos mínimos:
+Grado en Ingeniería Informática o experiencia en desarrollo de software contrastada.
+1 año de experiencia desarrollando en C#
+Conocimiento de patrones de diseño y principios SOLID y buenas prácticas.
+Conocimiento de SQL.
+Experiencia trabajando con APIs.
+Manejo de software de control de versiones (Git).
+Capacidad de trabajo en equipo.
+Capacidad resolutiva y capacidad de ejecutar tareas en paralelo. Orietación a los resultados.
+
+Requisitos deseables:
+Otrod lenguajes: Python y PHP.
+NoSQL: Mongo DB o GraphQL
+Conocimiento de tecnologías frontend: HTML, CSS, Javascript y React.
+Docker

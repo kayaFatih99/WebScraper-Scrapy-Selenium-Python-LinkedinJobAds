@@ -1,0 +1,16 @@
+About the job
+Working in Order management space and specifically for equipment related flows to add new features, bug fixes and daily operational support and enhancements
+
+Responsibilities:
+· Implement features within the existing Java services.
+· Build new microservices in Java, using Google’s Boq and Apps Framework packages as needed
+· Debug issues reported by the business clients, testing team, identify the root cause and implement
+· solutions.
+Qualifications:
+Strong Java skills
+Preferable - Experience working with Google systems, especially Apps Framework and Boq
+Knowledge of dependency injection in Java
+Experience working with HTTP services and REST APIs
+Knowledge of microservices and RPC architecture
+Experience maintaining production servers
+Performance tuning, optimization and systems monitoring skills

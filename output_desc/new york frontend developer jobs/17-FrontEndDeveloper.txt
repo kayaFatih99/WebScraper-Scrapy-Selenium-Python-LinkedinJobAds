@@ -1,0 +1,41 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Amiseq Inc., is seeking the following. Apply via Dice today!
+
+Frontend Developer
+
+Sunnyvale, CA
+
+Areas of responsibility include:
+
+Involved in planning of system and development deployment as well as
+
+responsible for meeting software compliance standards
+
+Drives technical vision and influences product roadmap and vision
+Implement large-scale, complex, cross-functional projects
+Leads the discovery phase of large projects to develop high level design
+Supervise the work of cross-functional groups of engineers,
+
+including offshore associates
+
+Directs root cause analysis of critical business and production issues
+Documents testing and maintenance of application corrections and improvements
+Influence decisions, builds consensus, and resolves conflicts
+
+constructively and proactively
+
+Supports business objectives and ensures the business needs are being met
+
+Minimum Qualifications
+
+Bachelor’s degree in Computer Science or Computer Information Systems/
+7+ years of experience in software development.
+Experience building and running distributed systems.
+Experience with AWS Lambda, Cloudflare Workers, Google Cloud
+
+Functions, or a similar distributed computing platform.
+
+Experience with CDNs, especially Akamai and Cloudflare.
+3+ years of experience writing JavaScript, or the ability to quickly learn it.
+Excellent written and verbal communication skills.
+provided by Dice

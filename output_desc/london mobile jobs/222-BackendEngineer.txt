@@ -1,0 +1,34 @@
+About the job
+Backend Engineer
+
+2022 is an exciting year for Osprey Charging and we’re looking for a Backend Engineer to join our growing team.
+
+We are one of the most loved EV charging brands, as voted for by EV drivers.
+Our objective is simple: to encourage and support the transition to electrified road transport by providing EV charging that is fast, reliable, accessible, easy-to-use and in the most convenient locations throughout the UK.
+
+Osprey is a young, dynamic, flat, customer, data and technology driven enterprise. We want engaged, committed and creative people to join us. We provide the opportunity for personal and professional growth and the chance to make a difference.
+
+Osprey Charging is implementing an electric charging network across Europe to accelerate sustainable energy options and provide an easy to use, high functioning charging experience to our customers.
+
+What would I be working on?
+
+We have a customer-facing native app for EV drivers and a chargepoint management portal for our operations team. Underpinning this is a Java backend which remotely manages our network of charging stations, ensuring that our customers can reliably charge their car when they need to. We have big plans for both of these products and need Backend Engineer to help us achieve that vision.
+
+Is this role right for me?
+
+We hire people primarily based on software engineering talent rather than having experience in each area of our tech stack but the person we are looking for will have some experience with the following:
+Java
+Springboot
+AWS Infrastructure - ECS, EC2, RDS, SNS, SQS, Lambda
+Terraform or other Infrastructure as Code technology
+PostgresSQL
+Automated unit testing, regression testing, load testing
+Experience with distributed, asynchronous architecture via message queues
+Experience creating/integrating with REST and websocket APIs
+Experience or interest in maintaining CI/CD pipelines
+
+You are the right person if:
+You are an engineer with a growth mindset who seeks to broaden your tech and soft skills
+You are passionate about building products which will positively impact our mission to build the best UK charging network
+You are motivated by owning products, from inception to continuous improvement
+You love building scalable, resilient solutions

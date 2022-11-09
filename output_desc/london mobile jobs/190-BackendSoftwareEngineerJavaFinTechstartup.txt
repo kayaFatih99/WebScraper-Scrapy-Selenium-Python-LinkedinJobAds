@@ -1,0 +1,22 @@
+About the job
+Would you like to take your software engineering career to the next level and be part of something truly special? If the answer is yes, then please read on! Our client is expanding its consumer business by launching a brand-new online banking platform to the market, offering consumers a completely new banking experience. With a packed technical roadmap ahead them we are seeking multiple Senior Back End Java Software Engineers who want to level up and be part of building something brand new!
+
+Our client’s tech stack is primarily built using Java so experience in this is a must. The new platform is being built on distributed systems and cloud technologies (AWS/CGP) and our client’s development squads operate in a fast-paced chapter style delivery model. The teams are using injection frameworks such as Spring / Spring Boot and Guice and the new online banking platform is being designed using a microservices architecture. An understanding and willingness to code in this way would be ideal.
+
+We are hiring high performing best in class Lead and Senior Back-End Software Engineers who would really relish working in this way. You’ll be working and leading in a new age, data driven, cloud engineering development team and you will have the opportunity to work with data streaming and messaging frameworks, distributed tracing and monitoring tools as well as containers such as Docker and Kubernetes.
+
+Like what you hear? Then please apply now and find out more! This is a fantastic opportunity to have a massive impact and be part of something truly special!
+
+Please contact Joely Callaghan directly at Synchro to explore this exclusive opportunity further and apply through this job posting.
+
+Location: London with remote working
+Salary: £80,000 - £145,000
+
+
+
+
+
+
+
+
+Keywords: software engineer, software developer, lead software engineer, lead software developer, programmer, application software developer, technical lead, development lead, software engineering lead, software development lead, java software engineer, lead java developer, lead java software engineer, senior software engineer, senior software developer, mid level software engineer, mid level software developer, banking,

@@ -1,0 +1,49 @@
+About the job
+Sharethrough is revolutionizing the legacy digital advertising supply chain as the first ad exchange to auto-enhance every standard impression by rendering a higher-performing ad that dynamically fits into any placement on any site. Our technology and approach enables advertisers to see substantial campaign performance improvements and cost savings using the same standard video and display creative as well as the buying workflow they use with standard exchanges. The Sharethrough Exchange (STX) powers over 1.5 MILLION impressions per second and is integrated with more than 30 of the world's largest demand side platforms, enabling buyers to efficiently achieve their marketing objectives at scale.
+
+Why You’ll Love Being a Part of the Sharethrough+ Team
+
+You’ll be part of a growing team of 4 engineers responsible for developing a suite of tools used to enable our sales and ad operations teams. Your team’s technology is critical to the success of Sharethrough’s omnichannel exchange: enabling ad enhancements, driving revenue, and providing unique insights into our advertisers’ ad spend. Your passion for full stack technologies, performant, scalable code and enjoyable user experiences will help drive the future of Sharethrough’s advertising.
+
+What You'll Be Doing
+
+You’ll participate in problem definition and solution with a diverse group of engineers and business owners from around the company.
+Building Ruby on Rails applications that are performant, well-tested, and easy to maintain.
+You’ll architect and implement major components in a suite of user facing applications at scale.
+
+About You
+
+You have production experience with large Ruby on Rails applications with React or a comparable front-end JavaScript framework.
+You take pride in engineering, and have a deep understanding of how to write high quality, maintainable, extensible software in a collaborative environment.
+You are passionate about working collaboratively to build tools that solve real users problems.
+You like moving quickly as we push to production on every commit via our continuous integration and deployment pipeline.
+
+Tech Stack
+
+Ruby on Rails
+JavaScript / React
+SQL
+
+What's In It For You
+
+Competitive compensation packages
+Generous group health insurance plan
+Access to the virtual healthcare platform Dialogue
+Access to the company's stock option plan
+16 days of vacation per year, which increases with seniority at the company
+3 paid Caring days
+1 paid volunteer day
+Offices closed during the holidays
+Wellness allocation of $840 per year (for gym memberships, sportswear, etc.)
+In-house training programs on our company and industry
+Encouragement and funding of continuing education and training
+Very active social committee and free online sports classes
+Access to a tool that measures your engagement and job satisfaction anonymously
+Pairing with a buddy for your first 6 months
+Advantageous referral program
+Inclusive, inspiring, and dynamic work environment
+Casual dress code
+Work from home and flexible hours
+And more!
+
+Want to apply but feel like you don't meet every requirement? Apply anyways! Studies show that women and minorities are less likely to apply if they do not exactly fit all the requirements in the job description. At Sharethrough, we are dedicated to building a diverse and inclusive workspace, so if you feel eager about this opportunity but feel like your experience is not perfectly aligned with the job description - apply! There may be other roles you fit the profile for.

@@ -1,0 +1,67 @@
+About the job
+Would you like to work for a company that empowers the little man instead of the big guy? Than this is the job for you.
+
+The Company
+Our clients mission is to empower people to start and grow a successful business. We level the playing field in the e-commerce space for small business owners by providing them access to tools, automation, data, and economies of scale usually only available to giant corporations with deep pockets, such as:
+Tooling and automation for various aspects of running your business such as product data insights, invoices, email-campaigns, accounting, etc.
+Analytics and metrics for your business
+Access to curated repository of video lectures/courses from successful and experienced professionals
+Leveraging collected data to provide unique market insights, trends and opportunities
+Many more
+
+Within 3 years, they have grown to more than 3,000 paying customers, more than 1000 amazing reviews/ranking on Trustpilot, a significant positive cash flow, no debt, and no investors or board of directors.
+
+They are here for the little guy and will always choose to increase value for 1000 small one-person operations rather than one single 1000-person corporation!
+
+They are an independent and closely-knit business ourselves, and plan to keep it that way:
+They have no debt, no VC money, no board of directors.
+They are 100% self-owned and directed.
+
+Thus, they are not mandated to maximize profits to our shareholders, but can focus on our vision of making the world a more equitable place.
+
+The Job
+After a couple of years of proving the concept and building our first iteration of the product, we have matured our product’s market fitness, provided proof of profitability, and are ready to enter the next stage of our vision.
+
+Our focus will be to innovate and scale up the core solution that made them successful in the first place. This is product research, which is a method to find products that have potential to sell online (such as profit and demand). Their product is the most-used tool in the Netherlands and Belgium for entrepreneurs to discover products, and start/grow their business.
+
+Right now, we only help bol.com-sellers with our solutions. In the future, we will empower any entrepreneur worldwide with the tools that are needed to explore and start selling profitable products. Normally this data is only available to huge 1B+ companies, they levels the playing field.
+
+In this second iteration of their platform, we will be rebuilding our existing product from scratch, “greenfield” style. We will be focusing on quality: scalable, clean architecture that is Domain Driven, clean code that is designed for readability and testability, and adhering to the industry’s best practices.
+
+We are looking for excellent people like you to build a team of full-time, talented, dedicated, experienced, smart, engineers who want to get in at the ground floor of something great.
+
+The Requirements
+An understanding of Python and Django;
+2+ years of experience as a software engineer;
+Working experience with React or a similar frontend framework is considered a very nice to have.
+Collaborated daily with a team of at least 4-5 other engineers;
+built software products that have seen 24/7 production traffic of some scale;
+taken responsibility for all aspects of your software’s life cycle: designing, coding, testing, deploying and maintaining;
+a team-focused mindset and genuinely enjoy working with other people
+Curiosity and passion about learning and trying new things like frameworks, libraries, tools or even philosophies.
+Guts and are not risk-averse and err on the side of action
+
+On your day-to-day you will:
+Help us design, architect, build, test, and deploy an improved version of the product. Everything from the data model, datastores, API endpoints, testing and CI/CD as code.
+Conduct code reviews and provide feedback. Seriously, we expect you to provide value by providing useful comments on PRs.
+Participate in daily standups, architecture/design discussions, demos, retrospectives, pre- / post-mortems, etc. are all part of our process.
+Collaborate with a team of diverse yet value driven people who are looking to learn from one another and share their experiences.
+Have fun! We are selecting for candidates who will help us reinforce a nurturing environment where you can enjoy and foster Mastery, Autonomy, and Purpose. We value work-life balance and welcome interweaving Play with Work (e.g. through events, retreats, board/video games, happy hours, etc.)
+
+Nice to Haves:
+You're not on the FBI's most wanted list
+
+The Rewards
+
+Location and hours:
+Ideally, we would love to relocate you to Eindhoven, NL to work at them in person. We appreciate the office camaraderie and will sponsor your immigration. Of course, we are 100% remote friendly and remote work is encouraged! If you work remotely, you will still be treated as a family member with respect to benefits, paid time off, profit-sharing, and decision-making.
+We are currently only looking for full-time new team members. If you work remotely, we are looking for at least 6 hours of time overlap with Netherlands working hours (9:00-17:00 GMT+2).
+What's in it for you?- A not so ordinary workplace
+Yearly salary between 45-70k (maybe higher but that also depends on skill ofcourse).
+There is full pay transparency for every full time employee, from the individual contributor to the CEO.
+There is full transparency about every aspect of the company with all employees: we provide monthly updates on all our metrics, revenue, expenses, and profits.
+We empower entrepreneurs to become independent and wealthy over the long term, we share the same vision for the Boloo team. Our goal is to make all team members wealthy over the long run at Boloo through profit sharing and ownership (+8 yrs. term )
+We are going to plant trees, and a lot of them. Mother earth is important, and we are doing our best to have a positive impact. In 2021 we learned a lot on this subject, in 2022 it's time to make the first power moves.
+We cherish our open culture. Any team member gets supported to speak up in order to improve our company. We involve the team in our vision, and support giving input on shaping the future.
+
+Are you interested? Then respond via the application form or send your resume to r.sadloe@haystackpeople.nl. Calling is always faster, you can do that on +31 (0)6 83 93 19 68

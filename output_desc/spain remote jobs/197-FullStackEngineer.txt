@@ -1,0 +1,42 @@
+About the job
+Natural Cycles is an international working environment filled with smart and ambitious colleagues working in our offices in Stockholm, Geneva, New York and remotely. Our mission is to pioneer women’s health with research and passion - by empowering every woman with the knowledge they need to be in charge of their health.
+
+We’re looking for a Fullstack Engineer who thrives in a fast-paced, data-driven, agile environment and is inspired to use their talents to help us in our mission. Grounded in science and founded by scientists, we pride ourselves with being a very data-driven company and team. This role is thus of great importance and has a high impact cross functionally at Natural Cycles.
+We are looking for you whose soft skills shine and who can communicate with ease in English. You are passionate about technology, team work, but also have a responsibility and autonomy in your work. You are able to work efficiently in a remote work environment, in a setting where online and asynchronous communication is the foundation.
+We are a remote-first company and have physical offices in Stockholm, Geneva and New York, which you are welcome to use if you are located nearby. Once or twice per year (COVID permitting) we all meet up in person in a beautiful location to enjoy a few days together.
+The position is based in Sweden, allowing fully remote work from European and US east coast time zones.
+
+Mission
+In this role you will have a broad range of responsibilities and tasks that touch most of our technical components and teams in R&D: web, signup, app and our customer service team. You will be responsible for integrations between our Natural Cycles app and different platforms, e.g. different hardware platforms, customer service platforms, CRM, logistics and more. This will enable our teams to optimize and improve the growth drivers and hence maximise the impact on our mission to empower women.
+
+What you will be doing
+Implement new and maintain existing integrations between different internal platforms as well as with external partners.
+Help the customer service team to progress on automation and testing new tools for helping our users.
+Help automate and improve internal QA processes and tools when releasing our product.
+Work hands-on with data insights and analytics and if possible, always take the data driven approach.
+Work closely with stakeholders across the organisation to make sure that you provide for the company’s short- and long-term goals and prioritize accordingly.
+
+Our technology stack includes:
+TypeScript, Node.js, Express.js running on GCP AppEngine
+Ionic, Angular, Capacitor on the Frontend
+Python and Kotlin for Data science
+Highly automated CI pipelines (Github Actions, CircleCI)
+Multiple backend production deployments per day with <1% rollbacks (measured since 2019)
+AppStore/GooglePlay releases on a monthly basis
+Backend unit test coverage above 70% since 2019
+We ♥ Open Source, encourage Open Source contributions and often open our general-purpose repositories.
+
+What skills and experience we think you have
+Experience in Backend and Frontend development alike.
+Experience with modern JavaScript, TypeScript, Node.js in production.
+Experience with continuous delivery and automated testing.
+Good planning and organizational skills with an ability to manage competing demands.
+Creative and pragmatic approach to problem solving with the ability to focus on details while maintaining the “big picture” view.
+Great communication skills with stakeholders, as well as working closely with the full R&D team with product owners, engineers and designers.
+Not required but it would be a bonus if you also have:
+Familiarity with public cloud such as GCP.
+Commercial acumen and understanding of business drivers.
+A passion for women’s health.
+
+How to apply
+Complete the application on our career site by uploading your CV and answering the questions in the application form (click the 'Apply' button to go directly there). Please note that only applications in English and submitted through the career site will be considered.

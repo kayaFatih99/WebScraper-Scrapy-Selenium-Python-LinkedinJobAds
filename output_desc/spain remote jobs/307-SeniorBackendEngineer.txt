@@ -1,0 +1,53 @@
+About the job
+The role
+
+Your work will set the foundation for Mavenoid applications that help people around the world get better support for their hardware devices. You will primarily work on the TypeScript backend, from technical implementation of features to designing the system architecture to ensuring application security and reliability and helping us grow the team. You will start hands-on, by building backend services in our TypeScript codebase that form the foundation for new product features, but before long we expect you to contribute ideas on how you see our product grow and mature.
+The backend runs TypeScript on NodeJS, backed by PostgreSQL, and deployed to Google Cloud and Heroku. We have a GraphQL API with generated types, so we’re type-safe from the database to the CSS. Our frontend is a React app written in TypeScript. The ML/AI services are written in Python and interact with the Typescript backend via APIs.
+Parts of the backend infrastructure are maintained as open-source projects by Mavens, such as atdatabases, funtypes. Everything else is in a mono-repo hosted on GitHub.
+
+In your first month, you will
+Complete Mavenoid’s remote onboarding program.
+Meet with the entire Product team to understand what is being worked on.
+Familiarize yourself with our platform and product, and processes.
+Ship a few small features or performance improvements.
+Design your initial 90-day action plan.
+
+In your first three months, you will
+Ship your first major feature to production.
+Collaborate with frontend and/or machine learning engineers when making technical decisions.
+Collaborate with the rest of the team to bring your input on the system architecture and the product.
+
+In your first six months, you will
+Propose, discuss, coordinate and implement your first large platform or architecture change.
+Be familiar with a large portion of the platform, including the details of our CI/CD pipeline, machine learning services and integrations to external systems.
+Own a part of the platform and be able to identify the areas of improvement.
+
+
+RESPONSIBILITIES
+Build new product features in collaboration with other engineers, designers and product managers.
+Ensure high availability and adherence to security standards for our platform.
+Continuously improve monitoring and alerting systems.
+Manage integrations with internal and external systems.
+
+QUALIFICATIONS
+4+ years of experience as a backend engineer
+Experience building web applications using TypeScript or JavaScript on NodeJS or Deno.
+Experience designing APIs via REST, GraphQL or WebSockets.
+Experience building and maintaining the infrastructure for deploying and running backend services.
+Ability to take complete ownership of a feature or a project.
+Ability to traverse the technical stack upwards and downwards from the backend as needed, solving problems with deployments and making tweaks to the frontend.
+Good communication and collaboration skills.
+
+This role is remote-eligible from countries in UTC 2+/- hours time zone.
+
+
+WHAT WE OFFER:
+
+The upsides of joining a startup early: outsized impact, real ownership and accountability, hard problems, faster learning, quicker decisions, less bureaucracy, and meaningful equity combined with fair compensation.
+
+- Remote-first policy: Work from home or if you prefer, from one of our offices in Stockholm, Sweden, New York City, US, or Amsterdam, The Netherlands.
+- Employees’ work-life balance: flexible working hours and 25 days paid leave + national bank holidays.
+- Employees’ wellness: free food during working hours, bi-weekly meditation sessions, and up to $500 as a Health Perk.
+- Remote/home setup: latest generation Mac, large screens, ergonomic desks/chairs, and other equipment you might need.
+- A career opportunity where your professional growth is in focus: unlimited books, 3 days off per year to focus on personal development, and up to $2,400 for courses, conferences, and other learning material.
+- Regular company trips, and remote activities.

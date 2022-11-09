@@ -1,0 +1,28 @@
+About the job
+¿Te apasiona la tecnología? ¿Te atrae el mundo de la televisión digital? ¿Te gustaría formar parte de un equipo que comparte tus ganas de aprender y crecer? ¿Te gustaría participar en distintos proyectos para compañías como HBO, La liga, Sky, Fox, Filmin, Movistar+ o National Geographic?
+¡Entonces no pierdas la oportunidad de formar parte de nuestro equipo!
+
+Estamos buscando un Desarrollador Frontend con React.js que desee desarrollar su carrera profesional en el sector TV/streaming para incorporarlo a nuestra plantilla en España. Nuestras oficinas están en Madrid, pero si quieres teletrabajar, también puedes incorporarte de manera remota desde cualquier parte de España.
+
+Requisitos
+En torno a 3 años desarrollando con javascript, y con experiencia específica con el framework react.js.
+Experiencia en testing unitario imprescindible. Importante para trabajar con una metodología TDD.
+Git y Gitflow
+Atomic Design Pattern
+Deseable: AWS Cloud
+
+Formación
+Estudios de ingeniería o similar
+Deseable nivel de inglés medio-alto (B2)
+
+Y nosotros, ¿Qué tenemos para ti?
+
+Trabajo en un entorno familiar, donde cada miembro es imprescindible y conocido por todos los demás.
+Trabajo en un entorno internacional.
+Formación acorde al puesto en las tecnologías más punteras del mercado, en Inglés y en competencias/habilidades. Además ofrecemos certificaciones oficiales.
+Opción de retribución flexible
+Oportunidades de crecimiento tanto a nivel vertical como horizontal
+Seguro médico.
+Inmejorable ambiente de trabajo y posibilidades de desarrollo profesional en una empresa en pleno crecimiento.
+Seguro médico
+y muchas otras ventajas más!

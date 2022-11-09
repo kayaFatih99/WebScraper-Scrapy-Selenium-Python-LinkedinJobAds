@@ -1,0 +1,53 @@
+About the job
+Purpose
+
+One of our goals at Pearson is to help more people learn English and other languages, to enable them to make progress in their lives, whether that's to get a promotion at work, to move abroad to study or work or to earn a qualification. Mondly is part of our English Language Learning division. Mondly offers high quality online learning in English and 40 other languages to consumers across the world via its mobile and web apps, virtual reality and augmented reality products It has had 100 million downloads worldwide, offering professional and personal language learning in a combination of 1300+ different language pairs.
+
+This is an exciting time to join the Pearson Mondly team, as you can play a key part in shaping growth plans.
+
+As a PHP Full-stack Developer, you will work on Mondly's core products alongside one of the most capable teams of professionals in the app development world. You will be responsible for developing, deploying, and maintaining high-quality web applications.
+
+Key Accountabilities
+
+Back-end: You will have the opportunity to develop new features for the web apps and implement back-end functionality that will reach and enrich millions of people's lives. You will be able to see the impact of your work almost immediately and know that you are making a difference in the world. The technology used: PHP with Yii2 framework.
+Front-end: You will collaborate efficiently with the web development and design team. You will be responsible for implementing, adapting, and deploying design templates. This work will require a good understanding of both design and development, as well as a willingness to work closely with others on a team. The technology used: Javascript with EmberJS framework.
+Ownership: You will work with the team to choose the best technical solutions, perform DB migrations when needed, test the apps and develop bug fixes. This will ensure that the apps are of the highest quality and meet the needs of the users.
+Complexity: You will need to keep scalability in mind for everything you do while working on this project. Any new feature you add must have a back-end and database architecture that can support a large number of users. Our user base is currently 100 million and growing, so it is important that your additions can accommodate that. The technology used: AWS.
+Quality: We constantly strive to do our best and be like the high-quality people around us. We expect the best from ourselves and from each other and are always looking to improve. We are driven by a desire to be the best we can be, and to surround ourselves with others who share that commitment.
+Other technology tools used for the database: MySQL, Redis, MongoDB.
+
+Candidate profile
+
+Qualifications & Skills
+
+Extensive years of experience as a Full-stack Developer with PHP
+An excellent track record of success in providing solutions for complex technical requirements in both back-end and front-end development
+Proficiency in Javascript and PHP and frameworks like EmberJS for the front-end and Yii2 for the back-end (or other similar frameworks)
+Experience in creating statistics/graphs in the UI is a plus
+Advanced English proficiency
+Ambition and drive for quality and results
+A good eye for detail and interest in technology
+Solid collaboration skills
+A positive attitude and open-mindedness
+Robust decision making - based on evidence and data
+Passion for education and learning
+Possesses a global outlook and approach
+Operates as a self-aware, effective team player
+Experience of working and thriving in a global matrix organization is a plus
+Excellent communication skills in English language is a must
+
+Skills/ Competencies
+
+Digital Transformer: Continuously improving and learning, able to identify and create real-time, iterative solutions to external or internal obstacles.
+Understand the Business: Has/develops knowledge of business and product strategies. Bringing digital mindset and PHP Full-Stack experience to bear in solving challenges and capturing opportunities.
+Drive focus on learner outcomes: Understands and supports the delivery of learner outcomes and experience-led software development; able to embed efficacy when building solutions and approaches to implementation
+Collaboration: Acts as a member of cross-functional teams with minimal guidance. Partners closely with internal stakeholders.
+Innovator: Investigates and validates the new market and product opportunities based on emerging trends.
+
+Job: TECHNOLOGY
+
+Organization: English Language Learning
+
+Schedule: FULLTIME
+
+Req ID: 6706

@@ -1,0 +1,31 @@
+About the job
+Asaitec is a Spanish company located in Madrid created in 2013 that provides offshore Java services for European companies. Our goal is the development and maintenance of different services and applications.
+
+We are looking for a full-stack developer who is a team player who can work independently and working together in a approachable and open dialogue and evaluate his/her work with a critical eye.
+
+This person should have extensive knowledge and experience working with Java and Angular.
+
+The following skills are mandatory
+5 years Java development experience.
+Experience with back-end technologies such as Spring Boot JPA REST Hibernate...
+Solid experience with Angular 2 or higher.
+Level B2/C1 in English both spoken and written (will be tested)
+It will be assessed
+Experience with TDD (Test-driven development)
+Have worked with GIT.
+Experience with management and construction tools such as Gradle.
+Knowledge of databases and modeling.
+Microservices experience.
+We offer
+Remote working.
+Private medical insurance.
+Restaurant ticket or transport supplement.
+Training.
+Time flexibility and family-friendly policy.
+Individual career plan.
+Annual salary review.
+If you want to be part of an international project don t miss the opportunity to join Asaitec team!
+
+java, angular, spring boot,
+
+e3111149e20bd3dabd48

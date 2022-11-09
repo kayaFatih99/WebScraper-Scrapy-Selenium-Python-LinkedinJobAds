@@ -1,0 +1,23 @@
+About the job
+Backend Developer London to £90k
+
+Backend Developer (Golang Python Microservices AWS Kubernetes Docker). Are you a tech savvy Backend Developer? Do you have an interest in the Cyber Security space and a desire to be part of a thriving start-up environment?
+
+Successful cyber security risk management company that is experiencing huge growth is seeking a Golang Developer to join their expanding team.
+
+As a Backend Developer, you will design and develop new features and functionality for the core cyber platform, expanding out the cyber security services and tools. This role is primarily backend focussed although there will be elements of front end development, working across various tech projects and user workflows and building out dynamic customer facing platforms. The team mainly use Python and Golang on the backend as well as Docker, Kubernetes, event based Microservices and Kafka with JavaScript and React on the front end.
+
+The company office is based in London although, you can work remotely most of the time if preferred (must be commutable to London 2 – 3 days a month). The team have a fantastic culture, encourage continuous learning, and dedicate Friday afternoons to working on their own projects, learning new technologies or working on projects with different teams.
+
+Requirements:
+You have strong backend programming skills using Python and / or Golang
+You have good knowledge of AWS
+You have experience with event based Microservices architecture
+You have experience with some of the following: Docker, Kubernetes, and Kafka
+You have excellent communication and collaboration skills
+
+As a Backend Developer you can expect to earn a competitive salary (up to £90k) plus benefits.
+
+Apply today!
+
+Ref: 18434/D/AT/031122

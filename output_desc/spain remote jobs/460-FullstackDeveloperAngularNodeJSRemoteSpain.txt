@@ -1,0 +1,25 @@
+About the job
+CactusSoft is ready to expand the team with a Fullstack Developer in its brand-new hub in Seville. In this role you will be working as a part of a scrum team on the development of apps in such domains as Education, HR, Healthcare, Fintech, Fleet Management, Digital Transformation, etc.
+
+CactusSoft stands for professional development and constant improvement of technical skills. We often start projects from scratch and choose a modern stack of technologies based on project needs and preferences of our team.
+
+You Are a Good Fit If You...
+
+Are willing to learn and curious to new things.
+Have at least 3 years of experience in development with Angular and TypeScript / NodeJS.
+Are proficient in Microservice API development using NodeJS or Python.
+Have knowledge of database systems with SQL/NoSQL like Influx and MongoDB.
+Know about Software development tools such as Gitlab, Github and JIRA.
+Know about Docker, Kubernetes, cloud services (like AWS or Azure) is a plus.
+Have CI/CD experience is a plus.
+Have worked with Scrum methodology.
+Have strong communication skills and proficiency in English is a must.
+
+To ensure your comfortable working environment we offer:
+
+Competitive gross annual salary + benefits
+Flexible working hours.
+Health insurance.
+Work-related courses, certifications, and books.
+English classes several times a week.
+Opportunity to work remotely in an international environment.

@@ -1,0 +1,15 @@
+About the job
+The Individual
+• 3+years experience with modern web development
+• Strong and proven experience working with frontend technologies
+• Experience with REST APIs.
+• Good communication skills.
+• Ability to work in an Agile team.
+
+Responsibilities
+• Continuous development to the user interfaces for their in-house tools and the prospect of working on client-facing interfaces later on.
+• Closely working with backend developers to interface with APIs.
+• Develop and enhance the front end of powerful data-driven tools.
+• Troubleshooting, identifying and solving bugs.
+• Creating and implementing highly responsive user interface components.
+• Making mockups and wireframes.

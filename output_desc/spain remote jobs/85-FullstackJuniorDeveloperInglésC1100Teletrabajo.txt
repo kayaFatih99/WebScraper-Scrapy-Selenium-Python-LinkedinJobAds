@@ -1,0 +1,43 @@
+About the job
+Serviguide BPO, perteneciente al grupo HPS, precisa incorporar un Desarrollador Fullstack Junior con al menos 2 años de experiencia para trabajar en un importante proyecto para una importante entidad bancaria ubicada en Londres, UK.
+
+Ofrecemos
+Contrato indefinido.
+Horario: de 8:00 a 18:00 de lunes a jueves y de 8:00 a 15:00 los viernes
+Participación en proyectos y tecnologías innovadoras.
+Ambiente de trabajo internacional.
+Modelo 100% REMOTO desde España para UK.
+Principales Actividades
+Diseñar, implementar aplicaciones en varias tecnologías
+Asistir en el análisis y diseño de nuevos procesos en torno a la definición de requisitos,
+recopilación de información y metodologías de documentación consistentes.
+Construir despliegues automatizados de aplicaciones y configuraciones de sistemas
+Participar en la revisión del código y contribuir a mejorar las prácticas comunes.
+Debe tener la capacidad de investigar, analizar y desarrollar microservicios
+Impulsar, diseñar, implementar y mantener la automatización del despliegue desde el check-in del código hasta la producción.
+Analizar las metodologías para la mejora de los procesos, la mejor utilización de los recursos, las mejoras del producto, la mejora de las comunicaciones y la resolución más rápida de los problemas.I.
+Requisitos
+
+¿Qué buscamos en este puesto?
+Pasión / interés por la tecnología y la metodología de puesta en marcha.
+Deseo de aprender
+Trabajo y conocimiento sobre bases de datos (i.e.postgresql, mysql, oracle, neo4j), servidores de aplicaciones (i.e. tomcat, jetty), HTML5, framework Java Script, microservicios y tecnologías J2EE.
+Trabajo y conocimiento sobre API
+Experiencia práctica trabajando bajo metodologías ágiles, framework backend (i.e Spring, Spring Boot, hibernate ...) y framework frontend (i.e React, Angular)
+Experiencia en desarrollo de UI basado en componentes (react, angular)
+Experiencia en desarrollos en plataformas basadas en la nube (Azure, AWS)
+Capacidad para asociarse con ingenieros de software internos o externos y analistas de calidad para identificar el curso de las resoluciones.
+Capacidad para solucionar rápidamente los problemas y excelentes habilidades analíticas de resolución de problemas.
+Capacidad para adaptarse rápidamente a las nuevas tecnologías y a los cambios en los requisitos del negocio.
+Mentalidad de resolución de problemas y capacidad analítica.
+Adaptación a los cambios y resultados efectivos.
+REQUISITOS obligatorios
+
+Al menos 2 años en backend, basado en Java - Spring boot e hibernate, y al menos 1 año en Angular o ReactJs o HTML.
+
+Deseable
+
+1 año en Jenkins, y conocimientos de desarrollo en la nube (Azure / AWS)
+
+
+Nivel C1 de Inglés: Proyecto Internacional**

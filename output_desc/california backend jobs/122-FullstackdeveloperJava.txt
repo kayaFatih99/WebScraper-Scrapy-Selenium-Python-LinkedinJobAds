@@ -1,0 +1,4 @@
+About the job
+· Full stack Developer with JAVA, NodeJS, Angular, Typescript, Devops knowledge, React basics and AWS
+· Candidate should have excellent com skills.
+· Candidate should be able to articulate and explain better about the project worked on and architecture of that project

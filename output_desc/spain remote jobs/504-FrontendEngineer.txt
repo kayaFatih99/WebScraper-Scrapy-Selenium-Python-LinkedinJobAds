@@ -1,0 +1,71 @@
+About the job
+***Please note that we are required to add a location to job ads but this role can be based remotely in Spain.***
+
+At Scandit, we develop smart data capture technology that enables businesses to use smart devices to extract data from barcodes, ID documents, text and objects.
+
+No app? No problem. Our products are used on hundreds of millions of Android and iOS devices in their native version, and our WebSDK allows developers to integrate the same high performance scanning technology to the web browser, enabling scanning from a website on any camera-equipped device - mobile or laptop. For more information, please check our product website.
+
+About the Role
+As opposed to a full-stack engineer who can also do frontend, we are looking for someone who has specialized in frontend. As a Frontend Engineer, you will be helping us bring the same snappy user experience that our native mobile app users have come to expect to the web browser by working on the WebAssembly version of our data capture solution.
+
+You will work on new features for the TypeScript/JavaScript library and bring it to feature parity with other platforms, optimize the performance of our WebAssembly library, as well as create samples and demos to showcase our products.
+
+What You Will Do
+Expand, optimize and maintain our multi-platform WebAssembly-based product and related infrastructure (TypeScript, WebAssembly, WebRTC)
+Add new features to the TypeScript/JavaScript library
+Develop and maintain the web app demos, allowing us to showcase our products to customers
+Ensure our web infrastructure is always fast and scales well via code / server / cloud optimizations and monitoring
+Transform initial designs into full-fledged optimal web products
+Ensure quality by delivering unit and e2e testing
+Browser debugging and optimization
+
+Our Tech Stack
+Our library is written in TypeScript and transpiled to JavaScript
+We use WebAssembly, WebWorkers, WebRTC and future WebAssembly features
+We have some WebAssembly / JavaScript glue code in C++
+We create samples and demos for React, Angular, WebComponents
+We use Jest, Playwright, Nightwatch.js, Sinon.js, and AVA for testing
+
+While having experience with the above technologies is an advantage, we understand that not everyone will have had the opportunity to work with all of them! If your experience is with JavaScript instead of TypeScript, for example, we’d still encourage you to apply.
+
+Who You Are
+You have an in-depth knowledge of JavaScript or TypeScript and you keep up-to-date with the latest web technologies, tools, and best practices. You enjoy designing solutions with a strong focus on your users’ needs without compromising on quality and performance when it comes to your code.
+
+You’re also someone with a strong team spirit, is keen to collaborate on different projects, and share knowledge with your peers to ensure we’re always working with the best technologies and tools.
+
+Ideally, you:
+Are inquisitive and have a solution-oriented mindset
+Have experience with different web platforms and browsers
+Are capable of detailed design via CSS, SASS and related frameworks and tools
+Experience with various web-related development tools (Webpack, Rollup, etc.)
+Knowledge of networking, backend and C++ is an advantage.
+Are willing to go beyond your role, your team and (sometimes) your comfort zone to make a cross-functional impact on the business
+
+What We Offer
+Here are just some of the reasons why people choose to build their career at Scandit:
+A highly skilled team and a fun environment where you can put your enthusiasm for cutting-edge technologies to use
+Excellent office infrastructure, optimized for hybrid working in Zurich, Warsaw, Tampere, and London.
+Excellent support for remote work across the UK, France, Italy, Spain, and Germany
+Innovation hackathons
+People-first culture
+Global team outings
+Festive/end of year all company celebrations
+Your birthday off
+An attractive individual equity plan in a high growth company
+Do good and give back with 2 impact days where you are able to give time to one of our trusted nonprofit partners
+Specific benefits related to the location you are joining
+
+Who We Are
+Scandit enables enterprises and consumers to change the way they interact with everyday objects and augment the physical world with real-time data captured by scanning barcodes and recognizing text, objects, and other visual identifiers using smartphones, tablets, wearables, drones and robots.
+
+Our mobile data capture platform is built on proprietary computer vision, augmented reality, and machine learning technologies. Companies in industries such as retail, transportation & logistics, manufacturing, and healthcare can use Scandit’s technology to create and power mobile apps for crucial enterprise workflows like mobile point of sale, mobile shopping, self-checkout, inventory management, and proof of delivery.
+
+“Everybody is welcome here” - Is a celebrated component of our DNA.
+
+At Scandit we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be a safe space for all.
+
+All qualified applications will receive consideration for employment without regard to race, colour, nationality, religion, sexual orientation, gender, gender identity, age, physical [dis]ability or length of time spent unemployed.
+
+Imagine the What. Build the How.
+
+Apply today!

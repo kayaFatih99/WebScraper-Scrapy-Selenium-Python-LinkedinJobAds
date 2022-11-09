@@ -1,0 +1,28 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Blue Ocean Ventures, is seeking the following. Apply via Dice today!
+
+Hello
+
+My client (Ness Digital Engineering / OCC) is looking for Java Full stack Developer Based on your background I believe that you could be a good fit.
+
+I would like to set up a time that we can connect to discuss a potentially better Opportunity.
+
+Feel free to call me anytime on or drop a quick note on
+
+JOB DETAIL
+
+The strongest candidates will have as many of the following as possible:
+
+A bachelor's degree in computer science or another technical field or equivalent experience
+At least 5+ years of Java development experience, preferably in the Financial Services Industry
+Thorough knowledge of Spring frameworks
+Experience with Kafka messaging platform
+Experience with Big Data/streaming platforms such as Spark, Flink, Kafka Streams, and/or Kinesis
+Experience using AWS Cloud (EC2, EKS, EMR, Lambda, S3, etc.)
+Familiarity with containers, micro-services, and APIs
+Experience working with different operating systems (Unix, Windows, Linux)
+Deep understanding of web services and RESTful interfaces
+Experience with Git and continuous integration tools, such as Jenkins or TeamCity
+Ability to design, code, test, and deploy software through the full application lifecycle, working closely with Business Analysts to ensure that APIs perform as per user specifications
+Strong communication and interpersonal skills and able to work with a variety of stakeholders and cross-functional teams
+- provided by Dice

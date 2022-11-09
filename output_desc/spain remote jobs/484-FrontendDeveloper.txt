@@ -1,0 +1,41 @@
+About the job
+My client is quickly establishing itself as one of the leading affiliates and performance marketing actors on the iGaming market. To spearhead the continued growth we’re looking for a PHP software developer that will help us implement the our vision.
+
+The Platforms Team is an internal team that works on a next-gen content platform, allowing our Product Teams build sites on top of a centralized CMS.
+
+As a Software Developer on the Platforms team you are expected to …
+🦋 Code and deliver quality software
+🦋 Identify the causes of reported bugs and implement the respective fixes.
+🦋 Coordinate with UX/UI designers, developers and test engineers in an Agile environment
+🦋 Perform impact assessment of features and defects with Product Owner
+🦋 Share and promote your ideas towards the improvement of the products and the business
+🦋 Abide by industry and company software development standards
+🦋 Help and provide guidance to junior developers
+
+Success in this role means...
+🦋 Improve usability of the platform for our Product Team
+🦋 Introduce new features that will allow migration and creation of our sites to the platform
+
+Job requirements:
+🦋 Vue 2/3
+🦋 Nuxt (server side rendering capabilities in particular & its integration with auth/firebase)
+🦋 Vuex
+🦋 NodeJS
+🦋 Firebase / firestore, with particular attention to cloud functions and the firestore
+🦋 SEO/performance best practices
+🦋 Git & a solid understanding of working in multiple repositories for a single project
+🦋 Solid understanding of APIs, both building them for our site and consuming them
+🦋 Passionate about self-improvement and web technologies
+🦋 Strong English communication skills (written & verbal)
+🦋 Ability to address change with a positive attitude and a willingness to learn new ways
+🦋 Available to work +/- 2 CET
+
+Nice skills to have
+🦋 Experience with Vuetify, Vercel and/or Elastic Search
+🦋 Basic understanding of caching
+🦋 Basic understanding of Cloudinary
+🦋 Basic understanding of elastic search or similar (algolia etc)
+🦋 Knowledge of USA gambling markets
+🦋 Knowledge of sports gambling (odds etc)
+
+If you'd like to find out more please send over your CV to eleonora.gottifredi@pentasia.com or check the link above.

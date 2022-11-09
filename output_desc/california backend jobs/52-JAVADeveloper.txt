@@ -1,0 +1,59 @@
+About the job
+Java Developer
+
+REMOTE
+
+Security Clearance: SECRET
+
+Position Description:
+
+As a Java Developer you will develop application code based on requirements in JIRA tickets (stories/bugs) with acceptance criteria. You will be part of an agile team with sprint releases every three weeks. As a member of the agile team, the candidate will participate in the architecture, design, development, testing, and deployment of the system. You will be responsible for assisting with estimate of story points attributable to the requirements, and in assisting other members of the agile team in understanding and coordinating the completion of code. The developer may be asked to contribute to the generation of technical documentation for the Equipment Location – Certification Information Database (EL-CID) Online System to be submitted to the government’s Information Assurance (IA) team as a part of the Authority to Operate (ATO) package.
+
+The EL-CID Online application uses XML and XSLT extensively; the successful candidate must be strong in XML/XSD/XSLT including an Oracle XML database. Additionally, the system uses Google Web Toolkit (GWT) for the user interface, Altova Stylevision to create PDFs, Bizflow for workflow, WorldWind and Bing Tile server for maps, and Oracle XML for the database.
+
+This Is a Full-time Position Offering Excellent Benefits.
+
+Responsibilities Include:
+
+Set up developer environment to run SubVersion (Tortoise), Eclipse, and SQL Developer (or equivalent to connect to Oracle database). Must also have experience with performing software builds using tools such as Jenkins.
+Participate in an agile team to deliver the full lifecycle, including requirements, architecture, design, development, testing, and deployment.
+Design, develop, and maintain Java and JavaScript code that meets requirements, is high quality, and performs efficiently and effectively to provide a great customer experience.
+Update stored procedures and triggers in Oracle XML database.
+Incorporate standards and best practices, including performance, security, scalability, and maintainability.
+Review and provide feedback on functional and technical requirements.
+Define and propose solutions for meeting requirements.
+Contribute to improvements in the software development process utilizing practices such as test-driven development (TDD), static code analysis, code reviews, continuous integration, continuous delivery, and automated security scanning.
+Working closely with solutions architect to ensure system design follows the industry best practices and standards.
+Recommending coding solutions for other developers to implement.
+Invest in the software development efficiency of the entire team through teamwork, personal responsibility, and process improvement.
+Provide Operational support expertise. Assist with debugging software in production including analyzing server logs and performing systematic assessments for identifying root causes of faults or problems.
+Understand production environments including security hardening, performance tuning, and access control.
+Participate in special projects as required.
+Good written and verbal communication skills coupled with strong listening skills.
+Ability to contribute on an individual basis as well as demonstrate your strengths as a team player as a member of an agile team.
+Ability to diagram system using Visio or equivalent – to capture system architecture and the like as needed.
+Ability to write technical documentation where audience is a technical person that has no knowledge of the system.
+Ability to review existing Java code to be able to write a few sentences about each Java class.
+Assist with mapping Security Technical Implementation Guides (STIG) controls to Application.
+Assist with creating and maintaining system design documents including a software build standard operating procedure (SOP).
+
+Qualifications Include:
+
+MUST HAVE ACTIVE SECRET CLEARANCE
+Bachelor’s Degree and three years specific experience, or nine years of general experience with six years of specific experience:
+3+ years of experience with Agile development, DevOps, continuous integration, and continuous testing
+5+ years of experience coding in Java
+3+ years of experience with coding JavaScript
+4+ years of experience with XSD, XSLT, XML
+2+ years of experience with Oracle XML
+3+ years of experience writing Stored Procedures and SQL
+Knowledge of SubVersion, GIT, or Team Foundation Server (TFS) version control system
+3+ years of experience writing technical documentation
+
+Desired Qualifications:
+
+Knowledge of Google Web Toolkit
+Knowledge of JIRA and Confluence
+Knowledge of radio transmitters and receivers, radar, antennas, and satellites (radio spectrum)
+
+Aperio Global fosters a diverse work environment and provides equal employment opportunities (EEO) to all employees and applicants for employment. We prohibit discrimination and harassment of any type and offer employment opportunities without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other distinction protected by federal, state or local laws.

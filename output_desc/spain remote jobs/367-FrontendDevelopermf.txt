@@ -1,0 +1,23 @@
+About the job
+FRONT-END DEVELOPER (M/F)
+
+Experis is currently looking for a Front-End Developer (m/f) to strengthen a development team on behalf of a prestigious client with interesting remote possibilities! You will only be asked to come 5 days on-site per month or every 2-3 months.
+Your responsibilities
+
+The role is part of the Service Design department responsible for creating and maintaining the customer portal and internal tooling.
+
+Create and update the forms in the customer portal, so customers can proceed to (de)provision or interact with their hosting services instances.
+Contribute to internal tools willing for request follow-up, in the case of manual treatment.
+Analyze the business needs for new forms.
+Estimate the effort, implement, test, and release.
+Share expertise with teammates.
+Your profile
+
+Bachelors or master’s degree in Computer science and at least 3 years’ experience in software development.
+Very good skills in JavaScript development.
+Knowledge of Agile methodology.
+Fluent in English; any other European language will be considered an asset.
+Considered as a plus:
+o Experience with PHP Symphony.
+o Following technical skills: React, API and web services, Jira
+o ITIL Foundation certified.

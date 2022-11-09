@@ -1,0 +1,62 @@
+About the job
+Desde Grupo Digital buscamos un/a Programador FullStack para un proyecto en sector banca en Madrid.
+
+Funciones
+
+Programador experto para desarrollos con framework React por CTO.
+
+Requisitos
+
+Al menos 4 años de experiencia con React
+
+Conocimientos Framework Next
+
+Gestión de Estados con Redux
+
+Librerías gráficas como Material UI o similar
+
+CI/CD con GIT/Jenkins7Sonarqube o similar
+
+PUs con Jest o similar con objetivo de Coverage.
+
+Deseable
+
+Inglés Alto
+
+Conocimientos Cloud (Azure AWS Openshift)
+
+Ubicación Madrid
+
+Modalidad Remoto con posibilidad de alguna reunión puntual en instalaciones de cliente.
+
+Sobre Grupo Digital
+
+Somos un grupo de empresas tecnológicas formado actualmente por unos 400 profesionales en distintas áreas desarrollo sistemas ingeniería automática consultoría...
+
+Si quieres impulsar tu carrera con un proyecto único de la mano de una multinacional de primerísimo nivel no dudes en presentar tu candidatura. Te esperamos!
+
+Al menos 4 años de experiencia con React
+
+Conocimientos Framework Next
+
+Gestión de Estados con Redux
+
+Librerías gráficas como Material UI o similar
+
+CI/CD con GIT/Jenkins7Sonarqube o similar
+
+PUs con Jest o similar con objetivo de Coverage.
+
+Deseable
+
+Inglés Alto
+
+Conocimientos Cloud (Azure AWS Openshift)
+
+Ubicación Madrid
+
+Modalidad Remoto con posibilidad de alguna reunión puntual en instalaciones de cliente.
+
+react,Redux
+
+65cf122602cea3259541

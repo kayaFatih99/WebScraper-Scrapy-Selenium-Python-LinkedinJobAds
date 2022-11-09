@@ -1,0 +1,59 @@
+About the job
+Here at CreatorIQ, we help globally recognized companies — like AB InBev, Airbnb, CVS, Disney, H&M, LVMH, Mattel, Sephora, and Unilever to name just a few — grow, manage, scale, and measure industry-leading influencer marketing programs.
+
+Our mission is to create influencer marketing software that’s powerful enough for the world's largest companies, yet nimble enough for the next generation of innovative brands. To do that, we're going to need the brightest minds in the Creator Economy.
+
+One of our behavioral values at CreatorIQ is team members first, client focused. We put the holistic wellness of our team members first. One of the ways is through our “Focus Fridays” every other week - time for you to focus on you! We still get the work done for our clients, so it might mean you work on that key project with uninterrupted time or it might be a day spent walking in the park with your fur baby.
+
+As a hybrid work environment, you have flexibility with how you schedule your time. We encourage you to think about how you work best and add it to your schedule. Do you prefer early morning “off-screen time” to focus? Do you like to get your yoga workout done in the afternoon? Book it! And feel free to use our wellness program to cover the costs for that yoga class.
+
+Founded in 2014, CreatorIQ has received both industry praise for its workplace culture and rave reviews from our clients. We’ve earned the title of Best Place to Work from BuiltIn in Los Angeles and New York City, been named a Leader by The Forrester New Wave: Influencer Marketing Solutions, and enjoyed recognition by G2 as both a Leader in Best Customer Relationship and a Top 100 Fastest-Growing Software Companies.
+
+Our headquarters is in Los Angeles, with hubs in New York, San Francisco, Miami, London, Toronto, and Ukraine. In 2021, our CreatorIQ family expanded with the acquisition of Tribe Dynamics, the industry’s leading influencer marketing analytics platform. Our combined team is full of smart, driven, curious, innovative thinkers who are passionate about shaping the future of the Creator Economy—if that sounds like you, let’s talk.
+
+Middle Back-End Developer
+
+What you will do:
+
+Back-end development to meet Product business needs and implement components according to the modern software development environment (cloud-based platforms, microservice architecture, etc.)
+Develop and review feature design documents and provide inputs/update to specifications for the solution
+Design and implement a set of various types of tests (integration, functional, etc)
+Proactive position in architecture preparation, solution development, processes improvements
+Working in an international distributed team in an Agile environment
+Communicate with PMs, engineers, Architects, QA and other colleagues and stakeholders
+Delivering the product roadmap and plannings
+To use high coding standards, software best practices and write highly testable, automatable and performant code over the whole SDLC
+Develop and implement new features
+
+Who you are and what you’ll need for this position:
+
+3+ years of experience in Software Development
+Excellent knowledge in Computer Science, Computing Theory:
+Understanding of network interactions:
+Strong knowledge and experience in PHP
+Practical commercial experience with:
+REST API development
+Symfony, Laravel
+Testing frameworks (PHPUnit, Codeception)
+ORM (Doctrine, Eloquent)
+RDBMS (e.g MSSQL, MySQL/MariaDB, PostgreSQL)
+Version control systems (GIT)
+Cloud computing platforms (e.g. AWS)
+Docker
+Continuous Integration tools (e.g. Gitlab Pipeline, Jenkins, TeamCity, Bamboo)
+Experience with Social Networks API (FB/IG/Twitter/Youtube/Google Analytics etc)
+Experience with Third Party APIs integrations (implementation and beyond)
+Intermediate+ English
+
+What will you get from us:
+
+Benefits: we offer supplemental health benefits to you for free.
+Work From Home Stipend (if you are a remote team member): we want to assist you in setting up a home office that works for you.
+Focus Fridays: Every other Friday, you have the opportunity to use the day for your needs. It can be used for personal time or time to catch up on projects. The intent is to give you the flexibility to schedule how and when you work, to get the job done. Of course, if an important business need comes up on this day, the expectation is that you make room for it. Some departments need coverage and will adjust for another day.
+People: work together with talented, collaborative, and friendly people who love what they do.
+Development: utilize our learning platform, WorkRamp to get the training and tools you’ll need to become successful here from your first day with us. And take advantage of our professional development stipend.
+Fun: we host virtual events every month and weekly interactive company-wide meetings
+
+We are an equal opportunity employer and value diversity. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We strongly believe that diversity of experience contributes to a broader collective perspective that will consistently lead to a better company and better outcomes. We are working hard to increase the diversity of our team wherever we can, and we actively encourage everyone to consider becoming a part of it.
+
+This is your role! Claim your interview spot by applying now!

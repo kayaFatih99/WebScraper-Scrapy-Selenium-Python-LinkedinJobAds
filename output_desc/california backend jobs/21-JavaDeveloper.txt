@@ -1,0 +1,56 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, KYLMAR Solutions, is seeking the following. Apply via Dice today!
+
+Application Development that will be responsible for understanding the requirements of the business units and supporting the project and support teams by developing technical systems based on those requirements. In support of that responsibility, the Application Developer will work with the project and support teams, as necessary, to ensure the technical solutions meet the business needs, and are developed and implemented with high quality.
+
+The scope of responsibility for the position includes project support, as well as maintenance and production support activities.
+
+Essential Duties and Responsibilities: Solution Delivery
+
+Responsible for technical deliverables associated with application code development, including requirements documentation, functional design documents and specifications, work estimates, detailed and technical design documentation, application code and associated documentation, including documentation to fulfill audit requirements
+Demonstrate capability in the selected frameworks and support the technical lead(s) to enhance them
+Determine and document technical requirements for application systems, including system, module and unit design, unit test plans and test cases
+Support all phases of the software development lifecycle, including Requirements Gathering, Analysis, Design, Testing, Implementation, and Production support for software systems.
+Develop, debug and test computer applications based on user requirements documentation, and on input from subject matter experts
+Debug, remediate and enhance existing computer applications based on documented variances and enhancement requests, and with guidance from subject matter experts
+Support the technical developer lead as required to work with the database analyst/administrator and data modeling team to develop a data model appropriate for the application.
+Participates in code reviews
+Participate as a member of a cross-functional Scrum team
+Follow the approved methodology for application development and maintenance
+Develop and maintain design documentation according to defined standards and practices
+Assist testing staff in developing product and integration testing approaches
+Assist business clients and product teams in integrating systems from external vendors
+Build and develop strong relationships with ITS' business clients by providing superior customer support as demonstrated by clearly owning, resolving and communicating issues and problems, and being responsive to needs, requirements, and deadlines
+Leverages expertise in enterprise integration patterns with SOA-based ESBs to develop or extend legacy system integration with the SOA Architecture
+Supports the operation of a continuous integration environment, including development of automated test cases (unit and functional), build and release management support, and defect correction support
+Ensure consistency in development approaches and practices
+Actively participate in creating a culture of continuous improvement and collaboration
+
+Required
+
+BS degree in Computer Science, Engineering or related discipline or equivalent experience in application development, SOA integration or business analysis
+Strong analytical skills and the ability to multi-task
+Excellent oral and written communication skills. Ability to understand others and clearly express thoughts
+Ability to produce high quality work deliverables with high attention to detail
+Ability to effectively work in a team environment
+Ability to manage multiple concurrent objectives, projects, or activities
+2 - 5+ years of professional work experience.
+2 - 5+ years’ experience in a J2EE environment using JBoss, WebSphere, or WebLogic
+2- 5+ years’ experience with Java-based web development frameworks and technologies including JSF (PrimeFaces or Rich Faces), Struts 2, Spring MVC/WebFlow and component technologies including HTML, JSON/Ajax, CSS and XML
+Understanding of web development performance issues and mitigation approaches
+Understanding of concurrency programming, threading issues and mitigation approaches
+Understanding of Oracle RDBMS and SQL -- PL/SQL development desired but not required
+Familiarity with Spring - IoC, AOP, Dependency Injection
+Familiarity with Eclipse, Maven, Subversion, and continuous integration tools including Hudson and TeamCity
+Familiarity with Persistence Frameworks including JPA, Hibernate and iBatis.
+Familiarity with SOA, service-oriented concepts and web services (SOAP-based and RESTful)
+Familiarity with the Agile SCRUM process
+
+Preferred
+
+Strong understanding of application architectural concepts and design patterns
+Experience with test driven or behavior driven development
+Significant experience in an Agile software development environment
+Electric industry knowledge—specifically around design, development and implementation of Energy Management Systems and/or Market Management Systems
+Experience working in a dynamic, highly collaborative environment, requiring close consultation, management, and coordination
+- provided by Dice

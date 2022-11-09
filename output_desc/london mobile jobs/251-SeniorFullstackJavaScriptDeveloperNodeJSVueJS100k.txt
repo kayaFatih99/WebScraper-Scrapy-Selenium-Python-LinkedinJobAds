@@ -1,0 +1,37 @@
+About the job
+This is a remote position.
+
+Coders Connect are partnering with a leading provider of document and workflow automation software solutions to the global structured products industry. Their document, workflow, connectivity and data solutions enable straight-through processing and deliver improved efficiency, accuracy and insight for its capital markets clients. They are currently preparing for a significant growth phase and are hiring to expand their technology team.
+
+About the role:
+Participate in the design and creation of scalable software
+Part of a cross-functional team that is responsible for the full software development lifecycle, from conception to deployment
+As a fullstack developer, you should be comfortable around both front-end and back-end coding languages, development frameworks, build tools and third-party libraries
+You should also be a team player with an understanding of good UX and task-oriented functionality
+
+You should:
+write clean, functional and testable code on the front- and back-end
+design client-side and server-side architecture when required
+develop and manage well-functioning data-centric web applications and services
+understand how to build high-performance and effective REST APIs
+take responsibility for testing your own code to ensure responsiveness and efficiency
+assist in peer code reviews and collaborative exercises
+be able to troubleshoot, debug and upgrade software
+understand mobile-first responsive design
+write clear, well-formatted technical documentation
+be able to clearly communicate and summarise complex technical information to management and non-technical team members
+
+Requirements
+Proven, commercial experience as a web developer, with substantial experience using both client and server-side javascript
+Experience working on high-performance, highly-available, enterprise-grade NodeJS web services
+Be able to write HTML and CSS in your sleep, and know how to build cross-browser UIs
+A working knowledge of client-side build tools such as Webpack, Rollup, SCSS, NPM
+An understanding of web security best practice, OWASP top ten, SAST, SQL injection, CSRF, etc.
+Commercial experience of working with large, high-performance PostgreSQL and MongoDB databases (or equivalent), understand indexing, and be able to optimise application database design and queries
+Excellent communication and teamwork skills
+Attention to detail, and an organised, analytical approach
+
+Education, Qualifications
+Computer Science Degree level or equivalent
+Experience working on AWS Services
+Financial markets experience is a bonus

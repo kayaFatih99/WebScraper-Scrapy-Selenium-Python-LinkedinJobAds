@@ -1,0 +1,36 @@
+About the job
+Streamable is on a mission to make video hosting as easy as possible. Streamable has a large customer base, solid revenue, and excellent organic traffic, but the team is small. That means that each team member has a massive impact. If you’re the type of person that likes working on a small team of highly skilled people and having a big impact, then Streamable might be a great fit.
+
+Streamable is off to an excellent start, but it’s still early days for us. We have a long and exciting road ahead of us. With the acquisition of Streamable by Hopin, Streamable’s goals are ambitious, and we’re excited to be a key part of Hopin’s mission.
+
+The Role
+
+We are looking for a Senior Fullstack Engineer with experience building applications with NodeJS, ReactJS, Javascript/Typescript and CSS. We are seeking a product obsessed individual with high attention to detail.
+
+About You
+Excellent Javascript or Typescript skills
+Fullstack experience with modern web development language e.g Node.js
+Experienced creating smooth user interfaces with React, CSS and HTML
+Passion for clean and appropriately tested code
+Strong understanding of different software development practices and how each can help shop more value to our customers
+Located in between GMT-5 and GMT+1, or willing to work those hours
+Nice to have
+Experience working with Python
+Experience working with video technology, like FFMPEG and GStreamer
+Experience with infrastructure tools like Docker, Kubernetes, Terraform, etc
+The Offer
+Fully remote, global team
+Flexible schedules
+Laptop assigned, Mac or Dell (Windows)
+Health Insurance Support
+Parental Leave
+$1000 USD for Home-Office Set up
+$100 USD monthly remote work stipend
+$1500 USD for Learning & Development
+Where And How We Hire
+
+Being a remote company enables us to hire the best talent from selected locations around the world. We can engage with you in any of our jurisdictions listed below, all you need to do is demonstrate the legal right to work and be physically present in that country. Some roles may have specific workforce location requirements which will be noted on the job description.
+Entity: Canada, UK, USA
+Employer of Record: India, Ireland, Portugal, Spain
+Full Time Contractor (Self Employed): Argentina, U.A.E.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.

@@ -1,0 +1,31 @@
+About the job
+About the team
+Localization is a strategic bet for Miro, and it is becoming an integral part of our product development lifecycle for all current and future products.
+The Localization team owns the infrastructure and common frameworks we rely on to localize Miro and empower everyone to collaborate, no matter where they are, what languages they speak, and what date format they use.
+Each role at Miro is based at one of our physical hubs and we look for talent that want to be part of these local, collaborative communities. Mironeers work in a hybrid model, with a 3 days a week in office culture as our baseline.
+
+About the Role
+As a Senior Full-Stack Engineer in our brand-new Localization team, you will support the whole product engineering team at Miro with best-in-class localization infrastructure supporting web, desktop, mobile, email and other platforms. Together with your team, you will own tooling and processes around localization, enabling simple setup, short production time, and high UX quality.
+This position is open to remote candidates across EU, UK and Israel.
+
+What you’ll do
+Directly contribute to the ongoing development of localization infrastructure and tooling at Miro
+Together with your team, continuously improve localization capabilities at Miro
+Help others introduce localization into their product lifecycle through documentation, training and coaching
+
+What you’ll need
+5+ years of software development experience
+Frontend development: JavaScript/TypeScript, HTML5, CSS3 and knowledge of any modern frontend framework (Vue/Angular/React)
+Backend development: experience with any modern backend tech stack (Java/.NET/Go/Node.js/etc). Any modern backend tech stack is welcome as long as you are comfortable learning Java/Kotlin + Spring Boot
+Curiosity to work on features that impact both our users and other Miro teams
+Experience integrating external SDKs
+Previous experience working with localization is a plus
+
+What's in it for you
+Stock Option Grant
+Medical Insurance coverage (in applicable countries)
+Lunch, snacks and drinks provided when in the office
+Allowance to facilitate remote working and workspace setup
+Weekly team activities (even virtually) to keep the spirits high
+Opportunity to work for a globally diverse team
+Work from anywhere, or from our inspiring workplace in the heart of Amsterdam

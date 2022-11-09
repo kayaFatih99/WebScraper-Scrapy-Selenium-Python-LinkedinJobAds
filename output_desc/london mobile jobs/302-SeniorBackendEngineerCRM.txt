@@ -1,0 +1,50 @@
+About the job
+Lyst offers a unique opportunity to work on a premium shopping platform, which is both a trusted partner to the world’s leading fashion brands and a global consumer-facing product. Over 150 million people use the Lyst app and website each year to shop an assortment of 8 million items via a highly personalised experience. Lyst is a scale-up environment, combining an agile mentality with a proven business model and over a decade of experience. This provides a balance between foundations and structure, and autonomy and pace. Our goal is to be the category leading destination which every fashion shopper uses to decide what to buy.
+
+Data and technology sit at the heart of everything we do, and we firmly believe that we can only meet our goals by prioritising our team and culture. We give our people the freedom to drive impact and shape the future of our company, within a diverse, inclusive and high-trust environment. We don’t rely on prescriptive rules, policies and procedures to drive results. We trust the judgement and ownership of our team, and prioritise learning and career development, knowing that our success is only possible thanks to our people. Lyst was founded in London in 2010, and has raised over $160m from leading investors including Accel, Balderton, Molten Ventures, Fidelity International, and LVMH.
+
+We're looking for a Senior Backend Engineer to join us to help Lyst grow and maintain our CRM Lifecycle technology. You will work closely with our current engineers, designers, marketing, growth and product managers to help us execute our product strategy. You will be the subject matter expert on all technical aspects of our CRM Platform (powered by Braze) and work with the Senior Operations manager will lead the design, delivery and documentation of repeatable, flexible and efficient campaign solutions within the Braze platform.
+
+You will identify, design and implement internal process improvements; automating manual processes, optimising data delivery, re-designing processes and solutions for reduced time to market, and creating replicable solution templates to support the low operating effort and greater scalability. A key part of the role is to implement and enable retention and personalisation strategy.
+
+What will you be working on?
+Optimise, improve, evolve our data integration between our systems and Braze
+Monitor our services for any signs of performance bottlenecks or errors
+Work with Senior Operations Manager and CRM Director flexible and efficient campaign solutions within the Braze platform
+Support key downstream systems and provide essential data pipelines for campaign personalization, targeting, reporting and analytics
+Help to build and maintain a customer model to enable our personalisation and retention strategy
+Work with other engineers around the business to bring more data sources into our CRM comms
+
+Requirements:
+Proven experience with Django / Python and backend software fundamentals (SQL, Git)
+Experience with API design and architecting systems for scale
+Communication: You are able to communicate clearly and be humble when sharing ideas with everyone on the team. You are able to explain your ideas clearly and transform them into plans. You are able to design the solution to a complex problem
+You strive to write code that is readable by everyone, well tested and robust in production
+You aren’t afraid to refactor existing code in favour of working around shortcomings
+(Bonus) experience working with CRM enterprise software solutions
+
+Things that matter to us:
+You are curious at heart and like to take ownership of something to make it better
+You are detail oriented
+You are a team player and communicate with your peers and other stakeholders in the company on a day to day basis
+Being confronted with a difficult or strange problem makes you feel like a detective that wants to crack the mystery
+Sense of ownership over products, features and services the team looks after
+You have experience iterating & refactoring existing code as well as writing new code
+You have experience building for fault tolerance
+
+Benefits:
+Flexible Working: Our flexible working approach offers a high degree of freedom and autonomy. Individuals are provided with the discretion to work remotely on a regular basis, with an expectation that a reasonable proportion of time is spent in the office to enhance in-person collaboration. If due to unique circumstances this doesn’t quite work, we are open to listening to what will.
+Time Off: In addition to the 8 statutory bank holidays, you will receive 29 holidays per year. Lyst’s holiday year runs from 1 April to 31 March.
+Competitive Family Leave Package: This includes Enhanced Family Leave for those eligible, paid Time off for Dependents and Support for Fertility Treatment & Loss.
+Clothing Benefit: We want you to enjoy using the Lyst app and site as much as our customers, so we provide you with a clothing allowance to use on Lyst every year. This starts at £250 when you join and increases up to £1,000 with your length of service.
+Private Healthcare: Our healthcare provider is Vitality. Your health is important to us which is why we offer all employees a comprehensive healthcare scheme from the day you start.
+Training Allowance: We’re big on continuous learning and growth, so all employees are currently entitled to an annual training allowance of £1,000. This can be used to attend conferences, industry events, training courses and to purchase resources.
+Pension Scheme: Our pension provider is The People’s Pension. We offer a minimum employee contribution of 5% and 3% employer contribution.
+Eye Tests and Vouchers: Employees can make a saving on their eye test and glasses through our chosen provider. You’ll receive a free eye test every year and a discount towards glasses.
+Cycle-to-Work Scheme: Lyst will purchase a bicycle from your chosen retailer, you will then receive a voucher to pick up your bicycle from them.
+Transport Season Ticket Loan: Employees can apply for an interest free season ticket loan to support your travel to work.
+Social Events: Frequent company wide social events including Christmas & summer parties, sports days, themed drinks, quizzes, cook alongs, as well as smaller team socials. We also have plenty of interest based groups such as football, running club, book club, culinary and more.
+
+We want to build a world where fashion works for everyone, and we want teams that are just as inclusive. Diversity and inclusion is an integral part of our culture at Lyst. We recognise and celebrate the value and impact diversity brings to our company and are committed to ensuring this is a consistent focus, for which we are held to account. We are committed to treating all applicants fairly and equally, and encourage candidates from all backgrounds to apply for this role. We are happy to talk about flexible working arrangements.
+
+Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Lyst we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.

@@ -1,0 +1,70 @@
+About the job
+We're Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+We're Celonis, the global leading Process Mining software company and one of the world's fastest-growing SaaS firms. We believe that every company can unlock its full execution capacity - and for that, we need you to join us as a Senior Front End (Angular) Developer
+
+The Team:
+
+At Celonis, we have a variety of different frontend challenges ranging from building forms, components, and pages for our products, reusable components, component libraries, design systems, micro frontend architectures, and highly optimized visualizations that render big data, frontend SDKs, etc.
+
+You will be assigned to the team that better matches your skill set so we can help you unlock your full capacity to deliver/perform at your best.
+
+Together as a team, we will decide how to build or improve our products.
+
+The Role:
+
+As a Senior Frontend Developer at Celonis, your responsibility is to find the best technical solutions applying frontend technologies to deliver a unique product, Celonis EMS.
+
+Working at Celonis, you will have a great impact on companies around the globe as they will improve their working processes to, for example, save money, become more efficient, and even reduce CO2/ Pollution, delivering a healthier planet for future generations.
+
+We are at the frontier of frontend engineering, pushing the frontend boundaries to make our EMS platform a reality, by developing new frontend infrastructures to support our extensible / widget based ambition of our product, SDKs and libraries for external developers like our partners, design system to keep all our products with the same look & feel, etc..
+
+Hence, if you want to be challenged in frontend and push the boundaries of what's already done, Celonis is the tech environment for you to thrive.
+
+At Celonis we work with Agile methodologies.
+
+Our tech stack is: Angular 11, Typescript 3, HTML5 & SASS.
+
+We develop using SOLID principles and focusing on performance.
+
+The work you'll do:
+Create highly performant and scalable components and improve our existing widgets and components
+Write clean, understandable, and testable code
+Work on complex Angular topics and architectures
+Develop features to enhance other developer's working environment
+Optimise app performance and maintain the existing resources
+Contribute and extend our Core architecture with Angular
+Drive performance optimisation as we render high amounts of data
+Play an active role in product discussions, influencing the roadmap and user experience.
+
+The qualifications you need:
+University degree in computer science or equivalent knowledge
++7 yrs of experience in Frontend Development (Senior developers)
+Proven experience with Angular, TypeScript/JavaScript, HTML5, CSS/SCSS
+Passion to develop UX focused web apps
+Familiarity with data structures and algorithms, profiling and optimisation
+Experience in writing and setting up tests (unit and integration tests) as well as with JS module bundlers such as Webpack
+Solid understanding how to setup CI/CD pipelines will be a plus
+Good communication skills (English is a must!)
+
+What Celonis can offer you:
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, mentorships, yearly development stipend)
+Great compensation and benefits packages (stock options, 401(K) matching, generous time off, parental leave, and more)
+Work from home support (mindfulness tools such as Headspace, monthly remote working stipend, flexible working hours, virtual events and workshops)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Employee resource communities to help you feel connected, valued and seen (Women@Celonis, Parents@Celonis, Pride@Celonis, Resilience@Celonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+
+Celonis believes that every company can unlock its full execution capacity. Powered by its market-leading process mining core, the Celonis Execution Management System provides a set of applications, and developer studio and platform capabilities for business executives and users to eliminate billions in corporate inefficiencies. Celonis has thousands of global customers and is headquartered in Munich, Germany and New York City, USA with 15 offices worldwide.
+
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Different makes us better.
+
+About Us
+
+Celonis reveals and fixes inefficiencies businesses can't see, enabling them to perform at levels they never thought possible. Powered by its market-leading process mining core, the Celonis Execution Management System provides a full set of platform capabilities for business executives and users to eliminate billions in corporate inefficiencies, provide better customer experience and reduce carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 23 offices worldwide.
+
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Different makes us better.

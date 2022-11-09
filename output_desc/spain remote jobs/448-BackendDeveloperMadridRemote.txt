@@ -1,0 +1,36 @@
+About the job
+As a Developer, you will reinforce one of our teams, organized around functional areas (CashFlow / User / Experience).
+
+Your main tasks will be to :
+
+Participate in the missions of the development team (developments, code reviews, release monitoring, level 3 support, etc.)
+Work in collaboration with the QA and product teams (new features, quality approach, etc.)
+Propose and implement technical and/or organisational improvements
+Participate in the tech life of the company (watch, meetups, mutual aid, presentations,...)
+You will find an environment with high quality deliverables and high availability requirements coupled with high volumes of data (we process several tens of millions of financial transactions per year), conducive to increasing your skills with an experienced team whose values are mutual support, humility, initiative and continuous improvement.
+
+You can have a look at our public roadmap: https://trello.com/b/y3UFMThq/mangopay-public-roadmap
+
+
+
+
+
+Qualifications
+
+We are looking for an experienced Object Oriented Developer who :
+
+Enjoys working in a team, sharing experiences, in an agile environment
+Likes to think about complex issues
+Enjoys delivering quality, high-performance and tested code, while promoting good practices: TDD, peer-programming, software craftmanship...
+Technical stack :
+
+C#
+.Net Core, .Net 4.8 (migration .Net 6)
+RabbitMQ (MassTransit)
+NHibernate
+Entity Framework
+SQL Server
+Elasticsearch
+Redis
+Git (Gitlab), TeamCity, Octopus Deploy
+Knowledge of 100% of the stack is obviously not required (but if you know it, it's even better). We are open to curious people who want to learn.

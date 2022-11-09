@@ -1,0 +1,51 @@
+About the job
+A Few Words About Us
+
+First things first… What will you become a part of? Valtech is a global digital agency focused on business transformation. We enable clients to anticipate tomorrow’s trends and connect more directly with their consumers across digital and physical touchpoints.
+
+We deliver innovation with a purpose. While our expertise is experience design, technology, and marketing, our passion is in addressing transformational business challenges for our clients. Challenges where we re-imagine the customer journey and build new connected experiences. Challenges where we make data work in this new era and help our clients transform the way they operate and optimise business-critical digital platforms for multichannel commerce and marketing.
+
+From discovery to optimisation, clients trust Valtech to remove complexity and deliver innovative, frictionless solutions that close the experience gap between customer expectation and reality. We are a network of more than 5,000 makers, thinkers, marketers, creatives, and developers spanning 5 continents with 50+ offices in 22 countries.
+
+About The Role
+
+As one of the founders of the global MACH Alliance, we have since the launch of this alliance experienced an overwhelming interest and demand for these services from clients. We are therefore looking to get even more new colleagues onboard to join us on this exciting journey.
+
+So are you looking for your next challenge, then this is your chance to join our team of exceptionally talented, creative and innovative professionals working with composable Best-of-Breed technology platforms within the large-scale digital experience and ecommerce business area.
+
+We are looking for someone who loves working with the newest technologies and is on top of what’s next. Do you have a keen eye for performance, stability, and cloud portability? Are you always seeking the highest quality in code? And aren't you scared away by maintaining and running your own applications on a day-to-day basis, being responsible for (infra-as-code) deployments and aligning with the cloud engineering team to get stuff done? Read on, because we have a match!
+
+This role is to some extend location agnostic, but we’re especially looking to place these roles in one of our offices in Germany, France, Netherlands, UK, Denmark, Sweden, Switzerland, USA and Canada.
+
+What you'll be doing?
+Build and maintain the glue between touchpoints, like websites, in-store kiosks, device touchscreens, apps and other cloud native solutions
+Design, configure and extend third-party API based SaaS/PaaS solutions of our partners, while you also support and manage (micro)services and other cloud native integration applications that you have built using public cloud services
+Occasionally, you take the full technology stack into your hands, to create end-to-end solutions - after all, you are a full stack developer. You do this together with your team of colleagues, who work in different disciplines ranging from Cloud Engineers (infra) to UI developers and from Business Analysts to Quality Assurance Engineers
+These cloud native solutions involve integrations with frontends, third-party API's, like payment and back-office systems. You do this within the context of MACH compliant architectures (Microservices, API-first, Headless and Cloud-Native), leveraging SaaS and FaaS platforms like Commercetools, Contentstack, Contentful, Vue Storefront and Frontastic
+Our Preferred Candidate
+Works and thinks on an academic level
+Has at least 4 years of experience in cloud development
+Solid experience in modern languages and frameworks like Java, C#, Typescript, NodeJS, GoLang and Python. Supporting a multitude of languages is preferable
+Knowledge of (and certification with) one or more cloud providers, and their services, like AWS, Azure or GCP
+Solid understanding of scaling, monitoring and logging in native cloud environments.
+Proven experience with setting up and maintaining continuous integration and delivery pipelines
+Proven experience with setting up, building and maintaining microservice architectures
+Experience with Docker and/or Kubernetes, preferably in enterprise environments
+Experience with infra-as-code solutions, like Terraform or CloudFormation
+Experience with SaaS or PaaS ecommerce and/or CMS platforms
+Excellent English communication skills, both oral as well written
+Note to non-EU nationals: We require a valid work permit in one of the above-mentioned countries
+
+What do we offer in return?
+
+At Valtech you’ll become part of an exceptional team of more than 3.000 talented innovators, design thinkers, marketers, creatives and developers, who all create unprecedented success for our Global 500 clients while optimizing time-to-market and return on investment. We interact across countries, disciplines, trades, roles and teams. We are consultants before anything else and take ownership of our own work, clients and careers. We provide everyone with a large degree of freedom - in return, we expect an equally high degree of accountability and dedication.
+
+We have from our very beginning always worked hard on providing everyone within our organization the opportunity to grow and also transform their job opportunities and career paths across the world. From graduates to seasoned professionals who are experts in their field. Valtech will always be recognized not just for the quality of the work we deliver, but for all the amazing people that make it happen. We don’t just talk about how to get things done, we really do transform by doing.
+
+What can you expect from us?
+
+At Valtech you’ll become part of an exceptional team of more than 3.000 talented innovators, design thinkers, marketers, creatives, and developers, who all create unprecedented success for our Global 500 clients while optimizing time-to-market and return on investment. We interact across countries, disciplines, trades, roles, and teams. We are consultants before anything else and take ownership of our own work, clients, and careers. We provide everyone with a large degree of freedom - in return, we expect an equally high degree of accountability and dedication.
+
+We have from our very beginning always worked hard on providing everyone within our organization the opportunity to grow and also transform their job opportunities and career paths across the world. From graduates to seasoned professionals who are experts in their field. Valtech will always be recognized not just for the quality of the work we deliver, but for all the amazing people that make it happen. We don’t just talk about how to get things done, we really do transform by doing.
+
+If this sounds like your next challenge, then do send us your application already today. We look forward to hearing from you!

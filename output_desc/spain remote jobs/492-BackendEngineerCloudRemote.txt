@@ -1,0 +1,39 @@
+About the job
+Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. Hundreds of thousands of developers around the globe trust Mattermost to increase their productivity by bringing together team communication, task and project management, and workflow orchestration into a unified platform for agile software development.
+
+Founded in 2016, Mattermost’s open source platform powers over 800,000 workspaces worldwide with the support of over 4,000 contributors from across the developer community. The company serves over 800 customers, including European Parliament, NASA, Nasdaq, Samsung, SAP, United States Air Force and Wealthfront, and is backed by world-class investors including Battery Ventures, Redpoint, S28 Capital, YC Continuity. To learn more, visit www.mattermost.com .
+
+We value high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you'll learn more about working at Mattermost and apply!
+
+Mattermost is seeking an engineer with demonstrated experience in backend software development with a focus on cloud-native service development in Kubernetes. This role will be responsible for designing and implementing new functionality for Mattermost’s Cloud product. You’ll be working with and building bleeding edge cloud-native technologies and collaborating with other open source projects such as those under the CNCF.
+
+Responsibilities
+Build services across the backend and infrastructure for Mattermost’s SaaS product
+Develop Mattermost’s Kubernetes operator
+Be an owner of cloud-based services
+Be a company expert on Kubernetes and drive how Mattermost runs in a cloud-native environment
+Follow our engineering best practices, and ensure alignment with our Leadership Principles
+Be a technical project owner, driving projects from requirements to completion stage
+Write thoughtful and high quality code in Go
+Evaluate and recommend new technologies and tools to solve emergent challenges
+Participate in code and design reviews to maintain our high development standards
+Required Background/Skills
+Bachelor's degree in Computer Science or related fields, or significant professional software development experience
+3+ years of previous experience as a backend developer
+Strong experience with or an ability to quickly become an expert in Go
+Experience developing cloud native applications for Kubernetes
+Knowledge of Docker
+Familiarity with relational databases, particularly MySQL and PostgreSQL
+Preferences
+Experience with distributed application systems using HTTP, WebSockets, RPC, pub/sub at scale
+Comfortable with GitHub, Jira, Jenkins, CircleCI
+Experience working in open source communities
+We Are Currently Hiring Staff In These Countries/regions
+
+Mattermost is a remote-first company with staff living and working across the globe.
+
+Australia - Brazil - Bulgaria - Canada - Chile - Colombia - Finland - Georgia - Germany - Greece - India - Ireland - Mauritius - Mexico - Norway - Pakistan - Philippines - Poland - Portugal - Spain - South Korea - Suriname - Turkey - Uganda - Ukraine - Uruguay - United Kingdom - United States
+
+We are constantly working towards adding more countries/regions to this list, but first we need to make sure we are compliant with local laws and regulations, which takes time.
+
+Mattermost is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people from all walks of life. We don't discriminate against staff or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!

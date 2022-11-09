@@ -1,0 +1,54 @@
+About the job
+ONLY USC OR GC Holder
+
+Who We’re Looking For
+The Full Stack Engineer has more experience and responsibility than lower-level Engineers. Great ability to multi-task across projects as well as to adapt to different areas of the code where they may not have previous experience. The Full Stack Engineer will be comfortable with both front and back end engineering tasks. This role will be responsible for contributing towards architecture and design decisions. Team Manager may involve you in budgetary and planning discussions.
+
+What You’ll Accomplish
+Plan, develop, and deploy server-side and client-side software in sprint cycles.
+Observe, debug and optimize production systems with thousands of concurrent users.
+Research new frontiers, prototype implementations and share knowledge.
+Communicate openly and collaborate frequently with Product and Engineering teams to quickly deliver high quality products that maximize value to the Discogs ecosystem.
+Take responsibility over large, complex features from concept to design to delivery.
+Migrate system functionality to microservices while maintaining a legacy application.
+Coach and mentor other engineers with recommendations, and code reviews.
+Demonstrate a consistent commitment to Discogs core values and operating principles.
+Work with your team on planning and completing department goals that align with overall business objectives.
+Be an effective communicator by listening carefully, asking questions, and being transparent, timely, and diplomatic across all levels of the organization.
+Stay informed on what is happening within the business and help others understand business decisions and the company direction by positively representing the company view.
+Provide technical knowledge via documentation, coaching and mentoring others in the department and company.
+Stay informed on new technologies within your specialization and implement them as needed.
+Use analytic skills to communicate and drive decisions for your team based on data.
+In partnership with your manager, start to plan, evaluate, and improve the efficiency of your department to enhance speed, quality, efficiency, and output.
+Understand how your contributions support the business vision, mission, and strategy.
+Work with your manager to identify and pursue career growth opportunities.
+
+What You’ll Contribute
+Bachelor's degree in computer science or computer engineering from four-year college or university, or equivalent technical work experience
+4+ years related work experience.
+Experience working with production systems under load.
+Experience with Python, mySQL, Docker, Docker Compose, Javascript, React, and Git.
+Knowledge of Design Patterns, RESTful Services, GraphQL, DevOps,and Agile Methodologies.
+Deep understanding of software development lifecycle processes such as version control, build and configuration management, automated deployments, automated testing, etc.
+Ability to effectively present and communicate with project stakeholders.
+Capable of taking a large complex project, breaking it down into sub-tasks, and completing those tasks as required.
+Shows initiative and seeks evidence in data to support ideas.
+
+MUST HAVE :
+4+ years related work experience.
+Experience with Python, mySQL, Docker, Docker Compose, Javascript, React, and Git
+Knowledge of Design Patterns, RESTful Services, GraphQL, DevOps,and Agile Methodologies.
+Experience working with production systems under load.
+
+What We Provide
+Competitive compensation: salary, plus performance-related bonus program
+401(k) with employer match
+100% company-paid medical and dental insurance benefits for you and your dependents
+4 weeks paid vacation, increasing based on tenure
+18 weeks paid leave for birth moms
+8 weeks paid parental leave, including for adoption
+Monthly wellness allowance
+Annual professional and personal development allowance
+Work from home office set-up and expense allowances
+Flexible work location opportunities
+Employer matching toward charitable contributions

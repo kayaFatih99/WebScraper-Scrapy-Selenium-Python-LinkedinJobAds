@@ -1,0 +1,10 @@
+About the job
+Position: Junior PHP Developer
+Required:
+Experience building responsive websites and applications using Drupal CMS 8 or higher
+Advanced experience with Drupal Theming
+Proficiency in working with PHP
+Solid understanding of relational databases, including MySQL, MariaDB.
+Experience with developing and consuming RESTful APIs and/or data from third-party sources.
+Familiarity with code repository tools, along with CI/CD tools.
+Experience working in a Linux environment is highly desired.

@@ -1,0 +1,67 @@
+About the job
+Join one of the world's fastest growing fintech startups! We're looking for smart, motivated team members who want to change the way people pay their bills, helping them to improve their financial success.
+
+THE ROLE
+
+In the coming months, we will be adding a new Front End Software Engineer to our team. This position is not currently open, but we would love to talk to qualified candidates as we anticipate we will be hiring for this need in the near future. This position will be responsible for building scalable web applications that safely and securely enable our users to pay all their bills. This position will work closely with product management on a talented team creating exceptional software.
+
+WE'D LOVE TO HEAR FROM YOU IF:
+You create and maintain high quality software while meeting deadlines
+You work closely with product and the team on software requirements and solutions
+You are passionate about introducing new technology and best practices to the team to continuously improve and push boundaries
+You want a chance to create something new in a rapidly growing company
+You love collaborating with other people and leave your ego at the door
+
+QUALIFICATIONS:
+2+ years of industy experience
+The desire and capacity for learning quickly in a fast paced environment, while handling multiple tasks simultaneously
+Experience with high scale, distributed, 24x7 systems and applications
+Fluency with HTML, CSS, and JavaScript
+1+ years of experience with Vue.js, React, or similar frameworks. Experience with GraphQL a plus
+Experience with SQL in a transactional application
+Familiarity with the AWS ecosystem
+Experience with Linux platforms
+Strong analytical and design skills
+Ability to break down projects into workable pieces while maintaining overall bigger picture of how it fits in with the product
+Self-starter with can-do attitude who has relentless drive to improve quality
+Team player with strong written and oral communication skills
+
+WITHIN 1 MONTH YOU WILL:
+Complete company onboarding
+Have a chance to work with each engineering team, learning who they are and what they are responsible for
+Make your first code commits
+Deliver your first code changes to production
+
+WITHIN 3 MONTHS YOU WILL:
+Contribute to and help deliver features on the product roadmap
+Help in planning future features and changes for our software and our service
+Help build out the team through recruiting, high-bar interviewing, onboarding, and mentoring new team members
+
+LONG TERM:
+Progress in your career path, with both team leadership and senior individual contribution roles available
+Help shape the technical vision for our software
+Contribute to the growth and evolution of our organization
+
+Who We Are
+
+Each year U.S. households spend over $4.6 trillion - about one third of all consumer spending - on recurring bill payments. While staying on top of these bills is the single largest determinant for consumer financial health, organizing and paying them can be a time-consuming and frustrating chore. Since its inception, doxo has been on a mission to simplify and reduce the anxiety of staying on top of bills, empowering consumers to improve their financial health. Our company was founded on the simple idea that there should be an easy and more secure way for consumers to pay all of their bills through a single account, with any payment method, on any device.
+
+As consumers shift more bill payments online and to mobile, doxo continues to experience rapid growth. To date, over eight million doxo users across 97% of U.S. zip codes have paid bills through the payment network, across more than 45 different service categories. With more than 130,000 payable billers, doxo’s proprietary, crowd sourced provider directory is the largest in the nation.
+
+In 2021, doxo was named by both BuiltIn and Comparably as a best place to work in Seattle, and was also recognized by both Inc. Magazine and Deloitte as one of the fastest-growing companies in North America. Come join us as we grow the team to further accelerate growth, forever changing the bill pay landscape to focus on the customer.
+
+WHY WE ARE DIFFERENT
+
+doxo is unique in that we have already found product/market fit and that our service is filling an important market need every day. But we are still small enough that every employee, no matter their position, can make a meaningful impact. Because transparency is a priority at all levels across the organization, we are all aware of how our work contributes to the success of our business as a whole. We are agile and work hard to solve difficult problems quickly. We work as a team to get things done and mentor individuals to get to the next level in their career.
+
+OUR COMPANY PERKS AND BENEFITS:
+100% employer-paid medical, dental, and vision coverage for full-time employees
+Generous equity grants
+401k match to help you save for your future
+15 days PTO to start, plus paid holidays
+Charitable donation match
+Student loans support
+Pet insurance
+Plus plenty of corporate discounts
+
+doxo is an equal-opportunity employer and we welcome applicants from all backgrounds.

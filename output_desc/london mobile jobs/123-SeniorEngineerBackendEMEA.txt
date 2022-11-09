@@ -1,0 +1,53 @@
+About the job
+The global financial ecosystem is changing. Revolutionary blockchain technology has unlocked the potential for people around the world to have more equal access to wealth and information. This transformation has begun with the mass global adoption of cryptocurrencies but like all new financial systems, it needs greater trust to realize its full potential and remain safe from bad actors. That’s where we come in. The Chainalysis blockchain data platform enables businesses, governments, and banks to solve the world’s most high-profile criminal cases, paving the way for an economy built on blockchains.
+
+The engineering team at Chainalysis is inspired by solving the hardest technical challenges and creating products that build trust in cryptocurrencies. We’re a global organization with teams in the UK, Denmark, and the USA who thrive on the challenging work we do and doing it with other exceptionally talented teammates. Our industry changes every day and our job is to build a flexible platform that will allow us to adapt to those rapid changes.
+
+As a backend engineer in the Investments group, you’ll be responsible for building a great end to end customer experience for our market and business intelligence customers. You’ll find the opportunity to build the foundations of our platform, design APIs that will serve large data sets with low latency and build services that will help blockchain businesses and investors to make critical decisions. You will also have the opportunity to lead the projects, partner with the product designers and product managers to deliver the most impactful things to our customers.
+
+In one year you’ll know you were successful if:
+
+You’ve worked with the other product teams to understand the data lifecycle and optimize how we are serving it to our customers.
+Your team is iterating fast, deploying to production multiple times a day.
+Together with the rest of the team you’ve created scalable, self healing and robust APIs with low latency.
+Together with the rest of your team you’ve built easy to use, customisable user interface components.
+
+A Background Like This Helps
+
+Experience with object-oriented programming languages. We mostly use Java but appreciate a variety of languages!
+Experience with cloud providers like AWS or GCP.
+Experience with infrastructure as code tools such as Terraform, Terragrunt, CloudFormation
+Experience with shipping and iterating in close collaboration with design and product partners
+Experience with mentoring and/or leading other engineers and love to teach and learn from others.
+Curious about cryptocurrencies/decentralized-finance or a desire to learn - we can help!
+
+At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.
+
+You belong here.
+
+At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways we’re ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Women’s Day, Juneteenth, Harvey Milk Day, and International Migrant’s Day, and a commitment to continue revisiting and reevaluating our diversity culture.
+
+We encourage applicants across any race, ethnicity, gender/gender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, don't hesitate to let us know. You can learn more here. We can’t wait to meet you.
+
+Applying from the EU? Please review our Candidate GDPR Notice.
+
+By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment. I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference. I understand any future employment will be contingent on the Company receiving satisfactory employment references.
+
+Chainalysis COVID-19 Policy - USA
+
+All employees are required to have or obtain a COVID-19 vaccination as a condition of employment at Chainalysis, unless an exemption has been approved. All employees shall be required to report their vaccine status. All new employees shall be required to provide proof of their vaccination status prior to the start of their employment.
+
+Chainalysis COVID-19 Policy - EMEA
+
+As an employer, Chainalysis is obliged to ensure a healthy and safe working environment. This means that we must try to prevent the coronavirus from spreading inside the workplace and all employees are obliged to follow the local regulations issued by the relevant health authorities.
+To help support a safe work environment, we encourage all employees in EMEA to get fully vaccinated against COVID-19.
+Employees will not be required to attend an event or in-person customer meeting.
+Employees in the EU and the UK are allowed to travel internationally for internal meetings to any country deemed “green or amber” by the EU and the UK authorities. All attendees for Chainalysis in-person events or meetings will be required to adhere to the following guidelines:
+International travel will only be permitted if you receive approval from both your manager and Executive Leader
+You must familiarize yourself and comply with any screening/safety protocols imposed by the entity/individual hosting the in-person meeting or event
+You must comply with any and all safety guidelines and travel restrictions established by applicable law
+If you are in close or proximate contact with others at the event/customer site and test positive for COVID-19, you must immediately notify the People Team and avoid contact with others for 10 days
+
+Chainalysis COVID-19 Policy - APAC
+
+With circumstances changing on a regular basis and parts of our APAC team going in and out of mandatory lockdown, APAC will continue to follow country legislation and guidelines.

@@ -1,0 +1,69 @@
+About the job
+SlashData is the leading research company in the developer economy: We help the world understand developers and developers understand the world. We survey 40,000+ developers annually - across mobile, IoT, desktop, cloud, AR/VR, web, games, data science, and machine learning - to help clients such as Microsoft, Facebook, Google and Amazon understand who developers are, what tools they love or hate and where they are going next.
+We’re now looking for a full-time Data Storyteller to help drive insights out of a wealth of data points relating to developer activity. You’ll be working based in Europe, working from home or a co-working space to support our distributed team.
+
+Who we’re looking for
+As a Data Storyteller, you will have 2-5 years of working experience in data analysis, data visualisation, and data journalism, ideally in the tech industry. Your command of the English language will be second to none and you will be fearless in data crunching and keen to unearth meaningful patterns, actionable insights, and intriguing stories from the data.
+You will have undertaken many data analysis projects where your novel insights and attention to detail would impress. You will have a proven record of communicating your findings to non-technical audiences, eloquently narrating the story behind the numbers. You might not have worked in the software industry before, but you have a basic understanding of how it works.
+If you’re that person, we’d love to talk.
+
+As a Data Storyteller you will be
+Based in Europe
+Performing data and statistical analysis using any scripting language (e.g. Python, R), and Excel. You‘ll be working on several data projects, extracting insights in the context of market trends, behavioural analysis, population forecasting, segmentation and profiling.
+Writing up your findings in short and long reports including visually appealing graphs and deep insights based on your analysis, answering the “why” behind the “what”.
+Tracking the latest trends in the software developer ecosystem.
+Helping shape our research agenda and asking developers and data scientists the right questions.
+Interacting with clients to provide insightful answers to tough data problems, and to support them in custom data insights projects.
+Helping clients identify key business questions and translate them into research questions and projects.
+Delivering briefings and webinars, and presenting our insights in conferences, meetups and events.
+Supporting the rest of the analyst team in their data and research quests as needed.
+
+What skills we are looking for
+A research analyst or data scientist, with a background in statistics, applied mathematics or computer science and a track record of authoring research reports.
+An ability to tell signal from noise in the data, and answer the ‘so what?’ question behind the observed numbers and patterns.
+An ability to author data stories, comprehensively and in an unbiased way, with proven previous experience in authoring insights reports, blog posts or other published writing.
+Experience in working alongside stakeholders to define and execute a data research project
+Excellent speaking and writing skills (English), with the ability to communicate complex insights to non-technical audiences.
+Advanced Excel skills.
+At least basic programming skills, preferably in Python including Pandas.
+At least a basic grasp of clustering and classification methodologies and models.
+Ability to visualise data effectively, producing eye-catching and easy-to-understand graphs.
+Very good presentation skills, preferably with experience in delivering client briefings.
+Comfortable working as part of a distributed team across four continents.
+
+Bonus points for
+Past experience of working with complex survey data.
+Past experience of consulting clients on data projects.
+Past experience with quantitative or qualitative research design, competitive market analysis or user research.
+Following trends in the tech industry, either through past experience or as a hobby.
+Advanced Python skills.
+Advanced data modeling skills.
+Having software development experience as a hobby or past work.
+
+Key success metrics
+You will be successful in the role if in the first 6 months you have:
+Developed a basic understanding of how the developer-led landscape works.
+Actively contributed in shaping the research agenda and questionnaire of the upcoming Developer Nation survey.
+Authored at least three research reports, carrying out all data analysis and background research as needed.
+Delivered at least one client briefing or webinar to our high standards.
+Actively supported the rest of the analysts team, by reviewing other authors’ reports.
+Supported our developer outreach and sales teams, promptly responding to any requests relevant to your work.
+Become a dependable team mate.
+
+What we offer
+Opportunity to make a difference as part of the leading research company in the developer economy
+Competitive salary
+Bonus based on performance and company profitability
+Flexible working environment
+Annual training budget to develop your skills and career
+Monthly book allowance from Amazon, on any book you like
+Spotify Premium subscription or Netflix
+Annual co-working budget
+Initial office set up a budget to ensure you have the right equipment
+Attendance at our annual team event
+A fun and exciting work culture with regular opportunities to connect
+Never work on your birthday
+No dress code
+Part of an entrepreneurial company that's raising the bar, and calling the trends of the developer economy
+Salary
+£40,000 - £60,000 depending on experience and location (40 hours per week).

@@ -1,0 +1,68 @@
+About the job
+UST is looking for the very Top Talent…and we would be delighted if you were to join our family!
+More in details, UST is a multinational company based in North America, certified as a Top Employer company with over 29.000 employees all over the world and presence in more than 30 countries. We are leaders on digital technology services, and we provide large-scale technologic solutions to big companies.
+
+
+What are we looking for?
+We are looking for a Senior UI React Developer working close to one of our main clients. The person will be working on one or more specific modules within a large software system scope with high level of autonomy.
+
+
+Main tasks and accountabilities will be:
+- Designs, develops, modifies, debugs and/or maintains software code according to functional, nonfunctional, and technical design specifications.
+- Follows company’s software engineering standards and release processes.
+- Ensures code is well designed, testable, maintainable, scalable, and supportable.
+- Develops software verification plans and integrates software components into a fully functional software system.
+- Promotes system reliability and operability.
+- Provides demos of software products to stakeholders.
+- Investigates issues by reviewing/debugging code, provides fixes (analyze and fix bugs) and workarounds, reviews changes for operability to maintain existing software solutions.
+- Analyzes requirement documents/BRDs and builds systems that correspond the needs.
+- Collaborates and adds value through participation in peer code reviews, provides comments and suggestions, makes decisions together quickly and effectively, and works with cross functional teams to achieve goals. Work as technical interface with other teams to resolve issues related to interfacing functionalities..
+- Assumes technical accountability for his/her specific work products within an application and provides technical support during solution design for new requirements. Ensures that documentation related to specific modules/applications is correct and up to date. Performs peer code inspection, reviews developed solutions, and provides relevant feedback.
+- Actively searches for innovation, continuous improvement, and efficiency in all assigned task.
+
+
+
+What UST expects from you?
+- Good personal discipline
+- At least 5+ years of experience with JavaScript & FE Development
+- Strong knowledge of modern JavaScript frameworks and libraries
+- JavaScript: ES5 … ES7+
+- Essential: Excellent knowledge and experience with React.
+- Build tools – Webpack, grunt, gulp etc.
+- Design patterns.
+- Ability to write modular, extensible, and encapsulated code.
+- Experience with Node.js.
+- Experience with RESTful APIs.
+- Excellent knowledge of HTML, CSS.
+- CSS Preprocessors (SASS, Less, PostCSS).
+- Responsive Design.
+- Version control - Git.
+- Familiar with Agile methodologies.
+- Good english level (B2-C1).
+
+Valuable and desirable: being entitled of Disability Certificate (at least 33% score).
+
+
+Work location
+100% remote work from Spain.
+
+
+Work schedule
+Business Hours. M-F 09:00 - 18:00
+
+
+What can we offer?
+23 days of Annual Leave plus the 24th and 31st of December as discretionary days!
+Numerous benefits (Health Care Plan, teleworking compensation, Life and Accident Insurances).
+`Retribución Flexible´ Program: (Meals, Kinder Garden, Transport, online English lessons, Health Care Plan…)
+Free access to several training platforms
+Professional stability and career plans
+UST also, compensates referrals from which you could benefit when you refer professionals.
+The option to pick between 12 or 14 payments along the year.
+Real Work Life Balance measures (flexibility, WFH or remote work policy, compacted hours during summertime…)
+UST Club Platform discounts and gym Access discounts
+
+
+If you would like to know more, do not hesitate to apply and we’ll get in touch to fill you in details.
+
+UST is waiting for you!

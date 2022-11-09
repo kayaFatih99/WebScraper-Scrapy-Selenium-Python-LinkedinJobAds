@@ -1,0 +1,25 @@
+About the job
+¿Quiénes somos?
+Mindera es una empresa de Desarrollo de Software con base en Portugal y sucursales en Estados Unidos, India, Rumania, Brasil y Reino Unido.
+
+Nos encontramos en búsqueda de desarrolladores Backend Senior (.NET) residiendo en España para formar parte de nuestros equipos internacionales en proyectos de gran escalabilidad.
+
+BENEFICIOS:
+
+- Salario competitivo
+- Horas de trabajo flexibles
+- Un ambiente laboral agradable
+- Trabajo 100% Remoto
+- ¿Te interesa seguir capacitándote? Arma tu plan de carrera! Estamos para acompañarte en tu desarrollo profesional
+
+Requisitos:
+
+• +5 años utilizando ASP.NET MVC, o C# o .NET Core 3.1 y superior
+• Sólidas capacidades de diseño, siguiendo los principios SOLID usando C#
+• Conocimiento sobre prácticas de desarrollo ágiles (Scrum o Kanban)
+• Experiencia con flujos de trabajo de CI/CD y pruebas automatizadas
+• Inglés fluido
+• Buenas prácticas de comunicación
+
+
+Tu talento es de gran valor para nosotros y nos encantaría que formaras parte de nuestro equipo!

@@ -1,0 +1,18 @@
+About the job
+Role: Angular Developer
+Location: Mechanicsburg PA
+Duration: 6 Months
+Job Type: W2 only
+
+Required Skills & Responsibilities:
+Experience with the design and development of single page web applications.
+Proficient in Angular 8+ (Components, Reactive/template forms, RxJS, services etc.).
+Knowledge in HTML5, CSS3 and Less/Sass.
+Understanding of TypeScript, JavaScript, ES6.
+Understanding of any CSS frameworks (Bootstrap or Material Design).
+Experience in Responsive web design
+Experience in asynchronous request handling, partial page updates, and AJAX
+Understanding of cross-browser compatibility issues and ways to work around them.
+Familiar with web accessibility guidelines
+Familiar with testing frameworks (Ex. Jasmine, Karma)
+Proficient understanding of code versioning tools, such as Git.

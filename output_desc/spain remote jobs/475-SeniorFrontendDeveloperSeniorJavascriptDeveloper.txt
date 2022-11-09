@@ -1,0 +1,30 @@
+About the job
+360 Monitoring by Plesk empowers Developers and WebProfessionals to Monitor any Website & Server. Track performance and prevent downtime easily with configurable dashboards, easy set-up & custom tools.
+Full time/ Location: Sofia, Barcelona, Cologne, Karlsruhe, Hamburg, Amsterdam, Remote
+
+WE OFFER AN EXCITING ROLE WITH DIVERSE RESPONSIBILITIES
+Leading parts of the new cloud platform of the WebPros Group from inception to launch, and own large parts of the product development.
+360 Monitoring will help users monitor their websites availability and keep track of their servers performance.
+Work with our product management and CTO team to build our platform with the goal of increasing the success of our users and partners.
+Deploy, maintain and control your own code on Hetzner.
+Architecting, building, testing, and releasing product-facing features.
+
+WE CARE FOR A UNIQUE WORKING ENVIRONMENT
+
+As a team, we strive for excellence, innovation, collaboration, and efficiency
+We enjoy what we do, understand our customers, and build a state-of-the-art platform that clients love and need
+Expect interesting tasks and full integration from day one
+Work with a diverse team and enjoy an open-door policy on all levels
+Take the freedom to bring up fresh ideas and new initiatives - we will support you
+Work in a global, entrepreneurial working environment with a strong team spirit
+You will have a permanent workspace in one of our offices, but you are very flexible when working from home.
+
+WE NEED YOUR SKILLS AND EXPERTISE
+
+Work with TypeScript, Vue, React, HTML, CSS, Reactive Programming
+At least 2 years of Vue experience
+Writing tests (unit/functional/e2e).
+Understanding of key design principles.
+You are a structured and precise person with a high level of (self-) motivation and hands-on mentality
+You are open-minded and communicative, enjoy working in international teams and have a passion for what you do
+You speak English fluently

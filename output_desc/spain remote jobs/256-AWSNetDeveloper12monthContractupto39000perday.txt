@@ -1,0 +1,30 @@
+About the job
+Full Stack Developer with AWS working experience – 12 month Contract - up to €390.00 per day
+AWS experience is essential
+Calling all Limited company contractors interested in new, exciting roles. With the opportunity to work remotely from anywhere in the EU.
+PLEASE NOTE: This is a daily rate contract position. Candidates who apply must be eligible to work in Ireland holding either EU Citizenship or appropriate visa. Visa is required in advance of applying for this position. sponsorship for this role is not provided
+As an enterprise software development company that is passionate about delivering results which has experienced continued growth and success over the years, we are actively looking for a QA Automation Engineer for an initial 6 month contract with view to multiple ongoing extensions. You will join a team of 200+ professionals and work within the development team building and executing suites of test plans and test cases.
+Responsibilities:
+Running .NET Core services in containers
+Extensive commercial development experience in C# and ASP.Net
+Excellent knowledge of MS SQL Server including Strong T-SQL (Stored Procedure) skills
+Familiarity with modern Javascript front-end frameworks (e.g., Vue.js, React)
+Comfortable with Test Drive Development using mocking frameworks and libraries e.g., Moq, NUnit, SpecFlow, etc.
+Software development using Agile methodologies
+Using messaging framework like NServiceBus, Masstransit or equivalent advantageous
+Technical Profile:
+At least 2 years of cloud experience in AWS is essential
+AWS Lambda
+DynamoDB
+SNS & SQS
+S3
+Experience with integrating databases/services on premise with the cloud required
+Optional Skills:
+AWS API Gateway
+AWS Cognito
+CloudFront
+CI/CD experience
+ECS/EKS/AWS Fargate
+IAM
+CloudWatch (or similar monitoring tool/service)
+AWS Glue

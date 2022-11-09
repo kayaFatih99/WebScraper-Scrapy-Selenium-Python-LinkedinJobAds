@@ -1,0 +1,35 @@
+About the job
+Roonyx is an international software development company. We equip small and medium businesses with custom-made web & mobile apps, providing easy and efficient tools to reach goals, and explore and conquer new markets.
+Our clients are from Europe, the USA, Australia, Asia.
+Our team is distributed and has departments of PM, Design, Marketing, Web и Mobile development, QA, Global Sales и HD.
+Our technological process of development is built according to Scrum/ Kanban.
+
+Now we are searching for a part-time Frontend Angular Developer to join us.
+
+About one of the current projects:
+
+It's a comprehensive CRM and ERP system for a recruiting agency that connects caregivers with elderly people. Includes user profile, reporting, invoicing, job allocation, and other modules
+
+Tasks:
+front-end development using TypeScript, Angular 2 +.
+estimates of incoming tasks.
+close cooperation and communication with the backend developers on the current matters.
+communication with a client on technical matters.
+
+Requirements
+minimum 2 years of proven result-focused experience of commercial development using Angular 2 +.
+solid knowledge of typescript.
+ability to act independently and responsibly.
+ability to provide 20 work hours per week.
+sense of creating the correct code as a purpose.
+English: B2-C1, (you are supposed to communicate with a client directly).
+
+Benefits
+
+Conditions:
+remote work 4 hours per day, 20 hours per week.
+probation period: 3 months.
+payment once a month in USD.
+Performance Review: once or twice a year.
+online corporate events.
+professional and career development.

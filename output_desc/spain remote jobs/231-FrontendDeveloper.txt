@@ -1,0 +1,27 @@
+About the job
+Front End Developer - React
+Contract - 100% remote
+Multi-year project
+
+
+We are looking for someone:
+With strong understanding of front-end/UI design methodologies
+proficient with React Native and React paradigms
+that has strong and demonstrable problem-solving abilities
+comfortable with self-management and on-the-job learning
+curious and passionate about new technologies
+who likes teaching and sharing knowledge
+
+Technically you should have:
+Experience with React and Redux of at least 2 years
+Typescript & (ideally) Next.js
+Experience with branching strategies in Git and as well as Continuous Integration/ Continuous Delivery practices
+Experience working in agile environments.
+
+Bonus Requirements to Stand out
+Experience with GraphQL
+experience in Scrum and agile methodologies
+experience with JIRA
+Web/Graphic Design Skills will be considered an advantage.
+
+If you're interested to pursue an 100% remote contract on a multi year project, please send us your CV and up to date contact details for further discussion!

@@ -1,0 +1,66 @@
+About the job
+On behalf of Lottoland, Ciklum is looking for a Senior Full Stack Developer to join our team full-time in Spain.
+We are a leading global product engineering and digital services company that unites 4000+ seasoned professionals globally on various projects in healthcare, fintech, travel, sportswear, entertainment, and security. Ciklum delivers high-impact technology solutions to Fortune 500 and fast-growing organisations worldwide.
+
+About the role:
+As a Senior Full Stack Developer, become a part of a cross-functional development team working for the Lottoland.
+Lottoland is a client of Ciklum that introduced a completely different product with a unique customer experience.
+We are looking for a Senior Full Stack Developer who are very experienced and passionate about software development, who love to push product development using state-of-the art technology, and who have very high-quality standards.
+You will work in one of multi-disciplinary Payments team implementing new and improving the existing functionality of the platform. You will use your experience and knowledge to support and make architectural decisions together with the software architects, play a part in the selection of new technologies, and promote knowledge transfer both within your team and between teams. You will be also responsible for reviewing the work of your colleagues as well as supporting junior developers.
+Responsibilities:
+You will collaborate with the team designing, developing, and improving our Client’s platform with a very high degree of ownership (“you built it, you run it”) on a continuous delivery basis
+You develop new functionality using Java, JavaScript, HTML5 and SCSS
+You evaluate the use of new technologies, architectures, and frameworks
+You collaborate closely with software architects, product owners and stakeholders
+You support junior developers
+You are a part of a highly collaborative Agile process
+
+Requirements:
+In-depth practical experience with OOP, design patterns, Java EE 8 (CDI, JSF, EJB, JAX-RS), Spring Boot framework, databases (NoSQL) and data structures (7+ years)
+Good understanding of whole software lifecycle and tools, and proficient using Git
+Excellent understanding of complex software architecture
+Familiar with cloud/containerization technologies (Kubernetes, Docker)
+Highly familiar with CI/CD concepts
+Profound experience with tools such as IntelliJ IDEA, Git, Maven, Chrome DevTools, etc
+High quality standards. Awareness of Clean code practices, as well as others (SOLID, KISS, DRY, etc.)
+Eagerness to work on topics like performance optimization, responsiveness, scaling and high availability
+Good understanding of mobile web development
+Great expertise with CSS preprocessors (SASS/LESS/Stylus)
+In-depth practical experience with JavaScript, jQuery, HTML5, SCSS, Bootstrap, ECMAScript and Gulp
+Understanding of asynchronous request handling
+Expert in cross-browser compatibility issues and ways to work around them
+Competent with JavaScript module loaders such as Require.js and AMD
+Competent with front-end build tools, such as Babel, Grunt, Gulp, Webpack, Rollup, TypeScript, etc.
+Experience in testing strategy development and tools for both backend and frontend components
+Competent with test automation concepts and tools
+Able to apply engineering best practices
+Highly familiar with Agile development and continuous delivery
+Enthusiastic about working in multi-disciplinary teams
+Good written and verbal English skills
+Desirable:
+A completed degree in IT or a comparable course
+AWS Cloud Native
+Terraform
+Java-based Web frameworks (particularly, JSF)
+Experience with at least once web framework e.g., React.JS or Vue.JS and Node.JS
+Knowledge of web accessibility practices
+Experience with Self Contained Systems SCS / Micro Services
+Knowledge of other programming languages would be a great plus
+
+What's in it for you?
+A dynamic and highly motivated international team of skilled and experienced professionals
+An open culture defined by passion for developing software, fun and mutual respect
+State of the Art technology environment: Java11, J2EE8 (JSF2, CDI, JAX-RS), Spring Boot, Web Components, CSS3, HTML5, MongoDB, Glassfish, Git, Maven, Docker, k8s, AWS, continuous integration, etc.
+Unique working environment where you communicate and work directly with client
+Continuous learning/development opportunities and progressive career paths
+Competitive salary
+Flexible working hours
+Tailored relocation packages to meet your needs to support your transition
+About us:
+Our Delivery Center in Malaga is one of the leading IT hubs in Andalusia – it provides an exceptional mix of vibrant tech talent community, wide-open access to learning and career advancement opportunities, hybrid / remote work setup & endless Mediterranean seashore summer.
+Be bold, not bored!
+Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.
+
+About the Client:
+With more than 12 million registered players, Lottoland is among the most successful private online entertainment companies worldwide. Currently, it employs more than 350 people at 11 locations on four continents. The Financial Times has recently ranked Lottoland 128th in the FT1000 ranking of Europe’s fastest-growing companies.
+Ciklum’s team working on the Lottoland project in Malaga unites 70+ developers who work on revolutionising the gaming industry. No wonder Lottoland belongs to the most innovative companies in the world. Thanks to the agile project methods, the team’s days are structured, but still exciting like nowhere else.

@@ -1,0 +1,37 @@
+About the job
+About Doctomatic
+Doctomatic is an eHealth company building the next-generation remote monitoring solution for chronic patients.
+Headquartered in Barcelona and backed by Frederic Llordachs (Co-founder of Doctoralia, now Docplanner group) and with the support of Encomenda Smart Capital. They rely on their technology to solve the burden of millions of chronic patients globally.
+
+Your mission 👀
+• Work across the full stack, building highly scalable distributed solutions that enable positive user experiences and measurable business growth
+• Develop new features and infrastructure development in support of rapidly emerging business and project requirements
+• Assume leadership of new projects from conceptualization to deployment
+• Ensure application performance, uptime, and scale, maintaining high standards of code quality and thoughtful application design
+• Work with agile development methodologies, adhering to best practices and pursuing continued learning opportunities
+• Participate in all aspects of agile software development including design, implementation, and deployment
+• Architect and provide guidance on building end-to-end systems optimized for speed and scale
+• Work primarily in Typescript
+• Collaborate across time zones via Slack, GitLab comments, documents, and frequent video conferences
+
+What they expect from you 🏅
+• Bachelor’s degree in computer science, information technology, or engineering
+• 4+ years of experience building large-scale software applications
+• Experience building web applications
+• Experience designing and integrating RESTful APIs
+• Experience working with GIT
+• Experience working with AWS (mainly EC2, S3, RDS and SES)
+• Experience working with relational databases such as MySQL
+• Knowledge of Typescript (NestJS for backend, React and React Native for frontend)
+• Excellent debugging and optimization skills
+• Unit/integration testing experience
+
+Benefits & perks 💎
+✔ Beautiful, new office in the heart of Barcelona.
+✔ Flexible working hours & location. Their team currently works mostly from home
+
+Hiring process 🧩
+1. Rviewer first call
+2. Call with Carmen (Part of the founding team)
+3. Soft/Hard skills call with Fernando (CTO)
+4. Offer ✨

@@ -1,0 +1,32 @@
+About the job
+Full stack developer
+Location - Spain
+WHO WE ARE:
+We’re a diverse multinational team of passionate professionals committed to becoming the most trusted global partner for defeating digital risk.
+Constella unites multidisciplinary intelligence community analysts, infosec pioneers, military veterans, social scientists, and tech entrepreneurs with advanced analysis of surface, deep, and dark web to protect what matters most.
+Constella is a trusted partner to private organizations as well as major public institutions and NGOs around the world, helping to identify, anticipate, understand and defend against the risks emerging from the digital ecosystem.
+With offices in Los Altos, Washington D.C., Madrid, Granada, Sao Paolo, and Hyderabad, and a distributed global workforce across the US, Europe, South America, and Asia, we help safeguard customers people, brand, and assets across the world.
+
+Constella is currently looking for a specialist who would be part of our development team as a Fullstack Software Engineer enhancing and maintaining the GUI of our product Analyzer.
+
+REQUIRED SKILLSET:
+Experience as a Front-End Developer (+2 years)
+Deep knowledge of JavaScript / HTML5 / CSS3 / jQuery / Java / JSP / J2EE
+Good understanding and experience working with JSON & REST APIs
+You write robust, clean code and are a pragmatic problem solver
+Experience with Source Code and Version Control System (SVN)
+Spoken and written English
+BONUS POINTS:
+
+Struts2 Framework
+Relational SQL Databases (MySQL)
+Apache and Tomcat knowledge
+Experience with successful Agile techniques
+
+WHY CONSTELLA
+Competitive compensation
+Opportunities for growth at a multicultural, multilingual, global company.
+A passionate, world-class team of industry experts working on some of the digital ecosystems’s foremost challenges.
+Flexible timetable.
+We work Agile.
+You can work fully remote or on a hybrid mode.

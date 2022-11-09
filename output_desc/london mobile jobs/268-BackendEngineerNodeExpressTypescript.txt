@@ -1,0 +1,40 @@
+About the job
+We're looking for a Backend Engineer to join our team.
+
+Limbic is on a mission to model human psychology. In doing so, we're solving the biggest problems in psychological therapy today. Combining artificial intelligence with beautiful digital product design, we're making it easier than ever for patients to provide their clinicians with high quality data.
+
+We're growing quickly and we're backed by Europe's leading start-up accelerator, Entrepreneur First, and Google. We’ve also received investment from VC, Angels, the European Commission, and Innovate UK.
+
+It’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.
+
+At a high level, you'll be focussed on the following:
+Contribute to our backend repository
+Quickly build, test and ship new (well tested) features
+Integrate 3rd party patient management systems from mental health institutes all around the UK (and way more soon)
+Integrating our innovative AI models and exposing them for use by our frontend clients
+
+Bonus if you've got experience developing open source projects and have a strong foothold in an engineering community.
+
+You should apply if:
+You're excited by the opportunity to solve the biggest problem in (mental) healthcare today
+You want to join a company you can grow with
+You can move fast and get stuff done
+You enjoy building elegant solutions to complicated problems
+You enjoy getting your hands dirty with complicated data structures
+You are about beautifully built products and want a place to perfect your craft
+
+Requirements
+
+We are looking for anyone who fits most of the following qualifications:
+4+ years of experience developing Node.js applications with Express.js.
+Advanced level of Javascript and good understanding of Typescript
+Experience building and shipping production ready code
+
+Benefits
+Competitive salary
+Learning budget
+Twice a year company-wide meetups in Europe
+Monthly fun activities
+25 days PTO
+Paid maternity, paternity parental leave packages
+Equity share options

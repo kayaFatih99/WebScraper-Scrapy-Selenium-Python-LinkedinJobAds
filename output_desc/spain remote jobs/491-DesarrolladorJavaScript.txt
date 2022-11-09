@@ -1,0 +1,36 @@
+About the job
+En K-LAGAN te estamos buscando para continuar creciendo juntos!
+
+Somos una empresa estratégica internacional de servicios tecnológicos, comprometida esencialmente con su equipo y con la sociedad. Ofrecemos soluciones en servicios IT, desarrollos de ingeniería, de electrónica, y proyectos de I+D. Nuestro compromiso es contratar a los mejores talentos independientemente de su raza, religión, sexo, edad y personas con otras capacidades, promoviendo su desarrollo profesional y personal.
+
+
+Misión: Como desarrollador Front end con experiencia solida en JavaScript participarás en el análisis y desarrollo de nuevas funcionalidades, aportando ideas y sugerencias de mejora en las decisiones.
+Identificar un mayor potencial de desarrollo de nuestras soluciones y contribuir de forma independiente con nuevas ideas.
+
+Nuestro perfil ideal cuenta con experiencia trabajando en equipo, alta capacidad de organización y orientación al cliente. Aportando una experiencia sólida mínima de dos años con JavaScript (ES6) y experiencia utilizando las siguientes herramientas:
+
+Frameworks como Backbone
+Bibliotecas JavaScript como ReactJS, VueJS y Lodash
+Preprocesadores de hojas de estilo como SASS
+Frameworks y librerías de pruebas como Mocha, Chai, Underscore
+Pruebas funcionales automáticas (Selenium + Cucumber + NodeJS)
+Paquetes y ejecutores de tareas como WebPack, Babel, Grunt, NPM
+Metodologías Agile
+
+Nuestro proceso de selección incluye:
+Primera entrevista
+Entrevista Técnica/Prueba técnica
+Entrevista de Final
+
+Además, en K-LAGAN, queremos que disfrutes de toda la experiencia completa de ser parte de nuestro equipo, por ello ofrecemos:
+¡IMPRESCINDIBLE! Contrato indefinido y proyecto estable.
+MODALIDAD: Trabajo Híbrido - 80%remote 20%Office
+TEAM BUILDING: Barbacoas, cafés tecnológicos e igual este año se nos ocurren más cosas para estar más cerca de vosotros.
+SEGUIMIENTO CONTINUO: contarás con nuestros fantásticos TBM para seguir creciendo y tener feedback sobre tu desempeño y día a día.
+DEPARTAMENTO DE CARRERAS Y FORMACIÓN ¿Quieres dar el siguiente paso? ¡Te ayudamos!
+EVENTOS ESPECIALES: Cena de verano, Cena de Navidad y Día Solidario.
+DÍA CUMPLEAÑOS LIBRE: ¡disfrútalo cómo, dónde y con quién quieras!
+AYUDAS en guarderías, KM e idiomas.
+
+¿Crees que podría ser interesante para ti?
+¡Apúntate!

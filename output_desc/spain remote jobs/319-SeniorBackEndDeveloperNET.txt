@@ -1,0 +1,19 @@
+About the job
+Our client, a multinational software vendor is seeking a Senior Back End Developer from a .NET background to join their team on a fully remote basis as a permanent employee.
+
+We will require somebody comfortable working with stakeholders between GMT & GMT+4 in terms of time zones. As such ideally, we are looking for applicants in Europe.
+
+The Role:
+Leading and mentoring a small team of .NET Developers to deliver new features and maintain existing ones.
+Delivering internal integration projects.
+Providing high-level application architecture, and taking part in technology selection etc.
+
+Required skills and experience:
+Upwards of 5 years Back End Development experience.
+Ideally upwards of 2 years in a Senior Developer or Lead Developer role.
+Excellent development and architectural experience across the .NET Framework.
+In depth professional experience of .NET 6.0
+Professional experience of Entity Framework, NUnit & Swagger.
+Experience of Typescript and/or Angular would be beneficial.
+Strong English communication and stakeholder engagement skills.
+A university degree in Computer Science or similar.

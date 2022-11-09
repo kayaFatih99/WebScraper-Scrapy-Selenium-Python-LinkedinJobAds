@@ -1,0 +1,37 @@
+About the job
+Earthshot Labs’ is a science and technology company dedicated to planetary-scale land regeneration.
+
+We conduct core ecological research and build technology products that inspire land stewards to restore their land, and easily onboard them to carbon marketplaces. We partner with world leading conservation and restoration organizations around the world to support them to develop, secure finance and certify their nature-based carbon project. Our just partnership model is centered on equitability, with a goal of driving as much money as possible back to the implementing organizations and communities on the ground.
+
+Earthshot is building two products that enable its vision: LandOS and Biome. LandOS is a platform for enabling landowners to envision and manifest the regeneration of land they have stewardship over and access carbon markets. Our intention is to build a product that inspires our customers to be bold, to delight and engage them while they envision the future possibilities of the land in ways never possible before. Biome is our Unity app that collects nature observations in the most accurate, fun and engaging way using the smartphone’s neural engine, camera, and augmented reality capabilities. The data collected is used to power both fundamental ecological research as well as to underpin our LandOS system for envisioning and manifesting land restoration.
+
+Earthshot believes that people are most effective and happy when they bring their whole selves into their work, so they can unleash their full genius. We take shared breaths together, we discuss subjects that are deeply meaningful and at times vulnerable. We actively maintain a coherent field of deeply held love for nature and restoring humankind’s place within it. Despite our best intentions we are keenly aware of the potential problems inherent in creating a tech platform to engineer large scale land use, and so we are engaging with indigenous leaders, ecological experts, regenerative farmers, and other groups with deep knowledge of the land in order to ensure we have the highest integrity and wisdom infusing our efforts.
+
+The Role:
+
+We’re looking for a front end developer who shares our passion for ecological restoration. Comfortable with frontend (React), who enjoys working closely with designers and customers to rapidly iterate to build great product to help landowners regenerate their land.
+
+We are just beginning the development of LandOS so you will be leading and shaping our core product.
+
+Who we’re looking for:
+A passionate and heart-centered professional with a deep love for nature and a desire to build a more integrated future for humanity.
+5 - 10+ years software development with modern frontend frameworks (we use React but modern frameworks such as Flutter, Angular should transfer fine).
+Comfortable building products from scratch and scaling them.
+An entrepreneurial mindset - comfortable with wearing multiple hats, working closely with customers and designers to rapidly iterate toward the best possible solution.
+Culture: The process is the product.
+
+By now, you’ll probably have realized that Earthshot is a different type of organization than most other companies you’ve met. We’re inherently mission-driven for profound human and ecological impact. Even more important is the way we work together: the quality of communication, team coherence, creating conditions for the genius and creativity of our team members, recognizing the comprehensive lives that we each lead. Our vision for team culture is informed by teal management, a shared love of nature, and the cultivation of healthy human relationships. Earthshot is fundamentally motivated by love, and is an organization where heart-centered people can together apply their world-class talent to the biggest challenges of our time. We are a natively remote organization, which means that people can choose to work from home whenever they would like, and we have team gatherings every 1-3 months to build team coherence, foster deep relationships with each other, and enjoy nature together.
+
+Diversity:
+
+Earthshot is building a company that honors the awe-inspiring complex diversity of the whole earth. We prioritize hiring team members who expand our team’s representation of race, color, ancestry, religion, gender identity, national origin, sexual orientation, age, relationship style, and many other dimensions of diversity.
+
+We welcome introverts, weirdos, hippies, and anyone else with high emotional intelligence, passionate ecological commitment, and brilliant skillset that maybe don’t fulfill the usual societal norms.
+
+This isn't just about inclusion or equity. We believe that the genius of diverse peoples and backgrounds is essential to create culture and technology that reflect the world we want to live in.
+
+Benefits and Perks:
+
+Being on the Earthshot team offers a range of benefits including, a competitive salary, flexible PTO (and we truly encourage the team to take time away), 100% cost coverage for employees dental and vision, and 80% cost coverage for employees and dependents medical insurance. Eligible for all full-time US based employees.
+
+Earthshot Labs is an Equal Employment Opportunity Employer. We are committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

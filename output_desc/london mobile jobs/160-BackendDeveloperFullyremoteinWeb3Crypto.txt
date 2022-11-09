@@ -1,0 +1,16 @@
+About the job
+Fully-remote role paying up to $100k!
+
+Are you a Backend Developer who wants to work on the incubation of an innovative crypto wallet and money market? Our partners are a mature DeFi start-up aiming to simplify the industry and help people achieve financial freedom. The successful candidate will work on the design, build and deployment of highly secure, scalable and maintainable backend services for a decentralised exchange on Solana.
+
+In this Backend Developer role, you will:
+Develop backend services for new products including their centralised and decentralised exchange platform
+Build high-performance scalable applications, gain exposure to broader system architecture and develop a deep understanding of the cryptocurrency market
+Be passionate about the crypto, blockchain, web3 and decentralised applications.
+
+For this Backend Developer role, you should have strong experience with:
+Node.js, Golang and Kubernetes
+Typescript
+Cloud computing platform (AWS)
+
+If you are a skilled Backend Developer and want to be a part of a scaling technology company in one of the fastest growing industries, then apply now!

@@ -1,0 +1,51 @@
+About the job
+About The Company
+One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 3,200 Enterprise clients, secured over $310 billion worth of digital assets, and has detected over 60,000 vulnerabilities in blockchain code. Our clients include leading projects such as Aave, Polygon, Binance Smart Chain, Terra, Yearn, and Chiliz.
+
+Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Coinbase Ventures, Binance, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors.
+
+About The Role
+As a passionate full-stack engineer at CertiK, you will be developing enterprise-focused products and features for CertiK platforms. These include several products ranging from client portals to monitoring systems, and blockchain analysis & Insight (AI) tools. You will get an opportunity to build the products from the ground up here. This means you can involve in all the stages of the product development & development lifecycle as idea generation, user interviews, planning, design, prototyping, execution, shipping, and iteration.
+
+Responsibilities
+Build delightful and innovative features that make it easier for our customers to audit their projects.
+Being the tech lead mentoring junior engineers.
+Invent best-in-industry tools while working side-by-side with our operations and business teams.
+Write scalable modules/services that help us efficiently handle a large amount of audit volume on our platform. For example, registering, chatting, payment, etc.
+Proven track record of technical leadership and driving strategy behind complex projects.
+General knowledge of both frontend and backend technologies with a good understanding of multi-service architectures.
+
+Requirements
+5+ years of industry experience in Software Engineering experience.
+BS degree or higher in Computer Science/Engineering or equivalent experience.
+Strong sense of ownership Growth mindset and is able to rapidly learn new technologies and concepts to meet the needs of our customers.
+Proficient in one of the front-end tech stacks like Javascript/HTML/CSS and frameworks like reactjs/vuejs/angular
+Proficient in back-end languages like Python/JS/TS/Golang and able to implement web servers & API services
+Solid fundamental computer science knowledge like data structure, algorithms, databases/SQL, testing, CI/CD, GIT, and shell scripts
+Experience with server-side concepts (microservices, caching, performance, monitoring, and scalability)
+Familiar with AWS cloud technologies (e.g. S3, EC2, Lambda etc)
+Fast-paced programming mentality with the ability to turn things around quickly
+Strong and creative problem-solving skills; always willing to embrace new technologies and collaborate
+
+Bonus Points
+(Preferred) Prior experience with blockchain systems
+(Preferred) Prior experience in a fast-paced, growing start-up environment
+
+About You
+You’re a self-starter. You believe in tackling the most important problems, even if they are the most difficult problems. You’re comfortable with the unknown and understand that #startuplife means that you’re going to be wearing multiple hats. And that’s what motivates you. You’re accountable and obsessed with improvement, both in yourself and in others. You’re up to the challenge of building a world-class company that aims to be the infrastructure for more secure software for all.
+
+Compensation
+The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates.
+
+#blockchain
+#startups
+#hiring
+
+
+CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law.
+
+CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.
+
+https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf
+
+All CertiK employees are expected to actively support diversity on their teams, and in the Company.

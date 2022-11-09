@@ -1,0 +1,22 @@
+About the job
+FULLTIME REMOTE JOB
+
+Position : UI Developer with Vue.js
+Required Experience : 5-8 Years
+Type : Fulltime
+
+Preferred Qualifications:
+
+A minimum of 7 years’ experience in JavaScript frontend development;
+Expert in the design, development, documentation, testing, deployment, support, and management of Vue/Angular applications.
+Vue.js Intermediate to advanced.
+Component creation.
+Vuex, Vue-CLI and Webpack.
+Front-end unit testing framework such as, Mocha, @vue/test-utils, Jest, Jasmine, etc.
+Front-end integration testing framework such as Nightwatch, Selenium, Cypress, Puppeteer, etc.
+Advanced CSS/HTML/SCSS/SASS.
+Advanced knowledge of ES6+, Typescript.
+Communicating with RESTful services/APIs.
+Demonstrated experience in the design, development, documentation, testing, deployment, support, and management of Database technologies (RDBMS and NoSQL).
+Familiarity with GitHub repository
+Tools and techniques for code analysis, CI-CD, AGILE, DevOps

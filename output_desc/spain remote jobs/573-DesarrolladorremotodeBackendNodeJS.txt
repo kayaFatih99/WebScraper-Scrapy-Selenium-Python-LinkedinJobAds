@@ -1,0 +1,28 @@
+About the job
+Buscamos programadores enfocados en el mundo web con 1 a 3 años de experiencia, preferiblemente backend. Igualmente si crees que puedes encajar en el perfil estaremos encantados de conocerte :).
+
+Somos una pequeña empresa enfocada en el bien hacer de los proyectos para nuestros clientes, asegurando que entreguemos no solo un buen producto por fuera si no también por dentro.
+
+Son varios proyectos para empresa líder de sector telecomunicaciones, incluido un proyecto crítico para la atención al cliente final.
+
+Ofrecemos:
+Sueldo: 25-30k€
+100% remoto
+Trabajo centrado en programación, pocas reuniones
+Bono de bienvenida de 500€ para comprar todo el material que necesites
+Tus compañeros y superiores son programadores senior
+
+Responsabilidades:
+Identificar las soluciones para los problemas del cliente
+Integrar procesos en herramientas internas
+Mantener e implementar grandes mejoras en proyectos
+Revisar, detectar y proponer mejoras en la infraestructura y proyectos
+
+Requisitos:
+1 a 3 años de experiencia en el sector web
+Conocimiento de Typescript aplicado en NodeJS
+Uso de BBDD relacionales
+Creación de APIs REST
+(Favorable) Experiencia en NestJS
+(Favorable) Experiencia con CI/CD
+(Favorable) Experiencia en testing

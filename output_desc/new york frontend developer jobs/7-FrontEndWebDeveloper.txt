@@ -1,0 +1,42 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Walkwater Technologies, is seeking the following. Apply via Dice today!
+
+ROLE – Front End Web Developer
+
+LOCATION – Remote
+
+RATE – We can pay on C2C or 1099
+
+Main Skills –
+
+Building Web Services (Web UI)
+Front End Framework Vue.js
+Python
+Typescript
+JavaScript, HTML, CSS
+REST/JSon Experience
+
+Fronte nd Web Developer - Machine Learning Developer Tools
+
+Job Summary
+
+Come join Apple’s Video Computer Vision Science Team to build web tools for our machine learning developers! You will develop tools to benchmark machine learning models (i.e., how fast / accurate is the model), and enable machine learning experts to achieve more (e.g., a more effective workflow to build a model). Help us continue to make internal products that blend ease of use, powerful feature sets, and an unsurpassed attention to detail. The primary goal is to d evelop and maintain user friendly web services. Machine learning knowledge is a big plus but NOT required. This position focuses on frontend, but backend experience will be helpful, and full-stack web developers are SUPER welcome!
+
+Key Qualifications
+
+Proven expertise of build user friendly web services
+Expertise with front-end frameworks such as Vue (preferred), React, Angular
+Experience with web-stack development in a Linux environment; Preferred language: Python or JavaScript (TypeScript)
+Experience with web service technologies such as REST, JSON
+Create design patterns in Web UI that are reusable, cross-browser compatible, and responsive.
+Quickly identify and solve issues in production system.
+
+(Good to have)
+
+Experience with back-end frameworks (e.g., FastAPI, Express)
+Experience with building web API (easily work together with backend web developer)
+Basic machine learning knowledge
+Able to learn new software, pipeline, and procedures quickly
+Experience to develop tools that support production
+Excellent teamwork, verbal and written communication skills
+- provided by Dice

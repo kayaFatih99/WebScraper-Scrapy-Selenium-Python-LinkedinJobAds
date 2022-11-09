@@ -1,0 +1,50 @@
+About the job
+Overview
+
+Medallia is the pioneer and market leader in Experience Management. Our award-winning SaaS platform, Medallia Experience Cloud, leads the market in the understanding and management of experience for candidates, customers, employees, patients, citizens and residents.
+
+We are more than a software company. We want to be known as a company that does the right thing, no matter the challenge or controversy. We are committed to creating a culture that values every person and every experience. Individual life experiences shape the way we interact with the world, which is why we encourage people to bring their whole selves to work each day. The strength of our global workforce is the most significant contributor to our success.
+
+We believe: Every Experience Matters. Talent is Everywhere. All Belong Here
+
+At Medallia, we hire the whole person.
+
+The role:
+
+We are looking for motivated software engineers to join our global backend team. You will solve challenging technical problems, own your products end-to-end and help take our SaaS platform to the next level. This isn't just an opportunity to join an amazing team, but also to have an impactful role in the way we evolve our product. As a backend engineer, you will build and/or scale our systems to be highly performant and robust.
+
+Responsibilities
+
+Ship great software that is scalable and robust and then keep it humming.
+Design, implement and drive the technical roadmap and product implementation; help the team prioritize and plan pragmatically.
+Partner closely with dependent teams across engineering to ensure uninterrupted service.
+Identify gaps in knowledge, tools, and process and work with your manager & PM to address those.
+Incorporate the best development practices and habits and help build tooling to enforce the same.
+Work in small teams with like minded engineers in an agile environment with daily standups, demo days, code reviews and research spikes.
+Become a go-to person for one or several components in the whole system.
+Mentor and coach junior engineers and impact teams through tech talks and presentations.
+
+Qualifications
+
+Minimum qualifications:
+
++2 years of experience developing enterprise grade software.
+Experience building distributed systems / enterprise systems on a modern stack.
+Experience building and maintaining software services that will be used by other teams or exposed with external APIs.
+Demonstrate strong software engineering fundamentals.
+Experience implementing automated testing platforms and unit tests
+Analytical mindset and good problem-solving skills
+Proficient knowledge of one or more these coding languages: Java, .NET, C++, C
+Optimization of the application for maximum speed and scalability
+Experience working with SQL databases
+
+Preferred qualifications:
+
+BS/MS in Computer Science, Engineering, or related field preferred.
+Agile process experience, ability to work in fast-paced and distributed teams.
+Experience working with NO-SQL distributed databases
+Experience with Elasticsearch, Lucene, etc.
+
+At Medallia, we celebrate diversity and recognize the value it brings to our customers and employees. Medallia is proud to be an equal opportunity workplace. Equal opportunity is afforded to all qualified applicants and employees. We do not discriminate on the basis of gender identity or expression, race, ethnicity, religion, national origin, age, sex, marital status, physical or mental disability, Veteran status, sexual orientation, and any other protected category.
+
+Medallia is committed to working with and providing reasonable accommodation for applicants with any disability.

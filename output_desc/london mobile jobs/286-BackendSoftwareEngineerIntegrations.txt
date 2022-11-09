@@ -1,0 +1,150 @@
+About the job
+👋 We're Hiring a Backend Software Engineer
+
+
+Yapily is on a mission to enable innovative companies to create better and fairer financial services for everyone through the power of open banking...and we're looking for a Backend Software Engineer to join our Integration squads. Are you a self-starter? Can you see yourself thriving in an innovative, growing fintech scale-up?
+
+
+Join us on our journey, and help us build the future of finance 🚀
+
+
+Here's the Role
+
+
+This role will help us to build a robust and scalable secure infrastructure for our open banking solution.
+
+
+You'll join a talented engineering team who are highly creative and passionate about new ways to improve our existing infrastructure for Platform Services. We work in an agile environment where we are constantly learning and exchanging ideas.
+
+
+The greatest challenge in this role will be how broad the remit of this team is, and how much other teams and our customers rely on us for the use of the platform.
+
+
+We currently have a number of other projects running concurrently. You might have the opportunity to get involved in some of these projects, for example- upgrading the version of Java or Spring, a security initiative or ensuring our regression suite is fit for purpose.
+
+
+All applicants need to have the right to work in the UK to be considered for this role
+
+
+
+What you'll do
+
+
+Help us build and maintain the microservices platform
+You will help us automate and build processes
+You will work closely with other teams and support them on changes that affect the services owned by this team
+You will share your knowledge and experience to help us keep growing our engineering team
+You will have the opportunity to learn and contribute to the success of our business
+You will work on highly technical problems and solutions. You might be working on a ticket on your own or pairing with another member of the team or perhaps supporting another team with their changes that affect our services.
+
+Our Tech Stack
+
+
+Java 11 (+ Mockito, Wiremock for testing)
+Spring, Spring Batch & Spring Reactive
+Hibernate, Spring R2DBC
+REST api - we use Postman for testing
+Open API Specification (OAS)
+PostgreSql
+Docker
+Google Cloud Platform (GCP)
+Grafana | Prometheus
+Kubernetes
+Bitbucket
+
+We'd love you to have
+
+
+Strong core Java programming experience; you'll have experience using Java 8+
+You have experience with SpringBoot and Microservices
+Experience in working with restful APIs
+Commercial awareness or experience with AWS
+Good understanding of different databases
+Great communication skills and the ability to articulate technical concepts to non-technical audiences
+Ability to work independently while also being a good team player. Your work will frequently involve cross-team collaboration.
+You're eager to learn and would like to work in a startup environment where things can change rapidly.
+You have good attention to detail, curiosity and drive for continuous learning and improvement.
+Awareness of DevOps
+Genuine interest in collaborating with other members of the team whilst having fun.
+A sense of empathy for colleagues, clients and partners.
+Experience with reactive APIs e.g. Spring WebFlux
+
+Who are Yapily and what do we do?
+
+
+Yapily is an open banking platform solving a fundamental problem that exists within financial services today: access. For years, card networks have monopolised the global movement of money, and banks have monopolised the ownership of, and access to, financial data. Yapily was founded to challenge these structures and create a global open economy that works for everyone.
+
+
+Yapily securely connects companies to thousands of banks, enabling them to access data, initiate payments, and embed the power of open banking into their products and services. 100% focused on building infrastructure and tools instead of apps at the product layer, Yapily is a true technology enabler allowing its customers' products to take centre stage.
+
+
+Yapily's customers range from disruptive fintechs to big banks and financial institutions across Europe, operating in a number of verticals including Payments, Lending, and Accounting and Bookkeeping.
+
+
+Yapily has raised $69.4M in funding to date, employs over 200 people worldwide, and continues to grow across Europe. Check us out on LinkedIn and Twitter to see what we've been up to lately.
+
+
+What's in it for you?
+
+
+We're a dynamic, mission-driven bunch that values diversity, learning and development, and transparency. Here's what that looks like in terms of benefits:
+
+
+A competitive salary in a rapidly growing scale-up
+Uncapped commission - you are in control of your earnings!
+25 days holiday (UK)
+Generous level of stock options
+Private healthcare
+Pension with employer contribution
+Career trajectory: we hire Yapsters to grow them within the business
+Flexible working options (open to discussions on work location, flexible and part-time hours)
+A £265 contribution to remote desk setup
+
+Read more about working for us here.
+
+
+And here are some extras on top
+
+
+While we do support hybrid and flexible working arrangements, we've made our office a great place to work. (Literally...we're officially considered a Great Place to Work and were named one of the Best Workplaces in Tech 2022.) When you come to our centrally located office near Old Street, you'll find a fully stocked kitchen and great collaborative spaces. Plus, we're dog friendly!
+Whether it's for Carnival, Halloween, or just a knees-up, our monthly socials are a great way to let your hair down and connect with your colleagues
+There are plenty of wonderful communities to join for every taste - exercise, reading food, music, and many more. We've got it covered.
+When you grow, we grow. That's why we encourage and support all of our employees and give every Yapster a Learning and Development budget
+
+The Hiring Process
+
+
+Intro conversation with one of our Talent Acquisition Team
+An interview with the Engineering Manager
+A technical interview
+Strengths & Values interview with some of the wider team (an opportunity to learn more about our culture and for us to understand how you like to work)
+
+Why work at Yapily?
+
+
+We're a scale-up and we're growing fast.
+
+
+Over 250 fiercely talented individuals from around the world are helping us achieve our mission.. We're wonderfully diverse, with 31 nationalities and counting!
+
+
+We attract ambitious people who are excited to work in a nascent and disruptive industry, and will change the way we interact with financial services. Forever.
+
+
+We don't always know the answers, which is why we look for people who can use their skills, intuition, and judgement to diligently work within a team.
+
+
+👀 See for yourself...
+
+
+We're thrilled to have won not one or two, but three awards this year! Read all about them here.
+
+
+You can also check out what people are saying about us on Glassdoor and, if you'd like to get to know our Yapsters better, check out We Are Yapily on Instagram.
+
+
+Desired Skills and Experience
+Java
+Microservices
+RESTful APIs
+Spring boot

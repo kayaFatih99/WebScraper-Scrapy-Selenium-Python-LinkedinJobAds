@@ -1,0 +1,30 @@
+About the job
+As a result of the pandemic, the world we live in is changing forever with a huge push towards remote working and improving the work/life balance.
+
+We are recruiting multiple Software Engineering positions on behalf of our client; a well-funded tech startup (< $120m in funding) who are opening up the world of global remote working to all companies. Their simple to use platform essentially enables companies of any size to hire abroad and take care of local compliance and laws (eg taxes, benefits, payroll, benefits etc).
+
+You will be joining a team of approx 300 amazing colleagues, where there are circa 30+ in the Engineering team who are all working remotely (believe it or not), distributed across Europe!
+
+
+Responsibilities:
+You will work with our clients existing tech stack consisting of Java, Kotlin, Javascript, React, to help develop new API's, features and ultimately build a maintainable, and scalable product.
+Collaborate with the team (Product, Design, Engineering + other stakeholders) to ensure the product solves customers needs
+Work autonomously within a distributed team, creating durable written artifacts of your work.
+
+Requirements:
+Approx 5+ years of experience as an Engineer
+2+ years of experience using modern Javascript frameworks
+Strong professional experience as a fullstack Engineer, comfortable on both Front and Backends.
+Comfortable working fully remotely as part of a distributed team
+The ability to be highly autonomous
+They are unable to provide sponsorship at this time
+
+Benefits:
+Permanent remote working
+Remote working allowance
+Equipment + infrastructure budget
+Flexible working hours
+Bi-Annual company off-site retreats
+Personal development/ learning opportunities
+Stock options
+Working with a pretty awesome bunch of people!!!

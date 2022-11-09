@@ -1,0 +1,24 @@
+About the job
+Company: Daltum Systems
+Position: Backend Developer
+Salary: 64.000€
+Location: Remote
+Responsible of the development of backend components, which are mainly REST API microservices.
+Requirements
+Studies: No degree needed
+Technical Knowledge:
+SPRING-BOOT
+REST-API
+MICROSERVICES-TOOLS
+JAVA8
+Experience
+Software engineer with at least 5 years of experience developing backend components.
+5 years of experience with Java 8 and Spring Boot.
+4 years of experience with REST API's and Microservices.
+**Docker: desired.
+Language: English
+Spoken: Advanced
+Written: Advanced
+Read: Advanced
+Availability to travel
+Not required

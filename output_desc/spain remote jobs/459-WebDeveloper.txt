@@ -1,0 +1,41 @@
+About the job
+Resumen:
+
+Suecos® es una marca de calzado diseñada para satisfacer las necesidades únicas de los profesionales que buscan opciones fiables y quieren proteger la salud de sus pies, rodillas y espalda a largo plazo. Nuestro calzado técnico y cómodo ayuda a las personas a alcanzar sus objetivos tanto dentro como fuera del trabajo para que no se centren en el dolor, sino en las alegrías que el trabajo y la vida aportan.
+
+Llevamos desde 2006 vendiendo por el canal B2B y desde el 2019 nos hemos lanzado a la venta online.
+Estamos en continuo crecimiento, por lo tanto buscamos un desarrollador full stack que se incorpore a nuestra plantilla y nos ayude en esta etapa.
+Actualmente trabajamos con la plataforma Bigcommerce la cual es una plataforma open Saas con soluciones Headless commerce.
+
+Funciones:
+
+Trabajarás con el equipo de Ecommerce y Marketing y te encargarás de dar soporte a la empresa que efectúe la integración de nuestro ERP con Bigcommerce a nivel API, desarrollar descuentos por variantes, automatizar promociones,planes de fidelización, implantación de varios idiomas en la web, mejora UX, responsive Design, etc.
+También participarás en la evolución técnica y tecnológica de los proyectos Front-End aplicando tu experiencia o investigaciones que se realizan continuamente. . Reportarás directamente al Jefe de Ecommerce y Marketing trabajando juntos para mejorar nuestras KPIs.
+
+A quién buscamos:
+
+Personas entusiasmadas y motivadas, con capacidades y competencias en estas áreas, con una actitud proactiva, resolutivas y que estén buscando un reto para desarrollarse profesionalmente.
+
+Requisitos necesarios:
+- Experiencia mínima de 2 años como desarrollador full stack para ecommerces
+- Experiencia con API REST
+- Conocimientos avanzados de GraphQl, HTML5, CSS3, PHP y JavaScript
+- Estar al día en diseño UI / UX orientado a los usuarios y comprender los estándares Web del momento, así como las tendencias
+- Conocimiento plataformas SASS
+- Tener capacidad resolutiva
+
+Se valorará:
+-Estar familiarizado con Headless commerce
+-Tener experiencia en Bigcommerce, Shopify u otro CMS
+-Experiencia en desarrollo front end
+-Conocimientos de desarrollo back end
+-Ser una persona apasionada del aprendizaje y la programación.
+-Ser una persona detallista que le guste el trabajo bien hecho
+
+Que ofrecemos:
+- Semanas flexibles de 40 horas de trabajo
+- Ambiente de trabajo colaborativo y cultura positiva
+- Libertad para aportar y proponer ideas
+- Oportunidades de crecer rápidamente a medida que aumentamos el comercio electrónico
+- Empresa privada con una fuerte ética y valores
+- Posibilidad de teletrabajo

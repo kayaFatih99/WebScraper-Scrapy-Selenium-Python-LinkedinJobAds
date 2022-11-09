@@ -1,0 +1,16 @@
+About the job
+Backend Rust Engineer | Leading European Market-Maker 🦀
+Fully Remote | Up to £140k + Equity
+
+We are currently working with a Brussels-based, well-established, and fast-growing market maker that is leading the creation of algorithmic trading technologies across Europe. They are looking to add an experienced backend Rust Developer to their remote-first international team.
+
+As a Backend Rust Engineer you will be:
+Working with a modern tech stack - Rust, Python, PostgreSQL, Kubernetes, and more.
+Building out new features and integrating third-party Rust APIs on their exchange
+Helping to support and maintain the development of low-latency trading systems
+Having an important influence on future infrastructural changes
+
+On top of an above-market salary they provide a wide array of benefits that include: equity options, complete autonomy over your time (flexible hours), a limitless training budget, and offers like car/bike/internet subsidies.
+
+Apply now for immediate consideration for this excellent Rust Developer opportunity!
+Understanding Recruitment is acting as an employment agency for this Rust Developer vacancy.

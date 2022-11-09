@@ -1,0 +1,65 @@
+About the job
+**this role is offered on a remote working basis from the U.K, Switzerland or any EU country. Applicants must have full right to work in their country of residency - visa sponsorship is not available**
+
+Copper is transforming how institutional investors engage with digital assets, providing market-leading infrastructure in addition to custody, trading and prime brokerage solutions.
+
+Our award-winning custody application leverages the genius of multi-party computation (MPC) encryption and can be configured to support cold, warm, and hot wallet solutions.
+Asset managers are further protected by our pioneering ClearLoop network, which enables off-exchange trading and settlement at tier-1 digital asset exchanges. An offering enhanced by the availability of uncollateralised lending.
+
+Copper's secure wallet architecture is available as a standalone application, a mobile app, and a browser extension for smart contract signing. With an easy to navigate interface, market making liquidity, and a team always ready to assist you, Copper will change the way you look at crypto.
+
+Our culture is based on innovation, enthusiasm and above all else collaboration.
+
+Your contribution
+Our enterprise engineering team will rely on your expertise to deliver mission critical applications to our large enterprise clients.
+You will work on understanding the business process, working with project management and product teams to refine client requirements, implementing the functionality and seeing developed artefacts into production.
+You will ensure that your deliverables are production-grade and well tested
+Depending on your experience you will take ownership of more complex problems and mentor other team members
+You will work with our clients and technology partners to shape elegant architectures that fit into our client’s infrastructure and business processes
+
+Your responsibilities
+Take ownership of technical issues and see them through from concept into production
+Assess business requirements and design elegant technical concepts to implement these
+Develop product features for enterprise
+Continuously improve our software delivery automation
+Contribute to technical architecture and design of client-specific deployments
+Collaborate with experts from our clients, technology partners and other internal development teams to deliver well rounded client software
+Participate in deployment of services with strict availability requirements on a large-scale environment and working together with other Engineers to ensure our systems meet current and future demand.
+Collaborate effectively with teammates and technical partners by deeply understanding each point of view, constructively voicing your opinion, balancing the tradeoffs and holding your team and partners equally accountable
+Communicate technical ideas and direction across the organisation. Skilfully convey the intricacies of your ideas, take complicated concepts and make them easily digestible.
+You will learn a lot about digital finance, cloud-based and enterprise, architectures and latest in security and enterprise infrastructure
+
+Your skillset
+Solid understanding of applications, infrastructure and technical concepts of large enterprises
+Expertise with Scala, Java, Typescript, Terraform, Ansible, and GoCD or similar tooling
+Familiar with all aspects of a product or service development lifecycle such as ideation, MVP, Launch, Adoption, Scaling, Steady-state maintenance, and EOL
+Experience with product development while working in a highly cross-functional environment
+Practical understanding of data structures, algorithms, design and software integration patterns
+Experience working in DevOps environments with high degree of automation
+Experience with running mission critical software in production
+Understanding and experience in blockchain infrastructure
+Knowledge and experience in web application security
+Experience in dealing with technical client stakeholders at different levels
+Experience working in large enterprise environments
+
+Our core stack
+Scala/Java/Typescript Backend
+React.js Frontend
+Native iOS, macOS and Windows apps in Electron.js
+AWS Cloud computing, GoCD pipelines
+Elastic Stack (ELK)
+Docker/Mesos/Marathon infrastructure
+High availability Postgres clusters
+Lots of integrations with banks, blockchains, exchanges and liquidity providers
+
+Our benefits
+25 days holiday a year plus bank holiday entitlement (increasing by one day per year of service up to 30 days)
+Private medical and dental care
+Pension with matched contribution, up to 10% of salary
+Home Working Energy Support Scheme
+Bi-annual bonus incentive
+Employee Growth Share incentive
+Monthly events such as game nights, quiz nights, cinema nights
+An annual Copper Summit (This year was Lisbon!)
+Breakfast and refreshments in the office
+Limited edition copper swag

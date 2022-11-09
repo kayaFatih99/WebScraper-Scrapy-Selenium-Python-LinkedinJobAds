@@ -1,0 +1,68 @@
+About the job
+Hi, we’re Fever
+
+We’re excited you are checking out this job offer.
+We are the leading global live-entertainment discovery tech platform with a clear mission: to democratize access to culture and entertainment.
+
+How do we achieve our mission? Fever has developed a proprietary technology that inspires a global community of over 125M people through personalized and curated experiences in their local city whilst empowering entertainment and event creators to reach new audiences and enhance their experience.
+
+Sounds amazing, right?
+
+Behind the user-friendly iOS and Android apps and webpage that work across the world is the engineering team. We are in charge of creating, developing, improving, and maintaining all Fever services so that more people can have an amazing experience.
+
+About the role
+
+What are we looking for:
+
+We are looking for a Senior Backend Engineer to join the backend team with outstanding software development talent proven by great work results/experience. Somebody that cares about code quality and not just get things done, but get things done right.
+If you're smart, have great energy, can't think about a system without a CI/CD pipeline and you want to thrive in a fast paced environment, we are in sync.
+
+What would you do at Fever?
+
+On your first month in Fever:
+You will be fully integrated into the team. You will participate in plannings, groomings and retrospectives of the team, and you will have met the departments of Fever.
+You will get familiar with Fever’s tech stack: frameworks used to develop our applications, CI/CD workflows and infrastructure that support our operations.
+You will have lots of Pull Requests merged and running in production.
+You will attend some of the Fever Original’s experiences like Candlelight.
+
+After 3 months in Fever:
+You will be able to come up with solutions to new difficult problems, defining the solution from the architecture design to its implementation.
+You will continue creating production grade Python code designed to handle high levels of traffic, measuring the outcome of the functionalities and improving the product.
+You will participate in some of the hackdays or hackathons we organise with other teams, and you will mostly know everybody from engineering.
+
+On your 6th month in Fever:
+You will have responsibilities over different parts of the systems, analysing the usage from the users and evolving the platform to meet the user’s needs.
+You will have participated in the launch of one of our new microservices, from 0 to production.
+You will mentor other team members through code reviews, sessions of architecture design and pair programming.
+You will participate in some of the team buildings we organise for your team or the whole engineering team.
+
+About you
+
+Must have skills:
+Strong knowledge on good practices, testing and design patterns
+You are proficient in business English
+You know how to deliver code from development to production
+Experience with RESTful APIs (implementation and consumption)
+Knowledge of relational databases and SQL
+
+We use these technologies, so it would be a plus if you have experience in:
+Django/Flask
+PostgreSQL
+Redis
+Celery with RabbitMQ
+Experience working on agile methodology
+AWS, Docker and Kubernetes
+
+Benefits & Perks
+Attractive compensation package consisting of base salary and the potential to earn a significant bonus for top performance.
+Stock options.
+Opportunity to have a real impact in a high-growth global category leader
+40% discount on all Fever events and experiences
+Home office friendly
+Responsibility from day one and professional and personal growth
+Great work environment with a young, international team of talented people to work with!
+Health insurance and other benefits such as Flexible remuneration with a 100% tax exemption through Cobee.
+English Lessons
+Gympass Membership
+Possibility to receive in advance part of your salary by Payflow.
+Salary range: 50 -70 k

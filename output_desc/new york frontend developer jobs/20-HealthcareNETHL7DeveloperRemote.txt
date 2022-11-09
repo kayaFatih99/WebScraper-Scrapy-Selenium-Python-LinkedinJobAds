@@ -1,0 +1,26 @@
+About the job
+Job Description
+
+Piper Enterprise Solutions is searching for a .NET Developer for a Fortune 500 client in the healthcare space. This position is 100% remote.
+
+Responsibilities for the .NET Developer:
+
+Hands-on development of products that integrate into health system, assisting with integrations when needed
+Gather requirements, build out applications, and review submitted code, assuring all projects are completed effectively
+
+Qualifications for the .NET Developer:
+
+3-4 years of experience as a .NET developer
+Experience in the latest .NET technologies and/or .NET core
+Frontend development is a bonus (JavaScript, React, Angular, Bootstrap)
+Understanding and experience with healthcare standards and technologies (EMR, HL7, X12)
+Cloud experience is a bonus
+Strong communication, collaboration, and project management skills
+
+Compensation/Benefits for .NET Developer:
+
+$110,000 + bonus
+100% Remote
+Comprehensive benefit package; Medical, Dental, Vision, 401k, and PTO
+
+Keywords: sr. .net developer, healthcare, hl7, emr, epic, cerner, x12, .NET developer, .NET engineer, engineer, architect .net core, .net, sql server, sql, asp.net, mvc, web development, api, integration, cloud native, cloud, migration, c#, asp.net, html, bootstrap, jquery, angular, backend, frontend, agile, sdlc, architect, senior engineer, hybrid, applications, web, design, test, deploy, documentation, single sign-on, lambda expressions, liq, caching, scalable, azure, unit testing, lead, technical lead, project management, full time, asynchronous, programming, quality assurance, technical, manage, leadership, REST, pharma, equity, Microsoft, hybrid, benefits, dental, vision, health, PTO

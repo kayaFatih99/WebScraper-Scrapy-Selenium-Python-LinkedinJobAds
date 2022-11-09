@@ -1,0 +1,32 @@
+About the job
+Would you like to work in a global broadcasting company? Do you love video streaming technologies? This is an opportunity for you! The Video Streaming Engineer (JavaScript) will be responsible for building and supporting business critical video player systems across several embedded devices.
+
+STAND 8 provides end to end IT solutions to enterprise partners across the United States and with offices in Los Angeles, New York, New Jersey, Atlanta, and more.
+
+Responsibilities
+Built state of the art video streaming players within embedded consumer systems.
+Collaborate with D2C engineering and technical teams to implement frameworks to create and manage video-on-demand assets delivered directly to the consumer.
+Design and deliver cloud and on-prem workflow solutions.
+Work with technology partners, site engineers, and vendors to implement smart technology solutions and tools.
+Requirements
+4-7 years of experience working in video streaming or delivery
+Expertise building embedded video streaming players using JavaScript (C++ is nice to have)
+Experience with DASH
+Experience with SDK and / or RDK video systems
+Expertise in encoding profiles, bitrate ladders, and video compression technologies.
+Expertise in audio/video codecs (AVC/HEVC/DD+, Atmos), HDR (HDR10/Dolby Vision), DRM technologies (Fairplay, Playready, Widevine).
+Expertise in dynamic ad insertion, both client-side and server-side, technical architecture and design implications for each.
+Expertise in cloud VOD transcode and packaging services.
+Knowledge of VOD video workflows in the cloud and in on-prem/off-prem environments.
+Knowledge of cloud delivery (AWS is a plus).
+Knowledge of streaming video delivery, video origin architecture, and issues of scale for video delivery.
+Knowledge of scripting and light coding to support software workflows and testing.
+Comfort with the Software Development Life Cycle and software-based tools and workflows.
+Strong quantitative, analytical, problem solving, debugging and decision-making skills.
+DESIRED CHARACTERISTICS
+Bachelors in Computer Science, MIS or related degree
+Excellent written and verbal communication skills
+Ability to work independently under minimum supervision and proactive in solving issues
+Effective interpersonal skills with the ability to work across multiple groups and levels in organization
+Self-motivation and resourcefulness
+Energy, commitment and solution focused, ability to perform under pressure and meeting stretch targets

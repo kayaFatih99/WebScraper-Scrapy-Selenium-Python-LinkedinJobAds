@@ -1,0 +1,20 @@
+About the job
+We are recruiting for a high growth Tech company who are doing some great things in the EV space! Their electric charging system finds the best charging times and prices making EV ultra-sustainable.
+
+On top of that they are working with energy suppliers which are supporting the global transition to renewables. This is certainly Tech for good.
+
+There are Android roles available, they are looking for engineers from mid to senior!
+
+Requirements
+Android SDK and great if you have experience with the latest APIs and frameworks
+Experience with popular external libraries
+Able to write unit tests
+Java / Android
+Some apps live on Google Play
+Version control such as Git
+
+Benefits:
+BUPA Private Health Insurance
+Life Insurance Scheme
+Season Ticket Loan
++Others

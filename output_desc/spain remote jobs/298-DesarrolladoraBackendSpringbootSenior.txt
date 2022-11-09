@@ -1,0 +1,42 @@
+About the job
+¿Estás en proceso de búsqueda de un cambio? ¿Te interesan los nuevos retos?
+
+¡Esta es tu oportunidad, queremos conocerte!
+
+En Vermont Solutions estamos ampliando nuestro equipo, por eso buscamos un perfil de desarrollo backend para formar parte de un gran proyecto en una compañía del sector financiero ubicada en Boadilla del Monte.
+
+Modalidad: 100% remoto
+
+Experiencia requerida: +4 años
+
+Tecnología: Springboot con conocimientos en programación reactiva y orientada a eventos
+
+BBDD: no relacionales, concretamente CosmoDB
+
+Integración coniínua: github, Jenkins, sornarQube, etc.
+
+Desarrollo seguro: pase de Fortify
+
+Testing: test unitarios con Junit 5
+
+Metodología de trabajo: Agile
+
+Otras cualidades:
+
+Experiencia y capacidad de análisis para encontrar la estrategia de desarrollo más eficiente
+
+Autonomía en el trabajo
+Trato directo con la clienta, pues ejerce el rol de scrum master en el proyecto, por lo que tratará con ella a diario
+
+Funciones
+
+Con conocimientos o suficiente experiencia para enfrentarse a programación reactiva y basada en eventos, necesario para participar en el desarrollo de un nuevo proyecto
+
+Ofrecemos:
+
+Plan de Formación y certificaciones técnicas.
+Desarrollo profesional y plan de carrera definido.
+Flexibilidad horaria
+Plan de retribución flexible acorde a tus necesidades (seguro médico privado, cheques formación para estudiar idiomas, cheques guardería, tarjeta transporte...).
+Integración en un equipo de profesionales motivados, en un ambiente de trabajo innovador y dinámico.
+Modelo de gestión sostenible y políticas de igualdad efectiva, ambientes de trabajo abiertos e inclusivos.

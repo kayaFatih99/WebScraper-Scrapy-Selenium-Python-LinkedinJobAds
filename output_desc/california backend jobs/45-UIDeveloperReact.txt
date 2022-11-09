@@ -1,0 +1,33 @@
+About the job
+Job Description
+
+Piper Companies is looking for an UI Developer for a leading financial services organization based in the Philadelphia, PA area.
+
+This is a FULLY REMOTE opportunity
+
+Responsibilities for the UI Developer:
+
+You will develop features and improvements to the various products alongside UI and Product Management teams
+Craft code that leads style, maintainability, and best practices for a high-scale web environment
+
+Qualifications for the UI Developer include:
+
+At least 7 years of UI/UX development experience
+Strong experience with React framework – including React Hooks, Styled Components and React Routes is a must.
+Experience with web technologies including HTML, CSS, SASS and Bootstrap is a must
+Experience in the latest front end technology stack including but not limited to ECMAscript, typescript, Axios and ESLint
+Professional experience with other JavaScript libraries including Angular, Vue JS, Node JS
+Experience with creating cross-browser/mobile compatible and standard compliant CSS based page layouts.
+Experience using front end tools such as Adobe Illustrator, Adobe Photoshop, Adobe InDesign CC, CorelDraw, GIMP, Sketch, Adobe XD, Visio, Cacoo, Miro (all of these are a plus)
+Experience with using GIT (source control)
+Experience producing wireframes and prototypes
+Must know how to denote UI elements such as images, button and menus in diagrammatic form.
+Strong experience with cross browser compatibility issues and optimization for web.
+
+Compensation details for the UI Developer:
+
+Compensation target is 69/Hr on W2
+Contract to Hire Opportunity
+Comprehensive Medical benefits: Medical, Dental, Vision, 401K, PTO, Profit Sharing
+
+Keywords: UI, UX, UI Developer, user interface, user, interface, user experience, experience, software developer, React, features, new features, backend, web development, React frameworks, web, web technologies, web developer, HTML, CSS, SASS, Bootstrap, front-end, front-end technology, front end, frontend, frontend developer, front-end developer, front end developer, Adobe Illustrator, Adobe Photoshop, Adobe InDesign CC, CorelDraw, GIMP, Sketch, Adobe XD, Visio, Cacoo, Miro, wireframes, prototypes, Chrome Development Tools, interactive, visual design, design. Remote, remote opportunity, remote work, remote job, work from home, compatibility, web browser, web browser compatibility, React hooks, styled components, react routes

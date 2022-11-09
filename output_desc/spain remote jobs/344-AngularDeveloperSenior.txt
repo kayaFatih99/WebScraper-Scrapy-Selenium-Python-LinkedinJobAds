@@ -1,0 +1,31 @@
+About the job
+Nuestra misión
+Queremos ayudar a construir el futuro a través de la tecnología, aportando soluciones digitales que ayuden a cambiar diferentes sectores de nuestra sociedad. Somos el primer Exponencial Tech Hub basado en España, que trabaja día a día en cambiar como interactuaremos en el mañana.
+
+
+Nuestros valores
+En ALUXION defendemos y buscamos los siguientes valores en nuestros aluxioners, lo que define nuestro alma y nuestra forma de ser como equipo y como personas:
+Exponencialidad: Pensar más allá y adaptarnos a los cambios con las últimas tecnologías y metodologías.
+Transparencia: Creemos en contar las cosas como son y en escuchar, como motor de cambio y de progreso en la empresa.
+Vanguardia: No tener miedo a estar siempre a la última y convertirnos en líderes de nuestro sector.
+Pasión: Amar lo que uno hace como motor de su día a día y como forma de vida.
+Responsabilidad: Tenemos que tener responsabilidad con nuestros compañeros y con nuestra sociedad.
+Locura: Quienes están lo suficientemente locos para pensar que pueden cambiar el mundo, son quienes lo cambian.
+
+
+¿Qué estamos buscando?
+Estamos buscando un desarrollador de software con especial conocimiento en la parte del Frontend para aplicar las lógicas de negocio a nivel navegador, consumiendo los datos desde distintos endpoints y dando soporte a la parte visual de la plataforma. El desarrollo está basado en Javascript (framework Angular). Buscamos una persona que encaje con los siguientes puntos:
+
+Más de 5 años de experiencia trabajando como Desarrollador Frontend con Angular (Javascript)
+Buenas capacidades comunicativas para tratar con el equipo
+Alta capacidad de buscar soluciones técnicas a problemas que puedan surgir a la hora de implementar lógicas de negocio
+Disponer de sólidos conocimientos relacionados con el mundo del desarrollo
+Proactividad para poder proponer mejoras en la forma de trabajar, la comunicación o el código del proyecto
+Conocimiento de Docker, de implementación de unit testing y testing e2e, así como de buenas prácticas de desarrollo
+
+
+Qué ofrecemos
+Trabajo 100% remoto, con posibilidad de una reunión mensual en Madrid
+Contrato indefinido
+Jornada completa con flexibilidad horaria
+Salario: 35.000€ - 45.000€

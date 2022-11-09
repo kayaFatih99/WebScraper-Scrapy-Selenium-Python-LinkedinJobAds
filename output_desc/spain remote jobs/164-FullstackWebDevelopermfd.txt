@@ -1,0 +1,51 @@
+About the job
+At Speexx, we are building the future of learning. In large businesses and organizations worldwide, our solutions help millions of people to understand each other better every day.
+
+We are looking for developers, who will continuously improve our highly performant digital Speexx platform, which connects millions of users around the world. There's plenty of technical knowledge across our teams, so if you love to outgrow yourself and break new grounds like we do, then join the international team of Speexx developers. If this sounds like you, hurry up and join us for the position of a
+
+Full-stack Web Developer - remote
+
+Back-end:
+Object-oriented programming experience with modern Java stack: Java 8 or later
+Design patterns. Model-View-Controller (MVC)
+Java Persistence API (JPA)
+Build automation (Maven)
+Databases:
+SQL (Firebird, MySQL or PostgreSQL)
+Front-end:
+HTML5, CSS3 [Less/Sass]
+UX/UI responsive web design. Single-page applications
+JavaScript
+Front-end library/frameworks (Bootstrap, jQuery, Underscore, Backbone, Handlebars...)
+Development tools:
+Version control (Git)
+IDE (Eclipse, IntelliJ)
+
+What we look for
+Challenge existing work patterns and help us improve the product continuously
+Ensure code quality and maintainability by improving build and test systems
+Work closely together with the Product Management team to achieve the next level together
+Be involved in the whole development lifecycle from architecture to QA to deployment
+
+What We Look For
+University degree in Computer Science or equivalent qualifications is the base
+You have profound experience in both backend and frontend development
+Experience in an international environment and with SaaS products
+Fluent in English
+
+What You Can Expect At Speexx
+
+A highly international and agile environment in which you collaborate with amazing team members from offices and locations around the globe, including Munich, Madrid, Milan, Paris, Sao Paulo and Shanghai. Rooted in an environment of curiosity and learning, you would be joining a leading company that is proud to be shaping the future of digital learning and is undoubtedly one of the best places to work in the industry!
+
+In addition you will experience:
+Tech stack: Ubuntu Server, Java, JavaScript, Relational Databases (Firebird, PostgreSQL), Git (Bitbucket / Bitbucket Pipelines)
+Agile development with SCRUM (Jira / Confluence)
+Mac or Windows, your choice of OS – you decide how you want to work
+Speexx Academy training programs to get you started quickly
+Offices at a central location in the heart of Munich or Madrid
+Flat hierarchies, an open culture and fast decision-making
+Free access to the best language courses in the world!
+
+Interested? Just hit the apply button and we´ll take it from there. We are looking forward to hearing from you!
+
+For additional questions, send an email to: jobs@speexx.com

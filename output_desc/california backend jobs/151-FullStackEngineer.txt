@@ -1,0 +1,6 @@
+About the job
+Must have Skills:
+• Angular (8+)/Typescript/JavaScript (will need experience in design and development as well as maintenance of multi-tier internet facing application)
+- Application build/deployment using Jenkins, Maven, uDeploy etc.
+- Needs experience with design patterns, UML, and responsive web development
+• Additional Skills: GraphQL, AWS

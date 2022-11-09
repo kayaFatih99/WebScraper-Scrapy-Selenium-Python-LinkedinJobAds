@@ -1,0 +1,39 @@
+About the job
+This job is sourced from a job board. Learn more
+We are looking for Full Stack .NET Developer for the California location. This is a permanent role for a global IT service provider.
+
+Requirements
+
+Min of 5+ years experience with .NET Framework
+
+Advanced C# skills
+
+Experience in ASP.NET and MVC
+
+Strong knowledge of Entity Framework
+
+Experience In Angular / TypeScript/ React/ Vue.js Front-end Skills
+
+Knowledge of JavaScript, HTML5, CSS, Bootstrap
+
+Experience in Azure/AWS cloud environment
+
+Strong Web Services development experience, Web APIs, preferably with asp.net, Dotnet core.
+
+Strong knowledge and understanding of RESTful Web Service design patterns and API Management lifecycle concepts
+
+Strong knowledge of software development life cycles.
+
+Strong knowledge of Continuous-Integration and Continuous-Delivery workflows and platforms
+
+Developed skills in SQL programming language for Microsoft SQL Server
+
+About Us
+
+Benefits
+
+Zone IT Solutions is Australia based Recruitment Company. We specialize in Digital, ERP and larger IT Services. We offer flexible, efficient and collaborative solutions to any organization that requires IT, experts. Our agile, agnostic and flexible solutions will help you source the IT Expertise you need. Our delivery Offices are in Melbourne, Sydney and India. If you are looking for new opportunities your profile at (url removed) or contact us.
+
+Also follow our page for new job opportunities and more.
+
+Zone IT Solutions is an equal opportunity employer and our recruitment process focuses on essential skills and abilities. We welcome applicants from a diverse range of backgrounds, including Aboriginal and Torres Strait Islander peoples, people from culturally and linguistically diverse (CALD) backgrounds and people with disabilities.

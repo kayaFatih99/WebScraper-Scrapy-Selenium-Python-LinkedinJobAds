@@ -1,0 +1,14 @@
+About the job
+Required Qualifications:
+• At least 4 years of experience in Information Technology
+
+Preferred Qualifications:
+• Experience in Java/J2EE technologies in developing J2EE based web application.
+• Backend technologies - Java 8, Spring, Spring Boot, Microservices, NodeJS.
+• UI technologies – CSS, html, Vue.JS, jQuery/Typescript.
+• Database – Oracle.
+• Knowledge of CICD with Jenkins, Docker, Kubernetes.
+• Excellent analytical and problem-solving skills to understand the business processes, maintenance, production support and release management.
+• Excellent client interfacing skills.
+• Ability to work in a collaborative multi-application team environment.
+• Experience and desire to work in a global delivery environment.

@@ -1,0 +1,32 @@
+About the job
+Who We Are
+
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 2,700 Criteos collaborates to develop an open and inclusive environment. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We work together to achieve our goals, push boundaries, and share successes. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising.
+
+You can either work from our Barcelona office or Full Remote from anywhere in Spain except from Navarra, and Basque Country.
+
+We are looking to hire a skilled web developer that will be focused on back-end development and front-end delivery of a dynamic web experience. To be successful, you should have in-dept knowledge of front-end programming languages, a good eye for aesthetics, and strong agile marketing skills. You can be based in both Barcelona or Madrid.
+
+What you'll do :
+
+Work closely with team of designers and developers to build an engaging website experience leveraging mobile-first and responsive design best practices.
+Proficiency with WordPress, PHP, AWS, and Pantheon to run the global Criteo.com property.
+Management of site themes and plugins.
+Develop, deploy and enhance the website experience with a PHP-based content management system including database management and server integration.
+Analyze marketing plans to identify how the website can deliver the optimal user experience.
+Ensure website quality and compliance measures for cookie controls and visitor privacy.
+Experience managing web servers to maintain the site infrastructure from DNS, CDN, development environments to global hosting and distribution of content.
+
+Who you are :
+
+Proficiency in HTML5, CSS, PHP, JavaScript, GIT and databases.
+Ability to manage and synchronize development, test and live environments.
+Proven work experience as a WordPress developer.
+Experience working with debugging tools.
+Ability to project manage.
+Good communication skills by taking complex setups and making them simple.
+Likes to work in a fast-paced and agile environment.
+
+At Criteo, we believe the future is wide open when it includes everyone. We are committed to creating an environment where all Criteos feel a sense of belonging. We nourish our diversity by listening to all cultures within Criteo - and there are many. We are proud to be a global team and conscious that it takes people with different perspectives, thoughts and cultures to succeed. We want you to come as you are so we can succeed together.
+
+Criteo collects your personal data for the purposes of managing Criteo's recruitment related activities. Consequently, Criteo may use your personal data in relation to the evaluation and selection of applicants. Your information will be accessible to the different Criteo entities across the world. By clicking the "Apply" button you expressly give your consent.

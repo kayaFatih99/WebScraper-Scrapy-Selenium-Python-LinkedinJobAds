@@ -1,0 +1,16 @@
+About the job
+• Bachelor's degree in Computer Science or Engineering
+• 7+ years of development full-stack development experience with, designing, developing and maintaining multi-tier internet facing web applications using Angular, Node, Nest, and proper test automation frameworks in a fast-paced Scrum environment
+• 4+ years of Responsive & Progressive Modern Web application development.
+• Make significant contributions to our technology platform
+• Design patterns, UML
+• Test Driven Development, Jest.
+• Application build, deploy using Continuous Integration/ Deployment (CI/CD) tools -- Jenkins, Maven, uDeploy, etc.
+• Leadership: Team leader, self-starter, collaborative, innovative, eager to learn and teach others every day.
+• Understanding of docker, cloud-computing / AWS cloud services platforms will be a plus
+• Drive the coordination of multiple development work streams through integration and ensure architecture is scalable and extensible.
+• Define, maintain, and support Java development environment and standard processes, such as Maven, Sonar, and other Open-Source tools.
+• Assist in identification, isolation, resolution, and communication of problems within the production and nonproduction environment.
+• Perform code reviews, unit testing, and integration testing using Open Source frameworks.
+• Provide mentorship to junior team members.
+• Drive and guide the continuous process improvement initiatives.

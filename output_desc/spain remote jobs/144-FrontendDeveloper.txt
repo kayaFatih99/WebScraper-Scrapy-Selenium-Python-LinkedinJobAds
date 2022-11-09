@@ -1,0 +1,67 @@
+About the job
+Bit2Me es una compañía especializada en tecnología financiera. Con un profundo conocimiento de la tecnología Blockchain y de las criptomonedas, cuya misión es acercar el mundo cripto a la sociedad.
+
+Si te apasiona el desarrollo web y quieres unirte al proyecto crypto que está haciendo historia, en Bit2Me buscamos a alguien como tú para unirse a nuestro equipo como Frontend Software Engineer.
+
+¿Qué harás?
+
+Como parte del squad de (Tech& product) participarás en el desarrollo de las diferentes tareas de codificación y diseño de desarrollo de software de Bit2Me con la mayor calidad posible y empujando las necesidades conjuntas del squad, aportando valor directo a los usuarios mediante metodologías agiles.
+
+Estas son algunas de las cosas que harás en tu día a día:
+
+Desarrollar código para las aplicaciones frontend teniendo en cuenta la eficiencia de las mismas.
+Programar de forma eficiente nuevas funcionalidades.
+Automatizar pruebas unitarias,integración y/o E2E.
+Revisión y Detección de código mejorable en temas de rendimiento mediante pull request.
+Gestión de documentación técnica.
+Resolución de problemas acorde a los procedimientos establecidos.
+Colaborar con el equipo para ayudar y proponer nuevas resoluciones.
+
+¿Cómo lo harás?
+
+Formarás parte de un squad multidisciplinar y enérgico en un calendario de entrega rápido y ágil, utilizando herramientas como Jira para la gestión de proyectos. Nuestro entorno de desarrollo es NodeJs, y en el Frontend nos manejamos con Angular 13+.
+
+Para nosotros, las buenas prácticas de programación son muy importantes. Ya sabes…”Code is written once and read many times!”
+
+Desde Bit2me fomentamos la cultura del compañerismo, por eso nos encanta que puedas aportar y ayudar a los demás, pero que te sientas libre de preguntar y opinar ;)
+
+¿Qué buscamos?
+
+Para Bit2me no es importante el stack en el que hayas trabajado, hasta el momento, siempre y cuándo quieras ¡Sumarte al reto! Si que valoraremos:
+
+La experiencia que puedas aportar como Frontend Developer.
+Conocimiento de un lenguaje de programación (Javascript, Typescript)
+Nos encantaría que puedas aportar experiencia trabajando con Angular.
+Bases de datos SQL y NoSQL.
+Conocimiento en patrones de diseño.
+Conocimiento de distintas librerías de componentes gráficos.
+Experiencia trabajando con sistemas de control de versiones, como por ejemplo GIT.
+Buenas prácticas de desarrollo (Clean Code).
+
+A nivel personal:
+
+Qué te guste el trabajo en equipo, puedas mentorizar a perfiles más juniors, y pedir ayuda cuando lo requieras.
+Con motivación hacía nuevos proyectos, y con adaptabilidad a los cambios.
+Que tengas conocimiento y/o utilices criptomonedas como Bitcoin.
+
+¿Qué ofrecemos?
+
+Salario Competitivo y contrato indefinido.
+Seguro de salud privado.
+24 días laborables de vacaciones.
+El día de tu cumpleaños libre.
+Medidas de conciliación: flexibilidad horaria, banco de horas y jornada intensiva en verano.
+Modalidad de trabajo Full remote.
+Excelente ambiente de trabajo dinámico, retador y multidisciplinar.
+Cashback en tus compras de criptomonedas.
+English2me: clases de inglés inhouse para mejorar tu nivel.
+Oportunidades de desarrollo, crédito horario de formación y disponibilidad de días para asistir a conferencias.
+Formación interna sobre Blockchain, Web3 y Criptomonedas.
+
+¿Te unes a Bit2me?
+
+Estarás formando parte de un proyecto tecnológico y disruptivo, con un equipo de más de 300 profesionales que está liderando la revolución digital Blockchain y Web3 a través de canales como: Pay, Ecommerce, Smarth Contracts o Educación. Con el compromiso de ofrecer seguridad y calidad a nuestros clientes. Somos además, la primera compañía del mundo en registrarse en Banco de España para servicios de custodia y compra venta de activos digitales.
+
+Buscamos a gente como tú, que se sume a este gran reto de crear el mundo del mañana.
+
+En Bit2Me tenemos un fuerte compromiso con la diversidad en el trabajo, en nuestros procesos de selección y en nuestras políticas de gestión del talento no discriminamos por motivos de raza, religión, género, edad ni ninguna otra fuente de diversidad personal. Nuestro equipo está formado por personas muy diversas, y trabajamos en un entorno de respeto e igualdad para todas las personas.

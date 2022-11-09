@@ -1,0 +1,28 @@
+About the job
+Para uno de nuestros clientes del sector Retail líder en Europa, reclutamos a un/a profesional senior en el área del Frontend con gran nivel en versiones actuales de React. La persona seleccionada liderará el equipo de desarrollo de nuevas aplicaciones orientadas a mejorar la eficiencia de la lógica de negocio en tienda. Ejemplos: implementación de tecnología RFYD para el control de Stocks, ticket y factura digital, etc.
+
+
+Tus principales responsabilidades serán:
+Experiencia en tecnologías de desarrollo frontend de al menos tres a cuatro años, especialmente en Javascript / Typescript.
+Valorable experiencia en frameworks de al menos 3 años como React, Redux, React Hooks, Sass, Less...
+
+
+Requisitos deseados:
+
+Experiencia en entornos Agile (SCRUM).
+Valorable nivel de inglés alto (B2 o superior)
+Experiencia en Pruebas Unitarias y end to end testing.
+
+
+
+Se ofrece:
+
+Remoto 100%
+Contratación indefinida y salario negociable en función de experiencia y conocimientos.
+Seguro de vida y accidentes.
+Plan de retribución flexible, acorde a tus necesidades (abono transporte, seguro médico, cheque guardería, formación)
+Cursos de inglés / alemán y Certificaciones IT.
+Horario de trabajo flexible y viernes, jornada intensiva.
+25 días de vacaciones al año.
+Equipo Dell o Mac a elegir.
+Proyecto puntero a nivel tecnológico.

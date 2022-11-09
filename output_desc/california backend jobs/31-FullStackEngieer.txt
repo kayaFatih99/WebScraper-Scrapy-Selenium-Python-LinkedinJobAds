@@ -1,0 +1,67 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Allwyn Corporation, is seeking the following. Apply via Dice today!
+
+Position: Full Stack Engineer
+
+Location: Remote
+
+Duration: Long Term
+
+Job Description:
+
+Our hubs, satellite routers and network management software address the growing complexity of deploying and managing global IP networks. Our specialized technology includes transmission security (TRANSEC), Communication Signal Interference Removal (CSIR™) anti-jam technology and Open Antenna Modem Interface Protocol (OpenAMIP). We bring innovation, integration and intelligence to satellite-based IP communications that government and military organizations trust. By providing quality certifications with the most bandwidth-efficient, scalable and highly secure platform, we have rapidly become the technology provider of choice for military and government-driven mission-critical applications.
+
+We are seeking for a team player with solid technical skills to work with our team of smart, creative, and dedicated engineering team-members.
+
+Responsibilities:
+
+This is a senior-level position for a Full Stack Engineer. We value creative problem solving, logical thinking, enthusiasm, and the ability to learn quickly. Candidates must have a strong technical background and be capable of coming up to speed on new technologies quickly. Good communication skills, great problem-solving skills, and the ability to work both individually and collaboratively in a team environment are required. If you enjoy working in a fast-paced environment with the smartest team and the very latest technologies, then this is the job for you!
+
+This is a senior level cross-functional engineering position, developing front and back-end software for our satellite products on a Linux platform.
+
+Responsibilities
+
+Design and implement web application features using modern web frameworks and techniques, from requirements to production and deployment
+Add new functionality and solve customer facing bugs within an existing web application
+Contribute to the architecture and design of new and existing User Interfaces
+Prepare prototypes/screen shots to share with stakeholders for review and approval
+Advise on best practices, new techniques, software quality and process improvement
+Create, modify and maintain RESTful Web Services
+Develop applications built with Go, GraphQL, Vue, and similar modern technologies
+Assist with estimation of time and effort required to implement new features
+Participate in design reviews, peer code reviews and improve overall product quality
+
+Responsibilities Continued:
+
+Interface with cross-functional teams to successfully implement feature dependencies
+Act as a member of, and/or a technical lead of, an Agile scrum team
+
+Qualifications
+
+6+ years of related full stack development
+Proven working experience in front and back-end application development
+Strong expertise with various JavaScript frameworks (Vue, Angular, etc.)
+Strong expertise with Web Services and RESTful Applications
+Expertise with NodeJS, WebSockets and in-depth understanding of Microservices methodologies
+Familiarity with HTML5 and CSS3
+Familiarity with system level issues such as scaling, security, and responsiveness
+Solid programming experience in object-oriented design and development
+Linux or a POSIX O/S environment
+Familiarity with software configuration management, defect tracking tools, and peer review
+Strong documentation and writing skills
+
+Education: Bachelor’s Degree in Computer Science, Software, Systems, Mathematics, or related technical field.
+
+Desired Qualifications:
+
+Additional Experience In The Following Areas Is a Plus
+
+C++, Java, or other object-oriented programming language
+Understanding of SQL and database access for relational Databases; PostgreSQL, MariaDB, MySQL
+Working knowledge of noSQL databases (MongoDB, etc.)
+Familiarity with Responsive Design Frameworks such as Bootstrap
+Familiarity with developing web interfaces for embedded devices a plus
+Networking protocols such as TCP/IP, UDP and IPv6
+Familiarity with Docker, GraphQL, Kubernetes, Go, Conan, cmake, C++11
+Working knowledge of Jira, Confluence, BitBucket, Git, SharePoint, Jenkins and Artifactory
+- provided by Dice

@@ -1,0 +1,48 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, EnpowerTek, is seeking the following. Apply via Dice today!
+
+Hi,
+
+I have a job opening , please find the details and requirements below and let me know if you are interested.
+
+Location : Remote
+
+Duration : Long Term
+
+Technical/Functional Skills :
+
+Minimum 7 years of experience in Frontend Development.
+Resource needs to be strong in front end skills, could be with any eCommerce(maybe not specifically Salesforce)
+Strong Knowledge of JavaScript, Java SDK development, PERL, WebDAV and other web server based application-coding technologies.
+Good understanding of DevOps concepts. Proficient in following:
+Bootstrap, CSS3, HTML5, jQuery on SFRA
+SFCC controllers or SFRA
+Responsive Design
+JavaScript/jQuery
+CSS and JavaScript Framework
+CSS Preprocessing
+Version Control/Bit Bucket
+Testing/Debugging (Functional & Unit)
+Browser Developer Tools
+Nice to Have: Building and Automation Tools/Web Performance
+Command Line
+
+Experience Required :
+
+>5 years of total experience in Developer of eCommerce Web Pages
+
+Roles & Responsibilities :
+
+This person would be working with the IT Digital Teams and Business Stakeholders to deliver best in class web pages using cutting edge technologies as per business requirement
+Ideally this person would have an omni channel background
+This person should be able to think strategically and recommend best practices
+
+Thanks ,
+
+Andrew Rosario
+
+Sr.IT Recruiter
+
+Enpowertek
+
+provided by Dice

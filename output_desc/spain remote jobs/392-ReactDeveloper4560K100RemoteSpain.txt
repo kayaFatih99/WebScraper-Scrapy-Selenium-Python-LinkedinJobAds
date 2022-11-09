@@ -1,0 +1,33 @@
+About the job
+React Developer | FullStack JavaScript
+
+Location: 100% Remote.
+Vacancies: 4+ roles | End Clients. No consultancy.
+Salary: 45-60K
+
+From Talent-R we currently have new opportunities for React Developer. If you are looking to keep developing your career as a React Developer, we have partnered with some leading projects that are currently recruiting great talent 💥🚀
+
+Our clients: SaaS, European unicorns🦄, scale-ups, companies from the USA, EU and more.
+
+Required:
+4+ years of experience as React Developer
+Proven experience and Solid knowledge of REACT and React Hooks
+Proven experience as Front-End Developer
+Proven experience of Unit Testing libraries/frameworks (Jest, Mocka, testing-library, Puppeteer).
+Experience with Visual TDD (Storybook)
+Write well designed, testable, efficient code
+Fluent in Spanish and Advanced English.
+
+Responsabilities:
+Build isomorphic applications using full-stack Javascript technologies
+Develop and manage build pipelines
+Design and implement effective and well-documented APIs
+Write unit tests to ensure code quality and high test coverage
+
+If you are interested in a further chat to discuss the specifics of the projects and identify which suits you best:
+
+Apply to the job
+Email: natalia.galavis@talent-r.com
+Book a call: https://calendly.com/natalia-galavis/30min
+
+After an initial 15-20 min call and understanding of your drive and motivation, we will share with you only projects and info that are relevant to your expectations.

@@ -1,0 +1,54 @@
+About the job
+One of the companies we work with is looking for a Senior Backend Engineer to join the team.
+Remote candidates must be living (or willing to live) in: Spain.
+
+As a Platform Team Senior Software Engineer, your main responsibility will be coding on:
+Our public dashboard that our clients, publishers, and advertisers use to get the most from our ad tech platform
+The internal tools that our Business Operations and Support teams use on a daily basis to help drive value to our customers
+
+This will be done by:
+Focusing on delivery, not disregarding quality
+Paying attention to architecture and applying coding best practices (clean code, automated testing, code reviews, etc.) in order to keep a high-quality development
+Deploying several times through our continuous integration processes and tools
+Following Agile principles, allowing you to regularly show your work, and receiving timely feedback from Product and Business that will let you know about the impact of your work
+
+Who you are:
+Degree in CS, mathematics, physics or equivalent work experience.
+Abstract thinking and analytical skills.
+Many years of experience in backend development using object-oriented languages.
+Experience working with unit testing frameworks on both backend and frontend.
+Comfortable with DevOps/CI tools (Travis, Jenkins, etc.).
+Comfortable working with Docker.
+Good knowledge of development tools like Git.
+
+The following experience would be a plus:
+Python, ideally with FastAPI or Flask.
+Experience in frontend development in frameworks like React/Redux (preferred), VueJS, or Angular, ideally with TypeScript.
+Domain-Driven Design.
+Implementing and using monitoring tools in production (Elasticsearch/Kibana, Datadog, etc.)
+Working with cloud infrastructure products (Kubernetes) and providers like GCP, AWS and/or Azure.
+
+Perks:
+Flexible schedule based on core hours and the possibility of working from home.
+Private health insurance.
+Annual budget for your professional development.
+Company-sponsored lunch.
+Healthy snacks, coffee, and drinks in our cool office in the center of Barcelona - near subway and train stations.
+English/Spanish lessons.
+Gym membership.
+Transportation reimbursement.
+Team building events.
+
+Hiring Process (all via Zoom):
+Introduction call
+Interview with Engineering Manager
+Technical Interview
+Meet the team (Yes!! You get to meet your potential co-workers :D)
+
+Joppy is a tech recruitment platform built for developers by developers.
+✅ No CV required. Just say what you know and what you want.
+✅ Anonymous profile by default.
+✅ You choose who can talk to you. Companies can't write to you until you accept their offer.
+✅ Only relevant offers matching your preferences. No more Javascript offers for Java developers.
+✅ Get a reward if you get hired.
+Keep an eye on tech job opportunities anonymously and match the job that makes you happy.

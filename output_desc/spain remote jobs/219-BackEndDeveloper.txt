@@ -1,0 +1,7 @@
+About the job
+Buscamos un desarrollador backend, con experiencia en la integración de datos y conocimiento de estándares de intercambio de datos.
+Responsabilidades
+Definir y desarrollar una codificación limpia y de alta calidad. Integrar pruebas continuas e implementaciones automatizadas en entornos de alojamiento escalables.
+
+Requisitos
+Conocimiento de patrones SOLID, experiencia en TDD inside out, outside in, SCRUM, APIs Restful, OpenApi, Typescript, NodeJS, Linux

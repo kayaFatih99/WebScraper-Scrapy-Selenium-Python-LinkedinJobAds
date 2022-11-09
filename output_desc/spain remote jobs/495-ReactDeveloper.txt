@@ -1,0 +1,34 @@
+About the job
+Salary in euros, Home Office position, multiple benefits!
+
+The Company
+
+
+Wizeline is a global technology services provider that partners with Fortune 500 companies and startups to build high-quality digital products and platforms that accelerate time-to-market. Our diverse and adaptive teams provide the right combination of solutions and methodologies to deliver results while collaborating with our customers’ teams to foster innovation through continuous learning.
+
+Are You a Fit?
+Sounds awesome, right? Now, let’s make sure you’re a good fit for the role.
+Must Haves:
+To be successful in this role, you need:
+3+ Years of hands-on working experience developing secure, scalable enterprise applications.
+Frontend experience leveraging React.JS and JavaScript
+Some experience with web technologies and frameworks such as AngularJS or Vue.js.
+Passion and experience building web-based technology products or applications.
+Comfortable in learning new coding languages and frameworks, and seamlessly switching from one to another, when required.
+Familiarity with computer science algorithms and data structures to optimize solutions.
+Knowledge of relational and/or non-relational databases.
+Strong architecture skills, with the ability to select the best stack for each project.
+Strong communication skills in English.
+Experience in one or more of the most commonly used web applications stacks.
+
+Nice to Haves:
+Some nice-to-have qualities that will further help you are:
+Experience working with MS Azure Cloud platform.
+Familiarity with .NET Core
+BS/MS in Computer Science, Engineering, or a related subject.
+Experience working directly with clients.
+Hands-on knowledge of working in Agile environment.
+Experience with the latest and greatest web standards, including HTML5 and CSS3.
+Strong sense of web design, fundamentals of user experience, and an understanding of accessibility principles.
+Holistic experience with the web stack, including protocols and web server optimization techniques.
+A code repository you can share with the team, showcasing your contributions to open source projects is a plus.

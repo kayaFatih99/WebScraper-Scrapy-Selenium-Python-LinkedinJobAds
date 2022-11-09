@@ -1,0 +1,30 @@
+About the job
+Greetings from Ampstek !
+
+Title : Full Stack Developer
+Location : Remote Europe
+Job Type : Contract
+Required Skills :
+
+General Qualifications
+· Bachelor’s Degree or higher in Computer Science or a related technical field.
+· 5+ years of experience.
+· Knowledge of code versioning tools such as Git.
+· Strong testing ethic.
+· Familiarity with using CI/CD pipelines.
+· Experience with working in containerized environments.
+· An analytical mind.
+· Curious, willingness to learn new technologies.
+
+Front-end Qualifications
+· Web fundamentals like HTML, JavaScript, and CSS.
+· JavaScript frameworks such as React, Vue.js or Ember.
+· Front-end frameworks such as Foundation or Bootstrap.
+· Dynamic and interactive data visualization, such as with D3.js.
+
+Back-end Qualifications
+· API use, design, and development for RESTful and GraphQL Services.
+· Familiarity with the Jupyter project.
+· Server-side languages like Python, Go and JavaScript (Node.js).
+· Database technologies like MySQL, PostgreSQL, MongoDB, and time series databases such as InfluxDB and Prometheus.
+· Web servers like Nginx and Apache.

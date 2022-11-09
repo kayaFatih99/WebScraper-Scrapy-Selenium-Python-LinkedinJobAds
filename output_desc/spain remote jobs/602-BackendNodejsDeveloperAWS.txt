@@ -1,0 +1,33 @@
+About the job
+About us:
+
+¿Te apasiona la tecnología? ¿Te atrae el mundo de la televisión digital📺? ¿Te gustaría formar parte de un equipo que comparte tus ganas de aprender y crecer? ¿Te gustaría participar en distintos proyectos para compañías como HBO, La liga, Sky, Fox, Filmin, Movistar+ o National Geographic?
+¡Entonces no pierdas la oportunidad de formar parte de nuestro equipo!
+Estamos buscando personas con conocimientos de NodeJS que desee desarrollar su carrera profesional en el sector TV/streaming para incorporarlo a nuestra plantilla. 😃
+
+Requisitos:
+Deseable experiencia previa, 3-4 años trabajando como desarrollador backend.
+Buscamos personas apasionadas por el desarrollo con conocimientos de NodeJS
+Conocimiento trabajando con arquitecturas hexagonales y DDD e interés en seguir aprendiendo y profundizando en este aspecto
+Conocimiento profundo de Javascript y Typescript
+Experiencia trabajando con microservicios
+Conocimientos en tecnología AWS
+Docker/Kubernetes/Openshift
+Jira, Git
+Experiencia trabajando en entornos de CI/CD
+Herramientas en Testing Unitario/ De integración/ End to end
+Metodologías ágiles: Scrum
+Conocimientos S.O.L.I.D. de computación y programación
+Habilidades: capacidad de trabajo en equipo, capacidad para comunicador ideas y conocimiento, experiencia en equipos medios/grandes y multi-disciplinares.
+
+Y nosotros, ¿Qué tenemos para tí? 😊
+Trabajo en un entorno familiar, donde cada miembro es imprescindible y conocido por todos los demás. 👨‍👩‍👧‍👧
+Formación en últimas tecnologías, en inglés y soft skills. Además ofrecemos certificaciones oficiales.📑
+Opción de retribución flexible
+Oportunidades de crecimiento tanto a nivel vertical como horizontal
+Inmejorable ambiente de trabajo y posibilidades de desarrollo profesional en una empresa en pleno crecimiento.
+Seguro médico👩‍⚕️
+Flexibilidad horaria y jornada intensiva en verano☀
+y muchas otras ventajas más!
+
+Si te parece interesante y quieres conocernos para que te expliquemos lo que hacemos y todo lo que podemos ofrecer, no lo dudes, inscríbete!

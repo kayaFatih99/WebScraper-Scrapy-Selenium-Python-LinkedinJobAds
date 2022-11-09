@@ -1,0 +1,31 @@
+About the job
+¿Tienes experiencia como Desarrollador Web? ¿Trabajas con ReactJS y React Native?
+
+¡Sigue leyendo!
+
+Desde RR.HH. de Full On Net, buscamos un Desarrollador Web para formar parte de un equipo multidisciplinar en uno de nuestros proyectos con Telefónica.
+
+¿Qué pedimos?
+Experiencia demostrable con React Native, ReactJS, AngualrJS.
+Experiencia demostrable con NodeJS, ExpressJS, Docker (docker-compose) y GraphQL.
+Experiencia con LESS y CSS Modules.
+Experiencia demostrable con interfaces responsive/fluid.
+Se valorará experiencia de desarrollo con dispositivos de streaming (Chromecast) y players de vídeo (Shaka-Player)
+Experiencia trabajando con metodologías Ágiles (Scrum) y herramientas (JIRA)
+
+Valorable
+Se valorarán conocimientos de Redux, Redux Saga y otros Frameworks/Libs.
+Se valorará experiencia con Front-end testing tools como Karma, Mocha y Jest.
+
+¿Qué ofrecemos?
+Banda salarial acorde puesto y experiencia.
+Contrato indefinido.
+Horario flexible.
+Teletrabajo Full time
+3 meses de intensiva de verano y todos los viernes
+Retribución flexible
+Clases de ingles
+Plataforma de formación
+Ayuda al deporte (Andjoy)
+
+¿Te sigue interesando? ¡Pues inscríbete!

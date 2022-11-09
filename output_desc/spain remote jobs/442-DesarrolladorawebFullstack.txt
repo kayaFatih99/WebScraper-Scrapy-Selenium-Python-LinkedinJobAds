@@ -1,0 +1,75 @@
+About the job
+Desarrollador/a web Full stack para bootcamp inclusivo.
+Madrid, Barcelona, Asturias, Málaga, Sevilla, Bilbao
+
+Acerca del Empleo
+Si tienes experiencia en desarrollo web full stack y te mueven los valores sociales, Factoría F5
+es tu lugar. Somos una asociación sin ánimo de lucro que cambiamos trayectorias profesionales de personas vulnerables al sector tecnológico.
+Estamos buscando profesionales del desarrollo para ejercer el rol de formadores/as para
+nuestros bootcamps en diferentes localidades o en remoto.
+
+¿Cuál sería tu responsabilidad?
+Dirigir la formación atendiendo a los principios pedagógicos clave (pedagogía activa,
+aprendizaje basado en proyectos y enfoque competencial).
+Supervisar y guiar al grupo en sus actividades diarias: aprendizaje mediante learning by
+doing,, talleres, reuniones, etc.
+Evaluar de forma continua el aprendizaje de los participantes atendiendo de manera
+individual sus necesidades y motivándoles en el aprendizaje.
+Participar en las innovaciones pedagógicas de Simplon atendiendo reuniones de
+formadores/as de las escuelas de la red Factoría F5.
+Gestionar la participación de empresas, y expertos técnicos dentro del bootcamp para nutrir
+la formación y promover el intercambio entre las participantes y las empresas del sector.
+Guiar a los participantes en la búsqueda de empleo atendiendo sus fortalezas técnicas y
+guiándoles según las necesidades del sector.
+Animar y promover las reuniones entre los participantes y la comunidad de desarrolladores
+(meet-ups, participación en eventos locales, etc.).
+
+¿Qué buscamos en ti?
+Mínimo 1 años de experiencia como desarrollador/a o responsable de proyecto en el sector
+TIC.
+Persona experta y apasionada en la programación web y/o móvil, con dominio de varios
+lenguajes de programación (front-end y back-end) como PHP, Java, Python o Javascript.
+
+Queremos que la persona tenga un nivel alto en:
+Maquetación de aplicaciones web estáticas y dinámicas.
+Frameworks de front (Angular, VUE o React).
+Desarrollo interfaces basadas UX/UI.
+Conocimiento avanzado de al menos un lenguaje de programación de Back- end.
+Creación de soluciones de gestión de contenidos y/o e-commerce.
+Diseño de bases de datos relacionales y no relacionales (MySQL, MongoDB...).
+Desarrollar back-end siguiendo el patrón de diseño MVC o arquitectura hexagonal y diseño
+de APIs REST.
+Conocimiento avanzado y experiencia práctica con metodologías ágiles (SCRUM, Kanban...)
+Conocimiento práctico de herramientas de gestión de proyectos web.
+Conocimientos de herramientas y metodologías de versionado de código y trabajo en equipo
+con Git.
+Desarrollo, diseño y arquitectura de software (POO).
+Buenas prácticas de desarrollo (patrones de diseño, SOLID, Clean Code, TDD).
+Interés por la pedagogía, capaz de transmitir sus conocimientos y competencias a un grupo
+de alumnos y alumnas.
+
+Sobre todo buscamos personas que:
+Tengan un alto compromiso social y con la igualdad de género.
+Capacidad de trabajo en equipo y proactividad.
+Sólidas competencias transversales (comunicación interpersonal, liderazgo, escucha activa,
+fuertes habilidades interpersonales).
+Rigor, orientación a resultados y visión clara en la planificación de los proyectos que se llevan
+a cabo en el bootcamp.
+Flexibilidad, capacidad de adaptación al cambio según las necesidades de los/as participantes.
+
+Lo Que Te Ofrecemos:
+Un puesto de trabajo que combina tu pasión por la tecnología y un fuerte sentido social. Una
+experiencia transformadora que dará un nuevo paso a tu carrera.
+Jornada laboral de 4 días (32 horas semanales).
+La incorporación en un equipo de trabajo diverso, intercultural, resiliente y colaborativo.
+Un reto estimulante en una startup social en fuerte crecimiento a nivel nacional y que forma
+parte de una red internacional en más de 20 países (Simplon.co).
+Una formación exclusiva de 5 días a la pedagogía activa y al aprendizaje basado en proyectos
+y un acompañamiento continuo.
+Una red nacional e internacional de profesionales (8 escuelas en España, más de 100 en el
+mundo) que aplican la pedagogía activa Simplon.co.
+Un entorno de colaboración con empresas tecnológicas y entidades sociales de referencia.
+Incorporación inmediata a jornada completa con contrato indefinido.
+Salario: 22.000-27.000 dependiendo de experiencia y conocimientos técnicos.
+Candidatos/as: empleo@factoriaf5.org. Escríbenos y te llamaremos para resolverte las
+posibles dudas.

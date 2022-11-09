@@ -1,0 +1,40 @@
+About the job
+Health Data Engineer (Java Engineer), FHIR, HL7, Docker exp
+Nationwide, U.S.
+Regular Full-Time Position
+
+Complete Professional Services (CPS) is searching for a Health Data Engineer (Java Engineer) to provide health data development support to the Department of Veteran's Affairs Office of Connected Care Mobile Health Applications. This is an exciting project that involves the development of a solution that gives the Office of Connected Care the ability to generate synthetic patient data in large quantities based on real patient scenario’s, without
+linkage to actual patients. Qualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills and some project management experience.
+
+Highlights of Responsibilities:
+Agile certified Scrum Master with ability to manage a technical team.
+Experience and ability to run Scrum Meetings, Update Sprint boards, Kanban boards
+Direct VA Experience /Integration with Health IT Systems
+Standards-based interfaces such as HL7 FHIR (Health Level Seven Fast Healthcare Interoperability Resources)
+Leverage SyntheaTM for synthetic patient data generation
+
+Requirements:
+5+ years of experience as a VA java software development engineer
+Experience developing web API’s
+Experience working with HL7 FHIR (Health Level Seven Fast Healthcare Interoperability Resources)
+Strong experience with Git, Docker, Jenkins, Kubernetes
+Current VA credentials, GFE and ability to start work within 2 weeks.
+Application Server, Web Services experience
+Strong analytical and communication (verbal and written) skills are essential.
+Experience with Java 11+
+Familiarity with popular Java Frameworks such as Spring/Micronaut
+Experience with RESTful and websocket designs and frameworks
+Strong understanding of TDD and BDD development approaches, able to write thorough unit-test cases
+Familiarity with DevOps and CI/CD automation
+Eligible for Dept. of Veteran's Affairs Background
+
+Preferred Experience
+1-2 years experience in agile methodology
+1-2 years experience supporting a VA program
+MITRE SyntheaTM experience
+Experience with Atlassian tools (Jira, Crucible, Bamboo)
+Experience with "VistA" (Veterans Health Information System and Technology Architecture)
+Possess VA MBI clearance
+
+Degree:
+Bachelor’s Degree

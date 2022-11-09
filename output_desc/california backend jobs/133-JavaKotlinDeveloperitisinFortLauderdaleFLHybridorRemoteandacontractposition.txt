@@ -1,0 +1,37 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, RHP Soft Inc., is seeking the following. Apply via Dice today!
+
+Hello,
+
+Greetings from RHP Soft Inc.
+
+We are looking for a Java Kotlin Developer It is a 100% Remote and a contract position. If interested, please share your resume at
+
+Title: Java Kotlin Developer
+
+Location: Fort Lauderdale, FL (Hybrid) or Remote
+
+Keyword’s: Java, Kotlin, Microservices, Spring Boot
+
+Interview Mode:
+1 round of team’s interview
+At least 8+ years of software development experience using Java/Kotlin for large enterprise customers.
+At least 3+ years of experience in using Kotlin
+At least 6+ years of experience in developing applications using Spring, Spring Boot, Hibernate/JPA.
+At least 4+ years’ experience with RESTful services and Service Oriented Architecture design patterns using Spring Framework.
+At least 3+ years’ experience with relational DBs like Oracle
+Experience with building technologies like Gradle and Jenkins.
+Experience working within an Agile/Scrum and CI/CD environment.
+Experience working with version control using GIT/Bitbucket.
+Experience with financial institutions is a big plus.
+Excellent written and verbal communication skills and the ability to interact well.
+BA/BS degree in Computer Science or related technical field or equivalent work experience.
+
+Qualified candidates will be contacted upon reviewing their resume.
+
+About RHP Soft:
+
+RHP Soft is a leading IT Consulting and Technology services firm, offering full-spectrum Consulting, Technology, and Business processing services which span across different verticals such as Banking & Financial Services, Insurance & Healthcare, Communications & Media, Manufacturing & Retail, Energy & Utilities and Hi-Tech.
+
+Our comprehensive portfolio of services includes Application Development & Management, Enterprise Portals, Service Oriented Architecture (SOA) & Business Process Management (BPM), Cloud Computing, Enterprise Content Management, Enterprise Application Services, Business Intelligence & Analytics, Application Testing Services and Business & Technology consulting.
+provided by Dice

@@ -1,0 +1,29 @@
+About the job
+En HH HUNTERS estamos buscando un/a Fullstack Developer con más de 5 años de experiencia, para incorporarse full remoto en una startup especializada en soluciones de IA.
+
+🖥️ ¿Qué harás?
+
+Diseñar y crear aplicaciones web de utilizando una variedad de lenguajes y herramientas.
+Comprensión de los procesos automatizados para crear la aplicación, probarla, documentarla e implementarla a escala.
+Ampliar y desarrollar nuestras API existentes.
+Capacidad para aprender rápidamente nuevas tecnologías y adaptarse a un entorno de desarrollo.
+
+🕵️‍♂️ ¿Qué perfil buscamos?
+
+5 años de experiencia en la creación de aplicaciones front-end.
+3 a 5 años de experiencia en la creación de aplicaciones backend y API RESTful
+Conocimientos de nivel avanzado en el desarrollo front-end en JavaScript y React
+Experiencia en algún lenguaje de programación moderno como JavaScript, Python, Java o C++
+Experiencia trabajando con bases de datos relacionales (MySQL, PostgreSQL...)
+Experiencia trabajando con GIT o cualquier otro sistema de control de versiones.
+Nivel de inglés alto.
+
+🤩 ¿Qué podemos ofrecerte?
+
+Modalidad de trabajo full remoto, desde cualquier lugar de España.
+Horario de trabajo flexible.
+Contrato indefinido.
+Formaciones sobre las últimas tecnologías de AI.
+Plan de retribución flexible.
+
+Si te interesa y quieres saber más, apúntate y nos contactaremos contigo 😊

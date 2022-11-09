@@ -1,0 +1,39 @@
+About the job
+Desde ON3WORKS estamos buscando en esta ocasión un perfil frontend con experiencia sobre NextJS para una empresa tecnológica ubicada en Madrid, España, pero con la posibilidad de trabajo en remoto siempre que se encuentre el candidato en horario similar y domine la lengua española.
+
+Rango salarial es de 25,000 a 30,000 euros.
+
+Funciones laborales:
+
+Desarrollar bajo NextJS principalmente.
+Desarrollar nuevos módulos / componentes para las Startups que se desarrollarán.
+Participar en la mejora y desarrollo de nuestras herramientas internas.
+Colaborar en los proyectos grupales así como en las jornadas de formación interna.
+
+Sus aptitudes y conocimientos deben ser:
+
+Experiencia demostrable trabajando como desarrollador Frontend.
+Experiencia de 2-3 años trabajando con NextJS.
+Experiencia con lenguaje Typescript.
+Sólidos conocimientos de HTML5/CSS3 y Javascript ES6+.
+Conocimientos de preprocesadores SASS/SCSS/LESS.
+Tener gusto por los diseños limpios y responsive.
+Experiencia trabajando con arquitecturas API RESTful
+Experiencia utilizando sistemas de control de versiones (Git)
+Experiencia trabajando en equipo bajo metodologías Agile
+Mucha capacidad y aptitud para aprender y mejorar
+Español nativo o nivel o similar (C1 o C2)
+
+Para ganar más puntos en el proceso, se valorará también:
+Experiencia en el desarrollo de aplicaciones móviles híbridas con React Native o Ionic 5+.
+Conocimiento de metodologías reactivas.
+Conocimiento de algún otro framework de frontend (Angular, React, VueJS, …).
+Capacidad de análisis y toma de decisiones para aplicar la mejor solución a las necesidades planteadas.
+
+¿Qué se ofrece?
+Salario acorde a la experiencia aportada.
+Proyección interna con revisiones de salario y funcionalidades en función de los avances.
+Trabajo 100% remoto o híbrido: Todo el trabajo desde casa, aunque disponemos de oficina en Madrid y nos gusta vernos las caras de vez en cuando. Se te proporcionará un equipo para que realices tu trabajo.
+Formación continua: Ya sea por los mini talleres que nosotros mismos organizamos de manera online o nuestros webinars nunca paramos de aprender.
+Trabajo en equipo: Aquí no se trabaja solo, siempre tendrás algún/a compañero/a que estará encantado de ayudarte o de recibir tu ayuda.
+Se apuesta por una estructura de trabajo circular donde todos podamos aportar y opinar, conocer en todo momento la situación de la empresa y tomar las decisiones más importantes de forma conjunta. Lo que se conoce como una OpenCompany.

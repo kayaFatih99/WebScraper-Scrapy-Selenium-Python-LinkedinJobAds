@@ -1,0 +1,60 @@
+About the job
+Role Overview
+
+*We’re open to talking remote working across Europe*
+
+Given our exciting and progressive growth plans, we are looking for an exceptional Back-End Engineer to come join our global business.
+
+Reporting directly into the Engineering Manager, and working collaboratively in a cross-functional product team within a tribe, you will be accountable for designing and developing applications, and to coordinate with the rest of the team working on different layers of the infrastructure Fresha.
+
+This is a great opportunity for someone looking to work in a fast-paced and changing environment, who likes to work autonomously, enjoys a challenge and wants to make an impact!
+
+Key accountabilities
+Design, build, and maintain efficient, reusable, and reliable Ruby/ Elixir code
+Ensure the best possible performance, quality, and responsiveness of the applications
+Identify bottlenecks and bugs, and devise solutions to these problems
+Help maintain code quality, organization, and automatization
+Be involved in all stages of building products from inception, through delivery and beyond
+Help to shape the future of our architecture and best practices
+Contribute to a healthy engineering culture of feedback and growth
+
+Additional and ad-hoc duties
+Familiarity with continuous integration
+Familiarity with development aiding tools
+Able to create database schemas that represent and support business processes
+
+Skills, experience & qualifications required
+Knack for writing clean, readable Ruby/ Elixir code
+Experience with popular web application frameworks such as Rails, Lotus, etc depending on project requirements.
+Familiarity with command-suite libraries, depending on project requirements.Good understanding of the syntax of Ruby/ Elixir and its nuances
+Solid understanding of object-oriented programming
+Understanding of functional programming style in Ruby/ Elixir
+Creative thinking and problem-solving mindset
+Experience developing complex web applications/APIs in distributed architectures
+Enthusiastic engineers. We don’t believe engineers are defined by the technologies they use, but by their attitude and application.
+Ability to interact with people from across the business and build strong relationships, including the ability to effectively influence upwards
+A passion to write well-structured, idiomatic, tested code that balances elegance and pragmatism
+Strong communication skills, ability to self-organise and work well within and outside your own team
+Strike a good balance between technical and product thinking
+Self-starter and proactive approach
+Comfortable working in a fast-paced and changing environment
+
+Our stack is Ruby/Elixir/TypeScript, and if you’re happy to work with those, we’d love to support you.
+
+Inclusive workforce
+
+At Fresha, creating a culture where individuals of all backgrounds feel comfortable matters.
+
+We want all Fresha people to feel included and truly empowered to contribute fully to our vision and goals. Everyone who applies will receive fair consideration for employment.
+
+We do not discriminate based upon race, colour, religion, sex, sexual orientation, age, marital status, gender identity, national origin, disability, or any other applicable legally protected characteristics in the location in which the candidate is applying.
+
+If you have any accessibility requirements that would make you more comfortable during the interview process and/or once you join, please let us know so that we can support you.
+
+About Fresha
+
+Fresha is the world's largest and top-rated booking platform for Beauty and Wellness trusted by millions of consumers worldwide.
+Available in 120+ countries worldwide, Fresha is used by 70,000+ businesses and 250,000+ professionals worldwide, booking over 500 million appointments. Fresha is headquartered in London, United Kingdom with global offices located in New York City, Vancouver, Sydney, Dublin, Amsterdam, and Warsaw. The company raised $185M in venture capital funding to date from leading institutional investors.
+Fresha allows consumers to discover, book and pay for beauty and wellness appointments with local businesses via its marketplace, while beauty and wellness businesses and professionals use an all-in-one platform to manage their entire operations with its intuitive free business software and financial technology solutions.
+Our ecosystem gives merchants everything they need to run their business seamlessly by facilitating appointment bookings, point-of-sale, customer records management, marketing automation, loyalty, beauty products inventory and team management.
+The consumer marketplace unlocks revenue potential for partner businesses by leveraging the power of online bookings and automated marketing through mobile apps and advanced integrations with major tech brands including Instagram, Facebook and Google.

@@ -1,0 +1,23 @@
+About the job
+Nos encontramos en búsqueda del mejor talento para cubrir la posición de React Senior Developer en una empresa multinacional con sede en España. Tendrás la oportunidad de incorporarte en un equipo que desarrolla proyectos punteros a nivel nacional e internacional. En este caso se trata de un proyecto de accesibilidad.
+
+Perfil:
+
+3 años de experiencia como Front Developer
+Experiencia en React / Redux en entorno productivo
+Experiencia en desarrollo de componentes accesibles en sus tecnologías que cumplan con criterios de accesibilidad W3C A o W3C AA
+Conocimiento de trabajo en equipo, uso compartido de repositorio de código y Gitflow
+Testing unitario (Jest)
+Desarrollo de componentes web y webpack
+Metodología Agile (Scrum o Kanban)
+Muy valorable inglés para interlocución en reuniones con compañeros y cliente.
+
+
+
+QUE OFRECEMOS?
+· Contrato Indefinido y una relación a largo plazo, Línea de carrera.
+· Teletrabajo porque queremos que disfrutes de los tuyos, que puedas trabajar desde cualquier punto de España, te ofrecemos la posibilidad de teletrabajo, horario flexible de entrada y salida, y diversas medidas orientadas a fomentar la conciliación familiar. Viernes y Verano intensivo
+· Formación: Cursos orientada a la IA, Analytic and Cloud platform, acceso ilimitado a formación online, asistencia a eventos, meetups, etc. todo ello de la mano de nuestros principales partners formaciones internacionales certificaciones oficiales
+· Beneficios sociales: tickets restaurante, guardería, seguro de salud y de vida , etc.
+
+Formarás parte de una empresa responsable y comprometida TOP EMPLOYER 2021.

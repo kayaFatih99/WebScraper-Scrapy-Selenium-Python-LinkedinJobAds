@@ -1,0 +1,54 @@
+About the job
+¿Quiénes somos?
+
+Somos INNOCV Solutions: una empresa española experta en ayudar a otras compañías a crecer digitalmente, mediante la aportación de nuevas capacidades tecnológicas que propicien un impacto directo en su negocio. Te invitamos a conocernos en profundidad navegando por los distintos apartados de nuestra página web: https://www.innocv.com/
+
+¿Qué harás?
+
+En INNOCV Solutions estamos creciendo y trabajando en nuevos proyectos. Te unirás a uno de nuestros equipos, el cual destaca por las siguientes capacidades:
+
+Desarrollo de aplicaciones móviles híbridas con React Native.
+Desarrollo de aplicaciones web en React.js & Angular.
+Creación de arquitecturas cloud & híbridas con Kubernetes.
+Implementación de flujos de despliegue continuo CI/CD.
+Integración Salesforce en procesos de captación/gestión de servicio.
+
+¿Qué valoramos?
+
+Alto dominio en Angular, React y/o Vue.js.
+Desarrollo de código limpio.
+Conocimientos de testing.
+Capacidad de trabajo con metodologías ágiles.
+Sólidos conocimientos en JavaScript.
+
+Además, aunque no es imprescindible, también nos gustaría:
+
+Testing automatizado (KARMA/JASMINE).
+Experiencia en desarrollo en otros lenguajes.
+
+Si eres una persona que le gusta estar actualizada en las últimas tendencias, inquieta por probar nuevas tecnologías, y te gusta encontrar otras formas de hacer las cosa, éste es tu sitio. Si te consideras un/a team player que defiende el Fair Play ante todo… ¡hay un equipo esperándote!
+
+¿Qué te ofrecemos?
+
+En esta empresa podrás ser tú mismo/a, y trabajarás con compañeros/as igual de apasionados por la tecnología y la innovación, dispuestos a ayudarte en todo momento. Queremos verte evolucionar y crecer con nosotros. Para ello invertimos en tu desarrollo profesional, con formación, desayunos tecnológicos y asistencia a foros. Somos defensores del aprendizaje continuo y, por ello, proporcionamos una bolsa de dinero personal, porque nos flipa estar a la última siguiendo las tendencias del mercado.
+
+Nos importa tu bienestar y felicidad en el trabajo, y, por ello, escuchamos tus necesidades para poder ofrecerte las condiciones más óptimas de trabajo en un ambiente humano único.
+
+Esto es un WIN -WIN y, por todo lo que aportarás, te ofrecemos:
+
+Remuneración adaptada a tus conocimientos, experiencia y potencial.
+Hasta 100% teletrabajo. Tú decides desde dónde trabajar, pudiendo acudir a la oficina siempre que lo desees.
+Flexibilidad horaria (con horarios de entrada entre las 7h-10h).
+Jornada intensiva todos los viernes del año, ¡además de todo julio y agosto!
+6 días de vacaciones extra cada trienio, con posibilidad de canjearlos por reducción de jornada o excedencia, ¡tú eliges!
+Día de tu cumpleaños libre.
+Seguro médico privado gratuito.
+Modelo de desarrollo individual basado en cinturones, con acceso a bolsa de dinero individual para formación y asistencia a foros, tras realizar la EADI.
+Clases de inglés con plataforma blended para obtener la certificación.
+Referral bonus. ¡Te recompensamos si incorporamos a una recomendación tuya!
+Participación voluntaria en acciones solidarias, presenciales y virtuales, para dejar nuestra huella positiva en el mundo.
+Reuniones de empresa trimestrales, viaje "fin de curso" de empresa y, sobre todo… ¡compañerismo, diversión, celebraciones, Hackathon interna y eventos de Team Building donde estamos juntos!
+
+Si quieres saber más sobre nosotros, los protagonistas te cuentan más de la empresa.
+
+Si te sientes identificado con nuestra filosofía de trabajo y tienes la misma pasión que nosotros por la INNOvación, y la Code Vocation, ¡queremos conocerte!

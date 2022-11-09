@@ -1,0 +1,39 @@
+About the job
+Role Description
+
+We're looking for a senior engineer interested in creating tools for Prezi’s full-stack engineers to improve their productivity and developer journey. You’ll be involved in defining and implementing a uniform frontend architecture, coding best practices, productivity tooling, performance, and monitoring mechanisms, for all steps of development: from local development through CI to distribution. We maintain a monorepo with 60+ packages for dozens of developers committing changes to it every week. Prezi’s frontend packages are written in Typescript and built around industry-proven libraries and toolings like React / Redux / Webpack / Babel and PNPM. You can experiment with new technologies and work with a group of people you can learn from while keep pushing things forward.
+
+Please bear in mind that this position is not a standard frontend/React.js developer position: we’re not creating frontend components, we’re enabling developers to be effective by developing tools and infrastructure for them. If your work history doesn’t include relevant experience in the javascript ecosystem, CI systems, developer or build tooling or similar areas, we’d greatly appreciate it if you could highlight how you connect to this role in a cover letter.
+
+As a core member of the DX team, you will help developers in their day-to-day operations to help them build performant and secure software. Our team also supports the full-stack development and staging environments for the company’s backend services, which consist of 100+ close-to-uniform microservices. The team maintains a broad scope of tooling solutions in the domain of building/deploying/testing software. We’re managing the tooling architecture on AWS with industry-known tools like Kubernetes, Helm, Terraform, and Ansible, so there’s always something new to learn.
+
+You will join a team that focuses on the growth of the whole product by making the development organization more efficient.
+
+Prezi has offices in Berlin, Budapest, Riga, and San Francisco, but we are a remote first company. For this position, we are looking for someone in the EU and UK time zones, so you’ll have the flexibility to work remotely from anywhere from the European continent, ideally from Hungary. You'll be reporting to Daniel Kerwin , Engineering Manager for the Technical Operations teams.
+
+If You Have
+
+4+years experience in developing frontend-heavy web applications and web services (e.g. React / a web framework like Django) or build / test systems
+Good understanding of the Javascript language, and it’s build ecosystem
+Confident command over Linux/Unix scripting
+A thirst to automate boring tasks for yourself and fellow developers
+Skills to meet deadlines, exchange knowledge with colleagues, and be up-to-date with new trends
+Passion for clean, maintainable code
+Strong critical thinking skills
+then we would love to talk to you!
+
+Bonus Points If You Have
+
+Technological leadership experience (eg: introduced a significant piece of tech in your team’s processes)
+deep understanding of the full web technology stack (e.g. HTTP, cookies, asset loading, caching, REST, TCP/IP)
+passion for developer-centric interface design in developer tools
+prior experience with CI systems (like Jenkins) and reusable jobs or pipelines
+mentoring experience of other engineers / interns
+
+We offer a competitive salary, generous healthcare coverage, flexible time off policy, paid parental leave, a flexible work from home policy, paid sabbatical leave, top of the line equipment, a culture where you can be yourself, and more.
+
+The best part: Join an awesome team who highly appreciates visual communication, who believes that together we are greater than the sum of our parts, and who deeply cares about those around us.
+
+At Prezi, we celebrate the diversity of our customers and our employees. We employ people from all backgrounds to build a product for everyone. We are looking for people who will bring in their different perspectives and help us on our mission to reinvent how people share knowledge, tell stories, and inspire their audiences.
+
+If you are into visual communication, love to be a part of a team, and care about those around you, we encourage you to apply.

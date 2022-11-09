@@ -1,0 +1,52 @@
+About the job
+Our mission is great open source
+
+It is our mission to make open source software available to people everywhere. We create world-renowned software, impacting the lives of millions of people every day.
+
+The web team works in a multi-disciplinary environment with visual designers, UX designers and other developers to bring exciting new web projects to life. We help and learn from each other and constantly strive to improve both our work and our processes.
+
+Required Skills And Experience
+Demonstrable experience of work on modern web applications
+A strong understanding of HTML, CSS with SCSS and JavaScript
+Experience with Javascript components libraries
+Experience with TypeScript
+Experience with responsive user interfaces for a wide range of devices and browsers
+Experience with Git or other version control systems
+Awareness of SEO best practice
+Consideration of accessibility in all aspects of your work
+A strong understanding of web performance in complex user interfaces
+Ability to interact with UX, designers and server-side developers
+Curiosity about technology and a thirst to learn
+Based in EMEA timezones (Europe, the Middle East and Africa)
+University degree or equivalent education
+
+Useful experience if you have it
+Familiarity with Linux desktop technologies
+Server-side languages, such as Python or NodeJS
+Experience working on a large scale React (with TypeScript) project
+A history of open source contributions
+Relevant work experience
+
+Who you are
+
+We want a Web Developer who loves what they do. You are passionate about web standards and keep abreast of new developments in our industry. You always look for opportunities to improve your skills. You like to show off what you're working on and also learn from others. You have strong attention to detail and value the design of a product as much as you value the code. You have strong communication skills and maybe even blog once in a while. You're aware of the latest CSS techniques but also know the limitations that developing for a broad audience can bring - actually, you embrace the challenge.
+
+In this team
+You'll create high fidelity websites and web apps using the latest incarnations of HTML, CSS (SCSS) and Javascript (React and TypeScript)
+You'll help maintain existing projects including updating content and adding new pages
+You'll manage incoming requests for updates and liaise with or delegate to other people as necessary
+You'll ensure the standard of our output remains high and consistent across our whole product portfolio
+You'll ensure new pages are published according to specification and in compliance with our web style guide
+You'll participate in and contribute to our living style guide, Vanilla Framework.
+Work closely with UX designers and visual designers to implement exemplary user experiences.
+
+What we offer
+An opportunity to help shape a company and products with a strong influence in the open source community
+An inclusive work environment within a team of friendly people with a broad range of skill sets, from UX designers to copywriters
+Learning and development
+Annual compensation review
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.

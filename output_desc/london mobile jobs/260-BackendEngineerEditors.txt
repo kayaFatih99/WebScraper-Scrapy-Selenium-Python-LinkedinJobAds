@@ -1,0 +1,32 @@
+About the job
+This is a unique opportunity for an engineer.
+
+You'll be building a product for you and your peers.
+
+The client is one you use every day. Not the browser or your phone, but your code editor.
+
+And the backend combines an API gateway to issue trackers with business logic.
+
+This presents a very interesting set of challenges. We need your help to tackle them and grow our product now that we've found product-market fit.
+
+Your responsibilities
+
+Your goal is to build our editor integrations.
+
+While we also have a web app, our editor integrations are the primary Stepsize client. We support Visual Studio Code and JetBrains IDEs at the moment, but we need to support many more.
+
+Providing a consistent user experience across all these editors without development costs scaling superlinearly is a major challenge. One you'll focus on solving.
+
+We also plan to introduce code metrics to the product later on. Being in editors, we can perform local analysis securely, without uploading any code.
+
+This is a huge advantage but it comes with its own set of constraints.
+
+Codebases can get very large so you'll need to be mindful of your approach. Processes will need to run in the background and not hog resources. They'll also need prioritise their analysis to provide value on the fly.
+
+You'll work on these algorithms across all editors.
+
+Find out more
+
+We’ve put together a proper job description for you with details about Stepsize, our work environment, employment benefits, the interview process, etc.
+
+You’ll find loads of information to decide whether this is the right role for you.

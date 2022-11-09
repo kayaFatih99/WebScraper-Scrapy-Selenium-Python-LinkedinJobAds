@@ -1,0 +1,35 @@
+About the job
+Data is at the heart of Lilli.
+
+A deep understanding of the environment Surrounding our customers is what allows our ML services to produce actionable insights. The Integrations team is responsible for integrating with the public, private data sources including EPR (electronic patient records) systems and Wearables
+
+We are looking for a self-motivated full-cycle engineer to join our cloud team.
+
+Responsibilities & Duties:
+Design, build and operate APIs that will be used internally (by other systems) and our apps
+Build and maintain connections to 3rd party wearable clouds, i.e FitBit or Apple Health
+Review code, maintain CI/CD workflows and monitor the performance/reliability of what the team has shipped
+Participate in scoping, prioritisation, and design discussion with your team
+Collaborate with other teams to ensure the quality and integrity of the platform
+
+Requirements
+
+Must have:
+At least 3+ years of experience
+Strong communication skills
+We move fast, you are willing to learn a new skill set, coach others, and be coached
+Proficiency with one of Clojure, Go, Rust, or any modern (statically typed) languages
+Proven experience building event-driven systems and APIs that operate at low latency and high scale.
+Strong experience of AWS ecosystem incl. Infra as code, we use Terraform and looking for someone who can drive our CI/CD efforts
+Nice to have:
+Experience with Redis
+Experience with the design and implementation of ETL systems
+Experience with Docker, Kubernetes, or Serverless technologies
+
+Benefits
+We have a flexible work schedule, this means you choose when you work and how you work
+We are remote-first and believe that having an inspiring space to work is important. We don’t have an office so we will provide everything you need to set you up at home, and if you need to find inspiration in work in a local co-working space or somewhere else then we will support that too
+We get together regularly to celebrate our teammates and our wins
+Cycle Scheme - You may not have an office to cycle to but we encourage you to get out onto the roads wherever you are
+We have a team dedicated to ensuring we have a solid working culture that is supportive and inclusive
+A generous 28 days’ annual leave and bank holidays

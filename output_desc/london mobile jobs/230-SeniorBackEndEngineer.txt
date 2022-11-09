@@ -1,0 +1,30 @@
+About the job
+Senior Backend Engineer
+Up to £130k + 25% Bonus - Hybrid (3 days in office per week)
+Holborn, London
+
+About:
+A fast-growing FinTech start-up is on a mission to disrupt the foreign exchange market, applying innovative technology to tap FX liquidity. Foreign exchange is the largest financial market in the world, with $5 trillion traded every day.
+They aim to connect the world of finance and operate a successful core trading platform, with direct connectivity to all major banks, fronted by a sophisticated trading user interface.
+
+
+The Role:
+You will be responsible for the development of high-performance, low latency, mission critical software. You will work on core trading services, order management, real-time price feeds, database design, cloud based micro-services and big data handling.
+
+You will code in Java but will take a holistic interest in software engineering. You will practice multiple programming and/or scripting languages and will be switching technology stack to meet different project needs.
+
+You will be hands-on building large, complex high-available services. Full stack development capability could be an advantage but this is mainly a role for an experienced backend specialist.
+
+Day to Day:
+You will be expected to lead small product teams, mentor and train mid-level developers, pair program with peers, practice TDD, CI and present your team’s progress at regular company stand-ups,
+You will assist in architecting aspects of the trading platform, working closely with peers, front-end/mobile developers, product management, QA, and UX/UI designers.
+
+Tech Stack:
+• Java 8+ • Docker • Kubernetes • MySQL • Gemfire.
+
+Benefits
+Up to £130k basic + 25% Bonus
+28 days of annual leave (rising to 33 with service)
+
+Apply now for consideration regarding this fantastic opportunity.
+Understanding Recruitment is acting as an employment agency for this vacancy.

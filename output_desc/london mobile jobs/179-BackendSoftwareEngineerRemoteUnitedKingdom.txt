@@ -1,0 +1,39 @@
+About the job
+Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favourite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That’s the power of data in motion in action—giving organisations instant access to the massive amounts of data that is constantly flowing throughout their business. At Confluent, we’re building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organisation. With Confluent, organisations can create a central nervous system to innovate and win in a digital-first world.
+
+We’re looking for self-motivated team members who crave a challenge and feel energised to roll up their sleeves and help realise Confluent’s enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you’re just starting out in your career or managing a large team, you’ll be amazed at the magnitude of your impact.
+
+About The Team
+
+The Clients Team is on a mission to make it as easy as possible to use Apache Kafka with any programming language. We develop high performance client libraries and APIs targeting various languages, and our passions range from squeezing an extra percent point of performance out of some low level networking code to designing APIs that are a joy to use. The software we make defines how users interact with Kafka - so it's high impact and very close to users. When we're not writing code, you'll find us out in the open source community (much of what we work on is open source), or helping our customers with some of their toughest problems.
+
+You will be part of the team which enables Kafka to be used on any platform and on any language using standard interfaces and responsible for building critical features where stability and performance are of the highest concern. We are at the beginning of this engineering journey and are looking for great engineers to join our world class team who are passionate about building and running large scale, multi-tenant distributed data systems for customers that expect a high level of availability.
+
+Who You Are
+
+Smart, humble, and empathetic
+Have a strong sense of teamwork and put team’s and company’s interests first
+Driven and excited about challenges of a fast-paced, innovative software start-up environment
+
+What We're Looking For
+
+Strong fundamentals in distributed systems design and development
+Proficiency in more than one programming language and ability to pick up new languages and concepts. We write code in: Java, C, C++, Python, Go, .NET, for Linux, MacOS X, Windows on multiple hardware architectures
+Strong testing background and takes compatibility very seriously
+Solid understanding of concurrency, sockets, networking, operating systems, memory management, runtimes, portability, etc
+A self starter with excellent spoken and written communication
+Ability to effectively work in and collaborate on a distributed team and with the open source community
+Bachelor's degree in Computer Science or similar field and 4+ years of equivalent work experience
+
+What Gives You An Edge
+
+Experience in open-source development
+Experience using Apache Kafka
+Expertise in C/C++ to make contributions to librdkafka
+Experience operating large-scale data systems
+
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact.
+
+Click here to review our California Candidate Privacy Notice, which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.

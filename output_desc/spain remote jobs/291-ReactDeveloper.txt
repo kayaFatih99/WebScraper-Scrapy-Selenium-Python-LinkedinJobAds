@@ -1,0 +1,40 @@
+About the job
+React Engineering: €65 to €75k plus bonus and benefits
+
+I have a great role for you that will enable you to work with an excellent set of UI engineers, with a company obsessed about their UI engineering and UX.
+
+
+The role is working on their SaaS offering and their backend engineering is revolved around microservices architecture. Their frontend engineers will help power beautiful UI and work in conjunction with the backend team ensuring all the APIs are integrated well etc.
+
+This role is purely 100% React UI engineering, you will not be asked to do full stack work....unless you might want to go down that path in near future, your choice!
+
+
+What the new hiring manager has to say about this role
+
+The role will give you exposure to the UI architecture, you will liaise with the UX/XI team in order to put high level designs into reality from a UI engineering perspective.
+
+They've already got a massive bank of clients who rely on their platform for their logistical expertise and they are growing organically as to not dilute the quality of engineering. Preferably you have been using React for a number of years.
+
+
+Requirements:
+
+Just have min 4 years professional experience using a modern JS UI framework, preferably React.
+
+Can demonstrate in an interview that you can pick things up easily.
+
+Have a good eye for design and detail, have worked in conjunction with UX/UI people ascertaining their designs and feasibilities etc.
+
+Have worked on products and platforms that have scaled to a decent size.
+
+
+You have experience working with core product teams and understand the nuances of the backend engineering powering the UIs.
+
+Are used to working on micro frontends too is a nice plus
+
+Webpack, Gulp a nice to have.
+
+
+This role wil pay €65 to 75k plus bonus and benefits.
+.
+
+Apply within, or if your CV is not ready then ping me on ciaran@ninedots.io for more info.

@@ -1,0 +1,31 @@
+About the job
+About The Role
+
+We’re looking for an experienced backend developer to help drive and evolve our product. Our technology is new and rapidly evolving, and you’ll have a chance to be an early contributor with a substantial impact on the product architecture. You will be solving multiple exciting technical challenges!
+
+What You’ll Do
+You'll design and optimize a large-scale, highly scalable, and fault-tolerant system that handles large graph datasets at enterprise scale in realtime. Instances of our product are processing billions of events from tens of thousands of endpoints in real-time with subsecond latency requirements
+You'll be solving real-world scaling problems that require thorough performance analysis and troubleshooting skills
+You get to work with a modern and constantly evolving microservices-based software stack which includes Go, Kubernetes, Docker, Elasticsearch, Redis, Etcd
+You'll write secure-by-design hardened software that must withstand real-world attacks, while processing untrusted data and communicating with tens of thousands of endpoints over the internet
+You'll architect and implement Cyberhaven SaaS sensors for the SaaS applications that are most commonly used in the enterprise (e.g., Box, Office365, Workday, Dropbox, etc.)
+
+Who You Are
+You have a strong track record in building backends that are actively used at scale
+You have experience developing large applications in Go
+You bring Experience using Elasticsearch or a similar distributed NoSQL DB at a very large scale
+Experience with profiling and optimizing the code that uses large distributed databases and streaming platforms and building connectors that integrate at API level with SaaS applications commonly used in the enterprise
+You have hands-on experience with microservices and Kubernetes
+Experience designing and implementing application architecture
+Experience with agile development and SCRUM
+You have excellent verbal and written communication skills in English and you can be available to frequently communicate with distributed engineering teams in European and Eastern US time zones
+
+What You Can Count On
+Competitive salary and stock options
+Health benefits – 100% paid for you and your family
+Flexible time off (paid)
+Career advancement opportunities
+
+At Cyberhaven, we've raised over $52M from leading Silicon Valley investors (Vertex, Costanoa and Redpoint). Cyberhaven is also backed by founders, executives, and security leaders who have built transformational technologies at Nutanix, Palo Alto Networks, Facebook, Google, Slack, Akamai, Cloudera, AsterData and others. We have strong demand for our product from the world’s largest companies and we are growing fast.
+
+Cyberhaven is committed to creating a diverse environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

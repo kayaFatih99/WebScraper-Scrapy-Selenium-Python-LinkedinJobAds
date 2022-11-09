@@ -1,0 +1,14 @@
+About the job
+We are looking for an experienced backend engineer who has extensive experience with building large-scale, data-heavy web applications.
+
+Required skills:
+-NodeJS
+-Javascript
+-Relational databases (SQL)
+-Good team communication
+
+Some of the things you'll be doing include...
+-Design and build a robust, reliable, and easily extensible platform that supports online operations – monitoring, auto-recovery, and health checks.
+-Tackle tough design, product, and engineering problems
+-Take ownership of the end-to-end quality of the code deployed to production
+You need strong Javascript skills, experience in Node, and good knowledge of API design and MySql / GraphQL.

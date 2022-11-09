@@ -1,0 +1,33 @@
+About the job
+Description
+Cross Border Talents is actively looking for a Full Stack Laravel Developer, an experienced senior developer for our client who is an award winning creative online, web and mobile software development company with offices in different locations in Europe.
+The Job Responsibilities :
+Determining the structure of web pages by a given design.
+Building reusable code for future use.
+Mobile-first
+Ensuring web design is optimized for smartphones.
+Keep an eye on performance
+Optimizing web pages for maximum speed and scalability.
+Be a self-starter with a proven ability to manage your own time and workload.
+
+Requirements
+Skills - Knowledge required:
+Laravel, PHP, MYSQL, HTML5, Css3, JavaScript, Sass, Git, VueJS, Tailwind
+Strong knowledge of PHP Laravel, HTML, CSS and JavaScript with 3-5+ years of proven development experience.
+Proficiency with SCSS, Blade templates (Laravel).
+Preferable VueJS, AMP and TailwindCSS.
+Experience with responsive and adaptive design.
+Understanding of SEO principles.
+Experience working with collaborative version control.
+Experience working in an agile, team environment.
+Excellent verbal and written communication skills in English.
+Strong understanding of Object-Oriented design principles and methodologies.
+Experience working with databases, ideally both relational and NoSQL.
+Experience working with collaborative version control.
+Experience working with and integrating 3rd party APIs and libraries.
+Experience with search servers (eg, Elastic or Algolia) is a definite plus, but not a requirement.
+Familiarity with best practices of both website optimization and backend development.
+If you have a Github account, have contributed to open source projects or have a personal project of which you’re particularly proud to tell us all about it in your cover letter.
+Benefits
+Flexible working hours
+Working remotely

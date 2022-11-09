@@ -1,0 +1,19 @@
+About the job
+Frontend Developer - Web3
+Fully remote
+Up to $100k
+
+This organisation is looking to make decentralised finance simple by amending the poor user experience that newcomers face and help to merge the centralised and decentralised worlds.
+
+They have created an innovative mobile app, crypto wallet, and are working on a money market, providing you to achieve financial freedom.
+
+You will be contributing towards the development of an NFT Marketplace as well as designing, building and deploying highly secure, scalable frontend features for their decentralised exchange using React.
+
+Tech:
+React
+TypeScript
+GraphQL
+
+This is an ideal position if you have experience building scalable web applications that are user-friendly apps using React and are passionate about Web3. (Previously Web3 experience is not a requirement)
+
+The engineering team is based remotely across Europe, if this is of interest please do get in touch!

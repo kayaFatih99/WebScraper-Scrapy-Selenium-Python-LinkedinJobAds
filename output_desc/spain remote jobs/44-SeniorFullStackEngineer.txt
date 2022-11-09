@@ -1,0 +1,45 @@
+About the job
+The company and our mission:
+
+Zartis is a digital solutions provider working across technology strategy, software engineering and product development.
+
+We partner with firms across financial services, medtech, media, logistics technology, renewable energy, edtech, e-commerce, and more. Our engineering hubs in EMEA and LATAM are full of talented professionals delivering business success and digital improvement across application development, software architecture, CI/CD, business intelligence, QA automation, and new technology integrations.
+
+We are looking for a Senior Fullstack Engineer to work on a project in the education sector.
+
+The project:
+
+Our teammates are talented people that come from a variety of backgrounds. We’re committed to building an inclusive culture based on trust and innovation which creates a good work environment that helps enrich the product.
+
+You will be part of a distributed team developing new technologies to solve real business problems. Our Client is one of the world’s largest and most diverse education providers. They have a long history and deep experience providing educational services to colleges and universities across the globe. These take the form of university pathway programs, international student recruitment, university hosting, residential design and an array of student support services.
+
+We are looking for someone with good communication skills, ideally with experience taking decisions, proactive, used to building software from scratch, and with good attention to detail.
+
+
+What you will do:
+
+We are looking for people with a natural willingness to learn new technologies.
+You will be developing state-of-the-art RESTful services with Spring Boot in AWS with API Gateway and Lambda.
+You will be developing web applications using Angular, devextreme and primeng
+You will be helping to migrate the current data model (unnormalized) to a normalized one.
+
+What you will bring:
+
+6+ years of experience working with Java and some of its frameworks (Spring, JPA, Hibernate)
+Experience with Angular (codegen for service layer)
+Knowledge of Rest with OpenAPI 3.0
+Excellent written and verbal communication skills in English
+A can-do attitude, with a strong desire to learn and the resilience to think around complex problems in a fast-paced environment
+
+Nice to have:
+
+AWS Services: Lambda (serverless), API Gateway
+Git (with Gitflow)
+Step Functions, ECS
+
+What we offer:
+Competitive salary depending on experience
+Remote work and flexible schedule
+Work From Home financial support
+Mentoring and training
+International projects

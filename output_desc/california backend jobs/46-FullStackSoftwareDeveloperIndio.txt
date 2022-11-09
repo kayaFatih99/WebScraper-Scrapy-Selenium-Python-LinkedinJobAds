@@ -1,0 +1,51 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Experis, is seeking the following. Apply via Dice today!
+
+Position- Full Stack Software Developer (Back-end)
+
+Location- Remote
+
+Duration- Fulltime Direct Hire
+
+What You'll Do
+
+Participate in the design and development of high-performance, highly secure, and scalable services and APIs
+Build out the service architecture that interfaces the front-end stack to seamlessly talk to our data layer and business partner APIs
+Develop and drive improvements to our evolving backend infrastructure that have a direct impact on engagement and customer satisfaction
+Collaborate on the development and evolution of our backend architecture while communicating tradeoffs between technical debt, quality, and speed
+
+What You'll Need To Succeed
+
+We're looking for someone who:
+
+Can work remotely
+
+Your experience should include some or all the following:
+2+ years of engineering experience with a proven track record of building web applications or services.
+Advanced programming skills developing in Python, Ruby, or Java
+Familiarity with Django and Django REST Framework
+Strong DB design skills
+Experience working on parsing Excel and PDF generation is a plus
+Ability to work on complex technical challenges and collaborate in technical discussions with other engineers
+Strong attention to detail
+High-energy, company first, positive attitude; you are motivated to work hard in a fast-paced environment
+Bachelor's Degree in Engineering, Computer Science, or a related field preferred. You should be able to demonstrate superior understanding of CS fundamentals
+We proudly support and encourage people with military experience, as well as military spouses, to apply
+
+What You'll Gain
+
+Benefits from Day One
+
+Health insurance plans, dental, and vision
+Wellness incentives
+401(k) and/or RRSP retirement savings plans with employer match
+
+Work-Life Balance
+
+Competitive paid vacation time and a free day for your birthday
+Personal/sick time
+Paid holidays
+Flex Time
+Paid parental leave (U.S. candidates)
+Volunteer time off
+- provided by Dice

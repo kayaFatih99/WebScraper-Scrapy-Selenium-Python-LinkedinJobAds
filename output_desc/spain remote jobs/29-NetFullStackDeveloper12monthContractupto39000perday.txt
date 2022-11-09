@@ -1,0 +1,35 @@
+About the job
+.Net Full Stack Developer – 12 month contract - up to €390.00 per day
+AWS experience essential
+Calling all Limited company contractors interested in new, exciting roles. With the opportunity to work remotely from anywhere in the EU.
+PLEASE NOTE: This is a daily rate contract position. Candidates who apply must be eligible to work in Ireland holding either EU Citizenship or appropriate visa. Visa is required in advance of applying for this position. sponsorship for this role is not provided
+As an enterprise software development company that is passionate about delivering results which has experienced continued growth and success over the years, we are actively looking for a QA Automation Engineer for an initial 6 month contract with view to multiple ongoing extensions. You will join a team of 200+ professionals and work within the development team building and executing suites of test plans and test cases.
+Responsibilities
+· Requirements Analysis & Application Design
+· Providing accurate estimates and timings to project managers
+· Daily interaction with clients to facilitate successful project implementation.
+· Becoming a subject matter expert on client business processes, for example claims pricing and payment, provider networks and group/member structures.
+· Delivery of application development using standard web development methodologies.
+· Mentoring other developers within a project team & Peer code review
+· Self-motivating toward on time delivery of high-quality outputs
+· Ensuring all QA procedures are satisfied in terms of process and documentation.
+· Adhere to and promote internal information security policies and procedures.
+Attributes Required (some or all of the following)
+· Extensive commercial development experience in C# and ASP.Net
+· Cloud experience of AWS
+· Excellent knowledge of MS SQL Server including Strong T-SQL (Stored Procedure) skills
+· Experience with HTML5, CSS3, JavaScript, AJAX, JQuery and other front-end frameworks (e.g., Angular)
+· Experience implementing front-end components optimized for speed and cross-browser compatibility.
+· Knowledge of modern JavaScript programming patterns, such as client-side MVC, dynamic resource loading, JSONP, event-driven programming, etc.
+· Exposure to .Net 4.8, .NET Core, and MVC 5
+· Knowledge of Restful APIs, Web Services, ADO.NET, Custom control development and SQL Server 2016+.
+· Commercial development experience with SOA and related technologies
+· Awareness of code management solutions such as Team Foundation Server and Git.
+· Comfortable with Test Drive Development using mocking frameworks and libraries e.g., Rhino Mocks, MS Test, etc
+· Software development using Agile methodologies.
+Skills and Experience
+· Third level IT or related qualification
+· Articulate, confident, self-starters
+· Excellent written and verbal English communication skills
+· Innovative problem solvers
+· Please note this is a daily rate contract position. Candidates who apply must be eligible to work in Ireland holding either EU Citizenship or appropriate visa. Visa is required in advance of applying for this position. 8 West Consulting do not provide sponsorship for this role

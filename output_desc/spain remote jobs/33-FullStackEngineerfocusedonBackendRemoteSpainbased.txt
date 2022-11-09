@@ -1,0 +1,40 @@
+About the job
+One of the companies we work with is looking for a Full Stack Engineer (focused on Backend) to join the team.
+
+We are looking for someone who:
+Considers themselves as a Fullstack / Backend Software Engineer who loves to develop, looks for creative solutions, wants to continue growing, and understands the importance of soft skills.
+Knows that energy, capacity, and creativity are much more important than a long resume (years of experience are not that important for us).
+Loves to learn new things, and is curious about technology.
+Understands that our industry changes easily, and is flexible enough to adapt to different project opportunities.
+Takes ownership and looks for agile solutions to everyday problems.
+Is willing to work with Java + Spring Framework. (For us, it wouldn’t make sense to be squared minded regarding technologies. We don’t hire based on tech stack. However, our current open positions require to work using these technologies).
+
+What would some of your responsibilities be?
+This would vary depending on the project you work on. However, some common tasks would be to:
+Participate in architecture and software development activities.
+Contribute to unit testing and perform minimal tests of work before being reported to the PO as complete.
+Always keep privacy and security principles in mind when designing or developing.
+Translate functional requirements into technical requirement together with the other team members.
+
+It would be great (but not necessary) to also have experience with:
+Frontend languages (HTML5, CSS3, Angular, React, JQuery).
+Non-relational databases.
+AWS certificates.
+
+Our hiring process typically consists of:
+We say typically because we're continuously testing and listening to you to make it better and better. We’re willing to look for alternatives if something about the process doesn't seem right for you and your situation. All we ask for in exchange is good, honest, and fluid communication.
+
+Intro Meeting (20-30 min)
+Hackerrank Test (120 min)
+A simulation of real project (week of async collaboration)
+Final Interview (20-30 min)
+
+PRO TIP: Be yourself, communicate well and have fun!
+
+Joppy is a tech recruitment platform built for developers by developers.
+✅ No CV required. Just say what you know and what you want.
+✅ Anonymous profile by default.
+✅ You choose who can talk to you. Companies can't write to you until you accept their offer.
+✅ Only relevant offers matching your preferences. No more Javascript offers for Java developers.
+✅ Get a reward if you get hired.
+Keep an eye on tech job opportunities anonymously and match the job that makes you happy.

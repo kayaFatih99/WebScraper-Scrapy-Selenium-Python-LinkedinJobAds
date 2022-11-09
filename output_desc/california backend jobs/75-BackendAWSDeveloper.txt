@@ -1,0 +1,14 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Altech Star Inc., is seeking the following. Apply via Dice today!
+
+Backend AWS Developer: API Management tool
+
+Bachelor of Science Degree in Computer Science, Computer Engineering or Software Engineering, or equivalent experience.
+8+ years experience of related development experience
+5+ years experience working with Python
+2+ years experience working in AWS using services such as Lambda, Cloudfront, Cloud Formation, and API Gateway.
+Preferred to have experience with boto3.
+3+ years of experience working with Scrum software development processes with rapid iteration cycles (2-week sprints)
+Experience working with Agile development tools such as: Jira, Confluence, Git / GitLab , CICD pipeline. Source code repo, Automation testing tools, Static code analysis
+Familiarity with object-oriented design and development, including effective use of interfaces.
+- provided by Dice

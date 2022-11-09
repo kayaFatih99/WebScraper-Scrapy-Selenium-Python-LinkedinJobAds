@@ -1,0 +1,12 @@
+About the job
+Lead Backend (Node) Engineer Opportunity | Revolutionary SaaS Start-up | Paris/European Wide Remote
+
+Search Technology is excited to be partnered with one of Europe's emerging SaaS start-ups, currently building the infrastructure to allow app owners to create data driven methods to increase productivity, profitability & usability.
+
+Due to closing a significant Series A, our client is seeking a Lead Backend NodeJS Engineer to work directly with the CTO, building and optimising their boutique tools and APIs to automate their processes.
+
+Tech Stack: Typescript, NodeJS, AWS (Lambda, S3, EC2), Server Maintenance
+
+Offering up to €80k + compelling equity, fully remote working.
+
+Please do apply for more information

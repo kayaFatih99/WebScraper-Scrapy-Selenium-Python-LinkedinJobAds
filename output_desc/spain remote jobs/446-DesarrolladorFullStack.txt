@@ -1,0 +1,30 @@
+About the job
+¡Únete a nuestro equipo de CGI!
+
+¿Te motiva la oportunidad de agradar a tus clientes brindándoles soluciones innovadoras a problemas técnicos complejos? Estos son tiempos emocionantes para CGI y estamos buscando personas talentosas para ser pioneras con nosotros.
+
+Estamos buscando un/a Desarrollador/a Full Stack con conocimientos en el desarrollo web con .Net Core con Angular para impulsar nuestro equipo y realizar un trabajo de calidad para un cliente estratégico dentro de un gran proyecto.
+Formarás parte de un gran equipo de trabajo, con metodologías ágiles, como SCRUM.
+
+Requisitos:
+· Experiencia de al menos 5 años como Full Stack
+· Angular 9 o superior
+· .Net Core 3.1 o .Net 5
+· Typescript
+· Servicios REST
+· JSON
+· Entity Framework Core SQL Server
+· Experiencia en metodologías ágiles
+
+Se valorarán conocimientos y/o experiencia en automatización de test unitarios y funcionales.
+
+Ofrecemos:
+Contrato Indefinido
+Salario competitivo en función de la experiencia
+Retribución flexible
+Flexibilidad horaria y teletrabajo
+Participación en la compra de acciones de la compañía
+Formación y desarrollo
+Club de ventajas al ser miembro de CGI
+Excelente ambiente laboral
+Seguro de vida y accidentes

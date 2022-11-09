@@ -1,0 +1,28 @@
+About the job
+Backend Software Engineer Kingston-upon-Thames / WfH to £75k
+
+Would you like to progress your career in senior, hands-on role, working with a modern C# tech stack?
+
+You could be progressing your career and making an impact at a global travel company.
+As a Backend Software Engineer you will design and develop real-time flight booking systems across the company's global brands; these systems are extremely complex, pulling data from a variety of sources to provide real-time availability and pricing information. You'll be an instrumental member of an Agile development team using modern development practices on a .Net Core microservices based tech stack.
+
+The company has continued to invest in technology throughout the past year and is in a good position for continued growth.
+
+There's currently a remote interview and onboarding process as well as the ability to work from home; in the coming months you'll join colleagues in Kingston-upon-Thames for 2-3 days a week with continued flexibility to work from home.
+
+Requirements:
+You have backend C# development experience
+You have a good knowledge of microservices, .Net Core and ideally have experience with F# or other functional programming language (e.g. Scala, Clojure)
+You've had exposure to Cloud based services, Azure preferred but could be AWS or GCP
+You're an advocate of best practice and have experience of working in Agile teams with TDD
+You have a good knowledge of Event Driven Architectures and messaging technologies such as RabbitMQ, MSMQ
+You have a good knowledge of SQL
+You've worked with CI/CD practices and are familiar with IaC tools such as Terraform
+You're able to work fairly autonomously and take ownership of projects
+You're collaborative with great communication skills
+
+As a Backend Software Engineer / Developer you will earn a competitive salary (to £75k) plus benefits including discounted holidays.
+
+Apply now to find out more about this Backend Software Engineer / Developer (C# .Net Core Cloud microservices) opportunity.
+
+Ref: 18730/A/KS/041122

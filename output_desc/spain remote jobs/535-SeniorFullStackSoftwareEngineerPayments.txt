@@ -1,0 +1,76 @@
+About the job
+Cloudbeds is the hospitality industry's fastest-growing technology provider for hotels, hostels, vacation rentals, and hotel groups. Our award-winning Cloudbeds Hospitality Platform is currently helping a growing clientele of 22,000+ properties in 157 countries to increase revenue, streamline operations, and deliver memorable guest experiences.
+
+Behind the Cloudbeds platform is a growing team of 700+ employees distributed across 40+ countries speaking 30+ languages. From data architects to UX designers, integrations managers to payments experts, former hotel managers to former OTA executives, our team comprises the brightest minds in technology and hospitality working to solve the industry’s biggest challenges.
+
+From the beginning, we've believed that our people are our greatest asset, so we've founded the company as #RemoteFirst, #RemoteAlways with shared that allows our team to thrive. This means we:
+Hire the best people wherever they're located;
+Emphasize the value of results over hours put in;
+Provide flexibility in working hours and locations;
+Foster an inclusive environment that celebrates bold thinking and diverse perspectives;
+Offer open vacation policies, free LinkedIn Learning, and other benefits that promote well-being and professional development.
+
+Together we're on a mission to power every property in the world and to do that, we need to find the best talent in the world. That's why we're on the search for a superstar Senior Full Stack Software Engineer, to work with the Payments team, and help us play our part in reinventing the world of hospitality tech and travel.
+
+As a Senior Full Stack Software Engineer on our Payments team, you will help deliver an exceptional product experience to our customers all around the world. This could be for hotel guests, creating a user experience that makes travelers feel welcome, comfortable, and inspired to share the joy of travel with others. Or it could be for our accommodation providers, building trusted, simple, easy-to-use features to support key aspects of their daily business.
+
+Our development strategy is to deliver trusted, scalable and reliable products leveraging the best of modern technologies, tools and standards. For this role, we are looking for someone who has worked with a broad range of practices, libraries, frameworks and architectural patterns. You will participate in strategic decisions regarding the use of languages, libraries and tools. You will assist with the refinement of requirements, architectural design, exploratory development, creation of new components and the adoption of new tools and techniques.
+
+Location: Remote - Spain
+
+What You Will Do:
+Participate as a member of an agile engineering team, contributing (following best practices) to our application codebase on a daily basis
+Support and mentor more junior Engineers, in growing their knowledge and skill-sets
+Implement features and improvements in PHP, plus have a strong desire to expand their knowledge to encompass a Java tech stack
+Implement frontend applications using Javascript frameworks such as React and Vue
+Develop in the existing PHP monolith, and develop microservices architecture in PHP and Java
+Engage in discussions on complex technical concepts and requirements with both technical and non-technical stakeholders
+Write clean, well-tested, well-documented, and elegant code
+Support a team environment where skill, knowledge and capability are fostered and highly valued
+Drive the optimization and flexibility of our software engineering process, ensuring we get the best outcome possible from TDD, CI/CD, DDD and Agile approaches
+Drive progress in planning, prioritizing, and executing assigned tasks within deadlines
+Assist in researching new technologies to ensure best fit, quality and outcome
+Collaborate effectively on technical design, with peers (often in other teams) on complex features
+
+You’ll Succeed With:
+5+ years of PHP web application software engineering experience
+5+ years of Frontend development, using a range of javascript frameworks such as React and Vue. Must be as strong in frontend development as the backend
+2+ years experience working with MySQL. Tuning and optimization skills are preferred
+A love of UI / UX design, backed with very strong knowledge of the necessary core technologies such as CSS, Javascript, HTML
+Experience within an organization that focused on high availability, scalability, security, automation and observability
+Experience of modern infrastructure tooling (DataDog, GitHub, Docker, AWS, Kubernetes, Kafka)
+Solid understanding of secure software engineering concerns
+A strong business sense and ability to collaborate with leadership and non-technical stakeholders on highly visible projects
+Dedication towards observability by leveraging metrics, experiments, and prototypes to ensure decisions are data-driven
+Strong knowledge and a passion for software engineering best practices, design patterns, and automated testing
+Strong teamwork and time management skills
+Passionate about agile practices and continuous improvement
+Business-level English fluency required (verbal and written skills)
+
+Nice to Have:
+Experience working with a remote-first and globally-distributed teams
+Experience in microservice development is a plus but not required
+Experience of engineering software for large scale solutions, utilizing modern tooling to get you there
+Travel industry experience is a plus but definitely not required
+Experience in the Payments domain is a plus but definitely not required
+Experience with large scale Domain Driven Design would be great but definitely not necessary
+
+Our company culture supports flexible working schedules with an open Paid Time Away policy and gives all team members the opportunity to travel and work remotely with great people. If you think you have the skills and passion, we’ll give you the support and opportunity to thrive in your career. If you would like to be considered for the role, we would love to hear from you!
+
+Company Awards to Check Out!
+Fastest Growing Companies | Inc. 500 (2018 & 2019)
+Best Places to Work | Inc Magazine (2017 & 2018)
+Best Places to Work | HotelTechReport (2018, 2019, 2020, 2021)
+Best Property Management System | HotelTechReport (2021, 2022)
+Best Hotel Management Software | HotelTechReport (2022)
+Start-Ups to Watch | Forbes (2018)
+Best Startup Employers | Forbes (2020, 2022)
+Technology Fast 500 | Deloitte (2019, 2020, 2021)
+Top 100 North America | Red Herring (2020)
+Connect MIP Award (Technology)
+
+Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the diversity in our global team! We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Cloudbeds is committed to the full inclusion of all qualified individuals. As part of this commitment, Cloudbeds will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions please contact our HR team by phone at 858-201-7832 or via email at .
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals being represented by an agency are not authorized to use this site or to submit applications, and any such submissions will be considered unsolicited. Cloudbeds does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not responsible for any fees related to unsolicited resumes/applications.

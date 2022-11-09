@@ -1,0 +1,15 @@
+About the job
+Cobser Consulting, with more than 18 years of experience in the sector, are currently looking for a front development team for an international project.
+
+Requirements:
+• + 4 years of experience, in Front: javascript with React ( 2-3 years of experience,)
+• Agile scrum
+• English.
+
+Nice to have:
+• Experience in the insurance sector
+• Developments with Angular
+• Test automation.
+• Git - Azure DevOps
+
+100% remote (Reside in Spain is required)

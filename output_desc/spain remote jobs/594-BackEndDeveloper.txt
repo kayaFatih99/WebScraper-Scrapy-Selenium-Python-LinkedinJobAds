@@ -1,0 +1,37 @@
+About the job
+What is Polygon?
+
+Polygon is the leading platform for Ethereum scaling and infrastructure development. Its growing suite of products offers developers easy access to all major scaling and infrastructure solutions: L2 solutions (ZK Rollups and Optimistic Rollups), sidechains, hybrid solutions, stand-alone and enterprise chains, data availability solutions, and more. Polygon’s scaling solutions have seen widespread adoption with 37,000+ applications hosted, 1B+ total transactions processed, 140M+ unique user addresses, and $5B+ in assets secured.
+
+
+What does the zkEVM Team do?
+
+Polygon zkEVM is the first zero-knowledge (ZK) scaling solution that’s fully compatible with Ethereum: all existing smart contracts, developer tools, and wallets work seamlessly. The zkEVM harnesses the power of ZK proofs to reduce transaction cost and massively increase throughput, all while inheriting the security of Ethereum L1.
+
+Job Description
+
+We're looking for a Senior Golang Developer to join the Backend team of zkEVM and help develop the node that will be operating the EVM zkRollup.
+
+Your task scope will include implementing Merkletrees, Ethereum interfaces (read/write smart contracts), EVM logic, as well as more “traditional” backend features such as APIs, DBs, etc. In addition, you will collaborate with team members in making architectural decisions, choosing best practices, and bringing in new ideas.
+
+This is an exciting opportunity to take an active part in the blockchain space and contribute to the decentralization of the future.
+
+Find the zkEVM documentation at: docs.hermez.io
+
+Key Duties
+
+Design and implement quality backend architectures that connect with blockchain infrastructure.
+Develop high-quality, performant, modern, clean and readable code within tight deadlines.
+Take ownership of the development and maintenance of the project from ideation to deployment.
+Work with the engineering, design, protocol and product teams collaboratively, contributing ideas that add value to our product roadmap and company goals.
+Mentor junior golang developers on your team.
+
+Requirements:
+
+7+ years of Software Development experience.
+4+ years of experience developing programs in Golang.
+Good understanding of Ethereum and Solidity.
+Basic knowledge of cryptographic primitives such as public/private keys, hash functions and Merkletrees (understanding how to use them, implementing them would be a plus).
+Understanding of Ethereum and previous contribution to the blockchain space.
+Experience working with git.
+Location: Europe.

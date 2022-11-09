@@ -1,0 +1,107 @@
+About the job
+View our much better version of this job spec on our careers page: https://bit.ly/Juro-Integration-BE
+
+
+
+***
+
+
+⚙️ THE KEY BITS
+- Whereabouts: We can currently only accept applications from candidates that: (1) are located in the UK, EU or EFTA countries and (2) have long-term working rights in the UK, Portugal, Latvia or freely within the EU without need for visa sponsorship.
+- Interviews: 3 stages totalling around 3 hours over 2 weeks.
+- Reporting to: Aleksej, team lead of Integrations team
+- More info: The FAQ below, our careers page (juro.notion.site), our handbook (https://tinyurl.com/juro-handbook) or ask aleks@juro.com anything.
+
+
+
+🤝 HELP US HELP THE WORLD AGREE MORE
+
+Juro has big ambitions: de-throne MS Word as the standard way to do contracts. And we'll need a lot of help doing it.
+
+Legal tech on the rise: companies in this space already attracted more than $1 billion in funding this year as the slow-moving industry digitises. With 3x annual revenue growth, we're in a great position to pilot this change.
+
+Working alongside a small team of passionate developers, you will be integral to the secure design, implementation and operational management of the systems and services based on AWS automating the way people agree. You will help to improve our best practices around application, infrastructure and data security throughout our lifecycle.
+
+
+
+🌠 YOUR MISSION
+
+To build on our engineering culture at Juro.
+You will help us define, develop and improve Juro infrastructure and backend services using Typescript and Node.js.
+
+🚧 When you join our Integrations team, you will:
+- Develop, maintain and improve new and existing integrations with third-party services.
+- Maintain, fix and enhance by writing new parts of our public Juro API.
+- Develop an interface that helps to manage integrations.
+- Optimise and analyse integrations performance efficiency
+- Work with microservice architecture environment using Docker, Kubernetes.
+
+🏔 WHY JOIN US?
+
+🛠️ You decide what is best.
+You will have the autonomy to make decisions, define tooling and contribute to processes that lead to the best outcomes. You can propose new tools and systems for solving problems.
+
+🦖 No legacy technologies.
+We use a modern stack including TypeScript, Node.js, MongoDB, Redis. As a bonus, you will have debugging tools such as Sentry, Loki, Grafana and a geek tool for task tracking — Linear.
+
+💥 Make an impact.
+We a still small team — ca. 5 engineers per workstream. As a result, your impact on what we build will be significant: you will see the results of your work not in months, but in weeks.
+
+🔧 Time to fix.
+Every other week we have tech retro - if you see a problem, something doesn’t work for you, or you wanna improve anything - we have a space for this.
+Also we have Maintenance week - once every 6 weeks we have a week to work on technical debt or bugs which you never find time to fix.
+
+👀 Code review to help you grow.
+Our PR’s are rigorous, but that’s because we believe in them as an opportunity to keep improving and for wider knowledge transfer. Of course, where appropriate we will also pair or mob to get the best results.
+
+🌈 Join the #1 startup to work for in 2022: https://tinyurl.com/juro-no-1
+We're immensely proud being voted #1 of the top 50 London startups to work for in 2022. This is the result of hard work, to show not tell, and make Juro the best place to work for. This spans from setting concrete steps become a truly diverse, inclusive workplace, to investing in a culture of growth, to offering flexibility to everyone and more.
+
+For 2022, we plan on expanding on all of these areas — what benefits we offer, how we give and receive feedback and how we foster a genuine sense of belonging for all Jurors to bring their full and best selves to work.
+
+
+📬 WE'D LOVE TO HEAR FROM YOU IF...
+
+- You developed applications and APIs using TypeScript and Node.js.
+- You were involved in project architecture: creating architecture from scratch, making structure changes or migrating from old to new structures.
+- Created and maintained distributed and resilient systems and familiar with Kafka, Redis and cloud services.
+- Created and integrated API, both internal and third-party services such as Google API, SendGrid, Intercom, Greenhouse, Workday, Zapier, Hubspot
+
+At Juro, we approach our work in line with our values:
+🙏 #BeMoreHuman
+Mentoring: You use your technical expertise to teach / guide others patiently.
+
+🚀 #StriveToDeliver
+Autonomy: You are empowered to find the right solutions to our customers needs. You are comfortable working independently but also work well and trust others in your team and the teams around you.
+
+❤️ #LoveTheDetails
+Caring: You take responsibility for what you build because you care. You proactively seek/give feedback to suggest improvements.
+️
+👌 #KeepItSimple
+Focus on results: You deliver the tasks and projects that you promise, and you don't invent new solutions if an appropriate one already exists.
+
+🌈 Research shows that while men apply to jobs if they meet ~60% of criteria, women and those in traditionally underrepresented groups tend to apply only if they check all boxes. So if you think you have what it takes but don't meet every single point above, please still get in touch. We'd love to have a chat and see if you could be a great fit.
+
+
+⛰️ OUR MISSION
+
+Help the world agree more by making contracts frictionless and accessible to everyone.
+
+Businesses run on contracts. But it can take five separate tools just to agree one simple agreement. Switching between Word, eSignature and your inbox while you chase files creates admin for legal and friction for the business. And at a scaling business, there’s no time for contracts to block growth.
+
+But what if your business could self-serve on contracts, while legal stays in control of contract process? That’s why we founded Juro: the all-in-one contract automation platform that helps legal counsel and the teams they enable to agree and manage contracts in one place.
+
+Old-fashioned contract systems are built for handling static files. Juro’s flexible template editor makes it simple to create and collaborate on contracts in the browser, as well as integrate contracts into your other tools. Simple contracts are agreed faster, with better collaboration between teams.
+
+Put contracts on autopilot — so your business can focus on growth.
+
+
+
+🤨 GOT MORE QUESTIONS?
+
+Check if they're answered on:
+- Our extended job description for this role: https://bit.ly/Juro-Integration-BE
+- Our company handbook: https://tinyurl.com/juro-handbook
+- Our careers page: https://juro.notion.site
+
+There, you'll find answers on topics such as career progression, inclusion & belonging, the interview process, benefits and more. Or reach out to Aleks, Senior Talent Partner at Juro (aleks@juro.com) for anything.

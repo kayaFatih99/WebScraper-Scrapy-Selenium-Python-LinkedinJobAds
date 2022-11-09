@@ -1,0 +1,63 @@
+About the job
+Who we are:
+Zilch is an over-the-top (OTT) BNPL product that allows its customers to shop wherever Mastercard is accepted and spread their payment over 6 weeks for zero interest and zero fees whenever they chose to buy from one of Zilch's 5,000+ retail affiliate partners!
+
+We are the first FCA regulated Buy Now Pay Later in the country. We have exciting and ambitious growth plans happening over the next 12 – 18 months and we want YOU to be an integral part of our growth journey as we hit exponential growth.
+
+We are a people-first culture and is continuously investing in our employees as well as their long-term career development.
+
+About the role:
+Zilch is keen to connect with talented React Mobile Engineers that would be interested in joining our dynamic and fast-paced team. We are looking to speak with coding enthusiasts who live and breathe software, and who obsess about quality.
+Day-to-day responsibilities include:
+Working in an agile environment on user stories that deliver significant impact for our customers
+Building mobile components that are rock-solid, secure, well-tested, and highly performant
+Continually improving our code, our systems, our practices, and our knowledge
+Working with our APIs and back end components to ensure we store and process information securely and effectively
+Assist in ad-hoc development and technology related duties
+Key requirements:
+2-3 years experience javascript development
+1-3 years using reactjs
+1-3 years using react native
+1-3 years developing iOS and Android react native apps
+Bonus skills:
+Exposure to other mobile development systems & languages
+Exposure to typescript
+Exposure to scss/sass/less
+Exposure to React Testing Library
+Exposure to Redux and Redux Saga
+Build systems such as gulp, Webpack
+
+Benefits:
+Discretionary company bonus
+Income protection - long term injury or illness the company will pay 75% of your base salary for up to 5 years
+Pension scheme, 5% employee contribution and 3% employer contribution
+26 days holiday
+Family friendly policy
+Maternity - 6 months full pay and return to work bonus
+Paternity - 6 weeks full pay
+Enhanced Shared Parental Leave Pay and return to work bonus
+Enhanced Adoption Pay and return to work bonus
+Death in Service - 3x your annual basic salary up to £550k - complete expression of wish form
+Private medical insurance
+Specialist referrals
+Counselling / Talking Therapy / CBT
+Dental
+Optical
+Physiotherapy / osteopathy
+Cancer cover
+Virtual Doctor Online - online GP appointments within 2 hours
+Gym membership discounts
+£200 joining bonus for WFH set up on Zilch app
+Learning & Development - company support for professional qualifications and learning development
+Employee assistance programme
+Legal advice
+Financial advice (including mortgage advice)
+Childcare support
+Relocation advice
+Lifework perks - online cash back at over 1200 brands, cinema discounts, digital gift cards
+Flexible working
+Casual dress code
+Work related social events
+Free fruit, snacks, and refreshments in the office (and in office barista)
+Opportunities to work from overseas offices
+Office breakout zone, including table tennis, pool, and comfortable seating

@@ -1,0 +1,40 @@
+About the job
+Full Stack Engineer (React / Node / Typescript / AWS) – Fully Remote
+
+Overview:
+This is a truly exciting opportunity to join a funded scale up who have taken their market by storm and are growing rapidly. As a result of their growth and scaling plans, they are looking to significantly expand their engineering capability.
+
+They are a technology first company and believe strongly in good culture and continuous improvement and a remote-first environment. Their success is driven by offering the fastest, most reliable and easiest to use product their market offers and is already being used globally by some of the biggest names.
+
+Role:
+They are looking to add Full Stack Engineers to their web team who are responsible for both their Mobile App written in React-Native and fully fledged web app written in React. They use NodeJS for the server side and API’s that serve both the mobile and web apps for live streaming and integration for clients.
+
+Everything is built in Typescript, all native theming with the UI built in Material-UI, managed with MobX and RxJS used for real-time data streaming.
+
+Everything is managed in AWS, and using Docker, Redis and Kubernetes for their Cloud infrastructure.
+
+Agility, automation and developer efficiency are at the forefront of their philosophy; they make it as easy as possible for developers to get things done without the red tape of so many organisations.
+
+Most of your time will be spent on green field development, tackling complex problems and building elegant and performant solutions. You’ll focus on their web and mobile platforms, help to build out their architecture, building out execution services, analytics and an app marketplace.
+
+Skills & Experience:
+The ideal candidate will have strong modern Typescript / Javascript experience used in web applications. You will be happy working in a remote team and be willing to work closely with other team members to deliver high quality solutions and promote an open and inclusive company culture.
+
+An experienced Software Engineer with a solid background using React
+You’ve developed and shipped user facing features using a competent based UI
+Familiarity with best practices in front end architecture
+Familiarity with REST API’s
+Be comfortable and excited about working in a start-up environment where things move quickly
+Desirable skills – NodeJS, Typescript, AWS, Kubernetes, Redis, Trading knowledge
+
+Benefits:
+Fully remote, with full flexibility to work anywhere
+Flexible on when hours are worked
+Company socials 2-3 times per year where the company will fly everyone and pay for the whole get-together
+30 days holiday plus bank holidays plus 1 extra day for each year worked, capped at 35 days
+Pick your own kit
+Hackathons – letting Engineers run with whatever they fancy and a chance to experiment
+Cycle to work scheme
+NEST Pension scheme
+Death-in-service
+In the pipeline – following their recent funding round, they are now looking at rolling our bonus and share option schemes

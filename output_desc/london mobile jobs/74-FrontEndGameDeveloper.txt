@@ -1,0 +1,55 @@
+About the job
+Job title: Front-End Game Developer
+Location: United Kingdom
+Salary/Rate: £65,000 - £75,000
+Start Date: 01/12/2022
+Job Type: Permanent
+
+
+Company Introduction:
+Our client is a forward-thinking next generation mobile gaming company who publishes licensed gaming content, based in united kingdom. Content monetization and distribution for both social and real money gaming marketplaces are powered by our industry-leading mobile technology. We used to operate a hybrid bingo business and offer games, but after selling our B2C assets, we are now focusing on SlingoTM, the brand that gives us our distinctiveness.
+
+Job Responsibilities/Objectives
+The Front End Games Developer is a practical, self-driven person who can work on their own initiative and contribute well to a team. They report to the Head Of Front End Development. Building, designing, and supporting front-end software, including games, partner integrations, and back office systems, are anticipated of this position.
+1. Creation of HTML5 applications for use with online gaming platforms, specification using pixi.js
+2. Create a robust and expandable gaming framework that encourages modularity and reuse.
+3. Create and keep up with technical documentation as needed.
+4. Comply with the game roadmap
+
+
+
+Required Skills/Experience
+The ideal candidate will have the following:
+
+1. Two years of front-end development experience
+2. Delivery of high-quality code that is reliable, tested, and actively maintained
+3. Self-motivated to research, learn, and come up with fresh ideas to enhance the technological platform
+4. Capability to adhere to development criteria and guidelines
+5. Capacity to manage many competing demands in fast-paced work environment
+6. Skilled at converting graphics materials from conception to a polished game.
+7. Enthusiastic about games and knowledgeable about their mechanics
+
+
+
+Desirable Skills/Experience
+Although not essential, the following skills are desired by the client:
+
+1. Knowledge of gambling laws and practical experience putting new regulations into effect
+2. Working and integrating experience with third-party operators
+3. Expertise in developing dependable and user-friendly B2B portal platforms
+4. Delivery pipelines for containers and containerisation
+5. Knowledge of project management applications such as Jira
+
+
+
+Benefits & Perks
+The company offers standard corporate benefits, including:
+1. Remote
+2. Great Salary
+3. Huge Growth
+
+
+Disclaimer
+Notwithstanding any guidelines given to level of experience sought, we will consider candidates from outside this range if they can demonstrate the necessary competencies.
+
+Square One is acting as both an employment agency and an employment business, and is an equal opportunities recruitment business. Square One embraces diversity and will treat everyone equally. Please see our website for our full diversity statement.

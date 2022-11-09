@@ -1,0 +1,31 @@
+About the job
+Are you an experienced UK based Mobile Developer?
+
+I am an working with an industry leading global maritime software company, and have a fantastic opportunity available to join their growing organisation.
+
+As a React Native Developer you will have experience of developing for mobile using React Native to build natively rendered apps for iOS and Android and additionally need to have a great blend of JavaScript and native platform skills, knowledge of API services and cross-platform compatibility. So, if this sounds of interest then I am keen to hear from you!
+
+Location: UK (remote)
+
+Key Responsibilities:
+Deliver, improve, and optimize the mobile development processes using an agile methodology
+Develop and test new user-facing applications, and support existing, across multiple platforms and devices
+Build reusable code, components, and libraries for future use
+Working with Developers/Test Engineers and R&D department to build a well architected solution to ensure delivery to a high standard
+Maintain a high awareness of industry issues and trends - particularly with regards to accessibility, usability, and related emerging mobile technologies and frameworks
+Ensuring the codebase is well understood and documented
+Use testing frameworks to ensure automated test coverage for platform functionality
+Write and improve technical documentation when necessary
+Participate in Agile planning meetings and stand-ups
+
+Skills, Knowledge, and Experience Required:
+Strong background of at least 5 years experience in Mobile application development
+React Native best principles and design aesthetics
+Significant experience working with React Native along with tools like Webpack, Enzyme, React.js, Flux, and Redux
+Knowledge of type checking, unit testing, typescript, prop types, and code debugging
+Experience working with REST APIs, GraphQL, document request models, offline storage, and third-party libraries
+
+Desirable experience and skills (not essential):
+Java/Kotlin development with the Android SDK
+Apple iOS development with Objective-C, Swift or other
+An eye for web/graphic design and UX definitions

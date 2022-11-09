@@ -1,0 +1,16 @@
+About the job
+Backend Developer
+Concept: Hospitality/Leisure
+Location: London, hybrid
+Salary: Up to £70,000
+We are working with an exciting leisure business that has growth and development in its near future. Post pandemic the business has pivoted and increased its digital offering, and as such is looking for a backend developer. You will be working closely with both internal and external stakeholders, the chief technical officer and senior IT developer. This role is remote/hybrid, there will be the need to occasionally be on site in London
+BACKEND DEVELOPER KEY RESPONSIBLITIES:
+Developing functionality for new cloud-based CRM
+Developing RESTful API using a customised version of Strapi
+Developing PostgreSQL database
+Maintaining existing applications using MSSQL, jQuery, jQuery mobile
+Creating and Supporting SSRS reports and subscriptions
+Performing data analysis using SQL
+Tech stack used?
+HTML, Javascript, Jquery, Bootstrap, Apache, Node.js, CSS, Java
+SQL, MSSQL, SSRS, Restful API

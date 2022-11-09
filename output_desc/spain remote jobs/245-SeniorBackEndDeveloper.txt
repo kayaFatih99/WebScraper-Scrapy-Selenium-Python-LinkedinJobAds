@@ -1,0 +1,62 @@
+About the job
+About Appspace:
+At Appspace, we’re passionate about creating better work experiences for people everywhere, and we’re looking for people that feel the same way. Our global office locations and flexible work culture help you work wherever and however you’re at your best. Plus, we take the time to help you enjoy your work, build lasting connections, and grow your role. Join the Appspace team and be a part of a culture that’s helping people everywhere love where they work.
+
+Your role as a Back-End Developer:
+You are an innovative and talented Back-End Developer that wants to specialize in .NET, passionate about every single aspect of your job and with a personal mission to impact the user experience of our clients. With an ambition to work in an innovative and out-of-the-box single product and look at it as your own.
+
+
+A day in the life of a Back-End Developer:
+Ownership and accountability of product features from technical design to delivery, identifying possible risks in collaboration with stakeholders (product owner, QA…)
+Identify system’s tech debt and propose specific strategies to solve them
+Support the team in following and applying DoD of the developments in order to achieve defined milestones
+Producing testable, performant and technically efficient code according to our internal strategy (unit and integration testing, performance metrics)
+Share technical specifications and technical solution designs in an understandable way
+Assess improvements and alternative solutions through research and investigation of new technologies
+
+
+What you’ll need:
+Minimum of 5 years of experience in designing, developing, configuring, and implementing diverse enterprise applications with an object-oriented language
+Proven knowledge with .NET Framework Programming and ASP.NET solutions (no minimum experience needed)
+Experience with MVC, Web API frameworks (ASP.NET or others) and RESTful API
+Experience with an ORM framework (Nhibernate/Hibernate, EF…)
+Experience with relational database querying and modeling
+Deep knowledge of SOLID principles and how to apply them
+Hands on experience with unit, integration, API and performance testing
+Have strong interpersonal and communication skills (and love to interact with people from many different cultures and disciplines)
+Focus in applying design patterns, best practices and delivering testable and highly maintainable code on a daily basis
+Highly interested in software crafting methodologies (Calisthenics, TDD, BDD…)
+
+
+What we’ll also value:
+Experience with SharePoint and Office 365 solutions
+DevOps skills
+Knowledge about OAuth and OpenId
+Experience with GraphQL
+Knowledge about NOSQL databases (document-oriented or key-value)
+Knowledge about Microservices and/or Modular monolithic architecture
+Knowledge about architectures like DDD, Onion, Hexagonal, Ports & Adapters and patterns like CQRS
+Experience with building cloud-based solutions. Knowledge of Azure platform functioning and capabilities.
+Knowledge about event buses (Kafka, RabbitMQ…)
+Experience with dockerized applications
+
+
+
+The Perks of Working for Appspace:
+For all our team members, we offer a variety of benefits from competitive salaries, employer paid medical, dental and vision coverage and mental health resources.
+
+Additional perks include:
+Flexible work schedules
+Remote work opportunities
+A casual dress work environment
+1/2 day Friday's
+Reduced working hours in August
+Gym allowance
+Training allowance
+Training days off
+
+
+Disclaimer:
+Appspace Inc. is an equal opportunity employer. All aspects of employment, including recruiting, hiring, placement, promotion, termination, compensation, and training are decided based on qualifications, merit, and business needs. We do not discriminate on the basis of race, color, religion or belief, marital status, sex, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy (including childbirth, lactation, or related medical conditions), gender, gender identity and/or expression, genetic information, sexual orientation, family or parental status, veteran status, or any other status protected under federal, state, or local laws.
+
+Appspace is committed to creating a diverse and inclusive workplace and does not tolerate discrimination or harassment of any kind.

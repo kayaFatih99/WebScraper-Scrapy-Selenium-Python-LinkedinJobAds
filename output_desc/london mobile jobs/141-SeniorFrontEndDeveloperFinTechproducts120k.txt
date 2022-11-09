@@ -1,0 +1,27 @@
+About the job
+React Native Developer
+JavaScript
+React Native
+Typescript
+
+We are looking for an experienced React Native Developer to join a fast-growing London-based FinTech.
+
+Offering multiple products that allow for an all-in-one expenses solution, giving businesses, finance teams, and employees more flexibility and control over spending, there is the chance to shape the future. You will be growing out and improving the scalability of the application that is used by big name brands across a number of industries.
+
+The mobile app allows for a complete expense solution in your pocket – including control over the money card, tracking spending, and security settings.
+
+You will be:
+Developing and testing new user-facing features, and supporting existing ones across multiple platforms and devices.
+Building reusable code components and libraries for future use.
+Architecting app infrastructure systems.
+Optimising pages, code, and assets for maximum speed and scalability
+
+Within this role, there is a good opportunity to grow, shape, and develop the mobile app, whilst growing out the team in 12-18months down the line.
+
+Requirements:
+Previous professional Senior Developer working in JavaScript and React Native experience is essential.
+Experience integrating first and third-party services, including REST APIs and analytics.
+
+As well as an incredibly competitive base salary that goes up to £90k, you get equity, making this an incredible opportunity.
+
+If this sounds good to you, I’d love to hear from you! :)

@@ -1,0 +1,42 @@
+About the job
+We're not a recruitment agency.
+
+We provide quality embedded recruitment, on a subscription-based model that’s flexible to suit your needs. We operate within your business and provide a full-service hiring solution for a cost-effective monthly subscription.
+
+At motors.co.uk we believe a car can help people get more out of life and it is our ambition to help everybody find the right car, confidently and with peace of mind. That’s why we are transforming motors.co.uk into the preferred destination to find a car, so people can spend less time searching and more time living.
+
+About the role:
+We are looking for a highly skilled Staff Backend Engineer to become part of our Motors business and help develop and deliver our new platform strategy.
+
+We are embarking on a significant business transformation project as we migrate from legacy platform technologies to our new Java and Google Cloud based platform. We need a top-notch Staff Backend Engineer to join our team and to help guide the technology teams through this journey.
+
+As a Staff Backend Engineer you’ll be reporting to an Engineering Manager, while being an active contributor. You’ll be relied upon to deliver high impact, high value work, involved in our most challenging problems. You’ll be focused on breaking down long-term projects and mobilising engineers to deliver.
+
+Main responsibilities:
+You will be positioned as a Technical Authority, with influence and responsibility across multiple squads and projects.
+
+Proactively drive cross-team work
+Champion best practice and guide others, whilst being pragmatic with technical choices and trade-offs
+Actively drive the technology strategy for your discipline
+Lead large scale, complex and strategic engineering projects
+Enable the growth of the engineering department by supporting hiring, onboarding and mentoring
+Make meaningful contributions to company goals and be focused on increasing company value over time
+
+Role requirements:
+Proven track record of implementing significant improvements in quality, performance, stability and scalability to platforms
+Significant experience leading architectural system designs
+Experience with developing strategies for their engineering discipline and getting buy-in
+Experience working with product-market and product leadership
+Experience fostering strong engineering cultures, DevOps Culture, TDD Culture, etc
+Experience in the following technologies:
+Java 11+ development
+Spring Boot and Maven
+Kubernetes and Docker in a GCP environment
+Jenkins
+Junit
+Previous experience with the following is a bonus:
+Open API
+Building highly scalable REST APIs
+Messaging based services using Confluent Kafka/GCP Pub/Sub
+Event Sourcing/CQRS services using Axon framework
+GCP technologies, GCS, Monitoring

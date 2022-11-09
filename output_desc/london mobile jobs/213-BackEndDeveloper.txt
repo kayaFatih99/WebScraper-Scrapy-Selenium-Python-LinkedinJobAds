@@ -1,0 +1,7 @@
+About the job
+Java Developer - Full Cloud Environment
+A pioneering tech-focused company at the cutting edge of the insurance industry is looking for exceptional developers with 2+ years of experience to join their team in London. They are working in a recession-proof market and are looking to double in size within the next year!
+Full cloud environment from day one. They are building a purpose-built digital insurance platform, working with the latest technologies. As a Java Developer, you will be Developing new microservices and working on greenfield projects using AWS.
+From a Tech perspective you will be utilising Java 8/11, Spring, Microservices, RESTful API’s. The team have a very flat hierarchy and the engineers are encouraged to use new technologies. Recently the team decided to build four microservices in Kotlin as it was the best tool for the job!
+Apply now for immediate consideration for this excellent Java Developer opportunity!
+Understanding Recruitment is acting as an employment agency for this Java Developer vacancy.

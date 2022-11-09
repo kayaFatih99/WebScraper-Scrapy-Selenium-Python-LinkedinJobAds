@@ -1,0 +1,27 @@
+About the job
+Angular / Ionic Engineer
+
+
+About the project:
+● Working on an exciting project for a software company focussed on developing solutions for housing services and government authorities.
+● The project is a reinvention of an existing product, architecting the solution and introducing a number of new interactive features including p2p messaging and b2c messaging.
+● Delivering across 3 platforms - web, Android and iOS - Ionic will be utilized through delivery.
+● The project is based in the UK, but the team is remote.
+● Will require someone available for 40 hours a week (full time) for upwards of 11 months.
+
+Responsibilities:
+● Will be collaborating with business analysts and product owners to resolve requirements gaps and conflicts.
+● Implement unit tests (all) and drive quality throughout the development lifecycle, leading the team in best quality best practice.
+● Clear and timely communicator in English (conversational +) managing and escalating issues which might impact throughput or quality to the Project Manager and Tech Leadership
+● Provide technical support and guidance to other members of the team.
+
+Technical Requirements:
+● Looking for a Lead AngularJS Engineer (Angular 7+)
+● Experts in HTML5 / CSS and Responsive Web Design
+● Experience with Ionic is a huge plus, since the app will be delivered on 3 platforms: Web, Android, IOS.
+● Experience with source control tools (e.g. GIT, SVN, PVCS)
+● Familiarity with agile development tooling (e.g. Jira)
+● Well versed in Continuous integration and testing tooling and optimization (e.g. Jenkins, Hudson, BuildBot etc.)
+● Experience using BDD Frameworks incl Cucumber
+● Able to perform root cause analysis of problems and identify a solution to the problem.
+● Experience leading teams and driving architectural decisions from well considered inputs from the broader team.

@@ -1,0 +1,56 @@
+About the job
+The Body Coach is on a mission to make the world fitter, healthier and happier. Founded by Joe Wicks, the brand is already impacting millions of lives around the world.
+
+We are growing fast, and we are looking for the best people to help us on the next chapter of our journey.
+
+About Us
+
+Founded in 2012, the Body Coach has grown to become one of the biggest and most loved fitness brands in the UK. Joe Wicks started the journey handing out flyers at his local train station, trying to get customers to join his outdoor bootcamps in the park. Ten years and 600,000 clients later, the Body Coach brand is recognised around the world, and known for its accessible and fun approach to fitness and nutrition.
+
+Now with the recently launched Body Coach app, the business is reaching more people than ever before, and we are building a team to help us make an even bigger impact.
+
+“Fitness can transform our physical and mental health. My dream is for it to help millions of people, no matter how fit you are, to smash your goals and feel amazing” - Joe Wicks
+
+The Role
+
+We are looking for a self-directed Senior Android Engineer to help take The Body Coach to the next level.
+
+We have already built an impressive, progressive technical infrastructure, implemented a complete custom backend along with native mobile apps for iOS and Android using best-in-class technologies.
+
+We’re committed to creating incredible digital products for our customers and fans and are building a product engineering team to deliver those plans. Come join us!
+
+What You'll Do
+Work in a cross-functional team containing other Android Engineers, iOS Engineers, Full-Stack Engineers, Designers and Product Managers.
+Contribute to Android architectural direction and strategy, in partnership with our Principal Mobile Engineer and Head of Engineering.
+Help prioritise the technical parts of the roadmap, partnering with product to continuously monitor and deal with technical debt.
+Work with fellow engineers to break down work and deliver high-quality user experiences.
+Support the Head of Engineering and our People team to help with the hiring, onboarding and retention of diverse and talented software engineers.
+We’re a remote friendly business; as a team we get together once a month to plan for the future and catch up with each other.
+
+Requirements
+
+Please consider applying even if you don’t think you tick everything below.
+You’re a product minded software engineer.
+Highly skilled in Kotlin, the latest Android SDKs and APIs.
+A love of mobile user interface best practices and an understanding of the impact it has on customers interactions with products.
+You’ll value well-thought-out and straightforward solutions to problems.
+Automation and release pipeline experience.
+You’ll have contributed to multiple Android projects, have a depth of experience in the Android ecosystem.
+You have assisted in building and growing engineering teams.
+
+Salary - Up to £85k depending on experience.
+
+Benefits
+
+Why join us?
+
+We are on a mission to make the world fitter, healthier and happier. We are already impacting millions of people’s lives all over the world, but we are just getting started…
+
+Our Benefits
+We live by our mission - you’ll get lifetime membership to the Body Coach App (you’ll also get a friends and family discount...get ready to be popular!) and discounts from our partners.
+You can take time out of your day, on top of your lunchbreak, to work out.
+26 days holiday, along with Christmas Eve and a day off on your birthday (28 in total) in addition to public holidays, a company pension and personal development budget.
+We offer private healthcare, a generous company pension, personal development budget and enhanced gender-neutral parental leave policy.
+A fun, inclusive workplace that celebrates diversity in all its forms, and where everyone feels they can bring their whole selves to work and be treated fairly, equitably and respectfully.
+
+In keeping with the values of the Body Coach, we make all employment decisions without regard to race, sex, colour, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.

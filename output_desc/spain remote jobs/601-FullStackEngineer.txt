@@ -1,0 +1,28 @@
+About the job
+We are looking for a freelance Full Stack Dev to provide cover for the months of November and December 2022. This will be a remote post consisting of 5-8 hrs per day, 5 days per week, dependant on project flow. There may also be a possibility of further collaboration following the 2 months cover period for the right candidate.
+
+Requirements:
+* High level of English (Basic/mid level Spanish would be a bonus)
+* Must be freelance and able to provide invoices
+* Preferably Spain/Europe based
+* Strong work ethic
+* Strong comm skills
+* Reliable and honest
+* References for last role
+* Minimum 5 years experience in a Rad Web development and competent in Adhoc web service testing
+
+Core Skills:
+* High level of PHP, CSS, HTML5, JS, JQUERY, MARIA DB AND MSQL5, .htaccess, FTP, WHM, cPanel, Stripe and payment processing, understanding of UI and UX design practices
+* Ability to produce structured code in accordance with WC3 web standards
+* Competent using WP, Joomla, Drupal, ModX, Squarespace, WIX, Elementor, Gutenberg and WP Bakery
+* Competent in command line, terminal and SSH for all server OS
+* Competent at email server set up, routing and security
+* Competent at configuring SSL certs and associated functions for Lets Encrypt and other providers over SSH
+* Ability to troubleshoot and problem solve without instruction
+* Ability to work under pressure and to deadlines
+* Ability to provide clear and measured responses to Managers & Directors regarding dev projects
+* Produce project timelines based on project requirements and evaluate costings.
+
+Salary based on experience.
+If you are interested, please send a cover note along with your CV to craig@peppermintcreate.com
+Closing Date 30th October 2022.

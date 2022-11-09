@@ -1,0 +1,24 @@
+About the job
+Lead Backend Developer (C#/.NET)
+Fully remote
+Salary €80,000
+Backend developer required to join an amazing team of high-performing gaming experts that pride themselves on their transparent leadership style and their friendly atmosphere. This is the perfect position to enhance your skills and work on state-of-the-art projects with high-profile partners.
+Some of what you will be doing:
+· Developing code for games
+· Working with current projects
+· Solving complex problems in a distributed environment
+· Working with testing frameworks
+· Integrating gaming industry ecosystems
+· Leading a team
+Ideally, your skills and experience will include:
+· Good communication skills (fluent in English)
+· Experience working on applications with a high scale of users
+· 5 years’ experience using (C#/.NET)
+· Good knowledge of relational databases
+· Experience using agile
+· Knowledge using cloud infrastructure (AWS, Azure)
+· Understanding of docker and Kubernetes
+· 5 years of experience as a backend developer
+· Good knowledge of version control (Git, SVN)
+· Good experience with RESTful APIS
+· Leadership experience

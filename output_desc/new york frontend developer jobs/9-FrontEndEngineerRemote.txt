@@ -1,0 +1,55 @@
+About the job
+ABOUT US:
+
+Braintrust is the only network that gives in-demand talent all the freedom of freelance with all the benefits, community and stability of a full-time role. As the first decentralized talent network, our revolutionary Web3 model ensures the community that relies on Braintrust to find work are the same people who own and build it through the blockchain token, BTRST. So unlike other marketplaces that take 20% to 50% of talent earnings, Braintrust allows talent to keep 100% of earnings and to vote on key changes to improve the network. Braintrust is working to change the way freelance works – for good.
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Remote - Work from anywhere (TimeZone: PST/CIST | Partial overlap)
+HOURLY RANGE: Our client is looking to pay $35 – $55/hr
+ESTIMATED DURATION: 40h/week - Long-term
+
+THE OPPORTUNITY
+
+Requirements
+
+About you:
+Production level development experience building frontend applications and packages using React.
+Experience with NodeJS
+Demonstrated skill in working with HTML, Javascript, or Typescript.
+Experience collaborating with stakeholders such as product managers, designers, and QA engineers
+Education in Computer Science, Engineering, or training in a related field
+Comfortable with using tools like Slack, GitHub and Atlassian/Confluence
+Strong communication and teamwork skills
+
+Nice to have
+Vue experience
+Python experience
+Enterprise SaaS experience
+
+Overview of role:
+
+Our client's team is dedicated to improving the experience of today's professionals while helping companies serve and retain their customers through intelligent escalations, proactive interactions, and problem resolutions. In order to serve their customers in a way that enables them to serve their users, they are currently seeking customer-centric, energetic, and highly motivated individuals to join their Application Engineering Team. The application engineers are responsible for building and scaling the experiences powered by their Frontend stack built on top of React framework. This is an exciting opportunity for someone looking to take ownership of breaking down product requirements into beautiful and simple experiences for customers.
+
+How your work will support the growth:
+Build applications experience that drives simple and intuitive experiences
+Partner with product managers and designers in evaluating the user experience and its implementation possibilities
+Partner with other engineers to define the technical roadmap for the team
+Scope, develop, test, and support engineering needs of their product initiatives
+Advocate for better software development tools, and practices to help build a transparent engineering culture
+Participate in scrum activities to plan, develop and release working software
+Mentor other engineers, helping them pick up strong software engineering practices
+
+About Our Client
+
+Our client is a platform that elevates customer service experience by leveraging natural language processing (NLP) and machine learning (ML). The platform seamlessly integrates with your existing ticketing system (such as Salesforce Service Cloud, Zendesk, and Microsoft Dynamics), and reads all the comments in every ticket to extract key signals related to customer sentiment and churn, predicting outcomes and providing proactive recommendations. Customer Support and Success organizations use the platform to stay on top of how their customers feel about them thus improving customer relationships, products, and operations.
+
+They are a well-funded startup with investments from top-tier investors in Silicon Valley (Sorenson Ventures, Sierra Ventures) and a customer list that is a who’s-who of Enterprise IT companies. They are privileged to have customers who are not only outspoken fans of their product but also prove it by renewing it every year.
+
+Apply Now!
+
+ABOUT THE HIRING PROCESS:
+
+Qualified candidates will be invited to do a screening interview with the Braintrust staff. We will answer your questions about the project, and our platform. If we determine it is the right fit for both parties, we'll invite you to join the platform and create a profile to apply directly for this project.
+
+C2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.

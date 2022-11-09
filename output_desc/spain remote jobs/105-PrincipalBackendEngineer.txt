@@ -1,0 +1,48 @@
+About the job
+We’re looking for a Principal Backend Engineer who will bring expertise and strongly impact our technology and development. As someone that cares about outcomes and people, you’ll be the go-to person for helping others and finding the most efficient solutions.
+
+Your deep knowledge in specialisms means you’ll be able to improve our environment and drive success. Our mission is ambitious and underpinned by our Principles (no pun intended). You’ll use the in-depth knowledge of Pento and your technical expertise to impact our platform and partner business strategy with tactical prioritisation decisions.
+
+The role 💬
+You’ll lead and inspire teams to focus on the customer impact and drive excellence at speed. You'll ensure Engineering Managers are focused on the most impactful areas and that work follows best practices and standards, and are able to deliver the desired outcomes quickly with high quality.
+
+Our Principal Engineers will be accountable for the direction of design and architecture. You’ll monitor technical performance across multiple squads and partner with Engineering Managers to mentor and grow the team.
+
+You will raise the bar for our engineering team by creating and evolving chapter-wise best practices, and using your expertise, you’ll be able to anticipate the dependencies and needs of teams, customers and users and develop roadmaps that turn into projects and initiatives across your squads.
+
+Our tech stack ⚙️
+We build and host our application and tools using modern and reliable technologies that our team knows and trusts, including React, GraphQL, Golang, Node.js, PostgreSQL, Docker and Kubernetes.
+
+Our levelling 🪜
+The salary band for this L5 role is £120-135k. Titles and compensation at Pento are dependent on our internal levelling (L1-6), which we'll assess throughout the interview process. We can't guarantee titles and compensation until later in our process once we've assessed competencies, technical skills, and where you land on our frameworks.
+
+Your qualities 💎
+You own your impact. You find a way to make things happen, and your word is your bond - when you say something will happen, it happens.
+You lead with respect and candour. As an established leader in the community, you’re recognised for your deep knowledge in your core development specialism. You consistently help other engineers step up and grow whilst being able to find efficient solutions for other people's problems.
+You innovate, lead projects and drive change within a business. Through the systems you design and develop, you can deliver business value and high-quality work. You’re able to balance multiple goals across R&D whilst addressing concerns and turning problems and unclear goals into achievable projects.
+You’re able to advise and impact engineering strategy. With your expert knowledge of at least two core development specialisms and your track record of advising various technical and non-technical stakeholders, you can steer an engineering strategy and work with leadership in urgent situations using your deep understanding of the products and services you’ve worked on.
+You communicate intentionally. Your communication brings out the best of others. You can communicate strategy and present your findings company-wide and outside a company. You promote a culture of constructive feedback and praise and are an example that can provide feedback that enables others to develop.
+
+Your experience ✨
+You've had a successful track record as a Principal or Staff Engineer in another company and can articulate and demonstrate your development over time
+You've got deep understanding and experience in multiple engineering specialisations
+You can articulate how you hold yourself and others to high bars of technical excellence
+You can design and develop complex systems that scale
+You can give great examples of where you've been able to help engineering teams figure out the why, the what, and the how and that you're also able to do on problems of complexity and scale
+
+Working at Pento 🖥
+Our people-first environment supports our team in adopting flexible and tailored ways of working. You can learn more about who we are and how we like to work over at Pento Home.
+Our benefits include:
+An equity option plan so you can benefit from our success
+Flexible working, and the best tech and home set-up equipment of your choice
+Unlimited time off and yearly team summits
+Mental health support via Spill, one of our most-valued benefits (rated 9.3/10 from the team)
+The opportunity to join an early-stage tech company on an incredible trajectory
+You can read more about our broader perks here.[ https://www.notion.so/Perks-29ce27e91c804f72ae1c6e8711d7c0b0].
+
+Don’t worry about your past experience being a 100% fit; we know that’s practically impossible anyway! If this sounds like an interesting opportunity to you, and you resonate with the role and the impact it will drive, let’s talk.
+
+We're committed to building a team capable of building a product for everyone, representing different and varied backgrounds, perspectives and experiences. We welcome applications from everyone, regardless of gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, and just about anything else.
+
+Your location 🌍
+For teams that have access to customer data (typically within Customer Success, Engineering, or Customer Support), we require that employees are based in the EU/EEA for contractual data transfer reasons. If you are applying to such a role from a non EU/EEA country, and open to relocation, please select your preferred EU/EEA location, and select that you would require Pento to provide a visa.

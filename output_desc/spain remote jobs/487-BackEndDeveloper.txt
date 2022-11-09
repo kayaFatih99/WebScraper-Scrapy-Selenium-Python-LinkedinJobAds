@@ -1,0 +1,31 @@
+About the job
+Spread across three offices in the UK, Italy, and Cyprus, we are one global team of 180+ people with a unified vision for the future of finance. We are currently looking for talented people keen to define the fintech revolution and help the brand shift from a start-up to a substantial industry presence. If you want to make an impact, then we can’t wait to have you with us for the journey!
+
+We are looking for a Senior Backend Developer (Python)
+
+In this Role you will:
+
+Collaborate with product owners, designers and other developers to build a best-in-class experience for our customers;
+Write effective, scalable code;
+Develop back-end components to improve responsiveness and overall performance.
+Integrate user-facing elements into the application;
+Rapidly fix bugs and solve problems for our customers;
+Implement security and data protection solutions;
+Assess and prioritise feature requests with data-informed product development (analytics, A/B testing, etc.).
+
+Your Profile and Mindset:
+
+Ability to find your way in a non-trivial codebase;
+Understanding of functional programming principles;
+Understanding of test driven development (TDD), and desire to write tests;
+Broad understanding of the concept of minimum viable product and conversion rates;
+Ability to work independently and plan your own solutions to problems;
+Passion for technology, product and user experience.
+
+Requirements:
+
+Knowledge of Python and the Pythonic way of solving problems;
+Knowledge of PostgreSQL and database design principles;
+Knowledge of object-relational mapping (ORM);
+Familiarity with front-end technologies (like JavaScript and HTML5);
+Excellent English communication skills, both verbal and written.

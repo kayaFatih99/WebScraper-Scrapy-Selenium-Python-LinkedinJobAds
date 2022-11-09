@@ -1,0 +1,48 @@
+About the job
+Description
+
+Backend Software Engineer
+
+We’re looking for talented, friendly and experienced Software Engineers to help build our suite of customer facing products. Here in the Treatwell tech team we’re a nice bunch, we love to ship software and we like to think we’re pretty smart. We believe in Agile principles and values, our teams typically use Kanban and various XP practices, we love DDD and are using an event driven architecture to further decouple our applications and increase resilience. We like to use the right tech for the job but we don’t get seduced by the latest shiny fads. In this role, you will make a meaningful contribution in ensuring we make the right decisions.
+
+You will be working on a variety of exciting technologies. Our application code is written in Java 11 using Spring Boot, Hibernate and Immutables. We use Redis for caching, Elasticsearch powers our venue searching and RabbitMQ is our message broker. Your application will be deployed within Docker containers and monitored using Prometheus. Everything runs in AWS.
+
+You Will Be Responsible For
+Working as part of a cross functional Agile team writing and shipping high quality code frequently.
+Do whatever you can to help your team meet or exceed its goals and you will drive incremental improvements in both the way we work and the software we deliver.
+You will help your teammates to become more effective and grow their skills.
+We do things well, but we’re not complacent. We want to do great work and to be known for it. We are breaking up our applications into microservices that are well tested, independently deployable and highly observable.
+Be part of an empowered team to operate independently and to ship to production as frequently as you see fit.
+Helping us to realise this vision and accelerate the journey, knowing what great technology looks like and mentoring our existing team.
+
+About You
+You’ve written Java professionally.
+You’ve worked with some of our tech stack and can learn the rest very quickly.
+You’ve been part of a high-performing, autonomous Agile development team who deliver continuously.
+You get a kick out of mentoring and empowering the team around you.
+You have a deep understanding of how distributed applications are designed and built.
+You know good technical design when you see it and how to ensure quality is embedded in the software development process.
+You’re a good communicator, fun to work with and enjoy being part of a vocal, passionate team.
+You’re active in the software development community, whether through blogs, meetups, personal projects or open source contributions.
+
+About Treatwell
+
+Hi, we’re Treatwell. Nice to meet you.
+
+We’re a team of 800 (and growing) passionate and brilliantly talented people across Europe. We’re the industry’s smartest salon management software, all connected to Europe’s leading booking platform, working with over 50,000 salon partners across 13 countries and processing over 8 million bookings every month. And….breathe.
+
+But we’re not done yet. We’re on an exciting journey to digitally revolutionise the hair and beauty community.
+
+If this excites you, we might have just the role for you.
+
+We’ll Treat You With
+28 days holiday, plus bank holidays
+Monthly £40 Treatwell vouchers so you can treat yourself too.
+Benefits platform offering cycle to work scheme, high street discounts and other perks.
+Growth funds for you to develop and grow with your team.
+A beneficial pension scheme and enhanced parental pay & leave policy.
+100% remote role with opportunity to work in our London office
+
+Equal Ops
+
+Treatwell is an ‘Open to All’ employer and warmly welcomes everybody to the team. We are committed to making reasonable adjustments to the recruitment process as required. Please add any adjustment requests to your application.

@@ -1,0 +1,59 @@
+About the job
+We’re looking for an iOS developer to join our Delight team!
+
+The Delight squad is a cross-functional empowered team, focussing directly on user facing problems. Our team charter is to bring delight to the Element consumer app and with 42 million users and counting, that's an inspiring goal. We build a strong foundational product for our users, implement requested features and enhancements, and experiment into new ideas, using data and working collaboratively. Our roadmap has us looking at key features for user happiness, bugs that cause churn and delivering delightful communication strategies such as notifications and room creation.
+
+As iOS Developer, you'll spend most of your time working on Element, our flagship iOS client, you can take a look at the code on here and here. Give it a spin!
+
+Here are examples of some of the team's recent projects:
+E2E Encryption by default and cross-signing.
+Rebranding Riot to Element.
+
+Since (almost) everything we do is open source you can get a great feel for exactly what it would be like to work on Element. Why not join our developer channel at #element-ios:matrix.org to provide a window into the core team and the community. Come and say hi!
+
+Requirements
+
+The most important thing is that you believe passionately in the mission of decentralisation of the internet. More specifically that you believe that communications should not be centralised in the hands of a small number of very large organisations and instead individuals should control their own data and choose who they share it with.
+
+We don’t have hard requirements for the role, we just want to build the best possible team, but we'd be particularly excited to speak to you if you have experience with some of the following:
+Designing and building performant, maintainable iOS applications in Swift and in Objective-C (Not all our codebase has been updated yet).
+a good knowledge and sensibility of UI/UX on iOS
+Designing UI using the Interface Builder
+Employing established UX conventions with an eye for aesthetic design
+Working with or as part of an open source community
+Providing and receiving peer code review
+Working in an Agile/Lean development environment
+
+Additionally we are looking for someone who is:
+Smart, curious and enthusiastic
+Passionate about building software people love
+A tireless advocate of code quality (understanding the need for trade-offs in the short term whilst keeping us honest in the long term)
+Empathetic, with both their colleagues and the end user
+Located in an EU/UK Time zone
+
+Why this role?
+Now is a great time to join: We’re well funded and have rising revenues from a host of interesting customers— from The French Government and Mozilla to others we’re not allowed to talk about yet(!).
+You’ll work on highly visible projects: Our early adopters are in the tens of millions and almost all of our work is open source and we receive regular feedback from our community of users. We’re figuring out how to best practise ‘open design’ in open source and you’ll be able to help shape that. We also speak regularly at conferences, meetups and talks.
+You’ll be joining a small mission-led team with a supportive culture. In this role, you’ll work alongside talented Engineers, Product Designers & other senior stakeholders sharpening your skills.
+
+Benefits
+
+People tend to stay with the company for a long time, we take this as a sign that we have a cohesive, supportive culture, that we have engaging challenging work and that people can develop their skills and careers here for the long term. We also have a family friendly environment, many of the team have small children and we look to accommodate that as best we can. Since our technology is relevant to anything that requires real-time comms, the role provides exposure to a wide range of domains from web and app dev through to VR, VoIP and IoT.
+
+Our package generally contains:
+Private Health Insurance
+Pension
+Annual Bonus
+Share Options
+Home Office Allowance
+Coworking Space Allowance
+Annual leave (40 days including local bank holidays)
+Company Socials (virtual or in person)
+Annual Global Offsite
+Plumm Health (mental health platform)
+
+You can find a more detailed explanation here and you might be eligible for other benefits depending on your location.
+
+Currently we can consider applicants, from these countries: Canada, Czech Republic, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Portugal, Spain, Sweden, Switzerland, UK, USA
+
+Element does not discriminate on the basis of race, sex, colour, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.

@@ -1,0 +1,32 @@
+About the job
+ITMAGINATION is looking for skilled Vue.js Developers with strong technology backgrounds. This is a great opportunity to work on innovative solutions in the investment banking domain focused on primary capital markets automation. Don not hesitate, apply today!
+
+What you’ll be doing:
+
+Create scalable, testable and efficient code using best practices
+Problem solving “on your feet” while paying attention to details.
+Strong ability to self-motivate and confidence in your ability to make decisions based on technical requirements
+Discover and fix programming bugs
+
+Requirements
+
+3+ years of relevant professional experience developing rich and responsive front end designs for web and mobile
+Experience in Vue.js is required
+Strong skills with Javascript(ES5, ES6), HTML5 and CSS3
+Experience with CSS Processors (Less, Sass), Experience with CSS Preprocessors (Less, Sass) and Post-Processors.
+Experience in front end frameworks like Angular and React.js would be beneficial but not required.
+Work with API back-end integration JSON based
+Create HTML/CSS pages from a design
+Demonstrated design and UX sensibilities
+Knowledge of cloud DSM, Wireframing and Prototype tools (e.g. Invision), usage of Sketch design software (Optional)
+A good written and spoken level of English
+
+Benefits
+
+Top Performers Bonus: earn a 13th salary based on clearly defined after engagement metrics
+Highly competitive salary
+Fully remote position
+Possibility of 20 business days off in each year
+Professional training programs – including Udemy and other development plans
+Work with a team that’s recognized for its excellence. We’ve been featured in the Deloitte Technology Fast 50 & FT 1000 rankings. We’ve also received the Great Place To Work® certification for three years in a row
+Benefits package offer - Health Insurance, Sports Package, and Life Insurance offerings

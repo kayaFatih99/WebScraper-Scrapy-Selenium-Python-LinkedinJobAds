@@ -1,0 +1,37 @@
+About the job
+HCL Technologies is an Indian-born global technology company helping companies reinvent their businesses for the digital age. HCL provides end-to-end services across industry verticals to leading companies, including 250 of the Fortune 500 and 650 of the Global 2000.
+
+Our goal is to strengthen the brand in Spain.
+
+We have mostly international projects, something very positive for the professional and personal growth of employees.
+
+We are looking for a Front-end developer to join our team in Spain.
+
+What you are going to do
+
+(1.) To ensure process compliance in the assigned module and participate in technical discussions or review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).
+(2.) To develop and guide the team members in enhancing their technical capabilities and increasing productivity
+(3.) To prepare and submit status reports for minimizing exposure and risks on the project or closure of escalations.
+(4.) To be responsible for providing technical guidance or solutions; define, advocate, and implement best practices and coding standards for the team.
+
+What we are looking for
+
+It is mandatory to have:
+Proven experience with javascript
+Good knowledge in Angular
+Experience with React
+Good oral and written communication skills in both Spanish and English
+Minimum 2 years of experience in the field
+
+Important to note:
+Certificate of Disability in Force. If you have a valid disability certificate, please contact us.
+
+Among HCL's principles we would like to highlight diversity and inclusion as a strength in our values and practices. To achieve all our objectives, it intends to attract, develop, and retain different profiles, assuming diversity as a key factor and differentiator of fundamental innovation in our organization. We welcome and value all people, and we are committed to the inclusion and sense of belonging of each person who is part of HCL.
+HCL is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.
+
+What we offer
+
+Permanent contract
+Attractive social benefits
+100% remote working
+Payed formation in SisNet Tool

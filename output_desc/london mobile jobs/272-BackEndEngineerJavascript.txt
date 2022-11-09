@@ -1,0 +1,23 @@
+About the job
+Fimatix are a leading Agile Software Delivery Consultancy who specialise in supplying both HM Government and Financial Services/FinTech clients. Our FinTech client has tasked our Talent Team to recruit a number of Backend Software Engineers on a permanent basis. These can be fully remote roles if needed, but offices are open to those who wish to work in a hybrid manner
+
+About You
+They are looking for talented and motivated backend developers to work clients core API’s and services. Their solution is written in Node.JS using a framework called NestJS - all of their backend code base is written in TypeScript and they are aiming for maximum test coverage on all of the code they write.
+You will get to use the latest technologies to solve exciting and challenging problems in the dynamic world of fintech and open-banking.
+They are looking for someone who is:
+Highly motivated JavaScript engineer, with commercial Node.js development experience.
+Experience of developing and working with REST APIs.
+Familiar with TypeScript
+Familiar with Relational Databases and ORMs and be able to create database schemas that represent and support business processes.
+Aware of emerging cloud-based technologies.
+Excellent communication, written and verbal.
+Strong problem solving and analysis skills
+Familiar with front-end technologies, such as HTML, CSS and JS frameworks
+CI / CD process aware and capable building and maintaining a development pipeline
+
+Key responsibilities
+Engineer efficient solutions by writing reusable, testable, and efficient code.
+Deliver continuous improvement to the code base with a critical focus on security and scalability.
+Work with others and be responsible for the delivery of new features for our APIs.
+Help and mentor others and maintain a supportive and nurturing culture by sharing your experience and providing opportunities for others to learn new skills.
+Participate in Code reviews, Merge requests, writing and maintaining Issues

@@ -1,0 +1,44 @@
+About the job
+💼 Contract: Freelance
+🌎 Location: Remote / Europe
+💰 Rate : 35-45€ / hour
+
+
+About Ciao
+We are developing a multi tenant solution for the hybrid office management industry. We are looking for a senior full stack engineer to help build new functionality, maintain existing functionality, and ensure quality and standards are high.
+
+About the Product development Team
+We are a high-functioning team of cross-functional developers, working in an agile environment towards a common goal of creating a great, sustainable platform for Ciao.
+We believe soft skills such as having empathy, a growth mindset, and being respectful of each other are just as important as technical skills. We believe each role we add to the team to be equally important, and we all enjoy a sense of pride and ownership of what we do.
+
+What you will do
+Define, build and maintain features and solutions within our platform
+Taking ownership of stories and feature development
+Be part of understanding and deciding architectural decisions
+Working closely with the existing development team on new functionality, and releases
+Working closely with UX to ensure intuitive and innovative user journeys and experience
+Working closely with QA to ensure good testing practices are maintained
+Collaborate with key stakeholders to aid with planning and strategy to ensure good test coverage on new and existing functionality
+Create and maintain documentation, participate in code reviews, etc
+Participate in agile rituals such as daily standups, retrospectives, and planning sessions
+
+What you bring
+Strong knowledge of the Javascript and Typescript stack
+Front end experience with React.
+Experience with Node.js / Ts.ED / Nest.js (or other similar backend framework)
+Mobile (Capacitor.js + Android + iOS) experience is useful
+The ability to guide, coach and mentor other members of the team
+Strong communication and interpersonal skills
+Experience with agile / scrum based development
+Some experience with TDD / BDD testing methodologies
+Some experience with automated testing frameworks (Jest, Cypress, Appium, etc)
+Some experience with various testing strategies (unit, integration, E2E, UI, smoke, regression)
+Strong fluency in English
+
+What you get
+Working with a great team of experienced professionals
+Being fully flexible with working hours and remote location
+Trusting and open culture with stakeholders setting realistic expectations
+Contract / Freelancer role. 35-45 Euros per hour (depending on experience)
+
+🌎 Remote / Europe

@@ -1,0 +1,24 @@
+About the job
+En reclamador.es estamos buscando personas que quieran crecer profesionalmente con el equipo de Tecnología, que puedan ayudarnos a crear nuevos productos y a mejorar los ya existentes. Valoramos a las personas curiosas, ambiciosas y dispuestas a impulsar el mundo del LegalTech. Tu opinión será escuchada y valorada por todo el equipo. La toma de decisiones se hace en equipo, compartimos esa responsabilidad.
+
+🔎Habilidades que buscamos:
+Varios años con Python, Django/Flask y FastAPI.
+GIT para control de versiones.
+Bases de datos relacionales.
+Nociones de tests unitarios de código.
+Conocimientos en Docker.
+
+📄¿Qué más valoramos?
+Cultura DevOps, nosotros programamos, nosotros desplegamos. Por tanto, si has montado algún entorno de desarrollo sabes de lo que estamos hablando. Esto incluye conocimientos de Kubernetes por ejemplo.
+Conocimientos de herramientas de CD/CI.
+Conocimientos de AWS (RDS, EC2, EKS, S3, ECR…)
+Clean architecture
+
+➡️Qué podemos ofrecerte:
+Contrato indefinido desde el principio.
+Horario flexible
+Teletrabajo 100% (Sólo una vez al mes, nos vemos en la oficina)
+Un gran ambiente de trabajo.
+Eventos de empresa.
+Planes de Formación
+Únete al equipo!

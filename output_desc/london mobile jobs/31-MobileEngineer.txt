@@ -1,0 +1,35 @@
+About the job
+At Lilli, we care deeply about delivering the best UX to our customers. Today we offer a progressive web app to our customers. We want to take the next leap forward and build a Native app that will deliver high UX and real-time on Android and iOS platforms. The app is being built with React Native, with the view to maximise code sharing across Web, Android, and iOS.
+
+The app will explain complex data and insights to customers via an intuitive UI. It will integrate with underlying platform capabilities such as Apple Health and Google Fit. The app will also integrate and manage the first party and external IoT devices in the house
+
+Our Apps team today is formed of 2 Engineers and a Product Manager. We are looking for a passionate Mobile Engineer to join the team to deliver high-quality product to our customers
+
+Responsibilities:
+Review code, participate in scoping and planning sessions with team members.
+Independently deliver user stories, write tests and capture quality, performance metrics
+Collaborate with other teams to ensure the quality and integrity of the platform
+Participate in scoping, prioritisation and design discussion with your team
+
+Requirements
+
+Must have:
+At least 2 years of experience as a React Native Engineer
+Strong communication skills
+Strong experience in programming in React Native.
+You’ve been part of a team that shipped high quality native app in the App Stores
+A product mindset: you care about customer experience and you are passionate about quality
+You love turning excellent design into beautiful products
+An understanding of underlying platform APIs and capabilities for either iOS or Android
+Nice to haves:
+Experience with Biometrics authentication, Apple Home, Google Fit APIs
+Experience with WebSockets and other push technologies
+Experience with Typescript
+
+Benefits
+We have a flexible work schedule, this means you choose when you work and how you work
+We are remote-first and believe that having an inspiring space to work is important. We don’t have an office so we will provide everything you need to set you up at home, and if you need to find inspiration in work in a local co-working space or somewhere else then we will support that too
+We get together regularly to celebrate our teammates and our wins
+Cycle Scheme - You may not have an office to cycle to but we encourage you to get out onto the roads wherever you are
+We have a team dedicated to ensuring we have a solid working culture that is supportive and inclusive
+A generous 28 days’ annual leave and bank holidays

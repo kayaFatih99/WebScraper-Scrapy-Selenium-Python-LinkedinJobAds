@@ -1,0 +1,49 @@
+About the job
+We are looking for a Backend Engineer specializing in Ruby, Go, and 3rd Party Integrations to join our Integrations Team. We are currently a team of 5 backend developers working in 5-week-long iterations (inspired by “Shape Up”) to develop and maintain the billing system integrations that provide raw data to the heart of the ChartMogul platform. As an engineer on the Integrations team, you will have the opportunity to refine and improve on our existing interactions with major billing services such as Stripe and PayPal, as well as build new integrations with additional services that are on our roadmap. Because of our 5-week cycle structure, you’ll also have lots of opportunities to take ownership over a given feature or project, organize your own work, and see things through to completion.
+
+Responsibilities:
+Learn, understand, and use 3rd-party APIs efficiently to extract data from different billing services
+Collaborate on tackling problems and designing optimal solutions, not just implementing someone else’s design
+Investigate complex data to pinpoint precision issues and help improve customer trust in the product
+Create and maintain a reliable, developer-friendly test suite, and explain meaning through documentation
+Contribute to the quality of our codebase by reviewing pull requests and provide constructive feedback
+Look for new tools and strategies to optimize bottlenecks in our architecture
+
+Job requirements
+
+Professionally
+You have 2+ years working as a backend engineer in Ruby
+Experience in data processing and debugging data issues
+Good knowledge of software development fundamentals: how to structure programs and break down problems, where to apply patterns, and when and how to select the right paradigm for a task
+You speak English fluently, and you can understand nuanced product requirements and explain your designs clearly
+
+Nice to Have
+Working experience with Go
+Practical experience working with AWS, Docker/Kubernetes, Terraform, DataDog
+Practical knowledge of a data analytics tool, e.g. Spark, Elasticsearch, Hadoop
+Practical knowledge of asynchronous/parallel job orchestration such as Sidekiq, Faktory
+
+Behaviourally
+You're passionate about coding; you know how to design, test, deploy and monitor code
+You're pragmatic and can pick appropriate solutions given a set of constraints, avoiding over-engineering
+You're excited to learn new technologies, languages, tools, and best practices
+You're a proactive communicator; you communicate concerns and blockers early
+You're eager to learn, contribute to design, support others, and inspire change
+
+What is it like to work at ChartMogul?
+You'll receive a salary package in the range of 50,000 - 70,000 EUR / year (*Our range is set according to a market research conducted in the Berlin area. The final offer will depend on your experience & location.)
+Flexible hours with a healthy work-life balance
+All employees, including contractors, receive paid holiday days, sick days and paternity leave
+You'll join the adventures of an early-stage company and experience what it means to have an incredibly impactful job
+You'll become part of a team of friendly, awesome, and highly dedicated people who all have the same mission: Helping companies build better businesses!
+
+Application Process
+Application is reviewed
+Initial call with our tech recruiter
+Take-home assignment
+Interview with our Team Lead and a team member
+Meet our VP of Engineering
+Reference checks
+Offer
+
+This is a full-time remote position. Please note that we are only able to consider applicants who are eligible to work in the EU or South Korea at this time.

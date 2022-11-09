@@ -1,0 +1,66 @@
+About the job
+About Us
+
+Here at Xiatech, we believe that a great work-life balance leads to a contented and productive team. We enable all our teams to work remotely in order that they enjoy the flexibility and freedom to work at a time and place convenient to their lifestyle. Of course, when it comes to the serious stuff of doing business, everyone at Xiatech makes themselves available and delivers to a high standard.
+
+Using the latest in Open Source, Microservices, Big Data and Cloud technologies, Xiatech has developed Xfuze, an innovative Hyper-Integration Platform.
+
+Xfuze (https://www.xiatech.co.uk/platform/hyper-integration-platform/) provides organisations with three core capabilities in a single platform:
+1. Real-time system integration
+2. Real-time, single view of data
+3. Real-time, actionable insights, including predictive analytics
+
+The Role
+
+We’re looking for a Principal Software Engineer to define and develop the features and functionality of the Xfuza Platform, including involvement in the roadmap and prioritisation of new requirements. They will work closely with the CTO, CDO, Head of Engineering, client business teams, Xfuze project team, stakeholders and their peers in the technical development team, ensuring all requirements and views are represented in delivering the final Xfuze product. This includes all elements of the platform, including the integrations, APIs, Microservices, cloud services, data flows, dashboards, user interface, back office tooling and third-party plug-ins.
+
+You will be an integral part of the engineering team and work mostly remotely. There may be some requirements to travel, but this won’t be essential as the position will be primarily remote based. You will be working with the very latest technologies from our partners at Amazon, Google and Couchbase, and will be required to have prior experience in developing cutting edge, real-time integration or data related software.
+
+This is a fantastic opportunity for a driven individual looking for a role in a company which can offer career progression, personal development and on-the-job training. This exciting role will have a genuine impact from day one and will enable the right person to progress their career in a rapidly expanding organisation.
+
+Your duties will include:
+Working with the CTO, CDO, data team and wider business to develop the features and functionality required for expanding and optimising all elements of the Xfuze platform
+Clearly communicate all aspects of the Product (Xfuze platform) development on an ongoing basis to all stakeholders
+Understanding the relevant Epics and Stories from the product backlog in Jira 4. Where appropriate, work to the deadlines for the product development alongside the Project team, the Release Manager and Test Manager to define the release dates for the product features
+Attending daily stand-ups and working with the Project and Business teams to ensure that any blockers are owned and cleared providing any relevant escalations path for resolution
+Providing regular feedback to all stakeholders on the backlog and sprint achievements, communicating any delays
+Providing industry insight, innovation and relevant expertise to ensure the Xfuze product remains commercial competitive and efficient whilst optimising the brand and customer experience
+Partaking in the testing of newly delivered stories and ensure they deliver the required outcome
+Managing other Software Engineers (if interested in people management)
+
+Your Knowledge & Experience:
+Engineering background - Preferably Golang, or at least 2 years’ experience in any of C / C++ / C# / Java etc
+A working experience of Lambda & Kinesis (desirable)
+Integration (not ETL) and backend dev experience of low latency systems - not web development
+Experience in high throughput distributed systems & Microservices
+Good database experience - but not necessarily a DBA. Experience of NoSql document Databases like Couchbase / MongoDB (desirable)
+Some architecture and data modelling experience would be good, and there could be good progression to doing some architecture work for clients
+Cloud (AWS/CP/Azure) and DevOps (Cloudformation/Terraform/other) experience (highly desirable)
+Spark, BigQuery or Hadoop-type BigData knowledge (desirable)
+Excellent knowledge of the Agile development process and tools
+Good working knowledge of system integration and business requirements process
+Experience of working as a Senior Engineer on large scale integration or data platforms or similar
+Proven experience of working within large business transformation projects within complex technical and cultural environments
+Experience of working with large scale, high volume, real-time data, applications and infrastructure
+Excellent written and verbal communication skills at all levels, both technical and non-technical
+A strong passion for, and experience of working within a data-driven environment
+Ability to work directly with clients, talk to business, presentable, etc
+Can work on your own without constant supervision
+Experience with other third-party tools such as Business Objects, Cognos, MicroStrategy, Tableau, QlikView, Power BI, Adobe analytics, Google Analytics, Looker and any other similar applications (desirable)
+
+Your Personality
+Innovative
+Driven
+Resilient
+Insightful
+Empathetic
+Analytical
+Self-Starter
+Creative
+Problem solver
+
+If you would like the opportunity to join an established UK-based Software as a Service organisation who believe in using the latest leading-edge technology to drive business growth, please enquire now by emailing steph@xiatech.co.uk
+
+If you receive an offer of employment, this will be conditional upon satisfactory completion of a right to work & identity check, a reference check and a basic criminal record check for any unspent convictions.
+
+Xiatech is proud to be an equal opportunity employer and prohibits discrimination and harassment of any kind.

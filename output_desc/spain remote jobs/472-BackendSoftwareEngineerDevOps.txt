@@ -1,0 +1,57 @@
+About the job
+From creating the toolchain and coding automations used by our developers and cloud engineers, to designing and managing the environments used by our applications, DevOps plays a fundamental role in building and maintaining Avature.
+
+As Backend Software Engineer, you’ll be heavily involved in those tasks, while ensuring clear communication between our infrastructure and delivery teams, enabling collaboration across multiple engineering teams.
+
+Your challenges and objectives:
+
+Provide the environments where Avature's applications run.
+Design the deployment and configuration of those applications.
+Ensure fluent communication between the development and IT areas.
+Envision integrations between different internal systems.
+Program complex operations to scale in distributed datacenters around the world.
+
+Your day-to-day activities:
+
+Develop system tools to automate environment creation and deployments.
+Interact with different virtualization platforms: AWS, KVM, LXD, Docker.
+Build continuous testing by automation and virtualization.
+Design and develop highly distributed systems.
+Perform code reviews, technical analysis of existing code, and refactors to improve code quality.
+Design our configuration management system, deployment platform and its associated processes.
+Design and maintain our CI/CD pipelines.
+Promote best practices in deployments and infrastructure management among various teams.
+
+About you:
+
+Software development skills and methodologies.
+Superior analytical/troubleshooting skills.
+Solid understanding of operating system concepts.
+Knowledge (or willingness to learn) infrastructure management technologies (Puppet, Packer, Terraform, LXD, AWS, KVM, Docker, etc.)
+Fluency in any structured programming language is a plus (preferably Python).
+Experience in product as a service operation is a plus.
+Open source experience or contribution to any Linux/Unix distribution is a plus.
+
+About us:
+
+We’re a market leading enterprise SaaS solution provider for global talent acquisition and talent management. We currently work with over 650 companies worldwide, which include:
+
+110 Fortune 500 companies.
+69 customers with over 100,000 employees.
+10 of the top 20 Forbes Global 2000.
+4 of the Big 4 consulting firms.
+
+We choose to work in a relaxed, energetic and creative environment, where everyone can make the most of their skills and preferences, and boost their individual capabilities through collaboration and team work.
+
+What we offer:
+
+A fast-paced, energetic, and engaging environment.
+Flexible hours and possibility to work from home.
+Competitive salary, with one review a year.
+Sanitas health coverage.
+Four days a year to attend events related to professional development.
+Internet service expenses.
+An office located in a central and attractive location (Chueca).
+Fully equipped kitchen.
+
+An organizational culture that empowers everyone to be themselves is key to thrive in business, but more importantly, it’s a pathway for creating a more equal society. Avature fosters a diverse and inclusive environment, and celebrates that each unique person brings something different to our team. We are committed to considering all qualified applicants equally and to promote equal opportunities within our organization.

@@ -1,0 +1,17 @@
+About the job
+Job Title: Backend Cloud Engineer
+Location: Remote – Europe
+Contract Type: Permanent
+
+Yoh are looking for a Backend Developer with Cloud experience to work with a global leader in Cybersecurity who provide market leading cyber security platforms, offering unrivalled protection against cyberattacks.
+
+About the role:
+Backend development in the cloud using Golang or Java. Working on core systems and with Security Analysts to improve existing and develop new solutions to improve efficiency
+
+Key skills and experience required:
+Golang or Java
+Containers and Kubernetes
+Cloud – AWS, Azure or GCP
+Developed in the cloud at scale
+
+For more information, please contact Max Ridden on Max . Ridden @ Yoh . Com or 0118-989-7639

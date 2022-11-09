@@ -1,0 +1,19 @@
+About the job
+Job Title: Java Full Stack Developer
+Job Location: Newark, CA
+Type: Fulltime
+Key Responsibilities:
+Qualifications:
+· 7+ years of professional full stack software development experience
+· BS in computer science / engineering or equivalent professional experience
+· Experience with responsive web design and targeting mobile platforms
+· Web service development using any of the following: Java, Spring Boot, Kotlin, NodeJS
+· Experience in one or more relevant front-end frameworks (React)
+· Experience creating REST and/or GraphQL APIs
+· Database development u7experience with PostGres, MySQL, or MongoDB
+· Passionate about providing the best user experience for customers
+· Familiarity with AWS and its offerings such as Lambda, S3, and Aurora is a plus
+· Experience using source control systems such as Git International software development is a plus
+· Knowledge of DevOps and CI/CD, automated test and build tools
+· Experience integrating with Salesforce and/or SAP ERP is a bonus
+· Strong verbal and written communication skills

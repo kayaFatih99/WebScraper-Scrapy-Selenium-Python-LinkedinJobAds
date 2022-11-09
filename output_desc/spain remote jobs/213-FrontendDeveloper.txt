@@ -1,0 +1,52 @@
+About the job
+Frontend Developer
+
+OK, so let's start with a few words about Vue Storefront.
+Vue Storefront is a Frontend Platform for Headless Commerce, which was built with an open-source mindset and the trust of a global community. It is the result of our effort to provide developers with modern and forward-thinking technical solutions crafted to meet common eCommerce industry challenges.
+Vue Storefront started in 2017 engaging with developers who were looking for ways to make things faster, easier, and more effective. The available solutions didn’t meet their expectations so they created their own.
+Today, Vue Storefront is not only the biggest and the fastest growing Frontend for eCommerce, but it’s also a whole ecosystem of frontend services that can work together or independently. Each of the services addresses a key component of your development cycle while building eCommerce storefronts – from Build to Launch.
+
+Salary: 18.000 - 20.000 PLN net + VAT (B2B)
+
+Location: Remote, Europe
+
+About the Team
+In the Solution Engineering Team, we are self-organized and highly autonomous. You will be working directly on integrating Vue Storefront with the biggest eCommerce platforms available on the market. This role requires a considerable amount of troubleshooting and investigation, as well as building from limited requirements.
+Our stack:
+TypeScript
+Node.js, Apollo Server, Express
+Vue, React
+GraphQL, REST
+GitHub Actions
+
+What will you be doing in this role?
+Building and maintaining sales demo instances
+Researching and developing new features
+Setting up projects in 3rd party tools.
+Designing and consulting technical architecture
+Improving and working on our software quality
+Optimizing existing processes and improving the base product
+
+What do we expect you to have?
+Preferably 2+ years of experience as a Frontend or Full-Stack engineer
+Strong Node.js, TypeScript knowledge, and experience
+Knowledge about DevOps, Databases, Architecture Patterns, etc. so you can easily talk about the whole platform
+Knowledge of working in accordance with CI/CD
+Strong communication skills - English fluency
+Understanding and knowledge of how to troubleshoot and identify issues quickly
+Ability to be self-managed and deliver consistently
+'How we can make this better' attitude in problem-solving
+'Growing as a human being' approach
+
+What can you expect?
+Senior and experienced team
+Budget and tools for your skills Growth
+Fully Remote work with flexible working hours
+Values-driven culture, friendly and supportive work environment
+Contract type tailored to your need
+Engagement: it’s full-time engagement in every case
+Ability to regularly attend conferences and community events, both as a participant and contributor
+Flat organizational structure: it helps to focus on what’s essential - have no barriers in communication, no Corpo-language, no going things around, and no need to do things differently than most smartly and efficiently.
+Relations: VSF values healthy relations and spends time together - e.g. two weeks with your teammates and families on Tenerife and team events.
+Benefits: contract type depending on your decision, Medicover medical care package, access to the pool of courses, time to time workation, flexible working hours, working from wherever you want.
+Join us if you feel that it's time for you to join VSF’s extraordinarily enthusiastic and successful team!

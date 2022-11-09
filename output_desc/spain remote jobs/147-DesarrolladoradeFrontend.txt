@@ -1,0 +1,31 @@
+About the job
+Desde Kapres Technology buscamos un/a programador/a con al menos 2 años de experiencia profesional en desarrollo Front-end trabajando con React, jQuery, Gitlab, CSS3, HTML y Bootstrap.
+
+Funciones:
+
+Programar, estructurar y asegurar la accesibilidad web.
+
+Skills necesarias:
+
+React
+jQuery
+Gitlab
+CSS3+HTML+Bootstrap
+APIS Rest
+
+Otras skills:
+
+Redux
+HTML5
+React Admin
+SASS/LESS
+Nociones en mobile-first y escalado en dispositivos móviles
+React
+
+Ofrecemos:
+
+Desarrollo y crecimiento profesional.
+Contratación indefinida.
+100% remoto.
+Flexibilidad horaria.
+Habrá prueba técnica en entrevista final.

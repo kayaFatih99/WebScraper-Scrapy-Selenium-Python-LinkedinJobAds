@@ -1,0 +1,25 @@
+About the job
+Con nosotros te convertirás en un desarrollador autónomo y resolutivo, que comprende al 100% la pila tecnológica y aplica los patrones de diseño y filosofía de trabajo ágil.
+
+Tareas
+Desarrollo de aplicaciones en C#, Python, .NET.
+Despliegues en la plataforma de Azure, DevOps y GIT.
+Soporte a la documentación y generación de informes.
+Apoyo a las actividades de soporte técnico y seguimiento de incidencias.
+Desarrollar las aplicaciones según definición técnica en los plazos acordados por el equipo
+Capacidad de entender, diseñar e implementar componentes técnicos.
+Identificar los riesgos técnicos y proporcionar estrategias de mitigación.
+Diseño y desarrollo de sistemas de prueba para validar componentes electrónicos
+
+Requisitos
+Mínimo 1 año en C# y NET .core para backend
+
+Beneficios
+
+Ofrecemos un puesto a largo plazo:
+Contrato indefinido y condiciones acordes al perfil de experiencia aportado.
+Evolución salarial en función de la evolución profesional y responsabilidad.
+Importantes beneficios sociales.
+Plan de carrera para que puedas desarrollarte con nosotros.
+Formación continua.
+Horario flexible todo el año y teletrabajo. Es presencial 100% y podemos negociar días de teletrabajo, la presencialidad es solo al inicio por formación.

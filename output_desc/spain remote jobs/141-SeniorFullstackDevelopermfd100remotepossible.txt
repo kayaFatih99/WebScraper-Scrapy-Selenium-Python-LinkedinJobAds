@@ -1,0 +1,33 @@
+About the job
+Hi there! In Lendis we are working to turn working from home the best working experience possible. In order to fulfill our mission, we are building a world-class tech organization and we are looking for driven, intelligent and passionate people like you to join. So please keep reading…
+
+WHAT WE DO
+Lendis is on its mission to become the #1 Remote Working Digital platform where an employee can manage all their remote working needs like home office equipment and software solutions, while being climate neutral.
+We are pioneers in this working from home revolution and being among the first at solving the problem in this ecosystem. As a result of that we already work with some pretty big names like Samsung, Deloitte and Toyota.
+
+THE ROLE
+We are hiring a full-stack expert who can inform key architectural decisions and help Lendis scale the next 2 orders of magnitude. You will work on Lendis OS, which is providing a novel way for companies to manage their assets and for employees their worklife. Areas that you may work on include making our web-app more performant and delightful to use, our task management platform UI, 3rd party integrations, and backend endpoints for application logic.
+
+RESPONSIBILITIES
+Own architectural decisions and the technical build-out as we scale
+Build user-facing features on frontend, improve performance and reliability in our React-based web-app
+Improve Lendis’s backend systems: build backend endpoints for application logic (e.g., scheduling, search, logistics flow management)
+
+YOUR PROFILE
+5+ years of software development experience
+Proficiency in React, Redux, and Node.js
+Familiarity with Amazon Web Services and ideally Vercel
+Have worked on a code base at scale
+
+OUR BENEFITS
+28 days holiday + unlimited holidays based on personal performance
+Work from anywhere | Remote first– we have a great office in Berlin but it's up to you if you want to come in.
+Education budget
+Pension
+Flexible working – we have core hours but you can manage your own time.
+Equity options available
+Lendis is committed to equal employment opportunity and aims to build a diverse and inclusive work environment. We make hiring decisions based solely on qualification, merit and business needs.
+
+ABOUT US
+Lendis offers an innovative B2B software solution for acquiring and managing office equipment, software and services in a simple rental model. Backed by leading venture capital investors, such as HV Holtzbrinck Ventures, DN Capital and Picus Capital, we have convinced more than 800 organizations from our services since 2018. These include start-ups, SMEs and corporates like Toyota, Sparkasse and Deloitte.
+We are a motivated, experienced and international team with the mission to shape the "Future of Work". We know that the success of Lendis is driven by our dedicated team of 100+ talents. On our further growth path, we want the best and brightest minds to join our journey, grow and excel with us. Our office is located in the center of Berlin on Oranienburger Straße.

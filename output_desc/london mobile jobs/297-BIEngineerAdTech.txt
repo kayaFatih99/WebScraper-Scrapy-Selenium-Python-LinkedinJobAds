@@ -1,0 +1,26 @@
+About the job
+BI Engineer:
+Our client is an AdTech start-up whose goal is to change and improve the way App marketers run their programmatic media campaigns. The company provides a Bidder or DSP as a service to App marketers to in-house programmatic media buying for user acquisition and re-engagement as well as SDKs for gaming companies to use for cross promo and direct deals.
+
+Responsibilities:
+You will be responsible for performing complex analysis on large volumes of data.
+Assist in the Development of scripts and tools for data analysis.
+Serve a central role with a global scope that bridges the gap between Sales and Operations and Research and Development.
+Identify high-value business, insight, and reporting needs then prioritize, scope and build solutions.
+Collaborate effectively and clearly with clients and their technical teams.
+Collaborate closely with the sales and commercial teams to identify, develop and optimize business opportunities.
+
+Requirements:
+Degree Computer Science, Maths, Physics or other numerate subject, or relevant experience. Experience in online mobile advertising and a developer background is a plus.
+4+ years’ experience as a BI Engineer.
+Experience in Big data technologies.
+Experience with SQL-like query languages, python and/or R with large dataseats. Experience with Zeppelin and Apache Spark is an advantage.
+
+Who you are:
+Good communicator who can explain and understand complex systems while dealing with both non-technical and technical teams.
+A focus on details and willingness to learn.
+Self-motivated BI Engineer with the confidence to work independently but request support when needed. Package
+Competitive salary
+Bupa health insurance
+Cycle to work scheme
+London office based (2 days/week)

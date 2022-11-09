@@ -1,0 +1,6 @@
+About the job
+• Must have 8-10 years of Java/J2EE development exp
+• Solid understanding and experience using Web Services (SOAP and/or RESTful) utilizing XML and/or JSON (binding libraries - jaxb, Jackson, gson, etc)
+• Solid understanding and experience using Spring Framework (3.2 or higher a requirement, Spring 4.2)
+• Spring packages used: Spring MVC / Spring JDBC / Spring Transaction Management / Spring JMS * Experience with Maven
+• Experience with application servers (Weblogic)

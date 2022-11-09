@@ -1,0 +1,50 @@
+About the job
+Company Description
+
+Our client is one of the industry leaders, specializing in bespoke Unity Development. They serve clients all over the globe From mixed reality experiences and app development to mobile and console gaming, and everything in-between, They’ve got it covered.
+
+Job Description
+
+Our client is looking for a Senior Unity Developer with vast experience with procedurally generated meshes to join on super heavy R&D projects.
+
+Key responsibilities:
+
+Research and Development on complex procedural projects
+Writing excellent parametric-driven code that generates 3d meshes at runtime
+Designing C# code architecture
+Working closely with the Lead Developer and Management team
+Qualifications
+
+Skills & Attributes (must have):
+
+Excellent knowledge and skills with procedurally generated 3D meshes
+Exceptional knowledge of C# API
+Proven experience building commercial Unity Experiences on various non-gaming projects
+Ability to work under lead developer direction
+Excellent knowledge of Unity. This will be tested during the recruitment process.
+Proven record of writing code using programming patterns
+Excellent understanding of Vectors
+Good understanding of Quaternions
+Great knowledge of Unity rendering pipelines. Mainly SRP and URP
+Previous employer references
+Ability to work to tight deadlines to deliver the project on time
+Well organized home desk
+Fast fiber broadband at home (minimum 50Mbs)
+Must be based in the UK
+
+Additional Information
+
+What They Offer
+
+Full-time remote position
+Comfortable working atmosphere
+The ability to work with a super-talented team
+Salary up to £75,000 - £95,000 for the right candidate
+Working hours are 9 am - 5 pm including 30 minutes lunch break
+Company MacBook Pro and PC
+Company mobile phone
+For the right candidate the company profit shares based on performance
+Pension scheme
+Dental insurance and other perks
+Yearly Bonuses
+Space to grow a career with us with a clear path to a Lead Developer role and CTO role for the right candidate

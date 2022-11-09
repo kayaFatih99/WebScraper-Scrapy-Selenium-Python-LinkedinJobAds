@@ -1,0 +1,15 @@
+About the job
+Lead iOS Engineer
+£90,000 - £105,000 Plus Benefits
+Hybrid 2-3 Days a Month in London Office
+
+This role will be working with a large online brand who are currently undertaking a huge digital transformation programme, joining there established mobile engineering team.
+
+They are looking for someone to help Steer their overarching mobile engineering strategy and architecture, Lead improvements of the platforms and engineering practices, Create an environment for continuous learning, improvement and feedback for fellow engineers, Mentor and coach more junior members of the team someone who will be writing testable code, unit tests and following test driven development
+
+Experience
+Experience Mentoring and Leading Junior Developers
+Strong iOS Development background
+Swift experience
+Xcode
+Knowledgeable around testing.

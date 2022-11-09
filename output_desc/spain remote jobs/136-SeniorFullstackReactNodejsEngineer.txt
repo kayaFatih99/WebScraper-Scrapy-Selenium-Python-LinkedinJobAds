@@ -1,0 +1,39 @@
+About the job
+Desde Isprox colaboramos con una empresa digital enfocada en el sector inmobiliario. Ayuda a los propietarios a vender su casa al mejor precio, en menos de 30 días. Esta app
+conecta los vendedores directamente con compradores examinados que competirán
+para comprar su casa, acelerando la transición a bienes raíces completamente
+automatizados.
+
+La persona seleccionada se encargará de la plataforma web en su totalidad: implementaciones,
+infraestructura, el monitoreo, la depuración y la confiabilidad general. Trabajará junto con
+los ingenieros de back-end para coordinar AI y el procesamiento de imágenes para la
+aplicación web. Colaborará con el CTO para cumplir los objetivos comerciales y mejorar con los comentarios de los clientes.
+
+Requisitos:
+
+Idioma de trabajo: Inglés fluido.
+Skills: JavaScript, MongoDB, Node.js, React, Amazon Web Services (AWS)
+Más de 3 años de experiencia en desarrollo profesional con ReactJS
+Más de 3 años de experiencia con Node.js y una sólida comprensión de la semántica de
+Node.js (bucle de eventos, async/await, eventos, etc.)
+Experiencia en integración con API de terceros
+Es bueno tener la experiencia de Production NodeJS + docker.
+Experiencia con AWS.
+Experiencia en diseño e implementación de API RESTful (externas + diseño e
+implementación de internas)
+El frontend es 2 aplicaciones React & NextJS con Redux and SCSS.
+El backend es un servidor Node (Express) conectado a MongoDB con una serie de microservicios (funciones Lambda) y módulos npm compartidos.
+Todo está alojado en AWS y se implementa con Github Actions.
+Se utiliza Linear, Notion y Slack para la comunicación y la gestión de proyectos y Figma
+para el diseño.
+
+Se ofrece:
+
+Remoto 100%
+Salario negociable y bonus por objetivos.
+Ambiente internacional y startup
+Horario de trabajo flexible, por objetivos.
+
+Ubicación
+
+Empresa con presencia en 6 países, esperamos que el equipo trabaje en la zona horaria EST de EE. UU. o en Europa Occidental (WET)

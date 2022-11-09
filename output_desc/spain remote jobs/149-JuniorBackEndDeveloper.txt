@@ -1,0 +1,36 @@
+About the job
+Desde ON3 WORKS estamos buscando un desarrollador de back-end con experiencia para uno de nuestros clientes en Madrid, España, pero con funcionamiento 100% remoto.
+
+Es una empresa tecnológica relacionada con el mundo de las startups.
+
+Rango salarial es de 18.000 a 24.000 al año dependiendo de la experiencia.
+
+Requisitos:
+
+Experiencia de 1-2 años trabajando como desarrollador Backend
+
+Conocimientos sólidos de arquitecturas backend y de desarrollo bajo Nodejs, preferentemente con Typescript y de frameworks basados en este lenguaje.
+
+Experiencia trabajando con NestJS.
+
+Para ganar más puntos en el proceso, valoraremos también:
+
+Experiencia usando sistemas de testing.
+
+Conocimientos sobre filosofías Agile y metodología SCRUM.
+
+Conocimiento en algún otro lenguaje de Backend (Go, Python, …)
+
+Experiencia en arquitecturas basadas en microservicios (Redis, RabbitMQ, …)
+
+Ser una persona proactiva a la hora de mejorar el producto, proceso de desarrollo, uso de herramientas, etc.
+
+Conocimientos de nuevas tecnologías (Blockchain, Solidity, Machine Learning, …)
+
+Conocimientos sólidos sobre bases de datos relacionales y no relacionales (MongoDB, PostgreSQL)
+
+Experiencia en la realización de proyectos reales API RESTful
+
+Conocimientos sólidos de Patrones de Diseño, Paradigma de Programación de Objetos y principios SOLID
+
+Conocimientos en sistemas de integración CD/CI y arquitecturas basadas en Docker con Kubernetes

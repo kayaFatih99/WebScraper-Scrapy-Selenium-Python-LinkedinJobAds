@@ -1,0 +1,19 @@
+About the job
+Our client is looking for an analytical, results-driven Backend Developer who will work with team members to build and improve Backend applications and processes. This engineer will also be responsible for creating and owning certain backend services and infrastructure within the company.
+
+There is a significant growth opportunity for the Engineering team as the company continues to excel and move forward.
+
+This is a full-time role only.
+
+Responsibilities
+Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.
+Improve system design to ensure high-performing software.
+Collaborating with the front-end developers and other team members to design more functional, cohesive codes to enhance the user experience.
+Apply new technologies and innovation to improve existing APIs, systems, and tools.
+
+Qualifications
+Bachelor’s or Master’s degree in Computer Science, Computer Engineering, or related major.
+3+ years of experience developing backend services.
+Fluency or understanding of specific languages, such as Java, PHP, or Python, and operating systems may be required.
+Ability to work independently or with a group.
+Excellent project and time management skills.

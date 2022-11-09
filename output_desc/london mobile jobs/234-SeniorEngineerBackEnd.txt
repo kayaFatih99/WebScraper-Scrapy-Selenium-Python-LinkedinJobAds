@@ -1,0 +1,95 @@
+About the job
+Senior Engineer (back end)
+
+Generous compensation • Generous options package
+
+London preferred - Will consider remote candidates within two hours time difference
+
+Technologies: Golang, TypeScript, AWS, Docker, Postgres
+
+About the company
+
+Technology, academia and venture capital have collided to create enormous value in the last 50 years. But many people and problems have been left behind.
+Odin is on a mission to build more companies the world needs by creating better infrastructure for innovation.
+
+They want to empower individuals and communities globally to build and invest in things they believe in.
+The company was founded in September 2020 and recently closed a pre-seed round with Haatch Ventures, Chrometec, IPQ Capital and angels like Jelle Prins (first designer/ product manager @ Uber), Sarah Drinkwater (Atomico Angel, ex head of Google Campus), Alex Macdonald (co-founder of Velocity Black), Warrick Shanly (VP at Eurazeo & Soma Capital) Kirsten Connell (VP Octopus Ventures, ex-GM Seedcamp), Björn Wagner (co-founder of Parity and Polkadot), Matt Penneycard (co-founder of Ada Ventures), and many more amazing founders, operators and VC's (as angels) from the European venture ecosystem and further afield.
+
+Since August last year, they have helped investors deploy over $17m, whilst in private beta, growing 30% month on month. They are now hiring aggressively to build the best angel investment platform in Europe.
+
+Responsibilities
+
+Play a key role in setting and building the culture of the engineering team.
+Mentor the more junior members of the team, giving regular, constructive feedback.
+Pair programme regularly, to facilitate continuous learning and knowledge exchange within the team.
+Translate complex business needs into granular technical implementation.
+Architect systems, building for reliability and security from inception to execution.
+Bring your learnings gained from previous experiences to improve our processes, working as a team to increase velocity and reduce technical debt.
+Work with the Front-end team to design and build RESTful APIs, conforming to the OpenAPI spec
+Perform code reviews on GitHub and introduce best practices to ensure the team delivers high-quality, appropriately tested code.
+Interview future members of the team.
+Write thoroughly well-tested code to deliver new features that delight our users, big and small.
+Integrate with third-party tools to handle everything from authentication to payment initiation, KYC/AML and wallets.
+
+
+You
+
+6+ years relevant experience;
+2+ years experience working with Golang;
+Kind, empathetic, patient, humble, receptive to feedback;
+Curious, willing to learn, always cares about the "why", not just "how";
+You love collaborating with and mentoring team members, while also sharing practical knowledge and trends;
+Have worked in an environment that actively encourages people to speak up and challenge each other, whilst understanding the importance of "disagree and commit".
+Rigour in high code quality, automated testing, and another engineering best practices;
+Strong analytical and critical thinking skills;
+Experience working in a CI/CD environment;
+Excellent communication skills; Proactive in communicating with the rest of the team;
+
+Nice to have
+
+Strong understanding of BDD and DDD, practical experience a bonus;
+
+
+🤲 Values
+
+💯 Customer Obsession
+
+Our customers are the most important thing to our business. We are conscientious in how we deal with them, and we constantly strive to provide the products and service that they desire.
+
+🔍 Focus
+
+We are an investment platform, dealing with people’s money. Details matter a lot. This means we rarely make mistakes that upset our customers, and we don’t ship things that aren’t our best work.
+
+💸 Disagree and commit
+We promote a culture of open feedback and challenging things we disagree with, after taking time to understand why someone has suggested something. The important thing is to know how to disagree and commit, so we’re all pushing in the same direction at the end of the day.
+
+💨 Ownership
+
+If you think there’s something wrong, suggest a solution and be proactive about fixing it. As long as you’re communicating with the rest of the team, we want you to feel empowered to have an impact.
+
+🎤 Transparency
+
+Always speak up. Offer and ask for help and feedback. We value honest feedback delivered with kindness, and we value people who ask questions. If you don't understand something, or think something could be done better, tell your team.
+
+💜 Kindness
+
+Never lose sight of your instincts. We hired you because we think your heart is in the right place. Prioritise doing what is ethical and just, and put this ahead of what is most profitable or easiest - whether you're dealing with a colleague or a customer.
+
+⏱ Work hard and enjoy the journey
+
+The more you put in, the more you will get out, both in terms of results and enjoyment. But of course, make sure you make time for yourself and have a life outside of work, or you won't perform at your best.
+
+✅ Benefits and remuneration
+
+They prefer people within a one-hour time difference of London.
+Flexible working (We care about the results, not when you work)
+We have a lovely office just off Exmouth market, where we provide fresh fruit, snacks and an extensive tea selection
+Competitive salary
+Laptop assigned, Mac or Dell (Windows)
+Parental Leave
+£1000 Learning & wellness budget
+Generous options package
+
+
+
+Mana Search is FinTech’s all-in-one search firm. We partner with the most exciting VC & growth equity backed fintechs. Strategic search into the CxO suite, venture building through delivering teams in Engineering, Data Analytics, Product and Commercial. If you are interested in hearing more about this role or other do get in touch via leonardo@manasearch.co.uk - thanks!

@@ -1,0 +1,24 @@
+About the job
+Kixy is an exciting, fast-growing Fintech start-up based in London. Our mission is to help our customers improve the way they manage their finances and empower them to connect and send money easily and at great rates anywhere in the world. What sets us apart is our massively social user interface that will make banking much more enjoyable than just a daily necessity.
+
+About the role
+As a Senior React Native Developer, you will have a good balance of technical and communication skills and work alongside other developers to guide the mobile app's technical decisions and implement solutions on the customer-facing mobile app. Along with the wider technical team, you would advocate for developing with accessibility and performance in mind as well as looking out for ways we can continue to improve. You must have excellent 'common sense' in knowing the best practices in mobile app development and help in delivering a state-of-the-art Fintech mobile banking application.
+
+What we’re looking for:
+Experience building mobile applications in React Native
+Experience writing automated tests using Jest and React Native Testing Library
+Familiarity working within an agile environment following the Scrum methodology
+Strong sense of code quality and contribution to code standards and documentation
+Customer-oriented approach with a passion for data-driven development
+Understanding of scalability and user experience
+Experience in engaging and interacting with stakeholders and product managers to define and enhance products in development
+Take an active role in mentoring other developers within the team
+Enthusiasm for trying new things and learning new technologies
+Collaborative approach and open to pair programming
+
+We utilize AWS to manage the entire application lifecycle; familiarity with AWS DevOps isn’t a requirement but would be beneficial.
+
+About Our Benefits
+As an ambitious start-up, we offer a strong and competitive base salary as well as other benefits, including:
+28 days holiday + Bank Holidays
+Fully Comprehensive Health Insurance package including dental and optical cover

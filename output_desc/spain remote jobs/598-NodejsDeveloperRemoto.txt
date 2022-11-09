@@ -1,0 +1,59 @@
+About the job
+Este es el reto:
+
+En The Cocktail trabajamos con grandes clientes y estamos habituados a sectores complejos (Energía, Banca, Travel, Retail etc). Desde hace 5 años acompañamos a una de las principales empresas del sector energético a llevar a cabo su plan de transformación digital.
+
+Durante este tiempo hemos creado un equipo con espíritu propio "we make things happen", haciendo nuestro cada objetivo y trabajando para esa finalidad, en lugar de para el proyecto. En definitiva, lo damos todo porque nos gusta la épica y nos mueve el impacto.
+
+Como parte de este equipo, te unirás a una de las cuentas más grandes de la compañía, formando parte activa para ayudarnos a llegar más lejos.
+
+¿Qué buscamos?
+Al menos 5 años de experiencia construyendo productos digitales.
+3 años de experiencia construyendo aplicaciones en Node.js.
+Te desenvuelvas bien con frameworks como NestJS y Express.
+Que trabajes siempre con tests para que el código sea mantenible y escalable.
+Que hayas trabajado en entornos cloud, con filosofía DevOps y tecnologías como Docker y Kubernetes.
+Que conozcas la arquitectura hexagonal y sigas las buenas prácticas de Clean Code.
+Que tengas buenas capacidades comunicativas, conozcas las metodologías agile y sensibilidad por el negocio y el producto final.
+
+Entre otras cosas, esto es lo que harás:
+Participas en la definición de los productos en los que estés involucrado, aportando valor y nuevas ideas para llevarlos al siguiente nivel.
+Liderarás sesiones con tecnología y negocio para mostrar el valor aportado en cada nueva release.
+Diseñarás, crearás e integrarás servicios de alta demanda, con impacto directo en cliente final.
+Liderarás el desarrollo de nuevas funcionalidades de los productos en los que estés involucrado, además de supervisar las de otros proyectos del equipo.
+Serás pieza clave en el desarrollo de nuevos estándares y buenas prácticas, siguiendo principios como SOLID, Clean Code o Clean Architecture y asegurando la calidad del código mediante Testing (unitario y e2e) y reglas de cobertura mínima.
+
+
+¿Cómo lo harás?:
+El equipo está formado por squads multidisciplinares, donde trabajan de la mano desarrolladores, diseñadores, project managers y product owners, enfocados en diferentes productos y servicios. Los proyectos mantienen un mismo stack y tienen interdependencias (técnicas y de negocio) lo cual te lleva a conocer no solo el proyecto en el que trabajas, sino el que otros compañeros desarrollan.
+
+El modelo de trabajo está basado en aportar valor a través de metodologías agile, que aplicamos usando Azure Devops. Por si te lo preguntas nuestro flujo de trabajo es así:
+
+El equipo de producto define el Product Backlog, con los requisitos funcionales y lo descompone en épicas e historias de usuario. Con esta definición, el equipo técnico lo estudia y ve las implicaciones que supondrá el desarrollo.
+
+A partir de este momento, comenzamos a trabajar en ciclos iterativos donde, refinamos las HU conjuntamente con Negocio y Diseño, planificamos Sprints de 3 semanas, y al finalizar celebramos un Sprint Review que validen el valor aportado y Retrospectivas que permitan al equipo seguir mejorando.
+
+¿Con quién trabajarás?
+Somos más de 120 perfiles técnicos acostumbrados a entornos con alta incertidumbre y especialización en tecnologías state of the art. Entre este grupo, se encuentra un equipo de 40 personas especializadas en tecnologías de canal (Node+Vue) a los que te unirás. Algunas de las personas con las que trabajarás son:
+Keko Ponte (CIO)
+Clara Tió (CDO)
+Jesús Sayar (IT Manager):
+Maria José Sanchez & Miguel Canelo (Tech Leads)
+
+
+¿Cómo es la experiencia en The Cocktail?
+Modelo de trabajo basado en la autorresponsabilidad y la autogestión con horario flexible y teletrabajo (de verdad). Decides tu horario, desde dónde trabajas y cómo lo haces.
+Buscamos la excelencia/mejora en lo que hacemos, generando un ambiente colaborativo. Nuestra filosofía es 70-20-10 (70% se aprende de la experiencia, 20% de mentores/referentes y 10% de formación reglada).
+Podrás disfrutar de 25 días de vacaciones al año repartidos entre verano y Navidad, sobre todo. También te regalamos Nochebuena y Nochevieja.
+Paquete de ventajas sociales y posibilidad de retribución flexible.
+No tenemos dress code. Ven como quieras a trabajar.
+Ser parte de una compañía con alma: tenemos iniciativas de apoyo a la maternidad (una sala de lactancia en la oficina y programas para mamás y papás), la sostenibilidad (políticas zero waste), la igualdad de género y diversidad (iniciativas de visibilización e inclusión del colectivo LGTB+, colaboraciones para disminuir la desigualdad social...).
+Descuentos y múltiples ventajas para tu ocio y día a día.
+
+En The Cocktail pretendemos ser un referente en talento y calidad humana, y sólo lo conseguiremos siendo una compañía abierta y diversa, por eso tenemos un Código de Conducta que refleja nuestras expectativas de las personas que participan en la empresa. Ofrecemos un entorno acogedor para todos, independientemente de su identidad o expresión de género, orientación sexual, capacidad, origen, religión, estatus socioeconómico…
+
+Próximos pasos:
+Si lo que te contamos te suena bien, haz click en “solicitar” ¡estamos deseando conocerte!
+Si tu perfil coincide con lo que buscamos, recibirás una llamada para conocernos mejor y comenzar el proceso de selección.
+
+¿Te vienes?

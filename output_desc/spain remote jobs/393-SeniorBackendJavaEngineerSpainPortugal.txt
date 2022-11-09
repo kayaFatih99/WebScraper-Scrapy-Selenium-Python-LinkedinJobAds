@@ -1,0 +1,44 @@
+About the job
+This position offers you the opportunity to join a fast-growing technology organization that is redefining productivity paradigms in the software engineering industry. Thanks to our flexible, distributed model of global operation and the high caliber of our experts, we have enjoyed triple digit growth over the past five years, creating amazing career opportunities for our people.
+
+If you want to accelerate your career working with like-minded subject matter experts, solving interesting problems and building the products of tomorrow, this opportunity is for you.
+
+As a Senior Java Engineer , you will be responsible for developing software solutions using different Java applications and web technologies, contributing to all phases of the development lifecycle.
+
+The Impact You'll Make
+Design, build and maintain APIs, services, and systems across Parser’s engineering teams.
+Work with engineers across the company to build new features at a large scale.
+Improve engineering standards, tooling, and processes.
+Technology Stack
+Server-side Java 8, ideally Java11+/ Java 17
+Java-related Open Source technologies, such as Spring and Hibernate.
+Experience of microservices using SpringBoot + Rest API
+Frameworks: Spring boot and nice to have Redis + Open JDK
+Open source RDBMS technologies such as PostgreSQL and nice to have Couch Base.
+Cloud: AWS, Azure .
+Queues: RabbitMQ and nice to have K afka, ActiveMQ
+Testing: JUnit , Cucumber (Gherkin Syntax).
+Tools: IntelliJ, Pgadmin, Postman, Confluence, Slack & Jira.
+Other specifications: OOP + Postman or similar and nice to have Snyk + Splunk + Prometheus + Sonarqube
+Your Skills
+5+ years of experience with Java
+Experience building backend infrastructure.
+Experience working on REST API in a microservices architecture.
+IS a must: REST API + Spring Boot experience, good practices, clean code, design patterns, microservices, work autonomously
+Think about systems and services and write high-quality code.
+We work mostly in Java. However, languages can be learned: we care much more about your general engineering skill than knowledge of a particular language or framework.
+Good written and verbal English communication skills.
+Take pride in working on projects to successful completion involving a wide variety of technologies and systems.
+Thrive in a collaborative environment involving different stakeholders and subject matter experts.
+Enjoy working with a diverse group of people with different expertise around the world.
+Some of the benefits you’ll enjoy working with us:
+The chance to join an organization with triple-digit growth that is changing the paradigm on how software products are built.
+The opportunity to form part of an amazing, multicultural community of tech experts.
+A highly competitive compensation package.
+A flexible and remote working environment.
+Medical insurance.
+An annual allowance for training purposes and in-company English lessons.
+Special day gifts.
+Come and join our #ParserCommunity.
+
+Follow us on Linkedin

@@ -1,0 +1,39 @@
+About the job
+En Webhelp buscamos incorporar un desarrollador Angular en remoto para unirse al equipo técnico de Massimo Dutti en el distrito tecnológico de Barcelona, 22@.
+
+Se integrará en un equipo joven y dinámico para participar en el desarrollo de software de la plataforma de venta online de Massimo Dutti.
+
+La plataforma a desarrollar abarca tecnologías muy recientes y diversas, está en constante evolución y, por tanto, requiere ir formándose continuamente para adaptarse a las nuevas funcionalidades que se van desarrollando. Por tanto, buscamos una persona a la que le guste estar en continuo aprendizaje.
+
+Funciones a realizar:
+
+Preparar nuevos componentes visuales como sliders y galerías
+Mejora continua del código
+Programación de nuevas funcionalidades
+Programación de microsites con potente impacto visual
+Comprender las funcionalidades y demandas de otros departamentos
+
+Requisitos mínimos:
+
+Permiso de trabajo en España o ciudadanía europea
+Español nativo/avanzado
+Experiencia demostrable en proyectos web con AngularJS y Angular 1.5 y/o 6 (mínimo 2 años)
+Formación en Ingeniería Informática o Grado Superior
+Experiencia en entornos de desarrollo ágiles
+Experiencia en proyectos reales responsive
+Conocimiento en desarrollo web: entre Angular 1.5 y/o Angular 6, HTML5 + CSS3, SASS, Nodejs, usabilidad web y apps, funcionalidad E-commerce, Unit-testing
+
+Qué te ofrecemos
+
+Trabajo a remoto desde cualquier parte de España con visitas puntuales a Barcelona (el coste de las visitas irá a cargo de la empresa)
+Salario: 38.000 euros brutos/año con posibilidad de negociar según experiencia
+Contrato: indefinido a jornada completa
+Horario: diurno L-J 9 - 18 y los viernes 9 - 15 (hora de entrada flexible entre las 8.30 y las 9.30h)
+Beneficios sociales (seguro Adeslas + portátil de empresa + formaciones técnicas)
+Paquete de traslado: 500 euros
+
+Quiénes somos
+
+Webhelp Group es una compañía internacional consolidada y dinámica que brinda servicios a las 10 principales compañías que pertenecen al mundo de las redes sociales y de TI. Nuestra base está en el corazón de Barcelona con más de 3000 empleados de todo el mundo. Además, ofrecemos un entorno atractivo con un gran espíritu de equipo.
+
+***Los procesos de selección y las personas involucradas en los mismos (tanto reclutadores como jefes de proyecto) no discriminarán ninguna candidatura por motivos de edad, discapacidad, etnia, estado civil, género, nacionalidad, ideología política, raza, religión u orientación sexual***

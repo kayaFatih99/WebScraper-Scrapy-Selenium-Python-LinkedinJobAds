@@ -1,0 +1,24 @@
+About the job
+Lead Java Developer Developer
+Salary up to £130,000 + uncapped bonus
+Hyrbrid working pattern (1-2 days in the London office)
+
+We currently have the pleasure of working with an exciting tech start-up within the foreign exchange market, who are looking to build a robust greenfield trading platform which will be processing up to 5 billion trade messages per day. It has been just over 5 years since they came to market and have grown from strength to strength with every financial year.
+
+Responsibilities as a Lead Java Developer:
+As a Lead Developer you will be responsible for the development of high-performance, low-latency, mission critical software at the heart of the trading software.
+You will need take a holistic view interest in Software Development and practised in multiple programming/scripting languages.
+You will assist in architecting aspects of the trading platform, working closely with peers, front-end/mobile developers, product management, QA, and UX/UI
+As a Lead Java Developer, you will be expected to lead small product teams, mentor and train mid-level developers and then present progress to key stakeholders.
+
+Please just some of the tools you will be exposed to within this position:
+Java 8+
+Docker
+Kubernetes
+MySql
+Multithreaded programming
+REST API and Web-Sockets
+
+Not only will you have access to an extremely competitive salary in this space, you will have access to an uncapped bonus (some developers received up-to 40% last year) you will also be given an extensive list of useful perks/benefits.
+
+If you have exposure to working as a Lead Java Developer within a fast pace high-latency environment and are looking to leave your mark within a brand new,cutting edge project then please reach to myself or apply below immediately!

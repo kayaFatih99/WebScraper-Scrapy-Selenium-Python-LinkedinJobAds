@@ -1,0 +1,78 @@
+About the job
+Do you want to help build the future of humanoid robots?
+
+We are looking for an exceptional developer to join our talented and fast moving team working on world-leading robotics software applications. Operating system, remote management, and new applications development for humanoid robot platforms. You’ll be designing, developing, testing, and debugging responsive core software for the company and our customers. You will be working directly with the real robots. Using Python, C/C++, and a variety of libraries and frameworks, you will be able to rapidly translate user and business needs into functional backend design.
+
+Our internal motto is “Be Wow”, our robots are wow and we need our software to be wow too, we bake wow into everything we do, so you can help make our core software wow too!
+
+The role is to be based at our newly opened office in London.
+
+To apply: email jobs@engineeredarts.co.uk with your CV or link to LinkedIn profile, plus a cover letter explaining why you would be a great fit for the role.
+
+Main Responsibilities
+
+● Developing the OS, backend, and other foundational software for our robots
+The software will directly control our world-leading humanoid robots
+
+● Ensuring the produced software is well architected and well tested
+Producing and updating technical documentation
+Both for internal and external use
+
+● Contributing to improving the way things are done
+Make things easier for others, suggest and implement improvements
+(eg: tools to speed up debugging and developing; improved processes; etc)
+
+What you will need
+
+Essential
+● Python
+● C/C++
+● Linux CLI
+
+Desirable knowledge
+● Jira
+● Git internals and GitLab CI
+● TypeScript, Django, NodeJS
+● WebRTC, HTTP and WebSockets experience
+● Machine Learning frameworks, algorithms and runtimes
+● Multi-process message-passing architectures
+
+Useful prior experience
+● Robotics / ROS
+● Agile methodologies and frameworks such as Scrum
+● Video game development or other complex real-time work
+● Working with Docker/Kubernetes
+
+Traits we are looking for
+
+● You can get to solutions fast yet leave well-structured and documented code behind
+● You are intellectually curious and able to get through new territory quickly
+● You are passionate about making amazing robots even more amazing
+● You are open to ideas and have a positive attitude, a desire to help others, and a tendency to resolve issues without drama.
+
+Our recruitment policy is evidence based, we like to see what you can actually do.
+
+Formal qualifications look nice on a CV, but they don’t mean much without the practical ability to achieve results.
+
+Please send links (not attachments) to code repositories, images, videos etc. showing us what you have worked on - YouTube, Google Drive, personal website, GitHub, etc.
+
+Personal projects demonstrating relevant skills are highly valued.
+
+Tell us about your hobbies, are you a photographer, performance artist, stunt pilot, musician, poet, cook or surfer?
+
+The sort of things we like to see:
+● Code: C++, Python, JS, etc.
+● Version control in a collaborative environment – your code on GitHub, Mercurial, SVN
+● Contribution to a FOSS project
+
+About Engineered Arts
+
+Engineered Arts is the leading manufacturer of full-size humanoid robots used for entertainment, education and communication. With 15 years of hardware and software development, our robots have been sold in over 30 countries worldwide with customers such as NASA, PwC, Cisco and many more.
+
+Our Ameca model which is well known and a social media viral success along with our ultra-realistic Mesmer range of animated figures continue to surprise and excite visitors at museums, theme parks, visitor attractions and trade shows as well as aid leading universities with AI and robotics research. Our robots are poised to break into the future mega-expansion service robot segment, with applications such as remote receptionists, information points and PoS.
+
+We are also exploring how our humanoid robot technology can disrupt other industrial robotics sectors.
+
+Further to our hardware range we also offer our software for hardware SaaS solutions. We originally developed this software for our own robotic hardware through necessity as there are no off-the-shelf solutions, it can be used to simplify the development and operation of 3rd party hardware. Enabling full 3D sequence programming, high-level function programming, cloud connection, remote support services, appification of hardware and software defined hardware as well as low level hardware control, sensor and audio interfaces and much more.
+
+We are a team of dedicated engineers and creatives striving to develop the very best experiences for our customers. Our internal motto is ‘Be Wow’, everything we do is fun, entertaining or surprising to encounter. We always push the boundaries of what is possible in humanoid robotics, researching and developing new systems and techniques to further their appeal. We explore and challenge the human perception of robots as well as the fear and discomfort and the excitement and joy life-like mechanical humanoids present.

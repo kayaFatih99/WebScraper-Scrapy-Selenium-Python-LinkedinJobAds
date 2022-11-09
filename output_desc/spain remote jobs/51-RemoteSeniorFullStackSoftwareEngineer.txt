@@ -1,0 +1,62 @@
+About the job
+Who We Are
+
+MOSTLY AI is a Vienna, Austria based high-tech startup that has developed game-changing AI technology for synthetic data. Our solutions enable organizations across the world and across industries to safely share big data assets, internally as well as externally, while keeping the privacy of their customers fully protected. This breakthrough in data protection is made possible by leveraging generative deep neural networks that extract patterns, structures and variations from existing data to generate highly realistic & highly accurate synthetic customers.
+
+Our international team of data enthusiasts takes pride in offering the world's most advanced synthetic data solutions, and thus to enable a big data ecosystem where privacy is truly respected. The category “synthetic data” is just getting started and the potential is growing day by day. We believe that in the next couple of years every larger organization will incorporate synthetic data in their data stack. To serve the growing needs of our clients we are looking for a Senior Full Stack Software Engineer.
+
+Who You Are
+
+You are an experienced full stack developer. You want to substantially contribute to the development of a deep tech product written in Angular/Kotlin deployed on cloud platforms. You want to work with state-of-the-art tools in a truly agile development environment. You want to mentor and coach junior members and develop your leadership skills.
+
+Responsibilities:
+
+Be part of the development team responsible for the frontend, backend and services of the MOSTLY AI Synthetic Data Platform
+Develop features and unit tests using Kotlin, Spring Boot and Angular
+Do code reviews, share feedback
+Apply team coding standards, branching strategies within the CI/CD environment and contribute to them
+Collaborate with the product team to align product specifications with the architecture
+Create technical documentation from product specifications provided by the product team
+Estimate work, contribute to planning
+Solve bugs and issues during development
+Support the customer success team in diagnosing and solving problems
+Guide and coach junior team members
+Find ways to improve the way of working, become more efficient as a team
+Research new technologies, create proof of concepts
+Requirements
+
+5+ years of professional Java full stack development
+Strong experience using Java 8+, Kotlin is a plus
+Strong experience on Spring/Spring Boot
+Strong experience with relational databases, ORM libraries
+Strong experience with Angular, Typescript and (S)CSS
+Having worked with Design Systems for the frontend
+Experience with message queue systems (e.g. RabbitMQ) is a plus
+Experience with using Docker containers
+Experience with cloud technologies
+CI/CD is more than a concept for you
+Be agile, live in sprints, think in story points
+Willingness to learn and constantly improve
+Strong analytical mindset, quality and efficiency obsession
+High sense of responsibility
+Highly energetic personality with a "can do/ getting things done" attitude
+Result-driven as well as excellent interpersonal, communication, and collaborative skills
+Must be able to navigate and blend into a high paced start-up environment
+English, German is a plus
+Our perks
+
+Be part of the synthetic data revolution and work with international top experts in the field of unsupervised AI
+Build the world you wish to see - a future where big data and privacy can co-exist
+A MOSTLY Remote culture - where we bring the global team at least twice a year together
+To set up your home office you will receive a €1000 stipend and a yearly €300 top up thereafter
+Enjoy your monthly lunch stipend valued at €100 per month
+Health plan cover
+All Mostlies participate in a Phantom Stock Option Plan (PSOP)
+Attractive referral program to help build an amazing team
+Use your volunteering day to give back to your community
+Extra 4 days off every year to recharge batteries (at company defined times)
+Twice a year growth check-ins and individual training budget for your career development
+Welcome Swag Package filled with MOSTLY AI branded goodies
+Seasonal gift packages from MOSTLY
+Let's celebrate your Birthday, Anniversary and other special moments in YOUR life
+(Virtual) Team Activities

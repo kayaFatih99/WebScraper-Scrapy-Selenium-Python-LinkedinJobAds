@@ -1,0 +1,27 @@
+About the job
+Summary of Key Responsibilities
+
+Responsibilities and essential job functions include but are not limited to the following:
+
+• Develop reactive application on Scala and Akka Typed programming language.
+• Setup, configured and maintain backend application globally.
+• Build and unit test API with Scalacheck or scalatest.
+• Helping CI/CD team during rolling out application and infrastructure globally.
+• Collaborates with development team, other Information Technology (IT) team’s developer leads. Initiates process improvements for new and existing systems.
+• Designs, develops, implements, documents, and tests changes to an application subsystem. Codes, tests, debugs, documents, and implements complex software applications. Creates prototypes that are more complex and ensures deliverables are high quality and meet user expectations.
+• Supports system and integration testing activities. Initiates design reviews for new applications and adheres to software development standards.
+• Participates in a production support rotation that includes pager responsibilities.
+
+Experience
+
+• Requires 5+ years experience in the IT industry
+• Requires 2+ years hands-on experience development experience in Scala, Akka Typed.
+• Experience with using kafka, event hub or any messaging broker.
+• Experience in working with Linux environment.
+• Experience in using IDE for Scala, java like eclipse, intellij etc.
+• Strong experience in core java, multi threaded programming, data structures and collections.
+• Extensive understanding in SDLC and scrum methodologies.
+• Expertise in Java, J2EE application development.
+• Experience in developing scalable reactive application with Scala, Akka Typed.
+• Experience in working with clound implementation
+• Certification is Scala, Akka Typed would be plus.

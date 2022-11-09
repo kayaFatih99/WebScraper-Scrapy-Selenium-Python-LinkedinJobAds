@@ -1,0 +1,33 @@
+About the job
+We are looking for a Backend Engineer to join the Data Management product area in our Data Platform engineering organization. Data Platform belongs to the Platform mission that consists of several organizational units (known as ‘tribes’) that reflect the needs and groupings of our internal customers. We specialize in systems for scheduling, orchestrating and deploying thousands of our distinct data pipelines that run hundreds of thousands of tasks per day, maintaining data quality with monitoring, alerting and reliability infrastructure.
+
+We seek challenging technical problems that address business critical needs for teams all over Spotify, and engage in large open-source code bases (Luigi, Flyte, Styx), while working in a friendly, collaborative, and safe environment. We are an amplifier for efficiency, quality, and innovation across Spotify. We work within the Data domain to deliver excellent data engineering services at scale but since lots of our time is spent on building tools and services for our users we also go deep in both backend and infrastructure. Working in our team is a collaborative experience and you will have a phenomenal influence on our road map and strategies. We believe in learning to grow our skills and happily pair up or share knowledge with others both within our team and wider.
+
+What you'll do
+
+Be part of an infrastructure team dedicated to empower engineers and data scientists across Spotify to work with data
+Increase developer productivity in Spotify by building innovative tools that reduce maintenance overhead of working with data pipelines and help increase platform reliability
+Develop in different technologies and infrastructure, ranging from Java (main language of choice) Scala and Python, and use standard methodologies in continuous integration and delivery
+Build, maintain and operate high-quality services to Spotifiers together with your team, according to engineering best practices. Deliver scalable, testable, maintainable, and high-quality code
+Work in multi-functional agile teams to continuously experiment, iterate and deliver on new product objectives
+Work in an environment that supports your individual growth by providing you with exciting work, the freedom to acquire new skills on hack days, reading groups, and a variety of internal training courses
+
+Who you are
+
+You have experience working with data engineering and designing and building highly scalable backend systems/data pipelines
+You are passionate about system design, data structures, and algorithms. You have experience in crafting and building maintainable backend services in Java and love to deliver high-quality infrastructure solutions to the users
+You know and care about sound engineering practices like continuous delivery, clean code, defensive programming, and automated testing. You appreciate agile software processes, data-driven development, reliability, and responsible experimentation.
+Strong analytical and problem-solving skills, and understanding of building and operating cloud-based services. You are familiar with Java/Scala/Python and backend development and take great pride in making sure your services run like clockwork in production.
+You are pragmatic and understand the tradeoffs between the perfect solution and a working solution
+A great team player: you enjoy sharing knowledge with others and helping other engineers to grow
+
+Where you'll be
+
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within the EMEA region in which we have a work location and is within working hours.
+Working hours? We operate within the Central European and GMT time zones for collaboration and ask that all be located that time zone.
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

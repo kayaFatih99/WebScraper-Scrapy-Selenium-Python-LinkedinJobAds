@@ -1,0 +1,38 @@
+About the job
+¿Quieres formar parte de nuestra tribu?
+
+CazaTuPlaza es una Startup tecnológica del sector EdTech enfocada a la preparación de oposiciones con unas proyecciones increíbles.
+
+Buscamos Programador/a Full Stack Senior con conocimientos avanzados de PHP Laravel, Angular, Vue.js y MySQL
+
+Tareas
+
+¿Qué retos tendrás?
+Programar nuestra web usando PHP Laravel, Angular y Vue.js
+Modelar datos usando BBDD relacionales en MySQL
+Diseñar e implementar nuevas funcionalidades
+Generar API Rest para comunicarse con nuestra App
+Responsabilidad integral de las tareas desde el inicio hasta su fi
+Encontrar la mejor solución técnica junto al resto del equipo
+
+Requisitos
+
+¿Qué valoramos de ti?
+Experiencia desarrollando en PHP Laravel
+Experiencia en Angular y Vue.js
+Conocimientos de GIT
+Experiencia en metodologías Agile
+Actitud positiva y proactividad.
+Buen nivel de Inglés (no es necesario ser bilingüe)
+
+Beneficios
+
+¿Qué ofrecemos?
+Incorporación inmediata a un equipo jóven, dinámico e innovador.
+Independencia y autonomía para crear, proponer y ejecutar.
+Salario atractivo (ajustado a experiencia)
+Contrato indefinido a tiempo completo
+Homeoffice & CoWorking (Trabaja desde casa o en nuestro espacio CoWorking)
+Día de cumpleaños libre
+
+Si te atraen los retos, buscas desarrollo profesional en un excelente ambiente de trabajo y quieres formar parte de la aventura de una startup tecnológica, te esperamos!! Unga Bunga!!

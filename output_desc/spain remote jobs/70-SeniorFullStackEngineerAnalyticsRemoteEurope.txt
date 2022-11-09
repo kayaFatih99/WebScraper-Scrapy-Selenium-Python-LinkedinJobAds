@@ -1,0 +1,49 @@
+About the job
+Front is on a mission to make work happier with the first-ever customer communication hub. Relationships are everything in business, but they’re hard to maintain as a business grows because traits like trust, compassion, and empathy are human qualities that have been difficult for technology to scale. We’ve reimagined the way businesses communicate by bringing customer conversations to the center of one’s focus. Today, nearly 8,000 businesses have discovered that they can still grow their business and keep the human touch. The world is on course to work happier. We believe our role is to accelerate and shape this path in three ways: the product we make, the culture we live, and the example we set.
+
+With $204M in funding, Front is backed by Sequoia Capital and other leading venture capital firms, as well as independent investors including top executives of Atlassian, Okta, Qualtrics, Zoom, and PagerDuty. Front has received numerous Great Place to Work accolades, including #4 on Fortune’s Best Workplaces in the Bay Area™ , Inc. Magazine's 2022 Best Workplaces list , Forbes Best Startup Employers 2022 List , Best workplaces for Millennials 2022 list , and Y Combinator's list of Top Companies in 2022 .
+
+Front is a complex app with high performance requirements: some of our teams involve thousands of users working together in real-time on millions of messages every day. To meet those requirements, we use modern tools like NodeJS, React and TypeScript.
+
+As part of the Insights team, you will be responsible for accelerating the growth of the“Analytics” feature set of the product. This team serves the managers and decision makers by providing valuable and meaningful learnings to let them excel and scale their business in a competitive environment.
+
+To do so, we develop and integrate a full BI engine to provide valuable insights, that matches the use cases of collaboration and performance, in our simple and intuitive UI inside Front, without the the need for an extra tool.
+
+We are able to hire remotely in France, the UK, Ireland, and Poland.
+
+What will you be doing?
+Own central, complex components of the Front application
+Drive and deliver on our product roadmap , turning rough specs into features
+Make Front more valuable to our users by providing them with relevant insights on their business
+Make Front more reliable by scaling our data engine to match our customer’s growth and ingesting their datasets
+Make Front more efficient by raising our #high-standards and focusing on operation and maintainability
+Design and contribute to sub-systems to make Front a better, more powerful collaboration software.
+Work closely with product managers, product designers and other engineers to conceptualize, build and test new features.
+Provide leadership and mentorship to other engineers on the team
+What skills and experience do you need?
+Industry experience building fast, reliable, real-time web-based applications.
+Knowledgeable about modern web technologies and excited to learn new ones, e.g. Node.js ES6, TypeScript, React
+Exposure to architectural patterns of a large, high-scale web application
+Experience with processing high-volume of data
+Product minded: committed to building the best user experience.
+Ability to thrive in a dynamic, fast-paced, collaborative, and high-growth environment.
+Understand the trade-offs in employing different engineering solutions to a problem, valuing pragmatism over idealism.
+Full professional English proficiency
+Expertise with data management and Elasticsearch is a plus
+What We Offer
+
+✨ Competitive salary
+
+🤝 Equity (we are post-series D & backed by some of the best VCs in the US)
+
+🏥 Private health insurance fully covered by Front
+
+💪 Flexible Fridays - learn more here !
+
+🏡 Flexibility to work from home 3 days/week (unless posted as a full-remote role)
+
+🛋 Mental health support with Modern Health
+
+🍼 Family planning support with Maven
+
+Front provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age or disability.

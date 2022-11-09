@@ -1,0 +1,77 @@
+About the job
+ABOUT US:
+
+Braintrust is the only network that gives in-demand talent all the freedom of freelance with all the benefits, community and stability of a full-time role. As the first decentralized talent network, our revolutionary Web3 model ensures the community that relies on Braintrust to find work are the same people who own and build it through the blockchain token, BTRST. So unlike other marketplaces that take 20% to 50% of talent earnings, Braintrust allows talent to keep 100% of earnings and to vote on key changes to improve the network. Braintrust is working to change the way freelance works – for good.
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Remote - United States only (TimeZone: PST/CIST | Full day overlap)
+HOURLY RANGE: Our client is looking to pay $115 – $145/hr
+ESTIMATED DURATION: 40h/week - Long-term
+
+THE OPPORTUNITY
+
+US only. No exceptions.
+
+Our client will require an in-depth background check for this engagement (including fingerprinting and ID verification). They will also send you a laptop and will therefore require a US mailing address.
+
+Overview:
+
+As part of the Digital Technology Team - Design, Develop and document front-end SPA and microservice and system components consisting of several objects working together to execute a business function of the larger system. Interact with solution architects or other business/technical leaders to understand subsystem and component specifications and recommend changes to facilitate efficient and effective development. Interact with representatives of other cross-functional teams to understand and/or recommend requirements and strategies for the project.
+
+What you’ll do as a React Frontend Engineer:
+Work with the business and IT team to understand business problems, and to design, implement, and deliver an appropriate solution using Agile methodology across the larger program.
+Develops code and test artifacts that reuse subroutines or objects, is well structured, backed by automated tests, includes sufficient comments and is easy to maintain.
+Work independently to implement solutions on multiple platform (DEV, QA, UAT, PROD).
+Provide technical direction, leadership, and reviews to other engineers working on the same project.
+Implement and debug front end web applications, subsystems/micro service and components.
+Participate in integrated test sessions of components and subsystems on test and production servers.
+Follows automate-first/automate-everything philosophy.
+Determine and communicate the implications of system-level decisions on subsystems and Components and help determine how best to mitigate or take advantage of these implications.
+Perform tasks efficiently and work together with team to ensure project success.
+Support management of the team’s technical infrastructure (e.g., repository, build system, testing system) under guidance from the systems engineer or another project leader.
+Hands on in multiple programming paradigms, not limited to Object Oriented.
+
+You could be a great fit if you have:
+
+Required Skills/Experience
+2+ years of professional experience and expertise in developing mobile-ready websites using ReactJS
+2+ years full stack experience in building highly scalable software systems is highly desirable
+Bachelor in Science – Computer Science or equivalent.
+Hands-on experience with system programming, development of service/module type of applications in Java, Nodejs, and mainstream scripting is a plus
+Understanding technologies including JavaScript, Node Js, Git, Jenkins, is desirable
+Can write CSS from scratch. Creates solid page layout and ReactJS components with vanilla CSS without relying on CSS libraries or frameworks. Familiar with the latest CSS specifications like CSS Grid, CSS Flexbox, etc.
+Working experience with automated testing of complex web applications
+Openshift, Amazon AWS Cloud, and Apigee API Integration platform experience a big plus
+
+Preferred Skills/Experience
+Good communication and collaboration skills.
+Independent and self-organized.
+Container style of programming– Micro-services, Docker, Openshift.
+Experienced across programming languages, patterns, and data structures.
+Strong computer science background including distributed computing.
+Good knowledge of software development tools and methodologies.
+Good knowledge of secure coding practices is a plus.
+Good exposure to software development life cycle, development process flow, and the usage of their tools.
+Must be aware of agile, incremental, or spiral development methodology.
+Excellent diagnostic and troubleshooting skills, problem-solving, and the ability to learn quickly.
+Domain Knowledge in Financial Services is a plus.
+Good communication skills to articulate views/thoughts with team and partners or customers without any gap.
+Willingness and Ability to learn new technologies.
+Expert knowledge of computer languages, data structures, program design methods, and techniques.
+Ability to troubleshoot complex problems systematically.
+Self-motivated, thorough, and methodical.
+
+Job demands:
+- Must be able to review and analyze data reports and manuals; must be computer proficient.
+- Must be able to communicate effectively via telephone and in person.
+
+Apply Now!
+
+#PL-BT
+
+ABOUT THE HIRING PROCESS:
+
+Qualified candidates will be invited to do a screening interview with the Braintrust staff. We will answer your questions about the project, and our platform. If we determine it is the right fit for both parties, we'll invite you to join the platform and create a profile to apply directly for this project.
+
+C2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.

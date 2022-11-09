@@ -1,0 +1,30 @@
+About the job
+En Uttopion estamos buscando un Desarrollador Fullstack para unirse a nuestro equipo.
+
+Requisitos Mínimos
+• Más de 5 años de experiencia en programación.
+• Dominio de lenguajes front-end fundamentales y experiencia en el desarrollo de aplicaciones web como HTML, CSS y Javascript.
+• Experiencia laboral comprobada con GIT.
+• Experiencia en el desarrollo de API Rest
+• Capacidad para trabajar en equipo y de forma autónoma: gestionar prioridades y cumplir plazos.
+• Ser organizado, responsable y proactivo.
+
+Requisitos deseados
+
+• Experiencia en maquetación web y desarrollo web responsive, con criterio, excelente gusto y atención a los detalles.
+• Experiencia en Ruby on Rails.
+• Conocimientos de plataformas cloud. Ej: AWS, Azure, Google…
+• Conocimientos con bases de datos relacionales y no relacionales. ( PostgresSQL, MySQL, MongoDB, Redshift, Cassandra…)
+
+Responsabilidades
+• Desarrollar y mantener la arquitectura del sitio web front-end.
+• Desarrollar funcionalidades en back-end.
+• Escribir pruebas automatizadas para asegurar el correcto funcionamiento de la aplicación.
+• Escribir código de alta calidad, rendimiento y mantenimiento.
+• Estimación de tareas de sprints Scrum.
+
+Beneficios
+• Salario basado en experiencia
+• Contrato indefinido a tiempo completo o freelance
+• Un ambiente de trabajo bueno y joven
+• Horas de trabajo flexibles

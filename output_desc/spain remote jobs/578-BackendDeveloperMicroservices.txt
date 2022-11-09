@@ -1,0 +1,29 @@
+About the job
+¡Ampliamos equipo en Tailor Made Java&OS! Buscamos a Desarrollador/a Backend Java con conocimientos de micro servicios en Quarkus.
+
+¿QUÉ BUSCAMOS?
+
+Perfiles con experiencia en:
+
+Experiencia en desarrollo de microservicios en Java 8+
+Experiencia en desarrollo con stack Spring Boot
+Conocimientos de Docker y Kubernetes.
+Metodología Scrum.
+*Se valora experiencia en desarrollo en Quarkus
+
+EXPERIENCIA
+
+Al menos 2 años en puestos similares.
+
+¿QUÉ OFRECEMOS?
+
+· Estupendo ambiente laboral, las personas que componen nuestros equipos lo hacen posible.
+· Teletrabajo y horario flexible.
+· Formación a medida y posibilidad de participar en gremios y grupos transversales de difusión de conocimientos de todo tipo.
+· Plan de carrera personalizado, para que alcances las metas que te propongas.
+· Estabilidad laboral.
+· Beneficios sociales con nuestra plataforma de retribución flexible y diversas iniciativas de salud y bienestar con nuestro programa VASS Care.
+
+Si eres una persona con iniciativa y ganas de crecer tanto personal como profesionalmente, ¡no lo dudes e inscríbete! Te incorporarías de manera estable a nuestros equipos de Madrid.
+
+*Se garantiza confidencialidad en todo el proceso de selección.

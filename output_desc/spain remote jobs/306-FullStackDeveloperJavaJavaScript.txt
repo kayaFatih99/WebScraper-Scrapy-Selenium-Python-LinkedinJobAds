@@ -1,0 +1,37 @@
+About the job
+¿A QUIÉN BUSCAMOS?
+En SNGULAR nos encontramos en búsqueda de perfiles full stack con experiencia trabajando en el back con Java en arquitecturas de microservicios y conocimientos de Front, ya sea en JavaScript puro o con algún framework.
+
+Si estás buscando formar parte de una compañía que apuesta por la calidad y la entrega de valor a cliente, y que por encima de todo cuida de su gente, tenemos un lugar para ti. :)
+
+¿QUÉ REQUISITOS TÉCNICOS BUSCAMOS?
+Al menos 4 años de experiencia con Java.
+Al menos 1 año trabajando con JavaScript o alguno de sus frameworks.
+Prestas atención a la optimización del código, buenas prácticas, estándares, clean code.
+Acostumbrado/a a trabajar con Agile (Scrum, Kamban).
+
+¿QUÉ HABILIDADES/SOFT SKILLS NOS GUSTARÍA QUE TUVIERAS?
+Habilidad para trabajar en equipo (agile).
+Proactividad.
+Versatilidad y adaptación a nuevas herramientas y tecnologías.
+
+¿POR QUÉ ELEGIR SNGULAR?
+Lo primero porque trabajarás con grandes profesionales del sector y con tecnologías punteras. Y además te ofrecemos:
+Acceso a formación continua (presupuesto individual para formación, obtención de certificaciones, asistencia a eventos, acceso ilimitado a Udemy, clases de inglés)
+Asistencia ilimitada a eventos y meetups todas las tardes en nuestro Hub
+Plan de carrera y seguimiento 1 to 1
+Flexibilidad horaria y teletrabajo
+22 días de vacaciones + tu cumpleaños + 24 y 31 de diciembre
+2 días libres para la asistencia a eventos técnicos.
+Wellbeing pack: Ayuda para la mejora del bienestar.
+Jornada intensiva todos los viernes y los meses julio y agosto
+Salario competitivo, adaptado a las capacidades y experiencias de las personas
+Retribución flexible
+And last, but not least: ¡porque somos muy sngulares! Tenemos tutti fruties todos los viernes (ya te diremos en qué consisten), fiestas, espacios donde podrás expresarte, proponer cambios y ser partícipe de ellos (lo que nos gusta llamar #challengeyourcompany). Y también: competiciones de baloncesto, padel, escalada, juegos de mesa, clases de baile, team buildings, etc. Y no sólo lo decimos desde Talent, sino que puedes preguntar a al resto de sngulares o hacerte una idea viendo esto https://bit.ly/2UqMMAa
+
+
+En SNGULAR entendemos la diversidad y promovemos la inclusión, por ello, mantenemos un compromiso claro con el establecimiento y desarrollo de políticas que integren la igualdad de trato y oportunidades entre todas las personas, sin importar su género, sexo, orientación sexual, procedencia, situación familiar, raza, color, edad, religión o cultura.
+
+Si al leer esta oferta sabes que estamos hablando de ti, no dudes en enviarnos tu perfil, ya que estamos deseando conocerte en persona. Y si crees que conoces a alguna persona que cumpla estos requisitos, no dudes en decirle que nos escriba.
+
+¡Te esperamos!

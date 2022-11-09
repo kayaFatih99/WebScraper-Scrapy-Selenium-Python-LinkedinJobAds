@@ -1,0 +1,33 @@
+About the job
+Are you passionate about developing great iOS applications for top-notch companies around the globe? Then your opportunity has arrived!
+
+WebCreek is looking for a Middle/Senior-Level iOS Developer with more than four years of experience. This role is a 100% remote position in Europe.
+
+What You'll Do
+Collaborate with the development team to build high-quality code, following and contributing to key processes like code reviews.
+Provide technical leadership, driving and performing best engineering practices to initiate, plan, and execute critical programs.
+Make decisions in solution architecture.
+Identify imperfections and suggest improvements in the app.
+Help the team troubleshoot if needed.
+
+What You Have
+4+ years of working experience in software engineering
+Extensive experience developing iOS applications in Swift and also experience with Routers, MVP, OOD, KISS, Moya, DI (Swinject), FastLane, swiftgen, bundler
+Solid understanding of the full iOS mobile development life cycle
+High English Proficiency (B2 - C2).
+Passionate about solving new problems
+
+What You'll Gain
+Full-time, remote position in a quickly growing company.
+Competitive salary with regular revisions.
+Many excellent programs and benefits.
+In-house IT and English training and certifications.
+Flexible work environment.
+International team with opportunities to work abroad.
+
+Who We Are
+WebCreek is a provider of world-class software development teams and technical staff augmentation. We serve many Fortune 500 companies and other leading organizations. We have operations in ten countries and over 25 years of experience delivering top-notch digital solutions to the companies that power our world.
+
+WebCreek is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, nationality, genetics, pregnancy, disability, age, veteran status, or other characteristics.
+
+Find out more about our job opportunities: https://www.webcreek.com/en/careers/.

@@ -1,0 +1,32 @@
+About the job
+We're not a recruitment agency.
+
+We provide quality embedded recruitment, on a subscription-based model that’s flexible to suit your needs. We operate within your business and provide a full-service hiring solution for a cost-effective monthly subscription.
+
+About Banked
+We’re building a global, digital payments network, based on API access to highly secure banking rails, but free from the limitations of their decades old technology and cost model to support it. Payments have so far missed out on the cost benefits that come from scale and the innovation potential of the digitisation of all other areas of our lives. With deep partnerships across the ecosystem we’re making real-time payments work for a digital world. We believe moving money + data together is an untapped source of innovation, and will change not only the way we buy things, but the way we live with more useful and relevant experiences. We believe it's what makes us different from other payments providers.
+We’ve recently raised our Series A funding for the next phase of our company roadmap, so we’re expanding the engineering team to meet the coming, new challenges.
+About the role and the team
+We're looking for someone who shares our vision, who identifies with our desire to reinvent payments and will help guide us through our growth to directly compete with Visa and Mastercard. You'll participate in the direction of the company and products, you'll be part of a team where everyone has a voice.
+As a Back-End Engineer at Banked you'll be building our core API products and back-end services. You'll deliver event driven, composable and distributed systems that can be consumed either directly by our customers or by other engineers at Banked. You'll also build resilient integrations with some of our external partners and their APIs, building the core functionality of our products.
+We don't expect people to be experts with all of the technology we use or to immediately be able to pickup all the tasks we might ask of them. We want to build an environment where people can learn and grow openly, where failure is accepted as a part of learning and there's enough to support to help people be successful.
+You will
+Work with other engineers, product managers and designers across the company to prioritise, build, measure and iterate over new features or products
+Be part of the team responsible for building products for merchants/partners and consumers on top of our new payment network
+Build services and software that's fast, resilient and and meets our challenging scale, integrity and security needs
+Build event based, REST based or RPC based interfaces that are consumed by engineers on other teams or by our customers
+Improve engineering standards, tooling and processes as we grow
+You may be a good fit if you have
+Experience in communicating and working with software teams, and working towards building inclusive, fun environments
+The ability to reason intelligently about complex, uncertain problems and reduce them down to clean, simple abstractions through well designed systems
+Experience in taking software end-to-end, from inception working alongside engineers and product managers to production and beyond
+Experience developing distributed, reliable and resilient systems
+Substantial experience in Go
+Any combination of the following would make your application stand out
+Experience writing software that integrates with multiple external systems
+Experience in payments, fintech or in any mission-critical / regulated industry
+Experience building public APIs and designing for developer experience
+Experience building service based architectures
+Experience building within event driven architectures
+Experience working with public cloud technologies (GCP, AWS)
+Experience with k8s

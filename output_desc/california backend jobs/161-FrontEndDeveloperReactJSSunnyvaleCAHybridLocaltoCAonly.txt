@@ -1,0 +1,18 @@
+About the job
+Role: Front End Developer(React JS)
+Location: Sunnyvale, CA (Hybrid, need to come onsite biweekly)
+Duration: 6 months long term contract
+One & Done interview
+Client: Apex Systems/Walmart
+Job Description
+Frontend, bit of Node, DevOps, automation - frontend and automation
+The team has automation engs and frontend engs, they develop automation for the entire team
+Wants engineers coming to office in Sunnyvale, 1-2x week, once every other week is ok too
+Candidates Must Know: React, Node, JS, SDLC, how to develop software, production, support, maintenance, looking at the tools
+Nice to Have: DevOps, Jenkins, Docker, Kubernetes
+
+Thanks & Regards,
+Kiran Kumar | Technical Recruiter
+Email: kiran@sapphiresoftwaresolutions.com
+LinkedIn: https://www.linkedin.com/in/kiran-kumar-91190a15b/
+Sapphire Software Solutions Inc.

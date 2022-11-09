@@ -1,0 +1,27 @@
+About the job
+4-6 years of hands-on experience in developing web-based software applications.
+Collaborate with product managers and your peers to execute on a broad range of projects for the digital products.
+Responsible for future enhancements to designing and building technical solutions.
+Design complex, secure and optimized web-based applications using Java, Spring and will be equipped with modern CI/CD developer tool kit (STS/IntelliJ, GitHub, Jenkins, and Nexus), JWT etc.
+Work closely within a cross-functional Agile delivery team to understand requirements, create development story design documents, and implement stories.
+Break down a product vision into workable technical solutions to solve business problems
+Build high quality software for large scale and highly available systems
+Provide strong technical and team leadership
+Talk about your work with both technical and non-technical team members (Offshore and Onshore)
+Promote a risk-aware culture, ensure efficient and effective risk and compliance management practices by adhering to require standards and processes
+Required Skills & Responsibilities:
+Must have hand on experience with Java and Spring Modules (Boot, Security, MVC, Batch, Cloud, etc.) for large scale applications.
+Experience in working on any Cloud Platform ( AWS, PCF and/ or Azure etc.).
+Experience in working on Event driven application development (MQ, Kafka etc.).
+Experience designing REST APIs and implementing RESTful web services.
+Hands on experience working on CI/CD – DevOps ( Jenkins etc.) tools.
+Experience in working on ReactJS, AngularJS etc.
+Design and implement applications that are running on J2EE platform.
+Good understanding of SCRUM/Agile methodologies.
+Experience using continuous integration and delivery concepts and software (Jenkins, GitHub, Gradle, Nexus, etc.)
+Excellent trouble-shooting skills, with the ability to quickly identify and document the root cause of issues, and effectively communicate possible resolutions
+Assist with and understand the building of applications using stored procedures, functions, and triggers on RDBMS such as Oracle and/ or NoSQL DBMS such as MongoDB.
+Own the quality of the product, from code architecture to end-user quality.
+Value Added Skills:
+Knowledge in working on Kubernetes or OpenShift.
+Knowledge on in-memory databases like Spring Data - Gemfire, Redis, Cassandra and Spring H2 Technologies.

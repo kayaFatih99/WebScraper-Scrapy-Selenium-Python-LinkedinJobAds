@@ -1,0 +1,28 @@
+About the job
+Senior Software Developer – BioTech
+Salary up to £85k with competitive benefits
+Location: London (Hybrid and flexible working hours)
+
+Software Developer (Python, Django, FastAPI) - We are seeking a Software Developer to apply behavioral science and AI to improve the quality of life and survival of cancer patients.
+Through creating a mobile platform that allows patients to collect and track data relevant to their care, we help them feel more in control by also providing lifestyle data to improve their overall health.
+
+You will help by creating software as a medical device through also integrating machine learning systems together- with the goal of developing reliable and trustworthy solutions.
+
+Our software developer will have full autonomy, with opportunity to participate and contribute towards improving all aspects of our software engineering process.
+
+Essential: Python, ProgreSQL, Docker, FastAPI and having the ability to take technical mentorship of the team around you.
+
+We can offer our Software Developer:
+
+Flexible working hours, attending office once a week
+A rewarding career with possibility to excel and progress
+Full health, dental, hearing and sight insurance
+Quarterly team days out
+
+Please only apply to this position if you are located in the UK and are eligible to work without sponsorship.
+
+We can also offer our Software Engineer an environment which is perfect for a true technologist. You will be surrounded by individuals just like yourself with a willingness to share ideas and collaborate in a high-impact and fast-growing startup.
+
+Apply now for immediately consideration for this excellent Python Developer opportunity!
+
+Understanding Recruitment is acting as an employment agency for this Python Developer vacancy.

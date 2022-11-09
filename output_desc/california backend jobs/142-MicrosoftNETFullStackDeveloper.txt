@@ -1,0 +1,90 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Vector Consulting, Inc, is seeking the following. Apply via Dice today!
+
+Vector Consulting is seeking Microsoft .NET Full Stack Developer on a remote 6+ months renewable contract opportunity in Austin, TX.
+
+Role: Microsoft .NET Full Stack Developer
+
+The Developer/Programmer Analyst performs advanced analysis and programming work involving all technical aspects of designing, creating and maintain software applications.
+
+This position will work with the development team to provide the following Software Development Services:
+
+Perform technical analysis by reviewing the user requirements and create design documents.
+Perform coding adhering to agency and industry standards, best practices, and customer requirements.
+Perform testing verifying they match the requirements, including the creation of test data, test cases and test scripts.
+Prepare and maintain technical documentation as required (i.e., design documents, process flows, object or data models, project plans, environment diagrams, test plans, etc.).
+Collaborate with the project team for sprint/release work on tasks such as providing development effort estimates, discussing architecture and design, triaging, and resolving defects or issues in multiple environments and providing status on work assignments or issues.
+
+The Data System modernizes and improves the quality of data collection, management, and reporting.
+
+Ii. Candidate Skills And Qualifications
+
+Minimum Requirements:
+
+Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.
+
+Years
+
+Experience
+
+Required/Preferred
+
+8
+
+Required
+
+Developing complex web applications using C#, ASP.NET MVC, ASP.NET CORE and ASP.NET Web API
+
+8
+
+Required
+
+Designing and Implementing enterprise level databases on SQL Server and Oracle platforms
+
+6
+
+Required
+
+esting each deliverable, using a strong testing methodology for Unit and Development testing.
+
+6
+
+Required
+
+XML, JSON, API Testing, JavaScript frameworks like Angular or React
+
+2
+
+Preferred
+
+Working knowledge of Microsoft Blazor
+
+2
+
+Preferred
+
+Working knowledge of Oracle PL/SQL and Oracle JSON functions
+
+2
+
+Preferred
+
+Familiarity with Ed-Fi Data Standards and Technologies
+
+2
+
+Preferred
+
+Previous experience with Data System preferred
+
+1
+
+Preferred
+
+Familiarity with Bitbucket and Jira
+
+About Vector:
+
+Vector Consulting, Inc., (Headquartered in Atlanta) is an IT Talent Acquisition Solutions firm committed to delivering results. Since our founding in 1990, we have been partnering with our customers, understanding their business, and developing solutions with a commitment to quality, reliability and value. Our continuing growth has been and continues to be built around successful relationships that are based on our organization's operating philosophy and commitment to ** People, Partnerships, Purpose and Performance - THE VECTOR WAY
+
+provided by Dice

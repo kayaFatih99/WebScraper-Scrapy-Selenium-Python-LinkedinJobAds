@@ -1,0 +1,26 @@
+About the job
+No recruiters. Female applicants are welcome. Remote (EMEA).
+
+THRESH0LD is a B2B SaaS business helping crypto companies manage their digital assets. We are scaling and looking for switched-on driven professionals who want to grow and help accelerate our growth.
+
+Your role will include:
+Identify suitable API data providers for a range of blockchains
+Integrate APIs to the existing backend system
+Design and implement improvements to the existing backend system
+Contribute readable, well-tested, and well-documented code
+
+Requirements:
+Experience with Python (incl. Pandas)
+Experience with Database such as MySQL, PostgreSQL
+Experience with API integration
+Experience with Linux
+Fluency in English, another language is a bonus
+Strong skills in problem-solving, algorithm design and data structure design
+Strong communication and teamwork skills.
+
+Good to have:
+Experience with public blockchains such as Bitcoin and Ethereum
+Experience with other backend technologies such as NodeJs, PHP, GO, Java
+Experience working on AWS
+Understanding of smart contracts
+Understanding of ETH layer 2

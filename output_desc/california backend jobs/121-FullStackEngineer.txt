@@ -1,0 +1,37 @@
+About the job
+Title –Full stack JAVA developer
+Full time
+Remote till covid
+
+Project Overview:
+We are seeking a Full Stack Developer to join our team. In this role, your strong analytic skills and ability to solve challenges with technology will make an impact on our government clients’ critical missions, improving millions of lives across the globe.
+
+Position Overview:
+Analyze problems such as user requirements, input data and form, output data and form, available computer configuration, processing, and turnaround time requirements
+Evaluate, test, and manage configuration that support the software development process
+Plan, conduct, and direct systems projects of major importance and difficulty by applying your advanced computer systems knowledge
+Research systems analysis methodology and create a repository of such information in electronic format for re-use
+Maintain comprehensive knowledge in the development of client/server and internet applications that utilize a n-tier architecture and graphical user interface
+Provide deployment support by deploying code, static files, and/or databases by request to the staging environment and syncing static files and databases among environments
+Other similar professional duties assigned as needed
+
+Required Qualifications:
+
+7+ years of experience in open source web development
+Experience building websites using JS frameworks such as Angular and React
+Experience building applications using Java, Spring boot, JSON, and JavaScript
+Experience with Databases such as MySQL and PostgreSQL
+Experience with test automation tools such as Cucumber and Selenium
+Experience with automated deployment tools such as Jenkins
+Experience in Test Driven and Behavior Driven Development frameworks
+Ready to embrace a fast-paced work environment with deadlines and new challenges
+Strong communication and teamwork abilities
+Solid understanding of CI/CD pipeline
+Bachelor’s degree in computer science or a related field with 3-5 years of relevant experience
+
+Thanks and regards,
+
+Jerrin Jasper
+linkedin.com/in/jerrin-jasper-993796182
+jerrin@urbanesystems.com
+5714679977 EXT:415

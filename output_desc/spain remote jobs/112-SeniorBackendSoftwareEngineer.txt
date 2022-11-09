@@ -1,0 +1,57 @@
+About the job
+This position is fully remote, but candidates must be based in Spain and have the right to work in Spain without a work permit. Please submit your English CV.
+
+What are you looking for in your next company? An open, friendly culture? Smart application of an excellent tech stack? Real diversity? Rock-solid products? If these matter to you, we have some great things to talk about!
+
+Hearsay Systems is looking for talented Senior Software Engineers to join our ever-growing Engineering Team! You'll closely cooperate with our teams based in Budapest. Get to know them better by watching this video . We have an ambitious growth plan that still ensures individual development in small teams.
+
+As a backend software engineer at Hearsay, you will get direct experience designing, developing, testing and deploying services that work at high scale and with enterprise reliability. You'll be working in a startup culture at one of Silicon Valley’s leading enterprise companies; working side by side with engineers that have years of experience designing and scaling extremely large systems.
+
+You will be a key player in developing and improving new and existing flagship Hearsay products ranging from our workflow execution platform that solves strategic scenarios in customer outreach to business-critical APIs that allow seamless connections to Facebook, LinkedIn, Twitter, and Instagram.
+
+If this sounds intriguing to you, then read on and apply!
+
+About Hearsay Systems
+
+Founded in 2009, Hearsay Systems is the trusted global leader in digital client engagement for financial services. Our Client Engagement Platform empowers over 200,000 advisors and agents to proactively guide and capture the last mile of digital communications in a compliant manner. The world’s leading financial firms—including New York Life, Morgan Stanley, Charles Schwab, and Ameriprise—rely on Hearsay’s compliance-driven platform to scale their reach, optimize sales engagements, grow their business and deliver exceptional client service.
+
+We are a tight-knit and dedicated team that passionately believes in our products, our people, and our culture. Our products help advisors and agents compliantly scale personalized customer engagements across social media (Facebook, LinkedIn, Twitter, Instagram), websites, text, and voice.
+
+Hearsay is headquartered in San Francisco, with globally distributed teams throughout North America, Europe and Asia. Hearsay is backed by Sequoia Capital, NewView Capital, and Salesforce Ventures.
+
+About the role:
+
+Collaborate with various engineering teams, product management, and design to execute a diverse range of engineering challenges that touch every aspect of Hearsay products
+Contribute to product architecture to ensure seamless development of new product features and architect infrastructure to support a fast-growing user base
+Be directly responsible for multiple components within the platform
+Share your thoughts on product features, the user experience, or literally anything else across the company
+
+About you:
+
+5+ years developing business solutions with a strongly typed OOP language like Java, Kotlin, C# or Python (at Hearsay you’ll work with Python and Kotlin)
+You've got experience working across the technical stack, developing modern web apps, and building systems that scale
+On senior and expert levels you have strong opinions about what good code is, and can make persuasive arguments to influence your team (and the rest of the company)
+On senior and expert levels, solid understanding of relational databases (tables, queries, data types, indices), understanding schema design
+Understanding of data flows between systems on networks and basic security constructs that are used in on-premise and cloud-based enterprise solutions
+You love working with a diverse group of people, with different approaches and styles
+Ability to learn new technologies and frameworks quickly
+Strong analytical and problem-solving skills in software development
+Ability to communicate in English (speaking, reading, and writing)
+
+Preferred experience:
+
+REST APIs
+Salesforce, Microsoft Dynamics or another CRM system
+Kotlin
+Terraform, Terragrunt, CircleCI, Github Actions, Bash
+Spring Framework (Spring Data, Spring Cloud)
+Docker
+Distributed messaging
+AWS (Lambda, SQS, SNS, Kinesis, ECS)
+GCP/Azure
+
+In the case of non-EU citizens, you should have a Permanent Residence Card or Residence Card for Third-country National Family Member of EEA National), as we cannot support the visa process.
+
+Our commitment to diversity and inclusion: At Hearsay we believe that diverse teams are the best teams. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+I hereby acknowledge that my personal data included in my application will be processed for the purpose of the recruitment process under the General Data Protection Regulation as of 25 May 2018, as amended from time to time.

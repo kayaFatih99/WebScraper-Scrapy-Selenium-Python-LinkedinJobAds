@@ -1,0 +1,15 @@
+About the job
+My client, a thriving Fintech is looking for a Java Backend Developer:
+
+This role has a bias towards backend development, however there will be a small element of front end development utilising technologies such as JavaScript, TypeScript, Angular and React.
+Knowledge of Rust, Solidity or other blockchain development would be useful as would a facility with NodeJs/Javascript and frameworks like Vue. A degree in a Maths heavy subject (e.g. Maths, Physics, Computer Science, Engineering) is desirable. I am looking for someone who is data led and understands the scientific method.
+
+You will be joining an informal and friendly work environment with fantastic offices based in central London where you can enjoy a comprehensive benefits package and perks such as free breakfast and drinks every day and a casual dress code.
+
+Requirements:
+Strong core Java programming skills
+Degree educated in Computer Science or similar
+Ideally you'll be from a financial services background
+Excellent communication and collaboration skills
+
+You may have participated in open source or built several technical projects on the side. With experience coding in Java and ideally another an Object Orientated programming language you will be passionate about testing and developing properly.

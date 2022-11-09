@@ -1,0 +1,22 @@
+About the job
+Inviting applications for the role of Java Developer. You may have a Software Development background, an Operations background or you were raised in a Java culture from the start of your career. Anyone of you can apply! Responsibilities
+Understand the business needs and make critical design decisions and implement the same with other team members.
+Participate in day-to-day activities involving design, development, test/production support, deployment and production monitoring and support monthly Billing updates.
+Maintain application server for backend batch processes and frontend API processes.
+Communicate with external teams including business clients on various issues and resolutions to provide the best customer experience.
+Participate in requirement gathering and create design documents.
+Requirements
+Relevant years of experience (0-2 years preferred) (freshers can also apply) in Java, J2EE, Spring, Hibernate, MySQL, JavaScript.
+Experience in design, development and support application solutions.
+Good understanding of front-end technologies- Angular JS, JQuery, CSS and HTML.
+Experience with multiple Source/Version control systems and understanding of code merging concepts.
+Ability to work in a team environment.
+Work on bug fixing and improving application performance.
+Qualifications/other desired skills
+Must have a bachelor’s degree or master’s degree or equivalent
+Understanding of Core Java, with a solid understanding of object-oriented programming, various design and architectural patterns.
+Adapt in working with Agile methodology
+Strong communication skills.
+
+
+Tips: Provide a summary of the role, what success in the position looks like, and how this role fits into the organization overall.

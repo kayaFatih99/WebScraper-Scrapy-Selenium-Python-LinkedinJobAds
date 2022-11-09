@@ -1,0 +1,45 @@
+About the job
+We're not a recruitment agency.
+
+We provide quality embedded recruitment, on a subscription-based model that’s flexible to suit your needs. We operate within your business and provide a full-service hiring solution for a cost-effective monthly subscription.
+
+
+At motors.co.uk we believe a car can help people get more out of life and it is our ambition to help everybody find the right car, confidently and with peace of mind. That’s why we are transforming motors.co.uk into the preferred destination to find a car, so people can spend less time searching and more time living.
+
+About the role:
+We are looking for a highly skilled Senior Backend Engineer to become part of our Motors business and help develop and deliver our new platform strategy.
+
+We are embarking on a significant business transformation project as we migrate from legacy platform technologies to our new Java and Google Cloud based platform. We need a top-notch Senior Backend Engineer to join our team and to help guide the technology teams through this journey.
+
+As a Senior Backend Engineer you’ll be reporting to an Engineering Manager, while being an active contributor on our cross-functional journey teams. You’ll be relied on to independently develop and deliver high-quality features and finish tasks to a high standard. You’ll be focussing on extending and improving our high traffic platform, while mentoring engineers around you, assisting in code reviews, hiring, maintaining and advocating strong development standards.
+
+Main responsibilities:
+
+You will be positioned as a Senior Contributor who will help us migrate to a modern cloud based automotive platform.
+
+Design, develop, test and release Java microservices on GKE/GCP
+Work with Site Operations to automatically deploy microservices to production
+Help decoupling code from existing monoliths into microservices
+Share knowledge and best practice in ‘Brownbag’ sessions to ramp up less experienced engineers
+
+Role requirements:
+Comfortable providing and receiving constructive criticism, particularly while participating in code reviews
+Familiar working in Agile teams and delivering software using Agile methodologies
+Be a technical sparring partner for the organisation to help the business craft efficient and effective requirements
+Experience working independently as well as part of a team
+Strong problem solving skills
+Experience in the following technologies:
+Java 11+ development
+Spring Boot and Maven
+Kubernetes and Docker in a GCP environment
+Jenkins
+Junit
+Preferably have experience with
+Open API
+Building highly scalable REST APIs
+Messaging based services using Confluent Kafka/GCP Pub/Sub
+Event Sourcing/CQRS services using Axon framework
+GCP technologies, GCS, Pub/Sub, Monitoring
+
+Perks
+Benefits are an essential part of your total compensation for the work you do every day. Whether you’re single, in a growing family, or nearing retirement, we offer a variety of comprehensive and competitive benefit programs to meet your needs.

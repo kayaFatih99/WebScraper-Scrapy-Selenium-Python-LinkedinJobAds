@@ -1,0 +1,32 @@
+About the job
+At mimacom we like active minds. Do you like to attend events, write blogposts or be the speaker of a congress? At mimacom we love that you do it! We are hungry for technology.
+
+From our offices in Europe and the USA we offer innovative IT Consulting solutions to local and global clients. We help them to optimize their technological solutions to give the best service to their clients. Because your success is our success. Because each person counts. Because you will contribute to our growth.
+
+If you want to continue growing with training and certifications. If you are interested in being part of a proactive team that seeks continuous improvement. If you want to have your space to express your own ideas and opinions. If you prefer to enjoy a very flexible schedule and work remotely… At mimacom we will love to meet you and grow with you!
+
+Your Profile
+
+Proactive person oriented to high quality standards.
+5+ years of hands-on Software Development experience with Java and Spring, or Kotlin.
+Experience in Cloud systems, preferably AWS (although experience with Azure/GCP will also be welcomed)
+Solid knowledge in event-driven architectures with Kafka.
+Experience working with tools like Jenkins, Docker and Kubernetes.
+Solid knowledge of Frontend technologies such as Javascript, Typescript and Angular will be a big plus.
+Excellent communication skills in English, which will be the main working language in the project.
+You are based in Spain.
+
+Your Challenge
+
+Take end-to-end responsibility for your code in our self-service portal and automation APIs.
+Enhance service offering by implementing new functionality in the self-service portal and underlying APIs to automate user experience.
+Your expertise in the cloud (native), will enable the team to establish new standards and engineered systems as PaaS.
+Use your interpersonal skills to work very closely to shape the discussion with architecture, security, and the platform provisioning team to facilitate the best possible usage of our platform.
+Participate in security assessments and audits as well as stay on top of latest developments in automation and platform engineering and educate other team members and stakeholders.
+
+Your Chance
+
+Work with cutting edge technologies in an Open Source world, while boosting your career with certifications, trainings, conferences, events, etc.
+Enjoy flat hierarchies, direct feedback and room to stand up for your own ideas. Feel free to investigate and suggest new and fresh ways to come up with solutions.
+Be part of an Agile and international environment and enjoy freedom with responsibility: Create and design your own schedule with flexitime and choose between remote or office work.
+Participate in cool team events: recording of podcast episodes, Lunch&Learn, Coffee&Tech and many more!

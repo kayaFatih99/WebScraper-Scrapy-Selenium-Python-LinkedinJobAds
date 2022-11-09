@@ -1,0 +1,33 @@
+About the job
+Looking for a Game Developer experienced in unity, photon pun and git, based in the U.K. to join a team of expert developers and work on a mobile treasure hunt experienced through gaming, where players hunt alone or with a squad to find hidden treasure chests full of real world prizes.
+
+Role
+
+You will be contributing to important decisions within a multidisciplinary team of passionate and talented people.
+This will involve fleshing out the details of a game's design, overseeing testing, and revising the game in response to player feedback.
+Creating a mobile game in a fast-paced environment
+Communicating well and collaborating effectively with the wider team and senior stakeholders
+Versatility to work on all aspects of the game (gameplay, features, menus, platform specifics, etc.)
+Knowing when to persevere and when to pivot to new ideas
+Deconstructing and analysing mobile games mechanics
+Supporting and contributing to new game/feature ideas
+A typical day will involve implementing new game features and services alongside developers and designers, improving existing game features based on testing feedback, and solving complex technical issues including performance, memory usage, and cross platform issues.
+
+This role is remote with the possibility in the future to attend team meetings in their London office location.
+
+Location: London, England, United Kingdom (Remote)
+Industry: Computer Games Employment type: Full-time permanent
+
+Profile
+
+You enjoy playing mobile games
+At least 3 years of professional experience as a Unity game developer in photon pun and git
+A creative mindset with a strong sense of ownership
+You're an impact person who shines through by the quality and timely execution of games you help create
+You can design, build, and maintain efficient, reusable, and reliable code through the appropriate use of design patterns
+A track record of working on mobile games, having worked on at least 2 games
+Familiarity with optimization issues
+A passion for finding trends, gameplay, and game mechanics
+Excellent communication skills and a positive collaboration mindset
+
+Benefits: competitive salary, remote working, MacBook 16” company laptop, medical insurance (provided after 6m probationary period)

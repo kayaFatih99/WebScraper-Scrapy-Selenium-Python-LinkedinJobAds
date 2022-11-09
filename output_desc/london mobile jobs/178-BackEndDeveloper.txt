@@ -1,0 +1,94 @@
+About the job
+BACK END DEVELOPER
+
+S-RM is recruiting several Back End Developers to play a key role in the expansion of our digital services.
+
+
+WHO WE ARE
+
+S-RM is a global risk and intelligence consultancy. Founded in 2005, we have 250+ practitioners spanning six international offices, serving clients across all regions and major sectors.
+
+We support our clients by providing intelligence that informs critical decision-making and strategies, from investments and partnerships through to disputes; by helping organisations build resilience to cyber, operational and security threats; and by responding to cyber-attacks, security incidents and organisational crises.
+
+Technology sits at the heart of our business and is central to our growth strategy. We combine the talent and experience of our consultants with technology solutions to deliver digitally-enabled services that delight our clients . Examples include Portal, a collaboration and workflow management tool; Monitor, an NLP-enabled compliance and media monitoring solution; Swan, an internal-facing intelligence collection and screening tool; and GSI, a geopolitical risk information tool. We are constantly adding new services and investing in digital transformation across all areas of the business.
+
+
+THE ROLE
+
+The Developer will play a key role in our technology team, working to build and maintain a suite of applications and tools to support the commercial success of Cyber Security and Corporate Intelligence divisions.
+
+Key responsibilities include:
+
+Work in a cross-functional team alongside product owners, engineers and domain experts to design and deliver solutions that meet business needs
+
+Contribute to the continued development of innovative tools to support our intelligence function (such as Portal, Monitor, Swan and GSI) and/or work on exciting new client-facing solutions for our Cyber Security team
+
+Uphold coding standards, perform code reviews and participate in pair programming sessions with other developers
+
+Assist with the management of automated lifecycle operations including build, test, integration and deployment pipelines
+
+Actively contribute to the continuous improvement of the team’s processes and practices through participation in agile sprint ceremonies
+
+
+WHAT WE'RE LOOKING FOR
+
+We think candidates with the following qualifications and experience are likely to succeed at S-RM. That said, if you don’t think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box—we’re looking for candidates that are particularly strong in some aspects and willing to receive guidance, mentoring and support to learn the other skills on the job.
+
+We nurture a culture of equality, diversity and inclusion and we are dedicated to developing a workforce that displays a variety of talents, experiences and perspectives.
+
+The qualifications and experience required to perform this role successfully are:
+
+Degree-level education in a computer science, maths or related numerate subject, or equivalent practical experience
+2+ years’ professional engineering experience, with back-end development focus, with knowledge of object-oriented programming languages (ideally Golang, NodeJS or Python but experience in others such as C# and Java will be considered);
+Some knowledge of web development frameworks, web application architecture and microservice architecture
+Experience developing solutions using cloud providers;
+Previous experience working in cross-functional agile teams
+
+Other Desirable Skills:
+
+Knowledge of search technologies such as ElasticSearch
+Professional experience deploying solutions in AWS
+An understanding of secure development practices
+Any prior knowledge/experience in Cyber Security
+
+The jobholder will need to have the following key personal skills and attributes to perform successfully in this role:
+
+Excellent planning and organisational skills
+Excellent attention to detail
+Ability to work independently and collaborate across different teams
+A proactive approach and a willingness to work outside the job specification when required
+
+The successful candidate must have permission to work in the UK by the start of their employment
+
+
+LOCATION
+
+The role will be based in our London office however flexible working arrangements are available.
+
+
+OUR BENEFITS
+
+We offer thoughtful, balanced rewards and support to help our people do their best work and live their lives outside it, including:
+
+25 days holiday per year in addition to bank holidays (+1 day for every day of service up to a maximum of 30 days).
+Financial education – free 1-2-1 consultations and mortgage clinics.
+Hybrid working and flexible working hours
+
+Parental Support:
+Fertility treatment leave – 5 days of leave per cycle of treatment per year;
+Maternity leave – 26 weeks of full pay followed by 13 weeks of half pay;
+Paternity leave – 6 weeks of full pay.
+
+Various Health and Medical Benefits:
+Private dental and medical insurance (taxable benefit);
+Virtual GP for you and your family members that live in the same household;
+Gym discounts for you and your partner;
+EAP programme for you and your immediate family;
+Free access to the world-famous mindfulness app Headspace;
+
+
+CONTACT
+
+To apply for this role, please email your CV to recruitment@s-rminfom.com
+
+S-RM nurtures a culture of equality, diversity and inclusion and we are dedicated to developing a workforce that displays a variety of talents, experiences and perspectives.

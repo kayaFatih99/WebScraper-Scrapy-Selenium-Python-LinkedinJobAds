@@ -1,0 +1,51 @@
+About the job
+A Little About Us...
+Larsen & Toubro Infotech (LTI) is a global technology consulting and digital solutions Company helping more than 475 clients succeed in a converging world. With operations in 33 countries, we go the extra mile to assist our clients and accelerate their digital transformation journeys.
+We lead in providing the best experiences for our clients and their customers. We provide our employees with a learning environment that promotes growth and creativity.
+To learn more please visit us at www.lntinfotech.com and follow us on Twitter @LTI_Global and Follow us at @LTI_Global on Instagram.
+
+Job Details-
+Location - Spain
+Working Model - Hybrid Or Remote
+Contract Type - Permanent
+
+JOB DESCRIPTION:
+Senior Developer (.Net)
+As a Senior developer you will be responsible for the ensuring the team deliver high quality software, using industry best practices for code management, testing and CI/CD. This is an exciting opportunity to build a new greenfield solution, working as part of a small team, to help the business improve their electronic trading capabilities within the fixed income space. The platform itself is built on top of AWS and makes use of many services within the AWS ecosystem.
+Take responsibility for the software delivery by ensuring quality and scope expectations are met.
+Contribute and take ownership of the technical design and ensure all aspects of the system architecture are well documented.
+Work closely with partner technology teams and to collaborate effectively.
+
+Job Responsibilities :
+Very deep understanding of .Net/.Net Core and Solid understanding of OO principles.
+Experience in ASP.NET Core Web API and RESTful API techniques.
+Solid understanding of and experience with multi-threading and asynchronous programming.
+Familiar with SQL and NoSql databases.
+Hands-on experience with containerisation solutions like Docker.
+Experience designing and building API based service oriented or microservice architectures.
+Diligent with automated testing i.e. Nunit/Moq/Cucumber etc.
+Strong experience with middleware messaging services like Rabbit MQ, TIBCO, SignalR etc.
+Solid experience with continuous integration and continuous delivery tools like Git, TeamCity etc.
+Agile development/Software life cycle.
+
+Nice to have Skills:
+Fixed Income product knowledge
+Experience configuring continuous integration and continuous delivery tools.
+An awareness of/understanding of one or more javascript single page application framework.
+Experience using AWS platform.
+
+Qualities & Skills:
+Energetic, motivated and determined
+Pragmatic and results-oriented
+Adaptable to diverse set of technical responsibilities
+Excellent analytical and problem solving skills
+Productive and able to manage time effectively
+Strong written and verbal communication skills
+
+Qualifications:
+Bachelor degree in Computer Science / Information Technology or a related field, or substantial practical experience of software delivery at an advanced level.
+
+If you think you have the skill and ability are matching the role description, do apply for this position quickly.
+
+LTI Talent Acquisition Team
+Europe Region

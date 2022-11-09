@@ -1,0 +1,42 @@
+About the job
+Location: Remote (EU, UK, US, Canada, South America)
+
+About us
+At SlashID, we are rethinking the way companies manage identity and authentication, giving users a better experience while respecting their privacy and keeping their data safe.
+At the core of our system are encrypted user identities, with API-based modules built on top, which accomplish tasks such as authentication, authorization, ID verification and many others.
+SlashID’s products are on our customer’s critical path and most of them require 99.99% uptime, so reliability and security are key to our engineering culture.
+Last but not least, we are a young startup. We work with tight deadlines, lean processes and ambitious roadmaps. We are a small, tight-knit team who strives to succeed in a competitive environment.
+
+About the role
+We’re looking for people with a strong technical background and a passion for building highly scalable and reliable systems. You’re a good fit if you are comfortable dealing with complex distributed systems, have exquisite attention to detail, and enjoy learning new technologies.
+SlashID is remote-first and we offer flexible working arrangements to help our team manage their daily lives in the way that works best for them.
+Please note: the exact level of the role (Senior or Principal) will depend on your experience and interview performance.
+
+You will:
+Design, build and maintain SlashID’s products, services and features
+Be part of the engineering team working on our Authentication, Data Vault and User Management services
+Use and adapt state-of-the-art cryptographic libraries and primitives
+Build tooling to monitor and analyze SlashID’s services, both in terms of performance and security
+Write technical documentation, blogs and guides
+Work with other highly motivated engineers who all have an intrinsic drive to make things better
+Use your passion for technology to ensure our platform operates flawlessly 24/7
+Have broad exposure to our entire architecture
+You'll use:
+Go (Golang)
+Hardware Security Modules (HSM)
+Tink
+GCP
+Terraform
+Docker
+Redis
+Postgres and MySQL
+You are a good fit if you:
+Have a strong understanding of reliability practices, distributed systems, and cloud native architectures
+Have experience as a cloud or backend engineer for a multi-tenant large scale mission critical system
+Have a thorough understanding of engineering best practices, including appropriate testing paradigms, effective peer code reviews, resilient architecture
+Have a good understanding of multi-threading, concurrency, and parallel processing technologies
+Have experience producing high-quality technical documentation for the products you develop
+Love building secure software, leveraging the latest cryptographic technology and methodology
+Thrive in a fast-paced, test-driven, collaborative, and iterative environment
+Have a passion for reliable and performant systems, and care deeply about user experience
+Enjoy working with a diverse group of people with different backgrounds and expertise

@@ -1,0 +1,33 @@
+About the job
+Oracle’s Food and Beverage Global Business Unit has the mission to shake up the food ordering industry.
+
+GloriaFood’s SaaS platform is a holistic online ordering solution that enables restaurateurs to easily create websites, branded mobile apps, ordering menus, and accept online payments.
+Besides the core functionality of online ordering, our product includes complementary modules such as: auto-generated websites and branded mobile apps, promotions engine, customizable receipts printing, automated email & sms marketing or dedicated management areas for partners.
+
+Our technology stack:
+- Node.js, Express, Socket.IO
+- MySQL, Redshift, Elasticsearch, Redis
+- Angular 8, HTML5, CSS3
+
+We’re searching for a passionate developer that can help us build great products. A proactive individual that gets things done fast, that loves challenges and is able to find creative solutions.
+
+What you’ll be working on:
+- Autopilot Selling - a marketing service that sends automated emails and sms on behalf of restaurants. Unlike other existing systems, Autopilot has all the campaigns pre-built, from content to client segmentation (e.g. cart abandonment, client inactivity, birthday, bad weather)
+- Reporting - sales and website analytics reports for restaurants. These include graphics, data exports and personalized recommendations.
+- Analytics system - our analytics infrastructure, the foundation of the Reporting and Autopilot modules. It requires you to explore ways to enhance data quality and reliability.
+
+Requirements:
+- Proven track record of shipping quality software in a number of professional environments (8+ years of experience preferred)
+- Experience designing, implementing and maintaining data intensive applications
+- Experience building apps requiring periodically crunch a large amount of accumulated data (batch processing)
+- Experience working with MySQL, PostgreSQL, Redshift, Elasticsearch, Node.js
+- Experience working with APIs and integrations with 3rd parties
+- Analytical mind with strong problem solving aptitudes
+- Ability to work both independently and as part of a team
+- Bachelor’s degree in Computer Science, Engineering or relevant field
+- Fluent in English.
+
+Experience with the following is a plus:
+- Event based data collection tools (e.g. Snowplow, Google Analytics)
+- Proficient in JavaScript
+- Single page apps using Angular or React frameworks.

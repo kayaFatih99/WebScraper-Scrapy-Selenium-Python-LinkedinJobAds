@@ -1,0 +1,47 @@
+About the job
+As you may know, roles in Data teams are a mess. Given the needs of the team, we are looking for a strong backend engineer with an interest in data engineering, to act as the Tech Lead of the team. Initially, as you will mainly work on the data platform engine, it's your software development skills that will matter the most, specifically, Extreme Programming's Incremental Design, and a good testing discipline. However, the domain of that piece of software (and future ones) is data engineering: thus, you will need to develop a good understanding of that realm.
+
+We work remotely but you can also work in Madrid offices. At the moment we are only seeking candidates in Europe (UTC+02:00 or similar).
+
+OUR TEAM
+
+You will be part of Nextail's Data Platform team. In the short/medium term, the team has the following main areas of focus:
+
+Developing the "data platform engine": An ambitious service to manage Snowflake (and possibly other data) resources, involving Infrastructure as Code in a declarative style, and database version control.
+Data governance, monitoring, observability, and cost control over Snowflake.
+While we migrate to Snowflake, keep the lights on for the current solution (based on Amazon Aurora MySQL and Redshift).
+
+In the future, the team will also be responsible for additional important parts of a data platform based on the Modern Data Stack, such as a data catalog.
+
+The team is composed by:
+
+Mario López (Engineering Manager)
+Daniel López (Data Engineer)
+Adrián Miralles (Data Engineer)
+
+We offer
+
+A highly innovative and fast-paced environment. As in any startup, expect to find a team with an interesting mix of business profiles (without the slides), IT geeks, data scientists, and as a fashion tech startup, a few fashion victims.
+The satisfaction of delivering something new to the world that will have a strong impact both on retailers’ top line and on customer satisfaction. Contribute to the development of cutting-edge artificial intelligence & machine learning technologies that will build the next generation of retail systems.
+The opportunity to work with top client decision-makers in the fashion retail industry and sharpen your business reasoning and interpersonal skills. Learn from peers from top consulting firms and the best global business schools.
+Flexibility in remote work and office hours, use of some of the most advanced collaborative tools.
+Periodic company get-togethers to meet the rest of the team.
+
+Desired Skills and Experience
+First of all, we are looking for a good workmate to join the team. We value working in a safe and constructive environment where everybody can thrive over any specific technical skill.
+
+In our team, you will also find people focused on generating an impact in the company, rather than just taking on new tasks to develop. We expect that the person who joins us is as excited about this bias towards impact and action as we are.
+
+The Requirements And Valued Skills For This Job Are
+
+Strong backend experience of at least 5 years, working with complex products and powerful teams.
+The data platform engine is written in Python, and the team writes quite a good deal of SQL. We don't discriminate by frameworks, we are looking for the right kind of person, even if you have to transition to other technologies, so we encourage you to apply if your core language is Java, .Net, or any other.
+Knowledge and interest in design patterns, SOLID, Hexagonal Architecture; everything related to software architecture and design.
+Knowledge and experience applying good development practices like TDD, CI/CD, etc.
+Experience working in fast-paced product-oriented startups.
+
+And remember, even if you don't have some of the requirements, don't hesitate to contact and tell us what you would like to bring to the team, we are always open for the right person 😀
+
+Nextail is an equal opportunity employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+To all recruitment agencies: Nextail does not accept agency resumes. Please do not forward resumes to our jobs alias, Nextail employees or any other organization location. Nextail is not responsible for any fees related to unsolicited resumes.

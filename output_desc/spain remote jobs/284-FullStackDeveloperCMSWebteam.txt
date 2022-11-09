@@ -1,0 +1,42 @@
+About the job
+Sportnco group is one of the leading sports betting and gaming solutions providers in the online gambling industry. We focus on producing the best iGaming solutions for our clients so that they can grow and develop across regulated markets worldwide.
+Now, Sportnco group belongs to the GIG group. Gaming Innovation Group is a leading iGaming technology company, providing solutions, products and services to iGaming Operators. Founded in 2012, GiG operates out of Malta and is dual-listed on the Oslo Stock Exchange under the ticker symbol GIG and on Nasdaq Stockholm under the ticker symbol GIGSEK.
+We are passionate about our work, and we have pleasure in making our work our great passion, proud of our great collaborative culture and work environment. We are looking for professionals who are eager to learn and work as a team, committed and positive, to join our multidisciplinary team.
+
+To support this strong growth which continues into 2022, Tecnalis, our Madrid's division, is hiring to strengthen its team.
+
+What are we searching for?
+
+We are looking for a technical profile with a full-stack knowledge base that at the same time has oral and written skills to manage tasks and projects to strengthen our IT team based in Madrid.
+
+It will be included in the team that works on the Development and maintenance of the CMS module (Content Management System) of the Alira platform
+
+Your function will be adaptation of the CMS module to the different gaming regulations of the countries in which the Alira platform operates. Perform optimizations / refactoring in the CMS module in order to improve the results in stress tests. Development of API's so that operators can interact directly with the CMS from their external content management tools.
+
+Integration of the CMS module with third-party tools, such as player identity verification tools
+Support our FRONT team also.
+
+Knowledge in deployment of configurations, services or scripts at the server level (Linux) will be valued.
+
+Mandatory requirements:
+
+Web technology (html, javascript, css)
+User-level database and basic MySQL queries
+Knowledge of programming languages -Java, JavaScript- 3 years of experience
+Front development frameworks (Velocity, React...)
+Good knowledge of J2EE standards
+Basic knowledge of Linux operating systems
+Version management (SVN)
+Basic knowledge of Tomcat / Apache admin
+Agile methodologies (Scrum)
+IDE (eclipse)
+
+
+We not only order, we also offer:
+
+A stable position in a company with more than 20 years of experience, consolidated and constantly growing.
+
+A good work environment. Work as a team with the best professionals in the latest technologies.
+Work on top-level projects in which developing and technology play a fundamental role.
+
+Not everything is work, we also like to meet and enjoy together in events and recreational initiatives, when the health situation allows us, in Madrid and is great environment, and with partial remote work as a consolidated option.

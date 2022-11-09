@@ -1,0 +1,60 @@
+About the job
+At Abusix, we are remote working pioneers and thought leaders fighting network abuse and other cyber threats on a global scale. We build an ecosystem that enables everybody on the internet to transform security-related data into actionable information, transport it to the right place, and help mitigate it as fast as possible. Together with our amazing customers, some of the biggest Internet Service Providers, Datacenter Operators, and Enterprises, we do make the internet a safer place.
+
+OUR VISION is to build a global platform for all internet stakeholders where data can be shared and made actionable to contribute to a safer online environment.
+
+OUR MISSION is to fight network abuse on a global scale.
+
+About The Role
+
+Our engineering team is looking for an Experienced Backend Engineer (Java focus) (gn) with a high degree of self-initiative, excellent communication skills and a huge eagerness of taking on responsibility. You join the team that is taking care of our SaaS solution AbuseHQ. In this position you are responsible for maintaining and improving the core AbuseHQ API service as well as the implementation of new features. By taking on responsibility and contributing your own ideas, you will bring our products to the next level.
+
+What You Will Do
+Continued development of AbuseHQ's main API (JavaEE based) to build new features and contribute to the breakdown of our legacy Java monolith to boost the usability and performance of our services.
+Improve our test base (unit, integration, e2e) to increase quality. Validate your own code via unit and end-to-end testing to improve the overall test coverage by following e.g. TDD methods.
+Discuss incoming requirements from external and internal customers within the team to collaborate in the planning of the next sprint(s) and make it more reliable and realistic.
+Design new features and make required changes in the architecture to bring the Abusix products to the next level.
+Write correct, elegant, flexible and performant code to keep your own bug fixing efforts low.
+Provide technical support to the customer success team for quick resolutions of our customers issues.
+Contribute to a continuous improvement of the development process in the team.
+Act as a mentor to new team members, working students and interns.
+Review and approve work of other team members in code reviews.
+
+Your Profile
+Eager to take on responsibility, intrinsic motivation and reliability.
+Not scared to touch existing code.
+Very good communication skills to ensure the seamless flow of information within the remote team.
+Multiple years of experience working with Java, dependency injection and CDI (JavaEE, NestJS) as well as Maven dependency management.
+Deep experience in object oriented programming, (relational) databases, scalable stateless services, distributed systems and multi-threading.
+Solid knowledge of software engineering principles and agile development processes.
+Ideally experience with cloud services, TDD, agile development processes.
+First open source contributions.
+Fluent in English, fluency in German is a plus.
+
+What we offer
+Work with the latest technology, in the cloud and with the latest frameworks.
+Share defined projects open source.
+An extremely steep learning curve.
+Impact, responsibility and participation in a very interesting field.
+Competitive pay according to your country and meaningful equity.
+Home office equipment or coworking space membership contribution.
+Flexible working hours.
+Fast-paced high-tech B2B company.
+Conference and travel budget.
+Fun team events.
+Additional benefits depending on your place of living.
+
+We believe in building and cultivating a remote culture of ownership, collaboration, innovation, respect and authenticity in a fun, diverse, and aspirational team of people with the same passion and drive. Come and help us to make a difference.
+
+Our main values
+Ownership - be a Co-CEO of Abusix and proactively drive results.
+Collaboration - we are stronger together as a team as well as with our customers and partners.
+Innovation - challenge the status quo, be brave and embrace failure in a safe environment.
+Respect - guides our daily interactions with each other, our customers and also the environment.
+Authenticity - be true to your own personality and values and take responsibility for your actions.
+
+Please note: We hire for some positions within the European Union and for other positions in the US due to internal as well as external regulations. Furthermore our compensation structure includes market rates according to the country of employment.
+
+Abusix is an Equal Opportunity Employer, and diversity of all kinds is important to us.
+Our team focuses on creating an inclusive environment for all people. We welcome people from all different backgrounds and currently employ startup founders, college graduates, students from all over the world, and coding academy graduates.
+We are actively and regularly working with the entire team to shape our culture in a conscious way towards our ideal of empowerment, transparency and kindness.

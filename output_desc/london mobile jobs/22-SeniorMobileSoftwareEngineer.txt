@@ -1,0 +1,22 @@
+About the job
+Batelle teaches parents how to put their children (age 5m to 5yrs old) to bed in under 5 minutes and sleep throughout the night within two weeks. We do this through our app, automation infrastructure, and team of sleep experts.
+
+Last month we grew sales by over 80% and in the next 3 months, we are likely to double again. This is definitely not as glamorous as it sounds. We are in the awkward middle. We are a 2-year-old company experiencing the initial stages of hyper-growth but things are not easy. We are neither a tiny company nor an established institution. This is that critical time when we avoid becoming a brittle hodgepodge of services by laying down strong foundations that scale while staying lean and hungry.
+
+You will be reporting directly to me. I was brought in as the CTO at Batelle to lead the transition to an in-house engineering org. You'll be working closely with me to not only build products but to promote the values that define our culture as we grow. The focus of my career has been to bring machine learning into products. I trained my first neural networks over ten years ago and I've formerly worked at Baidu, DeepMind, and Google. At Baidu's AI lab I worked with Andrew Ng, Adam Coates, and Bryan Catanzaro. Within the lab I started and grew the Applied Machine Learning team, which delivered the speech recognition system for Baidu Maps. At DeepMind, and Google I've worked on machine learning for Android, Google Shopping, and YouTube.
+
+Requirements
+
+Everyone’s journey is different and we enjoy different characters. We do not expect you to tick all these boxes, just self-identify into a number of them.
+You’ve likely spent years developing mobile applications, with at least some time in React Native.
+You’ll happily take on the less exciting task because you understand it’s the highest priority for the team and company.
+You’ll obsess over alignment, and care about detail from the ground up, but at the same time understand that oftentimes things just need to get shipped.
+You thrive in a fast-paced environment and understand that despite all efforts priorities at a startup aren’t always as predictable.
+You like to understand how the libraries and services your code relies on work.
+You’re comfortable debugging performance issues and care about the effect that loading speed has on the user experience.
+You make time in your day for learning, because you care about consistently bettering yourself. Whether this involves reading papers and books, listening to podcasts, attending/watching conferences, or other ways.
+
+Benefits
+Very competitive salary, and significant options in the business.
+Opportunity to be an initial engineering hire in a fast-growing startup.
+Have real-world impact on the early childhood education space.

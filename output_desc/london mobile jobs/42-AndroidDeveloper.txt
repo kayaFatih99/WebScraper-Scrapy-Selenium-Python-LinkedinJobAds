@@ -1,0 +1,34 @@
+About the job
+Role: Lead and Senior Android Developers wanted!
+Location: Fully-Remote
+Salary: Up to £86k + 25% Bonus
+
+With over 15 million regular customers and record-breaking revenue growths of £100 million + throughout 2020 alone, our client is a highly regarded and multi-award-winning organisation that is looking to recruit an experienced Senior Android Developer to contribute to the continued success of the company through the management and maintenance of the company’s android app.
+
+As an indispensable name in the marketplace that after going public is now valued at over £1 Billion, you’ll be playing a key role within the android team and ensuring that new features and interfaces are incorporated neatly and successfully.
+
+You’ll be given all the tech necessary to succeed and bring a keen sense of commercial awareness and app development experience to the role as well as an eager and ambitious mindset. In exchange, you’ll be joining a compassionate household name that will guide you through the remote onboarding and ensure the process is as smooth as possible.
+
+Key responsibilities:
+
+· Play an integral role within the android app team and ensure new features, moments and interfaces are added regularly that the client’s customers love.
+· Utilise your prior knowledge of app development and build and improve on the app through MVI, Rx, Kotlin and Clean Architecture.
+· Collaborate with Product, UX and the engineering teams and ensure group objectives and strategies for iterative app improvements are defined and understood by all
+· Continuously strive to deliver the best user interface as possible to customers through regular and consistent app updates
+· Establish yourself as a brand expert amongst your peers through periodical talks and blog posts
+
+Candidate requirements:
+
+· Previous experience in developing high quality android apps that cater to customer’s needs
+· Possess a deep knowledge of the wider android development sector and relevant industry trends that may be ongoing
+· Deep background in Kotlin and its idioms.
+· A pragmatic and analytical mindset that can approach problems logically and escalate issues to more senior members if necessary
+· Understanding of different architectures and the positives and negatives.
+· Highly experienced in RX and the construction and management of streams and subscriptions
+· Able to closely follow XP practices such as TDD and pair programming
+· Highly autonomous with you thriving within a outcome-driven, customer-centric environment
+· Engaged in your continued professional development with you being eager to expand and refine your skillset
+
+Ready to carve out a new legacy alongside an award-winning organisation?
+
+Apply now!

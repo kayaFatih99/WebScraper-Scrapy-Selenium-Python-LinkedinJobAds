@@ -1,0 +1,57 @@
+About the job
+We are hiring...and we would be delighted if you were to join our family!
+More in details, UST is a multinational company based in North America, certified as a Top Employer company with over 29.000 employees all over the world and presence in more than 30 countries. We are leaders on digital technology services, and we provide large-scale technologic solutions to big companies.
+
+
+What are we looking for?
+We are looking for Senior JavaScript and TypeScript Developers for international project where high english level is required.
+
+
+Main tasks and accountabilities will be:
+• Work together with other team members, pass on your knowledge to others and recognise talent.
+• Work with state-of-the-art frontend tools like JavaScript, TypeScript, Vue.js, React, Node.js, Vuex, Note.js, Gulp, Babel, SASS, and others
+• Work closely with our Product Owner and our interdisciplinary team to deliver features that delight our customers
+• Build and design architecturally sophisticated software solutions.
+• Write tested code, so it should go without saying that the code is unit teste
+
+
+What UST expects from you?
+• You have a lot of experience in the development of large-scale software.
+• You have very good experience with TypeScript and JavaScript, know other tools in the development stack like Vue.js, React or Angular and have experience with continuous delivery & integration.
+• You are familiar with aspects of performance and scalability of JavaScript in agile software development and understand basic principles such as test-driven development, code reviews and continuous delivery.
+• You see yourself as a clean coder.
+• You have already gained experience with cloud platforms and microarchitecture.
+• You work independently and take initiative.
+• You are passionate about programming and you quickly master new technologies.
+• You don't shy away from, but rather find fun in implementing backends and APIs.
+• You distinguish yourself through your careful and reliable way of working and always strive to find the best possible solutions with as little technical debt as possible.
+• You like to work in a team and it is in your interest to share your extensive knowledge with others. • You have experience in the technical leadership of a team.
+• You find it easy to assess the scope and effort of tasks and to delegate responsibilities to other team members.
+• You have good english level (B2-C1)
+
+Valuable and desirable: being entitled of Disability Certificate (at least 33% score).
+
+
+Work location
+100% remote in Spain.
+
+
+Work schedule
+Business Hours (09:00-18:00).
+
+
+What can we offer?
+23 days of Annual Leave plus the 24th and 31st of December as discretionary days!
+Numerous benefits (Health Care Plan, teleworking compensation, Life and Accident Insurances).
+`Retribución Flexible´ Program: (Meals, Kinder Garden, Transport, online English lessons, Health Care Plan…)
+Free access to several training platforms
+Professional stability and career plans
+UST also, compensates referrals from which you could benefit when you refer professionals.
+The option to pick between 12 or 14 payments along the year.
+Real Work Life Balance measures (flexibility, WFH or remote work policy, compacted hours during summertime…)
+UST Club Platform discounts and gym Access discounts
+
+
+If you would like to know more, don’t hesitate to apply and we’ll get in touch to fill you in detail.
+
+UST is waiting for you!

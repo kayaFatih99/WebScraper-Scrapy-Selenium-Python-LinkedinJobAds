@@ -1,0 +1,76 @@
+About the job
+***Please note that we are required to add a location to job ads but this role can be based remotely in Spain.***
+
+At Scandit, we develop real-time computer vision solutions for smartphones, wearables and robots that combine modern machine learning approaches with computer vision. To expand our engineering team, we are looking for a full-stack engineer to develop performance tracking tools for our core products.
+
+About The Role
+
+Scandit is known for delivering best in class data capture performance, achieved by meticulously tracking all relevant indicators. Our performance tracking tools are a key component of our development toolchain, enabling us to keep an overview and track the impact of each merge and to keep regressions under control.
+
+To help us handle the rapid growth of our product portfolio, we are looking for a full-stack engineer to continue improving the tooling used in on-device performance evaluation, dashboard tools and data collection, and to develop new ways to present our data in customised dashboards.
+
+Other responsibilities could include:
+Liaise with developers in other teams to understand their tooling needs and extend our performance tracking infrastructure accordingly
+Develop various cloud based and standalone tools that will be used by Engineering every day
+Provide intuitive and efficient user interfaces to tools (e.g. via command line, web app, standalone app etc.)
+Integrate existing tools to provide a coherent toolchain
+Provide APIs (REST/Python) for extensions and integrations
+Optimize tool and database performance based on usage
+Maintain the tools and our teams own toolchain
+Provide guidance and support to teams using the tools
+
+Our Tech Stack
+Python is our language of choice
+Django
+Front-end languages like Javascript, Typescript, React
+FastAPI, REST
+Databases: Clickhouse and PostgreSQL
+Linux, Docker and Kubernetes
+Tools like Metabase, Grafana, Jupyter Notebook etc.
+
+Experience in one or more of the follow areas is an advantage:
+AWS or GCP
+Data Engineering, analytics and visualisations
+C/C++
+
+Whilst having experience with the above technologies is an advantage, we understand that not everyone will have had the opportunity to work with all of them! If your programming experience is with, for example, Java instead of Python, or you’ve worked with MySQL instead of PostgreSQL, we’d still encourage you to apply.
+
+The Team & How We Work
+
+You’ll be joining the Engineering Productivity Tooling project team
+We start every team meeting discussing new technologies, not problems
+Our team speaks English and is located in Switzerland, Finland, Poland and remotely across Europe and the UK (please see below the list of countries we can hire in*)
+Scrum with 2-week sprints
+Most of the team uses macOS but are proficient with Linux
+GitLab Premium for code hosting and reviews as well as CI
+Jira for ticket management
+We ensure high quality, regression free code by following best practices, code reviews and using TDD and BDD
+Confluence as a wiki for documentation
+Slack for conversations
+Google Workspace for email, calendar, documents
+Zoom for video conferencing
+
+What We Offer
+
+A highly skilled team and a fun environment where you can put your enthusiasm for cutting-edge technologies to use
+Flexible working hours and the opportunity to travel
+A highly skilled and helpful team of international researchers, scientists and engineers to work with
+Internal hackathons, annual all-company trip, multiple company outings and social events, other regular events
+
+*Please note as much as this is a remote position, we are only able to consider candidates based in (or willing to relocate to) Switzerland, Finland, Poland, France, Italy, Spain, Germany, and the UK.*
+
+Who We Are
+
+Scandit enables enterprises and consumers to change the way they interact with everyday objects and augment the physical world with real-time data captured by scanning barcodes and recognising text, objects, and other visual identifiers using smartphones, tablets, wearables, drones and robots.
+
+Scandit’s mobile data capture platform is built on proprietary computer vision, augmented reality, and machine learning technologies. Companies in industries such as retail, transportation & logistics, manufacturing, and healthcare can use Scandit’s technology to create and power mobile apps for crucial enterprise workflows like mobile point of sale, mobile shopping, self-checkout, inventory management, and proof of delivery.
+
+Many of the world’s most innovative and successful companies are benefiting from Scandit’s enterprise-grade mobile data capture platform, including Sephora, Nissan, DHL, and Levi Strauss & Co.
+
+Scandit was founded by a group of researchers from ETH Zurich and MIT. The company is headquartered in Zurich and is also represented in Boston, London, Warsaw and Tampere. Over the years, our company has evolved into a world-class team of mobile image processing, computer vision, machine learning and “Internet of Things” experts from around the globe.
+
+“Everybody is welcome here” - Is a celebrated component of our DNA.
+
+At Scandit we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be a safe space for all.
+
+All qualified applications will receive consideration for employment without regard to race, colour, nationality, religion, sexual orientation, gender, gender identity, age, physical [dis]ability or length of time spent unemployed.

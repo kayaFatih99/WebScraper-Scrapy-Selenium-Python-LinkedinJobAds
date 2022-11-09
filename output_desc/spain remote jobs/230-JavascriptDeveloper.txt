@@ -1,0 +1,60 @@
+About the job
+Ciklum is looking for a Senior JavaScript (React JS) Developer to join our team full-time in Spain.
+We are a leading global product engineering and digital services company that unites 4000+ seasoned professionals globally on various projects in healthcare, fintech, travel, sportswear, entertainment, and security. Ciklum delivers high-impact technology solutions to Fortune 500 and fast-growing organizations worldwide.
+
+About the role:
+As a Senior JavaScript (React JS) Developer, become a part of a cross-functional development team working for Our Client.
+You will join a highly motivated team and will be working on a modern solution for our existing client. We are looking for technology experts who want to make an impact on new business by applying best practices and taking ownership.
+
+Responsibilities:
+Be proactive in communication with team members and client
+Delivery. Create and maintain modern solutions according to unit standards
+Code Quality. Follow and improve code quality standards
+Analyze and Estimate. Perform technical assessment of business requirements to ensure the possibility of their implementation within a reasonable time
+Software Design. Create and review software feature design documents and provide the solution
+Mentorship of junior colleagues
+
+Requirements:
+You can name examples of use in different contexts. Are guided by best-practices and specifications of such skills:
+Design patterns, development principles
+HTML/CSS. Pre/post -processors, methodologies
+JavaScript/TypeScript. Core, performance, security
+React JS
+Testing. Approaches, types, tooling
+CI/CD. Understanding, usage
+Authorization. JWT
+Git. Branching strategies
+Agile. Principles and processes
+Upper-Intermediate English
+Framework:
+React. JSX, virtual DOM, hooks, state management
+React Native. JSX, virtual DOM, hooks, state management, understanding of Android/iOS ecosystem, Xcode & Android studio
+
+Desirable:
+You should have an idea of the subject and its parts. Can explain. Has experience of use of such skills:
+Other modern framework (Angular, Vue, React, ReactNative)
+Micro-frontends
+Cloud platforms experience
+Code quality tools (Sonarqube)
+Experience with CI/CD set up (Docker, GitlabCI, CircleCI etc.)
+Familiar with UX concepts such as Information Architecture
+
+Personal skills:
+Has sufficient communication skills for effective dialogue with customers and colleagues
+Collaborates in a team effectively
+Is able to plan, schedule and monitor own work within short time horizons
+Demonstrates a rational and organised approach to work
+Understands and uses appropriate methods, tools and applications. Identifies and negotiates own development opportunities
+Works under routine direction, without frequent reference to others
+
+What's in it for you?
+Career growth opportunities
+Realization of your innovative ideas in building new Ciklum Solutions and Services
+Friendly collaborative teams and enjoyable working environment
+Professional skills development and training programs
+Variety of knowledge sharing, training and self-development opportunities
+State of the art, cool, centrally located offices with a warm atmosphere which creates really good working conditions
+About us:
+Our Delivery Center in Malaga is one of the leading IT hubs in Andalusia – it provides an exceptional mix of vibrant tech talent community, wide-open access to learning and career advancement opportunities, hybrid / remote work setup & endless Mediterranean seashore summer.
+Be bold, not bored!
+Interested already? We would love to get to know you! Submit your application. We cant wait to see you at Ciklum.

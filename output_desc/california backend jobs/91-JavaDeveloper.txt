@@ -1,0 +1,7 @@
+About the job
+Hello
+Position - Java developer
+Location – 100% Remote
+
+Job Description :
+Expert knowledge of Java/J2EE/MVC based web development. NodeJS, Angular will be preferred. Hands-on coding, you will be working in agile scrum teams. Ability to learn the latest concepts and willing to learn Exposure/ Experience on Spring/ Frameworks/ Unit testing/and working knowledge of RDBMS. Strong OOPS concepts. Hands-on knowledge on the following technologies: Spring IOC, Spring MVC, PL/SQL. MySQL, SQL Server. Experience in working on Core JAVA, J2EE, JEE. Strong experience in frameworks with implementation. Experience in designing J2EE application (EJB / JMS / Servlets / JSP / jQuery/ JSON/ JavaScript)

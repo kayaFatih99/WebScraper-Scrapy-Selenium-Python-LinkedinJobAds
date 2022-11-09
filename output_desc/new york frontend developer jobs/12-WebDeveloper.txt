@@ -1,0 +1,41 @@
+About the job
+This job is sourced from a job board. Learn more
+You + Yoop
+
+Are you passionate about the sports, music and entertainment industry? Do you want to join a startup? Do you thrive in a fast-paced and innovative work environment? If so, you’ve come to the right place!
+
+At Yoop, we’re looking for people willing to disrupt an entire industry and challenge the rules of the game. If you are are a self-starter who does their best work with teammates and demands excellence from yourself and those around you, then we want to talk to you.
+
+As a Web Developer, you will be part of a talented team building a cutting-edge technology and solving meaningful challenges on a daily basis. We are a small but growing team and expect you to put your spin on our exciting projects and to help us shape the future of our business. Grow with us, learn from the best and create a product that will be used by many! Yoop offers competitive salaries plus medical, dental and vision.
+
+Responsibilities
+
+Design of the overall architecture of the web application in the cloud
+Optimize the web site for maximum speed and scalability
+Integrate the frontend and backend aspects of the web application
+Help build and monitor a continuous integration pipeline
+Integrate and manage analytics working closely with the Product Management team
+Implement and manage A/B testing on the web application
+
+Qualifications
+
+3+ years of commercial customer facing web development experience
+In depth understanding of fundamental design principles behind a scalable web application
+Proficient in Single Page Application (SPA) design and Responsive design
+Native to the JavaScript language and expert of object oriented design patterns and principles
+Proficient knowledge of client-side scripting and JavaScript frameworks, including jQuery, AngularJS and ReactJS
+Expert in HTML5 and CSS
+Knowledge of image authoring tools, ability to crop, resize or perform small adjustments to design assets. Familiarity with tools such as Gimp or Photoshop a plus.
+Proficient understanding of code versioning tools (i.e. Git)Experience with Continuous Integration
+Works well independently and with a team
+Comfortable delivering high quality work with a quick turnaround rate
+Can mentor and code review team member's work
+Bachelors in Computer Science or related field is required; Masters degree a plus
+
+Yoop is a new way to attend events. We empower fans and creators. Yoop is about you and the events you love. We facilitate the relationship by creating a single unified market that empowers fans by giving them a voice and creators by rewarding them for the events they create. We thrive at reinventing the entertainment industry - authenticity, fairness and real connections between fans, artist & teams. Come join our team!
+
+We have launched Yoop and Yoop eSpace, which offer live entertainment for both in-person & virtual events. Coverage:
+
+Yoop eSpace global launch: https://youtu.be/1NV_IYP-hOo
+https://www.billboard.com/articles/business/tech/9371264/yoop-app-livestream-experience
+https://www.pollstar.com/article/yoop-espace-virtual-mobile-interactive-events-venue-launched-145003

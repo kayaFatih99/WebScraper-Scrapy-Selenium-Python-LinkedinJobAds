@@ -1,0 +1,38 @@
+About the job
+Senior Trading Application Support Analyst
+
+The Trading Application Support team is an integral part of the wider IT Production department. The team is split across London and Sydney and responsible for providing application support for CMC Markets’ award winning web- based trading platforms. This role reports into the regional Trading Application Support Team Leader, who provides support, management and escalation for the role.
+
+Tasks come via monitoring alerts or tickets raised by internal CMC teams. You will work closely with peers in London and Sydney, following current support processes to ensure that all incidents are resolved efficiently, and any changes are implemented successfully.
+
+The teams work in a mixed operating system environment (Red Hat 70% and Windows 30% of estate) with the London team primarily focusing on Red Hat trading applications and Sydney the Windows equivalents. You will also work to identify and implement new processes, procedures and automated solutions, ensuring an excellent and professional service is provided at all times. It is a fast-paced, process driven environment.
+
+Responsibilities:
+
+Using our ‘follow the sun’ support model, ensure maximum availability and performance of the company’s trading applications across web, mobile and API channels;
+Provide 1st and 2nd line support for the trading platforms;
+System monitoring with real time monitoring tools. (Nagios, OpsGenie, Splunk, AppDynamics, Geneos and Bespoke tools);
+Provide proactive and reactive support to application and operational issues across both production and non-production environments;
+Proactively fix support issues, provide or suggest remedial actions or route issues to developer for remediation;
+Liaise with external vendor, other support teams (Business Operations, 3rd Tier Support, DBA, Security, Infrastructure) and development departments to ensure incidents are resolved;
+Review and implement improvements to support process and monitoring where appropriate, as well as ensuring operational documentation is maintained;
+Follow our release and change process to complete deployments and change successfully;
+Plan, execute and review maintenance tasks and deployments between IT and development teams;
+Participating in DR and BCP testing;
+Shifts on a weekly rotational basis – this will include some weekend on call work, rotated through the team;
+
+KEY SKILLS AND EXPERIENCE
+
+Essential:
+Self-starter with passion for IT
+At least above 5 years experience of IT Support
+At least above 2 years’ experience of using Red Hat Linux (or others Unix flavours) including scripting in a commercial environment
+At least above 2 years’ experience supporting applications (Java, .NET, Apache, IIS);
+
+Desirable:
+Knowledge of Microsoft Windows Server.
+Experience with working within financial industry;
+Experience with working within an ITIL framework;
+Experience with working with market data, FIX protocol;
+
+CMC Markets is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates regardless of gender, sexual orientation, marital or civil partner status, gender reassignment, race, colour, nationality, ethnic or national origin, religion or belief, disability or age.

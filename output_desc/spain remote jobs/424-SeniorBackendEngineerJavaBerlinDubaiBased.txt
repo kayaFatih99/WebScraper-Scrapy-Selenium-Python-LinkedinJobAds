@@ -1,0 +1,27 @@
+About the job
+About Us
+Tamara is MENA’s leading payments innovator, focused on providing a seamless experience for merchants and customers through fair and transparent financial solutions. The company’s flagship Buy Now Pay Later platform lets shoppers split their payments online and in-store with no interest and no hidden fees. Tamara was founded in Riyadh, Saudi Arabia in late 2020 and has since grown to more than 200 employees in offices around the world in KSA, UAE, Germany and Vietnam, and the company’s $110 million Series A round in 2021 - led by Checkout.com - broke records as the largest-ever in the Middle East. Tamara has over 3 million customers and more than 4,000 partner merchants including leading global and regional brands like IKEA, SHEIN, Adidas, Namshi and Jarir plus local SMEs.
+
+Job Description
+At Tamara, we have backend engineers in almost every team, and in that role, you’ll be making some of the most significant decisions for the company. You will work together with our talented engineers in designing, developing, and maintaining complex web applications and services for our BNPL service platform.
+
+We’re looking for people with a strong background or interest in building successful products or systems; you’re comfortable in dealing with lots of moving pieces; you have exquisite attention to detail, and you’re comfortable learning new technologies and systems.
+
+What you will do
+Design, build, and maintain APIs, services, and systems across Tamara’s engineering teams
+Debug production issues across services and multiple levels of the stack
+Work with engineers across the company to build delightful features that span various parts of the system
+Collaborate with our business, product and operations teams to understand and solve our users’ pain points.
+Improve engineering standards, tooling, and processes
+
+What we are looking for
+You have 5+ years of software development experience
+You have software development experience using Java.
+You have experience in Spring, Spring Boot, or Hibernate building APIs.
+Good understanding of SOLID principles, Design Patterns
+Knowledge of AWS, OCI, Kubernetes
+You are proactive, goal-orientated, and self-structured in your approach
+You have experience as a developer in a startup company - is a plus.
+Team player, creative thinker, and passionate about exploring new technologies.
+Good written and spoken communication skills in English.
+BSc in Computer Science or equivalent

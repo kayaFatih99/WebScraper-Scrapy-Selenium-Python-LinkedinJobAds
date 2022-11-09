@@ -1,0 +1,58 @@
+About the job
+About Us
+
+Description
+
+Zego is a commercial motor insurance provider that powers opportunities for businesses, from fleets of just two vehicles to global enterprises, and for individual drivers and riders. Its mission is to provide businesses and people with insurance they control, saving them both time and money.
+
+The problem that exists is that in an ever-changing world, traditional insurance holds businesses back. Zego, on the other hand, helps businesses to unlock their full potential by putting them in control. Using smart technology and sophisticated data sources, Zego gives businesses the power to monitor and improve their driving performance over time, enabling them to save money by retaining a great price for their cover. It also helps businesses save time, making the administrative side of things easy and the claims process effortless.
+
+Since its inception in 2016, Zego has grown to support businesses in the UK and across Europe and has forged partnerships with businesses such as BP, Amazon and Uber. Zego has also raised $280 million in funding and was the first UK insurtech to be valued at over $1 billion.
+
+At Zego, we are proud to say we have a diverse and inclusive team, unified by our shared values and mission. Our people are the most important part of our story and everybody at Zego, no matter their role, has an integral part to play.
+
+About the Team:
+
+Upon joining the iOS guild you'll fall into one of our two product streams, App Experience (core value driven features) or Digital Servicing (customer care and foundational technology). Each squad has a specific focus, with the desire to keep teams aligned and focused.
+
+Both teams operate using independent ways of working, created by the team for the team. You'll be working alongside product owners, designers and developers from different platforms.
+
+The iOS team use SwiftUI, TCA (The Composable Architecture), GraphQL, SPM (and plenty more modern technologies). We also have our foundational iOS platform guild, in which developers can table technical ideas and impact our product directly.
+
+We are a motivated team of top performers who are dedicated to cultivate a mutually respectful work environment. We provide a collaborative work habitat and seek to recruit, develop and retain highly talented professionals from diverse backgrounds. We are a fast-paced, fast-growing company, with plenty of opportunities to grow as we evolve.
+
+Purpose of the Role
+
+Here in the app team at Zego, our purpose is to power opportunities for drivers. Zego Sense was launched in 2020 with the aim of providing fairer insurance for drivers, based on their driving ability. We're also passionate about providing valuable, telematics driven insights, helping them positively impact their driving ability and available policies.
+
+At Zego we're not just interested in how customer's driving can impact their pricing, but the way in which they access their insights and policy information. We want to bring customer's digital journey into the future, with a focus on making purchase, renewal and servicing flows digital.
+
+We are looking for a specialist in React Native to support an existing product, Zego’s Flex App and integrate with our Digital Servicing team to build out our new app product Zego’s Sense App.
+
+What you’ll be working on as a Senior Mobile Engineer:
+Be responsible for App releases to both the Google Play Store and Apple Store.
+Manage Bug fixing/triaging (this might require working with backend engineers to determine where the issue lies and verifying issues with Customer Support).
+Manage Bug fixing/triaging (this might require working with backend engineers to determine where the issue lies and verifying issues with Customer Support).
+Maintaining dependencies to keep the apps up to date.
+Troubleshoot issues and improve front-end performance
+Write reusable, effective, as well as scalable JavaScript code and create interchangeable front-end modules
+Make use of additional JavaScript libraries such as Redux to make asynchronous API calls as well as improve the performance of the mobile apps
+
+What you’ll need to be a successful Senior Mobile Engineer:
+Extensive experience in writing react native applications, using JavaScript and Redux
+Experience in developing and deploying native iOS apps, using Swift
+Exposure to SwiftUI
+Collaborative approach to working with design and product team members
+Experience in insurance, finance or telematics is desirable, however not needed
+
+What it's like to work @ Zego:
+
+Zego has a truly international and inclusive team, unified by great ideas and collaborative thoughtfulness. Our people are the most important part of our story and everyone plays an essential role in our journey. We look for people who have expertise, enthusiasm and who are motivated by change. There’s plenty of room to learn and grow, as part of our ongoing training programmes or directly from other experts. You’ll work alongside a talented group of people who respect each other's differences and seek to understand fresh perspectives.
+
+Where we work:
+
+We are committed to helping all Zegons deliver their best work regardless of location which is why we have embraced a ‘Flex First’ philosophy. This means home is the primary place of work for all Zegons but you can also spend time with colleagues in our city centre collaboration spaces from time to time too.
+
+Please note that we can only hire colleagues based in the UK & Ireland, Spain, Portugal, France or the Netherlands.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.

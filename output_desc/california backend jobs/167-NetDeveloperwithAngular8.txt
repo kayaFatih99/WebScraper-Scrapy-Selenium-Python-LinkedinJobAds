@@ -1,0 +1,21 @@
+About the job
+Hello,
+This side Shekar from Recruitment team – Siaraa Technologies. I have an urgent opening with one of my clients, please share suitable resume at sguyyani@siaraatechnologies.com
+Role: Sr. .Net Developer With Angular 8
+Location: Remote 100%
+Duration: 6+ months
+
+Description:
+The Resource will design, develop, configure, integrate, test and maintain existing and new trading applications and/or integrate 3rd party developed applications with Asset Mark’s systems. Responsible for conducting, and coordinating software development activities throughout the project, including key design decisions. Candidate will work closely with Application Architects and business SMEs and will be reporting to the IT Manager of Back Office and Data Systems.
+Principal Responsibilities:
+• Design, Code, debug and Develop batch oriented file processing & Trading application development.
+• Document key SDLC processes by producing formal documents like Solution Architecture Document and Technical System Design Specifications, etc.
+• Software analysis, code analysis, requirements analysis, software review, identification of code metrics, system risk analysis, software reliability analysisteam
+Knowledge, Skills and Abilities:
+• BS/BA in Computer Science, Engineering, Information Systems and/or equivalent formal training or experience
+• experience in working with .Net Frame work, .Net Core / Azure design patterns.
+• Years of experience working in azure cloud based technologies.
+• Utilize established development tools, guidelines and conventions including but not limited to ASP.NET, SQL Server, HTML, CSS, JavaScript, and C#
+Regards
+Shekar
+Siaraa Technologies

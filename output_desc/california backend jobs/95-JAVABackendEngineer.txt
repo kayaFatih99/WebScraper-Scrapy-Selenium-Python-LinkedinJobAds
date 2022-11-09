@@ -1,0 +1,35 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Brains Workgroup, Inc., is seeking the following. Apply via Dice today!
+
+Our client, a leading internet travel company, is looking for a talented JAVA Backend Engineer
+
+Permanent REMOTE position with great benefits package and competitive compensation DOE.
+
+Please read the description below and to be considered immediately email your resume to barryr @brainsworkgroup.com
+
+JAVA Backend Engineer
+
+Responsibilities:
+
+Implement new backend search development and booking features for hotels.
+Build and maintain existing integrations with third-party APIs
+Analysis and resolution of scalability issues in ad network software applications
+Be an active participant in the ongoing maintenance and improvement to existing ad network services and feature-sets
+
+Qualifications:
+
+5 years Java experience, experience with Java (multi-threaded experience.) Web development a plus
+Amazing programming fundamentals
+Comfortable with HTTP, XML, JSON
+Working knowledge on APIs
+Spring, MySQL,Git, Tomcat, Apache a plus
+Working knowledge of SQL, Hive/Hadoop, Aerospike. Redis a plus
+Some front end development experience preferred, but not required
+
+Bachelor’s or Master's degree, or equivalent professional experience
+
+Use this link to apply directly:
+
+https://brainsworkgroup.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=15751211 Check ALL our Jobs: http://brainsworkgroup.catsone.com/careers
+
+provided by Dice

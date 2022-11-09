@@ -1,0 +1,59 @@
+About the job
+About Bark
+
+Bark is the UK’s largest & fastest growing services marketplace, helping people find the right professional for their project in over 1,500 unique categories. The business is comfortably profitable with a proven model but has the feel of a startup with a small team of just over 100 people and most of its work still to do.
+We use cutting-edge technology and an extraordinarily talented team of people to solve an age-old problem; how to find the best available professional for any job, every time no matter what the need.
+We recently celebrated 6th place in the Sunday Times Tech Track 100 of fastest growing private tech companies in the UK. With a presence in eight countries globally and imminent plans for further expansion, you can join us at a genuinely exciting time on this journey.
+
+About the role
+
+We are looking for a Mobile QA Test Engineer that can help advance our team to the next level as we continue to grow our platform out and scale internationally. You will help us promote and ensure excellent software quality throughout our app through the creation and maintenance of automated tests. Our mobile app is a vital part of Bark's product that thousands of professionals use every day.
+
+As our team's first dedicated mobile test engineer you will be tasked with building an automated testing suite that covers the most important E2E flows. You'll work closely with our development team to help us deliver app releases that have been tested well in order to deliver a positive experience to our users. You will be hands-on in writing automated tests whilst also having the opportunity to help mentor the wider team on test automation.
+
+This is a great opportunity to join a relatively small team in a role where you will have a genuine impact in helping us drive our future growth on an international scale to millions of users across the globe.
+
+Responsibilities
+
+Build and maintain an automated regression testing suite for our key user journeys and beyond for our mobile app
+Work with our development team to get the regression suite operational in CI/CD
+Help us establish new tools and evolve existing processes to help our team continue to efficiently test as we continue to scale internationally
+Be a quality champion that infuses the team with testing best practices
+Contribute to manual testing if/when required
+Work closely with our engineering team throughout sprints with the aim of having automated tests delivered and released together with the feature.
+
+Required skills and experience
+
+3-4+ years of hands-on experience in an automated QA role where you have been using automation to build test platforms out at scale on both iOS and Android devices
+Proven, hands-on experience with writing, running and maintaining tests
+Experience with integrating tools such as BrowserStack (or similar) to execute automated testing in CI/CD in the cloud
+Strong experience in JavaScript automation tools (ideally Detox and/or Appium)
+Excellent analytical skills and experience in testing complex business rules through the creation, documentation and subsequent execution of well-written test plans that cover key user journeys and edge cases both by manual and automated means
+Meticulous attention to detail and excellent written & verbal communication skills
+Driven, ambitious and keen to grow with us in a fast paced environment
+
+Desirable skills/experience
+
+Testing internationalised content
+Performance and security testing
+
+Some of our benefits
+
+Share options in a rapidly growing company whose founders have a proven track record
+Remote working environment with offices in central Paddington
+Private full coverage health & dental insurance
+Enhanced parental scheme
+Individual learning and development budget up to £1,000 per year
+Wellness and mental health initiatives
+Cycle to work scheme
+Monthly socials and massive parties
+Fully stocked kitchen and weekly team lunches
+Be at the forefront of an industry with new and exciting problems to solve!
+
+What our devs say...
+
+Henry, Head of Engineering - “It’s an exciting time to join Bark in many ways but especially from a tech point of view, because we’re at the beginning of the biggest architectural transition in the company's history. As we transition from a startup to a much larger company, we need to upgrade our stack from a few monolith systems, to much more scalable, maintainable, decoupled services.”
+
+George, Senior Engineer - “Working so closely with the product and design teams gives me an opportunity to get involved in the product from the earliest stage. Each week we build a new experiment which is a true collaboration of the ideas from everyone in the group. Due to the scale of Bark as a business, it’s also hugely rewarding to see that the work we produce can make a massive impact, by generating millions of pounds in annualised revenue.”
+
+Tom, Head of Product - “There's a real sense of camaraderie across the company. The tech side of the business is really exciting at the moment – we broke into different teams and the effect is phenomenal. Never a dull moment, and feels like we're making real measurable change to the product for our users!”

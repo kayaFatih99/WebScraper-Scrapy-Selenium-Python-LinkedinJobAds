@@ -1,0 +1,46 @@
+About the job
+Description
+
+Citymapper makes cities usable, helping people move through urban spaces, getting people from A to B.
+
+We’re looking for an engineer who wants to solve real world problems for real world people by making our products better. We want you to shape our routing algorithms, scale our infrastructure, add features, work with data from transit agencies, work with data from our users, refine our payment systems, and so much more.
+
+This role covers a huge array of problem spaces, and there’s room to dip your toes in all of them or dive deep into just one or two.
+
+Some Of The Things You’ll Be Working On
+improve our routing across all our cities for everything from walking to trains to electric scooters
+work on low level routing algorithms
+implement backend systems powering the Citymapper app
+integrate new transport modes and new ways of getting about our cities
+train machine learning models based on user behaviour
+create experiences that delight your friends when they come and visit your city
+In The Course Of Doing These Things, You Will
+write Python 3 code and tests
+deploy and support your code on AWS
+support and be supported by an incredibly welcoming team
+work side-by-side with talented software engineers, product designers, data scientists, and customer support operatives on a day-to-day basis
+learn about new technologies
+teach us how to be better
+Requirements
+
+Ultimately we don’t have hard requirements beyond needing you to be smart, curious about public transport and the mobility industry and keen to get stuck in. However we are looking for candidates with some professional software engineering experience.
+
+Our office is in London - however we are a hybrid company and accept anyone living in the UK as parts of the team work remotely already.
+
+Our stack
+Tech: mostly Python 3, C++, AWS EC2, Lambda and RDS; JavaScript and React for internal tooling.
+Tooling: GitHub, AWS, SQL, Linux
+Best practices: code reviews, tests, CI
+Benefits
+
+We’re a genuinely hybrid company. Our employees have the choice of working from our headquarters near Liverpool Street in London, or from home (within the UK) - or a bit of both! If you're based outside of the UK we're also able to consider UK visa sponsorship for international candidates wanting to relocate to the UK.
+Competitive pay & meaningful equity / stock options
+25 days' annual leave plus bank holidays
+Generous Family Leave policies for if/when you start a family
+Services to support your mental wellbeing
+Cycle to work scheme
+Pension scheme (we pay in, you pay in)
+Conferences
+Drinks and social events throughout the year
+Citymapper swag
+We believe that diverse teams are the best teams and we're proud to be an equal opportunities employer. We welcome and will consider all applications regardless of age, disability, gender re-assignment, marriage, pregnancy, maternity, race or nationality, religion or belief, sex and sexual orientation (and any other status protected by applicable law).

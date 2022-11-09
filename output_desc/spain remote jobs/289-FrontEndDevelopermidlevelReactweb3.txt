@@ -1,0 +1,29 @@
+About the job
+Our client is an exciting games company that sits as a remote only studio and are now looking for an experienced frontend developer to join the team.
+
+You will own and be responsible for building top-notch internal web tools to help operate the games. Additionally you will help us develop and maintain our customer facing websites, as well as integrate them with cutting edge web3 technologies.
+
+We are looking for someone with good communication skills who is self driven and can take ownership of important parts of the project, and at the same time is willing to push the boundaries and learn new technologies.
+
+If you are passionate about delivering great user experiences, and being a part of a driven game team sounds like fun, this might be a great opportunity for you.
+
+Responsibilities
+Design and implement UI for internal web based tools (a.k.a. admin/management/dashboard panels)
+Document and create "how to" small tutorials on a tools you create
+Design and implement websites for mobile games using web3 technologies
+Work in small team that delivers a product for 10-20 people inside company who creates games for millions of players all over the world
+
+Requirements:
+Strong knowledge of React
+TypeScript knowledge
+Good experience with Linux shell and scripting languages
+Strong self-organization skills
+Focus on feature delivery
+
+MVP Skills:
+Enthusiasm and passion towards mobile and blockchain gaming
+Familiarity with blockchain and web3 tech
+Familiarity with GraphQL
+Knowledge of network protocols and websockets
+Understanding vanilla javascript / html / css
+Knowledge of Git and Docker

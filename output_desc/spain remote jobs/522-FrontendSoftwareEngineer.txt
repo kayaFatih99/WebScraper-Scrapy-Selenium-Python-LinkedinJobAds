@@ -1,0 +1,48 @@
+About the job
+About Us
+
+IDOVEN is a health tech startup seeking to prevent cardiac disease through AI. With our breakthrough AI-based electrocardiogram analysis platform, we work with physicians and healthcare leaders to enable early detection and diagnosis at scale.
+
+This is a unique opportunity. With the backing of the best investors in the industry, the European Innovation Council (EIC) and Horizon 2020 European Commission, you'll have the responsibility and resources to shape the creation of a game-changing product that can save millions of lives.
+
+Our technology is recognised with the European Seal of Excellence, supported by EIT Health (network of best-in-class health innovators backed by the EU) and received the Healthy Longevity Catalyst Award from the U.S. National Academy of Medicine. In 2021, we were awarded in South Summit as Most Disruptive Startup and Best Health Startup. We are one of the most promising European technology companies to watch.
+
+Our Stack
+
+We use a mix of tools in constant evolution; BigQuery, Cloud Run, Tensorflow, Pytorch, Petastore, ElasticSearch, MongoDB, PostgreSQL. We live in the Google Cloud Platform, we use Terraform as infrastructure as code, and we orchestrate with a Kubernetes cluster. We have a decoupled architecture, based on asynchronous APIs and services and we work with React on frontend platforms (clients and admin), Native code in the mobile apps (Swift, Java/Kotlin) and Node, Python/Django on the backend.
+
+What you will do
+Design the frontend of our SaaS application and connect it with our API and backend
+Work on our API in ReactJS
+Design and scale the logic for all actions requested on our customers application front end
+Focus on what makes a system work and how to improve its performance.
+Develop platform in React, Angular and/or Vaadin
+
+Requirements
+You have at least 3 years of experience developing single-page applications with React.js, Angular or Vaadin
+You breathe JS, in addition to being proficient in other frontend languages such as HTML5, CSS3 and SASS;
+Ideally you have experience with JS and React, but it's not necessary; we know that good engineers learn new languages and frameworks quickly.
+Familiarity with universal apps and server-side rendering;
+You care about the product you're building and the problem you're solving, not just the technology you're using.
+You take pride in choosing the best technical solutions to a problem with all constraints in mind, rather than chasing the latest shiny technology that isn't production-ready just because.
+Knowledge designing and developing new services, which scale with the highest level of security and performance.
+You enjoy working in teams and appreciate modern development techniques such as code reviews, pair programming, high coverage testing, and automating things.
+You like tough challenges, both product and technical, and like to contribute your insights.
+
+Benefits
+
+🚀 Be part of one of the most disruptive startups in HealthTech and AI and make a difference
+
+🏆 Personal and professional growth as part of a fast-growing, international team
+
+🎧No corners cut in having the best tech equipment to do your job
+
+🙋 Unlimited remote working environment, where you can choose to work from home and attend our Madrid office whenever you want to
+
+📚Learning and development opportunities and training budget
+
+😎 Regular team events and Thursday happy hours
+
+And much more!
+
+At IDOVEN, we believe in hiring top talented people like you - ambitious, forward thinkers who want to make a difference in the world and have an impact. Apply now via the apply button or contact us via talent@idoven.ai .

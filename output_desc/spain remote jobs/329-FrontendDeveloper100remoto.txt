@@ -1,0 +1,53 @@
+About the job
+Hola!
+
+Sabemos que 𝐛𝐮𝐬𝐜𝐚𝐬 𝐮𝐧 𝐜𝐚𝐦𝐛𝐢𝐨, sí, no lo niegues, estás explorando nuevos proyectos ofertas y empresas, algo te gustaría cambiar🤭. Nos gustaría que, en esta oferta de empleo pares, 𝐧𝐨 𝐡𝐚𝐠𝐚𝐬 𝐬𝐜𝐫𝐨𝐥𝐥 directamente a las responsabilidades, conocimientos, y todas esas cosas que buscamos de ti.
+Porque primero queremos presentarnos…
+
+Lo primero de todo 𝐬𝐨𝐦𝐨𝐬 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬, lo segundo que 𝐬𝐨𝐦𝐨𝐬 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬 𝐪𝐮𝐞 𝐚𝐦𝐚𝐧 𝐥𝐚 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠í𝐚 💙, somos tekkies, nos gusta, aunque no tenga que ver con nuestro puesto de trabajo, esas novedades frikies que se comen nuestras horas mirando en youtube, en twich, en tik tok, gitlab o dónde sea.
+
+Por las mañanas nos levantamos, nos tomamos un café☕, y no iniciamos el ordenador con palpitaciones, sino alegres 😁, con ganas de comenzar el día, de trabajar con las personas de tu equipo y todas aquellas con las que estamos en contacto día a día. Esa es nuestra primera promesa, 𝐜𝐨𝐧 𝐧𝐨𝐬𝐨𝐭𝐫𝐨𝐬 𝐭𝐫𝐚𝐛𝐚𝐣𝐚𝐫á𝐬 🅵🅴🅻🅸🆉. Se te pasarán las horas volando, haciendo lo que te apasiona hacer.
+
+
+¿𝐐𝐮é 𝐭𝐞 𝐠𝐮𝐬𝐭𝐚𝐫í𝐚 𝐬𝐚𝐛𝐞𝐫 𝐝𝐞 𝐧𝐨𝐬𝐨𝐭𝐫𝐨𝐬 𝐩𝐚𝐫𝐚 𝐪𝐮𝐞𝐫𝐞𝐫 𝐟𝐨𝐫𝐦𝐚𝐫 𝐩𝐚𝐫𝐭𝐞 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐚 𝐟𝐚𝐦𝐢𝐥𝐢𝐚?
+
+En primer lugar, somos Microsoft Gold Partner con 5 competencias:
+- Gold Application Development
+- Gold Cloud Platform
+- Gold Application Integration
+- Silver DevOps
+- Silver Data Analytics
+
+Además, trabajamos para 14 de las empresas del IBEX-35 y desarrollamos proyectos internos de innovación, pero ¡𝐢𝐧𝐧𝐨𝐯𝐚𝐝𝐨𝐫𝐞𝐬 𝐝𝐞 𝐯𝐞𝐫𝐝𝐚𝐝! 🤸‍♀️
+Además, te ofrecemos grandes posibilidades en plan de carrera, formación y certificación para crecer profesionalmente.
+
+¿𝐐𝐮é 𝐜𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐢𝐚𝐬 𝐦í𝐧𝐢𝐦𝐚𝐬 𝐞𝐬𝐩𝐞𝐫𝐚𝐦𝐨𝐬 𝐝𝐞 𝐭𝐢?
+
+
+Conocimientos profundos en React, Angular y/o Vue
+Muy valorable experiencia en librerías de manejo de formularios – React Hook Forms/Formik
+Librerías HTTP – Fetch API/Axios
+Librerías de Testing – Jest, Enzyme, Testing Library
+Frameworks de renderizado en servidor – Next.js
+Conocimiento de Typescript
+Conocimientos solidos en HTML y CSS
+Conocimiento de patrones de desarrollo funcionales
+Control de versiones (Git)
+Experiencia consumiendo REST APIs, Websockets y seguridad frente a ataques
+Buenas prácticas, Clean Code
+Dinamismo y resolutivo a la hora de afrontar problemas
+Herramientas de gestión y documentación Jira y Confluence
+
+Es imposible saber de todo, pero buscamos perfiles como tú, de los que lees esta oferta, cumples parte y tienes ganas de aprender más.
+
+En atSistemas utilizamos la tecnología para estar cerca, nos profesionalizamos, investigamos, creamos y vendemos nuestras propias creaciones, nos certificamos, realizamos eventos, nos 𝐝𝐢𝐯𝐞𝐫𝐭𝐢𝐦𝐨𝐬 💃 y por supuesto, para ayudar a impulsar y hacer realidad los proyectos de nuestros clientes.
+
+¿Qué más puedes hacer con nosotros?
+
+· 𝐜𝐥𝐚𝐬𝐞𝐬 𝐝𝐞 𝐢𝐧𝐠𝐥é𝐬 gratuitas 💂
+· Sabemos que te gusta comer en restaurantes y que a veces no vas para no gastar tanto dinero. Con la 𝐫𝐞𝐭𝐫𝐢𝐛𝐮𝐜𝐢ó𝐧 𝐟𝐥𝐞𝐱𝐢𝐛𝐥𝐞 en tickets restaurante podrás ahorrarte unos eurillos. También en cheques guardería, tarjeta de transporte y seguro médico. 🍕🍼🚈💊
+· El ir a trabajar no es solo mirar correos y atender peticiones. ¿Te imaginas hacer un scape room virtual con tus compañeros o unirte a un club de ajedrez? Durante todo el año hacemos actividades de 𝐭𝐞𝐚𝐦 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 para todos los gustos. 🎮♟
+· Si tienes un amigo del que no puedes despegarte, ¡haz que se una a la 𝐅𝐚𝐦𝐢𝐥𝐢𝐚𝐚𝐭!. Si crees que encaja en alguno de nuestros perfiles y se une a nosotros tendrás un premio 🤑 🤑
+· ¡Los eventos son lo nuestro! Tenemos dos grandes congresos además de webinars, formaciones internas hechas por técnicos de atSistemas o meetups.
+· Y si todo esto te parece poco, tenemos 𝐦𝐮𝐮𝐮𝐜𝐡𝐚𝐬 𝐬𝐨𝐫𝐩𝐫𝐞𝐬𝐚𝐬 que vamos realizando a lo largo del año. Puedes verlas aquí: https://www.atsistemas.com/es/unete/propuesta-valor
+· ¡Ah! Se nos olvidaba decirte que Los Reyes Magos también se pasan por atSistemas...

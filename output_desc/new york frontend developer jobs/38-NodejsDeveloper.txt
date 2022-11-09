@@ -1,0 +1,11 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Blue Rose Technologies LLC, is seeking the following. Apply via Dice today!
+
+Understand requirements, propose design solutions and review of APIs, Node.js scripts, PostgresSQL–
+Create new extract files, modify existing extract files -
+API enhancements
+Production support of Node.js jobs, extract files.
+Performance tuning and query optimization of PostgresSQL database -
+Thorough GitHub knowledge on branching, setup.
+Node.js code deployment to AWS, Monitor logs and
+provided by Dice

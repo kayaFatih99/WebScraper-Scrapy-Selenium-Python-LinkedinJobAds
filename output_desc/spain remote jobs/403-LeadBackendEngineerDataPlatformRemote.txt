@@ -1,0 +1,71 @@
+About the job
+About Glovo
+
+We’re a Barcelona-based startup and the fastest-growing delivery player in Europe, Africa, and Western Asia. With food at the core of the business, Glovo delivers any product within your city at any time of day.
+
+At Glovo, you’ll have the job of your life while working together towards our shared vision to give everyone easy access to anything in their city. We welcome top performers that will bring new ideas, diverse perspectives, and provide you the opportunities and freedom to grow and make a real impact on millions of lives… all while having fun!
+
+We believe that diversity adds incredible value to our teams, our products, and our culture. We know that the best ideas and solutions come by bringing together people from all over the world and by fostering a culture of inclusion where everyone feels included and has the chance to make a real impact. It's because of this that we are committed to providing equal opportunities to talent from all backgrounds.
+
+For this remote position, Glovo can only accept candidates who are eligible to work in any of the following countries in which there is a legal entity: Bulgaria, Croatia, Italy, Poland, Portugal, Slovenia, Spain, Romania.
+
+Candidates must inform Glovo about any change, variation or termination of their work authorization, domicile, or nationality. The loss of the authorization to work in the aforementioned countries will result in the automatic withdrawal from the recruitment process.
+
+In your application, please feel free to note which pronouns you use (For example: she/her/hers, he/him/his, they/them/theirs, etc).
+
+Your Work-life Opportunity
+
+We are looking for talented and passionate engineers to join the Data & ML Engineering Cluster.
+
+Glovo has a culture of data-driven decision-making, and demands data that is timely, accurate, and actionable. We’re growing really fast, collecting Terabytes of data from tens of data sources and providing interfaces for our internal customers to access and query the data hundreds of thousands of times per day.
+
+As an engineer in our Developer Experience Team you will be focused on building and constantly improving the Developer Journey for Glovo’s reliable and scalable Data & ML Platforms. Joining us your work will have an immediate influence on how our Developers and Data Scientists use the platform as they develop new Data Products and Data-Science Models.
+
+Be a Part Of a Team Where You Will
+Design, implement and keep improving Glovo Data Platform with main focus on User Experience
+Build APIs and Backend applications to integrate and manage different services provided by Data Platform core teams in a simple manner
+Simplify Data Engineers and Analysts work with self-service and intuitive tools (CLI, GUI, etc)
+Mentor & share technical expertise in Data with other Software Engineers (Backend/Frontend Engineers)
+Be on top of new technologies and industry trends
+Contribute to the general Architecture of Glovo Data Platform
+Mentor & share technical expertise in Software Development and Data with other Software Engineers (Backend/Frontend Engineers)
+You Have
+7+ years of software/data engineering experience
+5+ years experience in Python or other high level language skills
+1+ year working in data engineering or developing a Data Platform
+Working experience with Amazon Web Services / Google Cloud Platform
+Experience diagnosing and resolving performance problems in complex software systems.
+Extensive knowledge of object-oriented programming and software architecture.
+Strong will to adhere to best practices in OO development and a need to leave well-structured code in your tracks.
+Knowledge of relational databases and other approaches to data management
+Experience in driving cross team projects from technical perspective
+Good English
+Nice To Have
+Experience working with AWS EMR, AWS Glue, S3
+Cloud Data Warehousing experience in distributed data platforms (e.g. Hadoop + Hive/Presto preferred, Redshift, BigQuery or Snowflake)
+Experience working in a Data Lake
+Experience with Docker
+EXPERIENCE OUR GLOVO LIFE BENEFITS:
+Enticing Phantom Shares plan
+Attractive Relocation package (if applicable)
+Comprehensive Private Health Insurance
+Free monthly Glovo credits to spend on our restaurant products (and zero Glovo delivery fee on all Glovo orders!)
+Fresh fruit and healthy snacks every day, fun with colleagues on Fridays, Culture Days every 2 months,
+Continuing education opportunities, opportunities to grow your skills, acquire new ones and share your learnings with others!
+An environment where you are actively encouraged to bring your authentic self to work in a safe, diverse, collaborative experience.
+Working from home, flexible holidays
+What You’ll Find When Working At Glovo
+Gas: We work hard with energy and passion for what we do.
+Care: We act in the best interest of a sustainable future.
+Good vibes: We always see the positive side in every situation and act with fairness and honesty with everyone.
+Stay Humble: We embrace mistakes and feedback to learn from them.
+Glownership: We roll up our sleeves and get work done no matter our position and level.
+If you believe you match these values, we look forward to meeting you!
+
+At Glovo we believe that diversity adds incredible value to our teams, our products, and our culture. We know that the best ideas and solutions come by bringing together people from all over the world and by fostering a culture of inclusion where everyone feels heard and has the chance to make a real impact. It's because of this that we are committed to providing equal opportunities to talent from all backgrounds.
+
+Wanna take a peek into what it's like to work at Glovo? Follow us on Instagram and like us on Facebook!
+
+Glovo is transforming the way consumers access local goods, enabling anyone to get almost any product delivered in minutes. Our on-demand logistics connect customers with independent local couriers who acquire goods from any restaurant or store in a city, as well as deliver urgent packages for a variable fee. As of September 30, 2019, we’re currently present in more than 26 countries across Europe, Latin America, Africa, and Asia.
+
+For additional information on Glovo, please visit https://glovoapp.com/ | Twitter: @Glovo_ES | Facebook: https://www.facebook.com/glovoappES/ | LinkedIn: https://www.linkedin.com/company/glovo-app/.

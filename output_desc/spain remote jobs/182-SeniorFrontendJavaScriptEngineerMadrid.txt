@@ -1,0 +1,39 @@
+About the job
+hireful provide the UK’s most helpful recruitment software. Over 350 clients use our product to help make their recruitment more efficient and to deliver a better experience to both job seekers and hiring managers.
+
+Our software and overall service is loved by our customers. But this is not enough. We want to take our product to the next level, and to do this we’ve brought together an expert software engineering team in Madrid. You could be a part of this growing team.
+
+What you'll be doing:
+
+You will work closely with the UK-based Product team and UX Designers, building and maintaining efficient, reusable and reliable VueJS front-end code in an AWS cloud-based environment.
+
+What you'll bring to the job:
+At least 5 years experience working as full stack or front end JavaScript engineer
+Strong JavaScript skills (ideally VueJS, if not then React)
+Experience with build systems i.e. Webpack, Rollup
+Experience with State management (Redux or VueX)
+Proficient understanding of code versioning tools (e.g. Git) and code collaboration review tools (such as GitHub)
+Have worked with multi-tier architecture, REST API's
+Be proactive, self-managed and willing to learn new technologies
+Proficient in both Spanish and English
+
+It would be useful if you also have :
+
+Experience with Docker and Linux systems
+Understanding of Domain Driven Design (DDD)
+Experience with NodeJS, TypeScript, AWS knowledge e.g. CloudFront, Cognito, SDK, API Gateway
+Experience working in an Agile environment with issue-tracking tools like JIRA
+
+Similar job titles include: Front End Developer, Front Developer, Full-Stack Developer, Full Stack JavaScript Engineer, JavaScript Developer, NodeJS Developer, Software Developer, Software Engineer, Senior Software Engineer, React Developer, React Engineer, etc.
+
+Benefits:
+
+Salary of €40-50,000 depending on your skills and experience
+Great office location in the heart of Madrid
+Awesome company culture, with the chance to travel to the UK
+Flexible working hours, working in office 1-2 days a week
+Best in class workstations / infrastructure
+Annual training budget of €2,000
+Flexible work and social benefits
+
+Please note: You should be eligible to live and work in Spain, and we can't provide sponsorship at this time. This is a hybrid working role, so you should live in easy reach of Madrid for your days working in the office.

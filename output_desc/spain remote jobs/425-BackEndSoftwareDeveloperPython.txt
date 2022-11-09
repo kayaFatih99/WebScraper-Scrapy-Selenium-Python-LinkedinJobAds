@@ -1,0 +1,50 @@
+About the job
+Who we are
+
+We’re a global marketing service provider and we specialize in affiliate marketing & publishing. We are digital natives, data obsessed and focused on measurable outcomes. Some of the most talented individuals you’ll ever meet, all with one thing in common: doing great work, and growing as a team.
+
+Our value lies in Diversity, Equity, Inclusion and Belonging. We strongly believe in equality and stand against all kinds of discrimination. We dare to be unapologetically ourselves. Come join a team of explorers who are motivated by growth, and driven by results.
+
+What you'll do
+
+As a Backend Software Developer (Python), you will use your problem-solving skills to write well designed, testable, and efficient code. We design, develop and manage a vast portfolio of high-traffic websites featuring up-to-the-second statistics, dynamic data and informative content. Together with your team, you will develop and maintain robust data-crunching back-end code and APIs.
+
+You’re passionate about building scalable products, adhering to high quality coding standards and being part of a culture that promotes learning and sharing while respecting work-life balance. You enjoy autonomy, and you will have the option to work remotely and/or from our Malaga office.
+
+Maintain high software development standards by following established good practices and habits;
+Participate in Sprint activities such as standups, grooming and retrospectives;
+On a regular basis, communicate the progress of assigned work completion;
+Participate in peer-reviews of solution designs and related code;
+Adhere to high-quality development principles while delivering solutions on-time;
+Collaborate with other development team members and other departments to drive innovation and help define internal standards;
+Participate in self-directed learning, tech groups and workshops to learn new technologies and expand knowledge.
+
+What you'll bring
+
+Experience developing REST APIs in Django and/or Flask;
+Experience ingesting data from JSON and XML feeds;
+Experience following Agile development practices (Scrum/Kanban);
+Proficiency with Unix-based systems and using CLIs;
+Experience with relational database language and structure, such as MySQL;
+Proficiency with code versioning tools, such as git.
+
+Strong consideration will be given to candidates who also offer the following
+
+Experience building GraphQL APIs (Graphene);
+Experience with Machine Learning (Pandas, Scipy, Scikit-learn, etc.);
+Experience developing ETL processes with Apache Airflow;
+Experience with containerization, i.e. Docker, Kubernetes;
+Experience with common server administration tasks;
+Experience with NoSQL Databases (MongoDB)
+
+What’s in it for you
+Relocation & soft landing for you and your family (applicable in Spain, if you are moving from a different city/country)
+Attractive salary
+Competitive private health & life insurance package
+Flexible working hours and remote-friendly tools and methodologies to stay connected
+Workplace perks such as coffee, fresh fruit, bread, sweets and drinks provided daily
+In addition to regular leave yearly, six weeks’ paid leave for every four years of service
+Be part of a multicultural environment
+Wellbeing programme
+Different employee events throughout the year and team building activities
+Career Development training and programs to help you grow!

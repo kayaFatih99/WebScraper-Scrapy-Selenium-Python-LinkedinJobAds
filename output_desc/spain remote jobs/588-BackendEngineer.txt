@@ -1,0 +1,48 @@
+About the job
+Busuu is one of the top EdTech companies in the world and has won numerous awards for its innovation and impact in language learning.
+
+Busuu’s vision is to empower everyone in the world through languages. We are the world’s largest online community for language learning, with more than 120+ million users from 190 countries, growing at up to 40,000 new users per day. We make learning a language easy by combining AI-powered courses with instant feedback from our global community of native speakers and live tutoring from qualified teachers across the world.
+
+In January 2022, Busuu was acquired by one of the largest EdTech companies in the world, Chegg (NYSE:CHGG). Being part of Chegg will help us to accelerate our growth and achieve our vision even faster.
+
+If you are interested in EdTech and want to be a part of a mission-driven organisation, then we would like to hear from you.
+
+What does a Backend Engineer do at Busuu?
+You’ll have the opportunity to be at the centre of our biggest and most exciting phase yet, making big decisions that will help you grow as a Software Engineer. You’ll design and implement software solutions with reusable and testable that will have direct impact in the core of our business.
+You’ll be learning fast through different initiatives (guilds, reading clubs, learning together meetings, personal learning budget…), and keeping up with the latest industry standards.
+
+Our tech stack
+Our projects are built on a distributed platform composed of different API services.
+Some backend services are built with PHP 7 and Symfony, while others are built with NodeJS with TS.
+Services are built following best coding standards and design patterns such as hexagonal architecture, CQRS and Domain Driven Design.
+Our services are built using event-driven architecture.
+
+What we’re looking for in a Backend Engineer
+Excellent knowledge and experience in object-oriented programming.
+Solid knowledge of API design, RESTFul or gRPC.
+Working experience with SOLID principles and design patterns.
+Experience in defining the whole process of development, from initial design to deployment and support.
+Exposure to the architecture of high traffic web platforms.
+Experience working with legacy code base and its transition into a microservice architecture.
+Familiar with agile methodologies as scrum, kanban, XP.
+Ability to work outside your comfort zone, take a problem and solve it with as much or as little support as needed.
+
+At Busuu we want to ensure that you have access to some great benefits:
+Our centrally located offices are well-equipped with free breakfast, plenty of snacks, fresh fruit, and free dinner of your choice if you need to stay late
+Busuu offers a great Private Health Insurance scheme
+There is a personal training budget just for you, so you can learn more in your field to ensure our employees can continuously grow and progress in their careers
+We like to support our teams with their work-life balance so we offer flexible working hours and a hybrid model of working
+We offer enhanced maternity and paternity leave
+Staying connected as a team is very important to us, so we have lots of social activities for you to join such as team lunches, Friday socials, quarterly team, and company events
+
+What happens next
+We aim to have a simple and speedy hiring process and we want to make sure that we are right for you as much as the other way around. The hiring process for Backend Engineering is the following steps:
+CV application review - We will review it as quickly as possible.
+Let’s chat - Quick chat with our recruiter about your experience and the role.
+Culture fit interview - On-site or video call with the Engineering Manager
+Technical questions - Technical call with the Backend team.
+Technical test - We will send you a technical test to complete in your own time.
+Coding review - Technical interview and task review with the Backend team.
+
+Our platform is for everyone, and so is our workplace. We pride ourselves on embracing our differences, whether they're cultural, racial, religious or otherwise. This means each one of us comes to work knowing that we have a voice – and a safe, judgement-free zone to speak freely.
+If you like the sound of that, join us. We'd love to hear what you have to say.

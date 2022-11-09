@@ -1,0 +1,27 @@
+About the job
+Our product is all about collaboration and innovation. So are our people. We’re a small team, but we’ve got a big vision: to build a brand new infrastructure for operational risk management. It’s not easy. We’re redefining the way some of the world’s biggest financial services companies and banks work with data. There are a lot of challenges – but a lot of opportunities to think and act creatively, too.
+
+As a Senior Back End you'll be building and maintaining robust GraphQL APIs and providing clients with multiple data-rich views into operational risk management. You will be leading the discussions regarding technical architecture and will line manage our Back End team of 3. You will play a key role in growing this team inline with requirements.
+
+As part of the role, you will be involved in the full Agile lifecycle including feasibility of features, discussing how to implement them, and providing constructive feedback in our regular retrospectives.
+
+Our tech stack is one of the best around. You'll be using Node.js, TypeScript, GraphQL (with Apollo Federation), Azure Serverless and, of course, Git!
+
+When it comes to hardware, you’ll be given the choice of a MacBook or Windows laptop, along with anything you need for a comfortable and productive remote working environment.
+
+Requirements
+
+Here is a summary of the skillset that we're looking for:
+Experience building applications using TypeScript, Node and GraphQL. We are open to any language background, however you need to have experience on at least two complex TypeScript applications
+Knowledge and understanding of technical architecture and ability to contribute to discussions on overall direction of development
+Experience working with complex data structures
+Experience writing effective unit tests. You understand the value of unit tests and how they contribute to a robust and reliable codebase
+Experience with SQL databases essential
+
+Benefits
+
+This is an exciting opportunity to join a fast-growing, dynamic fintech that is creating huge momentum in the market.
+
+At this time we are only able to offer contract inside IR35.
+
+Acin is an equal opportunity employer. We value a diverse workforce and an inclusive culture. We encourage applications from all qualified individuals without regard to race, sex, colour, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation and gender identity or expression.

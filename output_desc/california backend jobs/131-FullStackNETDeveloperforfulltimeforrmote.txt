@@ -1,0 +1,18 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Last Word Consulting, is seeking the following. Apply via Dice today!
+
+Skill set: Angular JS,.NET
+
+Full Stack Dev with good hands -on knowledge of Angular(knows Angular JS), .NET and SQL. Knowledge of .NET Core for .NET API's,Web API will be help.
+
+Good knowledge of DevOps tools like Teamcity,Octopus, GITHub.
+
+Must have experience to coordinate, manage offshore team members and delivery.
+
+Knowledge of AWS Services will help but not mandatory.
+
+Excellent troubleshooting, debugging skills, ready to learn attitude.
+
+Excellent communication and experience with Safe/Scale Agile based development.
+
+provided by Dice

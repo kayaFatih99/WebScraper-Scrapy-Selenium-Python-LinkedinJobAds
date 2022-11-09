@@ -1,0 +1,82 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, SP Software Solutions, is seeking the following. Apply via Dice today!
+
+Position: Java Full stack developer
+
+Location: Greensboro, NC
+
+Duration: 1 year
+
+Responsibilities
+
+Understand requirement and translate that to product features.
+
+Participate in Scrum meetings and express the work done and the plan clearly. Participate in scrum ceremonies and clearly communicate.
+
+Lead an agile team and provide technical guidance. Participate in customer call and drive technical discussions
+
+Work on application design
+
+Develop applications using Front end, middleware, and database related technologies.
+
+Should be hands in developing and implementing best practices and write smart piece of code.
+
+Coding standard should be followed, and the code should be highly performant.
+
+Should be able to write unit test cases using any of the frameworks and should be completely automated.
+
+Should have strong exposure in REST API design and principles and adhere to RAML/Swagger or Open API specification
+
+Should be able to develop reusable components using proper design patterns as listed by lead/architect so that it is extensible.
+
+Should be able to use design patterns and implement the right solution.
+
+Should be able to do code review and implement automation wherever required to ease development process.
+
+The Role offers
+
+An outstanding opportunity to re-imagine, redesign, and apply technology to add value to the business and operations.
+
+An end-to-end project exposure across multiple technical stack and cloud platform
+
+An individual who has passion to learn and adapt to new technologies quickly and scale to next level easily.
+
+High visibility, opportunity to interact with multiple groups within the organization, technology vendors and implementation partners.
+
+Work in high end and latest technologies
+
+Essential Skills
+
+Total IT Experience 7 to 12 years
+
+7+ years of in-depth knowledge in core Java, spring and Hibernate
+
+3+ years of experience in spring boot
+
+2+ years of experience in RESTful Http services design
+
+2+ years in designing applications and applied design patterns
+
+3+ years of Strong experience in Angular 4/6/8 or REACT JS
+
+3+ years of experience in Java script, JQuery, Bootstrap, Html 5, CSS3
+
+3+ years of experience with SQL Server, Postgre SQL writing stored procedures, performance tuning and identifying deadlocks, transactions and data locking/blocking scenarios
+
+Working knowledge of Webpack, Angular CLI and Agile Scrum framework
+
+Good communication and unit testing knowledge.
+
+Good to have knowledge in one of the cloud platform like AWS/Azure/PCF
+
+Work experience in frameworks like JPA, Struts/Spring MVC, Spring Core, Spring AOP, and Spring Data
+
+Familiar with Continuous Integration methodologies and tools, including Jenkins
+
+Good to have: Exposure to Microservices, Docker, Kubernetes and cloud deployment
+
+Essential Qualification
+
+MCA/equivalent master's in computers is a must.
+
+provided by Dice

@@ -1,0 +1,52 @@
+About the job
+Are you a senior/lead front-end software engineer thats eyeing some NFT's and looking to escape the old world of Web2 and wants to step into Web3 and help build utilities for the Metaverse?
+Look no further sir, look no further.
+
+The Company
+You must have gotten wind of the recent buzz surrounding NFT's and If you're reading this, chances are you're into this sort of stuff.
+
+So- there's good and bad NFT's. Bad NFT's have no utility only hype, Good NFT's have Utility. This company focusses on the Good kind and they lend them out.
+
+lending NFT's is a thing? Yes, allow me to explain.
+A lot of NFT's they have are used for gaming, events, art whatever. Some people just want to play a certain game, go to a certain event or whatever utility the NFT has that fits their need. But don't necessarily want to own or invest in a (sometimes fairly expensive) NFT.
+
+This way they can just rent one, play a game, earn some yield with the P2E game, everything is split, the player gets some, the owner of the NFT get's some and everybody wins.
+And this is already being done by a lot of people, but there is a problem.
+
+Everything is managed manually, yes, manually.
+There's an administrator keeping track of all passwords, user accounts, yield in excel sheets. Honestly it's laughable. Our client fixes this.
+Because they're the first automated NFT lending platform in the world and they have partnered with Chainlink, Rarible and Polygon to name a few and one of the founders is a The Sandbox veteran.
+
+If you're looking for a good place to work in Web3 and make a nice degen play for your life.
+This is it.
+
+The Job
+You're going to join a team of collaborators and contributors because that's one of the most important aspects of the culture within the company "We are building and envisioning together."
+
+That means one important thing.
+You know your stuff and we can trust that you can fix whatever it is you say you'll fix.
+
+And what needs fixing and improving, is the frontend of their platform.
+They are protocol first and platform second so the backend needs to be solid before we're moving on to new features in the front-end and that's where you come in!
+
+You will be responsible for implementing new features, building the dashboard for users, delegate tasks to your team, manage the development process, you know what comes with the job of a senior engineer.
+
+The Requirements
+4+ years of experience in frontend software engineering
+Frontend leadership experience
+You just get it
+Wished you bought BTC in 2010
+Even if you bought BTC in 2010 you'd still want to work in Web3 because it's awesome!
+React
+Typescript
+TailwindCSS
+Web3 is a bonus but not required
+
+The Yield
+A completely remote job
+The coolest job of all your friends
+Salary up to 150k per year
+A place at the table of the future
+You'll need to explain it about 300 times to people what we work on until' they get it but that's a burden we all live with
+
+Sound good and want to know more? Great! Contact me at +31651659849 or R.stikkelman@haystackpeople.nl.

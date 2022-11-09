@@ -1,0 +1,44 @@
+About the job
+Clikalia es la Proptech Nº #1 en la digitalización de la compra y venta de inmuebles en España. En tan solo 7 días ofrecemos el pago por tu vivienda y ponemos a disposición la mejor oferta de inmuebles en tu ciudad. Queremos acercar y hacer accesible la vivienda para todo el mundo.
+
+Con Headquarters en Madrid y presencia en Barcelona, México City, Málaga, Sevilla, Lisboa y París, Clikalia se ha expandido rápidamente en apenas 4 años de vida para brindar soporte a sus clientes.
+
+Clikalia está fundada por los mayores emprendedores en serie del país. Adicionalmente, contamos con inversores tales como Soft Bank, Fifth Wall, Luxor Capital y el Banco Santander a través de su venture capital, Mouro Capital, ofreciendo distintas sinergias y oportunidades de crecimiento.
+
+En 2021 hemos crecido un 500% y triplicado equipo en todas nuestras territoriales además de acabar el año cerrando una ronda de financiación histórica en el ecosistema empresarial español.
+
+Con el propósito de escalar, innovar y diferenciarnos mediante la tecnología, estamos invirtiendo en crear un equipo líder, para el cual estamos buscando Senior Node.JS Developer para incorporarse en nuestro equipo de tecnología en España desde nuestras oficinas de Madrid, reportando directamente al director de Tecnología.
+
+¿Qué harás?
+
+Trabajarás en uno de los departamentos claves de la compañía como Backend Developer dentro del equipo de tecnología, área clave para el crecimiento exponencial, combinando tecnologías consolidadas, con tecnologías disruptivas y con un equipo de profesionales de alto nivel…y tendrás que:
+
+Tomar responsabilidad en el desarrollo, lanzamiento y mantenimiento del software core de la compañía de inicio a fin, priorizando la escalabilidad y el impacto en el negocio.
+Tomar el ownership de los servicios backend, haciendo el deploy, el mantenimiento y el debugging.
+Tocarás todo el stack de la compañía, aunque centrado principalmente en el backend.
+Trabajarás principalmente con, NodeJS, Javascript, MySQL/MongoDB y servicios de Azure.
+
+¿Quién eres?
+
+Eres un desarrollador centrado en el Backend que lleva 3+ años trabajando y que quiere seguir aprendiendo sobre nuevas tecnologías.
+Tienes experiencia con diferentes tipos de bases de datos, te preocupa el performance de los servicios y tienes claros los conceptos de monolito y microservicios.
+Disfrutas programando y resolviendo problemas complejos para hacer entornos altamente escalables.
+Tienes un buen background técnico que has adquirido con estudios de ingeniería informática o similares.
+
+
+¿Qué ofrecemos?
+
+
+Desarrollo profesional en una de las startups de mayor crecimiento en Europa y LATAM..
+Formar parte de un equipo ambicioso orientado a la excelencia en los resultados.
+Salario competitivo y acorde a tus competencias.
+Posibilidad de cobrar tu salario cuando quieras o marcarte planes de ahorro (a través de la app Payflow dispondrás instantáneamente del salario devengado o podrás realizar un plan de ahorro)
+Alianza con Clicars: podrás beneficiarte de descuentos para la compra de coches.
+Además, por ser empleado de Clikalia también contamos con descuentos en la compra de viviendas y en el asesoramiento y gestión hipotecaria.
+Horario flexible orientado a objetivos
+Puesto de trabajo Full Remote
+Equipo a tu elección Windows/Mac/linux
+
+¿Todavía te lo estás pensando?
+
+En Clikalia nos sentimos muy orgullosos de lo que estamos haciendo, tenemos un propósito y aquí todo el mundo cabe. Queremos integrar el mejor equipo para cambiar la forma en que se vende o se compra tu casa. Nos esforzamos cada día en ofrecer el mejor entorno de trabajo, que inspire e impulse el desarrollo profesional.

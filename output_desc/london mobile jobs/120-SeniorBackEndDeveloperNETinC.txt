@@ -1,0 +1,24 @@
+About the job
+Senior Back-End Developer (.NET in C#)
+Cambridge - Remote
+Up to £65,000
+Senior Back-End Developer (.NET in C#) required to join a renowned professional body who lead great advances in their space. They’re continuously innovating and as such are looking for a Senior Back-End Developer to join their amazing development team.
+This role is remote working with optional flexible days in the Cambridge based office and an abundance of employee benefits whilst working alongside a group of exceptional people who will encourage your continued growth and development.
+
+
+Some of what you will be doing:
+· Back-End software development
+· Taking technical responsibility and providing guidance on processes and pipelines
+· Being a key developer in the team
+· Conducting peer review to ensure good quality and design
+· Measure and monitor applications for software construction and security
+· Analyse current and emerging technologies to assess longevity
+
+Ideally, your skills and experience will include:
+· Experience with developing with .NET in C#
+· Experience using design patterns, including MVC
+· Experience with LINQ, Entity Framework
+· Experience with web services using REST, WCF, WebAPI
+· Experience with serverless architectures in AWS
+· Working knowledge of HTML, CSS, JavaScript
+· Expert knowledge of CML and JSON

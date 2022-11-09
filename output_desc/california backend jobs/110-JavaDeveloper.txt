@@ -1,0 +1,18 @@
+About the job
+Job Title Java Developer
+Years of Experience 8-12+ yrs
+Exact Work Location Concord, California, Minneapolis, MN (onsite within 2 months)
+Job Description:
+Technical Skills – Java 8, Core Java, Springboot, Microservices, Rest API
+Owns all technical aspects of software development for assigned applications
+Performs hands-on design, and development of systems
+Functions as Senior member of an agile team and helps drive consistent development practices – tools, common components, and documentation
+Mentors team
+Typically spends most of time writing code and testing, and remainder of time collaborating with stakeholders through ongoing product/platform releases
+Develops deep understanding of tie-ins with other systems and platforms within the supported domains
+Writes code and unit tests, works on API specs, automation, and conducts code reviews and testing
+Performs ongoing refactoring of code, utilizes visualization and other techniques to fast-track concepts, and deliver continuous improvement
+Identifies opportunities to adopt innovative technologies
+Provides continuous support for ongoing application availability
+Works closely with product owners on blueprints and annual planning of feature sets that impact multiple platforms and products
+Works with product owners to prioritize features for ongoing sprints and managing a list of technical requirements based on industry trends, new technologies, known defects, and issue

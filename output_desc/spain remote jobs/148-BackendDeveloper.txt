@@ -1,0 +1,25 @@
+About the job
+Descripción
+Precisamos incorporar un perfil de desarrollador Ruby on Rails para formar parte del equipo interno que se encarga del desarrollo y mantenimiento de nuestras aplicaciones centradas en la gestión de flotas. Necesitamos una persona proactiva con capacidad de trabajo en equipo y ganas de compartir y asumir nuevos retos.
+
+Se ofrece
+Incorporación inmediata con contrato indefinido a un equipo en crecimiento.
+Formato teletrabajo con posibilidad de asistencia a las oficinas de nuestro centro ubicado en L’Hospitalet de Llobregat.
+Desarrollo profesional personalizado (Plan de formación).
+Salario competitivo según valía.
+
+Requisitos
+Experiencia en desarrollos con Ruby on Rails.
+Conocimientos de BBDD PostgreSQL y/o MySQL.
+Experiencia en la creación y mantenimiento de APIs en Ruby on Rails.
+Desarrollo de tests en RoR con RSpec, Cucumber, etc.
+Conocimientos en el uso de git y metodologías TDD.
+Conocimiento del uso de herramientas CI/CD, como GitHub Actions.
+
+Se valorarán positivamente
+Conocimientos básicos de React.
+Habilidad en la creación de tests con Cypress.
+Conocimientos de funcionamiento/administración de Heroku.
+Conocimientos básicos de Redis.
+Conocimientos en diseño y arquitectura de BBDD.
+Conocimientos en plataformas Azure y AWS.

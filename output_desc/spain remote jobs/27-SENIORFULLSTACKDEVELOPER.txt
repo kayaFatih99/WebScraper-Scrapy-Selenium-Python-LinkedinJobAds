@@ -1,0 +1,27 @@
+About the job
+Aggylon es la plataforma referencia a nivel nacional en digitalización del uso de la marca. Nuestros clientes, la mayoría de las empresas del Ibex y otras empresas muy conocidas, nos exigen cada día un excelente servicio lo que requiere tener un equipo de trabajo relacionado con las últimas tecnologías.
+Buscamos un Senior Full Stack Developer para nuestro equipo de desarrollo de nuestra plataforma SaasS: el BrandCenter. Se integraría en un equipo de trabajo muy consolidado, en un software muy robusto y en una dinámica de trabajo de aprendizaje y desarrollo constante.
+Requisitos
+Conocimientos en:
+Symfony, con una experiencia demostrable de al menos un par de años.
+Vue.js (nuxt)
+Docker
+GraphQL
+ElasticSearch
+Funciones
+· Análisis y propuesta de nuevas soluciones tecnológicas
+· Desarrollar la plataforma actual
+· Diseño, arquitectura y desarrollo de aplicaciones
+· Mantenimiento, correctivo y evolutivo de las aplicaciones
+Que ofrecemos:
+Incorporación casi inmediata
+22 días de vacaciones + fiestas + día de cumpleaños opcional de trabajar o no
+Horario flexible, los viernes hasta las 15h. Jornada intensiva en verano.
+Varias localizaciones: Madrid o Barcelona
+Teletrabajo si se prefiere
+Salario en función de las capacidades.
+Contrato indefinido.
+Estabilidad laboral y proyección profesional.
+Formar parte de un equipo joven, en un ambiente dinámico y con un importante potencial de desarrollo.
+Entorno muy dinámico, con una formación constante.
+Retos en el que los límites los pondrás tú.

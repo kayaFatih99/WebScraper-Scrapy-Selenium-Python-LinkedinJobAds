@@ -1,0 +1,68 @@
+About the job
+THE CHALLENGE
+
+Eventbrite is seeking a Senior Software Engineer to join us in our mission to bring the world together through live experiences. Last year alone, our platform processed over 150 million tickets across over 3 million events organized by our creators. In this role, you’ll have the opportunity to build features, design APIs, and scale our product as we grow.
+
+THE TEAM
+
+We're a people-focused Engineering organization: the women and men on our team value working together in small teams to solve big problems, supporting an active culture of mentorship and inclusion, and committing themselves to learn new things daily. Pair programming, weekly demos, tech talks, and quarterly hackathons are at the core of how we’ve built our team and product. We believe in engaging with the community, regularly hosting free events with some of the top technical speakers, and actively contributing to open source software. Our technology spans across web, mobile, API, big data, machine learning, search, physical point of sale, and scanning systems.
+
+Our engineering teams own their services and systems end to end from requirements gathering to deployment to maintenance. Team members follow an on-call rotation to ensure any issues are mitigated immediately and root causes are rectified.
+
+THE ROLE
+
+We seek senior software engineers to join one of our development teams. We’re currently through a transition to a pure Devops culture. We strive for teams completely autonomous and with full ownership of their services and roadmaps. Teams usually consist of front-end engineers, backend engineers, a product manager, a designer, Technical program manager, and an engineering manager. You will solve challenging technical problems and own your impactful products end-to-end. You will contribute to Eventbrite engineering’s culture of technical excellence through inclusivity and mentorship. This is more than an opportunity to join an amazing team, it is a chance to impact Eventbrite’s platform and organization at scale.
+
+THE TECH STACK
+
+Eventbrite is one of the world’s largest Django-powered sites by request volume. Python, Django, and MySQL are the primary off-the-shelf technologies in our stack. We are hosted on AWS. PySOA, our services framework builds on these core technologies. On the frontend, we make extensive use of React and Redux. However, the company is transitioning to a completely new stack (such as Kotlin, DynamoDB, Lambdas, gRPC, Step Functions, etc) where each team will have complete ownership and autonomy.
+
+THE SKILL SET
+
+You have 4+ years of experience building applications at scale in at least one popular programming language, such as Python, Java, Kotlin, Go, Rust, Ruby, etc.
+You have 2+ years of experience using some form of web framework: Django, Symphony, Rails, ASP.net , etc.
+You have 2+ years of experience using a SQL database: MySQL, PostgreSQL, MSSQL, etc.
+You are an efficient, practical programmer with a record of designing and producing dependable code.
+You care about making sure your code is maintainable and well tested.
+You have a holistic approach to quality.
+You are a results-driven self-starter with great communication and collaboration skills; we put a lot of emphasis on being team players.
+You enjoy teaching and mentoring colleagues.
+
+BONUS POINTS
+
+Experience with cloud services in AWS, Azure, or Google.
+You have knowledge of microservices and/or Service Oriented Architecture
+You have experience working with modern frontend frameworks: React, Backbone/Marionette, etc
+You have experience designing and developing APIs, both internal service and HTTP APIs
+
+What We Offer
+
+At Eventbrite, we strive to support our Britelings and their loved ones through different stages of life with robust and attractive benefits, financial and physical wellness options, and great perks. In addition to offering a competitive salary and company stock, we have other great benefits available. In the Briteland, you’ll find great medical plans, fertility and adoption benefits, wellness reimbursement, generous parental leave, and much more.
+
+We Care About Your Mental Health And Wellbeing.
+
+Our employees enjoy free coaching sessions with Modern Health. We also offer free therapy sessions with a psychologist. You’ll also have access to private medical insurance for you and your family, that includes dental care. And our wellness program to pay for your gym expenses.
+
+We work hard to cultivate a diverse, equitable and inclusive culture where Britelings feel like they belong.
+
+Employees can participate in resource groups and we offer programming throughout the year to support a diverse and inclusive workplace.
+
+We offer ongoing training and career development that meets people where they are in their careers.
+
+We offer unlimited access to courses in Udemy, leadership coaching for all managers, Briteling led talks, and weekly company-wide town halls with our CEO. We take culture seriously and design programs with employee feedback in mind to make Eventbrite a great place to work no matter where you work from in the world.
+
+Work-life balance & flexibility is extremely important to us.
+
+Our employees can choose what works best for them: work in one of our offices, be fully remote or the best of both worlds! We believe in a flexible working environment to allow Britelings to perform at their best ensuring a healthy work-life balance. We have recently implemented Britebreak Fridays: all Britelings turn off their computers and take the first Friday of every month off to focus on their wellbeing.
+
+About Eventbrite
+
+Eventbrite is a global self-service ticketing and experience technology platform that serves a community of hundreds of thousands of event creators in nearly 180 countries. Since inception, Eventbrite has been at the center of the experience economy, transforming the way people organize and attend events. The company was founded by Julia Hartz, Kevin Hartz and Renaud Visage, with a vision to build a self-service platform that would make it possible for anyone to create and sell tickets to live experiences. The Eventbrite platform provides an intuitive, secure, and reliable service that enables creators to plan and execute their live and online events, whether it’s an annual culinary festival attracting thousands of foodies, a professional webinar, a weekly yoga workshop or a youth dance class. With over 290 million tickets distributed for over 5 million total events in 2021, Eventbrite is where people all over the world discover new things to do or new ways to do more of what they love. Learn more at www.eventbrite.com .
+
+Is this role not an exact fit?
+
+Sign up to keep in touch and we’ll let you know when we have new positions on our team .
+
+Eventbrite is committed to equality of opportunity for all staff, and applications from all suitably qualified individuals are encouraged, regardless of age, disability, sex, gender reassignment, sexual orientation, pregnancy and maternity, race, religion or belief and marriage and civil partnerships.
+
+Applicant Privacy Notice

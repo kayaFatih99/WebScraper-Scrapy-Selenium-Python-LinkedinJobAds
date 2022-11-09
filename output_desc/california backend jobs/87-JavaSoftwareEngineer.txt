@@ -1,0 +1,48 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, BayOne Solutions, is seeking the following. Apply via Dice today!
+
+Role: Java Software Engineer
+
+Location : 100% Remote
+
+Duration : Long-term
+
+W2 Only (No C2C)
+
+Position Description
+
+The Java Software Engineer will be responsible for designing, developing, debugging, modifying, and evaluating enterprise Java/Web SaaS solutions for the Healthcare Payer/Provider Market. Our application is deployed in AWS. You will be working as part of a geographically distributed mature agile team with a proven track record developing on a profitable active product line.
+
+Key Responsibilities:
+Designs, implements, and maintains code based on functional and technical requirements.
+Performs reviews of code and applications, including developing automated tests to assure quality.
+Follows established processes for performing work.
+Recommends improvements to both processes and products.
+Works well in a strongly collaborative but mature agile development environment.
+Prefers to generalize and work in a variety of areas instead of specializing in any one technical area (server, client, DB, multiple applications).
+
+Minimum Requirements
+
+2+ years of experience in software engineering
+2 -6 years Java development experience
+Solid understanding of testing practices, mocking, TDD
+Good understanding of good coding principles
+Familiarity with dependency injection / inversion of control
+Familiarity with general database principles and ORM tools
+Previous experience performing code reviews
+Solid experience with RESTful principles and/or web services
+Experience with Modern continuous integration, build, version control tools
+Experience with Design Patterns and good design principles
+
+Additional Knowledge & Skills
+Modern Java frameworks like Spring, Hibernate
+Oracle or other SQL based databases
+Testing tools like JUnit, Mockito.
+Web UI frameworks and languages like Angular, JavaScript.
+Continuous integration tools like Team City and build tools like Ant or Maven.
+Strong candidates more or less experience welcome to apply. Compensation can be adjusted as appropriate
+
+Education
+
+4-year degree in computer science or related field or equivalent experience
+provided by Dice

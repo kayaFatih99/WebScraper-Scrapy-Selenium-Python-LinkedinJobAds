@@ -1,0 +1,64 @@
+About the job
+Senior iOS Engineer
+Remuneration: Competitive
+Location: London/Newcastle, hybrid or fully remote
+
+Who Are We?
+
+mkodo builds world class apps and digital products in the global lottery, betting and gaming space. We have an open, supportive, dynamic culture where talented people are trusted to contribute to the team and company by carrying out their roles in a professional, collaborative, and skilled manner. We value the expertise of our team members and offer opportunities for personal development and career progression within the company.
+
+Key Skills & Attributes:
+
+We are looking for a passionate iOS engineer who keeps up to date with latest and greatest changes in Apple’s development platforms. You should endeavor to write clean code and constantly improve the apps you work on.
+
+· Extensive experience in iOS development.
+· Proficiency with the iOS tech stack including Swift.
+· Experience working with RESTful APIs.
+· Experience with multi-threaded programming.
+· Experience building adaptive UIs for Mobile Devices.
+· Familiar with Apple’s Human Interface Guidelines and App Store Review Guidelines.
+· Experience, or keen to be involved in mentoring Junior Team Members.
+· Understanding of core computer science principles and concepts i.e. MVC, OOP, memory management.
+· Experience mentoring Junior Team Members.
+TDD is an advantage but don’t worry we can train you if you haven’t practiced it before.
+
+About the role:
+
+Here at mkodo we focus on building great software engineers and code! SOLID principles, Clean Code/Architecture, TDD and CI/CD are the way we work to deliver high quality and maintainable code. Writing maintainable code in this way enables our engineers to make changes more easily, safely and faster, enabling us to grow longstanding relationships with our clients. Join us for the opportunity to work on highly scalable, performant, maintainable and secure Web and Mobile Applications for clients in the heavily regulated online gaming sector. Our portfolio includes sports betting, casino, bingo and, more predominantly of late, lottery applications. Our websites get millions of users; our mobile apps are downloaded millions of times.
+
+Main Responsibilities:
+
+Following the best dev practices:
+· We build our own Swift frameworks for reusable code across our apps.
+· We practice TDD so we know when our code breaks.
+· We follow the SOLID principles and are always trying to leave the code cleaner than we found it.
+· We have a great CI setup with Jenkins and Fastlane validating our commits with our cluster of macOS hosts.
+· Continuous delivery with Fastlane, merging to a release branch automatically triggers the process to ship our builds to store.
+
+Tech interesting to us:
+
+· SwiftUI
+· Widgets
+· App clips
+· Xcode 13
+· Clean Architecture
+
+Benefits:
+
+mkodo is a great place to work, with excellent benefits comprising:
+· Remote/Flexible Working
+· Quarterly team events
+· Birthday Holiday
+· Generous Holiday Allowance
+· Tech Loan Scheme
+· Performance bonus & profit share scheme
+· Cycle to Work scheme
+· Travel Loan scheme
+· Relevant training and training budget
+· Digital Nomad Policy (remote working)
+· Buy/Sell Holiday Scheme
+· Internal Career Progression
+· Employee discount in Apple stores
+· Contributory Pension
+
+We encourage growth and progression because we value our colleagues and know that we best succeed when achieving and developing together. If this is the opportunity you have been waiting for, to work in a fast-paced company with innovative products and cutting-edge technology, please apply now.

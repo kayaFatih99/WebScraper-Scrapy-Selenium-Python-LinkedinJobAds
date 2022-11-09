@@ -1,0 +1,34 @@
+About the job
+This is a unique opportunity for an engineer.
+
+You'll be building a product for you and your peers.
+
+The client is one you use every day. Not the browser or your phone, but your code editor.
+
+And the backend combines an API gateway to issue trackers with business logic.
+
+This presents a very interesting set of challenges. We need your help to tackle them and grow our product now that we've found product-market fit.
+
+Your responsibilities
+
+Your goal is to build our third party integrations.
+
+You'll start by focusing on issue trackers. We need to integrate with all major providers. And there are lots of them, so you'll have your work cut out.
+
+Providing a consistent user experience across all these issue trackers without development costs scaling superlinearly is a major challenge. One you'll focus on solving.
+
+That's just the beginning. Stepsize will become the central tool to plan and manage technical work.
+
+We'll also integrate with:
+Code review tools (GitHub, GitLab, etc.)
+Communication tools (Slack, MS Teams, etc.)
+Application performance monitoring tools (New Relic, Datadog, etc.)
+Code quality tools (Code Climate, CodeScene)
+
+We'll want the community to build some of these integrations for us. You'll work on our own public API to make that possible.
+
+Find out more
+
+We’ve put together a proper job description for you with details about Stepsize, our work environment, employment benefits, the interview process, etc.
+
+You’ll find loads of information to decide whether this is the right role for you.

@@ -1,0 +1,78 @@
+About the job
+Position Description
+
+CAI is a Professional Consulting firm serving Pharma and Biotech industries. Our software team supports internal and external applications using a mix of industry standard technologies on top of our own internal platforms. We are looking for a great JavaScript developer who is proficient with using NodeJS and modern ECMA syntax. You may work on such things as implementing user interface components using our internal platform, back-end API endpoints using NodeJS, and/or mobile applications using React-Native. You will ensure that any components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is critical.
+
+You will be part of a talented software team that works on mission-critical applications. JavaScript developer roles and responsibilities include managing JavaScript and HTML 5 application development in a low-code platform, while providing expertise in the full software development life cycle, from concept and design to testing. JavaScript developer responsibilities may include designing, developing, and delivering high-volume, low-latency applications for our clients.
+
+Responsibilities
+
+Developing new user-facing features using a combination of NodeJS, our internal platform, React, and/or React-Native
+
+Translating designs and wireframes into high quality code
+
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+
+Contribute to all phases of the development life-cycle Write well designed, testable, efficient code
+
+Prepare and produce releases of software components
+
+Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review
+
+Skills
+
+Requirements include:
+
+Detailed knowledge of several JavaScript frameworks and technologies (e.g. React, Node.js )
+
+Strong proficiency in JavaScript, including modern ECMA syntax such as async/await, destructuring, spread operator, optional chaining, etc.
+
+Familiarity with working with RESTful APIs or other external integrations.
+
+Basic understanding of SQL and relational databases such as MySQL
+
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+
+Ability to understand business requirements and translate them into technical requirements
+
+A knack for benchmarking and optimization
+
+Familiarity with code versioning tools such as GitHub
+
+Excellent time-management skills
+
+Great interpersonal and communication skills
+
+Position Requirements
+
+2+ years of experience developing applications in JavaScript.
+
+Other Requirements
+
+Excellent oral and written communication skills in English/Fluent in English
+
+Able to work in the US without sponsorship now or any time in the future
+
+Must have been vaccinated or willing to be vaccinated for COVID-19 prior to starting employment
+
+About CAI
+
+CAI is a 100% employee-owned company established in 1996 that has grown to more than 700 people worldwide. We provide commissioning, qualification, validation, start-up, project management and other consulting services associated with operational readiness to FDA regulated and other mission-critical industries.
+
+Meeting a Higher Standard
+
+Our approach is simple; we put the client’s interests first, we do not stop until it is right, and we will do whatever it takes to get there.
+
+As owners of CAI, we are committed to living our Foundational Principles, both professionally and personally:
+
+We act with integrity.
+
+We serve each other.
+
+We serve society.
+
+We work for our future.
+
+We are an equal opportunity employer; we are proud to employ veterans and promote diversity and inclusion in our workplace. Diversity is a strength for our global company. We pledge that CAI will be operated in a way that is fair and equitable to all – our employees, our customers, and the broader society.
+
+This job description is not all inclusive and you may be asked to do other duties. CAI will also consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Fair Chance Act (FCA) / Fair Chance Ordinance (FCO).

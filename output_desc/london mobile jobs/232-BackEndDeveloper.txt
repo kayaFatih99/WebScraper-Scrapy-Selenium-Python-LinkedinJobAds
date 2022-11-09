@@ -1,0 +1,45 @@
+About the job
+As a Back-End Developer, you'll spend most of your time building and maintaining robust GraphQL APIs and providing clients with multiple data-rich views into operational risk management.
+
+You’ll need to decide between extending existing functionality or breaking things out into more re-usable patterns, whilst being mindful about consistency, reusability, and looking for ways to make developers lives easier.
+
+As part of the role, you will be involved in the full Agile lifecycle including feasibility of features, discussing how to implement them, and providing constructive feedback in our regular retrospectives.
+
+Our tech stack is one of the best around. You'll be using Node.js, TypeScript, GraphQL (with Apollo Federation), Azure Serverless and, of course, Git!
+
+When it comes to hardware, you’ll be given the choice of a MacBook or Windows laptop, along with anything you need for a comfortable and productive remote working environment.
+
+Requirements
+
+Here is a summary of the skillset that we're looking for:
+3 years’ experience with TypeScript
+3 years’ experience with Node.js
+Experience working with complex data structures. At Acin you will be helping to solve tricky data problems and it's important for you to share our enthusiasm in tackling them.
+Experience writing effective unit tests. You understand the value of unit tests and how they contribute to a robust and reliable codebase.
+A motivation to continuously work towards a higher standard of code.
+Effective communication skills. You contribute to discussions and convey ideas in an accessible manner
+
+Nice to have:
+Experience using SQL (SQL Server, MySQL, Oracle or similar)
+A test-driven approach to development
+Experience using GraphQL
+A desire to support the development of your teammates
+
+Benefits
+
+This is an exciting opportunity to join a fast-growing, dynamic fintech that is creating huge momentum in the market. Alongside a friendly, dynamic, and inclusive culture, we offer…
+25 days annual leave plus bank holidays
+Share options – we like to offer our employees a stake in our success
+A company pension to help save for your future
+Enhanced Private Health Insurance for you and your family
+Life insurance, including access to their Smart Health services such as unlimited access to an online GP as well as a range of other health and wellbeing experts
+Enhanced maternity and paternity leave policies
+Perkbox - a discount platform and wellbeing resource centre.
+Employee Assistance Program – access to free counselling sessions and support through Perkbox.
+Cycle to work scheme
+A laptop and home office equipment – whatever you need to do your best work
+Hybrid working options. We currently we have offices in Farnborough and Central London.
+Regular company events and socials – we call these events InterfAcin
+A strong team culture where successes are celebrated together. Our core company values are get up and go, keep going, and always further.
+
+Acin is an equal opportunity employer. We value a diverse workforce and an inclusive culture. We encourage applications from all qualified individuals without regard to race, sex, colour, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation and gender identity or expression.

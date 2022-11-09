@@ -1,0 +1,42 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, iSpace, Inc, is seeking the following. Apply via Dice today!
+
+Full- Stack Engineer (.Net)
+
+Location: REMOTE
+
+Full-Time Employment with CLIENT
+
+We are looking for a .NET developer to build web sites and web application for the .NET Microsoft Platform. You will create applications from scratch, configure existing systems and provide user support being part of a geographically distributed project team.
+
+In this role, you should be able to write code with a sharp eye for spotting defects. You should be a team player and excellent communicator. If you are also passionate about the .NET framework and software design/architecture, we'd like to meet you.
+
+Your goal will be to work with internal teams to design, develop and maintain software. Key factors of success among others will be craving for making applications more consistent and reliable over time, believing in automation, being passionate about quality assurance.
+
+You will work on complex software development projects in the sports domain, developing back end solutions, while working closely with the project Architect, Product/Project Management and other contributors to solve diverse technical challenges
+
+Requirements
+
+Strong programming skills:
+
+OOA/OOP background
+C# expertise
+.NET Framework knowledge
+Clean code, covered by unit and integration tests and documentation
+Knowledge of OOP principles (Design Patterns, SOLID, DRY, YAGNI );
+
+Additional skills :
+
+Familiarity with Extreme Programming practices (TDD, Pair Programming, Refactoring );
+Familiarity with live video Streaming and encoding technologies;
+Knowledge of Event Sourcing and CQRS ;
+Knowledge of scalability and performance challenges of server-side code. You can design and develop horizontally scalable, resilient and high performance REST services;
+Knowledge of SaaS, PaaS and IaaS models;
+Knowledge of cloud technologies and hands-on experience in at least one cloud platform: Microsoft Azure preferred; You are able to design and develop cloud-based systems and operate them in an automated fashion;
+Knowledge of MS-SQL Server, MongoDB , RabbitMQ, Dockers, JSON communication;
+Knowledge of ASP.NET stack (ASP.NET, VB.NET, C#);
+Experience with GIT, comfortable with Continuous Integration/Continuous Delivery environments;
+Experience with installation and deployment of servers and open source platforms;
+Knowledge of Agile methodologies;
+Knowledge of HTML5, CSS3, JavaScript (including JavaScript frameworks);
+- provided by Dice

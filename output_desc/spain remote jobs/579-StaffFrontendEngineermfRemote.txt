@@ -1,0 +1,30 @@
+About the job
+YOUR ROLE
+At Capmo we are looking for a Staff Frontend Engineer (m/f/*) who will help us to digitalize the construction industry. Are you in for the challenge? If so, you will have the opportunity to contribute to the whole organization, helping us set standards and create a high-quality product while maintaining autonomy. You will have the chance to drive change and leave a mark on the digitalization of the construction industry, enabling the world to have access to cheaper housing and quicker access to public infrastructure.
+As a Staff Backend Engineer at Campo, you will get to:
+Lead cross-functional initiatives to continue expanding and refining our product. In this role, you'll focus on customer needs while building high-quality solutions that scale with our rapid business growth.
+Make decisions with autonomy and solve problems with a significant scope or complexity
+As an experienced engineer, you will promote and adopt the best practices when it comes to architecture, design, development and delivery.
+Contribute code that not only complies with internal standards but stands as a model for maintainability and best practices. Advocate for the same high standard through code review.
+You’ll actively help your engineering peers grow through technical coaching and providing guidance.
+You will be taking a leading role in developing, communicating and executing technical strategy.
+Represent Capmo and its values in public communications and community contributions.
+
+WHAT WE OFFER
+We want to see you grow! That’s why we are offering you 1.500 € every year, to invest into your learning and development. That also includes going to your favourite tech conferences!
+Come on over to Berlin or Munich, or just stay where you are! We will be supporting you with your visa and provide you with a relocation budget. If you’d like to work remotely from a different city/country we’ll be happy to accommodate that too, and offer you a home office budget!
+Life doesn’t always have a schedule. Don’t worry, we’re very flexible when it comes to working hours!
+Become a shareholder! With our employee share program you're participating directly in our success while taking business ownership!
+We’ll help you stay healthy - body and mind! We’ll be subsidizing your membership to Qualitrain (gyms & wellness) or your daily lunch with Lunchit, while also caring for your mental health and stress management with MinQi.
+Be proud of who you are! You’ll have a Culture Day (time off) that you can take when you’ll need it, be it Hanukkah, Kwanzaa, Christmas, Diwali, Eid, or other occasions dear to you.
+
+WHAT YOU BRING ALONG
+You’ll need to be proficient with the core technologies that power our platform: React, and TypeScript.
+You’ll be bringing in a strong software engineering background, with 10+ years of relevant, on-the-job experience
+Experience working with different API protocols (GraphQL, Restful APIs, etc.)
+Your skills allow you to work both in teams and across organizations, taking ownership of end-to-end software development and design.
+You are always ready to learn but you are also able to mentor and coach others on technical or soft skills.
+
+ABOUT US
+Capmo is the leading B2B SaaS startup revolutionising one of the largest and most undigital industries in the world, construction and real estate. We have been awarded several times as one of the most innovative construction tech companies and have tripled our team to almost 70 employees from more than 15 countries within 3 years. By the end of 2022, with over 200 people, we will define the digital future of the construction industry so that, among other things, flats, schools and hospitals can be built on time, on budget and CO2-efficiently in the future.
+The Munich-based software startup was founded in 2018. Several hundred customers and tens of thousands of users in Europe already rely on Capmo's digital solution and implement well over 10,000 construction projects with the software.

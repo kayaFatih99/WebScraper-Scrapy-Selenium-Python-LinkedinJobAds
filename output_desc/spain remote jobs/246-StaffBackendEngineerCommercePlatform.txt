@@ -1,0 +1,50 @@
+About the job
+The Freemium R&D team oversees the entire user journey on Spotify and ensures we engage with people in innovative ways, every step of the way. Our team grows Spotify’s audience by finding future listeners around the world and delivering the right value to them, at the right time. With research, product development, product design, engineering, and marketing all collaborating in one organization, we’re able to quickly create meaningful features and services for millions of people around the world, resulting in joyful, long-lasting relationships with Spotify.
+
+We are looking for a Staff Engineer with significant expertise in building platforms to join the commerce platform team a collection of teams that are redefining Spotify’s ability to monetise our product offerings by building commerce capabilities. This team is part of the Freemium R&D team but works with all parts of the company so has a wide reach and opportunity to work on some of the most emerging monetisation concepts.
+
+We're looking for someone to help evolve our technical vision for the platform and help own its adoption with our internal customers. Specifically, someone who is business aware and can significantly contribute to the goals of some of the company’s top strategic priorities. This role will consider all implications of our architecture across many subject areas such as back-end engineering, data engineering, machine learning, and front-end technologies.
+
+We expect a technical leader that can work across product areas and impact multiple smaller teams, assume leadership of technical projects, and champion architectural excellence. You'll grow the capabilities of the team by championing strong engineering practices, facilitating technical strategies and inputting to roadmaps, and regularly assessing the health of team’s technology.
+
+What You'll Do:
+
+Bring our 3-year technical strategy to life by crafting it and leading the execution in collaboration with your peer engineering managers
+Facilitate collaboration with other engineers to solve interesting and ambitious problems.
+Collaborate with key internal team members to determine how to scalably design backend systems and APIs to meet their needs.
+Architect, develop, and operate services accountable for large volumes of transactions and ensure resilience, reliability, and scalability.
+Work with data engineers building batch and real-time data pipelines with data processing frameworks.
+Partner up with our vendors and 3rd-party providers to ensure we buy best-in-class vendor software, and build strategic capabilities in-house;
+Be a technical leader and valued contributor in an autonomous, multi-functional agile team.
+Collaborate with product owners, and designers to identify and tackle exciting problems.
+Work with peers in other tribes and missions to advance platform thinking and the wider engineering community.
+Be a leader within the Spotify-wide backend developer community affecting and driving our architecture across the company.
+Work on what you want during regular hack days and annual hack weeks.
+Participate in the Spotify-wide backend developer community affecting and driving our architecture across the company
+
+Who You Are:
+
+You will have worked across a number of complex domains driving architecture, and tech strategy and relating this to business outcomes
+You will write distributed high-volume services and know how to deploy and keep them running and scaling in production.
+You have experience working directly with stakeholders and internal customers to understand, document, and develop technical solutions, APIs and systems to meet their requirements, driving increased adoption and reducing reliance on custom one-off implementations.
+You will have worked with a range of backend and data technologies (Java, Python, Scala).
+You have an interest in big data processing technologies.
+You have a curiosity about machine learning technologies.
+You will have technical stack migration experience and have developed strategies in this area for parts of a stack.
+You will be experienced in communicating sophisticated technical topics with simplicity and tailoring to an audience.
+You love working in an environment where you experiment and iterate quickly but with an appreciation for compliance and regulatory issues related to payments and customer data.
+You believe data is the most powerful tool for informed decision-making.
+You have a deep understanding of system design, data structures, and algorithms.
+You care about quality and you know what it means to ship high-quality code.
+Commerce experience and building transactional systems across the commerce domain area are desired.
+
+Where You'll Be
+
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within the EMEA region in which we have a work location and within working hours.
+Working hours? We operate within the Central European and GMT time zones for collaboration and ask that all be located in that time zone.
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

@@ -1,0 +1,40 @@
+About the job
+💥XING is one of the flagship products within New Work. XING is the social network for business professionals with millions of members all over the world. We lead the German speaking market for social recruiting products.
+Help us shape the future – for a better working life! 💥
+We are a german tech product company, not an agency 😉
+We currently have different openings in Barcelona & Valencia for Frontend Developer with React. If you are not Senior and nonetheless it catch your attention, do not hesitate to apply as well, there are different vacancies.
+⭐️A challenging task⭐️
+· You’ll be creating and improving reusable components in our React based frontend stack
+· You will be responsible for structure, maintainability and quality of your applications
+· You have web performance in mind and drive this topic through tooling and consultancy
+· You work closely together with your team of fellow developers, product owners, designers and QA engineers
+· You collaborate with other teams in XING's frontend ecosystem
+· You have the great opportunity to work in an international, cross-functional environment (communicating in English, German is not required).
+🤖A Convincing Background🤖
+· Strong frontend skills (HTML, CSS, JavaScript)
+· Knowledge or solid experience with the React library
+· Knowledge in Node.js, npm and the ecosystem around javascript dependency management are a bonus
+· An eye for proportion and usability
+· Experience in unit testing frontend applications
+· You are a team player, used to work in agile environments
+· You know your qualities, share them with your team and are happy to further develop yourself
+· You can comprehensively communicate on a technical level and speak english fluently in written and spoken language
+🍒An inspiring environment🍒
+Check our Twitter account! https://twitter.com/NewWork_es
+· Training, conferences and many opportunities to learn, experiment and grow.
+· Innovation weeks (Hackweeks)
+· Flexible working hours and remote flexibility
+· Restaurant tickets, coffee and snacks.
+· Spanish / English/ German lessons.
+· A mobile device of your choice (iPhone, iPad, Android…).
+· A great, multicultural and diverse environment.
+· A sunny office located in the centre of Barcelona, with a large terrace.
+· Flexible Compensation Plan: Health insurance/ Transport/ Nursery Tickets
+· Extended holidays
+· Competitive salary and a Permanent contract
+· Bicycle park and package reception
+· Relocation pack if needed.
+Our team is remote first, working 100 % remotely within Spain is an option.
+We're looking forward to hearing from you! 🔥
+💰 Salary Range: 40.000-65.000€
+🦖Fun Fact on the Job: We have been using React since 2016🦖

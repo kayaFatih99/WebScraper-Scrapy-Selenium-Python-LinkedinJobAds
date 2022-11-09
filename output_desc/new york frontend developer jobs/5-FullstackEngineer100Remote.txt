@@ -1,0 +1,28 @@
+About the job
+Job Description
+
+Piper Enterprise Solutions is searching for multiple Fullstack Software Engineers for a healthcare and pharmaceutical data company. This are 100% remote positions.
+
+Responsibilities for the Software Engineers:
+
+Responsible for the development of front-end focused applications, utilizing up-to-date technologies
+Deploy and upgrade applications in a serverless environment
+
+Qualifications for the Software Engineers:
+
+3-5 years’ experience as a software engineer, with hands-on experience working in both front-end development
+Frontend development using recent versions of React
+Backend development experience (Python preferred, Open Source required)
+Experience with API design and integration
+Experience in PostgreSQL
+Some background in cloud application deployment is desired (Azure preferred)
+Strong communication, and ability to work as part of a team
+Degree from a top Computer Science program is preferred but not required
+
+Compensation/Benefits for the Software Engineers:
+
+100% Remote
+$150,000 - $200,000 (depending on experience)
+Comprehensive benefit package; Medical, Dental, Vision, 401k
+
+Keywords: fullstack developer, clinical project, Microsoft Azure, Azure functions, fullstack, frontend, backend, python, react.js, postresql, database cosmosDb, GIT, azure, teamcity, octopus, jenkins, docker, github, react, mysql, database, clinical, lead, asp.net, restapi, software engineer, software developer, engineer, developer, programmer, api, postman, open source, django, chrome developer, sql management studio, azure data studio, fiddler, visual studio code, gitlab, gutbucket, migration, azure devops, webapis, azure cloud, serverless, sdlc, software development lifecycle, rest, webapi, entity framework, analytics, insights, clinical, benefits, remote, work from home, medical, dental, vision, 401k

@@ -1,0 +1,27 @@
+About the job
+En atSistemas buscamos a programadores/as apasionad@s por Angular y JavaScript para incorporarse, full-remote, a nuestro core de desarrollo.
+
+En nuestra Comunidad de Front trabajamos con la mayoría de las herramientas del mercado: React, Vue, Stencil, backend con Node, Nest...
+
+Requerimientos técnicos:
+
+Experiencia en Angular 8 o superior, TypeScript, Bootstrap.
+Experiencia en consumo y diseño de API RESTful.
+Experiencia en Testing (Ej. Jasmine, Selenium, Karma).
+
+¿QUÉ OFRECEMOS?
+
+En la parte salarial no nos cerramos a nada por lo que tu dinos tus expectativas y lo vemos.
+
+- Contrato indefinido.
+- Teletrabajo 100%, se puede trabajar desde cualquier lugar.
+- 22 días de vacaciones, 2 días de libre disposición + 24 y 31 de Diciembre (cierre de empresa).
+- Plan de formación.
+- Retribución flexible (tarjeta de transporte, cheques restaurante, cheques guardería, seguro médico)
+- Plan de carrera. Te ayudamos en tu desarrollo profesional para que no pares de crecer
+
+En atSistemas llevamos casi 30 años trabajando en el sector. Somos más de 2.000 compañeros/as los que apostamos por un entorno laboral basado en la colaboración, la innovación, el compromiso, la diversión y la confianza.
+
+Actuamos como un ecosistema de start-ups, organizados en Comunidades Tecnológicas que crean un entorno de colaboración idóneo para la innovación.
+
+Únete a la #Familiaat!

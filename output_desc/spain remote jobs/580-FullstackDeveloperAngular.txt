@@ -1,0 +1,38 @@
+About the job
+¿Quieres formar parte del #TeamPanel?
+Ampliamos nuestros equipos de desarrollo backend. Llevamos la innovación y la excelencia tecnológica en nuestro ADN, y trabajamos con actitud positiva y con pasión para alcanzar nuestro objetivo: ayudar a nuestros clientes en su proceso de transformación.
+
+Requisitos de la oferta...
+Experiencia de al menos 5 años con Angular (versiones nuevas), SpringBoot, JS (ES6)
+
+Requisitos valorables:
+Conocimientos de HTML
+CSS
+Conocimientos de JS (ES6)
+Formularios reactivos
+Conocimientos de Java
+Conocimientos de SpringBoot
+Junit
+Mockito
+Postman
+Conocimientos de SQL
+Conocimientos de Git
+Clean Code (SOLID, DRY, KISS)
+Uso (no hace falta creación) de dockers.
+
+¿De qué estarás a cargo?
+Formarás parte de nuestros equipos formados por SQUADS de diferentes tecnologías, dentro de entornos Agile.
+Participarás en la definición de la arquitectura del proyecto.
+Formarás parte de un equipo multidisciplinar adoptando metodologías ágiles.
+Participarás en el desarrollo del producto.
+
+Lugar de trabajo:
+100% remoto
+
+¿Qué ofrecemos?
+-Impulsaremos tu Talento con un Plan de Desarrollo Profesional y Programas de Tutoría individualizada.
+-Completo Programa de formación que incluye desde programas de especialización técnica hasta idiomas, habilidades en gestión de proyectos, metodologías ágiles y certificaciones. Tanto on-line como presencial.
+-Políticas de conciliación como el Teletrabajo en modo full-remote; jornada continua los viernes y en verano, flexibilidad horaria, días de permiso en navidad, y facilidades para la movilidad geográfica de los empleados.
+-Beneficios sociales como retribución flexible, complemento al 100% de bajas médicas, condiciones especiales en seguro médico privado o Tarjeta VISA empleados.
+
+Nuestra empresa es hoy referencia en el sector del Software Quality Assurance, participando en varios proyectos de investigación a nivel europeo, y con muchos más proyectos sobre los que podrás diseñar una trayectoria profesional a largo plazo. Aplica y nos conoceremos.

@@ -1,0 +1,64 @@
+About the job
+About Us
+
+Udacity is on a mission to change lives, businesses and nations through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems, Cloud Computing and more. Our rapidly growing global organization is revolutionizing how the enterprise market bridges the talent shortage and skills gaps during their digital transformation journey. Udacity is proud to be backed by respected investors like Andreessen Horowitz, Charles River Ventures, Bertelsmann and Drive Capital, among other leading VC firms, and provides a powerful and differentiated solution inside of a $32b total addressable market opportunity. Udacity has more than 100 enterprise customers including Airbus, Bertelsmann, BNP Paribas, Leidos, Mazda, and the United States Air Force.
+
+Position Overview
+
+Udacity is seeking a talented Tutor to manage and facilitate an online Front-End Web Developer program (Type of employment: contract/remote). All our Tutors are handpicked through a rigorous selection process so that we can truly be #studentfirst
+
+A Tutor functions as a technical leader within the student community and acts as the primary intermediary between Udacity students, the Community Manager, and staff. Tutors provide technical support to students within their Nanodegree content and field, provide feedback, and build a sense of community amongst the student body. They can also manage webinars, meet-ups and other interventions.
+
+Required Skills/qualifications
+Residing in Europe is a plus.
+Fluency in English.
+Technical competence: HTML5, CSS3, JavaScript, Webpack/Gulp/Grunt, Frontend Framework (Angular/React/Vue), CSS Preprocessors, RESTful API structure, NodeJS, and ExpressJS
+2+ years of working experience related to the above skillsets.
+Graduate from any of the Front-End Web Developer courses/Nanodegree programs is an added plus
+Experience teaching technical concepts and public speaking
+Strong interpersonal skills and confidence to lead a group of students
+Students-oriented mindset and focus on understanding their problems
+Innovative approach and proactivity with students that need help
+Positive character, trusted by the students, creating emotional ties in the group
+Existing tech network and experience in technical conversations & discussions
+Flexibility at their current job to take this challenge part-time as a contractor
+Ability to speak and write in English fluently
+Flexibility at their current job to take this challenge as a part-time, external contractor
+
+Responsibilities
+Provide technical support for students on the community platform
+Facilitate content for students who get stuck in learning
+Participate in organizing community activities to ensure a fun and engaging learning environment
+Share interesting extracurricular information, such as content-related news articles to enrich the personal and professional aspects of the community
+
+Why should you apply?
+Work remotely as an External Contractor
+Earn additional income
+Contribute to a vibrant, international student community
+Stay updated with the latest in cutting-edge technologies
+
+Learn more about the Tutor Guidelines.
+
+What We Do
+
+Udacity’s mission is to train the world’s workforce in the careers of the future. We address the complex dynamic of workforce challenges and strive to be the change we need in the world to transform talent to create opportunities for heightened productivity and retention. Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, and to build the lives they deserve.
+
+Don’t stop there! Please keep reading...
+
+You’ve probably heard the following statistic: Most male applicants only meet 60% of the qualifications, while women and other marginalized candidates only apply if they meet 100% of the qualifications. If you think you have what it takes but don’t meet every single point in the job description, please apply!
+
+We believe that historically, many processes disproportionately hurt the most marginalized communities in society- including people of color, working-class backgrounds, women and LGBTQ people. Centering these communities at our core is pivotal for any successful organization and a value we uphold steadfastly. Therefore, Udacity strongly encourages applications from all communities and backgrounds.
+
+Udacity is proud to be an Equal Employment Opportunity employer. Please read our blog post for “6 Reasons Why Diversity, Equity, and Inclusion in the Workplace Exists”
+
+Last, but certainly not least…
+
+Udacity is committed to creating economic empowerment and a more diverse and equitable world. We believe that the unique contributions of all Udacians is the driver of our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, color, religion, sex, gender, gender identity or expression, sexual orientation, marital status, national origin, ancestry, disability, medical condition (including genetic information), age, veteran status or military status, denial of pregnancy disability leave or reasonable accommodation.
+
+As part of our ongoing work to build more diverse teams at Udacity, when applying, you will be asked to complete a voluntary self-identification survey. This survey is anonymous, we are unable to connect your application with your survey responses. Please complete this voluntary survey as we utilize the data for diversity measures in terms of gender and ethnic background in both our candidates and our Udacians. We consider this data seriously and appreciate your willingness to complete this step in the process, if you choose to do so.
+
+Learn More About Udacity's Values
+
+Students First - Better Together - Entrepreneurial - Data Driven - Candid and Direct - Talent Obsessed
+
+Udacity's Terms of Use and Privacy Policy

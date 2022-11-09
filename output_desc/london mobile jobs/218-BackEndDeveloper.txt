@@ -1,0 +1,42 @@
+About the job
+To cure diseases, you need data. Inspire People are partnering with Lifebit, who are on a mission to harness the power of connected data and bring precision medicine to life globally. Trusted by Governments and world-leading pharma institutions, Lifebit are rapidly expanding and have opportunities for Backend Developers with TypeScript (or JavaScript or NodeJS willing to learn), who are passionate about code quality, to meet client demand. Fully remote working, with option for hybrid working from London. £60k to £80k plus great benefits and the chance to work in diverse teams on life changing technology!
+
+Lifebit's technology is unmatched, and momentum is on their side - but we need an exceptionally strong team to help boost Lifebit to incredible new heights.
+
+As a Senior Backend Engineer at Lifebit, you will:
+* Take a leading role in defining software engineering processes and ways of working, not just coding
+* Design and lead backend architecture implementation
+* Contribute to features across the entire life cycle, from inception to deployment in production
+* Navigate in new code and make sense through what you find
+* Pick up new technologies and frameworks that suit the needs of products and users
+* Demonstrate an interest in working with best practices and principles while contributing to them, in order to keep high quality standards and keep hell far away
+* Work towards production deployment rapidly, be able to scale and to be monitored easily
+* Enable feature improvements and delivery to be updated on a daily basis
+
+The role requirements below are just an indication of what we're looking for - sometimes the perfect candidate is far more or less experienced than we anticipated.
+
+If you think that might be your case, please reach out and let us know!
+
+You should have a good understanding of best practices of web development and be able to apply them in web development (ES6, JS).
+
+Specifically, you have:
+* TypeScript (or JavaScript or NodeJS willing to learn)
+* Familiarity with cloud systems -AWS
+* Understanding of interactions and communication between services at scale (sockets, polling, monitoring)
+* Familiarity with TDD
+* A mindset ready to firefight against issues in real time
+
+Desirable Skills:
+* Experience with Docker, GCP and ops over cloud
+* Familiar with microservices and ecosystems
+
+In return you can expect a competitive salary of £60k to £80k plus great benefits, including:
+* Competitive salary and generous stock options
+* 25 days of annual leave plus the usual public holidays
+* Monthly team activities
+* Conferences, events, and training resources (Data science, AI, cloud, any tech stack, painting, origami, you pick!) - we offer €1,000 a year to each person for personal development)
+* An international and diverse team
+* Exposure to problems and applications in the cloud, data analysis, ML, life sciences, and big data fields
+* Flexible working during summer
+
+If you are an experienced Backend Developer with TypeScript (or JavaScript or NodeJS willing to learn), who is passionate about code quality and wants to join a diverse team in life changing technologies, then contact Tom McNeill at Inspire People, or apply today for immediate response.

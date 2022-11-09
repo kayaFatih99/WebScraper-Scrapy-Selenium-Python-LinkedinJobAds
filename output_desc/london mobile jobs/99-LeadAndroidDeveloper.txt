@@ -1,0 +1,27 @@
+About the job
+Lead Android Developer
+Start date: ASAP
+Role Type: Permanent
+Salary: £65,000 - £85,000
+Location/remote: Remote
+
+About The Company
+My client's mission is to help their customers to help you lose weight and create a healthy lifestyle. An Award-Winning business going through a period of growth looking for talented, creative, and unique people to join their team. With an ideas-first culture, where you would be listened to and the staff feel valued in a fun and exciting work environment.
+
+Key Responsibilities
+As the Lead Android Developer, you will lead and mentor a small team of Android developers and will assist in the recruitment and onboarding of all new team members.
+You will work with the Product Owners and Engineering Manager to ensure the development team has a full understanding of the technical and business requirements of each project and to plan and implement new features, fixes and improvements within the Android application.
+You will lead the development and architecture of our Android applications and their integration with backend services.
+You will monitor the quality of the Android applications and work alongside other teams to ensure our applications stay consistent over all platforms.
+Ensuring that all Android products are fully functional and tested before being pushed to production.
+Collaborate with the Product Owner and other Platform Leads to review, define, design, and ship new features to ensure a seamless experience across all platforms.
+
+Essentials we are looking for
+A minimum of 5 years of experience developing native Android applications using Kotlin.
+Experience of building native applications that have been approved for the Playstore for both Android and Huawei devices.
+Experience of leading and mentoring a development team.
+Excellent degree of communication skills and experience working with both technical and non-technical stakeholders.
+Excellent attention to detail.
+Knowledge of Jira, GitHub, Confluence.
+
+If this role sounds like you, please send your CV to k.bryant@insight-rec.com

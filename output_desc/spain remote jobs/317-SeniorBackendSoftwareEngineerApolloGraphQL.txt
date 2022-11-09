@@ -1,0 +1,65 @@
+About the job
+We are on a mission to make science open so everyone can live healthy lives on a healthy planet
+
+Who We Are
+
+Frontiers is an award-winning open science platform and leading open access scholarly publisher.
+
+We are one of the largest and most cited publishers globally. To date, our 200,000 freely available research articles have received more than 1 billion views and downloads and 2 million citations. Our journals span science, health, humanities and social sciences, engineering, and sustainability. And we continue to expand into new academic disciplines so more researchers can publish open access.
+
+Be part of the publishing revolution and help us transform the way research is published, evaluated, and communicated to the world.
+
+Job Role
+
+We are on a mission to make science open so everyone can live healthy lives on a healthy planet.
+
+Frontiers is a leader in Open Access Publishing, and has built the Open Science platform to modernize academic publishing. We are seeking an experienced Backend Software Engineer to join our rapidly growing team.
+
+What We Have To Offer
+
+Frontiers is a young, fast paced technology driven company with a large IT department to support its goals.
+
+In Frontiers we are using microservices architecture to build our platform, and a distributed architecture leads to distributed data. In order to enable our business to make fast decisions, and facilitate the rapid growth of the platform, we started our journey of data consolidation and federation. You’ll join the team of developers responsible for designing and building the next-generation data integration layer that will serve our internal and external consumers.
+
+About You
+
+The ideal candidate will be working together with Product owners, Stakeholders and QA engineers for developing and maintaining our data integration layer. In addition to building and maintaining current solutions, you will be responsible for overseeing the next technological enhancements of the company. You will also be in charge of research, design, prototype and develop new solutions using innovative technologies and approaches.
+
+Requirements
+Minimum 4 years of experience;
+Experience with TypeScript and Node.js;
+Experience with Apollo Server and Node.js ORMs, e.g. Prisma;
+Experience with relational and document database engines (MS SQL Server, PostgreSQL, MongoDB, ElasticSearch);
+Excellent written and spoken communication in English;
+
+Nice to have
+Experience with Apollo Federation or GraphQL schema stitching;
+Experience with Kafka or other data streaming technologies;
+Experience with managed GraphQL services, e.g. Hasura, MongoDB Realm;
+Experience with C# GraphQL servers, e.g. Hot Chocolate;
+
+Benefits
+
+With more than 50 nationalities represented in our global team, you will work regularly with teammates in other countries, and with our community of researchers, editors, and authors from around the globe.
+
+Our mission to create solutions for healthy lives also extends to the working environment we provide for our employees.
+
+This includes:
+
+100% remote working
+
+Employees now have the flexibility to choose where they want to work, with remote working available on a part- or full-time basis (not applicable to some Workplace/IT jobs due to nature of role requiring presence onsite, in the office).
+
+Learning and development
+
+All employees have access to LinkedIn Learning (and Pluralsight for our technology team), an annual personal learning budget, and dedicated L&D time.
+
+Wellbeing
+
+We offer free online yoga classes, an employee assistance plan, access to the Headspace app, and four wellbeing days on top of your annual leave allowance.
+
+Volunteering opportunities
+
+Employees can dedicate three days each year to volunteer for a personal cause or through our volunteering partner platform, Alaya.
+
+Frontiers actively embraces diversity and is a safe and welcoming workplace. Recruitment is free from discrimination – including based on race, national or ethnic origin, age, religion, disability, sex, gender identity or sexual orientation. With over 600 employees from more than 50 different nations, our diversity creates vibrant teams and constantly challenges us to appreciate multiple perspectives.

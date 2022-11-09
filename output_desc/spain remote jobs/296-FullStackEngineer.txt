@@ -1,0 +1,19 @@
+About the job
+Full Stack Engineer - Freelance Position - FULLY REMOTE - 6 Month Contract - EU Based
+
+Trilogy International are urgently looking a Full Stack Developer with strong experience using Java 11 & SpringBoot on the Back End and React.js on the Front End - and who is based in Europe for this exciting fully remote position.
+
+Our client is working within the Banking/Financial Services industry and is working on a huge project to rebuild payment systems using modern development systems which will have over 100million users and will process 10s of billions of transactions per year.
+
+Required Skills:
+3+ years Java 11 experience
+3+ years SpringBoot experience
+3+ years using React.js
+5+ years overall experience
+Any experience within the Banking industry is an advantage.
+
+Soft Skills:
+Banking/Finance experience
+English Speaking
+
+If you believe you would be suitable for this role please apply or send a CV, contact number, day rate (€) and notice period.

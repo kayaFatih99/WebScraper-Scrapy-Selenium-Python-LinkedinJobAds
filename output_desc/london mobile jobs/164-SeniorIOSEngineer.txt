@@ -1,0 +1,33 @@
+About the job
+About the job
+
+hackajob is partnering with Bumble and they are looking for a talented senior-level iOS Engineer to own and drive technical projects from specification through to delivery and beyond. You will impact millions of users, share know-how with the community and experiment a lot. If you get a buzz from taking initiative, redefining expectations but also getting involved in challenging technical debates with the team, this is your place.
+
+Responsibilities:
+
+Hands-on development: analyse product specifications, design implementations, write code and rapidly deliver features
+Mind performance metrics to draw conclusions and drive change
+Contribute technical ideas and suggestions to enhance the direction of the product
+Project ownership and driving process-related decisions
+Mentorship and guidance of junior team members
+Write efficient, maintainable and reusable code and tests. Passcode reviews and be a good scout in general
+Be an efficient and responsible team member, communicate, participate and help
+Work with QA in a weekly release cycle
+Be enthused about teamwork in an AGILE environment: attend daily stand-ups, plan and demo your projects
+
+Experience we are looking for:
+
+Product-focused iOS application development experience
+Evidence of delivering consumer-facing, mass market, networked, high-performance iOS applications available in the App Store
+Experience in leading the process and driving product-related decisions
+Up to date with the latest Swift and iOS trends
+Understanding of UIKit, Core Animation, GCD & Networking
+Excellent understanding of design patterns & Object Oriented Programming
+Understanding of analytics, remote reporting and measurements
+Experience in working with Continuous Integration (CI) and Unit Testing on iOS
+Knowledge of socket-based networking is desirable
+Experience performance profiling with instruments in Xcode
+
+*This role requires you to be based and eligible to work in the UK.*
+
+If you are interested in discussing this great opportunity, please apply directly or send me a private message!

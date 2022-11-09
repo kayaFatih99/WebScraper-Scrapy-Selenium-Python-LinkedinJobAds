@@ -1,0 +1,34 @@
+About the job
+Are you looking for the next challenge in your career?
+Would you like to be part of an exciting highly qualified team of professionals in an innovative and dynamic work environment working on challenging, international projects?
+We are currently looking for a Full Stack .NET Developer to build a team for a new project, you will be part of an international team with one of the biggest multinational engineering and IT consultancies in the world.
+Join Alten´s international division and work with some of the most talented engineers and technicians from all over the world.
+Your benefits:
+· Competitive Salary.
+· Long-term secure contract.
+· International projects with top technologies.
+· Remote work with a flexible schedule.
+· Become a part of a highly-qualified team of professionals.
+· Travel abroad with your project.
+· Specialized training and continuous professional development.
+· Social benefits and flexible compensation plan.
+Your tasks:
+Deliver a new version an application.
+Ensuring operational excellence of services and applications.
+Take ownership of work and see it all the way through the software development life cycle.
+Build processes to provide an excellent customer experience.
+Improve automation of our CI/CD processes.
+Unit testing and code testing
+Be part of a distributed Agile team and contribute to its success and improvement.
+Requirements:
+Bachelor’s Degree in Computer Science, Information Systems or related field.
+5+ years of experience in software development.
+Stack of technologies:
+.NET/.NET Core (C#)
+Angular
+Containers (Docker/Kubernetes)
+MS Azure cloud platform
+ORMs, SQL, LINQ
+SCRUM and Agile development, Object-oriented design
+Control systems (GIT)
+All vacancies require a high level of English - please send your CV in English

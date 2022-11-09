@@ -1,0 +1,42 @@
+About the job
+PandaDoc is looking for Senior Backend Engineer to join our Growth Track. Its goal is to drive new customers to PandaDoc with no direct marketing costs, optimize plans/pricing to support revenue and business goals. Acquisition, activation, monetization and expansion are main metrics we are focused on.
+
+We are looking for people that believe in the PandaDoc culture and are ready to develop secure, reliable and scalable product solutions within our fast-growing business.
+
+Are you adaptable, driven, and friendly? Do you thrive in a fast-paced work environment where collaboration is the norm? If the answer is yes, then you’re a Panda and we want you to join our team.
+
+In This Role You Will
+
+Take end-to-end technical ownership of features and improvements
+Build and maintain application architecture
+Actively collaborate with product managers and scrum masters
+Follow and contribute to agile development processes (Scrum framework)
+
+About You
+
+At least 5 years of experience in designing and implementing application architectures and code that are scalable, available, maintainable, and performant
+Care about quality and you know what it means to ship high-quality code
+Put yourself in the shoes of your users and be a steward of crafting great experiences
+Strong communicator. Explaining complex technical concepts to product managers, designers, customer support, and other engineers is no problem for you
+Passion for continued learning and a track record of picking up new technologies and skills
+Bonus (but not requirements): experience with Python/Java and/or any relational databases
+
+Company Overview
+
+PandaDoc empowers more than 37,000 growing organizations to thrive by taking the work out of document workflow. PandaDoc provides an all-in-one document workflow automation platform that helps fast scaling teams accelerate the ability to create, manage, and sign digital documents including proposals, quotes, contracts, and more. For more information, please visit https://www.pandadoc.com.
+
+Company Culture
+
+We're known for our work-life balance, kind co-workers, & virtual team bonding events. Although our Pandas are located remotely across the globe, we stay connected with the help of technology and ensure that everyone on our team feels, well, like a team.
+
+Pandas work best when they're happy. We retain our talent by upholding our values of integrity & transparency, and selling a product that changes the lives of our customers.
+
+Check out our LinkedIn to learn more.
+
+Benefits
+
+An honest, open culture that emphasizes feedback and promotes professional and personal development
+An opportunity to work from anywhere — our team is distributed worldwide, from Lisbon to Manila, from Florida to California
+An annual personal budget for educational classes, conferences, etc. — anything to further your professional knowledge
+A competitive salary
+And much more!

@@ -1,0 +1,18 @@
+About the job
+Do you have Full-Stack Ruby on Rails and Senior experience, and are you seeking a new technology role? GR4 Germany is helping an SaaS start-up who are building a platform to help engagement for quizzes, surveys and questionnaires! They are looking to hire a senior Ruby on Rails developer, and the full-time role comes with an attractive salary and benefits package. As part of the software development team, you will be a key part of the engineering team, the backbone of the team who will work closely with the CTO on key decision making.
+
+You will collaboratively work together to add to the platform to increase outputs. You will work in close collaboration with Product Management and the frontend team, ensuring optimal team output for the backend team. Furthermore, you will analyse and make decisions on their code architecture to ensure system stability, optimal development speed, and ease of feature implementation.
+
+To apply, you must be fluent and passionate in Ruby and Ruby on Rails. You will also require the following:
+- Can lead the development of features end-to-end (front end, back end, database, etc.)
+Focus on quality and best practice coding
+Fluent in English
+Experience with JavaScript (React or Vue) an advantage
+Experience with Amazon AWS
+Experience with SQL Databases (MySQL, PostgreSQL),
+
+In return for your passion, collaborative approach and commitment, you will receive a generous salary and benefits package, joining a friendly and inclusive culture.
+
+Salary – €60-80k (B2B)
+
+We’d love you to apply for this full-time Senior Ruby on Rails position. Please contact GR4 today. We’re a forward-thinking, data-driven hive of experts who utilise analytics, research and innovative sourcing strategies to put Berlin’s finest tech talent at your fingertips. We handle all your organisation’s recruitment needs, from discovery to onboarding, leaving your team free to do what they do best – drive innovation and push boundaries. We know one size doesn’t fit all. That’s why we offer a range of bespoke solutions tailored to fit your company’s requirements.

@@ -1,0 +1,43 @@
+About the job
+Job Summary
+
+DESCRIPTION
+
+Amazon Ads - Publisher Technology (PubTech) is a new exciting program that is building supply side technology and pioneering novel experiences for Content Publishers (video, audio, display) to sell their inventory, optimize yield and maximize monetization. It caters to both Amazon first party (e.g. Prime Video, Freevee, FireTV, Twitch, etc), and third party as they onboard new sponsored experiences for their customers. We are looking for a motivated and experienced software developers to join our team as we architect the technology landscape that will support these publishers.
+
+This is a unique opportunity with greenfield development to influence the vision, capabilities and architecture and impact the program in its infancy. To be successful in this role, you are customer obsessed and have deep technical acumen to build scalable technical designs, implementation and thought leadership that contributes to the success of both our internal and external customers. You are a technical leader with track record of shipping highly scaled front-end infrastructure and work with wide range of technologies, programming languages and systems. You ship error free software and own the day to day maintenance and evolution of systems that serve the needs of our growing base of customers. We are looking for a leader who can thrive in a startup environment, embraces ambiguity, can move fast, and be responsible for developing technical strategy for front-end publisher facing suite. If building federated User experience portals fascinates you, where different applications can be hosted by different teams while you own the overall UX and data modeling strategy, look no further. If you are interested in making huge impact on a rapidly expanding team, come join us as we work hard, have fun, and make history.
+
+This role will set the foundational architecture of Publisher Portal and influence and enable rapid development of different applications for Publishers. This will start with internal Amazon facing UI's and later expand to external Publisher facing UX tech.
+
+Key job responsibilities
+
+Understand the fundamentals (and tradeoffs) of of various UI portals and technologies and build federated UX architecture to enable innovation at scale.
+Drive technical solutions/architecture for a Publisher Portal that can scale to hundreds of Publishers globally.
+Work closely with the PubTech technical team.
+Influence the planning and execution of 1-year and 3-year product roadmaps.
+Own and present to senior leadership key designs, architectures and decision.
+Develop a strong technical and development culture of rapid experimentation, measurement, and iteration.
+
+Basic Qualifications
+
+Bachelor's degree in computer science, engineering, or a related technical discipline.
+8+ years of relevant industry experience, with 4+ years of hands-on technical leadership.
+Experience working in cross functional groups including customers/users, software, supply chain, logistics, design, test, reliability, and failure analysis.
+Experience communicating with technical and non-technical stakeholders across multiple business units.
+Experience building processes, project management, and release schedules on a global scale.
+Experience with agile or other program management methodologies.
+
+Preferred Qualifications
+
+Master's degree in computer science, engineering, or a related technical discipline.
+Excellent cross-organizational verbal and written communication skills to provide status and manage expectations.
+Excellent written and verbal communication skills.
+Strong technical, analytical and quantitative skills with the ability to use data and metrics to back up assumptions, recommendations, and drive decisions.
+Demonstrated ability to understand and discuss technical concepts, manage tradeoffs, and evaluate opportunistic new ideas with internal and external partners.
+Experience in taking complex products global.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Workers in New York City who perform in-person work or interact with the public in the course of business must show proof they have been fully vaccinated against COVID or request and receive approval for a reasonable accommodation, including medical or religious accommodation.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $115,000/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site. - provided by Dice

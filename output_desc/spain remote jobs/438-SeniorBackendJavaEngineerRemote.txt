@@ -1,0 +1,46 @@
+About the job
+En WayOps estamos buscando perfiles Senior Backend Java Engineer que quieran continuar su carrera profesional formando parte de un equipo Software de primer nivel y trabajando en proyectos punteros con las últimas tecnologías.
+
+Los profesionales seleccionados se incorporarán en un equipo de nueva creación encargado de desarrollar desde cero un innovador producto APM (Application Performance Monitoring). Dentro del equipo trabajarán junto con otros Software Engineers, Software Analysts, QA Engineers & Software Developers.
+
+RESPONSABILIDADES
+
+Los profesionales seleccionados deberán analizar los requisitos definidos por los Analistas Funcionales y trasladar el alcance a ítems de desarrollo que puedan abordar junto al equipo de programadores. Además, deberán alinearse con el plan de pruebas definido por el equipo QA para asegurar la calidad de los desarrollos.
+
+Análisis y desarrollo:
+Análisis y diseño de sistemas nuevos, mejoras a sistemas existentes y mantenimiento a aplicaciones y procesos en producción, de acuerdo con los procedimientos técnicos, operativos y de seguridad establecidos
+Realizar las pruebas de los programas que ha desarrollado para que estas funcionen debidamente
+Elaborar y/o actualizar la documentación requerida según los procedimientos de documentación establecidos que desarrollen o modifiquen
+
+Optimización:
+Sugerir procedimientos operativos y de control para optimizar el funcionamiento de la aplicación
+Diseñar cada programa ajustándolo de acuerdo con las especificaciones recomendadas
+
+Mantenimiento y soporte:
+Realizar mantenimiento de los sistemas ya existentes y de las actualizaciones de estos
+Soporte técnico relacionado al análisis de información técnica y mantenimiento de la aplicación. Soporte técnico en pruebas, servicios y procesos, nuevos o existentes
+Apoyo en el proceso de instalación de programas, nuevos o existentes o en la configuración de programas o equipos
+Apoyar en la solución a problemas encontrados en el ambiente de producción y prestar asistencia a los usuarios de los sistemas
+
+EXPERIENCIA & CONOCIMIENTOS
+
+El perfil a incorporar deberá contar con 3-5 años de experiencia en como Analista Programador en Desarrollo Web Java con Spring. Además, se requiere experiencia en desarrollo orientado a microservicios, diseño de APIs REST, bases de datos, control de versiones y metodologías Agile.
+
+Se deberá aportar experiencia en las tecnologías:
+Backend (Java 7+, Spring, Microservicios)
+Framework Spring (Boot, Data, Cloud, Batch, JPA)
+Web Services (REST, APIs)
+Databases (PostgreSQL, MySQL)
+Herramientas (Maven, Git, GitHub, Jira)
+Agile (Scrum, Kanban)
+
+Además se valorará experiencia en tecnologías como:
+Backend (Python, Spring Webflux)
+Indexación & Mensajería (ELK, Kafka)
+Librerías (Templates, Mailing)
+Web Services (Oracle Fusion Middleware, Open API)
+Cloud (AWS)
+
+CONTRATACIÓN & UBICACIÓN
+
+La contratación será como indefinido o autónomo en jornada completa. El trabajo se desarrollará en remoto aunque podría ser necesario realizar viajes puntuales a las oficinas del cliente en Alicante. Banda salarial negociable en función de la modalidad de contratación y experiencia.

@@ -1,0 +1,35 @@
+About the job
+If you are looking for new challenges that encourages you to continue growing both professionally and technologically, then, Future Connections is the place for you!
+
+Future Connections is a way of understanding technology and the future of telecommunications, by helping network operators and service providers to bridge the gap between legacy and innovative technologies (Cloud, 5G, Big Data, Machine Learning, among others). We develop and deliver customized services and products that enhance, strengthen and automate business processes and provide new levels of efficiency thanks to our expert guidance, based on real understanding of the Telco sector, mainly in the planning, design, optimisation and automation of networks.
+
+Besides the technological part, we offer you the opportunity to meet great people (and excellent professionals), to choose your most suitable model of work (hybrid, home or office based) and to keep growing professionally helping the company to grow.
+
+Position Summary
+On this occasion, we are looking for a Backend Developer with experience in system technologies to join our Network Intelligence area.
+
+As a Future Connections Engineer, you will be able to expand your professional profile by working on the development of applications with languages such as Python and databases (such as SQL, Elastic), but also by participating in the deployment in containers with Docker in cloud environments (Amazon, Google Cloud, Azure).
+
+We are open to use new mechanism to improve our code, so you will have freedom to propose anything you think can improve our applications.
+
+Anything else? Of course! You will always work on projects for the main wireless operators in Spain and Europe.
+
+The position is based in Spain, and with our flexible working model you can choose whether you want it to be 100% remote, hybrid or office-based.
+
+Requirements
+BS Telecommunications/Software Engineer or related technical degrees.
++3 years of experience in Back-End Development
+Skilled in programming in Python, databases (SQL, ELasticSearch, MariaDB…)
+Experience in building & integrating microservices based application with tool like Kubernetes, Docker, Kafka, Linux, cloud environments (AWS, Google Cloud, Azure), scripting, etc.
+Experience in CI/CD practices
+Level B2 or higher of English (spoken and written)
+A valid EU work permit will be required.
+
+Benefits
+
+Competitive salary and Health insurance as an enterprise benefit
+Annual training budget to help you stay technologically up to date and grow professionally.
+Time flexibility: our life is not just a working day; we give you flexibility both in entry and exit. In addition, we enjoy a reduced working day on Fridays and August.
+Our projects are cutting-edge in technology and are in both national and international environments, making your growth global.
+We are committed to a flexible working model: hybrid, remote or office-based, you can choose what best suits your personal and professional needs (within Spain).
+Our employee satisfaction survey tell us that we have a great work environment and great professionals in the company. Do you want to check it out? Join us!

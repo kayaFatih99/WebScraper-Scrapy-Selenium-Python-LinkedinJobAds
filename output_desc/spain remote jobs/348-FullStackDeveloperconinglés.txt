@@ -1,0 +1,36 @@
+About the job
+¡Únete a CGI!
+
+¿Quieres formar parte de una de las cinco empresas más grandes de TI y procesos de negocios IT?
+
+En CGI estamos buscando un/a Full Stack Developer con inglés para trabajar en uno de nuestros clientes del sector banca.
+
+Requisitos necesarios:
+
+At least 2-5 years experience
+Knowledge of Java, Angular 10+, JavaScript, HTML5, CSS3, Selenium, Junit
+Knowledge of Web Services (SOAP/REST,etc), messaging (JMS/MQ), databases (Oracle/MySQL, db2, etc), microservices operations such as APIs, batch processing, Mockito testing, and JPA operations.
+Experience with Atalassian tools: JIRA, HP ALM, HP UFT, Confluence, Artifactory, Teamcity, Git/BitBucket, Selenium, etc…)
+Experience in Scrum basic methodology (Tribes, Spotify, LESS, etc)
+
+Ofrecemos:
+
+Contrato Indefinido
+Salario acorde a la experiencia y formación
+Retribución flexible
+Participación en la compra de acciones de la compañía
+Seguro de vida y accidentes
+
+Si nuestra política retributiva te gusta, no te pierdas los beneficios adicionales que tendrás.
+
+.. porque todo no es trabajar...
+
+Te ayudamos a llevar una vida sana con programas realizados a medida para nuestros empleados.
+Descuentos en viajes, hoteles, cines, restaurantes, comercios, etc... (porque nos preocupamos por tu economía)
+
+Formación a medida desde el primer momento
+Excelente ambiente laboral
+Increíble equipo de trabajo
+Conciliación laboral, porque tu bienestar es importante para nosotros
+
+¡En CGI te estamos esperando!

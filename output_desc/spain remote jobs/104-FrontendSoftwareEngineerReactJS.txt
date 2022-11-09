@@ -1,0 +1,29 @@
+About the job
+En mimacom nos gustan las mentes inquietas. ¿Te gusta asistir a eventos, escribir blogposts o ser el speaker de un congreso? ¡En mimacom nos encanta que lo hagas! Tenemos hambre de tecnología.
+
+Desde nuestras oficinas de Europa y USA ofrecemos soluciones innovadoras de Consultoría IT a clientes locales y globales. Les ayudamos a optimizar sus soluciones tecnológicas para dar el mejor servicio a sus clientes. Porque nos gusta que su éxito sea nuestro éxito. Porque cada persona cuenta. Porque tú eres parte importante de ese éxito.
+
+Si quieres seguir creciendo con formaciones y certificaciones. Si te interesa formar parte de un equipo proactivo que busca la mejora continua. Si deseas tener tu espacio para expresar tus propias ideas y opiniones. Si prefieres disfrutar de un horario muy flexible y trabajo en remoto… ¡En mimacom nos encantará conocerte y crecer contigo!
+
+Sobre ti
+Te encanta ser parte de un equipo proactivo y con altos estándares de calidad.
+Tienes 4+ años de experiencia en Desarrollo Software Frontend, con sólidos conocimientos en JavaScript / TypeScript (+ ES6), HTML, CSS / SASS.
+Has estado trabajando de la mano de React durante 2+ años.
+Tienes buenos conocimientos de Next o Redux.
+Estás familiarizad@ con los entornos ágiles y principios Devops.
+La experiencia en testing con herramientas como Jest, Cypress, Jasmine, Mocha, QUnit o Protractor será muy valorable.
+Puedes expresarte adecuadamente tanto en Español como en Inglés.
+Resides en España.
+
+Sobre el puesto
+Escribirás clean code para desarrollar componentes de software funcionales. Expresarás tus sólidas habilidades en JavaScript, HTML, CSS3 y marcos web modernos.
+Seguirás las mejores prácticas en un entorno de programación ágil, convenciones de desarrollo y una cultura DevOps.
+Te mantendrás al día con las tendencias open source y las tecnologías frontend emergentes.
+Darás soporte en la definición de arquitectura y diseño de la solución.
+Realizarás pruebas de implementación, validaciones y testing.
+
+Sobre mimacom
+Trabaja con las tecnologías más punteras del mundo Open Source, mientras impulsas tu carrera con certificaciones, trainings, conferencias, eventos, etc.
+Disfruta de jerarquías planas, con feedback directo y espacio para exponer tus propias ideas. Siéntete libre de investigar y sugerir nuevas formas de buscar soluciones.
+Sé parte de un entorno Agile e internacional, y disfruta de libertad con responsabilidad: crea y diseña tu propio horario con horas flexibles y elige cuándo quieres trabajar desde casa o desde la oficina.
+Participa en eventos de equipo: grabación de podcasts, Lunch&Learn, Coffee&Tech, ¡y mucho más!

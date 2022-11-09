@@ -1,0 +1,34 @@
+About the job
+Job#: 1301118
+
+Job Description:
+
+Summary:
+
+The main function of a software engineer is to apply the principles of computer science and mathematical analysis to the design, development, testing, and evaluation of the software and systems that make computers work. A typical software engineer researches, designs, develops and tests operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific and general computing applications. Job
+
+Responsibilities:
+Create internal products and features using programming languages such as Hack and React Implement web interfaces and experiences using HTML, CSS, and JavaScript
+Be self-directed and highly motivated to drive towards resolution
+Invest in skill development, learning new technologies and professional growth
+
+Skills:
+Experience with engineering best practices and being a team culture advocate
+Experience with high-level performance optimization and troubleshooting bottlenecks
+Experience discussing system design and tradeoffs between approaches
+Experience in either Hack(PHP), C, C++, Java, C#, Python or other relevant coding languages
+
+Education/Experience:
+Bachelor's degree in computer science, software engineering or relevant field required.
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178.
+
+4400 Cox Road
+
+Suite 200
+
+Glen Allen, Virginia 23060
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com (Do not submit resumes or solicit consultants to this email address). Join our Talent Network! UnitedHealthcare creates and publishes the Transparency in Coverage Machine-Readable Files on behalf of Apex Systems.

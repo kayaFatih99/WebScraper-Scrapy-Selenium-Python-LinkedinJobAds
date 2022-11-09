@@ -1,0 +1,37 @@
+About the job
+100% remote from Spain
+Backend Software Engineer - Java -
+
+We are looking for an enthusiastic software engineer who has already built a few micro-services and knows what it takes to deploy and run them in a production environment with confidence. If you are someone who would like to use your skills to address the true need of millions of people in the world, read on!
+
+Company Overview:
+Omio is pursuing a vision of bringing global transport into a single distribution system and creating end-to-end magical consumer journeys. While the whole world of air, hotels or car rental is normalized, rail, bus, ferries, and airport transfer, and all forms of ground transport are fragmented on a local level.
+Omio is the largest source of inventory with 1000+ suppliers operating in 35 countries in Europe and North America.
+
+The role
+You will be part of an agile, cross-functional engineering team and join a community of highly skilled technical professionals in Prague, Berlin, and several other European locations.
+our tech stack overview: https://omio.tech/radar
+
+You will help us build a cloud platform that abstracts away the complexity and fragmentation of the data and APIs of the world of personal transportation and turns it into a structured, performant and reliable system for our client application teams to use. Apart from the core services, we develop tooling and automation to improve our efficiency and gain more time to innovate. We work with all major train, bus and ferry operators in Europe (and beyond) and strive to create a travel product that none of them can build in isolation. Our ambition is to disrupt the way people search for and book travel.
+
+What you will do
+Design, build and improve scalable systems that connect to many services & data sources inside and outside of Omio.
+Work with your team to rapidly test ideas, use results for iterations and improve our product.
+Operate and maintain critical core systems, owning reliability, performance, and availability.
+Apply your engineering experience to automate processes and maintenance.
+Collaborate with other teams on solutions for challenging and interesting problems.
+Help more junior engineers grow in their profession.
+Be hands-on with our diverse technology stack and have an opportunity to participate in defining and developing internal standards and shared components. Examples of the technologies we currently use and you might be working with include (but are by no means limited to): Java, Spring, Spring Boot, Javascript, TypeScript, Node.js, Go, Couchbase, BigQuery, Docker, Kubernetes, Graphite, Grafana, Kibana, GraphQL.
+
+Qualifications
+In order to thrive in this position and have fun, you are:
+Customer-focused: You have a passion for building performance and scalable products that cater to the needs of customers, internal and external.
+Experienced and educated: You have a degree in Computer Science or equivalent professional experience and worked at least 3 years with production systems in a high volume / high availability environment. You know how to design software systems and understand how microservice architectures work. Practical experience with Java and a subset of the following is required: Spring, Spring Boot, Docker, Kubernetes, Google Cloud, a NoSQL database.
+Up to code: You have experience in software development, you write clean, lean, effective code in multiple languages, all version controlled. You pick the right tool for the job and your mindset is not limited to a single paradigm or language. You know how to write tests and validate that your code does what it is supposed to do.
+Pragmatic: You can take on complex multi-domain problems, analyze, design, build modular solutions, and deliver end-to-end in an MVP, value-first and iterative approach. You know that sometimes you need to cut corners and are able to foresee the effects of it. You also understand that software engineering is not always just fun and you are willing to put in the effort to get things done even if they are sometimes somewhat boring.
+An automator: You strive to remove repetition and snowflakes through scripting and automation tools. You have deployed, monitored, and supported applications in production environments.
+A team player: You help your teammates with planning and delivering high-quality software and are not afraid to talk to people in your team and outside to clarify information and make agreements. You learn from the best around you.
+
+Additional information
+What’s in it for you? #LifeatOmio
+Omio encourages you to apply even if you’re still developing some of these skills! We value diversity and welcome all applicants regardless of ethnicity, religion, national origin, sexual orientation, gender identity, age or disability.

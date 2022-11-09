@@ -1,0 +1,24 @@
+About the job
+Primary Responsibilities:
+
+Works closely with Product Management to collaborate on requirements and recommended implementations.
+Provides expert guidance to project teams and participates as a key functional team member as part of the integrated project team.
+Designs and codes software to meet customer needs and requirements.
+Follows industry standard practices of conducting design reviews, code walk throughs, unit level testing, and integration testing.
+Works closely with the Software Quality Assurance team to test, troubleshoot, resolve, and release production software.
+Ensures prompt response to production and customer issues.
+Applies intensive and diversified knowledge of engineering principles in broad areas of assignments and related fields.
+Assumes full technical responsibility for interpreting, organizing, executing and coordinating assignments.
+
+Required Skills And Abilities.
+
+2-4+ years of experience developing event-driven application software with a strong emphasis on GUI development.
+2+ years of experience with Java and/or Android Development.
+Experienced and knowledgeable regarding operating systems and networks.
+Basic knowledge of the Linux OS.
+Strong understanding of software design patterns and how, why, and when to apply them.
+Proven history of being successful within a team-oriented environment.
+Confident team player motivated by a fast-paced environment.
+Ability to learn existing architecture quickly.
+Strong analytical, communication, and presentation skills.
+Ability and willingness to provide technical and team leadership through coaching and mentorship.

@@ -1,0 +1,29 @@
+About the job
+
+Bachelor’s degree in computer science or related engineering or equivalent work experience.
+4+ yrs. Experience
+Must have Agile software development experience.
+Working on backend and frontend design and development of web applications.
+Working closely with Product Owner and Business Analyst to translate business requirement into the technical architecture
+Analyzing performance bottlenecks.
+Supporting and maintaining large scale complex enterprise applications with high QoS.
+Must be hand on experience.
+Proven knowledge of Java Language, common Java API's and JVM, Spring, Spring Boot, Hibernate and open source frameworks.
+Experience with CI/CD pipeline, Maven, Ant.
+Experience with JBoss Application Server
+Excellent understanding of http protocol
+Experience with Software Security, SQL Injections.
+Experience with REST API.
+Proficient with Test Driven Development , static code analysis, software quality aspects
+Experience with latest JavaScript framework such as Angular.js, React.js, Node.js
+Experience with design and development of distributed microservices.
+In depth understanding of locking, multi-threading, and database concepts.
+Detailed knowledge of object-oriented design, data structures and algorithms
+Excellent interpersonal skills
+Familiarity with AWS , preferable AWS Solution Architect Associate certification.
+Demonstrable knowledge of Elastic Stack (Elasticsearch, Kibana, Logstash) and Kafka.
+Experience with Oracle and at least one NoSQL database.
+Background with Jenkins and/or Confluence plugin framework
+Flexibility/adaptability for working in a dynamic diverse environment with different frameworks and requirements.
+Open to ideas and out of the box thinker
+Excellent team player

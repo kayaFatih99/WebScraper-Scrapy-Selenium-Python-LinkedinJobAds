@@ -1,0 +1,39 @@
+About the job
+Do you want to be part of a diverse and inclusive team on a mission to drive a sustainable lifestyle? 🌳
+
+Did you know that 22 million pieces of furniture are thrown away straight to landfill each year? And that’s just in the UK…
+
+We have partnered with one of Europe’s leading B2C marketplaces helping to reduce this number by providing a platform for you to purchase high-quality vintage furniture. 🪑
+
+With partnerships with over 1800 vintage sellers and a curated list of over 200,000 products, this company is on a path of rapid growth! 📈
+
+Since growing over 120% in 2020 and obtaining $10 million in funding, they are now on a mission to scale their platform globally. 🌍
+
+Which is where you come in…
+
+The role
+As a Mid-Level Full-Stack Ruby developer, you will be working in a cross-functional team of 8 engineers to contribute across 4 key projects/areas:
+
+Organic growth,
+Search and discoverability,
+Seller experience,
+and internationalisation.
+
+You will be a key contributor in optimising a seamless customer journey, improving data quality at scale, helping sellers with powerful insights, and scaling the platform internationally!
+
+💻 Tech environment: Ruby on Rails, Javascript, Postgres, Heroku, Cloudflare and a range of APIs (Algolia, Ometria, Twillio).
+
+If you have:
+2+ years of professional experience with GIT and Ruby web development (Ruby on Rails, OR Senatra).
+Enthusiasm for front-end development and creating great user experiences with, HTML, CSS, and Javascript.
+Great collaboration and communication skills
+A love of learning
+
+You could get:
+A salary up to £70,000
+Fully remote working Europe (+/- 2 hours UK).
+Employee equity.
+MacBook + £300 new starter allowance for your perfect home set up.
+Much more…
+
+If you are interested apply directly with your CV or reach out to me via chris.dixon@fewandfar.io

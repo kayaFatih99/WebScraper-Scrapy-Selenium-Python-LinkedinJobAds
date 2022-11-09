@@ -1,0 +1,63 @@
+About the job
+Así somos:
+The Cocktail es una consultora tecnológica multinacional cuya misión es acelerar el crecimiento sostenible de nuestros clientes. Movilizamos grandes organizaciones para mejorar la relación entre las marcas y personas mediante el Diseño, los Datos y la Tecnología. Entendemos lo que nuestros clientes necesitan y orquestamos capacidades para lograr esos objetivos a una velocidad de vértigo. Nuestra cultura se basa en la diversidad, creatividad y en la mezcla de especialistas (estrategia, diseño, tecnología, data, investigación…) Nuestras carreras se caracterizan por un crecimiento profesional exponencial, y por la participación en proyectos con impacto real en grandes clientes. Formar parte de The Cocktail implica rodearse de un equipo inspirador del que aprender y que te ayudará a crecer. Trabajamos bajo la máxima de que es mejor pedir perdón que permiso, por eso, esperamos de ti una visión disruptiva y challenger, inconformismo y pasión por la excelencia y los desafíos.
+
+Si quieres moverte en un entorno retador, crear proyectos innovadores y hacer que las cosas pasen, The Cocktail es para ti.
+
+Éste es el reto:
+Buscamos una persona experta en frontend que participe como Angular Developer en proyectos de innovación colaborando con un equipo multidisciplinar. Nos encantaría encontrar a una persona apasionada de Angular, con al menos 3 años de experiencia, que disfrute trabajando con una visión end-to-end del proyecto.
+
+Experiencia trabajando en metodologías agile (Scrum).
+
+Conocimientos en:
+Test Driven Development y otros mecanismos de testing
+Domain Driven Design.
+Integración contínua.
+RESTful Web Services
+
+Dominio de:
+AWS
+Git
+Figma
+Angular y Angular Js
+Jest y Cypress JS
+Design Systems con StencilJS
+
+Deseable:
+Dominio de HTML5 y CSS, y conocimientos de SCSS (sería genial que conozcas la filosofía BEM).
+Conocer lo que son las aplicaciones SSR (Service Side Rendering) o PWA (Progressive Web Apps).
+
+Entre otras cosas, esto es lo que harás:
+En tu día a día:
+Crear productos que tendrá impacto en usuario final y en el área comercial de nuestros clientes, desarrollando con angular y otros frameworks.
+Ser parte de la creación de nuevas soluciones usando sistemas de diseño, nuevas librerías, migrando el cloud y actualizando los sistemas de legacy utilizando test automatizados.
+Desarrollar cross-browser de aplicaciones responsive.
+Trabajar con Cypress, Jest, o alguna herramienta de testing tanto end to end como de creación de tests unitarios.
+Atender a la accesibilidad y Performance Web de las aplicaciones, utilizando herramientas como Lighthouse.
+Asegurar los procesos de calidad de un proyecto.
+Participar en toda la vida del proyecto, desde el prototipado y análisis funcional hasta el análisis y liderazgo técnico.
+Definir la mejor solución técnica junto al resto de equipos de Tecnología.
+
+Además, cuando lleves un tiempo aquí esperamos que seas capaz de:
+Conocer otras tecnologías y lenguajes de servidor.
+Lograr resultados en un entorno de ritmo acelerado y en constante cambio.
+Construir un entorno de reconocimiento y celebración. Apropiarte de la visión de la compañía y que la hagas propia.
+
+
+¿Cómo es la experiencia en The Cocktail?
+Flexibilidad y confianza. Nuestro modelo de trabajo está basado en la autorresponsabilidad y la autonomía con un modelo flexible para ayudarte a conciliar dejando a tu elección si prefieres incorporarte full-remote, híbrido o full-office.
+Multinacional y multicultural. Somos una compañía internacional presente en más de 90 mercados. Tenemos oficinas en Madrid, Oviedo, Londres, Colombia, México y una red internacional proporcionada por Wunderman Thompson.
+Alma y propósito: tenemos iniciativas de apoyo a la maternidad (una sala de lactancia en la oficina y programas para mamás y papás), la sostenibilidad (políticas zero waste y proyectos dedicados a los ODS) y la inclusión de diversidad generacional, de género, funcional…
+Oportunidades de crecimiento y formación. El desarrollo personal y profesional van de la mano y es clave para nosotros. Tenemos un plan de carrera a largo plazo con formación en soft y hard skills. Ofrecemos clases de conversación y mejora de inglés y español.
+Cuidado y bienestar. La salud es lo primero, por eso cuidamos tu bienestar físico y mental con un seguro médico privado con cobertura completa y con LifeWorks, asistencia psicológica y asesoramiento de diferentes temas 24/7 para ti y tu familia.
+Ofertas, ahorro y otros beneficios. Podrás ahorrar en restaurante, guardería, transporte o seguro médico para tu familia con la retribución flexible.
+
+En The Cocktail pretendemos ser un referente en talento y calidad humana, y sólo lo conseguiremos siendo una compañía abierta y diversa, por eso tenemos un Código de Conducta que refleja nuestras expectativas de las personas que participan en la empresa. Ofrecemos un entorno acogedor para todos, independientemente de su identidad o expresión de género, orientación sexual, capacidad, origen, religión, estatus socioeconómico…
+
+
+Próximos pasos:
+Si has llegado hasta aquí es porque hemos conseguido llamar tu atención ;)
+Apúntate a la oferta y el equipo de People echará un vistazo a tu CV. Nuestros procesos de selección suelen tener alrededor de dos o tres entrevistas, y es posible que en algún momento queramos verte en acción y te propongamos un reto técnico. Al final del proceso charlaremos acerca de las condiciones salariales del puesto, una vez te conozcamos bien y sepamos cuánto puedes aportar.
+
+Si necesitas un tip para el proceso: simplemente queremos que seas tú.
+¿Te vienes?

@@ -1,0 +1,20 @@
+About the job
+Backend Software Engineer (Java SpringBoot microservices) Wimbledon / WFH to £75k
+
+Would you like to work on a modern microservices tech stack with opportunities to experiment and try new things in a supportive Agile environment? You could be joining a market leading, responsible online gaming / gambling site.
+
+As a Backend Software Engineer you will join a cross functional Agile development team with a focus on building microservices. You will work across the full software development lifecycle, collaboratively problem solving in design discussions to find the best possible engineering solution, you'll have exposure to a wide range of projects with technical ownership of components and can also gain exposure to front end development if desired. There's a modern tech stack including Java, SpringBoot and CI/CD with over 150 microservices for the core platform.
+
+There's a hybrid work from policy, you'll join colleagues in the Wimbledon office 1 - 2 days a week for meet-ups and innovation sessions.
+
+Requirements:
+You're a skilled Java Developer with strong microservices experience including Spring, SpringBoot, JMS, Hibernate, JSON
+You believe in taking ownership, producing high quality, well tested code and have a good knowledge of software development best practice and Continuous Delivery
+You're familiar with AWS
+You're collaborative and have great communication skills
+
+As a Backend Software Engineer / Developer you will earn a competitive salary (to £75k) plus benefits.
+
+Apply now to find out more about this Backend Software Engineer / Developer (Java SpringBoot microservices) opportunity.
+
+Ref: 17676/B/KS/031122

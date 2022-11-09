@@ -1,0 +1,34 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, ePeople Technologies Inc, is seeking the following. Apply via Dice today!
+
+Full Stack Developer
+
+Long Term Contract
+
+Work location - LA California
+
+Strong Full Stack Developer With Golang Experience.
+
+Design, implement and deliver end-to-end fully functional solutions
+
+Automation of repetitive development tasks
+
+Must Be Proficient At Web Technologies
+
+Familiarity with handling browsers Chrome, Firefox, Safari, Microsoft Edge
+HTML & CSS
+REST/HTTP
+Javascript
+Experience with Angular or React
+
+Strong integration and refactoring skills
+
+Solid data transformation skills using SQL, JSON, XML, CSV
+
+Commitment to using best software development practices
+
+Good understanding of Code Repositories, RDBMS, Cloud Computing, Infrastructure as Code
+
+Specific knowledge of Git, Postgresql, Terraform, AWS and Google Cloud Platform helpful
+
+provided by Dice

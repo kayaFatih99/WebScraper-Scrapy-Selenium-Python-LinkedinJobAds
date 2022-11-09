@@ -1,0 +1,39 @@
+About the job
+Position: Java Full Stack Developer
+Location: Remote
+Job Type: Full Time
+
+Job Description:
+
+Full stack engineer expected to develop front end and backend applications
+Strong hands-on experience building applications using Groovy and Java/J2EE technologies
+Participate in every phase of software development lifecycle
+Design, test, build & deploy applications
+Active participant in planning activities
+Participate in the creation and presentation of technical designs
+Review technical design for architecture and security best practices
+Lead technical or process design sessions on your team
+Understands the architecture around the core systems or processes
+Can triage complex issues independently in both production and locally
+Requires minimal direction and/or oversight
+Plans and executes delivery of coarse-grained features/capabilities
+Understands the business supported by you application(s)
+Identifies problems and/or risks of their own work and the work of others
+Strong social and communication skills which are critical for collaboration and work in a distributed product and enterprise environment
+Hands on development experience using modern JavaScript frameworks including React
+Knowledge and experience with "CI/CD” tooling and platforms, tools like GitHub, Jenkins, Azure Devops
+Familiar with SOLID and other prevalent software design principles
+Good understanding of Microservices architecture
+Ability to work in a test-driven development environment like SPOCK or JUNIT
+Good experience to operate and navigate in an Agile and Product focused team
+Familiarity with Cloud Infrastructure like AWS / GCP/Azure
+Good knowledge and experience running applications in a cloud native or container-based architecture to include OpenShift, Docker and Kubernetes
+Good implementation experience with messaging platforms like Rabbit MQ & Kafka, Google Pub/sub
+Relational and NoSQL databases like Oracle, Cassandra, Cockroach DB, Big Query
+Strong understanding of SQL, Stored Procedure, database objects, query tuning
+Familiarity with data integration and streaming processes like Azure Data Factory or Data Flow , Pub-sub, NiFi
+Secondary:
+Understanding of data pipelines and processes
+Understanding of application security
+Knowledge or Unix
+Knowledge of cloud functions.

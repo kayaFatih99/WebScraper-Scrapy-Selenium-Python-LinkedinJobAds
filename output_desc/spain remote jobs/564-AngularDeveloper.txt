@@ -1,0 +1,33 @@
+About the job
+Desde Serem nos encontramos en la búsqueda de un/a FRONTEND DEVELOPER con al menos 2 años de experiencia en el desarrollo de aplicaciones con ANGULAR.
+
+Requisitos:
+Angular+
+
+Deseable:
+Java
+Spring Boot, Spring Cloud, Spring Security
+RESTful microservicios
+JSON
+Java Persistent API
+Gitlab
+Junit
+SonarQuBe
+SQL, PostgreSQL
+
+Kubernetes
+Gitlab
+ELK stack (Elasticsearch, Logstash, and Kibana)
+Grafana / Prometheus
+Redis
+KeyCloack
+
+Fomentamos un ambiente de trabajo multicultural e inclusivo, no discriminamos por edad, género o creencias; así como ofrecemos igualdad de oportunidades a todo el personal.
+
+Desarrollamos nuestras actividades bajo los principios del cuidado del medioambiente, la sostenibilidad y la responsabilidad social corporativa; colaborando en proyectos de reforestación y sostenibilidad.
+
+Apoyamos los 10 principios del Pacto Mundial y los 17 Objetivos de Desarrollo Sostenible, en materia de derechos humanos, condiciones laborales, medio ambiente y anticorrupción.
+
+Los procesos de reclutamiento se desarrollan bajo altos estándares de calidad definiendo la incorporación en base a la experiencia y habilidades del candidato.
+
+Somos una empresa española líder en servicios tecnológicos y atracción del talento presente en el mercado desde 1995. Contamos con más de 600 empleados en proyectos tanto nacionales como internacionales en sector TI.

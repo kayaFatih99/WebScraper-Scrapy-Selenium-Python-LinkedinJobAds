@@ -1,0 +1,34 @@
+About the job
+Job Description
+
+You will join the team driving the digital transformation of three company sites across Europe.
+
+We accompany Industry 4.0 projects from brainstorming to prototyping and implementation in production and infrastructure.
+
+To achieve this, they work with a wide range of modern agile software development methods, data science, machine learning, operations research, statistics and scientific computing, and we rely on flat hierarchies in our teams.
+
+Role & Responsibilities
+
+As part of their interdisciplinary team, you will develop front-end solutions for Industry 4.0 projects, such as software to optimise our Verbundsite or AI-based assistance systems for production and logistics.
+You will accompany projects throughout the entire process, from the conception to the implementation of the solution, and will be responsible for your own sub-area.
+To ensure this, we will make sure to equip you with modern development tools such as our GitLab server or our Azure-based cloud platform. In addition, our mainframe "Quriosity" will be at your disposal.
+You will work closely with colleagues on site and with an interdisciplinary network of experts. The focus of your work will depend on your interests and skills.
+
+Skills & Qualifications
+
+Master's degree above-average in (business-) informatics, natural sciences, applied mathematics, engineering or a comparable discipline.
+Solid knowledge of Typescript and/or JavaScript and experience in developing web applications
+Experience in cloud computing (AWS and/or Azure)
+Knowledge on frontend frameworks such as Vue.js, Angular, React, Dash is an advantage.
+Experience with agile methods (Lean Startup, Scrum, Kanban) and elements of DevOps (e.g. Docker, Kubernetes, CI/CD, unit testing)
+Enjoy making a difference and creating tangible results that are used directly by customers and partners
+
+Benefits
+
+A secure work environment is always our top priority because of your health, safety, and wellbeing.
+Flexible work schedule and Home-office options, so that you can balance your working life and private life.
+Learning and development opportunities.
+30 holiday days per year.
+A collaborative, trustful, and innovative work environment.
+Being part of an international team and working on global projects.
+Relocation assistance to Madrid was provided.

@@ -1,0 +1,35 @@
+About the job
+The Opportunity
+
+Exciting news - Mixmax hit $10 million in annual revenue, and we’re profitable! We just raised more money and are looking to invest more to accelerate growth.
+
+We’re hiring product-focused software engineers with deep backend expertise and strong attention to detail. As a Backend Engineer, you’ll build the next generation of Mixmax features, scale distributed systems to handle millions of events, and drive quality across a large codebase, all as part of a globally distributed team. You'll also be responsible for improving and strengthening the foundation of our system, improving our team's developer experience, addressing our organizational security needs, and participating in collaborative decision-making about our architecture.
+
+The team
+We’re hiring Backend Engineers for two of our teams.
+
+Team Rocket, is a cross-functional product team that is in charge of the integration with Salesforce, as well as reporting and a bunch of other integrations and components. The current composition of the team is four senior developers, a product manager, an engineering manager, a designer, and a QA shared with another team. We need a fifth engineer to complement the team, who is experienced in modern web frameworks such as React, but who is also willing to work on the backend, which is based on a microservices (Node) architecture (the work distribution will be around 40-60% frontend-backend).
+
+Team Communicate, a cross-functional product team that is in charge of tasks, is one of the core elements in our product, as well as the Chrome extension and the dialer, our communication tool inside Mixmax. The current composition of the team is three senior developers, a product manager, an engineering manager, a designer, and a QA shared with another team. Being a distributed team, we try to work asynchronously, with only a few weekly team meetings (daily, planning, retrospective, etc.). We mainly use Jira and Slack to communicate, and our tech stack is Node, MongoDB, React, and AWS. We are looking for a fourth engineer to complement the team, someone who is willing to learn and share with the team and help us take our product to the next level!
+
+Within Three Months, You'll
+Work with Node, MongoDB, Elasticsearch, Terraform, Redis, and AWS;
+Make impactful improvements to our production infrastructure; and
+Demo your first new feature to the entire company!
+
+Within Six Months, You'll
+Contribute to the development of critical projects while working closely with other engineers;
+Work with your team to improve our architectural patterns, scalability, and developer experience; and
+Contribute to the culture of a growing team.
+Preferred Skills and Background
+We're looking for engineers who have experience with the core of our tech stack, which includes ES6 JavaScript and/or TypeScript, Node.js, AWS, and MongoDB.
+Mixmax is still growing fast, so we love new teammates who strive to grow personally and professionally, beyond just expanding their technical abilities.
+We take pride in the quality of our work, so we're looking for engineers with experience maintaining and supporting the systems they've built.
+We're a distributed team working in multiple time zones, so excellent documentation and communication skills are paramount!
+It’s Also Awesome (But 100% Not a Requirement!) For You To Have
+Worked in a distributed codebase with microservices and shared modules;
+Familiarity with secondary tools in our tech stack, like Elasticsearch or Redis;
+Worked on a Salesforce integration; and/or
+The ability to refer other great engineers to come work at Mixmax! 😉
+Our Commitment to Diversity and Inclusion
+At Mixmax, we know that nobody's perfect and that no one ever matches 100% with a job description. That's okay—we're human after all! Diversity and inclusion are core to our culture and we're actively committed to building a more inclusive and open workplace. No matter your background or how you identify, if you're excited about this role, we encourage you to apply.

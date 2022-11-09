@@ -1,0 +1,48 @@
+About the job
+SANTANDER CONSUMER FINANCE GLOBAL SERVICES (SCFGS) is looking for several Senior REACT Developers to support a new initiative – Santander Auto Software programme.
+
+WHY YOU SHOULD CONSIDER THIS OPPORTUNITY
+
+Santander Consumer Global Services provides technological services and solutions to Santander Consumer Finance, covering the end-to-end of technology, architecture design, infrastructure management, development and integration of proprietary and third-party applications to maintenance and technological support and project management.
+
+You will be part of Santander Auto Software Programme, where you will have the opportunity to join an extraordinary international team of software builders and participate in the creation from scratch of one of the most cutting-edge, scalable and adaptable technological platforms, which will provide to Santander Consumer Finance customers and partners the best user experience in financing their mobility solutions.
+
+Santander is proud of being an organization where there are equal opportunities regardless of gender identity, culture and disability. Our mission is to contribute to help more people and business prosper.
+
+WHAT YOU WILL BE DOING
+
+As a Senior React Developer you will be responsible for developing and implementing user interface components using React.js concepts and workflows such as Redux and Hooks.
+
+We need someone like you to help us in different fronts:
+
+Developing, implementing and evolve our frontend architecture.
+Participating in code review and contribute to improve common practices.
+Reviewing application requirements and interface designs.
+Monitoring and improving frontend performance.
+Documenting application changes and developing updates.
+
+EXPERIENCE
+
++4 years professional experience in Frontend development, +2 years working with React.js.
+
+EDUCATION
+
+Bachelor’s Degree in Computer Science, Information Systems, or another related field. Or equivalent work experience.
+
+SKILLS & KNOWLEDGE
+
+Fluent in English.
+Experience with Redux, Webpack, Hooks.
+Strong knowledge of Javascript, CSS, HTML, and Frontend languages.
+Experience working with design teams to optimize the final customer experience.
+Knowledge of agile methodology, Scrum/Kanban.
+Team player.
+Focus on quality.
+Knowledge about the Clean Architecture principles.
+
+OTHERS
+
+The vacancies will be based on Madrid, London or Monchengladbach. In the short term there will be new locations in other European countries.
+This role is remote working first.
+
+If you want to know more about us, follow us on https://www.linkedin.com/company/santander-consumer-finance-global-services/mycompany/

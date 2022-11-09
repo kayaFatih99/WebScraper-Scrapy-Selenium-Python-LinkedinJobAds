@@ -1,0 +1,45 @@
+About the job
+Éste es el reto:
+
+Buscamos gente con entusiasmo y orientada al aprendizaje constante. Concretamente, nos encantaría encontrar una persona apasionada de JavaScript que controle y domine Vue.js con al menos 3 años de experiencia.
+
+Entre otras cosas, esto es lo que harás:
+
+En tu día a día:
+Crear productos desarrollando con Vue.js.
+Desarrollar cross-browser de aplicaciones responsive.
+Dominio de HTML5 y CSS, y conocimientos de SCSS (sería genial que conozcas la filosofía BEM).
+Conocer webpack y control de versiones distribuidos (Git / GitHub).
+Trabajar con Cypress, Jest, o algúna herramienta de testing tanto end to end como de creación de tests unitarios.
+Preocupación por la accesibilidad y Performance Web de las aplicaciones, utilizando herramientas como Lighthouse.
+Conocer lo que son las aplicaciones SSR (Service Side Rendering) o PWA (Progressive Web Apps).
+Asegurar los procesos de calidad de un proyecto.
+Participar en toda la vida del proyecto, desde el prototipado y análisis funcional hasta el análisis y liderazgo técnico.
+Definir la mejor solución técnica junto al resto de equipos de Tecnología.
+
+Además, cuando lleves un tiempo aquí esperamos que seas capaz de:
+Conocer otras tecnologías y lenguajes de servidor.
+Lograr resultados en un entorno de ritmo acelerado y en constante cambio.
+Construir un entorno de reconocimiento y celebración. Apropiarte de la visión de la compañía y que la hagas propia.
+
+La experiencia en The Cocktail:
+
+Modelo de trabajo basado en la autorresponsabilidad y la autogestión con horario flexible y teletrabajo.
+Formación pensada para tu desarrollo profesional e individual.
+Acceso a una red de gimnasios por un precio especial.
+27 merecidos días de vacaciones al año y, por si no son suficientes, puedes disfrutar de hasta 5 días más de extra time.
+Seguro médico privado con cobertura completa.
+Posibilidad de retribución flexible (tarjeta restaurante, tarjeta transporte o cheque guardería).
+Un equipo de trabajo a tu medida para que uses el sistema operativo que más te guste.
+No tenemos dress code. Ven como quieras a trabajar.
+Nuestras oficinas están ubicadas en el centro de la ciudad, tanto en Madrid como en Oviedo.
+Ser parte de una compañía con alma: tenemos iniciativas de apoyo a la maternidad (una sala de lactancia en la oficina y programas para mamás y papás), la sostenibilidad (políticas zero waste), la igualdad de género y diversidad (iniciativas de visibilización e inclusión del colectivo LGTB+, colaboraciones para disminuir la desigualdad social...).
+
+En The Cocktail pretendemos ser un referente en talento y calidad humana, y sólo lo conseguiremos siendo una compañía abierta y diversa, por eso tenemos un Código de Conducta que refleja nuestras expectativas de las personas que participan en la empresa. Ofrecemos un entorno acogedor para todos, independientemente de su identidad o expresión de género, orientación sexual, capacidad, origen, religión, estatus socioeconómico…
+
+Próximos pasos:
+Si has llegado hasta aquí es porque hemos conseguido llamar tu atención ;)
+Nuestros procesos de selección suelen tener alrededor de dos o tres entrevistas, y es posible que en algún momento queramos verte en acción y te propongamos un reto técnico. Al final del proceso charlaremos acerca de las condiciones salariales del puesto, una vez te conozcamos bien y sepamos cuánto puedes aportar.
+Si necesitas un tip para el proceso: simplemente queremos que seas tú.
+
+¿Te vienes?

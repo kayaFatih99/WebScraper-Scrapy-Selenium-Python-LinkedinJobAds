@@ -1,0 +1,53 @@
+About the job
+Founded in 2010, JOOR now services more than 13,300 brands and over 380,000 retailers in 150 countries, processing an incredible $1.7B in wholesale transaction volume each month. Backed by Macquarie Group, Battery Ventures, Canaan Partners & ITOCHU, JOOR is a Series D start-up that provides the world's most recognized brands and retailers with a digital wholesale management platform that transforms the way these businesses work.
+
+With a CEO recently named a Glossy 50 "Changemaker in the Fashion Industry", JOOR is attracting top talent to drive market dominance. We have over 200 employees in 12 global offices, including NYC, Philadelphia, LA, Milan, London, Paris, Madrid, Berlin, Melbourne, Seoul, Tokyo and Shanghai. And, we are continuing to grow in a smart, sound way.
+
+Why JOOR? :
+We are revolutionizing the virtual showroom experience
+We partner with exciting brands, retailers, and technology partners from around the world
+We are a global company that is rapidly growing
+We are one of the most diverse and inclusive tech companies
+We have been recognized as a break-out technology start-up, continuing to drive innovation in the fashion & retail industry.
+
+What You'll Be Doing:
+Build out JOOR Products on one of our delivery teams which serve thousands of users each day and over 1B of GMV a month
+Design and implement solutions on either or both frontend and backend systems, with a focus on consistency, simplicity, quality, and ability to withstand varying load
+Offer tradeoffs and solutions in partnership with your team & Product to ensure we are delivering best in class software to our customers at appropriate timelines
+Work with other Software Engineers through pairing and other methods to bring out the best in the team as a mentor and subject matter expert
+Engage in broader organizational technical discussions
+Work with the latest technologies including react, python, gRPC, graphQL and node
+
+We would LOVE to hear from you if:
+5+ years experience as a software engineer
+Ability to write thorough unit tests and conduct code review for peers
+Desire to collaborate across teams to set engineering standards and minimize impediments for developers
+Capability to solve complex technical problems with a high degree of independence
+Strong communication skills
+Experience with pair programming and mentoring new engineers
+Ability to read and debug legacy code
+Experience in our stack is a plus, we use:
+Python, gRPC, and NodeJS in the backend
+GraphQL for our API tier
+React/Redux/Typescript in the frontend
+Docker used from development to production
+Kubernetes for container orchestration
+Familiarity with cloud technologies like Kubernetes and AWS
+
+What We Offer :
+Target Compensation Range: EUR 55 - 65K (plus company performance bonus & equity)
+Software architecture design: choose any technology, languages, framework you like for greenfield software; choose any best practices, new patterns you like for extension of existing software
+Guild leadership: you can decide organizational wide standards on any part of our tech stack
+Ownership of organizational tech initiatives (performance, infrastructure, tooling) if interested
+Access to Market Weeks to see the product in action.
+Collaborate with our teams in global offices around the world
+Need a break? Flexible "My Time" policy - We want you at your best!
+Medical, Dental, Vision
+Regular social events, including happy hours, lunch & learns, company offsites, meetups and speaker series
+Transparency into the state of our business via monthly all-hands meetings, showcasing the company's performance in relation to revenue and growth.
+
+We are one of the few tech companies with a female CEO and 1/3 of our engineering team is made up of women — well above the industry norm. Walking our floors, you'll find people of every shape, color, ethnicity and creed. If you are looking to join a team of innovators and trail blazers who value diversity of thought and experience, then JOOR may just be the place for you.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Excited about the role but still not 100% you fit the criteria? We would still love to hear from you!

@@ -1,0 +1,21 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Technology Consultants, Inc., is seeking the following. Apply via Dice today!
+
+Required Skills:
+
+4+ years front-end web development
+4+ years with PHP development and customization
+4+ years working with Joomla or Drupal
+Experience with React or Angular
+Experience integrating 3rd party search engine with a PHP based CMS
+Experience maintaining site graphics
+Experience developing/configuring templates and modules for PHP based CMS
+Experience with producing accessible WCAG 2.0 products
+Experience maintaining patches and plugins
+Experience upgrading PHP versions
+Experience with Bootstrap, Flexbox, or other responsive CSS frameworks
+Experience building reusable code snippets, or drop in widgets
+Experience using polyfills for backwards compatibility or ES6+ features
+Experience consuming APIs (internally and externally) using JSON or XML.
+Experience debugging API calls with Developer ToolsWe
+provided by Dice

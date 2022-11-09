@@ -1,0 +1,42 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Insight Recruitment LLC, is seeking the following. Apply via Dice today!
+
+Are you tired of working in the same old programming environment? Are you into robotics, automation, hardware, and software with a desire to work in a company with a startup feel? We are well-established, offering remote work, and experiencing rapid growth. If you are a Java and/or Kotlin experienced software engineer that would like to join a company where your ideas are heard, you can learn other languages and technologies, and have a chance to mentor a small team we may have the role for you!
+
+The Java Software Engineer will be driving efficiency and operations optimization for our partners. In this role you can expect to develop requirements from clients for further enhancement of existing core application/API. You ll also be working on Internal development of external applications that will access API as well as stand-alone applications. Day to day will include: engineering bug-task, sub-task, design, syntax coding, and testing of software that is distributed in Cloud and OnPrem at client facilities. Using Lean, Test Driven, Service Oriented, and Continuous Delivery guiding principles required for High Quality Software Development. We are seeking a productive, transparent, positive, team player, with the ability to maintain a remote work environment. Salary is DOE plus excellent benefits.
+
+Duties/Responsibilities:
+
+Java Engineer proficient in Software Development and Source Code Reviews.
+Develop Software Features, Automated Tests, and Bug Fixes.
+Participate in Agile Environment hosted by lead Senior Java Engineer.
+Communicate with Product Owner, Software Engineers, Infrastructure Engineers, and Automation/Robotic Engineers to build Advanced Technology and Services.
+Develop and support software in a phased cycle, estimate completion, and define schedule.
+Assist in maintaining support documentation and user training materials.
+Communications with Solution Specialist and Client Representatives for support issues.
+Monitor systems and provide technical support and solving issues.
+Performs other duties as assigned.
+
+Required Skills/Abilities:
+
+Excellent communication, organizational, and engineering skills.
+Excellent time management skills with a proven ability to meet deadlines.
+Strong analytical and problem-solving skills.
+Thorough understanding of or the ability to quickly learn about the project or product being developed.
+
+Education and Experience:
+
+Bachelor s degree in related field, is preferred.
+Experience in the following is preferred:
+Java JEE
+Spring and Tomcat
+Junit Integration and Unit Testing
+Kotlin, MVVC, and Groovy
+Json, XML, JavaScript, CSS, and other Java Frameworks
+Postgres, SQL, Windows, Linux
+IoT
+Big Data & Analytics
+.Net
+HTML5, CSS3
+Prior AWS experience preferred
+- provided by Dice

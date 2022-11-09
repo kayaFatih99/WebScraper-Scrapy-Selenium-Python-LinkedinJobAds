@@ -1,0 +1,40 @@
+About the job
+
+Descripción de la empresa
+
+¿QUIÉNES SOMOS? Una innovadora empresa TIC especializada en Transformación Digital.
+Data & Analytics: Modern BI, Data Visualization, Data Governance ( Microstrategy, Microsoft BI, Oracle BI, PWC, Qlik, Tableau, Power BI, IDQ, MDM, BDM ...)
+Big Data: Phyton, R, Spark, TensorFlow, Haddop, Hive, Impala, NOSQL...
+Plataformas de desarrollo en la nube/ Cloud Computing: Azure, AWS, Red Hat, Google...
+IT- ITSM: ServiceNow, BMC Software...
+Desarrollo de proyectos de Transformacion Digital: JEE, .NET, Node.JS, Angular, REACT, Bootstrap..
+Devops& Automatizacion: Phyton, Openshift, Docker, Kubernetes, GIT, Jenkins...
+ERP/CRM: Dynamics 365, SAP, Salesforce...
+
+
+Creative Tech For Better Change
+
+
+Descripción del empleo
+
+Devoteam desea incorporar a uno de nuestros equipos de desarrollo a una persona Front End con conocimientos o experiencia con Android Studio.
+
+Participarás en un equipo multidisciplinar y muy estable para realizar desarrollos web y Mobile.
+
+Se busca que dispongas de fuerte experiencia trabajando con:
+Angular
+Node JS
+Typescript
+HTML5/CSS3/Javascript
+Android Studio
+Conocimiento/experiencia con ASP.NET y Web Api REST
+
+
+Información adicional
+
+Ser de Devoteam supone:
+Crecimiento profesional.
+Adquirir experiencia en los proyectos de Transformación Digital más punteros de España.
+Disponer de Beneficios Sociales (cheques comida, transporte, formación,...)
+Equipos Altamente Cualificados.
+Buen ambiente de trabajo.

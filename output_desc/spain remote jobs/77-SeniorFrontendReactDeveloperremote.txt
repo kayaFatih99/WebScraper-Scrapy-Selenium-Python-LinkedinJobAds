@@ -1,0 +1,50 @@
+About the job
+At AutoUncle, we are on a mission to become Europe's most trusted platform to make smarter financial decisions about mobility. Today, we are driving transparency in the market by helping millions of people internationally navigate the jungle of buying a car. With our search engine and price comparison, we are the leading aggregator to help potential car buyers make informative and easy decisions while finding their next car. Join us to take AutoUncle to the next level, and transform AutoUncle into an even more distinguished, loved and trusted consumer brand.
+
+In addition to helping individuals make smarter financial decisions about mobility, we have a continuous goal to be The Most Human Company - by keeping the focus on the employees. We work remotely in an agile and collaborative environment, where we challenge the norms of traditional business practices and focus on results, allowing you to have more freedom, flexibility and responsibility within your role. AutoUncle is a founder-led scale-up with a special care for products and people, that is our goal to be The Most Human Company. Take a look below at our Employee Handbook for more details regarding our employee first culture!
+
+Your Mission as the Senior Frontend React Developer
+
+We're looking for an accomplished Senior Frontend React developer who is passionate about building great products, has natural decision making abilities and someone who loves being part of a team, while enjoying the autonomous nature of working remotely.
+We’re not picky about academic background, but expect that you:
+Work fluently with React.js and have excellent experience with modern Javascript frontend applications
+Communicate effectively in English (written and verbally)
+Enjoy taking challenging initiatives, you want to lay the ground and create something new
+Appreciate working in an environment where you contribute to the conventions and culture (we're always refining how we work)
+Have experience building high-scale consumer frontends (SEO, frontend speed optimization, responsiveness, GDPR and Google Analytics/Optimize)
+
+Your profile
+Worked on a marketplace product
+Next.js and/or React Native experience
+Experience implementing design systems
+Knowledge about A/B testing
+Worked on migrating projects from Ruby on Rails to React (e.g. Rails APIs)
+Have experience scaling the usage of a product within a specific market or have worked within a Growth team
+And lastly…you do not need to know anything about vehicles or have an interest in them to work at AutoUncle (my scope of understanding is they often have 2-4 wheels and get me from here to there)!
+
+As a Senior Frontend React developer, you will be a critical part in taking AutoUncle and our technological depth to the next level. We’re looking forward to meeting you!
+
+Want to Learn More!
+In combination with the company vision, AutoUncle works methodically to be The Most Human Company – a place where employees can be ambitious, work alongside great colleagues, be trusted in their roles, have a big international impact, and bring their full humanity to work. Take a look at our Employee Handbook and see what it’s like to work at AutoUncle and meet the teams!
+
+How we operate
+We work remotely within Product & Engineering and get together to break bread 2-3 times per year
+We work on problems and opportunities, not "scoped solutions"
+We focus on learning and growing professionally/personally
+We set goals using OKRs and plan work with Linear
+We conduct user tests weekly
+We run A/B tests at big scale
+We collaborate with humour and warmth
+We hold each other accountable to high standards
+
+Starting date: As quick as possible
+Compensation: Competitive, based on qualifications
+Attach a video: When submitting your application we encourage you to attach a short video. Don't fuss about creating something perfect, a 1 minute smartphone recording where you share in English who you are as a human and why you're interested in this job is more than sufficient!
+
+Employee Handbook: https://autouncle.notion.site/AutoUncle-Employee-Handbook-08b8ff49e642432caaa8ae5534413465
+
+Our goal to be The Most Human Company: https://careers.autouncle.com/pages/the-most-human-company
+
+What it's like to work at AutoUncle: https://careers.autouncle.com/pages/workingatautouncle
+
+Meet the Teams: https://careers.autouncle.com/departments

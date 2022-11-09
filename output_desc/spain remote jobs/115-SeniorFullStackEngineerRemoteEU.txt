@@ -1,0 +1,50 @@
+About the job
+Company description
+Cloud technology startup - Headquartered in the US with R&D based in Sofia, Bulgaria
+Product Innovation - Cloud NAS, built as SaaS, cloud-native file system
+Team - A dream team of 95+ dedicated individuals
+Mission - To make data universally, securely, and seamlessly accessible to everyone, everywhere
+
+We are storage and networking experts building the Cloud NAS. Remote cloud collaboration is now a requirement, and we are transforming the $40B NAS market. Our unique cloud-native file system addresses many distributed storage and security problems inherent when working remotely over the Internet.
+With a focus on simplicity, security, and performance, we've reached a new milestone in our journey, and we're looking to expand our team with more talented members.
+
+Job Description
+You will be part of our core engineering team of world-class software and devops engineers, building a product with no equivalent. You’ll have the opportunity to learn and advance professionally by working with various technologies, developing automated and scalable cloud solutions.
+
+Your skills and qualifications:
+2 years of experience in the field.
+Experience with the major devops tools - Ansible, Terraform, Docker/Kubernetes.
+Experience in automating the entire software development pipeline including CI/CD, continuous testing, app performance monitoring, infrastructure settings.
+Experience with various cloud providers - AWS, DigitalOcean is a plus.
+Extensive experience administering Linux servers. Windows and macOS experience is a plus.
+Software security skills - security and vulnerability management, compliance monitoring.
+Coding skills - Python, Bash, Git.
+Good English, both spoken and written.
+
+Your responsibilities:
+Design and develop highly scalable fault-tolerant solutions as part of the core software development team.
+Perform routine application maintenance to ensure the production environment runs smoothly. Develop maintenance requirements and procedures.
+Handle outages, provide resolution and root cause analysis, including post-mortems, and further mitigation/prevention actions.
+Analyze the technology currently being used to improve and enhance LucidLink’s infrastructure.
+Enhance LucidLink’s monitoring system to “know about each problem before the customer does”.
+Enhance existing CI/CD pipelines to optimize software delivery and guarantee consistency and reliability.
+
+The ideal team member possesses the following personal traits:
+Shares our core values.
+Is a team player.
+Is smart with an analytical mindset.
+Is result-oriented and self-motivated.
+Has a positive, can-do attitude.
+Is thriving in a fast-paced, dynamic environment.
+Has a strong desire to constantly learn while helping others do the same.
+
+We offer:
+Stock option plan.
+Competitive salary based on experience and skills.
+Additional vacation days based on your needs so you can maintain a healthy work-life balance.
+Personal assistant to help run your daily errands so you can focus on the things you enjoy.
+Flexible working hours and work location.
+Company-sponsored sport cards for you and one companion.
+Fresh fruits and other snacks in the office at all times and a company-sponsored team lunch every Friday.
+A full-coverage health care package that includes dental care and medical supplies.
+Boutique office located in downtown Sofia, in a brand-new facility near National Theatre Ivan Vazov.

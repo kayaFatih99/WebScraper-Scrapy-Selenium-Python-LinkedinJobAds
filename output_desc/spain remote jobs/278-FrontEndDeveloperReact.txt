@@ -1,0 +1,51 @@
+About the job
+ABOUT US
+
+
+Tiendeo is the multichannel solution that connects businesses with millions of shoppers around the world through our AI-driven technology.
+We help brands and retailers optimise their marketing strategies, reaching their audiences throughout the customer journey and driving customers to visit physical stores.
+In 2022, we joined ShopFully, the tech company that is reinventing local shopping worldwide (shopfully.com). With teams in 12 countries, a network of 45 million active users and over 400 partnerships with major retailers and the best-known brands around the world, ShopFully is the European champion and an international leading player in Drive to Store.
+Want to learn more? Visit our website for more information or to connect with us.
+
+
+IN THIS ROLE YOU WILL
+
+
+As a Frontend Developer you will have the opportunity to work at the development of our technology solutions. You will be working with our cross-functional and fully-distributed technology team and you will:
+Project and develop high innovative solutions with a special focus on UX/UI
+Evolve existing solutions in order to generate new features with a focus on speed and performance
+Collaborate with the team for the realization of innovative solutions
+
+SKILLS WE ARE SEARCHING FOR
+
+
+Deep knowledge of client side tools: Javascript/Typescript (React), HTML, and CSS.
+Experience with web APIs (Service Worker, Canvas, Animation, SVG etc.)
+Experience with pre-and-post-processors CSS (Sass, PostCSS) and specific CSS (BEM) methodologies
+You know other Javascript framework (Backbone, Angular, Vue), libraries (jQuery), utilities (Lodash)
+Ability to version code with Git and branching models as Git-flow / Github Flow
+Good knowledge of HTTP protocol
+Experience with working in a distributed environment
+Proven ability to communicate effectively in written form, both in Italian and English
+
+
+
+NICE TO HAVE
+
+
+Experience in working on tracking systems
+Development experience with native technologies
+Knowledge of React Native
+Knowledge of Zustand state management
+Experience in developing by using Haul bundler
+
+
+
+WE OFFER
+
+
+An opportunity to build your experience in an internationally growing scale-up company.
+A young and informal work environment.
+Flexibility: it is talked about in all settings, and it is done at Tiendeo. You will have flexibility in your time of entry and exit, which is one of the benefits most valued by our employees.
+English classes: we have the opportunity of taking weekly classes to improve your level.
+Annual individual budget for training: you manage your own budget to spend on education, from short-workshops to online courses or semester-long classes!

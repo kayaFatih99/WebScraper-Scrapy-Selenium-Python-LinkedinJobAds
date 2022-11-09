@@ -1,0 +1,8 @@
+About the job
+Backend Developer (37 days paid holiday including bank holidays!)
+
+Salary up to £85,000 + Benefits + Bonus (15 - 30%)
+An exceptional opportunity for a Backend Developer to join an exciting scale-up based in London. The company specialises in working closely with the sports industry streaming world-class content across multiple disciplines.
+The successful Backend Developer will be responsible for developing the company's video streaming service. The service relays live video to clients around the world. At any one time service can be working with up to thirty separate streams with up to two thousand requests per second.
+The company primarily uses Java 11, Terraform and AWS. Delivering with DevOps and Kubernetes. They also have separate teams that use Kotlin and Scala. If you are interested in working with any of these technologies this would be a great opportunity to get hands-on experience.
+If you are interested in sports and love coding, please apply!

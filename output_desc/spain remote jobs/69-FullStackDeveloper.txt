@@ -1,0 +1,35 @@
+About the job
+Desde B2M estamos seleccionando un Full Stack developer para importante empresa multinacional líder en el sector tecnológico para formar parte de su equipo de desarrollo digital consumer.
+
+Si quieres un proyecto interesante y retador que te permita una sólida carrera profesional dentro de una multinacional, esta es la oportunidad perfecta para ti.
+
+Responsabilidades:
+
+Desarrollo backend en Python sobre una arquitectura basada en microservicios.
+Escritura de tests que permitan automatizar las pruebas de los componentes desarrollados para asegurar su calidad.
+Diseño de componentes de calidad dentro de la infraestructura del producto, poniendo foco en la mantenibilidad, fiabilidad y escalabilidad de los mismos.
+Contribuir en la optimización del rendimiento de la solución, prestando atención al uso de recursos, tráfico de red, tiempos de respuesta, etc.
+Desarrollo frontend en ReactJS sobre una arquitectura basada en microservicios
+
+Conocimiento Técnico indispensable:
+
+Conocimiento Python
+Conocimiento de frameworks de desarrollo frontend (deseable ReactJS)
+
+Valorable:
+
+Arquitecturas basadas en microservicios con Docker (Kubernetes)
+Diseño batch-jobs SparkSQL (preferible pyspark)
+Sistemas de colas.
+Git, Prometheus, Grafana, Kibana
+Bases de datos relacionales (actualmente utilizamos MySQL)
+
+Experiencia:
+
+3 años de experiencia en desarrollo de software
+
+Idiomas:
+
+Inglés (competencia profesional)
+
+Ubicación: Madrid (Posibilidad de teletrabajo 100%)

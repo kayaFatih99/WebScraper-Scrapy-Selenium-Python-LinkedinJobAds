@@ -1,0 +1,46 @@
+About the job
+About Kisi
+
+Job description
+
+Kisi is a security platform with offices in Brooklyn and Stockholm and a global remote team spanning from America, Europe, Africa and Asia. We create hardware and software that helps businesses connect and control their spaces through the cloud.
+
+A Little Bit More About Our Team
+
+We value being forward, human, trusted, and responsible. As a team, we make a tangible and lasting impact on the real world.
+Our product
+Our customers and users come first - We are rated 4.9 in the
+Our team is unique (and a bit quirky) and diverse. We hail from 27 nationalities (& counting!) and look forward to our annual global meetup to bring the whole team together.
+We are building a supportive and flexible working environment by offering health & retirement benefits (location based), generous vacation time and daily challenges and growth.
+
+About The Role
+
+We are looking for a Frontend developer to join our marketing team, to be working closely with our Marketing Director and Digital Art Director. Responsibilities include:
+
+Implement new pages and optimize existing pages on getkisi.com;
+Expand and improve upon our component library;
+Improve hubspot templates;
+Create and optimize landing pages;
+Collaborate regularly with designers, backend engineers and project managers;
+Ensure alignment of user experience requirements with design needs;
+Ensure optimal design across devices;
+Enhance application for maximum speed and stability.
+
+Our stack:
+
+Frontend: Nuxtjs, storybook, jest
+Backend: Express, CMS: Sanity
+Workflow: Github actions.
+
+Requirements:
+
+Requirements
+
+2+ years experience with frontend development
+Have a strong interest and understanding of design, for mobile and web
+Good understanding of one or more modern JavaScript frameworks (Nuxt, React, Angular, Vue, etc.)
+Great communication skills
+Passionate about both clean code and clean design!
+Self driven and willing to work with a lot of autonomy
+
+This will ideally be a hybrid role in our Stockholm office, but we can also accept applications for remote working!

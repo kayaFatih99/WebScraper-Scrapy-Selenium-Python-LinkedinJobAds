@@ -1,0 +1,111 @@
+About the job
+Sobre Nosotros
+
+Evalua es una startup del sector InsurTech dedicada al desarrollo de soluciones B2B SaaS para las principales empresas aseguradoras del mercado.
+Estamos respaldados por un importante fondo de inversión (Kartesia) y somos parte del Grupo VETA, uno de los mayores prestadores de servicios para empresas aseguradoras del mercado.
+
+¿Quiénes somos?
+
+Evalua se fundó en 2011 como empresa independiente. Actualmente somos un equipo comprometido de 27 personas que trabajan al unísono con el objetivo de conseguir crear las mejores soluciones del sector asegurador.
+Estamos en pleno desarrollo del equipo habiendo multiplicado por dos la plantilla en el último año y desarrollando nuevos productos que darán mucho que hablar en 2022.
+
+Cultura de empresa
+
+Lo más importante no es ni el código ni el producto, son las personas
+Somos autocríticos, siempre se puede hacer mejor
+Comunicación como pilar fundamental del trabajo
+Confía en ti mismo, lo que aportas es importante para nosotros
+Somos dinámicos por encima de todo, el cambio es parte de nuestro día a día.
+
+Tu rol
+
+Como PHP Developer trabajarás con otros Desarrolladores, con el Project Manager, con el Dev Team Leader y/o CTO, entendiendo los requisitos de negocio previamente especificados por el Product Owner.
+Acordarás y propondrás soluciones técnicas con el equipo de desarrollo del que formas parte y serás capaz de estimar el tiempo necesario para desarrollar esos requisitos
+El desarrollo de estos requisitos serán hechos con Laravel y Angular:
+Te implicarás en el cumplimiento de la planificación acordada por el equipo
+Realizarás tests del desarrollo que has realizado manteniendo la buena cobertura del código
+Revisarás el código desarrollado por tus compañeros
+Formarás parte del producto que estás desarrollando
+Esas son algunas de las funciones que realizarás en tu día a día:
+Arrancamos el día con una taza de café/té y un buen daily
+Desarrollarás las tareas del sprint actual. Una tarea no se da por cerrada hasta que no existan tests asociados
+Revisarás el código de tus compañeros
+Propondrás tareas de refactor
+Estarás al día con los avances de la tecnología usada en el proyecto
+
+
+Roadmap
+
+En 1 mes...
+Toma de contacto con el proyecto
+Aprendizaje sobre el mundo de los seguros
+Y comenzamos con alguna tarea
+Estarás como lector en los pull requests de tu proyecto
+En 3 meses…
+Las tareas irán tomando importancia
+Seguirás conociendo el proyecto
+Irás aprendiendo procesos un poco más complejos en el mundo de los seguros
+Tu participación en los pull requests del proyecto será activa
+
+En 6 meses…
+Serás capaz de realizar tareas de dificultad media de manera independiente
+Podrás proponer mejoras en el código del proyecto
+Además tenemos establecido un plan de carrera transparente a todos los miembros del equipo para que puedas crecer junto a nosotros.
+
+Cómo lo harás
+En Evalua usamos a SCRUM con ciertas características propias, por tanto:
+Realizarás una reunión diaria (daily) explicando si tienes bloqueos o cómo se presenta tu día.
+Realizamos sprints de dos semanas previamente estimados con el equipo del proyecto
+Una vez terminado el sprint el equipo de QA validará las tareas terminadas
+Se realizará una retrospectiva al finalizar el sprint para analizar: ¿Qué se ha hecho bien? ¿Cómo se puede mejorar en sprints futuros?
+Trabajamos con la suite de Atlassian: repositorio de código Bitbucket, gestor de tareas Jira y gestor documental Confluence. Usamos Slack para comunicarnos aunque siempre preferimos que la comunicación sea asíncrona en la medida de lo posible mediante comentarios en Jira o Confluence.
+
+
+Cuándo lo harás
+
+Tendrás una jornada flexible: la entrada será entre las 7:30 - 9:00 con media hora para comer de lunes a jueves. Los viernes realizarás una jornada de 8:00 - 14:00 para que puedas comenzar tu fin de semana pronto 😉. Además en verano tendrás jornada intensiva todo Julio y todo agosto de 8:00 -15:00… ¡ Así si, se disfruta del verano! 😎
+
+Dónde lo harás
+
+¡Desde donde quieras!
+Está posición es 100% remota, por lo que mientras te asegures que tienes buena conexión, podrás trabajar desde cualquier lugar del territorio español
+
+Qué esperamos de ti
+
+Capacidad de comunicación escrita y oral
+Trabajamos con SCRUM desde hace más de 10 años. Esperamos que te sientas muy cómodo en el uso de metodologías ágiles
+Conocimiento en el uso de GIT
+Experiencia en el desarrollo backend con frameworks de PHP (Laravel/Symfony)
+Uso de principios SOLID
+Conocimiento y uso de metodología TDD y framework PHPUnit
+Experiencia con algún framework Javascript: Angular, Vue, React
+Desarrollo de código eficiente, reutilizable y fácil de entender
+Proactividad, tener capacidad analítica
+
+Ofrecemos
+
+Contrato Indefinido
+100% Remoto
+22 días de vacaciones por año elegibles por el trabajador libremente (siempre con sentido común). También tu día de cumpleaños y 24 ó 31 de diciembre a elegir
+Salario a valorar entre 30.000€ y 36.000€ según experiencia y capacidades técnicas.
+Horario flexible
+8 semanas de jornada reducida en verano
+Presupuesto individual para formación
+Seminarios quincenales en los que el equipo muestra nuevas tecnologías, profundiza en aspectos tecnológicos importante, etc
+Bonificaciones por antigüedad
+Retribución Flexible
+Clases de Idiomas.
+
+Cómo participar del proceso
+Valoramos muy positivamente que nos expliques en tu carta de presentación:
+-¿Quién eres? Formación, experiencia, tu visión del proceso de desarrollo, aspiraciones
+-¿Qué te interesa de la posición y la empresa?
+-Describe tu experiencia en puestos parecidos
+-Describe el puesto ideal que te gustaría ocupar y cómo debería sería la empresa en la que desarrollarlo
+
+¿Cómo será el proceso de selección?
+
+-Revisión de las candidaturas
+-Entrevista con Recursos Humanos
+-Test de conocimiento/Prueba Técnica
+-Entrevista con Developer Team Leader

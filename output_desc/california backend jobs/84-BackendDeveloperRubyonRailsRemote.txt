@@ -1,0 +1,29 @@
+About the job
+Paladin Consulting is currently hiring a Backend Developer - Ruby on Rails to join our team working remotely.
+
+We work with companies that offer environments for our employees to contribute, learn, and advance their career. We treat you like you are part of the family.
+
+Job Title: Backend Developer - Ruby on Rails
+Work Location: Remote; must work EST hours
+Duration: Long-term contract with option to hire
+
+Job Description & Responsibilities :
+As a leading eCommerce warehouse management system, Whiplash connects online store owners and facility staff around the globe. We believe in transparency, beauty, and developing software products that are a joy to maintain, use, and support.
+
+Today we are looking to hire a Backend Developer to join our growing tech team. In this role, you will be managing the web development for the Whiplash family of web applications. You will be working in tandem with the user experience team and delivering features and RESTful API endpoints that are performant, maintainable, and easy to consume.
+
+Required Skills & Qualifications:
+5+ years working with Ruby on Rails
+In-depth knowledge of MySQL and/or PostgreSQL, with a solid understanding of query performance and indexing
+Experience working on a team, with an understanding of branching and release strategies (i.e. Git Flow, etc) in the context of hosted source control, such as Github, Gitlab, Bitbucket, etc
+Working knowledge of background job processing (Sidekiq, Resque, ActiveJob, etc)
+Experience with both Rspec and Minitest
+Experience interacting with 3rd party APIs
+Ability to work independently and creatively, identifying issues and presenting solutions
+Desired Skills & Qualifications:
+Comfortable in discussions with end users
+Experience with any/all of the following: Heroku, AWS, Postman, LucidChart, Backend Developer - Ruby on Rails 2 Serverless
+E-commerce experience (coding, selling, and/or maintaining)
+For more information or to view other opportunities, visit us at www.paladininc.com.
+
+Paladin Consulting is an EEOC employer.

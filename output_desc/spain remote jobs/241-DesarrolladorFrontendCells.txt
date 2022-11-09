@@ -1,0 +1,36 @@
+About the job
+En INETUM buscamos incorporar y montar un equipo de Desarrolladores Frontend, para integrarse en un equipo de trabajo, para uno de nuestros mejores cliente en Madrid.
+
+Requerimos:
+• Entre 3 y 5 años de experiencia en ARQ Cells:
+• Buena comprensión del diseño y la arquitectura web.
+o Code Smells
+o Técnicas de Clean Code
+• Capacidad para trabajar en todas las etapas del desarrollo desde recopilación de requisitos, hasta la implementación de pruebas.
+• Experiencia en JavaScript/TypeScript
+o Paradigmas de programación.
+o Tipado estático & tipado dinámico
+o TypeScript
+o ES6/12 avanzado
+o Programación Asíncrona
+• Experiencia en Polymer & Lit Element
+• Capacidad de trabajo en equipo
+•Deseable: Vue, Angular ó AngularJs
+
+Centro de trabajo: Madrid (posibilidad de trabajo en modalidad híbrida y/ó en remoto)
+
+SOBRE INETUM, POSITIVE DIGITAL FLOW
+
+Inetum es una compañía de servicios ágil que proporciona servicios y soluciones digitales y un grupo global que ayuda a compañías e instituciones a aprovechar al máximo el flow digital.
+
+En un contexto de continuo movimiento, en el que las necesidades y los usos se reinventan constantemente, el grupo Inetum se compromete con todos esos actores a innovar, seguir adaptándose y mantenerse a la vanguardia.
+
+Con su perfil multi-experto, Inetum ofrece a sus clientes una combinación única de proximidad, organización sectorial y soluciones de calidad industrial. Presente en más de 26 países, el Grupo tiene cerca de 27.000 empleados y en 2019 generó unos ingresos de 2.300 millones de euros (pro forma).
+
+¿QUÉ OFRECEMOS?
+
+Contrato indefinido
+Retribución salarial competitiva acorde con la experiencia aportada
+Plan de carrera: ofrecemos una atractiva carrera profesional en función de la experiencia y potencial personal dentro de una compañía en continua evolución y con un sólido crecimiento
+Plan de formación en competencias tecnológicas de acuerdo con las exigencias de los proyectos y clientes.
+Retribución flexible: te ofrecemos una retribución a la carta pudiendo elegir diferentes productos y modelar tú mismo cómo distribuirlos: seguro de salud, tickets de comida, guardería, tarjeta transporte.

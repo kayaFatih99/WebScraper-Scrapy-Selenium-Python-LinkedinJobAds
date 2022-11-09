@@ -1,0 +1,22 @@
+About the job
+Mobile Software Engineer Xamarin - London - Hybrid
+
+Responsibilities
+Collaborate with product and UX team to design new features
+Develop cross-platform applications using Xamarin
+Prototype and test new features
+Collaborate with development team members to solve problems
+Skills and Requirements
+
+3+ years of experience with iOS and Android cross-platform development using
+Xamarin, C#, and related technologies
+Familiar Xamarin Forms, MVVM, IoC, DI and related patterns
+Experience with Push notifications
+Knowledge of REST and RPC APIs
+Experience with Azure DevOps, Git, and App Center
+Understanding of Agile methodologies
+
+Nice to have
+Distribution via App Store and Google Play
+Experience with Native or other Mobile App technologies beyond Xamarin
+Experience with Location services and Bluetooth

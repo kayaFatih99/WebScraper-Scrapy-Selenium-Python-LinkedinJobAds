@@ -1,0 +1,17 @@
+About the job
+Hi,
+Title: JavaScript/React Developer (Reactjs)
+Location: Columbus, Ohio and Houston, TX- Hybrid 3 days onsite 2 days WFH in a Week
+Years of experience: 3+ Years
+Mandatory Skills: Reactjs, Javascript, HTML, CSS
+Job Responsibilities
+Code, design, and testing in a heterogeneous technology environment.
+Strong understanding of the overall software delivery lifecycle (SDLC) and activities.
+Enacting agile development values and practices.
+Enable close cooperation across all roles and functions.
+Promote and participate in the continuous improvement of structure, processes, and tooling to enable the teams to deliver more value.
+Identify opportunities for process and tool improvements and drive those from concept to implementation.
+Engineer a world-class platform with an eye towards rapid iteration and creative problem solving.
+Ensure quality and completeness of the product through unit, component, integration, and end-to-end testing.
+Adhere to architecture standards, risk management, and security policies.
+Contribute and collaborate in creation and consumption of open, standards-based solutions, while working with existing enterprise technologies and infrastructure

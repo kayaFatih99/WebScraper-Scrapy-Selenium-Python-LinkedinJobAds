@@ -1,0 +1,24 @@
+About the job
+Backend Engineer –Remote Option Available - Flexible Working - Up to €90,000
+
+Job description
+
+Backend Engineer –Remote Option Available - Flexible Working - Up to €90,000
+
+I am currently exclusively recruiting for a leading metaverse web3 business. They offer a truly flexible working environment and a competitive benefits and perks package to ensure they are building a truly diverse and competitive working environment! No need for web3 experience.
+
+Job requirements
+
+· Stack: JavaScript/Typescript, Node.js, GraphQL, REST
+· Solid experience in API design, technical documentation, databases
+· Extensive history on working in scalable production-ready applications using AWS services (Lambda, RDS, DynamoDB, Amplify)
+· Worked with source control systems such as Github
+· Expertise in quality, metrics and reporting tools
+· Worked with CI/CD pipelines, familiar with testing frameworks
+· Knowledge and experience of agile/lean processes and methodologies
+· Passionate about code quality, with high attention to detail
+· Ability to work cross functionally with product, design and development teams
+· Team worker and team builder, highly proactive in suggesting simple solutions to difficult problems.
+
+
+If you are interested in this role, please apply asap.

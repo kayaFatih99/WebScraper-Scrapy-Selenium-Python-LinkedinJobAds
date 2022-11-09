@@ -1,0 +1,38 @@
+About the job
+About Revolut
+
+People deserve more from their money. More visibility, more control, more freedom. And since 2015, Revolut has been on a mission to deliver just that. With an arsenal of awesome products that span spending, saving, travel, transfers, investing, exchanging and more, our super app has helped 20+ million customers get more from their money. And we're not done yet.
+
+As we continue our lightning-fast growth, we believe that two things are essential to continuing our success: our people and our culture. So far, we have 5000+ people working around the world, from our great offices or remotely, on our mission. And we're looking for more. We want brilliant people that love building great products, love redefining success, and love turning the complexity of a chaotic world into the simplicity of a beautiful solution.
+
+About The Role
+
+Our Technology team isn’t just one of the best in the industry, it’s one of the best in the world. And we’re proud of it. It’s our driving force; our engine 🚀 From building a new banking backend to creating an award-winning app, there’s nothing (and we mean nothing) our tech team can’t do. Our Technology team isn’t here to fix legacy systems – it’s here to build world-class financial products from the ground up. Products that will be used by millions of people around the world 🌎
+
+We’re looking for world-class Front-End Engineers to join our team of tech superstars and help manage our most precious asset 💎 Behind every great financial super app (that’s us), there’s a great front-end engineer (quite a few in fact). But we don’t want you hidden away. We like our front-enders front and centre. Making sure every feature runs just the way we want it too - and we’ve got a lot of features. It’s fast paced. It’s multi-faceted. It’s a lot of hard work but a lot of fun too 🎢
+
+Up for the challenge? Get in touch 👇
+
+What You’ll Be Doing
+Collaborating closely with product designers with a focus on new feature design and prototyping
+Being involved in the user experience design process, from wireframes and mockups through implementation and release
+Working closely with designers and business to define and implement elegant solutions to interesting problems
+Helping define and maintaining visual guidelines and ensure consistency throughout the app
+Fast prototyping of new user interactions and iteration based on feedback from peers
+
+What You'll Need
+Deep understanding of modern Javascript (ESNext), Typescript & browser APIs
+Proficiency with ReactJS and it's ecosystem, Styled components, Webpack module bundler
+Understanding of how software is developed, code quality principles & testing techniques
+Experience collaborating on software projects with design and backend aspects
+Quick learning skill with an ambitious and results driven personality
+Excellent communication and organisational skills
+The ability to work well as part of a team in a fast-paced environment
+English language proficiency
+
+Nice to have
+A GitHub account with some cool projects in it
+Amazing debugging skills
+Experience developing responsive mobile-first websites
+
+By applying for the above position, you will confirm that you have reviewed and agreed to our Data Privacy Notice for Candidates: https://www.revolut.com/legal/data-privacy-for-candidates

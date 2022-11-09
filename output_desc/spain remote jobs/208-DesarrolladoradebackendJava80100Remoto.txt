@@ -1,0 +1,21 @@
+About the job
+Desde Spring Professional seleccionamos un/a Programador-a Back-end Java con al menos 2 años de experiencia para nuestro cliente empresa tecnológica líder a nivel mundial con presencia en más de 50 países. Posibilidad de modalidad 80-100 % fully remote.
+
+Requisitos:
+4 años de habilidades de programación senior backend en Java 8, preferiblemente 11.
+Perfil SpringBoot, preferiblemente con conocimientos de la versión 2.2.4 en adelante.
+Prácticas sólidas de desarrollo, incluyendo revisiones de código, pruebas unitarias y pruebas de regresión.
+Conocimiento sobre Test Unitarios y de Integración.
+Conocimientos en Java - Spring Boot - Microservicios
+Git
+Maven
+Nivel de inglés B2
+Residencia en España
+
+Formación
+
+Licenciatura en Ingeniería Informática
+
+Experiencia
+
+Al menos 2 años de experiencia profesional.

@@ -1,0 +1,48 @@
+About the job
+Overview
+An exciting opportunity to join one of Europe's fastest growing health tech startups as a Senior Engineer. Cera’s vision is to empower people to live their best lives, in their own home, through the use of technology, professional care and support. Joining Cera, you are contributing to making this vision a reality. The work you do promotes the dignity, respect, independence and choice of our service users, enabling you to make a real difference. We are changing the way people receive care by empowering our professional carers with insight and improved decision making. We believe technology can enable carers to do what they do best, care.
+
+About the role
+The Back-End engineer is pivotal in supporting the creation of Cera’s solutions for both our carers and customers. A key focus of this role is to ensure that teams are enabled to develop Cera’s technology helping us to provide great care to all of our customers while improving the experience of everyone involved in care delivery. You will wear many hats in this role, working with our engineering teams (on and off shore), UX teams and Product teams. This requires a deep knowledge of our processes and a passion for using technology and people to improve them. Your work will have a huge impact on the way that care is experienced.
+
+About you
+You thrive in mission-driven organizations, working with collaborative teams who are passionate about utilising technology and building products to better the world around us. You have worked in an engineering role for around five years and champion development best practice. You have the ability to work with a number of scrum teams supporting them in their approach to software development and technical architecture.
+
+Role and responsibilities:
+Developing new features and APIs with reusability, scalability and performance in mind
+Participation in continuous improvement of the codebase, it’s architecture, testability and reliability
+Collaborating with team leads and architects ensuring the proposed solutions are technically feasible and scalable
+Collaborating with front end engineers and supporting their needs as a part of the feature development
+
+As an experienced Back End Engineer you’ll have experience of the following:
+Strong understanding of C#, .NET Core 3.1+
+5+ years of experience in building enterprise grade backend services in C#/.NET/.NET Core
+Experience in working with relational databases like MySQL, PostgreSQL and NoSQL databases eg. DynamoDB
+Supporting your code by writing unit tests and integration tests utilizing Gherkin/SpecFlow
+Experience with AWS infrastructure, dockerized environments
+Willingness to learn infrastructure as code (terraform) and it’s maintenance
+Working in agile environments
+
+Desirable experience for a Senior Engineer:
+Orchestrating and scaling microservices on AWS infrastructure
+Resiliency - monitoring, logging, raising alarms and diagnostics
+Asynchronous message based communication between the services, eventual consistency and the SAGA pattern
+Strong understanding of OOP in .NET Core applications
+Performance driven data layer design
+This is an opportunity for an experienced engineer to build meaningful technology that helps a growing aging population live healthier lives in their own homes.
+What we offer
+● Career development in an ambitious company - we’ll grow with you
+● Your choice of a Macbook or Laptop
+● Flexible and remote working
+● Competitive salary & discretionary bonus
+● 25 days paid annual leave, UK bank holidays & your birthday off
+● Recognition Awards
+● Group Pension Scheme
+● Lifeworks discount platform & Employee Assistance Programme
+
+Life at Cera
+We’re committed to creating an inclusive workforce. We believe in a world where you have the freedom to explore and express yourself without judgment, no matter who you are or where you’re from. Where you value yourself and feel proud of who you are. Where individuality is a source of confidence because difference makes the world a better place.
+
+Our team is made up of academics, innovators, start-up accelerators and care experts, all connected by a vision to build a better future for care through the combination of best-in-class carers, empowered by technology.
+
+You have the opportunity to join a purpose-driven company at the tipping point of transformation. You’ll play a key part in the evolution of Cera and make a real impact, now and in the future.

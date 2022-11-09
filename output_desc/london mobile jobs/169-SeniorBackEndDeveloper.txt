@@ -1,0 +1,37 @@
+About the job
+Description
+
+Founded by a team of Imperial College London alumni in 2016, Circadia is on a mission to fix healthcare from secondary ‘sick care’ to primary preventive care. We’re building an AI-driven platform consisting of hardware, clinic software, and predictive analytics to transform respiratory, sleep, and neurological care.
+
+Circadia has raised over $10M in VC funding from top-investors including Village Global (the venture firm backed by Mark Zuckerberg, Bill Gates, and Reid Hoffman), SOSV Ventures, CentreGold, and Particular Ventures. In 2018, Circadia soft-launched at TechCrunch Disrupt and was a Top Pick -- the world’s most prestigious startup competition -- and was featured by NASA in their Spin-Off Magazine.
+
+We are building the future of proactive, preventive, and personalized healthcare with continuous remote patient monitoring both in the hospital and at-home, tackling a $12B+ market opportunity, and we’re assembling a world-class team to help us get there.
+
+Our team represents the following institutions: Imperial College, University of Oxford, Harvard, Stanford University, UCL, UCLA, Novartis, NHS, and VA.
+
+We're looking for an amazing Back-End developer to help us with building our products for patients, physicians and providers You'd be an early member of the team and work cross-functionally with our Design, Product, and Front-End teams to build beautiful and elegant products. One thing is sure: your work will be impactful and will directly benefit patient outcomes.
+
+Requirements
+
+Bachelor's degree in Computer Science or equivalent quantitative field
+5 years+ proven software engineering experience, including design architecture
+Strong coding ability, able to work in large code-bases with fluency with experience in large-scale deployments
+Solid grasp of computer science, algorithms and data structures
+Experience with third-party libraries and APIs
+Experience with AWS
+Comfortable with networking fundamentals like Firewalls, Subnetting, Route tables etc. (especially for cloud-native environments)
+Experience with container technologies including Chef, Ansible, Puppet and Docker
+Knowledge of open source technologies such as Python, JavaScript, MERN stack
+Experience with configuration management and CI/CD - Jenkins, Chef, Ansible preferred
+Knowledge of MySQL, Redis, MongoDB, Nginx, Load Balancers
+Good grasp of current best practices in system security measures, including HIPAA compliance
+Hadoop, Elasticsearch, Kibana, Kafka beneficial, but not required
+
+Benefits
+
+A fast-paced and collaborative environment
+Build category-defining products
+Work with world-class talent
+A chance to be an early member of the team
+Make an impact, and help make everyone a genius at their job
+Travel expense reimbursement

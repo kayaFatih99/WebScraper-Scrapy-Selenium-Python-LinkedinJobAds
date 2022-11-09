@@ -1,0 +1,58 @@
+About the job
+Leadfeeder is a fast growing international SaaS scale-up. We are on a mission to bring web intelligence into business. Simply put, Leadfeeder helps companies know more about their website visitors, which enables them to convert promising visitors into sales leads.
+
+We’re excited to share that Leadfeeder has merged with Echobot, a leading provider of European Sales Intelligence. As a result, we now have 250+ team members based across 30+ countries and six offices across the US and Europe. Together, our companies are striving to be the leading sales intelligence and go-to-market platform in our core European and North American markets.
+
+Are you a self-starter looking to learn and grow as part of a world-class team? We are hiring many key people around the world to strengthen our rapid growth. Join our journey!
+
+We are organised in feature-oriented, cross-functional squads. Each squad is responsible for specific features of the product, and works tightly together with high autonomy.
+We pride ourselves on keeping apps working smoothly, and the codebase tidy and well-tested. We dedicate time for upgrades, refactoring, and overall improvements for developer productivity and happiness.
+
+We believe in listening to everyone's ideas and feedback – no matter what your role is, you get to have a say in the product and technical decisions of your squad.
+
+About the role:
+
+Backend software engineers in the Integrations squad are responsible for the parts of the system that interact with third-party applications on the user’s behalf. For example, a user might send a lead from Leadfeeder to their CRM (say, Salesforce or Pipedrive), or wish to see which of their Mailchimp recipients has interacted with a certain page.
+In practice, this means writing well-structured code that can be shared between integrations, dealing with multiple third-party APIs (and the problems that come with them), and handling large volumes of data. Our work connects Leadfeeder to the user’s workflow and processes, and so is of the utmost importance.
+We work with a broad range of technologies including Ruby on Rails, Sidekiq, Redis, gRPC, Elasticsearch, Kubernetes as well as several AWS-managed databases and other services.
+
+What you’ll work on:
+
+Build public and private APIs to support development of new features and products, coordinating with PMs and front-end developers
+Deal with third-party APIs to add functionality to our existing integrations, as well as create brand new integrations
+Use multiple relational and non-relational databases (including Elasticsearch) to store our users’ data and metadata
+Help our customer success engineering team resolve edge-cases and other issues on our users’ behalf (no matter how good our code, we are dealing with ever-changing third-party APIs!)
+Use various APM tools to monitor performance and identify issues and ensure that proper alerting is in place
+With the help of Site Reliability Engineers, use Terraform to update and extend our AWS-based infrastructure
+Provide code reviews to your peers
+
+
+What you bring:
+
+Over 5 years of working experience writing maintainable and well-tested Ruby applications
+Experience with relational and non-relational database technologies
+Skills and the right mentality for test automation
+Ability to help and improve the work of your colleagues through your teamwork and communication skills
+Experience managing, monitoring and troubleshooting production-grade web applications
+Be physically located within European timezones
+
+Additional, we appreciate:
+
+Experience in working with third-party APIs (API clients, typical problems, etc.)
+Knowledge of and experience with various CRM systems (Salesforce, Pipedrive, HubSpot, Zoho, etc.)
+Expertise in writing data-intensive, horizontally-scalable applications
+Experience in designing and implementing APIs (especially using the JSON-API standard)
+Knowledge and interests in DevOps, AWS, Terraform, Docker, Kubernetes
+Experience with serverless computing (AWS stack in particular)
+
+Benefits:
+
+The chance to work with a very knowledgeable, high-achieving and fun team
+An international and diverse work atmosphere
+The opportunity to work remotely in a fast-paced and results-oriented startup environment
+Personal budget for home office improvements
+Company hardware or monthly financial support for using your own equipment
+Flexible working hours
+Access to weekly yoga / fitness / meditation classes online
+Mental Health support
+Bi-annual company retreats

@@ -1,0 +1,47 @@
+About the job
+We are seeking a Senior Backend Engineer with a wide breadth and depth of knowledge in Python and Django framework. With experience of designing, building and running low latency, scalable reliable and secure Cloud-based systems for a large number of users. We are at a pivotal stage in maturing our delivery capability at Cybersmart, and a crucial aspect is how we deliver working software in an incremental manner, improving our processes, teams and ‘ways of working’ as we drive for that change.
+
+We believe in ownership, and want to empower our experts in utilising their skill sets in a collaborative and supportive agile working environment that is focused on developing our product to the next level.
+
+We have a wealth of opportunities and problems to solve. If you are looking to make an impact; to be part of a team where your thoughts are heard and given space to develop, as well as the autonomy to thrive in a role, we want to hear from you.
+
+Key Tasks and Responsibilities will be to:
+Collaborate and build our quality assurance understanding, process and techniques at Cybersmart, driven by involvement in our Objectives and Key Results ( OKRs)
+Responsible for the design, development and maintenance of server-side features, for a Cloud-based product.
+Take responsibility for architecture of their own projects and working collaboratively with the operations team
+Working with the product team to understand desired functionality, acceptance criteria, complexities and risks
+Deliver robust implementations and clean code working with TDD
+Supporting and Mentoring engineers in good engineering practices
+Championing developers within the development cycle
+
+Requirements
+5+ years of hands-on experience in Python development
+5+ years experience building production software or web applications focusing on writing clean, well-designed, and scalable code
+Strong experience of Django framework
+Good knowledgeable of back-end systems and RESTful architectures exposing
+Demonstrated experience in designing and building high-performance, highly available and scalable services
+2+ years of designing scalable RDBMS and NoSQL databases (eg MongoDB,
+Redis)
+Solid understanding of TDD and CI/CD
+Experienced with AWS or other cloud platforms
+Proven ability to deliver commercial software to deadlines
+Experience working in a remote team
+
+Benefits
+A competitive salary
+25 days holiday plus all UK Bank Holidays
+Your birthday off in addition to your holiday entitlement
+1 days additional holiday entitlement for every year with the company (up to 5 years)
+Employee equity options
+Pension Scheme
+Access to Perks: discounts that save you money in the places you shop the most
+Learning and personal development annual grant (£2,000)
+Personal development annual grant (£500)
+Work at home office provision grant (£500) in year 1
+Flexible working hours and working from home
+Regular team breakfasts and lunches
+Full access to our Mental Health & Wellbeing Network, Spill
+Monthly fun activities, chosen by the team, that are not based around the pub!
+A great, friendly team, who work to support each other
+Beautiful workspace in Shoreditch- flooded with natural light, filled with plants, free tea and (good) coffee
+The latest technologies to keep you productive. Our office has dual-screen workstations and we will support you with the necessary equipment for home working.

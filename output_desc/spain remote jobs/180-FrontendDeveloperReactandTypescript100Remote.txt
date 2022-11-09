@@ -1,0 +1,41 @@
+About the job
+Frontend Developer (React) - 100% Remote|International SaaS company focused on Automotive and Transport innovation.
+
+About Our Client
+
+Our client is one of the leading companies in terms of Automotive and Transport innovation.
+
+They focus they work on the development of technical products which increases the performance and the efficiency of the traffic and Autonomous Vehicle. They are a team of more than 15 engineers, also complemented by Data engineers, Data scientists, Devops, PO and Mathematicians who will also take part of the challenge.
+
+They are currently working in Agile methodology with sprints of 2 weeks.
+
+Job Description
+
+Collaborate into the end-to-end life-cycle of features, from concept to deployment.
+Be part of technical and architectural decision-making.
+Crate high quality code using React.js with Typescript.
+Assure the quality of the product and specially your code through testing and best practices.
+Coordinate your work with other departments (Data, Maths, Infrastructure and Business), and work as a Team.
+The Successful Applicant
+
+Have 1+ years of experience with React.
+Have 2+ years of experience as a Front-end Developer.
+Good knowledge of Typescript.
+Experience with other JavaScript frameworks like Angular, Node.js or Vue.js, will be well valuated, but not mandatory.
+Experience with some Back-end languages like C, C++, Java or Python is a plus, but not mandatory.
+Experience with unit testing using Jest or Testing library.
+Proactive attitude.
+Fluent English.
+What's on Offer
+
+100% Remote.
++2420€ each year in terms of Ticket Restaurant.
+Free health insurance for you and your family.
+Free Life insurance.
+Laptop + Display.
+Annual salary reviews.
+Contact: Pierre Rivenc
+
+Quote job ref: JN-082022-5730844
+
+Brand: PP

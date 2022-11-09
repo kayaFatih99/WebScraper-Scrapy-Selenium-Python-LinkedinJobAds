@@ -1,0 +1,29 @@
+About the job
+Intellect Bay is a tech startup in the Higher Education field. Intellect Bay is a platform that helps PhD's and PhD Candidates to find positions at the institutions of higher education as faculty, administrators, and academic executives.
+
+We are also in the process of providing content on professional and academic career development to the candidates.
+
+We are looking for a full-stack web developer who can build some new features in the platform. The new features have been fully designed (wireframes) and need to be built. The new features will include integration of a payment gateway (e.g., Stripe).
+
+The website is built using Angular and JS.
+
+To be successful in this role, you have to have worked with Angular, JS, and have integrated payment gateways like Stripe in the past.
+
+We are looking for an entrepreneurial developer who could be our potential technical partner (co-founder). We will be happy to share equity with the potential partner.
+
+There will be little to no payment before we secure seed-investment!
+
+This is really a great opportunity for someone who is entrepreneurial and innovative and has potential to grow and lead.
+
+Qualifications:
+BS in Computer Science, or a related area.
+Preferably, an advanced degree in Computer Science, or a related field.
+
+Skills:
+Being innovative and having entrepreneurial passion for potential partnership and working for a company which you own part of.
+Professional full-stack we developer
+Angular; JavaScript
+Payment gateway integration
+Some experience building a booking feature, or integration with Calendly or similar service.
+
+It's urgent! So, apply if only you want hit the ground running!

@@ -1,0 +1,17 @@
+About the job
+OPM are delighted to be working with a team of veterans from the gaming and esports industries hard at work to create their first great multiplayer FPS title! Our client is looking to add an experienced Backend Developer who is passionate about shaping the project.
+As a Game Services Backend Developer you will help shape and build the infrastructure that operates the meta-game of our clients upcoming competitive First Person Shooter.
+This is a progressive Studio who offer benefits such as 5-week vacation, a sustainable and flexible work life & employee stock option plans - You will help develop their goal of using cutting edge technology to empower and reward communities around their projects with interests ranging from casual play to esports and even to creators and modding.
+RESPONSIBLITIES:
+Implement critical systems for developing the Meta-Game Services, including:
+Client telemetry and game analytics
+Digital item inventory and trading
+Creator and player marketplace (listings, order book, payment rails)
+Fully own backend services design and implementation
+Integration of external services i.e. Epic Online Services, Steam, PlayFab.
+Maintenance of client SDKs, vendor APIs and administrative features
+REQUIREMENTS:
+Extensive knowledge of professional full stack or backend development experience
+Superb understanding with game services like matchmaking, lobbies, inventories, UGC.
+Experience developing using cloud solutions (AWS, Google Cloud, Azure, etc.)
+Mastery in one or more relevant languages - Java, Golang, C/C++, Python

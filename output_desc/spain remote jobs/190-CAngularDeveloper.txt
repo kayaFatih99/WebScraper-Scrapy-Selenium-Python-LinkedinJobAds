@@ -1,0 +1,59 @@
+About the job
+Company Description
+
+We help the world see new possibilities and inspire change for better tomorrows. Our analytic solutions bridge content, data, and analytics to help business, people, and society become stronger, more resilient, and sustainable.
+
+Job Description
+
+Job Description
+
+As a multi-platform developer, you will have a strong desktop or full stack web development and Computer Science background. We are searching for employees to join our prestigious international company in a stable and long-term relationship with many and important opportunities to learn and grow. You will work closely with a cross-functional team of back-end and front-end developers, cloud developers, QA analysts, project managers and designers to build cutting-edge applications to manage spatial information. Your ability to focus on details and passion for precision & accuracy will be instrumental to your success. Excellent communication and interpersonal skills will make you effective in your role.
+
+In Addition, You Will
+Work on a team of developers to accomplish collective goals every sprint.
+Provide feedback to team members to increase effectiveness of processes.
+Build products by improving performance of our code and handling scaling issues to accommodate user growth.
+Create new products and features to match business needs.
+Aid in definition and implementation of specifications for new applications and features.
+Maintain current products while keeping technical debt to a minimum.
+Qualifications
+
+What You Need to be Successful (Minimum Qualifications)
+Ability to create simple and well-designed solutions to complex software problems.
+Quick learner that thrives in a team environment.
+You will be programming mostly in C#. You must have knowledge in similar languages so that you can learn it quickly if you haven't mastered it already.
+You will also be programming in Typescript using Angular, so you must have knowledge in this language using frameworks like Angular 4+ or ReactJS.
+Experience with user interfaces, algorithm optimization, networking, threading.
+Some knowledge of automatic testing and CI / CD.
+Good written and verbal communication skills.
+Well organized with meticulous attention to detail – Getting it right is our top priority.
+What Will Make You Stand Out (Preferred Qualifications)
+Well-versed in Computational Geometry and proficiency dealing with spatial problems.
+Experience developing game and/or CAD applications.
+Cloud computing, Docker, AWS, Azure, etc.
+Knowledge with any 3D framework (unity, babylon, filament...)
+You will be working very closely with the teams in the US and other international locations, therefore you MUST be proficient in conversational and written English.
+
+Additional Information
+
+At the heart of what we do is help clients manage risk. Verisk (Nasdaq: VRSK) provides data and insights to our customers in insurance, energy and the financial services markets so they can make faster and more informed decisions.
+
+Our global team uses AI, machine learning, automation, and other emerging technologies to collect and analyze billions of records. We provide advanced decision-support to prevent credit, lending, and cyber risks. In addition, we monitor and advise companies on complex global matters such as climate change, catastrophes, and geopolitical issues.
+
+But why we do our work is what sets us apart. It stems from a commitment to making the world better, safer and stronger.
+
+It’s the reason Verisk is part of the UN Global Compact sustainability initiative. It’s why we made a commitment to balancing 100 percent of our carbon emissions. It’s the aim of our “returnship” program for experienced professionals rejoining the workforce after time away. And, it’s what drives our annual Innovation Day, where we identify our next first-to-market innovations to solve our customers’ problems.
+
+At its core, Verisk uses data to minimize risk and maximize value. But far bigger, is why we do what we do.
+
+At Verisk you can build an exciting career with meaningful work; create positive and lasting impact on business; and find the support, coaching, and training you need to advance your career. We have received the Great Place to Work® Certification for the fifth consecutive year. We’ve been recognized by Forbes as a World’s Best Employer and a Best Employer for Women, testaments to our culture of engagement and the value we place on an inclusive and diverse workforce. Verisk’s Statement on Racial Equity and Diversity supports our commitment to these values and affecting positive and lasting change in the communities where we live and work.
+
+Verisk Analytics is an equal opportunity employer.
+
+All members of the Verisk Analytics family of companies are equal opportunity employers. We consider all qualified applicants for employment without regard to race, religion, color, national origin, citizenship, sex, gender identity and/or expression, sexual orientation, veteran's status, age or disability.
+
+http://www.verisk.com/careers.html
+
+Unsolicited resumes sent to Verisk, including unsolicited resumes sent to a Verisk business mailing address, fax machine or email address, or directly to Verisk employees, will be considered Verisk property. Verisk will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.
+
+Consumer Privacy Notice

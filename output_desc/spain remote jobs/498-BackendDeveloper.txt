@@ -1,0 +1,41 @@
+About the job
+¿Eres un apasionado de la programación?
+
+En idealista, estamos ampliando nuestro equipo perfiles tanto junior como senior para nuestro equipo de tecnología.
+
+Sí te gusta estar rodeado de buen@s compañer@s, trabajar con buen rollo y en un ambiente colaborativo ¡sigue leyendo! seguro que idealista te va a gustar 😉
+
+¿Qué harás?
+
+Trabajarás junto a tus compañer@s del equipo desarrollando nuevas funcionalidades.
+Tendrás un trato fluido con la gente de negocio para poder entender sus necesidades y problemas. Además, trabajarás codo con codo con nuestro equipo de producto y UX para aportar una visión técnica a las soluciones que definamos para los mismos.
+Ayudarás a que la plataforma esté estable…Sí, en idealista también tenemos bugs, así que tendrás que ayudar a identificarlos y solucionarlos.
+¿Qué te ofrecemos?
+
+Ahí va:
+
+Podrás ver el impacto directo de tu trabajo en una de las webs de referencia tanto en España, como en Italia y Portugal. Para los que no lo hayáis vivido ya: no sabéis el cosquilleo que da en la tripa la primera vez que ves algo que has hecho en una plataforma que utilizan millones de personas.
+La vacante es full remote pero disponemos de oficinas en el centro de Madrid y distribuídas en entornos de trabajo colaborativos.
+Vas a aprender. Lo decimos en serio. La plataforma va evolucionando constantemente, y de ahí sacamos mogollón de charlas internas, posts, talleres… que hacen que el conocimiento fluya.
+Además... patrocinamos eventos, acudimos a ellos y hacemos meetups en la oficina. ¡Es tan importante aprender como enseñar a tus compis!
+Además de tu salario, podrás acogerte a un plan de retribución flexible (tarjeta de transporte, cheques gourmet, seguro médico…) del que te podrás beneficiar desde el primer día.
+Clases de Inglés, italiano y portugués.
+Fruta fresca y café siempre disponible en la cocina.
+¡También tenemos fisio y clases de yoga en la oficina… porque para nosotros lo más importante es cuidar de nuestros idealistas!
+Además de trabajar, nos gusta pasarlo bien, por eso que si te unes a nuestras familia, cada mes celebrarás algo…Halloween, San Valentín, Navidad,…¡Te lo vas a pasar muy bien!
+Relocation en tus primeros días en Madrid, sabemos que cambiar de casa no es una tarea sencilla.
+
+¿Qué esperamos de ti?
+
+Tienes al menos 1 año de experiencia desarrollando el backend de alguna aplicación, y nos puedes hablar de ello.
+Nosotr@s trabajamos principalmente con Java y Spring pero lo que de verdad nos interesa es que tengas ciertos fundamentos de programación bien asentados: no importa con lo que qué hayas trabajado hasta ahora.
+No te quedas en el “con que funcione vale”. Nosotr@s damos mucho valor tanto a las buenas prácticas, como a definir diseños y arquitecturas que nos permitan extender la plataforma de manera sostenible. Así que esperamos que estos sean términos a los que tú también les des importancia
+Nosotr@s trabajamos en equipo. El equipo son tus compañer@s; pero también lo es la gente de producto y UX, así como la gente de negocio, etc.
+Te gusta este mundillo. Y te encanta saber que vas a tener que estar aprendiendo durante toda tu vida laboral. Además, eres lo suficientemente humilde como para aceptar las enseñanzas de tus compañeros, y lo suficientemente generoso como para compartir con ellos tu conocimiento :)
+Tienes curiosidad e iniciativa. Al final, este trabajo va de los problemas que somos capaces de resolver y de cómo logramos hacerlo. Así que se espera de ti que seas capaz de analizar, preguntar, pedir ayuda (y ofrecerla), y saber plantear soluciones a los mismos.
+¿Qué otras cosas son un plus?
+Además de haberte pegado con la parte de backend, tienes soltura con el front.
+Sientes curiosidad y has experimentado al menos con otros paradigmas de programación como la programación funcional.
+Valoramos además que te desenvuelvas mínimamente en la lengua de Sheakespeare. A nivel de lectura es indispensable, porque el 80% del material técnico en nuestra profesión es en inglés. Si además lo hablas con cierta soltura, muchísimo mejor!
+Estamos deseando conocerte y que nos conozcas.
+¿Aceptas el reto?

@@ -1,0 +1,53 @@
+About the job
+Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favourite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That’s the power of data in motion in action—giving organisations instant access to the massive amounts of data that is constantly flowing throughout their business. At Confluent, we’re building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organisation. With Confluent, organisations can create a central nervous system to innovate and win in a digital-first world.
+
+We’re looking for self-motivated team members who crave a challenge and feel energised to roll up their sleeves and help realise Confluent’s enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you’re just starting out in your career or managing a large team, you’ll be amazed at the magnitude of your impact.
+
+About The Team
+
+We are looking for strong full stack developers to help us build out an elastic, scalable, efficient, SQL-based, stream processing technology which operates both on-premises and in the Cloud. You can learn more about what we do by visiting ksqldb.io, or reading some of our recent posts on improving the availability guarantees of our distributed, stateful, systems. The ideal applicant has backend + infrastructure chops, but is also interested in building engaging and insightful products for managing and visualizing large scale distributed real-time data streams. Data flow is central to how companies operate and we aim to make that experience intuitive and attractive. As a full stack software developer, you will be responsible for creating new visualizations and interfaces that can scale with Apache Kafka.
+
+About Our Stack
+
+Multiple SPAs written in React over a common codebase using Yarn Workspaces
+Code verification done with comprehensive linting, type checking and unit + e2e tests
+Deployments happen daily with the ability to test each and every commit in production (even PRs)
+Feature flags unblock us from coordinating releases with backend teams
+Java + Go backend, deployed on Kubernetes
+Bots keep all of our dependencies up to date
+
+What You Will Do
+
+Designing and implementing new stream processing operators, including making extensions to the SQL language to incorporate streaming concepts
+Improving the performance, scalability, and elasticity of core stream processing technology like Kafka Streams
+Designing solutions to improve the efficiency, reliability, and operability of our distributed, stateful, data processing systems in public clouds
+Building novel solutions to enable efficient and scalable querying of state materialized from real time event streams
+Interacting with the Apache Kafka and the ksqlDB communities to provide technical guidance and thought leadership in the stream processing space
+
+What We’re Looking For
+
+Bachelor's degree in Computer Science or similar field or equivalent
+Strong fundamentals in distributed systems design and development
+Experience building and operating large-scale systems
+Solid understanding of basic systems operations (disk, network, operating systems, etc)
+A self starter with the ability to work effectively in teams
+Proficiency in Java or C/ C++
+Experience building client-side web applications for data-intensive applications
+Excellent understanding of modern JavaScript, typing in JS, HTML5, and CSS
+Experience with React/Flux (or equivalent), modern JavaScript tooling/Webpack/Babel
+Strong foundation in algorithms and application design
+Experience with writing/monitoring/managing large scale system deployments
+Experience decomposing large, monolithic code bases
+
+What Gives You An Edge
+
+Experience in open-source development
+Experience using Apache Kafka is a big plus
+Interest in evangelism (giving talks at tech conferences, writing blog posts evangelising Kafka)
+Experience working on stream processing technology or query processing systems
+
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact.
+
+Click here to review our California Candidate Privacy Notice, which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.

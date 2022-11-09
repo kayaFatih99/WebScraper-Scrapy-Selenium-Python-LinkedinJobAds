@@ -1,0 +1,55 @@
+About the job
+We are a high-growth FinTech start-up using data and machine learning to revolutionize the insurance industry. You will be joining a strong and mission driven team, working to build products that are fundamentally changing the way insurers see the world, enabling them to move from an assumption-based understanding of risk to an empirical, data-driven view.
+
+The Role
+
+You will be helping to build Cytora’s Underwriting Productivity Suite, a serverless based web application that increases the efficiency and effectiveness of underwriters thereby reducing expense ratios and delivering profitable growth to our customers.
+
+Our team is multidisciplinary, composed of UX designers, QA engineers, frontend/backend engineers, and product managers working together to build powerful solutions that allow our clients to integrate Cytora’s data and automation features into their insurance workflows.
+
+Along with core technical skills, we are excited about colleagues who bring passion for the craft of inventing and building products from the ground up. This means providing feedback to product managers and the wider company, contributing to roadmaps, and bringing your creativity to bear by suggesting features and improvements based on your technical understanding of what is possible and needed. As the technical face of our product, we are looking for someone who is customer-centric, values-driven, and collaborative with great communication skills.
+
+What working as a Senior Engineer at Cytora looks like:
+
+You will work in an agile, multidisciplinary team of UX designers, engineers and product managers to build powerful solutions that allow our clients to benefit from Cytora’s data and automation features. At Cytora, our values are at the core of our teams and our products. We put the customer first, ship fast, and iterate.
+
+You will be working on some of the company’s biggest challenges, including scaling our data processing pipelines (built using Python, Go, Spark, ElasticSearch, Docker, AWS and TensorFlow/Keras)
+
+We are looking for candidates who are driven to build effective technology solutions that solve significant real world problems.
+
+As a Senior Software Engineer at Cytora, we would also want you to contribute to higher level technical architecture discussions and take opportunities to mentor and coach less experienced colleagues.
+
+Location
+
+Cytora are a remote-first company. You can be located anywhere within a reasonable timezone difference with London, UK.
+
+Requirements
+
+What we look for in candidates:
+Strong programming skills gained in a production environment - we use Go and Python but are open to Engineers from any background
+Pragmatism about the tradeoffs between perfection and speed
+Strong commercial awareness and drive to build only those things that create the most business value for our customers
+Desire to work in an agile environment
+Drive for continuous improvement in software and development processes (obsessed with developer experience generally, including continuous delivery and automated testing)
+Great team player and ability to help coach and mentor junior members of the team
+Strong communication skills, with the ability to talk to colleagues about your work in a way that educates and inspires
+
+Nice to Have:
+Startup experience: building working products quickly
+A passion for working with large scalable architectures which implement best coding practices, design systems, and testing
+Exposure to (or interest in) machine learning and natural language processing
+We use Docker/Kubernetes for continuous integration, so familiarity with concepts around containerisation would be useful
+
+Benefits
+Stock options
+Enhanced parental leave
+Private health insurance - UK only*
+Choice of laptop
+Flexi-working
+£2000 travel budget
+Company trips
+We employ people across the UK and EU (using a 3rd party Employer of Record model), and inevitably the benefits that we can offer vary slightly in different territories, due to local employment law and feasibility. Our salary range does not vary depending on territory.
+
+Equal Opportunities
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

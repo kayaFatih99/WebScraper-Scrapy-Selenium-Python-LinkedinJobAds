@@ -1,0 +1,9 @@
+About the job
+Cloud Native Backend Developers
+Accenture Technology es el lugar perfecto para candidatos que buscan tener una exitosa carrera en el mundo de la tecnología, acceso a las tecnologías más punteras y a los programas de entrenamiento más modernos del mercado.
+
+Estamos buscando desarrolladores backend que tengan al menos dos años de experiencia con Java, Spring Boot y Microservicios para crecer en el mundo de las tecnologías cloud.
+
+Estarás utilizando tecnologías como Kubernetes, Open Shift, Docker Enterprise, or Cloud Foundry, Java, Spring Boot, Nodejs, Python.
+
+Si estas interesado/a en esta posición no dudes en aplicar aquí, estaremos encantados de compartir todos los detalles contigo.

@@ -1,0 +1,83 @@
+About the job
+Join our global team of 450+ craftspeople! We are a consultancy that solves business problems by designing and building highly complex custom software for the world's leading companies. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
+
+At this time we are moving slowly with this role, anticipating a need in the next 30-60 days.
+
+WHAT YOU'LL DO
+As Frontend Engineer you will work on Agile, cross-functional squads to scope, design and build scalable, performant and secure web applications. You will code, create, and review pull requests daily and engage the client to research and discover the "why" and propose and deliver optimal solutions.
+
+WHO YOU ARE
+As our Frontend Engineer, you have deep knowledge of the JavaScript language and experience working with modern React and common React packages. You have a thorough understanding of the options and tools available for managing an application’s state and their underlying functional programming concepts.
+
+You are a passionate technologist with the discipline to create and finish projects. You have opinions about your favorite open source projects, or perhaps you have contributed to some or started one of your own. You are a great communicator and are active in your development community. Whether you are raising the flag within an implementation or sharing your favorite playlist in Slack, you will not shy away from letting your voice be heard.
+RESPONSIBILITIES AND DUTIES
+Write clean, efficient, performant and secure code to build web applications
+Provide input on app architecture
+Work with product designers and clients to clarify requirements
+Plan, estimate and prioritize work on a cross functional collaborative team
+Collaborate in a consultative environment
+Guide our clients in best practices in order to achieve great project success
+
+QUALIFICATION AND SKILLS
+5+ years of professional development experience
+Strong front end development experience ideally with single-page applications
+2+ years of experience with 2 or more of the following frameworks & libraries, and programming languages including, but not limited to React, Redux, Thunk/Saga, Immutable, VueJS, NodeJS Docker, AWS, Glamorous.
+Strong experience using vanilla JavaScript is required
+Practical knowledge of Typescript is required, and production experience is a strong plus
+Previous experience collaborating in a quality-focused environment where testing and reviewing is a part of the everyday process
+Strong experience with semantic HTML and familiarity with web accessibility best practices
+Familiar with various approaches to styling - from plain CSS to CSS-in-JS, and methodologies for organizing CSS
+You are familiar and are comfortable using design tools such as Illustrator, Sketch, Zeplin, Figma, Principle, Framer or similar is helpful
+Experience with modern UI/UX design principles is a strong plus
+Experience with modern backend technologies and API design/best practices is nice to have
+Experience with containerization and orchestration tools (Docker and Kubernetes) is a bonus
+Experience with deploying into and managing cloud providers (Azure, AWS, GCP, etc.) is a bonus
+Previous experience collaborating on highly distributed teams is a plus
+Previous consulting experience is preferred
+Experience working within an Agile/Scrum environment.
+Possess a strong and reliable internet connection.
+Align a portion of your day with the business hours. This is a fully remote role.
+
+YOU WILL BE SUCCESSFUL WHEN
+You are able to hit the ground running within your area of expertise and are not afraid of challenges outside of it
+Thrive on collaborating with other team members and across disciplines
+You are happy to receive feedback and see it as an opportunity for reflection and improvement
+You are always learning - Whether you are learning to help your team and customer work through new concepts and technology
+You are astute, you know when to push an issue and when to let things lie
+You are friendly - you reach out to your teammates even if they aren’t on your project team
+You can work through ambiguity - you aren’t shy about asking questions to gain clarity
+Entrepreneurial and intrapreneurial - always on the lookout for new opportunities to improve the company externally and internally
+
+Unsure if your skills meet all of our requirements?
+Apply anyway! We would love to meet you and find out more about how your skills could add value. At TheoremOne, we value open communication and feedback. We believe that diversity of identity, perspective, and experience makes us stronger; we would love to hear your perspective too!
+
+Recording disclosure
+TheoremOne records interviews so that we can focus on delivering a great interview experience. If you are uncomfortable with being recorded, please let our recruiters know when they reach out to you.
+
+About TheoremOne
+Founded in 2007, TheoremOne LLC is a remote-first technology consulting company, globally distributed by design. We are privately-owned and committed to building a sustainable organization. Our services range from:
+
+-New product development
+-Pure R & D
+-Legacy modernization
+-Revenue generation
+-Process optimization
+-Organizational transformation
+
+If it’s cool and engaging in technology, we are likely working on it.
+
+Customers come to us because they need to change to succeed and are looking for a solution that isn't just about technology — but also people, process, and leadership. We consult, form a diverse team of experts, and deliver strategy and execution under one roof.
+
+Consultants come to us for the autonomy, depth of project, and challenge of working with a wide range of clients across multiple platforms and industries.
+
+Our contributors are master puzzle solvers in a vast range of technologies.
+
+Benefits and Perks
+100% REMOTE - We're fully distributed
+TEAM RETREATS - We value our face to face interaction, so our team enjoys regular retreats (on pause due to Covid-but will kick back off when safe and compliant)
+EDUCATION AND CAREER GROWTH - We encourage our team to undertake any professional growth opportunities available, and we offer programs and financial assistance to achieve this!
+HEALTHY BODY, HEALTHY MIND - HAPPY TEAM - We offer paid vacation and support healthy lifestyles through our physical fitness benefits program.
+COMPANYWIDE VISIBILITY - We operate in a fully transparent environment to ensure we as a company and team have full understanding of where we came from, and where we are going.
+HEALTHCARE & FINANCE - For US & UK based full time employees; we have comprehensive benefits.
+
+#LI-Remote

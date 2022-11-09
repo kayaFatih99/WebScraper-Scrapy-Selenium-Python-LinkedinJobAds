@@ -1,0 +1,42 @@
+About the job
+With over 80 years as an industrial technology leader, Kennametal Inc. delivers productivity to customers through materials science, tooling and wear-resistant solutions. Customers across aerospace, earthworks, energy, general engineering and transportation turn to Kennametal to help them manufacture with precision and efficiency. Every day approximately 8,600 employees are helping customers in more than 60 countries stay competitive. Kennametal generated nearly $1.8 billion in revenues in fiscal 2021.
+Learn more at www.kennametal.com. Follow @Kennametal: Twitter, Instagram, Facebook, LinkedIn and YouTube.
+
+
+Adobe AEM Full Stack Lead Developer
+
+
+Kennametal is looking for a Full Stack Lead Developer very strong in UX / UI as well as experience in back-end development, who will help drive the success of key Kennametal digital marketing and ecommerce initiatives. You will be part of the team that designs and development across our digital platform which includes Adobe AEM and SAP C4 Commerce. You will also be engaged in the creation and maintenance of content and ensure coding standards, best practice, and code quality. You will also collaborate with a cross-disciplinary community of visual designers, experience designers, full-stack developers, and producers to build outstanding Interactive experiences.
+
+
+
+Experience/Skillset:
+
+8+ years’ professional development experience with at least 6 years of experience with AEM development (very strong front-end development)
+Experience architecting complex AEM solutions, including integrations with third parties and thorough understanding of the following:
+Building sites, templates, components, or integrations with Adobe Experience Manager
+Multi-site manager (including Live Copy, rollouts, etc.), workflows, and translations
+Maven, including experience with Adobe archetypes
+Sling and Sling models
+Working knowledge and understanding of the following: JCR, Apache Sling, Apache Felix, OSGi, REST, JavaScript, jQuery, AJAX, JSON, HTML, CSS
+Experience with any templating techniques, google maps api, web optimizations, figma
+Experience with AEM and associated content and UI technologies
+Ability to use Flex/Grid layout and latest CSS techniques
+Experience in frontend and back-end web development with on AEM.
+Strong communication skills
+
+
+
+Responsibilities:
+
+Ability to improve customer experience, UI, site design, order fulfilment and optimization / efficiency of online businesses
+Capture & refine requirements and develop high quality code based on AEM best practices
+Be an expert in UI development including knowledge of UX best practices and pattern library development.
+Knowledge about other marketing technologies such as e-commerce, social media, search, web analytics and behavioural targeting
+Participate in the oversight of 3rd party integration development initiatives and other system integrations, providing design specification oversight and vendor verification/direction
+Implementing test cases to demonstrate the functions execute correctly
+Investigation and fixing of reported defects
+Recommend best practice implementations of features and integrations
+
+
+Equal Opportunity Employer

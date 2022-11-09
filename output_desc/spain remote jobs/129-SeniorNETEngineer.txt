@@ -1,0 +1,72 @@
+About the job
+We are on a mission to make science open so everyone can live healthy lives on a healthy planet
+
+Who We Are
+
+Frontiers is an award-winning open science platform and leading open access scholarly publisher.
+
+We are one of the largest and most cited publishers globally. To date, our 200,000 freely available research articles have received more than 1 billion views and downloads and 2 million citations. Our journals span science, health, humanities and social sciences, engineering, and sustainability. And we continue to expand into new academic disciplines so more researchers can publish open access.
+
+Be part of the publishing revolution and help us transform the way research is published, evaluated, and communicated to the world.
+
+Description
+
+We are looking for an enthusiastic .Net Core full stack developer that helps us to design and build a new generation of tools that will transform open-access publishing (see a video from our CEO about Open Science). You will be working in a Cloud environment with Microsoft Azure and developing .Net Core applications and APIs.
+
+Our technology stack also includes a wide variety of technologies such as NoSQL databases, Message Queuing systems, front end JavaScript frameworks, among others. If you have worked before with these technologies, that would be a plus. Otherwise, this can be a great opportunity for you to get familiar with them.
+
+You will work in an Agile Team along with other talented developers. Supported by a Team Lead, QA and Product Manager. The team works in 2 week Sprints.
+
+In Frontiers we’re on a mission to make all science open so everyone can live healthy lives on a healthy planet, if this resonates with you maybe you are the engineer we are looking for!!!
+
+What you will do:
+Develop full stack .Net Core applications
+Write scalable queries that impact millions of records while keeping execution time low
+Develop performant REST APIs that expose data and services to other systems
+Collaborate and coordinate with other teams and roles within company
+Participate in your team's Agile processes
+Initiate and participate in technical discussions where many tools, architecture approaches and processes are on the table
+Start code review process and discuss solutions with the team in order to improve quality and share knowledge
+Contribute to overall software quality by writing SOLID and testable code
+Be willing to take ownership of the quality of the software from beginning to end
+
+What we are looking for:
+5+ years in a similar role
+Proficiency with C# and T-SQL
+Knowledge about Vue.js or any other front end JavaScript framework
+Knowledge in development methods, best practices, conventions, algorithms and design patterns
+Individuals with a curious mindset and willingness to learn new things
+Courageous individuals who are not afraid to fail and learn from mistakes
+English is our working language; you need to be fluent and able to express yourself
+
+Nice to have:
+Experience with MongoDB, Elasticsearch or any similar NoSQL technology
+Experience with queues messaging systems like RabbitMQ or Kafka
+Experience releasing software with Azure DevOps or similar
+Experience with Azure data integration and transformation services
+
+Benefits
+
+With more than 50 nationalities represented in our global team, you will work regularly with teammates in other countries, and with our community of researchers, editors, and authors from around the globe.
+
+Our mission to create solutions for healthy lives also extends to the working environment we provide for our employees.
+
+This includes:
+
+100% remote working
+
+Employees now have the flexibility to choose where they want to work, with remote working available on a part- or full-time basis (not applicable to some Workplace/IT jobs due to nature of role requiring presence onsite, in the office).
+
+Learning and development
+
+All employees have access to LinkedIn Learning (and Pluralsight for our technology team), an annual personal learning budget, and dedicated L&D time.
+
+Wellbeing
+
+We offer free online yoga classes, an employee assistance plan, access to the Headspace app, and four wellbeing days on top of your annual leave allowance.
+
+Volunteering opportunities
+
+Employees can dedicate three days each year to volunteer for a personal cause or through our volunteering partner platform, Alaya.
+
+Frontiers actively embraces diversity and is a safe and welcoming workplace. Recruitment is free from discrimination – including based on race, national or ethnic origin, age, religion, disability, sex, gender identity or sexual orientation. With over 600 employees from more than 50 different nations, our diversity creates vibrant teams and constantly challenges us to appreciate multiple perspectives.

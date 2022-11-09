@@ -1,0 +1,22 @@
+About the job
+Buenos días,
+
+Desde Pixie Madrid estamos en constante crecimiento desde 2007, ayudando a nuestros consultores encontrar el proyecto perfecto.
+
+Hoy en día buscamos desarrolladores fullstack para un proyecto de un cliente del sector seguro basado en Barcelona.
+Ofrecemos un contrato en modalidad freelance, pero trabajando directamente con el equipo del cliente a tiempo completo.
+
+Es necesario:
+Más de 3 años de experiencia desarrollando con Java (versión 8 o superior) utilizando los framework Spring para mantener y desarrollar aplicaciones.
+Experiencia con Angular (versión 5 o superior).
+Trabajo en equipo siguiendo una metodología SCRUM.
+Conocimiento en control de versiones con GIT.
+Conocimientos de base de datos relacionales (SQL, Oracle).
+
+Deseable:
+Experiencia en integración continua con Jenkins.
+Conocimientos de Maven.
+Un inglés B2 es un plus, teniendo en cuanta que el equipo está en España.
+
+Si ves que tu perfil puede encajar, no dudes en aplicar.
+Nuestro Team se pondrá en contacto contigo lo antes posible 🚀.

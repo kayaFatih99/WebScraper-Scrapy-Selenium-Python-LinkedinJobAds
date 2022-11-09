@@ -1,0 +1,18 @@
+About the job
+Help creators publish lightning fast video in real-time...
+
+🏡 Remote or Hybrid - your choice
+💰 £90-£110k
+📈 Stock options
+
+You will build the ultimate cloud native video platform that puts live content at the hands of creators instantly, helping to move them to serverless.
+
+You will build a highly scalable, distributed, efficient video processing pipeline that puts content at the hands of editors instantly faster than live broadcast.
+
+You will build video backend systems that are low latency, resilient and can be deployed across cloud vendors and bespoke infrastructure.
+
+The impact of your work will help to generate up to 91% less carbon, building the ultimate cloud native video platform sustainably.
+
+Tech: Golang, Python, Cloud Native, AWS, K8s, Terraform, Serverless.
+
+To apply, contact Ricci.putnam@wearenumi.com, Don’t worry if your CV isn’t up to date, just send what you have and we’ll deal with that later. All applications will receive a response.

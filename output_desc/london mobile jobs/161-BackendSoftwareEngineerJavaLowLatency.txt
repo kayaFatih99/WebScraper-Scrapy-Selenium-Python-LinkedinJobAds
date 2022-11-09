@@ -1,0 +1,23 @@
+About the job
+Backend Software Engineer / Developer (Java Low Latency) *Remote UK*
+
+Do you have experience of working on low latency systems?
+
+You could be progressing your career in a senior, hands-on position for a growing European FinTech that provides a suite of SaaS products for energy trading.
+
+As a Backend Software Engineer you'll focus on backend development of complex, real-time, low latency Front Office trading systems including exchange connectivity.
+
+There's a remote interview process and you'll be able to work from home, anywhere in UK.
+
+Requirements:
+You have experience with core Java (will also consider other backgrounds e.g. C++ or C#)
+You have experience of developing low latency systems (ideally finance but could be telcos, games or other)
+You have a thorough understanding of Computer Science fundamentals such as Object Orientated Programming, Data Structures, Algorithms, Design Patterns
+You have an understanding of AWS and microservices
+You have good analysis and problem solving skills
+
+As a Backend Software Engineer / Developer you will earn a highly competitive salary (to £100k) plus benefits.
+
+Apply now to find out more about this Backend Software Engineer / Developer (Java OOP Low Latency opportunity.
+
+Ref: 19370/B/KS/011122

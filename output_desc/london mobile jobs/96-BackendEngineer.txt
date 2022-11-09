@@ -1,0 +1,41 @@
+About the job
+What are we looking for?
+
+We are looking to add you to our Engineering team at Valstro. We aim to create a manageable, scalable, and cost-efficient service that fully embraces modern software development tools and methods.
+
+The ideal candidate for this role has experience building enterprise-level software using a major programming language, hands-on experience with microservices and containerized solutions, and a genuine passion for software development. We have several seats to fill and are recruiting both junior and senior engineers.
+
+Who are we?
+
+Valstro is a newly formed FinTech partnership working to deliver next-gen, Cloud-First, trading solutions to global, multi-asset class institutional clients. You may call us a startup or a “baby enterprise.” Regardless of the term you prefer, we are a “people-first” company: all the value that we plan to bring to clients comes from the efforts of a collaborative, motivated and well-supported team.
+
+The applications that we are building are highly modular, well-tested, well-documented, and internally discoverable - all of which are, we believe, the not-so-secret sauce that will enable us to scale the product and the business.
+
+Our overarching commercial goal is to shake up an industry that is overdue for tech-driven disruption as we expand our capabilities and reach, pushing established industry practices forward in every respect. We are tackling these challenges because we believe that our clients deserve better, and if that vision appeals to you, then read on.
+
+What will you be doing?
+Building applications/services from scratch
+Participating in architecture, technology selection and design
+Building, testing, deploying and supporting the software
+Collaborating with other Valstro teams, including Product Management, and participating in the definition and improvement of processes and tools
+Learning and Teaching – Mentoring and Coaching new hires, keeping up with the latest technologies and sharing your experiences
+
+Requirements
+
+What you need to bring
+
+A good portion of the following:
+A bachelor’s degree in Computer Science or a related engineering discipline
+Real world experience developing productions systems using a major language (C++, Java, .NET. TypeScript etc.) including use of popular frameworks/libraries
+Experience building multi-threaded/concurrent applications
+Experience working in a Linux environment (CentOS, RHEL, Ubuntu etc. - any flavor is ok)
+Hands-on experience of a containerized environment using Docker, Kubernetes or similar.
+Practical use of NoSQL databases (Redis, Couchbase, Dynamo, Cassandra etc.)
+Experience working with messaging queues (Kafka, JMS, RabbitMQ, EventHub etc.)
+Some exposure to React, Angular and other UI technologies
+
+Benefits
+
+Valstro offers an excellent benefits package with top-tier health insurance, 401k plans and highly competitive overall compensation.
+
+Regardless of where you are sitting, Valstro is a wonderful place to work. Leadership brings a genuine wealth of experience and industry knowledge, and for a young company, we humbly believe that we have our product/market fit very carefully dialed in. As we move to execute and deliver the vision to clients, the Engineering team will need client-obsessed, delivery-focused high performers (with a healthy dose of humility, of course) that we can help grow into the FinTech leaders of the future. If this excites you, we would love to chat.

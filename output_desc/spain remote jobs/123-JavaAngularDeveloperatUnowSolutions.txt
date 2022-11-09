@@ -1,0 +1,49 @@
+About the job
+Unow Solutions se encuentra en la búsqueda de Fullstack Java & Angular+MongoDB y/o Kafka(Senior).
+
+Sobre la compañía
+
+Unow es una empresa que ha crecido velozmente, apostando a la innovación y nuevas tecnologías, tratando de contribuir con el desarrollo y evolución enfocados en brindar soluciones de máxima calidad, con el foco en dar lo mejor de nosotros para mejorar y ofrecer una gran experiencia para todo el que colabore con nosotros.
+
+¿Qué estamos buscando?
+
+Buscamos personas talentosas, transparentes, creativas y proactivas, entusiastas por lograr una interacción óptima entre nuestr@s clientes y la empresa.
+
+Funciones y tareas
+
+Tareas de programación en Java, microservicios y Angular.
+
+Analizar problemas complejos y proponer soluciones eficaces que convenzan al usuario por su usabilidad y eficiencia.
+
+Desarrollo de la parte backend y frontend de las aplicaciones, identificando áreas de mejoras potenciales, ayuda a otros desarrolladores, etc.
+
+Documentación concisa y útil de los mismos. comunicación con los clientes a nivel de interlocución técnica, pruebas y tareas relacionadas.
+
+Formación académica
+
+Ciclo superior/ estudios universitarios relacionados.
+
+Experiencia profesional
+
+Mínimo 5 años en proyectos software (principalmente fullstack Java Angular, Kafka y/o Mongodb)
+
+Habilidades Requeridas
+Backend Java nivel alto(deseable Java 9)
+Frontend Javascript preferible Angular nivel medio-alto(React Vue.js)
+Transmisión de datos/Streaming nivel alto(Apache kafka)y/o Base de datos no relacionales nivel medio (MongoDB)(alternativas a MongoDB (DynamoDB Azure Cosmos DB Google Cloud Store).
+Librerías y Entornos de ejecución de pruebas nivel medio. Al menos una/dos de las siguientes: JUnit, JMeter, TestNG, DBunit. Mocha, Chai, Sinon.
+Devops nivel medio MVN y circuitos de integración continua (Jenkins, Bamboo, Continuum) SVN, Git, Bitbucket.
+
+Remuneración
+
+Pago adecuado a la valía del candidato, hasta $3.800/mes en dólares americanos a través de OnTop (Podrán retirar por Crypto, Payoneer, Cuenta Bancaria Americana, PayPal, entre otros)
+
+💻 Trabajo remoto
+
+⏰ Deberá estar conectado a partir de las 11 am hora España. Jornada de 8h/día
+
+🙌🏼 Valoramos el crecimiento: En Unow valoramos los esfuerzos de las personas permitiendo el crecimiento dentro de la empresa y escalar a lo alto
+
+🤓 Aprendizaje y desarrollo constante: trabajamos haciendo que tu crecimiento y bienestar sean prioridad
+
+🌴 Vacaciones: Por cada mes que cursa tienes 2 días de vacaciones acumulativos tú decides cómo usarlos (Si usarlos por cada mes o acumularlos para irte de viajes con tus seres queridos, como gustes) **se deben acordar las fechas previamente con el Project Manager

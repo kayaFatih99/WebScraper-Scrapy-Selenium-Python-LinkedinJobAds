@@ -1,0 +1,53 @@
+About the job
+MySense - Backend Engineer
+
+Do you want to join an exciting scale-up and innovation-driven company in the IoT health space? Would you like to be more hands-on with IoT devices, sensors and edge computing gateways and how they connect people and the data behind it? Are you motivated by working in an exciting and dynamic environment? You’ll be able to help grow and shape the product as we scale-up by adding new features, building new services and prototyping new technologies. We’re looking for an enthusiastic Backend Engineer to join our dynamic and close-knit Product Team to help build large-scale applications connecting people and devices together using a variety of technologies.
+
+Objectives for this role:
+Define and document best practices and strategies to build out our infrastructure.
+Help manage cloud environments in compliance with security guidelines.
+Help maintain our hardware software stack.
+Help build and improve our in-house IoT assembly app.
+Engage in conversations around the future of our infrastructure in order to optimise for cost, scale & uptime.
+Collaborative with multi-disciplinary teams of product managers, developers, data scientists, and subject matter experts.
+
+General Skills:
+Experience with microservices / serverless architectures - building APIs and Services.
+Experience with any statically typed language can be applicable.
+Experience with cloud environments.
+Experience with Unix systems and strong knowledge of CLI shell scripting.
+
+Preferred Skills:
+Experience with Javascript / Typescript
+React
+NodeJS
+Electron
+AWS experience
+Deep understanding of networks
+Experience with devices and IoT
+Experience working in Agile environments
+
+Why us
+We are a fast-growing scale-up in the IoT health space, you will help shape the team and company and your decisions will have a huge impact. As an IoT company, the challenges we face are often novel and require unique and innovative solutions which can be both invigorating and rewarding.
+
+Our culture
+We foster a culture of openness and authenticity over structure and process. Strong communication, learning and collaboration are what we strive for and we are looking for people who share these values.
+
+Our benefits:
+30 days holiday + your birthday + Public Holidays
+Fully remote
+Private Health Insurance
+Life Insurance at 4 times annual salary
+Pension scheme
+Company laptop
+
+Check us out
+https://www.mysense.ai
+https://www.linkedin.com/company/mysense
+https://www.glassdoor.co.uk/Overview/Working-at-MySense-EI_IE2937444.11,18.htm
+
+Organic coverage
+https://www.ft.com/content/c24cd8a8-e9b9-11e8-a34c-663b3f553b35 https://www.telegraph.co.uk/technology/2019/09/09/uk-start-up-wants-help-nhs-save-2bn-year-using-ai-sensors/
+https://siliconcanals.com/news/coolest-female-led-tech-startups-london/
+
+We are an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.

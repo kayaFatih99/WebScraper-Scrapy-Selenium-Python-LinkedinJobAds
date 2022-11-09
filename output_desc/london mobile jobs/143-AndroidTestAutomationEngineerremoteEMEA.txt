@@ -1,0 +1,55 @@
+About the job
+About komoot
+Komoot is an app that lets you find, plan, and share adventures. Driven by a desire to explore and powered by the outdoor community’s recommendations, it’s komoot’s mission to inspire great adventures, making them accessible to all. And we’re good at what we do: Google and Apple have numerous times listed us as one of their Apps of the Year!
+Today, with over 30 million users and 360,000 five-star reviews, komoot is well on its way to becoming the most popular app for finding, planning, and sharing adventures worldwide.
+
+Join our fully remote team and change the way people explore!
+
+About the role
+We’re looking for an outstanding engineer to play a key role in scaling our testing process by automating our manual test suite and enabling our development teams to release faster with confidence. You’ll also have a strong QA mindset with a clear understanding of which user flows are critical for the product. If you have a passion for building and running UI test frameworks and think you have the skills to do a great job, we’d love to hear from you.
+Ready for your next adventure?
+
+What you will do
+Build and run a UI test framework to speed up the delivery of our Android app with confidence
+Write high-performing automated UI tests for our Android app, and integrate them into our release flows
+Establish automated testing practices and coach developers and QA team members to extend their testing skills
+Advocate for testing and software quality practices in our product
+Monitor test coverage and other important QA metrics
+
+Why you will love it
+You’ll team up with Pedro, Ion, Steven, and Willem to define and scale QA processes, enabling exceptional-quality feature delivery in fast development cycles
+You’ll take ownership of quality from day one, moving things forward, shaping the processes, and choosing the tools you need to do your best work
+You’ll work on a truly inspiring product that brings real-life value to our users and empowers them to explore more of the great outdoors
+Your expert knowledge will make you a key player in a highly motivated and talented team. You’ll feel challenged to learn and excel in your domain continuously
+You’ll improve a product that we’re pretty sure you’ll end up using for your outdoor adventures
+This is a remote role in a fully remote team. You are free to work from anywhere that lies between the time zones UTC-1 and UTC+3. A beach, the mountains, or a co-working space (covered by us)...
+You’ll travel with us (when covid restrictions allow) for team gatherings in amazing locations several times a year. You can check out this playlist to find out more about how we stay close while being remote. (http://bit.ly/39xtIrn)
+
+You will be successful in this position if you
+Believe fast and stable automated UI tests are an important pillar for building a highly successful mobile app
+Have 2+ years of experience writing automated tests for Android
+Are an expert using Espresso and Kotlin
+Feel comfortable making changes in an Android app codebase to enable it for UI testability
+Are familiar with modern software engineering best practices such as pull requests, unit testing and continuous delivery
+Love to learn about new technologies like testing Jetpack Compose UI (Android)
+Love to understand every detail of a product and its impact on our users
+Possess excellent interpersonal and communication skills and no ego – we’re a team and have always achieved incredible results together
+
+Some of our Perks
+38 days of vacation (incl. public holidays)
+Dedicated time and budget to spend on your professional development: classes, conferences, books – your choice!
+Discounts from leading outdoor and cycling brands
+Flexible working hours and ability to work from anywhere in Europe
+Three whole-company gatherings per year in beautiful locations
+Optional “togetherness” trips with your team
+Costs covered for your co-working space membership or your work from home office
+The latest devices and equipment to do your best work
+
+Curious to find out more?
+More about our team and our values here: https://www.komoot.com/jobs
+More about how we work here: https://www.komoot.com/jobs-process#how-we-work
+More about our recruitment process and FAQs here: https://www.komoot.com/jobs-process
+
+At komoot we want to make great adventures accessible to everyone.
+We support diversity and inclusivity within the outdoors and welcome all prospective applicants. We have a rolling recruitment process. If this role is online, it means it’s still open. We’re accepting applications and actively looking for the perfect candidate. Is it you?
+Apply for this job

@@ -1,0 +1,38 @@
+About the job
+We provide an SDK that mobile app developers will integrate into their app portfolio. This is a critical component to our product, it requires a great deal of care and attention when we prepare a release, where the quality of code shipped must be at its highest.
+
+This junior role is focused on mobile, our SDK’s are written in Java (Android) and Objective-C (iOS), they interact with a Restful API which is maintained by other teams and display ads via a webview whose content is also controlled by another team.
+
+You will be reporting into our SDK Engineer Manager, and your job description is as follows:
+Work on Tapjoy’s advertising Android/iOS SDKs and Unity plugin.
+Collaborate to design and scope out upcoming features.
+Write high quality and well tested code when implementing features.
+Participate in release SDK’s to production
+Write internal documentation.
+Review your peers' work, either through pull requests or otherwise.
+Diagnose issues reported from our Integrations team.
+You
+B.S or M.S in Computer Science or equivalent
+Have at least 1 year commercial experience building and maintaining production-ready mobile SDKs or applications in either Android or iOS.
+Have commercial experience and a good understanding of Java or Objective-C.
+Some experience in Git or other source control systems.
+Can communicate design decisions with your colleagues in a comprehensible way.
+Know when to ask for help when you don’t know something.
+Keen to debate effectively without animosity.
+Bonus
+Some knowledge/experience with CI/CD tools.
+Familiar with Unity or similar engine and building apps to Android and/or iOS.
+If you have built a library or framework that other developers have integrated either internally or externally.
+Have integrated a mobile advertising SDK in a previous capacity.
+Basic Javascript knowledge
+Basic C# knowledge
+Experience writing either Swift/Kotlin
+Experience with Gradle
+Experience with Cocoapods
+Experience with BigQuery or other database analysis tools
+Benefits
+Extra days off: 25 days holiday plus bank holidays and 4 extra days per year for ironWeekends
+Private Health Insurance Plans: Your health including optical and dental matters to us.
+A Remote-Friendly Culture: We are spread out across the world, ranging from London, Minsk to San Francisco, Tel Aviv and New York.
+Cycle to Work Scheme
+Pet-friendly Offices:

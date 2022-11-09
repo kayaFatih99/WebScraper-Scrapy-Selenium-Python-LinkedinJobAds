@@ -1,0 +1,70 @@
+About the job
+Join TuSimple and help change the way the world moves. Together we're making freight transportation safer, more efficient, and more environmentally friendly.
+
+Job location: San Diego, San Francisco Bay Area or Seattle. Remote friendly. Relocation assistance is provided.
+
+Company Overview
+
+Come join a higher calling and find a deeper purpose!
+
+As a multi-national Artificial Intelligence Technology Company, we are at the epicenter of the Autonomous Vehicle Universe. Our breakthroughs are leading the industry in autonomous trucking.
+
+While inventing the framework of Autonomous Driving, our current fleet of autonomous Trucks are helping communities receive much-needed supplies and medical equipment around the clock. Our people are some of the most talented engineers and contributors who are leaving behind a historic legacy.
+
+TuSimple was founded half a decade ago with the goal of bringing the top minds in the world together to achieve the dream of a driverless truck solution. With a foundation in computer vision, algorithms, mapping, and Artificial Intelligence, TuSimple is working to create the first global commercially viable Autonomous Freight Network
+
+Job Description
+
+HD Map data is the major offline data on a running autonomous driving vehicle that makes L4 autonomous driving possible. As a Junior/Senior Backend Software Engineer on the TuSimple Maps team, you will work on the Big Data projects, including complex map building algorithms and pipelines, large scale internet services, map data management systems and tools, etc. Your work will empower the whole autonomous driving pipeline, both the algorithm research side and the engineering development side, with access to a large volume and variety of map data.
+
+Responsibilities
+
+Develop robust and scalable backend services in Java or Go.
+Develop complex data processing pipelines and management tools.
+Design and implement system architecture for your projects, provide feedback to other team members.
+Help improve our engineering process and software quality by participating in engineering design review, code review, unit tests, CI/CD process, etc.
+Participate in brainstorming sessions and contribute ideas to our technology, algorithms and products.
+Work with the product and design teams to understand end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution.
+Dive into difficult problems and successfully deliver results on schedule.
+
+Requirements
+
+Strong programming skills in at least one of the popular languages for developing web service backend, such as Java, Go, Python, etc.
+Experience with all phases of the software development life cycle, best practices and Agile methodology.
+Strong knowledge in software service architecture design, know how to create software that’s extensible, reusable and meets desired architectural objectives.
+Strong knowledge in data persistence technologies such as RDBMS.
+Experience with developing web services using Kubernetes.
+Experience with troubleshooting performance and scalability bottlenecks and developing technical solutions.
+Good communication skills and team player.
+
+Bonus Points
+
+Industry experience in developing large scale internet service backend
+Experience with big data processing technologies such as Kafka, Flink, Hadoop, Spark, etc.
+Experience with NoSQL databases such as Cassandra or HBase.
+Experience with cloud infrastructure such as AWS.
+Experience with developing map or geospatial applications.
+Experience with developing web applications using JavaScript and React framework.
+Experience with popular web service standards and frameworks such as OpenAPI, Quarkus, etc.
+
+TuSimple Benefits
+
+100% employer-paid healthcare premiums for you and your family
+401K contribution
+Work visa sponsorship available
+Annual Performance Bonus $$
+Relocation assistance available
+Breakfast, lunch, and dinner served every day
+Full kitchens on every floor with unlimited snacks, drinks, special treats, fruits, meals, and more
+Stock options / equity
+Gym membership reimbursement
+Monthly team building budget
+Learning/education budget
+Employer-paid life insurance
+Employer-paid long and short disability
+
+TuSimple is an Equal Opportunity Employer. This company does not discriminate in employment and personnel practices on the basis of race, sex, age, handicap, religion, national origin or any other basis prohibited by applicable law. Hiring, transferring and promotion practices are performed without regard to the above-listed items.
+
+#TuMP
+
+Brown University, California Institute of Technology, Carnegie Mellon University, Columbia University, Cornell University, Dartmouth College, Duke University, Georgia Institute of Technology, Harvard University, Harvey Mudd College, Massachusetts Institute of Technology, North Carolina State University, Northwestern University, Princeton University, Purdue University, Rice University, Rose - Hulman Institute of Technology, Stanford University, Tufts University, University of California — Berkeley, University of California — Los Angeles, University of Illinois--Urbana-Champaign, University of Maryland--College Park, University of Massachusetts--Amherst, University of Michigan--Ann Arbor, University of Notre Dame, University of Pennsylvania, University of Southern California, University of Texas Austin, University of Washington, University of Wisconsin--Madison, Williams College, Worcester Polytechnic Institute (WPI), Yale University, MIT, CMU, Waymo, Uber, Facebook, Uber, Amazon, Cruise, Tesla, Argo AI, Baidu, DIDI, Zoox, Nutonomy, Nuro, Aptiv, Pony.Ai, Kodiak, Toyota, Nissan, GM, Ford, VW, Autonomous Car, Autonomous Driving, Robotics, Artificial Intelligence, Machine Learning, Deep learning, Perception, Prediction, Planning, Control, Anduril Industries, Sift, Nauto, Tempus, Salesforce, Automation Anywhere, SenSat, Phrasee, Defined Crowd, Pymetrics,Siemens, Socure, AEye, Rev.com, Suki.ai, Verkada, DataVisor, People.ai, AlphaSense, Icertis, Casetext, Blue River Tech, Nvidia, Bright Machines, Orbital Insight, Brighterion, H2O, Intel, Clarifa, X.ai, Zebra Medical Vision, Iris AI, Freenome, Neurala, Akamai, Zoho, ServiceNow, SalesForce, Oracle, Tableau,Splunk,Cvent, Veeam,Atlassian, DocuSign, Dropbox, Veeva Systems, Proofpoint, Cornerstone, Qualtrics. New Relic, Okta, Intralinks, MuleSoft, Freshworks, Slack, Twilio, Anaplan, Stripe, Workfront, Smartsheet, Zuora, OutSystems, Coupa, Cylance, Elastic, Zoom, SailPoint, BlackLine, iCIMS, Digitate, Qualys, Kareo, DataStax, DiscoverOrg, Siteimprove, Druva, Centrify, Looker, SimilarWeb, Odoo, Kyriba, Sumo Logic, Sisense, PagerDuty, DigitalOcean, Liquid Web, Zaloni, Databricks, ServiceTitan, Fastly, SnapLogic, Mendix, Couchbase, Egnyte, Seismic, Bill.com, Justworks, Collibra, ActiveCampaign, Schoology, SalesLoft, Cylynt

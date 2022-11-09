@@ -1,0 +1,33 @@
+About the job
+MVP Match
+We are a freelance network that connects the world's best tech talent with the most ambitious companies to solve challenging problems and create excellent digital products that delight their users.
+
+The Client
+Our client is a fast-growing startup that builds distributed, highly scalable platforms for the finest documentaries from around the world. It continually scours the globe for documentaries with the most dramatic imagery, the most cutting-edge subjects, and the most authentic insights from the world’s top historians, scientists, and explorers.
+
+The Project
+T he client wants somebody to join the team as a core member and for at least 12 months. They have a small team (2 JS Developers and 1 iOS dev) that needs your support.
+With a growing client base, they realized they need more help to guarantee good service and keep on track with adding new features.
+
+D ay to day activities:
+Join the team in an agile setting with only 1 meeting per day
+You will be in charge of Architecting, building, and optimizing new features
+Improve and add different types of streaming, and membership support
+Test software to guarantee responsiveness and effectiveness.
+B ug smashing
+T here might be a need to refactor some code as things evolve
+
+Requirements
+V ery good command of Spanish and English
+Profound knowledge of React & Next.js
+A "cowboy dev" mindset that can deliver products fast and independent
+A team player, who is open-minded and adaptive.
+Good knowledge of HTML5 and CSS
+Familiarity with the unit and integration testing.
+G ood understanding of video streaming apps
+The role is fully remote, and it enables agnostic working time/style. As long as you make it to the 1 meeting midday CET time
+
+Start Date : 07.11.2022
+Location : Europe (remote - freelance)
+Duration : 1 year
+Note : SPANISH IS A MUST

@@ -1,0 +1,60 @@
+About the job
+About GBG
+GBG offers a range of solutions that help organisations quickly validate and verify the identity and location of their customers. Our market-leading technology, data and expertise help our customers improve digital access, deliver a seamless experience and establish trust, so that they can transact quickly, safely and securely with their customers online. We have over 1,000 team members across 15 countries and work with over 20,000 customers in over 70 countries. Some of the world's best-known businesses rely on GBG to provide digital services and keep the economy moving.
+
+The Team
+The Technology teams deliver trusted and compelling technology solutions, that help our customers reach, identify and trust their customers, making good people’s lives easier whilst protecting them from harm.
+The applications supported by the this team are currently focused on centralized IAM and audit trail management across the GBG product portfolio but this will expand in the future.
+
+The Role
+As a senior full stack software engineer you will be responsible for building and supporting critical the front end and UI aspects and back end/API aspects of critical web applications, built in modern cloud-based technologies, that operate across GBG.
+
+You will have a very varied role which isn’t confined to a single technology, so we are looking for someone who enjoys variety and flexibility. The applications supported by the team are currently focused on centralized IAM and audit trail management across the GBG product portfolio but this will expand in the future.
+
+What you will do
+Develop the user interface and front-end components of the GBG IAM product always ensuring an excellent customer experience – React
+Develop the back-end and API components of the GBG IAM product - C#/.net
+Mentor and advise other members of the delivery team to help them continually improve their skills and become better.
+Support the architecture and design decisions within the team
+Input into UX design of the product to focus on usability
+Promote the devops culture and drive towards enabling continuous delivery within a cross functional, autonomous team
+Challenge the status quo (technologies and/or processes) to help improve delivery within the team.
+To work closely with other stakeholders to take ideas from concept through to production ready features.
+Review code from other team members, promoting best coding practices within the team
+Enhance and maintain existing automated (functional and unit) test suites.
+Support the technology Centre’s of Excellence to drive up standards across the wider business
+
+Requirements
+Skills:
+Experience of working in agile/scrum environments and a good understanding of continuous delivery practices.
+Excellent knowledge of HTML, CSS and JavaScript technologies specifically including the React framework but ideally including experience of Redux and D3
+Excellent knowledge/experience of Back End/API development using c#/.net
+Experience of creating and maintaining modern web based user interfaces.
+Experience of Back End/API development using Python
+Demonstrate, and champion with others, good habits in unit testing, mocking, stubbing and test-driven design approaches.
+Broad knowledge in design and architectural patterns, and excellent knowledge of OOP concepts.
+Experience of REST API design
+Good commercial awareness and the ability to identify and recommend product enhancements.
+Must be confident using Git Source Control
+Experience with AWS, Docker and Kubernetes is an advantage
+The ability to maintain a deep knowledge of the latest languages, tools, frameworks and paradigms within the industry and experience of championing the adoption of emerging technologies.
+
+Behaviours:
+Ability to drive continual improvement within a cross functional, autonomous team
+Comfortable with code reviews and pair programming
+Ability to work well both independently and within a team.
+Ability to provide technical leadership in small agile teams.
+Demonstrates ability and willingness to learn quickly within a continually changing, challenging environment.
+Flexible, resilient and able to change focus on demand.
+Self-motivated and enthusiastic.
+Excellent verbal and written communication skills.
+
+Benefits
+We have a vision to have the best and most engaged team members in the industry. People matter at GBG, they make us who we are. Every team member across all our locations makes a difference, everyone has something to contribute. Maybe you too could make a difference.
+
+As part of our commitment to our team and flexible working approach, we have created a Work When and Where You Want Policy to give our team members choice and empowerment, and to support a balance in work and home life. Please ask your Talent Attraction Specialist for more information on this and our Family Friendly policy if you want to find out more!
+
+Next steps
+If you’re interested, please apply! We’re looking to hire the best and most engaged people into our business and we’ll make an offer once we’ve found that person.
+
+As an equal opportunity employer, we are committed to providing fair opportunities for everyone regardless of age, gender, race, religion, sexual orientation, parental status or disability. Everybody is welcome and our inclusion and diversity programme, be/yourself, is designed to ensure that you can thrive. Please inform your GBG Talent Attraction Specialist if you require any reasonable adjustments to the interview process.

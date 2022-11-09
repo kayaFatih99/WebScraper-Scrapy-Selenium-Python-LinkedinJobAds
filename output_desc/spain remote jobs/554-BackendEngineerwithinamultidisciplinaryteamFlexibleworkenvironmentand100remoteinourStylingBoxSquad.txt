@@ -1,0 +1,76 @@
+About the job
+Do you want to work in a cross-functional, multidisciplinary team in a position where you will see the impact of your work from the very beginning?
+
+Do you want to organize your schedule according to your needs and work with a 🔝 technical team to build features and scalable architecture for web applications and products?
+
+In the Styling-Box squad, our goal is to improve the whole 5-item box (classic) experience of the company. In this journey, we try to help our Personal Shoppers be more productive in their day-to-day improving tools that they use for it.
+
+
+Why would you like to join us?
+
+🔝🔟The best place to develop your talent. Linkedin has considered Lookiero among the TOP 10 young Startups that are arousing the most interest and attracting the best technology professionals in Spain.
+📰https://www.linkedin.com/pulse/linkedin-top-startups-2022-las-10-empresas-emergentes-/?trackingId=DZKq8cSnesTGm4qqVqeH7A%3D%3D
+
+🌍 100% remote (Spain) and totally flexible working hours. You can work from wherever and whenever you want.
+
+👫 We are a team. Everyone will help you to overcome your personal and professional challenges. In your team, you will find true team players, and we look for the same in you.
+
+💎 You will work in an environment where everything is decided by mutual agreement with a really good atmosphere and a very good vibe.
+
+💼 You will have a direct impact on the business. Your challenge will be to find solutions to problems and you will even have the freedom to propose new projects and initiatives with a direct impact on your day-to-day life in Lookiero. We measure and share this impact.
+
+🔥 You will have the opportunity to work with cutting-edge technologies and be always technically up to date.
+
+⚡ We are real fans of eXtreme Programming and Domain-Driven Design.
+
+🙅 Once agile, always agile. We use agile methodologies. We set achievable, measurable objectives that you can set yourself with some flexibility.
+
+🤩 Professional development. You will have an individualized career plan, with 1:1 sessions with your manager in order to achieve all your goals. The most important thing is you. We believe in the talent of people and boosting it in the best way.
+
+💻 You are a #ProductLover and share, like us, your passion for working on our product.
+
+🤠 Transparency is part of our culture and is a "must" at Lookiero. Once a month we all meet with Oier, our CEO, to know all the insights of the month.
+
+
+What will make you succeed ✌️in your role? Skills, know-how and experience
+
+To feel comfortable in the project, you should ideally have at least 3+ years of real hands-on experience in backend programming in a professional environment with Java 17 and the last SpringBoot versions.
+You love working following Domain-Driven Design principles building event-oriented products.
+Knowledge of SOLID and CQS principles, and also you know about CQRS/ES architectures.
+Ideally, your code is written using functional programming.
+You are not afraid of technical challenges, in fact, you are hungry for the impossible. You love coding and you are ready to offer fresh ideas. You can learn, understand and want to develop great practices aligned with our technical challenges.
+You will have a product-oriented mindset.
+You want to work closely with product, design, data analysts and other engineering departments to specify, build, test and deploy new features.
+As a technical senior of the team, you will be responsible for guiding and accompanying your team, being always available to help when technical issues or doubts arise.
+
+
+Your mission 😇 in the role will be:
+
+You will work on the deepest part of the products in an autonomous and multidisciplinary product team to provide solutions according to the business needs.
+You will lead and develop technical and business strategies with the close collaboration of your manager.
+You will ensure that the solutions you work on are scalable, maintainable, stable and accessible.
+You will mainly develop on a Java-based ecosystem with clean architecture and event-oriented on the back.
+You will contribute to the quality of the products developed through testing.
+You will stick with legacy code from our beloved monolith, especially to extract functionalities to the new infrastructure.
+
+
+After applying, what will the process be like?
+
+📲 Firstly, you will start with an Initial Interview with the Talent Team.
+⌨ Then, you will continue performing the technical assessment.
+🤸 You will always get a complete feedback about your performance.
+👔 If the feedback is positive, you will have a technical Interview with the hiring manager and a colleague.
+📖 Last but not least, the final stage will be an offer.
+
+
+A sneak peek of our culture
+
+🤔 Think Big. Act Fast
+🚀 Take ownership. Drive Results
+💯 We say things the way they are
+🌍 Many voices. One Team
+💥 It's possible
+
+We have grown rapidly since our launch in 2016 and are continuing to grow quickly! We now operate in 10 countries with a super talented team of +600 across our 4 offices in Bilbao (HQ), Paris, Milan and Berlin, but with a remote culture and work-life balance.🌍
+
+If you want to be a key team player, see the impact of your work and are excited to get to know more about us and the role just APPLY 🔜

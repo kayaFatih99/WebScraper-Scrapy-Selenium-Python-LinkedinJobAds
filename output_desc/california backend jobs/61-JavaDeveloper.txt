@@ -1,0 +1,36 @@
+About the job
+Job Description
+
+Piper Companies is seeking a Java Developer to join a leading data science firm that provides high-end analytic consulting services to clients in the public and private sectors. This position will be 100% Remote.
+
+Please no C2C, working W2 only.
+
+Responsibilities of the Java Developer:
+
+Contribute to all stages of a full Software Development Life Cycle (SDLC)
+Have the ability to lead and participate in an Agile development process (leading when needed)
+Develop mid-tier JAVA 7 both RESET and SOAP API services
+Display development expertise with HTML, Java, and JSP
+Design systems on JBoss and Tomcat
+Consistently address technical issues and risks as needed that could hinder project timelines and/or integrity of the application environment
+Produce highly reliable and quality code
+Implementation of new features and contribution to the development of new and existing software products
+Design meeting and code review meeting attendance is required
+Add to the development of technical documentation that supports use and upkeep
+
+Qualifications of the Java Developer:
+
+3+ years of experience with Core Java / J2EE backend development
+Bachelor’s degree in Computer Science, Engineering (or related field) or relevant, related work experience
+Experience with relational databases (MySQL, SQL Server, etc.)
+User Interface design and development experience required
+Familiarity with a JavaScript front-end framework such as Angular, React, or Vue
+Experience writing unit test cases (JUnit, NUnit, etc.) required
+Previous experience with data analytics
+
+Compensation for the Java Developer:
+
+Salary: Up to $120,000
+Benefits: Medical, Dental, Vision, 401K match, PTO, Holidays (and much more)
+
+Keywords: Java Developer, Java, Developer, medical, dental, vision, 401k, 401k match, PTO, paid time off, holiday, holidays, paid holidays, data analytics, MySQL, SQL Server, SQL, Junit, NUnit, Angular, React, Vue, Computer Science, Engineering, Core Java, J2EE, front end, back end, full stack, coding, code review, code, SDLC, JAVA 7, RESET, SOAP API, HTML, JSP, JBoss, Tomcat, application, interface design, design, technical documentation, remote, wfh, work from home

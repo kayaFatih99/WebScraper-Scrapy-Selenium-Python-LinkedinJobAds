@@ -1,0 +1,33 @@
+About the job
+En ANCERT, empresa tecnológica perteneciente al Consejo General del Notariado y que tiene como uno de sus principales objetivos la transformación y evolución tecnológica del Notariado español.
+
+Desde el año 2002, en ANCERT lideramos importantes proyectos dotando al Notariado de las más avanzadas herramientas informáticas, e integrándolo tecnológicamente con un importante número de administraciones, organismos públicos y empresas privadas de toda índole, además de participar en diversos proyectos internacionales.
+
+El resultado ha sido que nuestro colectivo notarial sea hoy en día el más avanzado tecnológicamente del mundo.
+
+Deseamos incorporar un Programador/a Frontend con sólidos conocimientos en desarrollo Web para integrarse en el equipo responsable del desarrollo de la plataforma de tramitación del Consejo General del Notariado. Si no estás en la comunidad de Madrid o en la provincia de Barcelona tendrás la posibilidad de trabajar 100% remoto, con viajes puntuales a las oficinas de Sant Cugat o de Madrid.
+Las principales competencias del puesto serán la interpretación de diferentes análisis funcionales, creación de diseños técnicos y la programación de diversas funcionalidades.
+
+Colaborarás en las siguientes tareas:
+-Realizar el análisis, desarrollo y mantenimiento evolutivo y correctivo de la aplicación/proyecto asignado.
+-Programar a partir de la solución técnica definida por el Analista Técnico, analizar la propuesta y realizar su desarrollo.
+-Elaborar documentación técnica.
+-Participar en las oficinas de proyecto.
+-Participar en la revisión de la planificación en la fase de análisis de proyecto.
+-Capacidad de organización y de gestión del tiempo.
+
+Requisitos mínimos:
+-Experiencia mínima de 4 años en las tecnologías demandadas.
+-REACT Framework.
+-Actitud positiva y proactiva.
+-Mentalidad analítica.
+-Capacidad de aprendizaje constante.
+
+¿Qué te ofrecemos?
+-Estabilidad empresarial (somos cliente final).
+-Contrato indefinido.
+-Horario de entrada flexible (8:30 a 10:00).
+-Jornada intensiva todos los viernes del año y verano.
+-Desarrollo de carrera profesional y plan de formación continua.
+-Retribución flexible (ticket restaurant, ticket transporte, ticket guardería, otros...).
+-Condiciones competitivas en seguro médico, internet, telefonía, wellness.

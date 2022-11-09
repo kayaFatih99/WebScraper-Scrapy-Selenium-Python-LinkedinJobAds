@@ -1,0 +1,50 @@
+About the job
+We are looking for an Android Engineer to join our fast growing company. You will play a pivotal role in the growth of the organisation owning delivery of projects in order to meet the needs of the business. You will be firmly hands-on, spending the majority of your time developing our Joii Pet Care app. You will recommend tools and technologies as appropriate. You will be excited to work in a high-growth high-paced (we mean it!) organisation and you will thrive when priorities are changeable and timelines are short.
+
+You will contribute to architectural and POC initiatives with the goal of delivering the highest quality experience to our customers. You will be comfortable questioning the status quo and articulating the benefits of change. We value your ability to learn and solve problems above your knowledge of any particular language or tool. You will be working with teams across the business so your ability to communicate technical ideas in a non-technical way is crucial.
+
+Key responsibilities
+Working in an agile environment
+Collaborate with the team to define top quality product features and solutions
+Take the lead on architecting solutions
+Deliver functionality swiftly and in working increments
+Write clean, efficient, reusable and testable code
+Take part in peer code reviews working with the team to review code, style, design, and tests.
+Collaborate with the team on product development and technical ideas
+Contribute to the development of a product-minded engineering culture
+Communicate early and often on progress/status of currently assigned tasks
+Identify areas that require documentation creating new or editing existing documentation
+Utilise Git source control, continuous integration, and unit testing best practices
+
+Skills
+Proven experience in Android Development (Kotlin)
+Excellent grasp of SOLID principles, design patterns, and OOP in general
+Experience making technical decisions in regards to tools and architecture
+Solid knowledge of Gitflow, code reviews, and processes
+Enthusiasm for latest Android trends, features, and releases
+Experience working with other engineers and architects
+Worked in a lean and agile development process, at a minimum Scrum or Kanban
+Advocate of unit and integration tests, able to lead other developers in testing practices
+Excellent communication skills
+Proven experience with best software practices and methodologies
+Self-starting, self-motivated, and self-directed
+
+Who are we?
+We are Vet-AI, and we are delivering the pet care of the future. Our flagship app, Joii Pet Care was created to make pet care affordable and accessible for all pet owners. Through Joii, pet mums and dads can video call a vet 24/7, use an intelligent pet symptom checker (think NHS 111 but for pets), or seek preventative care through nurse clinics. And yes - it can all be done from the comfort of home - drastically reducing the need for in-person vet trips.
+
+Our mission:
+To make pet care affordable and accessible for everyone.
+To improve the lives and wellbeing of everyone working within the veterinary industry.
+Quite simply, we want vet care to be available to everyone, and to ensure the people who are delivering it with us are as happy as they can be. We’re called Joii, after all.
+
+What You’ll Get
+We’re a startup transitioning to a scale-up, so if you like a slow pace we're not the company for you. However, if you do like a supportive team, a fun culture, and the feeling of creating incredible work - you’ll fit right in! Some of the perks you’ll get with us are:
+25 days of paid holiday plus the usual UK public holidays
+Remote working & flexible hours
+Hardware of your choice, plus some extras to help set up your home working space
+Social gatherings with the team
+Regular Lunch & Learn sessions (basic physics, music production, you name it!)
+Access to our newly launching career development scheme, with a dedicated budget to put towards initiatives for your career
+
+Diversity
+We believe that surrounding ourselves with different opinions means that we’ll challenge our own assumptions instead of thinking we know the correct answer. We welcome applications from everyone and will foster an encouraging and caring workplace. If you aren’t sure if you qualify, send us your CV anyway.

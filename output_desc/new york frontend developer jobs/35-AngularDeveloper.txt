@@ -1,0 +1,8 @@
+About the job
+Responsibilities
+As a Software Engineer, you will be an integral member of a dynamic team building world class products and customer experiences, “automating all the things”, in support of our rapidly expanding product portfolio. Team operates with a mindset of test first development .
+Location:
+Top 3 skills required:
+Strong Angular / NodeJS – web development using Angular, Typescript, and Node JS.
+Strong Unit Testing and Automated Testing Frameworks such as Cypress.
+Build and deployment experience would be helpful

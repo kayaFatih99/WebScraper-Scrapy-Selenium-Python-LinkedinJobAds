@@ -1,0 +1,20 @@
+About the job
+Front-end Developer
+Location- 100 % remote
+Work Authorization- USC GC H4EAD
+Duration-1 year plus
+Interview process- 1 WebEx virtual interview,
+Need LinkedIn profile
+Must have Banking Experience
+Job Description
+
+Day-to-Day: create new single page applications for client's large-scale wealth management applications and websites
+Required Education
+A bachelor's degree with 5 years of IT experience with hands on coding and developing web applications . Work experience in cloud infrastructure are highly desirable.
+
+Required Skills
+Banking Experience Mandatory
+Excellent skills on JavaScript, nodejs and reactjs development.-Must have
+Extensive experience with single page application and SSR and CSR
+Experience with static code generation tools
+Experience with state management and micro-frontend

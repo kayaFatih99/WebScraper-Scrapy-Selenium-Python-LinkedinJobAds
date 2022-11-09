@@ -1,0 +1,47 @@
+About the job
+The Opportunity
+
+We are looking for an experienced professional who knows how to apply theory and put it into practice with in-depth understanding of the professional field; independently performs the full range of responsibilities within the function; possesses broad job knowledge; analyzes problems/issues of diverse scope and determines solutions; improves, changes and adapts existing methods and technologies.
+Can be a mentor for other staff and be in charge of the selected areas / projects.
+
+
+Duties and Responsibilities
+
+Optimize previous code when making changes to existing modules;
+Perform pre-testing and installing the program before passing to QA, Apply test coverage for the code when needed;
+Adapt the program to new requirements, if necessary;
+Document code development, provide methods and classes comments (wiki and in-line documentation; UML diagrams, sequence diagrams, etc if need);
+Provide verbose comments with each code commit in version control system;
+Cooperation and consulting members of all teams, including assistance to testers and support personnel as needed to determine system problems;
+Consult with manuals, periodicals and technical reports to learn new ways to develop programs and maintain existing skills and knowledge;
+Research and recommend software tools to management;
+Create application builds for reviews and releases.
+
+
+Required Experience and Job Qualifications
+
+3+ years of experience in IOS development;
+Commercial experience with Objective-C and/or Swift;
+Multithreading, GCD;
+CoreData, SQLite;
+UIKit, autolayout;
+Restful services integration;
+Data structures, basic patterns and algorithms;
+Unit testing;
+Experience in publishing and updating applications in the AppStore.
+
+
+The ideal candidate can take the 20 and figure out the 80, has situational awareness and understands the chain of command as they represent others before they represent themselves. The ideal candidate is output-oriented, knows when to yield and when not to yield, has a relentless willingness to raise the bar, hold themselves and others accountable, and excels in a diverse international environment across different nationalities, geographies and cultures. Be prepared to be unprepared when you apply!!
+
+If you are interested in the position, please send your Resume / CV with a cover letter enclosed and salary expectations indicated to recruitment@rocketroute.com.
+
+About us
+
+Aircraft Performance Group
+Aircraft Performance Group, LLC (APG) is a flight operations performance engineering firm, established in 1999, that specializes in Runway Analysis, Weight and Balance, and Flight Planning solutions for the airline and corporate flight operations industry. The aircraft we provide data for range from airline operated small turbo-prop aircraft (regional airline market) and wide body aircraft (international carrier) to corporate turbo-prop aircraft and large cabin ultra-long haul business aircraft. We maintain a current worldwide database of airport information (over 7000+ airports) and have experience in digitizing Approved Flight Manuals for use within our own performance programs, as well as using aircraft manufacturer provided programs. We have experience in providing data based upon FAR, EASA and CASA requirements. APG is headquartered in Castle Rock, Colorado. flyapg.com
+
+RocketRoute
+RocketRoute is the fastest, easiest and most effective way pilots can access the essential support they need to get airborne. From online flight planning, support, flight board, concierge services to direct access to ever expanding aviation services marketplace. Liberating in its simplicity users connect via one easy-to-use digital portal. Our Team of professionals make it possible for Flight Planning to be easy and straightforward for our clients all around the world. We provide services to Private, Business, Airlines, HEMS & SAR, Education and Military. Rocket Route is headquartered in the UK with a substantial development team in Lviv. rocketroute.com
+
+Seattle Avionics
+Seattle Avionics creates compelling pre-flight and in-flight user experiences with its cloud-based solutions providing direct user access to flight planning, weather, fuel prices and group document management for the general aviation market. Their FAA-certified and geo-referenced charts and flight data are proven and used in the leading in-panel avionics systems globally. Seattle Avionics is headquartered in Seattle, Washington. seattleavionics.com

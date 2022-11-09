@@ -1,0 +1,47 @@
+About the job
+Así somos.
+The Cocktail es una consultora tecnológica multinacional cuya misión es acelerar el crecimiento sostenible de nuestros clientes. Movilizamos grandes organizaciones para mejorar la relación entre las marcas y personas mediante el Diseño, los Datos y la Tecnología. Entendemos lo que nuestros clientes necesitan y orquestamos capacidades para lograr esos objetivos a una velocidad de vértigo. Nuestra cultura se basa en la diversidad, creatividad y en la mezcla de especialistas (estrategia, diseño, tecnología, data, investigación…) Nuestras carreras se caracterizan por un crecimiento profesional exponencial, y por la participación en proyectos con impacto real en grandes clientes. Formar parte de The Cocktail implica rodearse de un equipo inspirador del que aprender y que te ayudará a crecer. Trabajamos bajo la máxima de que es mejor pedir perdón que permiso, por eso, esperamos de ti una visión disruptiva y challenger, inconformismo y pasión por la excelencia y los desafíos.
+
+Si quieres moverte en un entorno retador, crear proyectos innovadores y hacer que las cosas pasen, The Cocktail es para ti.
+
+Este es el reto
+Buscamos personas con experiencia desarrollando en Java o JavaScript que quieran reconducir su carrera y adentrarse en el mundo de Salesforce desarrollando soluciones junto a nuestro equipo con una visión end-to-end del proyecto.
+Somos uno de los principales partners de Salesforce en España, reconocidos como Salesforce Platinum Partner, >4,8/5 en valoración de clientes :) y con un crecimiento sostenible y cercano, con más de 80 personas en el equipo incluyendo arquitectos de Salesforce referentes en la comunidad de desarrolladores.
+Entre otras cosas, esto es lo que harás:
+Trabajarás junto a más de 80 personas certificadas en Salesforce core cuya pasión es diseñar e implementar soluciones y aplicaciones en el ecosistema de Salesforce (sales, service, loyalty management, service voice, ....)
+Aprenderás de arquitectos y con personas senior con más de 17 certificaciones y más de 5 años trabajando en el ecosistema y en la comunidad de desarrolladores.
+Desarrollarás Clases Apex, Triggers, Procesos Batch y Lightning Web Components.
+Te formarás en las soluciones de Salesforce más innovadoras (Mulesoft, Service Voice, Sustainability, etc…)
+Aprenderás y trabajarás desarrollando Integraciones (REST, SOAP, Web Services, etc.)
+Trabajarás en un equipo con compañeros/as con diferentes perfiles: diseño, negocio, estrategia y otros perfiles técnicos.
+Nos encanta pasarlo bien, así que te pedimos que saques el sentido del humor y nos dejes conocerte!
+Para llevar a cabo estas tareas necesitarás:
+Experiencia de al menos 2 años desarrollando con Java o JavaScript habiendo participado en el ciclo de vida completo de un proyecto, y conociendo las best practices de programación
+Experiencia deseable analizando y entendiendo requerimientos de negocio, y elaborando diseños técnicos
+Amplio conocimiento de la programación orientada a objetos
+También nos encantaría que:
+Tengas experiencia desarrollando Integraciones (REST, SOAP, Web Services, etc.)
+Tengas capacidad resolutiva
+Seas capaz de leer y entender documentación técnica en inglés.
+Vengas con ganas de aprender.
+Tengas sentido del humor y ganas de pasarlo bien con nosotros.
+
+¿Cómo es la experiencia en The Cocktail?
+Modelo de trabajo basado en la autorresponsabilidad y la autogestión con horario flexible y teletrabajo (de verdad). Decides tu horario, desde dónde trabajas y cómo lo haces.
+Buscamos la excelencia/mejora en lo que hacemos, generando un ambiente colaborativo. Nuestra filosofía es 70-20-10 (70% se aprende de la experiencia, 20% de mentores/referentes y 10% de formación reglada).
+Podrás disfrutar de 25 días de vacaciones al año repartidos entre verano y Navidad, sobre todo. También te regalamos Nochebuena y Nochevieja.
+Paquete de ventajas sociales y posibilidad de retribución flexible.
+No tenemos dress code. Ven como quieras a trabajar.
+Ser parte de una compañía con alma: tenemos iniciativas de apoyo a la maternidad (una sala de lactancia en la oficina y programas para mamás y papás), la sostenibilidad (políticas zero waste), la igualdad de género y diversidad (iniciativas de visibilización e inclusión del colectivo LGTB+, colaboraciones para disminuir la desigualdad social...).
+Descuentos y múltiples ventajas para tu ocio y día a día.
+En The Cocktail pretendemos ser un referente en talento y calidad humana, y sólo lo conseguiremos siendo una compañía abierta y diversa, por eso tenemos un Código de Conducta que refleja nuestras expectativas de las personas que participan en la empresa. Ofrecemos un entorno acogedor para todos, independientemente de su identidad o expresión de género, orientación sexual, capacidad, origen, religión, estatus socioeconómico…
+
+Próximos pasos:
+Si has llegado hasta aquí es porque hemos conseguido llamar tu atención ;)
+Apúntate a la oferta y el equipo de People echará un vistazo a tu CV. Si coincide con lo que buscamos, recibirás una llamada para conocernos mejor y te contaremos más sobre The Cocktail y sobre el rol.
+
+Nuestros procesos de selección suelen tener alrededor de dos o tres entrevistas, y es posible que en algún momento queramos verte en acción y te propongamos un reto técnico. Al final del proceso charlaremos acerca de las condiciones salariales del puesto, una vez te conozcamos bien y sepamos cuánto puedes aportar.
+
+Si necesitas un tip para el proceso: simplemente queremos que seas tú.
+
+¿Te vienes?

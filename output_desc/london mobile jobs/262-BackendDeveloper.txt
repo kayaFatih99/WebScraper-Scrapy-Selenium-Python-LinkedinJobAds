@@ -1,0 +1,113 @@
+About the job
+Description & Requirements
+
+Why Epicor?
+
+At Epicor, we know that success comes from working together. Everyone has a role to play, and it’s the essential partnerships across our company that are crucial to our customers’ success and our growth as a business.
+
+We’re truly a team. Working in close partnership, we bring wide-ranging talents together in powerful collaborations. We think innovatively, share our knowledge generously, and constantly learn from our colleagues. We’re proud of the success we achieve every day, but we never stop challenging ourselves and encouraging each other. Together, we go further and imagine an even brighter future.
+
+Whatever your career journey, we’ll help you find the right path. Through our training courses, mentorship, and continuous support, you’ll get everything you need to thrive. At Epicor, your success is our success. And that success really matters, because we’re the essential partners for the world’s most essential businesses—the hardworking companies who make, move, and sell the things the world needs.
+
+Backend Developer – .NET (C#)- Peterborough (Remote, UK)
+
+About The Role:
+
+Develop solutions to a good standard, understand and learn industry best practices within development teams. Be involved with the evolving company culture and encourage others to do the same.
+
+Success factors
+
+Contribute towards delivering great outcomes for our customers
+Positively influence the culture of the department and company: Bold & Enthusiastic, Clear Communicators, Great Executors and One Data Interchange Team
+Ability to work well as a team
+Understand our agile processes to always ensure a high standard of delivery
+Increased technical ability and understanding
+Department / team contribution
+
+Actively share your knowledge with others
+Learn and develop your skills from other team members
+Provides, welcomes, accepts and acts upon feedback
+Skills, experience, and attributes
+
+Able to pick up new concepts and technologies
+Experience working in a strategic and tactical development environment
+Isn’t afraid to admit failure and learn from it
+Awareness of .NET, modern web technologies and relational databases
+Performing peer reviews, including testing and code reviews
+Developing solutions according to designs agreed during design discussions and workshops
+Effective verbal and written communication skills. Able to adapt communication style to suit different audiences.
+Breakdown
+
+Development (documentation, coding, testing, design, peer reviews etc) – 75%
+Sprint activities (planning, stand ups, retrospectives, backlog reviews etc) – 5%
+Training – 20%
+
+Person profile
+
+Qualifications
+
+Good standard of education – 2:2 degree or higher.
+
+GCSE English & Maths (C or above).
+
+Desirable
+
+Skills
+
+Essential
+
+Object orientated software development in .NET (C#)
+
+Relational database models and T-SQL using Microsoft SQL Server
+
+HTML / JavaScript / CSS
+
+JavaScript frameworks, Angular / React
+
+Microsoft ASP.NET / MVC
+
+Microsoft Windows Forms
+
+Understanding of computer networks and associated protocols
+
+Essential
+
+Desirable
+
+Desirable
+
+Desirable
+
+Desirable
+
+Desirable
+
+Experience
+
+Creating and maintaining medium to large scale applications built upon Microsoft .NET.
+
+Developing applications within an Agile process such as SRCUM
+
+Creating web-based applications
+
+Essential
+
+Desirable
+
+Desirable
+
+Characteristics, personal qualities and personality traits.
+
+Good analytical and problem-solving skills.
+
+Strong attention to detail.
+
+Good written and oral communication skills.
+
+Self-managed, self-motivated, and proactive.
+
+Good interpersonal skills.
+
+Essential
+
+We look forward to hearing from you and wish you the very best of luck with your application.

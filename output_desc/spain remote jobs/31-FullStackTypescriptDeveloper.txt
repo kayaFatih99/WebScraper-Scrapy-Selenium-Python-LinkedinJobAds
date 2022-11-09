@@ -1,0 +1,41 @@
+About the job
+Nuestro equipo Senior de desarrollo busca seguir creciendo para aumentar la velocidad y excelencia del equipo.
+
+En Alicunde, nos dedicamos a Desarrollar Software a medida para todo tipo de industrias. Desarrollamos Aplicaciones nativas para iOS/Android, plataformas tecnológicas con arquitecturas complejas y software a medida para empresas de renombre.
+
+Estarás involucrado en proyectos de todo tipo, desde aplicaciones nativas para el usuario final hasta el desarrollo de APIs REST.
+
+Funciones del cargo
+
+Desarrollar nuevas funcionalidades desde cero.
+Buscar la mejora continua del rendimiento, calidad y capacidad de respuesta de las aplicaciones.
+Realizar tests para asegurar la calidad del código.
+Identificar y comunicar oportunidades de mejora en el código generado por el equipo.
+
+Requerimientos del cargo
+
+Tienes experiencia mínima de 5 años en el desarrollo de Frontend en REACT, Typescript, Backend en Node.js.
+Tienes conocimientos en Arquitectura de Microservicios, Patrones de Diseño y Arquitectura de Frontal.
+Tienes experiencia con despliegues automáticos mediante GitHub Actions
+Valoras la importancia de mantener la calidad, homogeneidad y automatización del código
+Te sientes cómod@ trabajando con metodologías Agile
+Disfrutas trabajando en equipo
+
+Requisitos valorables
+
+Tienes conocimientos avanzados en React, Redux, React Hooks, Typescript y JavaScript.
+Tienes experiencia diseñando, desarrollando y construyendo en API RESTful
+Tienes experiencia en Desarrollo de soluciones Cloud (Azure, AWS y Google Cloud) y en Kubernetes.
+Aportas valor comercial en lo que haces.
+Tienes experiencia preferible con Bases de Datos tipo SQL (PostgresQL)
+
+¿Qué ofrecemos?
+
+Trabajo 100% remoto, trabaja desde cualquier lugar del mundo
+Equipo joven con una estructura muy horizontal, ¡Nos gusta escuchar y ser escuchados!
+Un salario competitivo y ajustado a tu experiencia. Con un plan de retribución flexible con altas comisiones sobre objetivos en base a delivery-quality. Entorno €39-55k según tu experiencia
+Posibilidad de formar parte de un equipo joven y multidisciplinar cada día aprenderás nuevas herramientas y trabajarás en diferentes proyectos con un impacto real en función de tus intereses
+Horario de trabajo flexible de 8 horas. Viernes jornada intensiva y juegos con el equipo hasta las 16h.
+Estabilidad laboral con contrato indefinido
+Crecimiento y carrera profesional definida
+22 días laborables de vacaciones + los festivos de tu comunidad.

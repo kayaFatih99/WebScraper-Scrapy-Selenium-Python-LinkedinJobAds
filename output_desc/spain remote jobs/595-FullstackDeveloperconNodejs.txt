@@ -1,0 +1,24 @@
+About the job
+¿Te interesaría seguir desarrollándote como Fullstack Developer en proyectos web, con tecnologías como Javascript, NodeJS o NextJS y trabajando en metodología ágil?
+
+Desde Oxigent Technologies, consultora tecnológica joven, seleccionamos un/a FULLSTACK DEVELOPER para formar parte del equipo de desarrollo, 100% remoto, trabajando en el desarrollo de los productos web de una empresa con proyectos del área de la Biomedicina.
+
+Requisitos:
+
+-Experiencia consolidada en Typescript i NodeJS.
+-Sería ideal Conocimientos de NestJS.
+-Preferible experiencia en Angular o React a la parte de frontend.
+-Ideal poderse comunicar con Cloud desde el PC o dispositivo, especialmente con Azure SDK
+-Windows & Linux OS
+-Inglés: Buen nivel
+
+
+Y llegados a este punto… ¿qué te ofrecemos?
+
+Contrato indefinido a través de Oxigent Technologies.
+Salario acorde a la experiencia aportada (38.000-45.000 euros brutos / año).
+Flexibilidad horaria y teletrabajo 100%.
+Cheque formativo anual.
+Paquete de retribución flexible aplicable a seguro médico, restaurante, transporte, guardería y formación.
+Seguro médico privado.
+Andjoy.

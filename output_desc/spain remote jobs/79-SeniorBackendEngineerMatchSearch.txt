@@ -1,0 +1,82 @@
+About the job
+NOTICE: ONLINE RECRUITMENT PROCESS
+LOCATION: BARCELONA OR REMOTELY FROM SPAIN
+
+
+There are more than 300 million reasons to join Brainly — one for every student you’ll help go from questioning to understanding. Team up with us as we build and continue improving one of the most popular ed-tech products on the planet. In a world of questions and uncertainty, you can be part of the answer as we shape the future of learning and change lives, one student at a time. If this excites you, you know what to do next.
+Let’s get to know each other. And get ready to make a difference!
+
+
+ROLE OVERVIEW
+
+Within the Match&Search team you’ll work on core features experience of students who use the web version of Brainly. It’s dedicated to be able to find connections between different problems users need to solve in order to keep them deduplicated and described with useful taxonomy. Work you do here will have an immediate impact on how efficiently Brainly will recommend solutions and additional problems to students who start off their learning process with a single question.
+
+We’re looking for a Senior Back-end Engineer to work with us to develop a high quality and reliable product for our users, who is ready to tackle complex challenges with the right tools. We don’t expect our future colleagues to have the experience with every language or tool we use at production. We write mainly in Go but, as everything in life, these can be learned and we are sure that our bootcamp will get you up to speed. We are also a team of engineers with diverse backgrounds and we are more than happy to learn from your experience too.
+
+Are you a goal-driven team player? Do you like tackling new challenges using leading-edge industry tools? Can you adapt to rapidly changing conditions while learning and bettering yourself? Are you a detail-oriented expert who loves focusing on quality? If you answered yes to these questions, you might just be the perfect candidate for this role!
+
+
+HOW DO WE BUILD SERVICES?
+
+Back-end engineers enjoy all the pros and cons of distributed programming. We ship changes to production multiple times a day and our delivery pipeline makes your code ready to join thousands of already running containers in just 5 minutes. Our services land on Kubernetes that is hosted on AWS. We also leverage the power of AWS serverless like Lambdas, DynamoDB, AppSync, Cognito, just to name a few. Services communicate either via messaging or good old HTTP. Our platform is defined entirely as code (Terraform, Ansible) and we get lots of goodies out of the box - alerting, logging and telemetry to name a few. We are believers in the DevOps culture, but we still have some things to do to get there.
+
+
+WHY ENGINEERING AT BRAINLY?
+Enjoy a great engineering culture — we regularly conduct code reviews and schedule time for writing tests.
+Have an impact on every stage of the project, including requirement discussions, design, implementation, and delivery.
+Always go beyond! Our collaborative environment creates room for everyone to learn, improve, and take our engineering to the next level.
+
+
+WHAT YOU'LL DO
+Executing and improving software development life cycle (SDLC) including proper planning, analysis, designing, implementation, testing and maintaining code for the Brainly platform
+Building solutions according to requirements, adhering to company standards, conventions, and best practices.
+Solving complex technical challenges such as performance, scalability, high reliability and security
+Collaborating with the development team, with such roles as Software Engineers, Quality Assurance Engineers, UX Designers, Product Managers, Delivery Managers and other stakeholders
+Conducting meaningful peer code reviews
+Writing high-quality documentation
+Maintaining existing systems by monitoring, troubleshooting, debugging and fixing software defects
+Taking part in the recruitment process as a technical recruiter and helping hire great engineers
+Sharing knowledge and expertise with others in the company
+Guiding and mentoring peers with less experience.
+
+
+WHAT MAKES YOU THE PERFECT CANDIDATE
+5+ years of experience writing web services in a general-purpose programming language
+Experience with databases/data stores
+Interest in TDD and specific experiences using a test heavy approach to solve problems and create solutions, understanding of core testing principles
+Experience building distributed systems at scale
+Ability to brainstorm and co-create new solutions, both business and technical
+Established ability to diagnose technical problems, debug complex problems across the whole stack, and automate routine tasks
+Focus on the needs of our users, both internal and external
+Fluency in English
+High level of self-organization and ability to make your own decisions
+
+
+WHAT WILL BLOW OUR MINDS
+Knowledge of Go or other statically typed language
+Experience with building large scale internal tools
+Experience building microservices
+Experience working with public cloud provider offerings (AWS, GCP, Azure, etc)
+Experience working with messaging queues and/or streaming platforms
+Experience working with GraphQL
+
+
+WHAT YOU GET BY JOINING BRAINLY
+We want to see you grow along with us - you will have 800$ per year for personal development, extra time for attending conferences and workshops, and unlimited access to an online learning platform (courses from Coursera, Udacity, Udemy, Harvard ManageMentor, and many others!)
+Health is important, which is why at Brainly, we fully cover private health & dental care packages for you and your family and provide you with a sport card (Multisport Plus in Poland, Andjoy in Spain)
+You will also get an access to online individual psychological consultations with professionals in English & Polish via the Mental Health Helpline
+Flexible working hours - working requires communication, so we work within the European business hours, but we also know that life may be unpredictable, so if you need to jump out of work (doctor’s appointment, emergency, anything) - no problem!
+Your personal concierge AskHenry will support you in your daily duties, eg. planning your dream vacation
+We will provide you with all the necessary equipment & tools, including an additional budget for accessories which will make your remote setup even more comfortable.
+
+
+
+WHAT IS BRAINLY
+
+Brainly is the online learning platform where over 300 million students and parents go from questioning to understanding. With their smartphones, users can snap a photo to instantly solve any problem or homework question and be matched with a Brainly product such as Community Q&A, Brainly Tutor, Math Solver or Textbook Detective.
+
+Brainly is built to provide students, parents, experts, and teachers with a collaborative platform and tools needed to succeed in any educational environment. Based in Kraków, Poland, with U.S. headquarters in New York City, Brainly apps and websites are visited by users from over 35 countries.
+
+Backed by Prosus, Point Nine Capital, General Catalyst, Runa Capital, Learn Capital and Kulczyk Investments. Learn more about Brainly at www.brainly.com.
+
+By sending us your application you agree that Brainly sp. z o.o. will process your personal data to participate in this recruitment process. If you want to know more about how Brainly processes your personal data please check here [https://careers.brainly.com/data-protection].

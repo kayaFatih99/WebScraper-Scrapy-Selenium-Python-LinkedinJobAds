@@ -1,0 +1,77 @@
+About the job
+TLDR: We're looking for an experienced Engineer with strong frontend engineering and web/frontend platform experience.
+
+About Postman.
+
+
+Postman is the world's leading collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration to help create better APIs—faster. More than 20 million developers and 500,000 organizations worldwide use Postman today. Here's a timeline of Postman's journey in becoming an API Platform.
+
+
+P.S: We highly recommend reading The "API-First World" graphic novel to understand the bigger picture and our vision at Postman.
+
+
+Our customers are doing more and more astounding things with the Postman product every day, and as a result, we are growing rapidly.
+
+
+The team.
+
+
+Our Foundation team is responsible for the underlying architecture of Postman web & desktop clients, and builds and owns SDKs, tools, services & infrastructure that help our product teams build great user experiences and interfaces.
+
+
+We are looking for an experienced engineer to join our team. You’ll work closely with engineering leaders and our product teams to achieve our mission of creating the next 100M developers in the world.
+
+The team is spread across India and Europe and we're open to considering candidates in either location(s).
+
+
+What You'll Do.
+
+Work with Postman engineers from across product teams to identify pain points in building and delivering web applications.
+Design, develop, and maintain robust libraries/abstractions to support internal product teams.
+Perform code reviews and play a part in improving the overall maturity of the platform.
+Identify emerging technologies and patterns that simplify building and maintaining large Single Page web applications.
+Advocate for best practices that improve reliability, security, performance, or quality.
+Mentor early-career and experienced engineers to bring out the best in them and help them succeed at Postman.
+
+About You.
+
+3 years + hands on frontend focused software engineering experience.
+Proven experience of working within a platform team together and a deep understanding of the capabilities and constraints of the web platform.
+Experience building large single-page applications with millions of users worldwide, and hundreds of contributors with fast release cycles.
+Experience designing great APIs/libraries that are well designed, tested, and documented
+Experience collaborating across engineering teams
+Good written and verbal communication skills
+Experience and Excitement towards working with global, distributed teams
+Alignment with our Values
+An innate curiosity about how things work
+Lots of smiles :)
+
+
+Nice to Have.
+
+A passion for teaching and making others more productive.
+A willingness to get into the unglamorous details of building modern distributed systems.
+
+
+Our Values.
+
+
+At Postman, we create with the same curiosity that we see in our users. We value transparency and honest communication about not only successes, but also failures. In our work, we focus on specific goals that add up to a larger vision. Our inclusive work culture ensures that everyone is valued equally as important pieces of our final product. We are dedicated to delivering the best products we can.
+
+
+What Else.
+
+
+We offer competitive salary and benefits, and a flexible schedule working with a fun, collaborative team. Enjoy full medical coverage (in eligible regions), unlimited PTO, and a monthly lunch stipend. (Yes, seriously. We want you to eat well wherever you’re at.) Plus, our wellness program will help you stay healthy from your location with fitness-related reimbursements. Our frequent and fascinating virtual team-building events will keep you connected, while our donation-matching program can support the causes you care about.
+
+
+We’re building a long-term company with an inclusive culture where everyone can be the best version of themselves, and we want you to be part of it.
+
+
+Equal Opportunity.
+
+
+At Postman, diversity means we implement informed policies and practices to grow a company that reflects global experiences and identities while treating each person with fairness and dignity. Inclusion is the choice we make each day and with every interaction, to foster a workplace and world where people of all backgrounds not only belong but excel. We understand that together, we succeed better.
+
+
+Postman is unapologetically committed to Equal Opportunity Employment. We proudly offer equal employment opportunities to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. If you have a disability or special need that requires accommodations through the hiring process, please let us know early by emailing us: accommodations@postman.com. We want to give you every opportunity to show us the star that you are. Join us, why dontcha?

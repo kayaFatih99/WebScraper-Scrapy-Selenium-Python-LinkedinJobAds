@@ -1,0 +1,33 @@
+About the job
+About Fresha
+
+Fresha is the world's largest and top-rated booking platform for Beauty and Wellness trusted by millions of consumers worldwide.
+
+Available in 120+ countries worldwide, Fresha is used by 70,000+ businesses and 250,000+ professionals worldwide, booking over 500 million appointments. Fresha is headquartered in London, United Kingdom with global offices located in New York City, Vancouver, Sydney, Dublin, Amsterdam, and Warsaw. The company raised $185M in venture capital funding to date from leading institutional investors.
+
+How do we work?
+All our services are built-in Ruby, Elixir or Typescript, depending on which language best suits the solution
+For communication we use Kafka for events and gRPC or JSON for synchronous calls.
+All our services run in Kubernetes.
+We are in the process of switching away from our Ruby monolith to a brand new microservice architecture.
+Domain driven design is at the heart of our development process, we like to build fast but think about the bounded context before we start.
+
+Requirements
+
+Skills, experience & qualifications required
+You understand how to build, deploy and maintain a globally distributed system.
+Knowledge of event driven systems and tools/protocols like Kafka, gRPC will be a plus.
+Have experience (~3+ years) working on internal product engineering teams, developer tools, developer productivity or infrastructure products at scale.
+Are a generalist engineer with an ability to pick up new frameworks quickly and willing to work across the stack.
+Enjoy understanding technical domains deeply and are willing to really get into the weeds
+You’re tech stack agnostic and care more about using the right tech for the job. Ideally you have worked with 3+ different flavors, functional, OO and scripting languages.
+
+Benefits
+
+What can you expect from work at Fresha?
+Taking part in the decision making process of migration to microservices.
+Learn how to design, deploy and maintain complex applications.
+Help us to introduce other technologies such as serverless services, SQS, continuous delivery and deployment and more.
+Highly competitive compensation
+Remote-first - Work from anywhere, anytime
+Travel coverage when visiting teammates - through workshops and social events

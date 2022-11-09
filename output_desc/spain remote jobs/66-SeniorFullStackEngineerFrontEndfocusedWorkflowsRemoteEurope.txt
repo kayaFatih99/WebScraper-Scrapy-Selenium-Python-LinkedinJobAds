@@ -1,0 +1,44 @@
+About the job
+Front is on a mission to make work happier with the first-ever customer communication hub. Relationships are everything in business, but they’re hard to maintain as a business grows because traits like trust, compassion, and empathy are human qualities that have been difficult for technology to scale. We’ve reimagined the way businesses communicate by bringing customer conversations to the center of one’s focus. Today, nearly 8,000 businesses have discovered that they can still grow their business and keep the human touch. The world is on course to work happier. We believe our role is to accelerate and shape this path in three ways: the product we make, the culture we live, and the example we set.
+
+With $204M in funding, Front is backed by Sequoia Capital and other leading venture capital firms, as well as independent investors including top executives of Atlassian, Okta, Qualtrics, Zoom, and PagerDuty. Front has received numerous Great Place to Work accolades, including #4 on Fortune’s Best Workplaces in the Bay Area™ , Inc. Magazine's 2022 Best Workplaces list , Forbes Best Startup Employers 2022 List , Best workplaces for Millennials 2022 list , and Y Combinator's list of Top Companies in 2022 .
+
+At Front, we're building a world-class app deployed at a massive scale - a single company using the platform could see thousands of users working together in real-time on millions of messages every day. To meet these challenges, we use modern tools like TypeScript, React, Redux, Styled Components and React Query. We’re looking for an experienced frontend engineer, or a full-stack engineer with a particular passion for the frontend. Familiarity with our stack is useful but not essential, the key is that you're excited to deliver key product improvements and new features for our growing customer base.
+
+At Front, our mission is to help people work happier. In the “Workflows” pod, we drive happiness through Front's powerful rules system, which helps users to automate repetitive tasks, intelligently assign conversations and even allows customers to build their own robust no-code integrations.
+
+We are able to hire remotely in France, the UK, Ireland, and Poland.
+
+What will you be doing?
+Own central, complex components of the Front application
+Drive and deliver on our product roadmap , turning rough specs into features
+Find elegant solutions to usability problems
+Provide leadership and mentorship to other engineers on the team
+Ramp on new web technologies that will make Front better
+Note: in this role, you can expect to do not only traditional front-end development but also active client-side software engineering, including algorithm, optimization, memory management, etc.
+
+What skills and experience do you need?
+Successful industry experiences building fast, reliable, real-time web-based applications using React
+Customer centered mindset: committed to building the best user experience
+Knowledgeable about modern web technologies and excited to learn new ones
+Excited about sharing your knowledge and collectively improve the team best practices
+Ability to thrive in a dynamic, fast-paced, collaborative, and high-growth environment
+Understand the trade-offs in employing different engineering solutions to a problem, valuing pragmatism over idealism
+Full professional English proficiency
+What We Offer
+
+✨ Competitive salary
+
+🤝 Equity (we are post-series D & backed by some of the best VCs in the US)
+
+🏥 Private health insurance fully covered by Front
+
+💪 Flexible Fridays - learn more here !
+
+🏡 Flexibility to work from home 3 days/week (unless posted as a full-remote role)
+
+🛋 Mental health support with Modern Health
+
+🍼 Family planning support with Maven
+
+Front provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age or disability.

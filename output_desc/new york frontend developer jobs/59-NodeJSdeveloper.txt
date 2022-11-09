@@ -1,0 +1,9 @@
+About the job
+Programming Languages: NodeJS. · Scripting tools (Python/Perl/Shell/HTML/PHP).·
+2+ years’ with using services from AWS or any other cloud (Azure/GCP)·
+Experience working in AWS Lambda Serverless technology is preferred.· At least 2 years of Agile experience, scrum preferred· Tools and Frameworks: Git, CI/CD Pipelines, Rest APIs, Swagger/Open API specification.
+Experience working with Relational and Non-Relational Databases.
+Good written, verbal, and interpersonal communication skills; ability to communicate and articulate clearly and demonstrates ownership and devops mindset;
+Ability to interface with cross-functional team members to gain support required to accomplish assignments;
+Qualifications :
+Bachelor’s degree in Computer Science or a related field or equivalent education and work experience required.

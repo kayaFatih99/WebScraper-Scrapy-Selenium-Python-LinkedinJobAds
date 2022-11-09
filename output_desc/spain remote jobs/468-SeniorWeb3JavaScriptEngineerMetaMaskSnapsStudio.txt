@@ -1,0 +1,61 @@
+About the job
+About The Role
+
+The next phase of the MetaMask browser extension will bring transformative new features to the web3 ecosystem, while strengthening the flagship features that empower our users today. Developing these new features within our secure plugin framework will be a paradigm shift for wallet users and developers alike.
+
+We are looking for highly collaborative engineers to drive the development of these plugins. In this role, you will ensure that MetaMask continues to support our mission of democratizing access to the decentralized web.
+
+To apply for this position, you must have:
+
+Demonstrated interest or experience with blockchain related development and web3 technologies through any of: work experience, hackathons, open source work, personal projects, or similar experiences.
+Several years of experience in roles requiring collaboration with design, QA and product
+A passion for our mission and values
+Proactive and self-driven to be successful working in a remote environment
+Brings enthusiasm and the hustle to shipping high-quality code
+Are kind, empathetic, and supportive towards the team
+Timezone: Ideally between PT and ET, if in EU/UK you are able to have ~4 hours overlap with continental US time zones.
+
+Bonus Points:
+
+You’re a MetaMask user!
+Experience writing TypeScript applications.
+Great understanding of the Ethereum blockchain and ecosystem.
+Previous hands-on experience with security and cryptography.
+Prior experience developing plugins of any sort.
+Familiarity with agile processes (e.g. Scrum, Kanban)
+
+Role Requirements
+
+As a Senior Software Engineer on this team, you would contribute in the following areas:
+
+Help implement new user-facing functionality, including adding new protocols, networks, account types, and more, all via the Snaps plugin system.
+Work with our design, QA, and product teams to build the best possible plugin products with compelling user experiences, while working within a secure execution environment and templated design system.
+Advise, from a developer perspective, on the Snaps API and contribute to the planning and growth of the API to support an ecosystem of community plugin developers.
+
+About ConsenSys
+
+Our mission is to unlock the collaborative power of communities by making Web3 universally easy to use, access, and build on.
+
+Working with ConsenSys puts you at the forefront of an evolving paradigm, transforming our society for the better. We fundamentally believe blockchain is the next generation of technology that can lay the foundation for a more just and equitable society.
+
+Blockchain tech is just over 10 years old. Ethereum itself is still a toddler and we’re far from reaching our full potential. You’ll get to work on the tools, infrastructure, and apps that scale these platforms to billions of users.
+
+You’ll be constantly exposed to new concepts, ideas, and frameworks from your peers, and as you work on different projects — challenging you to stay at the top of your game. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+
+Why join ConsenSys? Here are some of the perks of being part of a unique organization like ConsenSys:
+
+One of the most recognized tech companies in the blockchain ecosystem globally. A work experience at ConsenSys is a tremendous reference for your future career. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+
+The forefront of a revolution. We fundamentally believe blockchain is a next generation of technology that can lay the foundation for a more just and equitable society. You can be a part of building the digital economy of tomorrow and radically transforming our society for the better.
+
+A dynamic startup environment with deep roots. We are one of the earliest blockchain companies and a leader in the space. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem.
+
+Deep technical challenges. Blockchain technology is just over 10 years old. Ethereum itself is still a toddler. There is much to be done before these platforms can scale to the order of millions or billions of users. We are building the tools, infrastructure and applications l that are pushing the technology forward.
+
+Continuous learning and improvements. You’ll be constantly exposed to new concepts, ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game.
+
+The salary range for US-based candidates only will be determined throughout the interview process depending on experience and skills. Candidates should anticipate a base salary (not including bonus, equity or other benefits) of $120,000 to $245,000
+
+ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.
+
+ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here.

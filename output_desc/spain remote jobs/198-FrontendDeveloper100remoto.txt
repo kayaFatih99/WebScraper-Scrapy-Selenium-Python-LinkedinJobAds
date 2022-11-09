@@ -1,0 +1,48 @@
+About the job
+Empresa de software
+Remoto – España
+Contrato indefinido
+
+
+Formarás parte de un excitante proyecto en la empresa tecnológica numero #1 de movilidad en España que lleva más de 10 años en el mercado.
+
+Actualmente se encuentra en pleno crecimiento y están buscando un perfil Frontend Developer para formar parte del equipo de Software.
+
+La misión de la compañía es optimizar la movilidad en las grandes ciudades a través de la tecnología.
+
+Con un ambiente de trabajo inmejorable, la compañía basa sus valores en la transparencia, cercanía, lucha y pasión.
+
+
+Tu misión:
+Desarrollar el aspecto visual de las aplicaciones.
+Colaborar en el diseño funcional y técnico de las interfaces visuales, ya que requiere supervisión en este aspecto.
+Asegurar la viabilidad técnicas de la interfaz del usuario (UX Design)
+Optimizar la aplicación de la máxima velocidad y escalabilidad.
+Asegurar que toda la entrada del usuario se valide antes de presentar el Back End
+
+
+Tu perfil:
++3 años de experiencia con JavaScript /Jquery
++2 años de experiencia con Angularjs -Angular,IONIC 4-5
+HTML5
+CSS3
+SEO Programación Frontend, W3C
+
+
+Se valora:
+Motivación, proactividad y responsabilidad
+Ganas de hacer un trabajo de calidad y de aportar tus conocimientos al equipo
+Ganas de aportar ideas nuevas
+Dominio del inglés es valorable
+
+
+Beneficios:
+Flexibilidad horaria
+100% remoto
+Excelente ambiente de trabajo y compañeros de 10
+Incorporación en un equipo multidisciplinar altamente cualificado en donde podrás desarrollar carrera y participar en proyectos retadores e innovadores
+
+
+Podrás trabajar haciendo integraciones con los sistemas más punteros. Trabajarás con las compañías más grandes Españolas y también a nivel internacional.
+
+¿Te atreves al reto?

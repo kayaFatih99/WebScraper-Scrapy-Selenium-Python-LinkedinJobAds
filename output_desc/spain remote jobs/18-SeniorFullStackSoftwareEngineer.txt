@@ -1,0 +1,64 @@
+About the job
+Do you enjoy working with tens of terabytes of data?
+
+Do you want to work for a company that’s experiencing double-digit growth with a 9-year track record of profitability?
+
+Are you the kind of engineer who prefers to develop and optimize high performance data aggregation and analysis pipelines at scale?
+
+Do you want flexible work hours and an unlimited holiday policy?
+
+If you answered yes to any of the above, then you need to apply to Sensor Tower!
+
+Role Summary:
+
+From efficiently scaling database operations to supporting the growing amount of data (tens of terabytes), we're looking for engineers that have the creativity and skills to gather meaningful data and insights.
+
+As an engineer at Sensor Tower, you will make sure we're building the best possible products and features to support our users. In our lean and flat organization, you will also have a meaningful say in what and how we build out all aspects of our product.
+
+A Day in the Life:
+
+Interviewee: Software Engineer - Sasha Elhovenko
+
+What does your day to day look like working as a Software Engineer?
+
+I work with tons of data and the volume of this data is constantly increasing. My job is to make sure our customers can access it as quickly as possible and provide them convenient tools for data consumption.
+
+How do you collaborate with your team as a remote employee?
+
+Sensor Tower has a great atmosphere of a distributed team. I like to pair with my colleagues remotely to combine our knowledge in order to get the job done efficiently.
+
+What You Will Work On
+
+Participate in the full development life cycle, including design, implementation, quality polish, and release.
+Leverage your strengths and interests to work on full feature implementation from the front end, to the API, all the way to the back end.
+Develop and optimize high performance data aggregation and analysis pipelines at scale.
+Mentor other engineers, perform code reviews, and suggest improvements to tools and processes.
+
+Skills We Are Looking For
+
+5+ years of experience as a software engineer (If you have lesser years of experience but have meaningful github contributions and other coding samples, this will be taken into consideration).
+Strong foundation in programming, algorithms, and software application design.
+Solid understanding of RESTful systems and the principles of good API design.
+Required: Ruby on Rails.
+Preferred: Javascript/TypeScript.
+Nice to have: MongoDB, React.js, ES6.
+
+Read more about some of our Technical challenges here (written by members of our engineering team):
+
+https://sensortower.com/blog?category=2037363497
+
+About Sensor Tower
+
+Sensor Tower is a high-growth SaaS company that provides accurate, comprehensive, and customizable mobile market economy analytics to app developers, game developers, industry analysts and investors. Founded in 2013, Sensor Tower has grown from a $1M seed investment to being profitable and in 2020 we received a $42M growth investment from Riverwood Capital.
+
+Why Sensor Tower?
+
+Our flexible work environment allows employees to live in greater connection with the people, places, and activities they love!
+
+Our benefits include:
+
+Flexible time off so employees can shape their time away from work.
+Health and wellness stipend to achieve and maintain a healthy lifestyle through physical and mental fitness.
+Monthly internet stipend and a one-time $500 home office stipend.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, and veteran status. We will consider qualified applicants with arrest and conviction records. If you have a disability or special need, please do not hesitate to let us know and we'll do our best to accommodate.

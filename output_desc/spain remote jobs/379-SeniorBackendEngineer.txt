@@ -1,0 +1,62 @@
+About the job
+Gradle Enterprise is a first-of-its-kind product that software teams use to accelerate and optimize Gradle and Apache Maven™ builds. It comprises several facets including large volume data ingestion and processing, complex data analysis and visualization, and distributed caching and execution systems.
+
+Our software is used by some of the world's leading software organizations, such as Netflix, Airbnb, Spotify, and Twitter. We regularly collaborate with these and other users to make our products continuously better.
+
+Profile
+
+We are looking for back-end engineers with a demonstrated ability to efficiently deliver and maintain robust and useful software based solutions, as part of a collaborative team.
+Our ideal candidates have a success record of delivering testable, evolvable, and scalable back-end architectures to production. While not necessarily build experts, they do exhibit a deep understanding and interest in the automation domain and in developer productivity. They thrive on challenging development and integration problems, understand the nuances of performance and memory optimization, possess and can capably articulate strong opinions, and feel comfortable collaborating with a distributed team.
+
+Responsibilities
+Designing and implementing robust solutions
+Applying automated quality assurance
+Employing modern software development techniques and practices
+Doing user research, outreach and support
+Assisting clients during trials and in production
+Managing individual project priorities, deadlines and deliverables
+Contributing to changes that improve the team’s velocity and efficiency
+
+Minimum qualifications
+5 years of software development experience
+Experience programming in Java 8 or later
+Experience with Unix/Linux operating systems
+Working proficiency and communication skills in written and verbal English
+
+Preferred qualifications
+Experience developing large-scale web applications
+Experience with AWS, Docker, and Kubernetes
+Experience automating the software build and delivery process
+Experience developing and maintaining Gradle and/or Maven builds
+Ability to debug, profile, and optimize code
+Ability to perform and receive code reviews
+Systematic problem-solving approach, coupled with effective communication skills
+Interest and ability to learn new software development skills and techniques
+
+What we offer
+Developing a unique software product used by other software engineers that love it
+Tackling and solving together challenging performance, scalability, and usability problems
+Collaborating closely and daily with remote colleagues distributed across the globe
+In-person onboarding in Switzerland and yearly, extraordinary company offsite event
+Opportunities for growth in technical and managerial responsibilities
+Attractive compensation package including company equity
+
+Location
+Anywhere in the world with working conditions that allow for seamless collaboration with your colleagues through email, chat, and video streaming
+
+How to apply
+The following is required with your application:
+Submit your cover letter, your resume, and a build scan link via the form below
+Explain in your cover letter why you want to work on the Gradle Enterprise product
+Create a build scan for any OSS project and tag it with back-end-engineer
+
+Next steps
+After applying, familiarize yourself with the Gradle Enterprise hiring process to understand the next steps.
+
+About us
+We are committed and skilled software engineers, product designers, and marketing experts who are passionate about developer productivity. We take pride in delivering products that are relied upon daily by some of the world's leading software organizations, such as Netflix, LinkedIn, Airbnb, Spotify, and Twitter.
+Our team is globally distributed but deeply connected. We value our interpersonal relationships as much as we value our achievements. We are a diverse and inclusive workplace where we learn from each other and together. We welcome people of different backgrounds, experiences, abilities, and perspectives.
+Visit our careers page to learn more about the company and see other open positions. Visit Glassdoor to read what current and former Gradle employees have to say about the company.
+
+Privacy Notice
+For information about our collection, use, and disclosure of applicants’ personal information as well as applicants’ rights over their personal information, please see our Job Applicant Privacy Notice.

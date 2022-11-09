@@ -1,0 +1,42 @@
+About the job
+En AXPE Consulting estamos transformando el mundo de la Tecnología. Por ello, te invitamos a vivir una experiencia única desarrollando tu carrera en una Compañía multinacional, presentes en Europa y América que mira hacia el futuro. Nuestros valores definen nuestra identidad, son la palanca que nos ayuda a hacer realidad nuestro propósito y guían todas nuestras acciones y decisiones: apostamos por el TALENTO.
+
+Desde el departamento de IT, buscamos un Back-End Developer con Java 8/11 con Microservicios para participar en diferentes proyectos con muchos retos, tecnológicos e innovadores.
+
+¿Cuál es tu reto?
+
+Desarrollo de análisis y diseños técnicos a partir de las especificaciones de los requisitos de negocio y la documentación de análisis funcional.
+Desarrollo de soluciones de Back-End basadas en una arquitectura dirigida por eventos (EDA) y microservicios.
+Analizar y proponer alternativas de implementación, aportando la visión técnica desde el punto de vista del Back-End.
+Asegurar la ejecución de las mejores prácticas.
+Propietario de la aplicación, en términos de entrega y servicio
+Analizar, diseñar y desarrollar servicios y procesos de negocio a partir de los requisitos de negocio utilizando un enfoque SOA.
+Colaborar con y entre equipos ágiles para diseñar, desarrollar, probar, implementar y dar soporte a soluciones técnicas en herramientas y tecnologías de desarrollo Full-Stack.
+Producir, mantener y modificar interfaces de usuario web.
+Mantener y dar soporte a las soluciones existentes.
+
+
+¿Qué buscamos de ti?
+
++2-3 años de experiencia con Java (v8/v11) y microservicios de SpringBoot montados con Docker.
+Experiencia con colas de Kafka.
+Experiencia con Kubernetes/Docker.
+
+¿Qué valoramos?
+
+Estar acostumbrado a trabajar con metodología Agile.
+Experiencia con TDD, BDD, Junit y similares.
+
+
+¿Qué te ofrecemos?
+
+Oportunidad de desarrollar tu carrera en contexto global.
+Contrato indefinido.
+Horario flexible y teletrabajo, para facilitar la conciliación con tu vida personal.
+Seguro médico a precio reducido (para ti y familiares directos).
+Formaciones y certificaciones a nuestro cargo, que te permitan crecer profesionalmente junto a nosotros.
+Formar parte de una compañía donde se fomentan las comunidades tecnológicas, el intercambio de conocimiento y la excelencia técnica.
+
+
+En AXPE estamos orgullosos de ser una empresa experta en tecnología que apuesta fuerte por el talento. La responsabilidad corporativa es inherente a nuestro modelo de negocio, impulsamos la educación tecnológica tanto a nivel formativo como laboral.
+Formar parte de AXPE es liderar la transformación del sector tecnológico.

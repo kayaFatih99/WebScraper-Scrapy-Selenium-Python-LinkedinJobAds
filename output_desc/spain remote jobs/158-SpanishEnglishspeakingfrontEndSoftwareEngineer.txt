@@ -1,0 +1,41 @@
+About the job
+Apex Systems, an International IT Consulting firm, has an immediate opportunity for a Software Engineer to support one of our top clients remotely from Spain. Please find the details below.
+
+If interested please email your CV and best phone number to Diana McDermott at epitt@apexsystems.com for consideration
+
+Job Title: Sr. Front End Software Engineer
+Location: Remote from Spain
+Duration: B2B or umbrella contract
+Pay: €30-50 per hour(depending on experience)
+Description:
+We are looking for a Front End Software Engineer for our offices in Madrid. The Senior Front End Engineer will shape how enterprises and developers combine the latest technologies and services. They are passionate about software development and quality is always a priority. This new team member will contribute to building one of the products that run as part of our Cloud architecture.
+
+
+Principal Duties and Responsibilities:
+· Work under agile principles.
+· Participate in meetings and conferences to gather requirements and discuss architectural decisions.
+· Participate in internal meeting to review solution, all dependencies, actions and timelines.
+· Work in a CI/CD environment.
+· Collaborate with other employees to ensure quality product enhancements.
+· Write clean, maintainable code following best practices (unit testing, source control, continuous integration, automation, design patterns, etc.)
+· Collaborate with other developers, testers, and system engineers to ensure quality product enhancements.
+· Apply a thorough understanding of deploying and managing application lifecycles to interpret customer business needs and processes.
+· Development and implementation of UI components
+· integration of libraries
+· Development and implementation of automated testing governance as well as enforcement of adopting best practices of application development and compliance in order to build scalable, distributed, and fault-tolerant software systems.
+
+Experience:
+· A candidate for this position must have had at least 5 years of working experience in frontend development. The candidate will also have had sufficient experience with functional programming and Javascript libraries.
+· They should have had experience with Javascript frameworks such as Vue, React, and web components, as well as vast experience building complex web user interfaces.
+· The candidate will demonstrate a keen understating of user interaction and design principles and standards.
+· They will have significant knowledge of visual aesthetic components and elements such as fonts, layout, color, graphics etc.
+
+Technology/Software:
+· The Senior Frontend Developer must also be highly proficient in CSS3, HTML5, Javascript.
+· They must also be greatly proficient in web technologies such as ES6, Vue, Web components, Stencil, React.JS, and AngularJS.
+· They will also demonstrate a deep understanding of CSS pre-processing platforms, inclusive of SASS.
+· Used JavaScript task runners like grunt and gulp.
+· DevOps tools are a huge plus.
+In-depth knowledge of cloud and virtualization technologies like Amazon Web
+Document Oriented Databases: MongoDB
+Experience with API integration and Micro Services and Containers

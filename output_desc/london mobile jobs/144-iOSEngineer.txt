@@ -1,0 +1,48 @@
+About the job
+Busuu is one of the top EdTech companies in the world and has won numerous awards for its innovation and impact in language learning.
+
+Busuu’s vision is to empower everyone in the world through languages. We are the world’s largest online community for language learning, with more than 120+ million users from 190 countries, growing at up to 20,000 new users per day. We make learning a language easy by combining AI-powered courses with instant feedback from our global community of native speakers and live tutoring from qualified teachers across the world.
+
+In January 2022, Busuu was acquired by one of the largest EdTech companies in the world, Chegg (NYSE:CHGG). Being part of Chegg will help us to accelerate our growth and achieve our vision even faster.
+
+If you are interested in EdTech and want to be a part of a mission-driven organisation, then we would like to hear from you.
+
+Why is an iOS Engineer important at Busuu?
+The iOS platform is the biggest mobile platform in the world by revenue and iOS at Busuu is growing faster than ever, leading the switch to mobile in greater and greater numbers. We’re live in more than 190 countries across the world, and we want to keep adding to the features that we’re bringing to our millions of users. The reach and impact that our iOS app has across the world, to enrich users’ lives through easy access to language learning, means it is incredibly important to us to continue to build extraordinary iOS applications that are accessible to everyone.
+
+What does an iOS Engineer do at Busuu?
+As an iOS Engineer, you’ll be working on our flagship and language specific apps, shipping to over 190 countries throughout the world in 12 languages, offering our users a huge variety of languages to learn from. You’ll think about how users interact with our learning experience, how to help them learn better and faster and then build an experience that everyone can enjoy learning with.
+You’ll work on brand new and existing features, shipping often and supporting your application all the way to production and beyond. You’ll work with an amazing, experienced team of iOS engineers, and think about the entire life cycle of the application, from architecture to automated testing. We’re not afraid to do the right thing, refactoring when necessary while at the same time ensuring that we’re shipping new features to consumers as fast as possible.
+
+What makes a great iOS Engineer at Busuu
+Professional iOS development experience, with a history of shipping iOS apps
+Previous involvement in entire app development lifecycle, from project creation through coding & QA to app store deployment
+Knowledge of unit testing in iOS
+Good foundation in iOS UI principles. You will be working with a UX team, but your suggestions and design ideas will be appreciated and considered
+Experience working with REST APIs
+Deep appreciation of mobile development practices and iOS app optimisation
+Good understanding of iOS app architecture and use of design patterns
+Strong Object Oriented (OO) & Swift skills, with an appreciation for pragmatism and simplicity in code
+Experience with Objective-C
+An open attitude towards learning and sharing knowledge
+
+At Busuu we want to ensure that you have access to some great benefits:
+Our centrally located offices are well-equipped with free breakfast, plenty of snacks, fresh fruit, and free dinner of your choice if you need to stay late
+Busuu offers a great Private Health Insurance scheme
+There is a personal training budget just for you, so you can learn more in your field to ensure our employees can continuously grow and progress in their careers
+We like to support our teams with their work-life balance so we offer flexible working hours and a hybrid model of working
+We offer enhanced maternity and paternity leave
+Staying connected as a team is very important to us, so we have lots of social activities for you to join such as team lunches, Friday socials, quarterly team, and company events
+
+What happens next
+We aim to have a simple and speedy hiring process and we want to make sure that we are right for you as much as the other way around. The hiring process for iOS Engineer is the following steps:
+CV application review - We will review it as quickly as possible
+Let’s chat - Quick chat with our recruiter about your experience and the role
+Culture fit interview - On-site or video call with the Engineering Manager
+Technical questions - Technical call with the team
+Technical test - We will send you a technical test to complete in your time
+Coding review - Technical interview and task review with the team
+
+Our platform is for everyone, and so is our workplace. We pride ourselves on embracing our differences, whether they're cultural, racial, religious or otherwise. This means each one of us comes to work knowing that we have a voice – and a safe, judgment-free zone to speak freely.
+
+If you like the sound of that, join us. We'd love to hear what you have to say.

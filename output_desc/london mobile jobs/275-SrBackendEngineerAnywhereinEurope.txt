@@ -1,0 +1,57 @@
+About the job
+At Lifebit, we carve our own path. Trusted by Governments and world-leading pharma institutions and funded with a over $70m we are on a mission to harness the power of connected data and bring precision medicine to life globally. The key to saving human lives is providing researchers across the globe with the right data to develop more precise drugs faster.
+
+Generating large amounts of biomedical data has become relatively straightforward. The challenge now is finding, accessing and analysing this sensitive data stored across thousands of disconnected locations. It is frustrating and painfully difficult for researchers.
+
+Lifebit has created a patented, federated technology that brings analysis and computation to where data resides. This enables researchers to run analyses on multiple, distributed datasets in-situ, avoiding the risky movement of highly-sensitive data.
+
+Lifebit powers pioneers in national precision medicine such as Genomics England (UK Government) and the Hong Kong Genome Project and guides them on how to make their valuable data usable securely. Biotech and pharma leaders like Boehringer Ingelheim turn to Lifebit to connect them to this otherwise locked up data to obtain novel therapeutic insights.
+
+Our technology is unmatched and momentum is on our side - but we need an exceptionally strong team to help boost Lifebit to incredible new heights.
+
+The different teams’ stack includes:
+Backend: NodeJS, TypeScript, MongoDB
+Infrastructure: Terraform, Docker, Kubernetes, AWS
+Frontend: React-Redux
+Machine Learning: Python, Pandas, Sklearn, Tensorflow
+Bioinformatics: Nextflow, Conda, Python, R, Bash, Docker, Singularity
+
+As a Senior Backend Engineer in our team, you will:
+Take a leading role in defining software engineering processes and ways of working, not just coding
+Design and lead backend architecture implementation
+Contribute to features across the entire life cycle, from inception to deployment in production
+Navigate in new code and make sense through what you find
+Pick up new technologies and frameworks that suit the needs of products and users
+Demonstrate an interest in working with best practices and principles while contributing to them, in order to keep high quality standards and keep hell far away
+Work towards production deployment rapidly, be able to scale and to be monitored easily
+Enable feature improvements and delivery to be updated on a daily basis
+
+
+Requirements
+
+The role requirements below are just an indication of what we’re looking for - sometimes the perfect candidate is far more or less experienced than we anticipated. If you think that might be your case, please reach out and let us know!
+
+You should have a good understanding of best practices of web development and be able to apply them in web development (ES6, JS). Specifically, you have:
+NodeJS and TypeScript experience
+API design and implementation experience
+Understanding of interactions and communication between services at scale (sockets, polling, monitoring)
+Familiarity with TDD
+Experience with NoSQL databases
+Used communication services with message brokers (RabbitMq, Kafka, ...)
+Experience with services ingesting high volume of transactions and analytics
+A mindset ready to firefight against issues in realtime
+Experience with Docker, AWS, GCP and ops over cloud (nice to have)
+Fluency in English
+Good understanding of genomics and epidemiological data (nice to have)
+
+Benefits
+Competitive salary
+25 days of annual leave plus the usual public holidays
+Monthly team activities
+Conferences, events and training resources (Data science, AI, cloud, any tech stack, painting, origami, you pick!) - we offer £1,000 a year to each person for personal development)
+International and diverse team
+Flexible working during summer
+
+AboutLifebit is on the cutting edge of the biotechnology revolution.In April 2020, we closed our Series A funding round with tremendous support from new and existing investors. With offices in London and Lisbon, Lifebit is a diverse team spanning Europe and North America, with each person empowered and involved in every aspect of the business.Please check out some of the open-source projects our team has worked on:Flowcraft: https://github.com/assemblerflow/flowcraftTrifusion: https://github.com/ODiogoSilva/TriFusionKivy: https://github.com/kivy/kivypATLAS: https://github.com/tiagofilipe12/pATLASbionode-watermill: https://github.com/bionode/bionode-watermillYLOViZ Online: https://github.com/bfrgoncalves/Online-PhyloViZINNUENDO: https://github.com/bfrgoncalves/INNUENDO_REST_API https://innuendo.readthedocs.io/en/latest/“Best open-source tech stack you’ll find! We’re collaborating every day with the most pioneering organizations on the planet, the smartest people who are leading and redefining bioinformatics. I could not imagine being anywhere else.” ~Dr. Claire-Alix Zapata, Head of Scientific Content, Lifebit“Our leadership team lives and breathes our mission. Nowhere else can you be part of the decision making process on DAY ONE. Extreme ownership!” ~ Filippo Abbondanza, Bioinformatic Solution Architect, LifebitHere’s your chance to lead, to design, to own. To create.Get in touch.
+
+Please note - Keeping safe and healthy in the workplace is important at any time, but even more so in times like these. Therefore due to Covid-19 all staff members are now working remotely until further notice. Our hiring process is no exception - to protect you, our hiring team and others around, we will be arranging remote interviews with the successful candidates.Apply for this job

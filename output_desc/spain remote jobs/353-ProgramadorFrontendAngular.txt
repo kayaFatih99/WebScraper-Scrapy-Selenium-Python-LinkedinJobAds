@@ -1,0 +1,23 @@
+About the job
+Desde ServiguideBPO, buscamos incorporar un Programador Angular
+
+Se Ofrece
+Contrato Indefinido
+Proyecto remoto 100%
+Horario de oficina con viernes y verano de jornada intensiva.
+Posibilidad de retribución flexible.
+Requisitos
+Experiencia de al menos 4 años en - Framework Angular, últimas versiones.
+Lenguaje: JavaScript
+Conocimientos sólidos en HTML y CSS (preprocesadores, webcomponents)
+Testing automático
+Arquitecturas Microservicios
+Conocimientos de Nodejs
+Conocimientos en aplicaciones Hibridas (Ionic)
+Conocimiento de patrones de desarrollo funcionales
+Conocimiento de ES6 y Typescript
+Experiencia consumiendo REST APIs
+Buenas prácticas, Clean Code
+Dinamismo y resolutivo a la hora de afrontar problemas
+Herramientas integración continua (Jenkins) y repositorios de código Github Gitlab
+Cconocimientos de RxJs,Redux,PrimeNg.

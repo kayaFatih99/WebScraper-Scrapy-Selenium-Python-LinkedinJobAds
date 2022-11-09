@@ -1,0 +1,66 @@
+About the job
+About Us
+
+Description
+
+albelli and Photobox Group have merged to create a leading player in the online European Photo Product and Gifting market. Together we now serve a pan-European customer base of over 7 million customers, supported by our 1,150 colleagues across the United Kingdom, the Netherlands, France, Spain, Germany, Norway and Sweden. We are focussed on inspiring our customers to easily make beautiful photo products and bring their special moments to life.
+
+What you’ll be responsible for as a Android Engineer
+
+The Photobox mobile apps team have recently completed their first steps in creating a brand new experience for our customers. We’re excited to improve on this and continue being the best way to order personalised gifts on mobile.
+
+The Impact You’ll Make
+
+Developing and maintaining our Android apps as part of the mobile apps team.
+Developing Android apps using Kotlin using MVVM with Android Architecture Components and the latest and greatest technologies such as GraphQL, Room and LiveData, ensuring that all code is tested to the appropriate standards to allow us to ship regularly.
+Owning your tasks from refinement to delivery.
+Regularly ship apps in a mission-driven environment where teams are free to make their own decisions.
+Work within a close-knit, cross-functional team, and be keen to get involved with UI / UX Design, mobile development, backend development, product management, marketing or customer support.
+Share super interesting facts about the world when it’s your turn at our daily stand-ups.
+
+You will be working in a relaxed, social environment with a team who are excited to embrace challenges, conventional or otherwise. The team love learning new things and sharing what they are doing, so if this describes you and you’re ready to try your hand at something different, get in touch!
+
+APG Tech Stack
+
+Developing Android apps using Kotlin using MVVM with Android Architecture Components and the latest and greatest technologies such as GraphQL, Room and LiveData, ensuring that all code is tested to the appropriate standards to allow us to ship regularly.
+
+Requirements
+
+Minimum experience needed:
+
+Solid Android development knowledge in Kotlin
+Comfortable using Git and Github
+Experience retrieving and sending data to remote systems
+
+Even Better If You Have Experience With
+
+Android Architecture Components
+Jetpack Compose
+GraphQL (Apollo)
+AWS - Serverless
+iOS development
+Swift/Objective-C
+
+Benefits
+
+Annual Performance bonus (Discretionary)
+25 days of holiday a year (excluding public holidays) increasing by 1 day each year up to 30 days after 5 years continuous service
+8 weeks out of the year to work working remotely abroad
+Healthcare, dental and life assurance
+Money Purchase Pension scheme with employer/employee contributions
+Season ticket loans
+Cycle to work scheme
+Credits to spend each year on company products
+Mental health and wellbeing support available 24/7
+Referral bonus when you bring your friends to join the team
+Funded wellbeing - including discounted gyms, yoga and bootcamps in the office
+
+Equal opportunities statement
+
+We are committed to promoting equal opportunities in employment regardless of age, disability, gender reassignment, marital or civil partner status, pregnancy or maternity, race, colour, nationality, ethnic or national origin, religion or belief, sex or sexual orientation.
+
+If you have a disability or special need that requires reasonable adjustments in order for you to perform at your peak during the interview, please let our HR team know ahead of time so that they can assist. We will consider the matter carefully and try to accommodate your needs within reason. If we consider a particular adjustment would not be reasonable we will explain our reasons and try to find an alternative solution where possible.
+
+Sponsorship
+
+We aren't able to offer sponsorship for this role so please only apply if you have the RTW in the advertised location

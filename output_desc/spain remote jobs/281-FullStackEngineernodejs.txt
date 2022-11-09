@@ -1,0 +1,30 @@
+About the job
+En nebu estamos creciendo y nos estamos asociando con empresas y proyectos estupendos que sin duda están apostando por atraer no sólo al mejor talento, pero aquel que se identifique con entornos startup y con metodologías ágiles. En este momento, estamos buscando un desarrollador que aporte sólida experience en React y no sólo, también ganas y experiencia en Node.js. Buscamos a alguien que tenga experiencia en implementación en entornos cloud (AWS/Google Cloud/etc.), proporcionando servicios de alta disponibilidad y robustos.
+
+¿qué harás?
+
+Codificación en lenguaje Node.js pero idealmente, ser un perfil fullstack aportando gran valor en JS por ejemplo.
+Desarrollo de aplicaciones de alta escalabilidad.
+Trabajar con bases de datos (tanto SQL como No-SQL).
+Gestión de código a través de git.
+Interlocución con shareholders o clientes externos para la correcta implementación.
+Desarrollo e implementación de agile-mindset.
+
+
+¿qué buscamos?
+Experiencia contrastada en proyectos altamente escalables con un gran número de requerimientos.
+Sólida experiencia en Node.js
+Experiencia y buenas prácticas con Javascript o React por ejemplo (muy valorable).
+Pasión por código limpio y TDD, DDD entre otros :)
+Ser proactivo y pasión por el entorno open source.
+Buena experiencia en entornos internacionales y cultura remote-friendly.
+
+
+
+¿qué se ofrece?
+
+Trabajo remoto (imprescindible estar viviendo en España)
+Flexibilidad horaria
+Dependiendo de tu experiencia, excelente salario base. 40,000-55,000 Eur brutos/annum
+Formación continua
+Team building activities

@@ -1,0 +1,66 @@
+About the job
+WHAT WE DO MATTERS:
+
+Here at The Knot Worldwide, we believe in doing work that matters. In 16 countries around the world, our leading family of brands (The Knot, WeddingWire, Bodas, Hitched, The Bash, The Bump, and more) inspire, inform, and celebrate our communities as they move through life’s milestones. Our couples and business partners depend on us. They're all in. So are we.
+
+The Knot Worldwide is looking for a highly motivated software engineer with a passion for doing things right with meticulous detail. The individual's primary role will be to support and develop applications to enable our couples to plan their weddings and communicate with their guests.
+
+As an engineer on this team, you’ll draw on your technical expertise to ensure these tools have high uptime and strong performance while working with other technical leaders to build a longer term roadmap to match the needs of an ever growing engineering organization.
+
+RESPONSIBILITIES:
+Leverage skills and experience to implement product features that are well architected, tested, and understandable.
+Actively participate in the ideation and execution of product roadmap, architecture discussions, and Agile planning.
+Promote best practices surrounding testing, continuous integration, code standards, etc.
+Develop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics.
+Present your own work to internal/external groups and review work of others
+Provide mentorship to junior members of the team
+SUCCESSFUL PHP DEVELOPERS HAVE:
+3+ years overall engineering experience.
+3+ PHP 7.4, Symfony 4.4 or a similar PHP framework
+Ability to work with project teams located in multiple geographic locations.
+Fluent enough in English to be comfortable communicating and coordinating with teams in the US.
+Experience working in an Agile, TDD environment.
+AWS Infrastructure (s3, lambda, elasticsearch, route53)
+Proficiency in RESTful APIs and API Communications (Graphql)
+Good Grasp of Asynchronous Programming and its workarounds
+Data services and Database Schema Creation for Business Processes (SQL, NoSql, Postgres, MySql, Elasticsearch,and Redis)
+Working Knowledge in User Authentication and Authorization (JWT)
+Experience in Implementing Data Protection CCPA and GDPR)
+Error handling Skill (ELK Stack, sumo logic)
+Ability to design, architect, and communicate business requirements
+At The Knot Worldwide, we believe you are more than a resume and invite you to go for it, take the leap of faith, and apply for this job if it sparks your passion to join TKWW and make a difference!
+
+Benefits & Perks
+Private Health Insurance “DKV” paid by the Company.
+Subsidies and grants in training and English courses
+Currently working 100% from home.
+Flexible working hours
+Tax relief options for Ticket Restaurant, Ticket Transportation and Daycare.
+40€ per month in tickets restaurant
+Udemy courses
+TYPS: easy APP to ask for salary advance payments in 48h
+ANDJOY: great APP for gym lovers (we have up to 50% discount)
+Free paid hours: use your paid holidays as hours
+Referral bonus: up to 1.300€ bonus if you recommend someone to work with us
+Getting married or having a baby? We have a gift for you!
+#LI-
+
+At The Knot Worldwide, we believe you are more than a resume and invite you to go for it, take the leap of faith, and apply for this job if it sparks your passion to join TKWW and make a difference!
+
+WHAT WE LOVE ABOUT YOU:
+You Dream Big. You iterate and experiment to drive innovation.
+You Love Our Users. You keep our global community at the center of everything you do.
+You Do the Right Thing. You strengthen your team through respect, fairness, and inclusion.
+You Hustle Every Day. You favor urgency and own your outcomes.
+You Win Together. People are at the heart of our success and you play as a team.
+WHAT YOU LOVE ABOUT US:
+
+We believe in a wide range of holistic offerings to support our employees so that they can live our values day in and day out. From mental wellbeing, physical health and financial planning, to engaging perks and discounts, we are in the business of celebrating and supporting the Moments that Matter both in and out of the “office”. We offer flexible vacation, generous parental leave and prioritize initiatives that support the growth, development, and happiness of our people.
+
+TKWW’s approach to the future of work: At the onset of the coronavirus pandemic, TKWW pivoted all global employees to remote work while prioritizing physical and mental wellbeing. While the majority of our global offices are open and available at this time, all TKWW employees have the ability to work remotely full time through the length of 2022. Upon entering our “new normal”, TKWW will pilot a hybrid work model where employees will have additional flexibility. (Note: employees who were hired into remote positions will continue to work fully remotely.)
+
+--
+
+US Notice: The Knot Worldwide provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, or disability. In addition to federal law requirements, The Knot Worldwide complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. The Knot Worldwide expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status.
+
+US Applicants: If you are a resident of Colorado or New York City, please email statejobdescriptions@theknotww.com to request your state-specific job description. In the subject line, please add the specific job title of the role you are applying to. Please also be sure to specify your state of residence.

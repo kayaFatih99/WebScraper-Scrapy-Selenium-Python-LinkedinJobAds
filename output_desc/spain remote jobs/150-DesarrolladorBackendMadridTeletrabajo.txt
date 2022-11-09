@@ -1,0 +1,47 @@
+About the job
+Descripción del trabajo
+
+Como desarrollador(a), reforzarás uno de nuestros equipos, organizados en torno a áreas funcionales (CashFlow/Usuario/Experiencia).
+
+Tus principales deberes serán:
+
+Participar en las misiones del equipo de desarrollo (desarrollos, revisiones de código, seguimiento de lanzamientos, soporte de nivel 3, etc.)
+Trabajar en colaboración con los equipos de control de calidad (QA) y producto (nuevas herramientas, enfoque de calidad, etc.)
+Proponer e implementar mejoras técnicas y/u organizativas
+Participar en la vida tecnológica de la empresa (vijilancia, meetups, ayuda mutua, presentaciones,...)
+Encontrará un entorno con entregables de alta calidad y requisitos de alta disponibilidad junto con altos volúmenes de datos (procesamos varias decenas de millones de transacciones financieras por año), propicio para aumentar sus habilidades con un equipo experimentado cuyos valores son el apoyo mutuo, la humildad, iniciativa y mejora continua.
+
+Puede consultar nuestro roadmap de producto publico aquí: https://trello.com/b/y3UFMThq/mangopay-public-roadmap
+
+
+Stack tecnológico:
+
+.Net Core, .Net 4.8 (migración .Net 6)
+RabbitMQ (MassTransit)
+NHibernate
+Entity Framework
+SQL Server
+Elasticsearch
+Redis
+Git (Gitlab), TeamCity, Octopus Deploy
+Obviamente no se requiere el conocimiento al 100% del stack tecnológico (pero si lo sabes, es aún mejor). Estamos abiertos a personas curiosas que quieran aprender.
+
+
+
+Requisitos
+
+Calificaciones
+
+Estamos buscando un(a) desarrollador(a) orientado a objetos con experiencia que:
+
+Disfrute trabajar en equipo, compartir experiencias, en un entorno ágil
+Le guste pensar en temas complejos.
+Disfrute entregando código de calidad, de alto rendimiento y probado, mientras promueve buenas prácticas: TDD, programación entre pares, artesanía de software...
+
+Información adicional
+
+Proceso de reclutamiento:
+
+Llamada con el equipo RRHH
+Entrevista técnica con un Lead Desarrollador y un Desarrollador
+Entrevista con el VP Engineering

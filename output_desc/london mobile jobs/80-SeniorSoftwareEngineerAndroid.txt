@@ -1,0 +1,38 @@
+About the job
+About us:
+At Intractable, we are passionate about empowering people through technology. We are an early-stage startup founded by an ex-Apple engineer, and are building innovative mobile educational products.
+
+This is a fixed term role (4 to 6 months, flexible, option to extend) for Senior Software Engineer (Android/Mobile), starting immediately.
+
+About your role as Android Engineer:
+Drive the design and development of MVVM-based mobile application framework and interactive learning system.
+Design and implement internal frameworks in Kotlin to manage event handling, data synchronization with servers, client/server databases, shared utilities, and peer-to-peer/client-server network communication.
+Develop features and workflows for advanced learning tasks, multi-user interaction, messaging.
+Collaborate closely with cross-functional team that spans engineering, art, and design.
+Investigate new problem-solving approaches, develop experimental software prototypes, and integrate prototypes into production line.
+Write high quality production code that scales to large user base.
+Design and write functional tests to maintain high standard of software quality.
+Launch new features into production on a regular basis.
+Enhance the code quality with continuous refactoring of codebase and refining the architecture.
+Work in Agile environment with iterative development process.
+Contribute to the development of product roadmap, with focus on shipping innovative features for a global user base.
+
+Qualifications:
+Bachelors or Masters degree in Computer Science or related area.
+Professional experience in mobile application development for Android or iOS platforms.
+Strong programming skills in languages like Kotlin, Swift, Java, Objective-C, C#, or C++.
+Familiarity with Kotlin flows and coroutines, MVVM design, concurrency techniques, asynchronous programming, reactive programming, data serialization (protocol buffers or similar), dependency injection frameworks, design patterns, app architectures.
+
+Position:
+Full-time
+Mid-level, Senior
+
+Benefits:
+Competitive compensation, DOE.
+Vacation days in addition to public holidays.
+
+How to apply:
+Email your cover letter and resume to careers@intractableltd.com.
+
+Equality Statement:
+We believe deeply in creating a strong company culture with equal opportunity for everyone regardless of their personal characteristics like race, disability, ethnicity, age, sex, sexual orientation, religion. We are committed to building a diverse and inclusive workplace in which everyone is valued for being who they are.

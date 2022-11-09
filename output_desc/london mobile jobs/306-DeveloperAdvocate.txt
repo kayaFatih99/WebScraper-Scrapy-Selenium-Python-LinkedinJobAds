@@ -1,0 +1,60 @@
+About the job
+PubNub powers apps that bring people together in real time for remote work, play, learning, and health. Thousands of companies use PubNub’s developer platform and APIs as the foundation for their online chat, virtual events, geolocation, remote control, and real-time updates at a massive global scale. Since 2010, PubNub has invested in the tools and global infrastructure required to serve customers like Adobe, DocuSign, Peloton, and RingCentral, delivering SOC 2 Type 2 security and reliability while meeting regulatory needs like HIPAA and GDPR. In addition, PubNub has raised over $130M from notable investors like Raine Group, Sapphire, Scale, Relay, Cisco, Bosch, Ericsson, and HPE.
+
+We are an all-star technical team comprising folks who have been part of successful acquisitions in enterprise and consumer software companies. If you like hyper-scale systems and engineering projects that redefine limits, PubNub is for you. PubNub is proud to be an EEO employer.
+
+PubNub is a Remote First team.
+
+There’s no one-size fits all approach to how we do our best work. Instead, our employees can choose where they do their best work—from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events.
+
+About The Job
+
+As a Developer Relations Engineer, you will use modern APIs to build open-source software examples and demos for PubNub’s mobile and other platforms combining PubNub APIs. In addition, you will use the latest technology and champion developer interests in your pick of niche communities. This role is ideal for those with a past job title of Developer Educator, Developer Advocate, Developer Evangelist, Developer Relations, Software Engineer, and the like.
+
+You work with developers and other departments to understand developer needs and translate those needs into solutions, such as code examples, demos, talks, videos, documentation, workshops, meetups, events, and more. You represent the developer and own developer problems externally and internally for the company and are confident in making a case presenting developer problems and solutions to other teams.
+
+You enjoy public speaking and sharing your work, and do it with a positive and outgoing attitude. Ongoing flexibility in how you work to accomplish your goals is ok with you. You like exploring programming languages and technologies you may not be familiar with and can rapidly assess how to produce and promote new content and solutions for your discoveries.
+
+As a Developer Advocate, you will build relationships with the developer community by generating content that will:
+
+First, grow developer interest in PubNub.
+Second, provoke more signups and trials for PubNub's service.
+Third, educate developers about PubNub capability and implementation best practices.
+Finally, it helps customers integrate PubNub rapidly into their projects.
+
+Responsibilities
+
+Create technical, developer-centric content for the PubNub blog, tutorials pages, and external media.
+Create lectures and present at developer meetups before a technical audience.
+Travel to developer conferences, user group meetups, and hackathons and participate on behalf of PubNub.
+Do keyword research and SEO for all content that you create.
+Explore and use PubNub features and provide feedback to product teams.
+Collaborate with the engineering team to understand product functionality and represent the developer community's voice.
+Work with the marketing team to create a strategy for the developer funnel—report metrics of events and content.
+About You
+Minimum Qualifications
+Higher education degree/certification in Computer Science or related technical field.
+Seasoned Software Engineering and/or Developer Relations experience. We are looking for several years of experience in mobile development in multiple languages. Examples include Kotlin, Java, Objective-C, and Swift.
+Preferred Qualifications
+Other API Development Experience (frameworks in languages like Python, Node.js, C#, PHP, Java, C++, or others).
+IoT (C or Python) Development Experience.
+Full Stack Web Application Development Experience
+Serverless Microservice Development Experience
+Image and Video editing skills for instructional videos and diagrams in blog/tutorial content
+Inherent sense of empathy for Developers in the community, your teammates, and co-workers.
+Demonstrate creativity, empathy, and outstanding communication ability - excellent spoken and written English.
+Happy to travel occasionally.
+Adept at communicating technically complicated topics simply and elegantly.
+An innate, heightened urgency to complete projects on time and with high quality.
+General Search Engine Optimization (SEO) skills.
+Fluent in English
+Why PubNub
+💰 Competitive salary based on experience
+💰 Stock
+✨ Monthly internet & phone stipend
+🏝 Open vacation policy
+🚀PubNub Perks!
+We know that great work comes from great and inclusive teams. At PubNub, we look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to serve our customers better and helps us all grow as PubNub’ers and individuals.
+Like what you’re hearing? Become a PubNuber!
+PubNub is an equal employment opportunity employer, committed to an inclusive workplace where we do not discriminate based on race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. We believe in diversity and encourage any qualified individual to apply.
+Compensation Range : $65,000 - $85,000 GBP Depending on experience

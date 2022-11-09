@@ -1,0 +1,33 @@
+About the job
+Patreon is the best place for creators to build memberships by providing exclusive access to their work and a deeper connection with their communities. We’re building a content and community platform where creators can engage directly with their fans and monetize their creativity, while maintaining full ownership over the work they make and the communities they create.
+
+We’re leaders in the membership space with 250,000+ active creators and over $3.5 billion paid directly to creators on our platform. Our team is building tools to optimize the creator-to-fan relationship, including native video, enhanced podcasting features, improved creation tools, and new community experiences. We’re continuing to invest heavily in building the most talented team in the Creator Economy and are looking for a Fullstack Engineer for our Growth team to support our mission.
+
+About The Role
+
+
+Analyze data from product logs and derive insights/hypotheses for growth experiments
+Perform experiments to improve the efficacy of Patreon’s creator signup and patron signup funnels.
+Measure causal impact through A/B experimentation
+Understand all on-Patreon and off-Patreon levers for growth and design experiments to pull on those levers.
+Work across the entire product surface area of Patreon (web, iOS, Android)
+Grow the business in keeping with the long-term goals of patrons and creators.
+About You
+
+Ability to dive into different parts of the codebase rapidly and make changes to run experiments.
+Ability to analyze data and derive insights
+Strong understanding of A/B experiments and pitfalls such as dilution, bias, confidence intervals etc.
+
+About Patreon
+
+
+Patreon powers creators to do what they love and get paid by the people who love what they do. Our team is passionate about making this mission and our core values come to life every day in our work. Through this work, our Patronauts:
+
+Put Creators First | They’re the reason we’re here. When creators win, we win.
+Build with Craft | We sign our name to every deliverable, just like the creators we serve.
+Make it Happen | We don’t quit. We learn and deliver.
+Win Together | We grow as individuals. We win as a team.
+
+Patreon is proud to be an equal opportunity employer. We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, veteran status, or any other protected class.
+
+Patreon offers a competitive benefits package including and not limited to salary, equity plans, healthcare, unlimited paid time off, company holidays and recharge days, commuter benefits, lifestyle stipends, learning and development stipends, patronage, parental leave, and 401k plan with matching.

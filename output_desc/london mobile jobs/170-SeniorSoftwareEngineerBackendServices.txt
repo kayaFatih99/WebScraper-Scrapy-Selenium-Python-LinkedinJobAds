@@ -1,0 +1,47 @@
+About the job
+About Harry’s
+
+Harry’s Inc. started in 2013 with simple, fairly priced products that delivered an amazing experience to guys every day. Since then, Harry's has expanded to the UK and Europe and currently has nearly 80 people based out of our office in Covent Garden, London. We’ve developed relationships with retailers such as Target and Walmart, expanded our grooming brand into a personal care powerhouse, and launched additional brands like Flamingo & Cat Person.
+
+Our brands answer unmet consumer needs, but our company is a place of inclusion and innovation that attracts some of the brightest minds across industries, geographies, and backgrounds. Whether we have a team of 3 or 300, our core values and our startup mentality remain; we value continuous improvement and learning, teamwork and collaboration, creative problem solving, and open and direct dialogue and feedback. Come for the coffee and free products, stay for the amazing, passionate culture.
+
+About The Role
+
+As a Senior Software Engineer on the Backend Services team you will join an energetic group of engineers delivering back end solutions for our eCommerce platform. The Backend Services team’s priority is our service oriented architecture which has been built using Scala, TypeScript, Postgres, and infrastructure as code.
+
+What you will accomplish:
+
+Design and develop features for our eCommerce platform with best practices in mind
+Prioritize your own work based on business/team goals
+Debug issues that stem from user reported and system generated problems.
+Suggest meaningful improvements to our tech stack
+Collaborate with architects, product managers, front end, data, and dev ops engineers to deliver full stack solutions.
+
+This should describe you:
+
+You are eager to learn and share knowledge
+You get excited about diving into new projects, programs, technology, and are curious/open when discussing different approaches to work
+You know how to disagree and commit
+You are able to deliver constructive feedback that feels objective and supportive
+You communicate the “why” behind a decision so teammates understand rationale and can make better decisions accordingly
+You are reliable and communicate actively (and empathetically)
+
+About The Team
+
+Harry’s Backend Services Team builds and maintains a suite of solutions that power eCommerce sites for multiple brands on multiple continents. We are a small, autonomous team with grand ambitions. We make decisions empirically and we choose the right solutions for the job.
+
+Here's Who You'll Work With
+
+Reporting to the Senior Manger, Backend Services
+Working on the Services Team
+Working with Services Engineers, Product Management, Data Engineering, Web Engineering, and Architects
+
+Harry’s is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together.
+
+Harry’s is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, domestic violence victim status, arrest/conviction record, sexual or reproductive health decisions, caregiver status, credit history immigration status, unemployment status, traits historically associated with race, including but not limited to hair texture and protective hairstyles or any other status protected under applicable federal, state and local laws. Harry’s commitment to providing equal employment opportunities extends to all aspects of employment, including job assignment, compensation, discipline and access to benefits and training.
+
+We respect the laws enforced by the EEOC and are dedicated to going above and beyond in fostering diversity across our company.
+
+This role can be done remotely, however there may be location constraints based on where Harry's is registered and able to employ individuals. Please work with your recruiter and your hiring manager to understand any location constraints. We are authorized and able to employ individuals in many, but not all states. If you are not located in or able to work from a state where we are registered or able to employ individuals, you will not be eligible for employment. Please speak with your recruiter to learn more.
+
+#BI-Remote

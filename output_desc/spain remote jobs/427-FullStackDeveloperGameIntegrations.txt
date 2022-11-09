@@ -1,0 +1,32 @@
+About the job
+Sportnco Group is one of the leading sports betting and gaming solutions providers in the online gambling industry. We focus on producing the best iGaming solutions for our clients so that they can grow and develop across regulated markets worldwide.
+Now, Sportnco belongs to the GIG group. Gaming Innovation Group is a leading iGaming technology company, providing solutions, products and services to iGaming Operators. Founded in 2012, GiG operates out of Malta and is dual-listed on the Oslo Stock Exchange under the ticker symbol GIG and on Nasdaq Stockholm under the ticker symbol GIGSEK.
+We are passionate about our work, and we have pleasure in making our work our great passion, proud of our great collaborative culture and work environment. We are looking for professionals who are eager to learn and work as a team, committed and positive, to join our multidisciplinary team.
+To support this strong growth which continues into 2022, Tecnalis is hiring to strengthen its team.
+
+What are we searching for?
+We are looking for a Full stack developer to reinforce our third party gaming integrations team with experience working in REST or SOAP communication protocols to be part of an existing development team. Your responsibilities will consist of the integration of game providers, payment platforms and regulatory entities, development or fixing of existing code, resolution of incidents and technical management of these tasks with clients or providers.
+
+Mandatory requirements
+- Web technology (html, javascript, css)
+- Knowledge of programming languages -Java, JavaScript- 3 years of experience
+- Experienced in HTTP communication protocols: SOAP or REST
+- User-level database and basic MySQL queries
+- Basic knowledge of Linux operating systems
+- Basic knowledge of Tomcat / Apache admin
+- Minimum English medium B2
+- Minimum Spanish medium B2
+
+Valueble Requirements
+- Code lifecycle tools: Eclipse, Subversion, Maven, Hudson/Jenkins, Jira
+- Administration of web servers and applications (Apache, Tomcat...)
+- Microservice knowledge (OpenAPI, JAX-RS, Kafka...)
+- Front development frameworks (Velocity, React...)
+- Knowledge of the gaming industry
+
+
+We not only order, we also offer:
+A stable position in a company with more than 20 years of experience, consolidated and constantly growing.
+A good work environment. Work as a team with the best professionals in the latest technologies.
+Work on top-level projects in which developing and technology play a fundamental role.
+Not everything is work, we also like to meet and enjoy together in events and recreational initiatives, when the health situation allows us, in Spain and its great environment, and with remote work as a consolidated option.

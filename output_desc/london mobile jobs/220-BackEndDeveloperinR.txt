@@ -1,0 +1,32 @@
+About the job
+Description
+
+Lumanity is dedicated to improving patient health by accelerating and optimizing access to medical advances. We partner with life sciences companies around the world to generate evidence to demonstrate the value of their product, translate the science and data into compelling product narratives, and enable commercial decisions that position these products for success in the market. We do this through three strategic and complimentary areas of focus: Asset Optimization and Commercialization, Value Access and Outcomes, and Medical Strategy and Communications.
+
+Our Value, Access, and Outcomes division serves our clients by identifying, substantiating, and conveying the value of groundbreaking medical advances. We are seeking an experienced and innovative back-end developer to support our Health Economics Advanced Analytics team, supporting our proprietary modeling solution, intRface™. intRface™ combines the user-friendliness of Microsoft Excel® with the flexibility to integrate statistics and modeling with the speed of R. It’s reusable core modeling framework means one model can include multiple indications and countries: perfect for truly global early modeling, pricing and strategy analysis.
+
+This role offers a flexible hybrid work setting to suit your remote and in-office schedule.
+
+As the full stack back-end developer you will leverage your expertise as an R Developer to ensure that IntRface™ is developed in accordance with solid software design principals to meet user requirements, paying close attention to data security, cleanliness and usability.
+
+Requirements
+
+The ideal candidate will have a thorough knowledge of working with testing frameworks, SDLC (software development Lifecycle) & deployment pipelines. Solid principals and design patterns will enable you to drive value and have maximum impact.
+
+Additional requirements/qualifications include:
+Expert user of R and reactive programming, SOLID principles, design patterns.
+Bachelor’s degree in a STEM discipline or equivalent certifications and experience.
+4-5 years of Experience developing software projects in a similar environment.
+Dedication to quality, reusable coding solutions and a passion for innovation.
+Command of software implementation best practices and software architecture principles
+3+ years of Back End R Development Experience preferably in a similar environment.
+Fully conversant with building automated unit tests and end-to-end tests
+Proven experience with HTML, CSS, JavaScript & SQL Server
+Proficiency working with cloud solutions such as Azure and Amazon Web Services
+Exposure to Kubernetes, Docker, Mongo DB, Hadoop is highly advantageous.
+Experience following an Agile methodology ideally Scrum
+In depth knowledge of Git for version control and use of pull requests for code review
+Exposure to Azure Dev Ops or Jira is desirable.
+Comfort with the software development lifecycle & deployment pipeline
+Prioritizes development of collaborative relationships with colleagues and stakeholders
+Self-motivated, with an inquiring analytical mind & the ability to present ideas, issues, and observations to non-experts in a clear manner.

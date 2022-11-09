@@ -1,0 +1,40 @@
+About the job
+At ConsenSys we have a vision of a world where data sovereignty and financial well-being is accessible to every person and organization. We believe Ethereum and decentralized protocol technology is a more trustworthy and equitable foundation for how we create and share value across the web. On this trusted, open source foundation, we can accelerate the world’s transition to a universally accessible network of distributed participants where transparency, security and freedom are fundamental.
+
+Our product suite, composed of Truffle, Infura, Quorum, Codefi, MetaMask, and Diligence, serves millions of users, supports billions of blockchain-based queries for our clients, and has handled billions of dollars in digital assets. As the leading Ethereum software company, ConsenSys enables developers, enterprises, and people worldwide to build next-generation applications, launch modern financial infrastructure, and access the decentralized web. To learn more about ConsenSys, and explore our products and solutions, visit http://consensys.net/.
+
+Why join ConsenSys?
+
+Remote first. You’ll be joining a team based all over the world. Providing the unique opportunity to work with people from many different countries and cultures. Want to work remotely? Go ahead. Or pop into one of our offices? We’ve got you covered in NYC, DC, Dublin, London, Paris, Brisbane and Hong Kong.
+
+Flexible working arrangements. You can create your own journey with flexible schedules and locations. We believe everyone has the right to control their own freedom. Our people can make their own schedule, own their own time, and we encourage you to travel and work from anywhere in the world.
+
+Continuous learning and opportunities. You’ll be constantly exposed to new concepts, ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game. To support your development we pay for you to learn by offering unlimited access to Coursera, a platform with thousands of courses for you to learn whatever you want, and acquire new skills.
+
+Unlimited vacation/holidays. We value downtime to recharge and reset ensuring everyone at ConsenSys has work/life balance. Company-wide we participate in “zero productivity” days every quarter to take a break from work, shut down, and sit back and relax.
+
+One of the most recognized tech companies in the blockchain ecosystem globally. Work experience at ConsenSys is a tremendous reference for your future career. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem.
+
+About Infura
+
+Infura is the leading infrastructure platform providing scalable and easy-to-use APIs and cloud solutions for blockchain and decentralized application developers. Infura currently offers APIs for Ethereum, IPFS, and other leading decentralized networks, allowing developers to immediately begin building instead of spending time on architecting and maintaining their own infrastructure.
+
+Infura provides developers instant access to decentralized and blockchain networks without the need to sync or understand complicated peer to peer infrastructure. Similar to how one might access a cloud service to alleviate the friction of owning proprietary compute and storage, Infura lowers the barrier to entry for engineers to begin building.
+
+We believe in a more equitable and decentralized future, and we know developers will be at the forefront of that progress. We want to empower developers to spend their time building, creating, and evolving by providing them with the best and easiest solution to their infrastructure needs.
+
+Some things to know about the Infura team, we are a remote first company, with team members all over the world. We strive to reduce meetings, respect work life balance, promote diversity, and generally be good people. We depend on each other not only to make an amazing product but to be a group that wants to succeed together.
+
+What You’ll Do
+
+IPFS and related decentralized storage solutions are a very exciting part of the web3 ecosystem. You will use your knowledge of Golang to design and implement backend services to support high volume access to IPFS services. You will be using your knowledge of system design to create new APIs, daemons, and web services that enable our customers to access decentralized storage at scale. You will collaborate with a team of senior engineers to build a key component of the decentralized world.
+
+Would be great if you brought this to the role
+
+You bring deep experience with systems engineering. Ideally, you have architected numerous cloud based (AWS) systems using a performant language such as Golang to implement them. You have had significant experience with AWS, Linux, Docker, and RDMs such as Postgres. We work in a remote first environment, so strong communication and documentation skills as well as a proven ability to work within a remote team are highly desirable qualities. You have at least 4 years of experience with backend engineering and a bachelor’s degree in Computer Science (or equivalent training / work experience).
+
+Don't meet all the requirements? Don't sweat it. We’re passionate about building a diverse team of humans and as such, if you think you've got what it takes for our remote-friendly, energetic start-up environment—apply anyway. While we have a pretty good idea of what we need, we're ready for you to challenge our thinking on who needs to be in this role. We are simply looking for amazing people who share in our vision for making great things with great people.
+
+ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.
+
+ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here.

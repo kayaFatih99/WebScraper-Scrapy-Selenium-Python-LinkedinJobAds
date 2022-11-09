@@ -1,0 +1,71 @@
+About the job
+Help us bring people and businesses together
+
+Our SaaS platform enables multi-location brands and businesses to boost their online presence. From big to small, from Adidas to ZenPark, our client base contains some of your favourite brands as well, we bet.
+
+The Past, Present & Future
+
+In 2013, Uberall was born out of the vision by longtime friends and business partners David Federhen and Florian Hübner. They wanted to bridge the online and offline world more effectively, so companies could generate new customers, build customer relationships and increase their sales. They created a platform that would connect companies with local customers through search and discovery, engagement and conversion.
+
+In July 2021 we acquired one of the most successful location marketing platforms in the US, MomentFeed, and raised a series C funding round of $115m. We plan to seize on this momentum to rapidly expand in North America and become the undisputed global leader in this space. This role is pivotal to us executing on this journey!!
+
+You and us
+
+Around 400 Uberallers, with 50+ different nationalities, live and breathe our three core values:
+
+🌵 GROW TOGETHER
+
+⛰ DEMONSTRATE PASSION & PERFORMANCE
+
+✊ BE BOLD & DRIVE CHANGE
+
+If you are thinking about becoming our newest addition, apply here.
+
+As Backend Engineer you will be working on our location marketing cloud solution (SaaS) and be a part of a highly-skilled agile team. In a Squad full of experienced and team-minded professionals, you will have a voice in our daily stand-ups that will be recognized and essential in our daily business to provide the best software solution to our enterprise clients and partners.
+
+If you want to gain some more insights from two of our backend engineers: https://youtu.be/koxZ_rq-I_E
+
+Your Responsibilities
+
+You will lead impactful and innovative projects within our SaaS-solution
+You will coach and mentor other backend engineers - Sharing knowledge and learning from each other is one of our core values
+You will play an active role in designing and improving our overall software architecture
+You will participate in the design, implementation, and execution of distributed services and APIs
+You will collaborate closely with other your team, other squads, and stakeholders like product management
+You will contribute to the codebase with scalable, high-quality code and deliver solid coverage with automated tests
+You will ensure outstanding availability and maintainability of our platform by evolving our architecture and tech stack, participating in code reviews, refactoring, and improving integration and delivery systems
+Your Profile
+
+You are highly proficient in Kotlin, and proven coding skills with Groovy/Java/Scala are considered a plus
+You have a minimum of 3 years experience in designing scalable software systems, ideally a successful SaaS product
+You are familiar with containers, microservice architecture, event-driven architectures, cloud computing, and RESTful APIs
+You have deep knowledge of most of the popular technologies like Spring Boot, Hibernate, JUnit, AWS, Elastic Search, MySQL, Docker, or OpenAPI
+You are a self-motivated and independent engineer and bring creativity and the ambition to strive in a constructive and multicultural team
+You have experience with agile methodologies and automated testing
+You are a great team player with a positive and solution-oriented mindset
+You are fluent in English, sufficient for success in a remote and largely asynchronous work environment
+What we offer:
+
+🌎 Market-leading and cutting-edge location marketing software (SaaS) scale up with an exciting & international customer base - (our customers our some of the most recognizable brands in the world) and the opportunity to work with a world-class international team
+
+🤩 Lively and open company culture with flat hierarchies and short chains of command
+
+🗺 Remote and flex work hours...yes, d'uh! It's not 1992 anymore. Check our social media content for some remote working stories. Who needs a cubicle, when you can have your cat walking through the video-call?
+
+🥳 Waffle days, bad jokes, a HUGE Project A corp benefit program, a CEO with a pizza oven, global meditation sessions, German language class, LGBTQIA+ community and support, book club, culture committee, individual L&D paths and -budget…
+
+💃 Hoodie and merch - we got you covered. With your onboarding package comes your new stylish look.
+
+🥳 Events and off-sites - YES and YES. With the team, cross-functions, regional, you name it - we love bringing people together.
+
+🖥 Proper tech, check. Macbook pro, Apple mouse, -stand and Apple keyboard. Need anything else? Let the P&P team know.
+
+Remember our "Grow Together" value from the beginning of the ad?
+
+We mean it.
+
+🌵🏔✊
+
+Everything starts with getting in touch. The best way to express your interest is by applying online. We will be carefully reading your profile and can't wait to hear from you.
+
+In the meantime, let our "life@uberall" social accounts give you some real life impressions.

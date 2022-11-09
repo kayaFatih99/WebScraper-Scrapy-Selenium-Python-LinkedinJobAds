@@ -1,0 +1,46 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, HonorVet Technologies, is seeking the following. Apply via Dice today!
+
+Job Title: Java Full Stack w/ AWS Developer
+
+Duration: 6+ months
+
+Location: Raleigh, NC, Bloomfield, CT, or Lafayette, LA
+
+Initially remote
+
+Position Description:
+
+Candidate will get an opportunity to work with a highly skilled team on the latest Java and cloud technologies. It helps the candidate to shape the career with matured agile project delivery, advanced Tech stack process. This role can be performed in Raleigh, NC, Bloomfield, CT, or Lafayette, LA.
+
+Your future duties and responsibilities:
+
+At least 8+ years of experience in
+
+Experience designing, developing, deploying, testing in Java, J2EE and AWS architecture
+Experience delivering APIs
+Experience with Spring boot, Micro services, CSS
+Experience with Oracle/SQL
+Experience with AWS services – S3, Lambda, API Gateway, Cloud watch
+Experience with unit test automation and CICD – GIT, Jenkins, Sonarqube, Veracode
+
+Nice to have:
+
+AWS services – SNS, SQS, Step functions
+
+Required qualifications to be successful in this role:
+
+Bachelor’s Degree
+
+Skills:
+
+CSS - 8 year(s)
+J2EE - 8 year(s)
+Java - 8 year(s)
+Microservices - 8 year(s)
+Spring Boot - 8 year(s)
+SQL - 3 year(s)
+
+As an equal opportunity employer, HonorVet prides itself on creating an employment environment that supports and encourages the abilities of all persons regardless of race, color, gender, age, sexual orientation, citizenship, or disability.
+
+provided by Dice

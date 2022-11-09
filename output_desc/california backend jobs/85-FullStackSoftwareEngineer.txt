@@ -1,0 +1,35 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Request Technology, LLC, is seeking the following. Apply via Dice today!
+
+***We are unable to sponsor for this permanent full-time role***
+
+***Position is bonus eligible***
+
+Prestigious Fortune 500 Company is currently seeking a Full Stack Software Engineer. Candidate will be developing and implementing front-ends (web or mobile), and backend services. They leverage test driven development and continuous integration to ensure agility and quality of products. They actively participate in the decision-making process of the team ensuring that the simplest appropriate technology and design is chosen to meet user needs.
+
+Responsibilities:
+
+Participates in iteration planning meetings ensuring that the team has a common understanding of each story and chores in a team's backlog
+Leads and participates in daily site, cross-site, and product team stand-ups
+Participates in retrospectives to gather feedback and derive actionable items to improve the team and the product
+Participates in executing the strategy, keeping the customer needs and wants in mind
+Serves as an expert on a specific business domain and demonstrates leadership and accountability on at least one technology stack
+Provides input into the architecture and design of the product; collaborating with the team in solving problems the right way
+Practices daily paired programming and test-driven development in writing software and building product
+Establishes continuous integration, continuous delivery, and continuous deployment pipelines and practices
+Provides support for software products in user environments
+Coaches more junior team members around different technologies and XP practices
+
+Qualifications:
+
+3 or more years of related experience and Bachelor's Degree or equivalent experience
+Strong understanding of computer science concepts, object-oriented design principles
+Basic understanding of distributed systems, operating systems, networking, databases, security, and analytics
+Experience developing software in different programming languages, and demonstrated ability to quickly learn new languages, including but not limited to Javascript, Java (Spring), .NET, Ruby, Python, Golang, and Javascript
+Experience in backend development design and implementation; database (relational, NoSQL, caching), messaging and big data development, implementation and optimization
+Experience in responsive web front end / single page application development using modular JavaScript including apps targeted for mobile devices
+Hands on experience on modern JavaScript tools such as Webpack, Babel, ESLint, Gulp, NPM, Bower, Browserify, Grunt and similar technologies
+Actual experience developing continuous integration, continuous delivery and continuous deployment pipelines for distributed apps
+Knowledge and experience on approaches and tools for automated testing and monitoring
+Experience in Test Driven Development; including knowledge and experience in testing frameworks like junit, mockito, jasmine, protractor, cucumber, and other like technologies
+- provided by Dice

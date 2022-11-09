@@ -1,0 +1,37 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Naztec International Group LLC, is seeking the following. Apply via Dice today!
+
+Position: Full stack Java Developer
+
+Location: New York, NY Or Pittsburg, NJ (Remote)
+
+Duration: 12 Months Contract
+
+Client: Apex Systems/BNY Mellon
+
+Job Descriptions
+
+Need a Full stack Developer with Strong Core Java, Spring boot and some Angular experience
+This person will help out on different projects and they will also use Microservices
+This role is more of a back end need – Backend 70% and front end 30%
+Need people hands on coders with strong background in large companies
+
+Must have
+
+Core Java
+Angular
+Spring
+
+Needs
+
+* 5+ years of experience
+* Full stack developer
+* Heavier back end focus (around 70%)
+* Should have at least an understanding/familiarity of Angular
+* Must be able to code server side Java (will code pair during interview)
+* Spring/Spring Boot
+* Angular 6
+* Messaging such as MQ/Kafka
+* SQL (queries/optimization)
+* Any relational database experience is needed (Oracle is preferred)
+- provided by Dice

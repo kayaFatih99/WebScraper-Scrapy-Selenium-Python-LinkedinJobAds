@@ -1,0 +1,42 @@
+About the job
+Job Description
+
+About Kisi
+
+Kisi is a security platform with offices in Brooklyn and Stockholm and a global remote team spanning from America, Europe, Africa and Asia. We create hardware and software that helps businesses connect and control their spaces through the cloud.
+
+A little bit more about our team:
+
+We value being forward, human, trusted, and responsible. As a team, we make a tangible and lasting impact on the real world.
+Our productis an award-winning access control solution. We are a design focused company and recently won the coveted GOOD DESIGN award as well as the prestigious iF Design Award.
+Our customers and users come first - We are rated 4.9 in the and 4.8 on .
+Our team is unique (and a bit quirky) and diverse. We hail from 25 nationalities (& counting!) and look forward to our annual global meetup to bringing the whole team together.
+We are building a supportive and flexible working environment by offering health & retirement benefits (location based), generous vacation time and daily challenges and growth.
+
+About the role:
+
+Your tasks as a backend developer of Kisi will be a lot of things, but never dull. In helping us build a highly robust and scalable public API (used by hundreds of thousands of users from all over the world!), you will:
+
+Implement new features and help define and tackle projects big and small
+Collaborate with our web, mobile and hardware teams
+Design and maintain internal frameworks and standards
+Work on improving security and performance of endpoints and background jobs
+Work on internal tooling for logging, error reporting, releasing, testing etc.
+
+Some examples of what we're doing:
+
+Building an encrypted and authenticated cache in the API to store thousands of access rights for each door in less than four megabytes. We had to dive deep into bits, bytes and crypto, as well as coming up with a scaleable approach to sync these access rights with a fleet of tens of thousands of hardware devices in the field.
+Storing hundreds of millions of searchable events and fanning them out to webhook recipients.
+Documenting our API in a way that prevents documentation from becoming stale. We automatically test our endpoints using our own endpoint documentation. The resulting API docs can be found
+
+We move fast, plan frequently, release to production daily and keep our meetings short. Our API is currently a Rails (Version 7) monolith running on Heroku & GCP, and we're documenting it with OpenAPI 3. Familiarity with this stack is a big plus!
+
+Requirements
+
+Requirements
+
+Solid experience with Ruby and Ruby on Rails (or a similar language/framework)
+You've mastered the latest technologies and you're experienced with modern tools and workflows
+You are well versed in writing good code: clean, modular, tested, scalable
+You love cutting edge tech and you're passionate about working on a product that is solving real world problems
+High level of communication and teamwork skills

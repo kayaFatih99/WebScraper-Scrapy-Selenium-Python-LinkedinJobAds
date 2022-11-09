@@ -1,0 +1,81 @@
+About the job
+Are you a dynamic and experienced Mobile Developer with experience working with HTML5, CSS3 and Angular 2+?
+
+Do you take pride in the success of the applications you work on?
+
+Would you want to be able to utilise and enhance your skills whilst having an integral impact in driving digital transformation in an innovative, and growing retail SaaS company?
+
+If you have answered yes to these questions, we would love to hear from you!
+
+
+We have a fantastic opportunity for an experienced Mobile Developer to join our team, working closely with highly technical developers. You will get involved in all aspects of product development life cycle, from involvement with our ever-evolving product roadmap to new product developments and 3rd line support.
+
+We are looking for someone who can utilise their expertise to develop and improve both new and current mobile applications and processes and create innovative, market-leading solutions for our customers.
+
+If you’re a dynamic Mobile Developer with a desire to continue learning, work on pioneering software solutions and make a demonstrable impact in a fast-paced, industry-leading software company, this role is for you!
+
+We are itim, but who are we?
+
+itim is a global retail software provider with a vision to empower multi-channel retailers to thrive in today’s digital world by accelerating their digital transformation and helping them achieve omnichannel excellence.
+
+We have developed an industry-leading omnichannel platform that empowers retailers to adopt a more engaging customer-centric approach to shopping in-store, online, and on mobile. Our technology is highly data-driven and flexible, providing retailers with the agility to meet real-world retailing demands and adapt to future challenges.
+
+We connect retailing IT strategy with effective execution, helping our clients strengthen their core systems, scale with flexibility and create seamless omnichannel consumer experiences. Our deep retail experience combined with our comprehensive suite of omnichannel retailing applications means we can help retailers achieve their trading objectives while streamlining processes, managing cost, minimising risks and giving them the ability to deploy quickly.
+
+We are very proud to work with over 65 leading retailers across 11 countries, which include; Majestic wines, The Entertainer, John Lewis, Sainsbury’s, Office and The Fragrance Shop. We partner with our customers to continuously evolve their technology to meet their business goals and vision with a confident, agile, and commercially flexible approach.
+
+What would be my main responsibilities?
+Support the entire application lifecycle (concept, design, test, release, and support)
+Produce fully functional deliverables (applications/functions) writing clean code
+Work with provided requirements, gather the information they need, R&D, and suggest solutions
+Write code and unit tests
+Troubleshoot and debug to optimize performance
+Design interfaces to improve user experience
+Liaise with Analysts to develop new features
+Ensure new and legacy applications meet quality standards and maintain those
+Stay up to date with new technology trends
+
+
+What we’d like from you
+A minimum of 5 years of experience in developing mobile applications on Android, Windows, and universal platform
+A minimum of 5 years of experience in web development using HTML5 and CSS3
+Good working experience with Angular 2+ with TypeScript
+Experience in mobile development using ionic Cordova, Android and iOS
+Experience in .NET MVC and WebAPI using ASP.NET Core / C#
+Knowledge and experience of Microsoft Visual Studio
+Good understanding of consuming web services
+Good understanding of cross-platform compatibility issues
+Knowledge of programming methodologies, standards, and techniques including code reusability
+Understanding of technical feasibility of UI/UX design wireframes and translating them into code
+Working experience with source code management tools (SVN, git)
+Self-motivated with a proven ability to work well as part of the development team
+
+Desired Experience:
+Understanding of databases, especially SQL Server
+Basic knowledge of image manipulation tools and technics
+Experience or knowledge of the retail industry software systems
+Exposure to non-SQL databases: cosmosdb or documentdb
+
+Competencies Required:
+Excellent client-facing and internal communication skills
+Excellent written and verbal communication skills
+Solid organisational skills including high attention to detail and multi-tasking
+Comfortable with carrying out routinely tasks
+A positive, adaptable and dynamic individual that values strong communication and collabor
+
+Why choose itim?
+Make A Difference - the chance to be part of a progressive company that’s adding real value to the retail industry with innovative products
+A Connected Company Culture – work alongside great people! We genuinely care about our employees and foster a people-first approach with a strong collaborative, autonomous and friendly working environment
+Hybrid Working Patterns - have the flexibility to work from home or in the office
+Work/life balance – flexible holiday requests and an extra day off to celebrate your birthday!
+Enhanced Maternity Leave – offering 16 weeks at full pay and 10 weeks at half pay
+Great Career Development – with our flat hierarchy structure and flexibility to get involved in different projects, we can tailor your career path to suit your interests and goals
+Great Office Location – when you’re not choosing to work from home, our office is based in London Victoria right next to both underground and overground stations
+Fun Monthly Socials – Crystal Maze, Wine Tasting, Axe Throwing, Indoor Mini Golf to name a few…
+& Other Fantastic Benefits – such as private BUPA medical insurance, 5% employer pension contribution, automatic entry to the Group Income Protection policy providing a benefit of 75% of basic salary in the case of illness or accidents, automatic entry to the Group Life Assurance policy offering cover of 4x your basic salary, smart casual dress code, a stocked office kitchen with fresh fruit and biscuits
+
+Location: Hybrid - Working From Home / 1 or 2 days working from our London Victoria Office
+
+We’re innovative, we’re passionate, we’re collaborative, we’re GROWING and more importantly, we’d love to hear from you!
+
+itim is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.

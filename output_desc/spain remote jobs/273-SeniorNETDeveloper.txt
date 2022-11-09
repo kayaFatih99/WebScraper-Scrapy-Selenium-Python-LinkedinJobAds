@@ -1,0 +1,111 @@
+About the job
+💸 Up to 75k EUR per year (or local currency equivalent) full time B2B contract
+
+🌎 Fully remote working from anywhere in Europe!
+
+🏖 33 Days Paid Leave
+
+✨ Exciting products, millions of users, sold to global brands
+
+💻 M1 Max MacBook Pro or PC equivalent
+
+💡 Latest tech stack and tools
+
+SUMMARY
+
+Storm Ideas have developed a platform called Storyteller that allows brands to integrate Stories functionality and more into their apps and websites. The platform is in use by multiple global brands serving 10s of millions of users. Check us out on Product Hunt!
+
+We're looking for an amazing Senior .NET Developer to join our growing team and help push this product on to the next 100 million users.
+
+You'll be working with a friendly, talented team and have the opportunity to grow and lead both technically and in managing others. If the idea of a fast-paced, dynamic role with tonnes of opportunity for change, responsibility and innovation sounds exciting to you, then read on!
+
+ABOUT US
+
+Storyteller is a new B2B SaaS platform, which allows companies to integrate Stories into their owned and operated platforms. Popularized by Instagram and Snapchat, Stories are perfectly suited for boosting user engagement, audience retention, and driving advertising revenue. For customers, building their own stories experience can take years and a lot of investment however Storyteller has solved this by allowing companies to integrate in days, not years all for one monthly cost. Our end‑to‑end platform gives companies a best‑in‑class Stories experience in days with native iOS, Android, and Web SDKs, publishing tools, analytics, and ad support.
+
+We work with globally-recognised clients in US TV and Sports industries. Every day we produce work that is innovative, challenging, and enjoyed by millions of people!
+
+
+RESPONSIBILITIES
+
+What can you expect?
+Producing software reused by developers by contributing to our SDK
+Leading projects from conception to completion
+Being responsible for improving internal technical practise and processes, including identifying relevant, new technologies and code quality
+Executing tasks proactively with no brief
+Working with technical and non-technical team members to increase the overall technical output of the company
+Learning, utilising and improving our DevOps processes and tools to enable rapid delivery
+Helping to define the technical architecture for products
+Eventually, we'd like you to:
+Take full responsibility for the output of a development team
+Be responsible for quality of team via reviewing/feedback, mentoring and recruiting
+Define success and how it will be measured, creating plans and roadmaps as needed
+Prioritise team members’ workload
+Lead on client communication and delivery where required
+
+QUALIFICATIONS
+
+What's important to us:
+At least 4 years’ commercial experience
+Experience using C# and .NET Core
+Experience using SQL server and Entity Framework Core
+Experience using Git
+Experience with Azure
+
+What’s nice to have:
+A University Degree in Computer Science (or a related discipline)
+Experience with Unit Testing / Testing frameworks in general
+Experience using Continuous Integration / Deployment
+Experience using Good OO practices
+Contributed to Open Source projects
+An active Github/Stackoverflow profile
+
+YOUR WORKING ENVIRONMENT
+
+Agility & Openness for Ideas
+
+We actively encourage the entire team to share their ideas, with that in mind we regularly adopt and implement suggestions across the company, you’re the specialist here!
+
+Operating with the agility of a high growth start-up, alongside the support you can expect from a larger organisation means we encourage quick decision making and a responsive, adaptive culture.
+
+Outstanding People
+
+We believe that great teams are built by a mixture of personality, skills and a passion for what people do. We’re a small, start-up team with around 20 people onboard.
+
+Forefront of Technology & Industry
+
+Our culture is deeply embedded in harnessing technology and we're always at the forefront of the latest capabilities and trends. If you’re interested in the possibilities that technology can bring to both the way we work and how our clients communicate with their audiences, then we’d love to hear from you!
+
+Top-notch Equipment
+
+We’ll provide you with a high-end M1 Max MacBook Pro or PC equivalent as well as top of the range monitors, headphones, a keyboard, mouse and whatever you need to feel comfortable at work.
+
+Flexibility
+
+We’re a remote-first company and support 100% remote working for this role. We have flexible working hours so you can start your day anytime between 8am and 11am.
+
+Joining us means becoming an integral part of the whole team no matter where we’re physically working, we have a number of initiatives to create a team environment regardless of geographic location.
+
+PAYMENT
+
+Up to 75,000 EUR per annum, depending on experience and skills.
+
+CONTRACT TYPE
+
+Full time contractor contract - fully remote working from anywhere in Europe!
+
+EXTRAS
+
+33 days of paid time off
+High end laptop of your choice - M1 Max MacBook Pro or PC equivalent, it’s up to you!
+Top of the range monitors, headphones, keyboard, mouse and gel rests
+Training and development opportunities
+Full refund for a trip to Edinburgh – we would love to meet you in person and meet from time to time in Poland or Scotland ;)
+
+RECRUITMENT PROCESS
+
+First, you will be invited for a 30-minute pre-interview via Zoom. We usually ask about your previous experience, future career path and motivation for changing your job, as well as provide you with more details about our projects and working in our team.
+
+If the interview goes well, we will invite you to a second step – a technical interview (60 minutes via Zoom). During the meeting, Dave, our CTO, asks about your technical capabilities plus anything not covered in the pre-interview, and at the same time answers all your questions. The next step is a technical task. The last step is the final interview (30 minutes) with Dave – it’s a mix of technical and culture-fit questions.
+
+And that’s it!

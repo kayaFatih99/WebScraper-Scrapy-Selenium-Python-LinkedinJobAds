@@ -1,0 +1,41 @@
+About the job
+Responsibilities Location Madrid, ES Job ID JR-030356
+
+Imagine a world where you could detect health issues sooner to treat them more effectively. Where food and water are always safe, even in remote corners of the earth. And where scientific and medical research are enhanced to solve the greatest challenges of our times. At PerkinElmer, we imagine this world every day. Then, we innovate and collaborate to make it happen everywhere.
+
+Our dedicated team of about 16,000 employees worldwide, pioneers scientific technologies for better detection, imaging, and informatics to help our customers work to create healthier families, improve the quality of life, and sustain the well-being and longevity of people globally.
+
+If you are seeking a meaningful, impactful, and stimulating career, look no further.
+
+PerkinElmer is a manufacturer of scientific instruments, reagents, and software to drive innovations in human and environmental health around the world. We are looking for a talented Senior Full Stack Developer (React, Node.js) to join our Informatics team, building a product we call the Signals Data Factory. The Signals Data Factory is a product which specializes in taking in many different forms of scientific data, transforming it (using Apache Spark), and making it searchable (using Elasticsearch) and analyzable via a variety of interfaces. Its current use spans from early in the drug-discovery process to analyzing active clinical trial data. If you are looking to join a team of talented engineers and to contribute to delivering amazing, high impact, customer-focused features, this is a great opportunity.
+
+You Will
+Create secure, performant interfaces and services
+Work on an intuitive approach to defining data transformation via a UI.
+Work with AWS services and cloud technologies
+Collaborate with fellow team members on priorities, specifications, and feature implementation
+Craft well-documented, reusable, and testable code.
+Work on a system capable of processing petabytes of data
+Build and maintain new, high impact functionality into the Signals Data Factory
+Basic Qualifications
+5+ years development, in JavaScript based scripting language
+Experience with modern front-end development
+Experience with making Node.js based APIs
+Experience with React.js and its core principles
+Experience with cloud-hosting at one of the top-3 providers
+Strongly driven – ability to clarify requirements and deliver code in a highly distributed and fast-moving environment
+Preferred Qualifications
+Bachelor’s degree preferred
+A good understanding of git workflows
+Angular.js
+Kubernetes
+Rancher
+Docker
+Java/Scala
+Mocha/Sinon
+Spark
+Kafka
+Elasticsearch
+This role will be on a Spanish contract but can be based at our offices in Tres Cantos - Madrid, Armilla - Granada or remotely from home.
+
+If you have a portfolio to share, we would be delighted to see it in your application.

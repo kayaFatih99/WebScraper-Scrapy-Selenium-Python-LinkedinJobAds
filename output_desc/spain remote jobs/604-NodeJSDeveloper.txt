@@ -1,0 +1,38 @@
+About the job
+We are Kaleyra! A global group, providing mobile communication services to financial institutions, e-commerce players, OTTs, software companies, logistic enablers, healthcare providers, retailers and other high-growth sectors worldwide.
+We power communications via cloud and APIs (through messaging, voice, chatbots and video) for some of the largest companies in the world that including Hyundai, Uber, Flipkart and AirAsia.
+Our technology makes it possible to safely and securely manage billions of messages monthly via over 1600 operator connections in more than 190 countries. We have been recognized as an established leader in the global CPaaS market by many of the top market research companies.
+Our vision is to be the world’s most trusted, secure and innovative communication platform, to enable real-time conversations between brands and their users.
+We are a diverse team of over 600 individuals, working remotely from different parts of the world, to deliver high-quality technology solutions for our clients. Our fast-growing team is spread across 13 locations around the globe.
+
+We’re now looking for some great developers with experience with Node.JS in different teams:
+Joining the Global Platform Team: working closely with the Global Development team on adapting and customizing our global platform for multichannel communication for the European market. Working closely with the product owner in developing all the needed features to satisfy our customers.
+Joining the Gateway team: Working on the development and improvement of the Email Gateway in a dynamic and international team
+Joining the Video team: working on the maintenance and development of the back-end infrastructure and new features for our video communication solution, to integrate within corporates’ environment, by collaborating with the front-end and mobile teams.
+
+Requirements (it's ok to have some of these):
+Previous experience in developing back-end in Node.js applications and architectures; Express knowledge will be a plus
+Great knowledge of SQL database (MySql) and NoSQL (Mongo DB)
+Proficient code writing skills (scalability)
+Redis or Hazelcast
+RabbitMQ or Kafka
+Knowledge of JavaScript (eventually Typescript)
+Proficient knowledge of code versioning tools, such as GIT
+Good knowledge of English
+
+Nice to have:
+Experience with RTC-based application deployment and scalability
+Knowledge of Docker
+
+All of these roles are open to full remote from the European Union.
+You must have a valid RTW for Italy, Germany, or the Netherlands.
+
+What we offer:
+Competitive salary, the range is broad so that we can accommodate our roles for all levels of experience.
+RSU Plan
+Full Remote work
+Flexible working hours
+International Environment
+Learning & Development in a fast-growing environment
+
+We are committed to promoting equal opportunities in employment. All job applicants will receive equal treatment regardless of age, disability, gender reassignment, marital or civil partner status, pregnancy or maternity, race, nationality, ethnic or national origin, religion or belief, sex, or sexual orientation.

@@ -1,0 +1,22 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, KBS Solutions LLC, is seeking the following. Apply via Dice today!
+
+Title: Fullstack Engineer
+
+Location: USA - Remote
+
+Key Skills:
+
+Software Development (Java, .JSP JS, Angular Python, R, XML, SQL)
+Microservices
+API Development
+Databases : DB2, Oracle, MySQL, Vertica,JCL, CICS
+Test Driven Dev, Unit, Integration, Functional testing
+Custom Development – Spring , Hibernate
+Continuous Integration
+Agile Experience a plus
+Web Services & Solutions (Apache, AWS, UI/UX,API’s)
+Configuration Management
+Attunity (data replication) experience a plus
+Experience with C, C++, TIBCO a plus
+provided by Dice

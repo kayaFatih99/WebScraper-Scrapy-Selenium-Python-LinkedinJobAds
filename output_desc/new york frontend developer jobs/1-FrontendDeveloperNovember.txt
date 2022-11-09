@@ -1,0 +1,51 @@
+About the job
+For one of our clients in the pharma industry, we’re looking for a freelance Frontend Developer:
+
+Project Description
+
+Crystal is an analytics software product for clinical trial operation that visualizes complex operational clinical trial data. It provides transparency and monitoring into our clinical trial performance.
+
+With Crystal We
+
+oversee project and trial planning and actual conduct in real-time,
+accelerate understanding of progress and risk,
+gain agility in collaboration and speed up decisions,
+take well informed actions based on insights and predictions to prevent issues,
+see opportunities to speed up and prevent delays.
+Crystal is developed using Agile methodology, a blend of scrum and Kanban.
+
+Background to the assignment
+
+The product aims to visualize complex data stories in compelling ways, utilizing data visualization and data storytelling best practices in graphs, charts, infographics, dashboards, and geographic visualization techniques.
+
+As the product team does not have these skills internally, we seek to have the tasks completed by an external consultant (freelancer). The freelancer will hold a unique position within the development teams.
+
+All tasks and results will be documented in Jira/Confluence.
+
+Tasks
+
+Create JavaScript based user interfaces and data visualizations based on designs and prototypes provided by UX Design.
+Build reusable code and libraries for future use
+Review the technical feasibility of UI/UX designs
+Optimize Crystal application for maximum speed and scalability
+Utilize git for version control and perform code reviews along with paired programming for creating robust code with low tech debt.
+Update docker images to facilitate the CI/CD enabled git repository and a Jenkins workflow with a Jenkins file.
+Create automated testing to include unit as well as functional testing.
+
+Skills
+
+Strong understanding of JavaScript, its quirks, and workarounds
+Basic understanding of web markup, including HTML5 and CSS3
+Good understanding of AngularJS, ReactJS and importantly D3.JS
+Good understanding of asynchronous request handling, partial page updates, and AJAX
+Proficient understanding of cross-browser compatibility issues and ways to work around such issues
+Familiarity with JavaScript module loaders, such as Require.js and AMD
+Familiarity with front-end build tools
+Good understanding of browser rendering behavior and performance
+Fluent in English in writing and speaking
+
+Project start: ASAP
+
+Project location: Remote (occasional onsite visits for workshops and team meetings)
+
+Project duration: 3+ months

@@ -1,0 +1,32 @@
+About the job
+Kotlin Developer
+
+Salary: £50,000 - £65,000
+WFH: Hybrid working in London
+Industry: Telecommunication's
+We are seeking a proactive Kotlin Developer to join an award-winning and developer-led player in the telecoms space on a hybrid basis.
+Responsibilities of the Role:
+Analyses, designs, develops, codes and implements programs in one or more programming languages/frameworks, for Android applications.
+Supports applications with an understanding of system integration, test planning, scripting, and troubleshooting.
+Assesses the health and performance of mobile applications.
+Establishes, participates, and maintains relationships with business units, customers and subject matter experts in order to remain apprised of direction, project status, architectural and technology trends, risks, and functional/integration issues.
+Defines specifications and develop programs, modifies existing applications, prepares test data, and prepares functional specifications.
+Analyses program and application performance using various programming languages, tools and techniques.
+Reviews project proposals, evaluates alternatives, provides estimates and makes recommendations.
+Designs and defines specifications for applications.
+Identifies potential process improvement areas and suggests options and recommends approaches.
+
+Required Skills:
+2+ years of experience in Android development in a professional capacity. · Experience as an Android Developer using Kotlin is a must.
+Familiarity with RESTful APIs to effectively integrate Android applications
+Experience as an Android Developer using Java, Android SDK, Android NDK is an advantage
+
+Benefits:
+· Annual Salary £50,000 - £65,000
+· Hybrid Working - 2 days a week in Vauxhall
+· Laptop and Company phone
+· 6% company pension contribution
+
+Please note that we are offering visa sponsorship for this role if you are based in the UK
+
+Kotlin Developer

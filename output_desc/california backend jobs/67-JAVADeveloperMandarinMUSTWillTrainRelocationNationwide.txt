@@ -1,0 +1,63 @@
+About the job
+This job is sourced from a job board. Learn more
+JAVA Developer (Mandarin Speaking MUST - Will Train - Relocation Nationwide)
+
+Silicon Spectra is one of the leading providers of enterprise software solutions, comprehensive IT solutions, including Systems Integration, Consulting, Information Systems outsourcing, IT-enabled services, telecommunication, R&D, etc. We specialize in placement of UI Developers, ReactJS, AngularJS, Quality Assurance Analyst, Data Analyst, Software Developers, UX Engineers, etc. in fields of healthcare, banking, and financial services, high-tech IT business, retail and e-commerce, insurance, entertainment, telecom and cable, pharmacy and life science, oil and gas, travel and transportation, and local and state government for both permanent and contract C2C staffing arrangements. Our recent placements include Apple, Google, Facebook, JPMC, Wells Fargo and several other Fortune 500 companies.
+
+Knowledge And Skills
+
+Experience with Java (J2SE), server-side Java (Java 8)
+Experience with J2EE technologies for Web Tier and Business Logic Tier (Servlet, JSP, Persistence mechanisms)
+Experience with JavaScript, jQuery or any JavaScript framework a plus
+Experience developing in the Spring Framework; Spring MVC a plus
+Comfortable working with databases such as MySQL or Oracle; NoSQL a plus
+Experience with application server technologies such as JBoss and Tomcat
+Understanding of relational database design and development
+Very familiar with developing & integrating RESTful or SOAP web service API
+Experience developing and integrating Apache CloudStack a plus
+Comfortable working with Enterprise Linux
+Ability to design and run with the execution of a modification of existing code or new application.
+Some experience as a Front End / UI Engineer with jQuery, JavaScript, React, Vue
+Strong knowledge of Object-Oriented Programming with experience in Java
+Knowledge of JSP, J2EE, and JDBC
+Knowledge of Struts, Servlets, Spring, and Hibernate technologies
+Desired to work in a collaborative, innovative, flexible and agile Java Development team-oriented environment
+Fluent in Mandarin (Mainland)
+
+Education And Qualities
+
+Bachelors/ Master’s degree in Computer Science or related field
+Strong written and oral communication skills in both English and Mandarin preferred
+Detail-oriented, ability to multitask with strong prioritization, planning and organization skills
+Willing to relocate and familiar with the CCC business framework
+
+Benefits
+
+Lucrative Annual Base Salary
+Full Health Insurance Coverage
+Immediate H1B, STEM Ext. or GC Sponsorship
+Access to exclusive training & mentorship by Senior Google and Apple engineers
+
+Helpful Info
+
+Training Location: Milpitas, CA (at the heart of Silicon Valley)
+Starting Salary: $60,000
+Placement: Anywhere in the US (Must be willing to relocate)
+Visa sponsorship is available for qualified employees
+No experience required but better to have
+
+Silicon Spectra is a global leader in next-generation digital services and consulting. We enable clients around the world to navigate their digital transformation. With years of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower businesses with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+AI-Powered Core: Bring the power of artificial intelligence to build a deeply automated foundation for the enterprise that also serves up vital insights to prioritize the execution of change.
+
+Agile Digital at Scale: Create new enterprise-wide digital capability to deliver unprecedented levels of business performance and customer delight.
+
+Always on Learning: Drive continuous improvement by transferring digital skills along with ideas from a cross-section of industries and innovation ecosystems.
+
+Corporate governance is about maximizing shareholder value legally, ethically and on a sustainable basis. At Silicon Spectra, the goal of corporate governance is to ensure fairness for every stakeholder – our customers, investors, vendor-partners, the community, and the governments of the countries in which we operate. We believe that sound corporate governance is critical in enhancing and retaining investor trust. It is a reflection of our culture, our policies, our relationship with stakeholders and our commitment to values. Accordingly, we always seek to ensure that our performance is driven by integrity.
+
+Our Board exercises its fiduciary responsibilities in the widest sense of the term. Our disclosures seek to attain the best practices in international corporate governance. We also endeavor to enhance long-term shareholder value and respect minority rights in all our business decisions. We continue to be a pioneer in benchmarking our corporate governance policies with the best in the world. Our efforts are widely recognized by investors around the world.
+
+Our services and business solutions are strengthened by alliances with leading technology partners. Our network of alliance and teaming relationships creates business value, reduces implementation risk and accelerates go-to-market. We work with our partners to boost their revenue growth, expand markets and geographic reach, facilitate the sales process, and enhance product and service offerings. Silicon Spectra and alliance partners jointly deliver business solutions that address our clients’ business and technology problems. We address specific client needs as well as develop tools and methods to accelerate the successful deployment of solutions while reducing risk. In line with our corporate governance model and strategy of transparency, we do not solicit or accept influence or marketing assistance fees from any of our partners. Instead, our relationship focuses on joint investment in solutions, tools, and training.
+
+Silicon Spectra‘s wide partner network includes Adobe, Appian, Amazon Web Services (AWS), CA Technologies, EMC, Equinix, GE, Google, Hitachi, Vantara, HP, Huawei, IBM, Microsoft, Micro Focus, MongoDB, Mulesoft, Neotys, NTT, OpenText, Pegasystems, Perfecto Mobile, Pivotal, PTC, SDL, SAP, Salesforce, ServiceNow, SmartBear Software, Suse, Tableau, Tricentis, VMWare, Alibaba, Tencent, Yahoo, Youku, etc.

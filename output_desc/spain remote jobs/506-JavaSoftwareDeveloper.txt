@@ -1,0 +1,70 @@
+About the job
+Founded in December 2010 by CaixaBank and Global Payments, Comercia Global Payments, Entidad de Pago S.L. focuses its efforts on meeting the most demanding needs of today’s businesses and setting standards for the future.
+
+
+
+The mission of Comercia Global Payments is to provide the highest quality payment management service in the world, through strong alliances and a generous commitment to our clients and our employees.
+
+
+
+As a subsidiary company of CaixaBank and Global Payments, Comercia Global Payments maintains the objectives of both through offering the best and most complete payment management service to the greatest number of clients and intermediaries to meet their needs with flexibility and adaptation.
+
+
+
+Innovation, continuous improvement, and surpassing our clients' expectations are among the values that govern our company.
+
+
+
+These fundamental values and action principles of Comercia Global Payments stand as the benchmark for the whole organization and the key to our management model.
+
+
+
+Summary of This Role:
+
+Comercia Global Payments offers a great full-time permanent opportunity for a developer to work with a cutting-edge technology stack in a collaborative, productive, development environment. As a Software Developer on this Core team, you will be involved in a strategic initiative to develop the business applications, implementing new features and enhancing their performance.
+
+
+
+What Part Will You Play?:
+
+● Analysis, design, development, testing and support of business applications in alignment with overall company goals and objectives.
+● Development experience making use of best practice techniques as well as providing solutions to complex development tasks.
+● Ability to challenge decisions, be proactive and seek to improve technical excellence.
+● Thrives in a fast-paced environment with the ability to focus on achieving the target while minding longer-term goals along the way.
+
+
+
+What Are We Looking For?:
+
+● Great technical mindset to work in an environment where we promote the use of microservices platforms, clean code, design principles (SOLID, KISS, DRY), and TDD.
+● Strong design pattern skills and domain driven design.
+● Passionate about new challenges and worried about being up to date in terms of technology.
+● At least 4 years of experience with Core Java / J2EE.
+● Strong understanding of Data Structures & Algorithms.
+● At least 4 years of experience in:
+Java, Spring, Hibernate, Microservices
+Spring-related technologies such as Spring Boot, Spring Cloud.
+Application support, maintenance, and analysis.
+software development life cycle & should have the ability to read & understand application logs.
+At least 4 years of experience in Project life cycle activities on development and maintenance projects.
+Traditional relational databases like MySQL, no SQL such as Elasticsearch, MongoDB, Redis cache, etc
+Knowledge of CI/CD Pipelines built with BitBucket, Maven, Jenkins, etc.
+Experience with docker.
+Experience with git.
+
+
+
+Let’s Talk About Perks & Benefits!
+
+Base Salary & Annual Performance Bonus.
+Monthly Meal Allowance.
+Private Medical Insurance.
+Discounts on Medical Insurance for your relatives.
+Life Insurance.
+Child Care benefit.
+Work-life Balance & Flexible working hours.
+English Lessons.
+Wellness program with access to gym discounts.
+Compensation for work-from-home costs (headphones, chair and screen reimbursement).
+Volunteer on Social Corporate Volunteering Activities and other internal Team Events.
+Professional Development and the opportunity to be a key player at a rapidly expanding technology company within Payment Industry.

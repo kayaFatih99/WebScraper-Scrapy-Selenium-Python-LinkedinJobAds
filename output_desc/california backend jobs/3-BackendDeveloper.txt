@@ -1,0 +1,45 @@
+About the job
+Ancora’s mission is “to advance the personal and professional opportunities of students and employees in a value-driven environment.” Ancora’s core values are Integrity, Customer Service, Innovation, and Growth.
+
+As a valuable member of Ancora Education’s application development team, you’ll ensure high-quality systems are delivered that meet business objectives. We are searching for a motivated, team player, self-starter, and creative thinker with a positive attitude to join our team.
+
+About Your Role
+Build API in conjunction with the Sr. Application Developers as well as third-party apps
+Provide support to Sr. DBA related to SQL performance
+You’ll support a wide range of internal web applications and backend integrations that communicate with a variety of 3rd party software.
+You’ll perform a variety of tasks related to the analysis, design, development, testing, implementation, and maintenance in internal business applications.
+Interacts with diverse technical and non-technical groups, spanning all organizational levels.
+Manage multiple projects with competing priorities simultaneously.
+Plan and prioritize work assignments to meet scheduled releases.
+
+Preferred Qualifications
+3 or more years of SQL Server experience
+3 or more years of API development experience
+1 or more years of experience with Azure
+3 or more years of experience with Anthology CampusNexus API/database architecture
+Excellent communication skills and team player with creative and innovative problem-solving abilities.
+Strong relationship management skills, enthusiastic and self-driven, with a high degree of commitment.
+Strong organizational and planning skills, including the ability to multi-task and adjust to changing priorities, work under pressure, and meet deadlines, in a fast-paced and small-team atmosphere
+
+Technical Skills (in order of importance)
+.NET Framework, C#, ASP.NET / ASP.NET Core, MVC, WCF
+.NET web applications and web deployment
+Microsoft SQL Server
+Entity Framework ORM
+Understanding of SOA and APIs
+Python 3
+Git and TFS version control
+Visual Studio
+React OS/Development
+PowerShell scripting
+Unit and system testing .
+
+Duties include:
+Analysis, design, development, testing, implementation, and maintenance of programming solutions and enhancements.
+Lead multiple complex projects and tasks to plan, design, develop, test, and implement solutions
+Conduct code analysis and systems design for software applications that support business customers.
+Develop programming logic, coding, test data, program testing, program documentation, production problem analysis, debugging, and rapid correction.
+Participate in complex projects.
+Act as a technical advisor/resource for IT staff and the business unit.
+Create, modify, and publish documentation.
+Provide leadership in identifying, investigating, and recommending opportunities to incorporate emerging technology tools, practices, and techniques to improve the efficient delivery of business functions.

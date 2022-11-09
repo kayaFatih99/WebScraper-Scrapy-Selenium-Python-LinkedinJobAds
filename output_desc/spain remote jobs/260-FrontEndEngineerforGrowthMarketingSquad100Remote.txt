@@ -1,0 +1,38 @@
+About the job
+What You Will Be Doing
+
+As a Frontend Engineer, you will impact the company's growth and revenue by improving the user experience and performance of applications that are appreciated by millions of users monthly. If you enjoy rolling up your sleeves and jumping in, then read on!
+
+You will be part of a successful worldwide remote team. We have people from Canada, United States, Brazil, United Kingdom, Ukraine, and Poland in the squad. Strong communication skills are essential for this position.
+
+The tools we use most heavily right now are React and NextJS. We also use Asana for project management, GitHub for code reviews, and Slack for daily communication.
+
+Some Projects You Will Work On Include
+
+Responsible for the website development;
+Taking ownership of features and projects you create, from planning through execution;
+Refining our signup funnels through A/B tests experimentations;
+Improving our tracking and experimentation systems;
+Writing tests-oriented code that covers common user workflows to ensure stability across all of our clients;
+Working closely with Product Managers and Designers to implement new pages and features to our website;
+Leveling up the team by reviewing code and suggesting improvements;
+Designing well-crafted components that can be refactored easily to shift requirements as needed.
+
+Technical Requirements
+
+React (2+ years of experience)
+CSS-in-JS (Emotion, Styled Components, or similar)
+Next.js
+Figma or Adobe XD (interpreting specifications)
+
+Nice to have
+
+Tailwind CSS
+Sanity
+Typescript
+Cypress
+CI/CD
+
+Who you are
+
+We are looking for someone who loves to ship world-class user interfaces for websites and web apps with solid communication and coding skills. You will be working in a dynamic environment, collaborating with top-notch engineers like yourself to build a solid and scalable architecture for multiple products. :)

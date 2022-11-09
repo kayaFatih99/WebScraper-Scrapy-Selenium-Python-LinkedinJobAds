@@ -1,0 +1,44 @@
+About the job
+Salary range: £65,000 - 90,000
+
+V7 is an AI data platform to automate any visual task, voted by Forbes as one of the top 25 machine learning startups in 2021. We have raised $10 million in venture funding and are backed by the field of AI's greatest leaders, including the creator of Elixir.
+
+We manage the training data and models of hundreds of AI companies and enterprises. What sets us apart is our team's obsession with pushing our product to where AI will be three years from today. The product sells itself to the right user, but they must planning, keeping track of, and executing on new features can be a challenge. That's where you come in.
+
+Here's a bit more on our culture: https://www.v7labs.com/working-at-v7
+
+Back end engineers at V7 ensure that complex operations involving visual data can be performed smoothly through a web interface. V7 works with billions of training data images to create some of the world's most complex and general purpose AI models. Our back-end development is world-class and not short of challenges.
+
+Here's some things your counterparts have been working on:
+A system to route images or videos as actionable tasks through a workflow involving customisable filter and sampling parameters, in order to create the "assembly lines" required to train AI.
+A method of speeding up the loading of vectors on demand, to display the "visualisation" of what AI detects in real-time.
+A system to edit annotations in video including complex polygon interpolations, relying on the BE to dynamically load new frames as the user scrubs a video: https://www.v7labs.com/academy/video-annotation
+A system to convert data from JSON formats to a variety of formats used by deep learning scientists to enable V7 to act as a hub across any other ML tool.
+
+Some of the responsibilities you will tackle are:
+Enabling image recognition tasks to be attributed an arbitrary number of states, which may change as they travel through a workflow.
+Implementing webhook endpoints for 3rd party services to send and receive image and video data or related annotations into V7.
+Implementing a performant way of handling medical imaging so it can be rendered in 3D and made processable by AI models.
+Allowing large amounts of data to move in between image datasets from user commands.
+
+Back end roles at V7 are supported by experienced front-end developers and designers.
+
+Our BE is in Elixir (Erlang) with Phoenix, and FE is Vue.js. Our deep learning framework of choice is Pytorch. We don't expect you to know Pytorch. If you don't know Elixir, that's ok, but you'll have to learn it (some of our team members had no Elixir experienced when they started and had no problem learning it).
+
+Requirements:
+A proven interest in computer science from a young age and strong portfolio of projects.
+Strong experience with functional programming or a huge interest to move into this area.
+Familiarity with Elixir is a plus, but other languages like Haskell, Clojure, Scala, Go, Erlang and F# are also great.
+A CV that demonstrates an early interest in computer science.
+A curious, scientific mind.
+Fluent in English
+
+Benefits
+Unlimited vacation, just tell us when you need time off.
+Stock options
+Work from anywhere
+7-day company retreats in stunning locations
+New Apple hardware
+Paid tickets, accommodation, and travel to relevant conferences, nationally or internationally (NeurIPS, ICCV, CVPR, ...) to expand your network & knowledge during normal times.
+Central London office with standing desks and 4K monitors.
+Unlimited high-quality coffee, tea, snacks, and other comforts every day.

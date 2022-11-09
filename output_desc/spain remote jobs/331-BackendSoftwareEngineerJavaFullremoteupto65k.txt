@@ -1,0 +1,27 @@
+About the job
+The Job
+
+We are looking for a Java (Backend Software Engineer) for one of our customers, focused on providing high performing, resilient and scalable software systems that create impact for their users and businesses around the world.
+
+<< Mission: you'll be part of the development, and improvement, of the core service-oriented architecture of high-scalable and performant retail platforms, serving millions of users worldwide and processing thousands of transactions every second.>
+Developing and maintaining features in a collaborative, Agile environment;
+Writing testable code and ensuring the test coverage stays at the agreed level;
+Documenting your code;
+Take ownership of your code every step of the way - from development to deployment and maintenance;
+Diagnose issues in production and devise solutions for them;
+Work both autonomously and collaboratively to complete tasks;
+Be an integral part of solutions design and implementation.
+Good English skills
+Experienced with Java (+4 years)
+Service-oriented architectures, design patterns, and data structures;
+Test automation, continuous integration, and continuous delivery;
+Operational aspects, building performant applications and monitoring them showing you care about your code;
+Working with relational and non-relational databases,
+Working with frameworks such as Spring Boot or Vert.x (although not essential);
+Experience working in an Agile environment, by using methodologies such as Scrum, Kanban, and DevOps;
+Being self-driven, self-organized, and working with little supervision towards a common team and company purpose;
+Working practices: Knowledge and experience of agile frameworks and practices, such as Scrum/Kanban, user stories, BDD/TDD, DevOps, Continuous Integration & Delivery, Pair Programming, etc.
+Building highly concurrent, transactional, and resilient services.
+< Offer >
+Salary up to €65k + benefits
+100% remote

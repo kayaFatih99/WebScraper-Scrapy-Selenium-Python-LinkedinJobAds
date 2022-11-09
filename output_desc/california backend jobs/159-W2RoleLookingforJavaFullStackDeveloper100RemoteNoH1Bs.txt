@@ -1,0 +1,15 @@
+About the job
+W2 Position-Looking for Java Full Stack Developer (100% Remote) No H1B's
+100% Remote
+
+Job Description:
+*At least 5 years of experience in IT overall.
+*4 years of hands-on experience in one or more Typescript front-end frameworks (Angular 8+). AngularJS experience is not counted.
+*4 years of hands-on experience implementing REST services, ideally implemented with Java 11+ and SpringBoot.
+*Some experience in deploying to a cloud platform (Kubernetes, PCF, GCP, Azure, AWS) *Some experience and familiarity with TDD, in both front-end and back-end technologies. *Good communication skills, written and verbal. .
+*Some experience and familiarity with agile methodology and pair programming (XP, Scrum). Candidate must be willing to pair program.
+*Familiar with CI/CD tools (Jenkins)
+*Familiar with maintaining and interacting with databases (Oracle, PostGres).
+*Has current capacity to lead a feature track.
+*Familiar with software release management tools (Pivotal Tracker, JIRA, Rally).
+*Capability to perform, troubleshoot and mentor new vendor resources in all Engineering role requirements.

@@ -1,0 +1,48 @@
+About the job
+Qatalog exists to help unlock the collective potential of teams. It’s the trusted work hub where teams coordinate and share work. It spans all areas of collaboration with projects, updates, goals, company section, workflows, and proprietary search. We're dedicated to shifting how people collaborate and would love for you to join us.
+
+The team
+
+We're a passionate, experienced, and compassionate team with former Amazon, Microsoft, Mozilla, Wise, and Stripe alumni pioneering remote working practices. You’ll join a collaborative group of professionals from many different backgrounds, who’ve built and scaled large teams and products. Our engineering team uses the latest technology and develops on a foundation of best practices including architectural decision records (ADRs) in our monorepo, gitflow for our CI/CD pipelines, and a solid base of automation.
+
+The technology
+
+ES6, GraphQL/Apollo server, Postgresql, Redis, Elasticsearch, Docker, Google Cloud
+
+If your experience doesn’t align with ours, that’s not a concern. We do care about how adaptable you are at applying your knowledge to new problems. We work in an environment conducive to talented engineering polyglots; language is an implementation detail.
+
+Requirements
+
+We’re looking for an experienced Senior Software Engineer with a proven track record of delivering scalable, maintainable solutions across the entire stack. As a key engineering figure, you’ll have a great foundation of best practices and demonstrate a drive to continually learn and mentor those around you. You will own the design, development, and support of core product features and prototypes from idea to delivery into production. You will be sensitive to the goals of the company, establishing engineering goals collaboratively with stakeholders along with the work-back plans to achieve them. You will proactively nurture the talent in your area, collaborating with them to enhance their skillset. You will also continually assess the current and long term infrastructure needs for the organisation looking around corners for unknowns and creating a proactive strategy and operating plan.
+
+Key Responsibilities
+
+You will be responsible for establishing best practices for technical architecture, quality control, scalable design and modularity of the codebase. This includes tooling strategies, operational excellence concerns, code reviews etc. You will also establish the processes and set the bar for client engineering, performance and code quality, and enable extensibility of engineering solutions by ensuring the team builds clean, extensible and modular components.
+
+Minimum qualifications:
+BS or MS in an engineering discipline or equivalent practical experience
+Software development experience in one or more general purpose programming languages
+Working proficiency and communication skills in verbal and written English
+
+Preferred qualifications:
+6+ years of proven experience building highly available, scalable applications
+Experience in a startup environment
+Demonstrated proficiency at back-end and database tiers
+Demonstrated proficiency with improving developer experience (ie: core infrastructure, developer build processes, Storybook, etc)
+Demonstrated proficiency with serverless architectures at scale
+
+Benefits
+Competitive salary benchmarked to location
+Meaningful stock options
+25 days annual holidays
+Premier health insurance
+Vision/Dental insurance
+Mental Health & Physiotherapy cover
+MacBook and accessories, along with a remote setup allowance
+A remote first company headquartered in London (Shoreditch)
+
+More can be found on qatalog.com/about
+
+Qatalog is an equal opportunity employer
+
+We celebrate diversity and are committed to creating an inclusive environment for all employees.

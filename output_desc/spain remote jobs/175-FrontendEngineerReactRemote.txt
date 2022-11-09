@@ -1,0 +1,35 @@
+About the job
+Veeva is a mission-driven organization that aspires to help our customers in Life Sciences and Regulated industries bring their products to market, faster. We are shaped by our values: Do the Right Thing, Customer Success, Employee Success, and Speed. Our teams develop transformative cloud software, services, consulting, and data to make our customers more efficient and effective in everything they do. Veeva is a work anywhere company. You can work at home, at a customer site, or in an office on any given day. As a Public Benefit Corporation , you will also work for a company focused on making a positive impact on its customers, employees, and communities.
+
+The Role
+
+Veeva Link seeks a mid-to-senior level Front End Engineer (React) that will participate in all aspects of architecting and developing new and innovative web applications. You will have the opportunity to work on cutting-edge technology and new product development in an established company that is rapidly growing. This is a great opportunity for an engineer looking to expand their well-established career, who is excited about search, solving complex problems, ownership, and who enjoys working with technologies like React, Python, AWS, and Elasticsearch.
+
+You have to be based in Spain and be eligible for employment in the European Union, as Veeva does not sponsor employment visa/permit processes for this opportunity.
+
+What You'll Do
+
+Build scalable web applications utilizing open-source tools and technologies
+Use REST and GraphQL APIs
+Be able to work independently while communicating progress to other members of the team
+Lead the technical planning, user story and technical acceptance creation, and coding
+Identify and correct complex bugs and problems
+Plan technical architectures that minimize or eliminates performance problems, complexity, or solution fragility
+Implement a front end based on mock-ups and in some cases based on visual design
+Develop a front end using the latest responsive design development techniques
+
+Requirements
+
+At least 3 years of professional experience building scalable and reliable web applications are required
+Experience with React or another comparable JavaScript framework
+Deep understanding of front end technologies, such as JavaScript, HTML, and CSS
+Unit test and debugging skills
+Independent, self-managed, and motivated
+Good command of the English language
+
+Nice to Have
+
+Experience with any of the following would be a plus: Python, Django, AWS (or another cloud provider), any RDBS, Elasticsearch, Redis
+Have a bachelor’s degree in computer science, engineering, or information systems
+
+#RemoteSpain Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world. Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.

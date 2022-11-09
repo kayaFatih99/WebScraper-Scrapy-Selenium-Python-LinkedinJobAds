@@ -1,0 +1,51 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Pyramid Consulting, Inc., is seeking the following. Apply via Dice today!
+
+Immediate need for a talented Angular Developer with experience in finance/banking. This is 12 months’ contract with long-term potential opportunity/ fulltime conversion and is located in Remote. Please review the job description below.
+
+Job ID: 22-76788
+
+Skills – Angular
+
+Responsibilities:
+
+Build front-end web pages using HTML, CSS, Angular, AJAX
+Build back-end application code that manipulates content, and interacts with other systems, services and APIs
+Build and update RESTful APIs and microservices
+Interface with PostgreSQL
+Implement unit testing for built components using tools such as Junit
+
+Skills And Qualifications
+
+Must be flexible, able to work in a highly collaborative environment, juggle multiple tasks at once, and work independently and collaboratively as needed. Must have superior interpersonal skills and strong communication skills. Be comfortable working directly with the Project Manager to support emerging client needs as well.
+
+3+ years of web application development experience
+Hands-on experience with RxJS
+Good understanding of Angular forms (both template-driven and reactive forms)
+Good understanding of preprocessors such as SCSS and Angular view encapsulation
+Responsive design with flexbox, CSS grid, media queries, and/or Bootstrap grid
+Familiarity with accessibility, WCAG 2.x requirements
+Good understanding of modular, component driven design (best judged through a code exercise)
+Strong experience with Angular 6+
+Strong experience developing/consuming RESTful web services
+Experience with designing and developing PostgreSQL or similar relational databases
+Excellent issue resolution skills within open-source products
+Understanding mobile friendliness of websites
+Ability to work with technical staff to understand and develop new web applications, resolves customer complaints with web applications, and responds to suggestions for software modifications or enhancements
+
+Preferred Experience
+
+Experience working in Agile teams
+The ability to supervise and mentor and lead junior developers is strongly preferred
+Ability to work independently and in an awesome team setting
+Experience or exposure with automation tools such as Jira, Jenkins, Ant, Maven
+Experience with container technologies like Docker.
+Experience with AWS or Other Cloud Technologies.
+Experience with Spring and Hibernate
+Knowledge of LDAP, OAuth, AD security, and authentication
+Knowledge of Elasticsearch, Lucene/Solr
+Excellent communication skills
+
+Our client is currently interviewing to fill this and other similar contract positions. If you are interested in this position, please apply online for immediate consideration.
+
+provided by Dice

@@ -1,0 +1,22 @@
+About the job
+En Arelance sabemos que las personas son el activo más importante dentro de una empresa y por tanto invertimos muchos esfuerzos en buscar los mejores profesionales para nuestros clientes y en ofrecer a nuestros candidatos los mejores proyectos.
+
+En este momento buscamos profesionales con experiencia en desarrollo Back-end con Java para un importante proyecto del Sector Banca.
+
+¿Cuáles son los requisitos?
+Experiencia en desarrollo Java 8-11
+Soltura en programación funcional (Streams Lambdas Interfaces funcionales Optional etc)
+Experiencia con Unit Test (JUnit5 soltura en mockito) Maven Springboot servicios
+Experiencia en proyectos con metodología Agile-Scrum
+Contenedores Docker Servicios AWS (S3 EC2 CloudWatch) SOLID.
+Conocimiento de herramientas Git (Bitbucket) Jira Confluence.
+¿Qué ofrecemos?
+Incorporación en un proyecto estable
+Proyecto 100 remoto
+Contrato indefinido
+Acceso a formación
+Si tienes interés en una gran oportunidad como ésta ¡inscríbete! ¡Queremos conocerte!
+
+java,
+
+8b7c1d8842cd63309e44

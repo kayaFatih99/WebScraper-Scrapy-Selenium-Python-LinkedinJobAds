@@ -1,0 +1,83 @@
+About the job
+Do you want to work for a company with double-digit growth and a 9-year track record of profitability?
+
+Would you enjoy the fast-paced excitement of a startup mindset?
+
+Are you looking to solve innovative data collection and processing problems at scale?
+
+Are you interested in working on high-visibility, rapid-release products?
+
+Do you value working with talented, experienced, friendly engineers?
+
+Join us in our journey to change how the world gains insights in digital marketing!
+Apply today!
+
+Fulfil Your Potential With Us
+Sensor Tower has a successful startup environment, so engineers can take advantage of working on a variety of projects, owning major features that impact customers, building new things, and productionizing the experimental code that has proven value.
+We need engineers who have the creativity and skills to gather meaningful data and insights. In our lean and flat organisation, you will also have a meaningful say in what and how we build out all aspects of our product.
+Unlike many startups, we have an eight-year track record of profitable, double-digit growth, so that financial stability allows engineers to focus on the interesting problems we’re solving rather than company viability. It also means we can invest in impactful ideas and quickly react to market changes.
+
+RESPONSIBILITIES
+Participate in the full development life cycle, including design, implementation, quality testing, and release.
+Leverage your strengths and interests to work on full feature implementation from high-scale concurrent processes, to security and network traffic, to system development and services APIs.
+Develop and optimize high-performance data aggregation and analysis pipelines at scale.
+Gather test data, implement unit tests, develop integration tests, apply testing frameworks, and evaluate end-to-end outcomes.
+Minimize errors and repetitive human effort with automation.
+Work in close cooperation with the Product team to deliver innovative solutions, optimize the existing systems, and add new features.
+Join a growing global engineering team and use your technical skills to drive value and impact business decisions.
+
+Our Tech Stack
+We have a principle-based approach to our tech stack. We choose tools and platforms that help engineers develop and test code quickly, and that we can support across the organization over the life of the product. Time to market is critical for our customers in this digital economy.
+Ruby on Rails: Popular and proven to help engineers build production systems quickly.
+Python: Effective choice for engineers and data scientists to implement models quickly.
+MongoDB: Fast, scalable, and efficient NoSQL database solution.
+Go: Highly performant for high-throughput, low-latency services.
+
+REQUIREMENTS
+5+ years of experience as a Software Engineer.
+Strong foundation in programming, algorithms, and software application design.
+Solid understanding of RESTful systems and the principles of good API design.
+Solid knowledge of one or more modern software languages (Go, Scala, Java, C++, C#, Ruby, Python).
+Interest in working in Sensor Tower Tech Stack.
+Excellent written and verbal communication skills.
+
+Preferred skills
+System software development.
+Mobile app development.
+Knowledge of NoSQL databases.
+
+Nice to have experience
+MongoDB, Elasticsearch, Redis.
+Microservices, Big Data.
+Docker, Kubernetes, CI/CD.
+
+Blog Posts
+Read more about some of our Technical challenges here (written by members of our engineering team):
+https://sensortower.com/blog/speeding-up-the-backend-with-graph-theory
+https://sensortower.com/blog/how-we-scaled-to-thousands-of-sidekiq-workers
+https://sensortower.com/blog/why-sensor-tower-uses-ruby
+Products
+We offer unique insights into the digital marketplace for mobile apps and app stores, consumer app usage, digital advertising, and brands with our recent acquisition of Pathmatics.
+
+Customers
+We serve small, independent and Fortune 1000 customers alike, spanning the mobile games, travel & hospitality, music, finance, CPG, and broadcast entertainment markets. We offer our suite of products on free, small-medium-size business, and enterprise tiers to make it accessible to the broadest range of customers.
+
+Media
+We are cited by the world’s leading news and finance media: The Wall Street Journal, The New York Times, Forbes, Fortune, Bloomberg, CNBC, The Washington Post, and Reuters.
+
+About Sensor Tower
+
+Sensor Tower is a high-growth SaaS company that provides accurate, comprehensive, and customizable mobile market economy analytics to app developers, game developers, industry analysts and investors. Founded in 2013, Sensor Tower has grown from a $1M seed investment to being profitable and in 2020 we received a $42M growth investment from Riverwood Capital.
+
+Why Sensor Tower?
+
+Our flexible work environment allows employees to live in greater connection with the people, places, and activities they love!
+
+Our benefits include:
+- Flexible time off so employees can shape their time away from work.
+- Health and wellness stipend to achieve and maintain a healthy lifestyle through physical and mental fitness.
+- Monthly internet stipend and a one-time $500 home office stipend.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, and veteran status. We will consider qualified applicants with arrest and conviction records. If you have a disability or special need, please do not hesitate to let us know and we'll do our best to accommodate.
+
+#LI-Remote

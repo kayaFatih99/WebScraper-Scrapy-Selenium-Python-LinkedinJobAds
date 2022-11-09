@@ -1,0 +1,33 @@
+About the job
+Full Stack Python Developer
+
+My client is a global organisation having footprint across the UK, USA, Ireland, Belgium, Portugal, Australia and New Zealand.
+
+This client is backed by the prolific Alphabet (Google) Capital Partners or Sidewalk Infrastructure Partners.
+
+The Group provides a new class of shared ‘neutral host’ 4G and 5G mobile network densification and extension services using small-cells and its own deployment methodology and analytics software.
+
+Main Purpose of the Job:
+The Software Developer role is responsible for designing and developing the software for a Network Management solution
+
+The Software Developer is responsible for designing and implementing integration to managed components, data collection and monitoring of events, and implementation of APIs to facilitate front-end use cases.
+
+The Software Developer will work with peers in the Software Engineering group, collaborate with business stakeholders and other technical teams to provide effective network management capabilities, ensuring tactical and strategic business objectives are met.
+
+Key Responsibilities:
+· Design, build and unit test software that is flexible, scalable to many managed components, maintainable and of high quality.
+· Working with technical peers, design software that optimizes the use of on-premises and cloud footprints.
+· Apply best practices to the development process, resulting in the creation of a flexible and effective solution.
+· Ensure that security is included in all solutions by design.
+Participate in the full development life cycle and QA process, including supporting integration testing.
+Use of Jira and Bitbucket development tools.
+Other duties appropriate to the post may be assigned from time to time by the Head of Software.
+
+Education and Experience:
+· Minimum five years working in commercial software development.
+· Strong knowledge of Python programming language
+· Experience of REST API development using Flask or similar
+· Experience working with relational database technologies such as PostgreSQL.
+· Experience with monitoring solutions such as Prometheus/Graphite beneficial
+· Experience with front-end technologies such as Typescript and React beneficial
+· Understanding of DevOps, CI-CD pipelines, automated testing frameworks, test and design led development and other associated software engineering best practices.

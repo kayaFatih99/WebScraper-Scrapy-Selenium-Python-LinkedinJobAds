@@ -1,0 +1,38 @@
+About the job
+Patreon is the best place for creators to build memberships by providing exclusive access to their work and a deeper connection with their communities. We’re building a content and community platform where creators can engage directly with their fans and monetize their creativity, while maintaining full ownership over the work they make and the communities they create.
+
+We’re leaders in the membership space with 250,000+ active creators and over $3.5 billion paid directly to creators on our platform. Our team is building tools to optimize the creator-to-fan relationship, including native video, enhanced podcasting features, improved creation tools, and new community experiences. We’re continuing to invest heavily in building the most talented team in the Creator Economy and are looking for a Fullstack Engineer for our Creator Experience team to support our mission.
+
+About The Role
+
+
+Lead and contribute to the design and development of a new suite of product capabilities at Patreon
+Advocate for best patterns and practices in the area system design, performance, and testing
+Foster clarity and alignment on technical vision and direction
+Advocate for engineering systems and solutions that will accelerate product development in the long-run
+Write clear and concise technical documentation on system design and implementation
+Build a strong product-minded, engineering culture by mentoring and guiding engineers
+
+About You
+
+
+5+ years of experience in software development
+Solid understanding of JavaScript and TypeScript
+Good knowledge and understanding of modern web technologies, specifically GraphQL, Flask, Node.js, REST, HTTP basics, gRPC and the ability to design maintainable and performant APIs
+Familiarity with designing, building, deploying, monitoring and maintaining code in multi-service architecture
+Preference for practicality over dogmatism
+Penchant for elegant and simple solutions for complex requirements
+
+About Patreon
+
+
+Patreon powers creators to do what they love and get paid by the people who love what they do. Our team is passionate about making this mission and our core values come to life every day in our work. Through this work, our Patronauts:
+
+Put Creators First | They’re the reason we’re here. When creators win, we win.
+Build with Craft | We sign our name to every deliverable, just like the creators we serve.
+Make it Happen | We don’t quit. We learn and deliver.
+Win Together | We grow as individuals. We win as a team.
+
+Patreon is proud to be an equal opportunity employer. We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, veteran status, or any other protected class.
+
+Patreon offers a competitive benefits package including and not limited to salary, equity plans, healthcare, unlimited paid time off, company holidays and recharge days, commuter benefits, lifestyle stipends, learning and development stipends, patronage, parental leave, and 401k plan with matching.

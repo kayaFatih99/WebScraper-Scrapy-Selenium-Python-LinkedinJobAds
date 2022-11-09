@@ -1,0 +1,79 @@
+About the job
+Full Stack Software Engineer
+
+
+Engineering - Remote
+
+
+Telmar is the global leader in advertising and media solutions, providing the most influential agencies, media owners and planners with innovative cloud-based tools to help create, plan and predict the most successful media campaigns. For more than 50 years, leading media and advertising agencies have relied on Telmar's innovative cross-media and data analytics solutions to create the most successful media campaigns worldwide. Telmar is a truly international company with over 25,000 users and 600 customers worldwide. Our team of media experts has a global presence with locations around the world including New York City, London, Toronto, Johannesburg, Paris, Amsterdam, Shanghai, Singapore and Hong Kong. For more information about Telmar and its solutions, please visit: www.telmar.com
+
+Role Summary
+
+In this role you will be designing, developing, and maintaining applications that are deployed on our serverless ‘Telmar Unified Platform’. Our platform provides end to end media planning and buying solutions, spanning across all media types (TV, Radio, Streaming etc.) globally.
+
+As a crucial part of a dynamic agile team, you will collaborate with experienced technologists in the media planning industry, building innovative and pioneering technical solutions for the media planning industry.
+
+You will have the opportunity to work with awesome tech whilst delivering world class software. You will gain exposure to cutting-edge systems and platforms which operate on a global scale, whilst helping your team deliver its technology roadmap.
+
+We are passionate about the development of our team members, therefore, will support you and help to grow your skills as an engineer.
+
+
+Responsibilities
+
+Our product teams build and maintain all of our software solutions. Each team has a dedicated product/feature, enabling teams to master and own their business domain. Our platform teams build, maintain and operate the underlying platform and infrastructure. This includes teams such as Security, IT and Data teams. As a member of the product team, you will be responsible for:
+
+Collaborate closely with the team to plan, prototype, scope and develop frontend and backend web application components/features
+Utilize Source Control, adhering to best practices
+Create, build and deploy company internal modules and packages
+Build and use various customized tools: deployment scripts, build tools, etc.
+Write and maintain appropriate documentation based on components/features built or engineering processes/standards
+Attend Agile ceremonies, take part in engineers technical discovery and ideation sessions.
+
+Professional Skills
+
+Essential Skills
+
+Advanced demonstrated fluency in Javascript/ TypeScript, HTML and CSS
+Proven experience with Angular 8+ development or other modern front-end frameworks such as React or Vue
+Understanding of version control and release management tools such as Git & Github
+Experience of both RESTful and general APIs (we are API first).
+Experience of Lean/Agile environments; knowledge of product development tools such as JIRA
+Ability to write clean and testable code with an emphasis on maintainability
+Ability to keep up to date with advances in Technology and best practices from the industry
+
+Desired Skills
+
+Knowledge and understanding of AWS serverless concepts and services including AWS API Gateway, AWS Lambda, Amazon Cognito, and Amplify Auth framework
+Experience with Elasticsearch, DynamoDB and other document databases
+Experience in implementing UI/UX design using Material UI and Flex Layout
+Experience working with test frameworks (e.g Jasmine, Jest, Protractor, Cypress)
+
+Personal Attributes
+
+Excellent problem-solving skills
+Proven ability to work effectively in a distributed working environment
+Outstanding written and verbal communication skills
+Organized, detail-oriented with excellent time management
+Strong interpersonal skills and the ability to work proactively, independently and as a team player
+Ability to work efficiently and productively in a lean/agile environment
+Willingness to learn and adapt to new technologies
+
+Telmar's Perks
+
+Flexible working
+Medical cover
+DiSC Assessment (improve teamwork, communication, and productivity)
+We provide each Telmar employee with a framework for holistic and regular 360° feedback as well as for personal and professional development, enabling you to master daily challenges and continuously develop your own skills further via self-learning tools and formal training
+Employee Assistance Program (24/7)
+Weekly open door meeting with CEO and the HR Team
+Summer Team Building Events
+Christmas Parties
+Office gatherings (when C-19 restrictions allow it)
+Random coffee dates every other week
+Meeting free Fridays
+
+
+We are on an ambitious global journey at Telmar, no two days are ever the same and we’re therefore looking for people who can adapt quickly to this ever evolving environment. In return, our multinational; best-in-class team will support your desire to grow as an individual and challenge you in new roles. We are proud of the team and believe that our diversity has made us more successful. We are therefore keen to recruit candidates from all backgrounds. Telmar provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type.
+
+
+OUR MOST VALUABLE INTELLIGENCE IS NOT ARTIFICIAL

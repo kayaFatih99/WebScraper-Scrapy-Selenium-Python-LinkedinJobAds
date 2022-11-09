@@ -1,0 +1,38 @@
+About the job
+Android Developer – Fast Growing Tech Start-Up - Remote Working Initially
+
+Salary to £50k Basic
+
+Brilliant opportunity for an Android Developer to join a fast growing Tech brand based in London, who are expanding their team.
+
+You will join a fun and dynamic team, helping to build brand new native Android apps from the ground up, as well as own and improve the current App product technology.
+
+Requirements:
+
+Native Android
+Kotlin
+Jetpack Compose
+Working in agile environment using Scrum
+Writing tests- (unit test, integration test, UI test etc.)
+Experience with best practices in mobile design (human interface guidelines)
+Experience with Git or other similar distributed SCM systems
+Strong communicator and collaborator
+Proactive problem solver
+Any experience in iOS is beneficial
+Any experience with Adobe Creative Suite would also be helpful
+
+Responsibilities
+
+Writing high-quality, highly-testable code
+Working collaboratively with the iOS developer, Product Manager, Designer, and CEO
+Reviewing code, and engage in architectural discussions
+Seeking opportunities to automate repetitive or time-consuming processes
+Working proactively to remediate adverse customer experiences
+Sharing knowledge and seeking out opportunities to learn other parts of the software stack
+
+
+This is a fantastic opportunity to work on exciting Greenfield projects and code with the latest cutting edge technologies. As an Android Developer this role presents a great growth opportunity to grow.
+
+
+
+Key words: Android Developer, Android, Native, Mobile, SDK, Java, Kotlin, Jetpack Compose, Git, REST, JSON, TDD, Testing, Agile, Scrum, Kanban, Google Play, App Developer, permanent, London, UK, REMOTE

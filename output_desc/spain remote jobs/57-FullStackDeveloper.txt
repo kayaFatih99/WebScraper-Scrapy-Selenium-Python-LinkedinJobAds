@@ -1,0 +1,33 @@
+About the job
+HI Iberia es una compañía española con más de 20 años de experiencia en el campo de las telecomunicaciones e informática, ayudando a nuestros clientes en el despliegue de nuevos servicios y soluciones, tanto a nivel interno como externo, proporcionándoles la flexibilidad y eficiencia necesaria.
+Cuenta con un equipo multidisciplinar con amplia experiencia en el desarrollo de sistemas, productos y tecnologías de vanguardia que permite posicionarse como empresa innovadora en la búsqueda de soluciones a los retos que presenta la sociedad actual.
+
+En la actualidad, necesitamos incorporar un Desarrollador Senior Full Stack con experiencia demostrable en:
+
+DESARROLLO
+• Java, NodeJS, Express, NPM, NGIX.
+• HTML, JS, CSS.
+• GIT.
+• AWS.
+
+BASES DE DATOS
+• NoSQL: MongoDB (y Mongoose)
+• SQL: MySQL, PostgreSQL, SQL
+
+Conocimiento de Aplicaciones Android e iOS (Objective-C y Swift, Flutter).
+
+OTRAS HABILIDADES
+• Sistemas operativos: Linux (Ubuntu), OSX, Windows
+• Sockets (Socket.io)
+• Metodologías Ágiles
+
+• Habilidades: Gestón y Capacidad de trabajo en equipo, capacidad para comunicador ideas y conocimiento, experiencia con equipos grandes y multi-disciplinares.
+
+¿QUÉ TE OFRECEMOS?
+- Incorpórate a nuestro equipo y cultura de HI entrando en proyectos tecnológicos e innovadores dentro de equipos multiculturales y multidisciplinares.
+- Desarrollo de carrera profesional y plan de formación. Podrás adquirir o perfeccionar conocimientos en las tecnologías que utilizamos así como en habilidades.
+- Nos importa tu bienestar.
+- Podrás flexibilizar parte de tu salario a través de nuestro plan de retribución flexible donde tendrás varias opciones como tickets restaurante, seguro médico …
+- Centro de trabajo: MADRID.
+- Puedes venir cómod@ a trabajar, ¡no tenemos dress code!
+- Promovemos la igualdad de oportunidades en la contratación y somos una compañía comprometida con la inclusión y la diversidad.

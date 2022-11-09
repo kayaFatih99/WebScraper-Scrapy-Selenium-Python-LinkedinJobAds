@@ -1,0 +1,34 @@
+About the job
+Never be bored at work again! Come and join one of the most exciting and established immersive web platform projects on the planet. If you enjoy variety, new challenges, great team mates, low stress and attention to detail then you may be a good fit for Hyperspace.
+
+We are looking for an efficient and diligent senior full-stack developer who works well in a remote team to join us in building on top of our existing Hyperspaceᵐᵛ Metaverse web platform ( https://youtu.be/AIwb5-HSuq4 ) . If you're a Laravel + JS developer who enjoys developing new features with an eye for maintainability and performance, reach out!
+
+We're happy to bring you up to speed, but there are some requirements, so please apply only if:
+
+You are highly proficient with Laravel and Javascript (ES5+)
+You have a good understanding of RDBMS and query performance optimization (experience with MySQL replication is a plus)
+You're able to design performant REST APIs, as well as implement them (in Laravel)
+You know your way around HTML and CSS
+You can work with git (you don’t need to be a wizard, but you should be able to rebase a branch, resolve merge conflicts and submit pull requests with awareness of best practices and PR etiquette)
+
+We'd love it if you also have experience with the following technologies, especially in a production environment:
+
+oAuth- and SAML-based authentication
+Node.js
+Docker (mainly for local development, but our platform runs on Kubernetes, so it's everywhere :D)
+Redis (standalone and cluster modes, in a Laravel context)
+
+Our product is a mature platform with high availability requirements, so having past experience with a Kubernetes-based development workflow (specifically GCP), as well as working with CI (Jenkins) would be awesome, but neither is strictly required.
+
+As mentioned above, we are looking for an experienced developer. While we will discuss technical aspects of the project and your past work on a voice call, please include in your application a description of a project you worked on, which you consider relevant, that would showcase your thinking in relation to a challenge you came across, and the solution you found. You are welcome to go into as much detail as you want, since this is a great way for us to assess your technical skillset and your approach to problem solving. To qualify for this job, include the word strawberry at least once, no matter where, when applying.
+
+If you embody these characteristics, you know you'll be a good fit:
+
+You are fluent in both written and spoken English; we're from all over and speak a number of languages, but English is our lingua franca.
+Highly self-reliant, and you like taking ownership of your work
+Not afraid to ask questions that will help define the scope of what you develop
+In your application, you include an example of a single-action controller
+You can discuss your technical/architectural decisions with the team and welcome reasoned feedback
+The code you write is scalable and performant, keeping both servers and browsers happy :)
+
+Given that the platform is growing at a fast rate and involves metaverse capabilities there will be opportunities along the way to learn new and exciting technologies. We look forwrard to your application.

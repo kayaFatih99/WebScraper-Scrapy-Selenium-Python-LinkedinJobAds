@@ -1,0 +1,38 @@
+About the job
+About Nailted
+
+We're a SaaS company with the mission of helping organizations cultivate a culture in which everyone is truly aligned. We believe technology can change habits, and with our web-based solution, we’re able to shape a company’s culture for the better by setting up the right feedback workflows enabling both people and companies to understand each other better.
+
+If you like to change the way companies are operating, come and join us!
+
+Your profile
+
+We are looking for an energetic person who is passionate about creating products focused on delivering value to our customers.
+
+We’re still a small team allowing you to participate in every area of the platform, fully understanding all the architecture and design of the system. Your work will have a big impact in the company, having freedom and getting involved in the decisions taken. You will be focused in helping develop new features and maintaining the current product.
+
+We are looking for a javascript developer that:
+
++2 years of experience working in product development.
+Good knowledge of node and express.js.
+Good knowledge of SQL databases.
+Understanding of RESTful APIs.
+Do not mind working with frontend as well.
+Good level of English.
+Visa to work in Spain.
+
+Valuable
+
+Familiarity with front-end frameworks or tooling.
+Experience integrating third-party APIs.
+Has worked in startups / tech companies.
+
+We offer
+
+Salary starts at 25k€ (it will depend on experience).
+Truly flexible working hours.
+Career development, learn and grow with the company.
+Full remote. (really remote, not only during a certain period of time).
+Join a fast growing tech company.
+Work with team members with more than 10 years of experience in product development.
+Great working environment (that’s what we do!)

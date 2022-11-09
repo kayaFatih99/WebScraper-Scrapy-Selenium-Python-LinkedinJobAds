@@ -1,0 +1,28 @@
+About the job
+HAYS TECHNOLOGY ES LA LÍNEA DE CONSULTORÍA DE NEGOCIO DEL GRUPO HAYS
+
+En Hays estamos colaborando con una empresa líder en servicios digitales y desarrollo de software, ayuda a sus clientes a impulsar su transformación digital para obtener beneficios tangibles y sostenibles. Coloca a las personas en el centro de todo lo que hace y se compromete a aprovechar al máximo la tecnología digital para construir un futuro positivo para sus clientes. Con 46.000 empleados en 25 países, el Grupo generó unos ingresos de 4.300 millones de euros en 2020.
+
+Actualmente buscamos un/a Senior Backend Developer para incorporarse a su equipo.
+
+¿Cuáles son los requisitos?
+
+Más de 3 años de experiencia como Backend Developer.
+Conocimientos en Ingeniería técnica/superior.
+Experiencia y conocimiento en el desarrollo de aplicaciones Java (Java 8)
+Experiencia y/o conocimiento técnico en las siguientes técnologías/herramientas: Microservicios, Arquitectura dirigida a eventos, Spring Boot, Spring.
+Testing (unidad, integración y testing end-to-end).
+
+¿Cuáles serán sus funciones?
+
+Colaboración en definiciones arquitectónicas y desarrollar los proyectos más desafiantes.
+Liderazgo en la implementación de las USs más complejas del product backlog.
+Participación en decisiones de alto nivel y colaborar si es necesario en actividades más operativas privilegiando el resultado y la calidad de las relaciones por sobre su autoría en las ideas.
+
+¿Qué ofrecemos?
+
+Proyecto estable.
+Contrato Indefinido.
+Posibilidad 100% remoto dependiendo del perfil
+Jornada flexible.
+Ubicación: España.

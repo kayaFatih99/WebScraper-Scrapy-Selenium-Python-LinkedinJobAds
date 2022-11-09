@@ -1,0 +1,12 @@
+About the job
+Node Back End Developer – Million User Platform
+I’m looking for a Node Back End developer to navigate and develop one of the world’s largest entertainment platforms!
+The platform itself houses tens of millions players worldwide across the sports-betting, IGaming, free-to-play and daily fantasy sport spectrum.
+The main focus of the role is to develop, maintain and improve the chat room features, a checkout wallet and user accounts. This will drive forward the development of the platform through architectural planning and the build out and completion of the Node micro-service components and fully automated continuous delivery pipelines. This will be key to ensure an efficient system for the million users across the various platforms.
+A high level of commercial experience in Node and TypeScript would be necessary. Any understanding of microservice architecture and full cycle projects would be great!
+It is a hybrid role, based in London. It requires 4 days a month in their office in London - Oxford Circus.
+They're paying up to £75,000. Benefit wise they offer an amazing package including 10% bonus, 9% pension, private medical insurance and home working budget and laptop.
+
+Apply now for immediate consideration regarding this fantastic opportunity!
+abutt@understandingrecruitment.co.uk
+01727220107

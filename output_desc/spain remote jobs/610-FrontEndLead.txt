@@ -1,0 +1,67 @@
+About the job
+Our travel solution offers simple and intuitive booking experience, advanced travel insights, huge choice, integrated policy, management tools, travel risk intelligence and a lot more. TruTrip gives you customisable policies, low-cost travel inventory options, and cost effective payments to be more efficient with your travel cost.
+
+With travel options for every budget as well as trip enhancements such as lounge access, car services and insurances available to everyone, travellers are empowered to make the right choices. The traveller dashboard and travel risk data provides information you need to monitor and care for the business’ travellers.
+
+The Role
+
+Are you looking for your next challenge?
+
+We are looking for an experienced Front End / Full Stack developer to join us on our mission to redesign Travel Management.
+Your role would be to lead a growing group of specialist front end engineers through an active role in the UX design, tech design, implementation and testing, as well as supporting our Principal Engineering and leadership team on developing the team and the implementation of TruTrip 3.0 (moving to a micro-service architecture and subsequent refactor).
+Working at TruTrip is largely a remote affair.
+We work hard to create a collaborative, happy and supportive work environment that empowers our people to achieve our goals. We hope to give you the space for ownership but the support for success.
+You can learn more about us here and see the type of people you would be working with
+
+For Those Who Join Us, We Can Offer
+
+Unlimited leave
+Salaries adjusted automatically adjusted based on inflation
+Co-working expense budget
+Annual team meetup
+Profit share / bonus
+
+Note: Industry research shows that women and those in traditionally underrepresented groups generally don’t apply to jobs unless they check all the boxes for the role. If you feel strongly that you have what it takes for this role but don’t check 100% of the boxes—that’s okay—we encourage you to apply anyway and highlight what you can bring to the table.
+
+Ideal Profile
+
+The right person for us is likely to
+
+Enjoy collaborating with a wider team on complex user journeys
+Be comfortable communicating in English, both verbally and written (good grammar is not needed, but we need to get the message)
+Want to take UX accountability and strives for a high quality product outcome
+Be able to prioritise across multiple and competing demands
+Enjoy developing other coders
+Get excited about difficult and complex problems
+Code – every day at every opportunity, not because you have to, but because you enjoy it and understand that staying sharp ensures you deliver the best results.
+Have a background, or at least a strong enthusiasm, for the Travel Industry
+Value the benefits of a remote work lifestyle
+
+Practically, there are a few things you really want to be able to do:
+
+In-depth knowledge of react.js, JavaScript, CSS, HTML, and front-end languages.
+Knowledge of React and common tools used in the wider React ecosystem, such as Node.js and npm
+Familiarity with common programming tools such as Redux, IDEs, RESTful APIs, Git repositories, TypeScript, version control software, and JIRA tools
+An understanding of common programming paradigms and fundamental React principles, such as React components, hooks, and the React lifecycle
+Knowledge of performance testing frameworks including Mocha and Jest
+Experience with browser-based debugging and performance testing software
+
+Application Process
+
+In Applying To TruTrip You’ll Be Expected To
+
+We’re not getting married, but this is going to be a big, long term commitment both ways. We use a range of testing and interviews to help make sure we are a good match.
+
+Complete an application process - this should be quite painless and in most cases we focus on your CV.
+Initial Testing - we’ve partnered with Test Gorilla to set up 30 mins of testing to help us better understand your thinking and experience. These tests are set up to be hard and you’re not expected to get 100%, but that helps us better understand where you are.
+Coding Test - we’ll share with you a coding exercise which should take 30-45min to complete - it will form part of the interview and help us better understand your thinking.
+Interview I - with the Principal Engineer. This interview is focused on technical competence and how well you might work together. (30-45mins)
+Interview II - Product lead and HR. This interview is more focused on your fit within the team and softer skills like leadership and collaboration. (30-45mins)
+
+In total we hope the process is less than 4 hrs of your time, which we think is a good investment for people you’re going to spend +1,800 hours with in the next year!
+
+What's on Offer?
+
+Flexible working options
+Leadership Role
+Great work environment

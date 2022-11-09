@@ -1,0 +1,17 @@
+About the job
+Our client is an expanding Unicorn within the Wealth Management arena providing Institutional-level investment capabilities to all, in one app. Join a global team of top technologists, celebrities and seasoned entrepreneurs for the adventure of a lifetime. They're changing digital investing/wealth management making people’s lives easier, and changing a multi-billion dollar market in the process.
+
+They are looking a long term freelancer to join their team as a Golang Engineer.
+
+They're looking for talented engineers that are hungry to solve business problems and get to work on one of the most impressive platforms being built at the moment.
+
+Experience in the following technologies:
+
+Go/golang
+Messaging and locking patterns (Kafka etc)
+Kubernetes k8s
+Web Services and Micro-Service Oriented Architecture
+Passion for maintainable, extensible, and reusable code as well as fast iteration
+Solid understanding of data structures and algorithms
+
+If you want to join a groundbreaking team them apply today.....

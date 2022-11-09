@@ -1,0 +1,44 @@
+About the job
+At Reward Gateway, we’re driven by our culture and our mission to “make the world a better place to work.” We do this through our products and technology, supporting our 2500+ clients and their leaders to connect, recognise and engage their people.
+
+Our products include:
+Smart Spending: one of the world’s most successful employee discount programmes with over $1 billion annual spend at over 1500 retail partners
+Smart Pay: our streamlined, user-friendly platform which consolidates and automates payroll benefit applications
+Recognition & Reward: where over 3 million moments of recognition are shared, celebrated and redeemed each year
+
+We’re looking for a motivated Backend Software Engineer who is keen to develop extraordinary products and be part of our fast-growing business.
+
+You'll be able to collaborate with people from various backgrounds and experiences to design, improve and build solutions that impact millions of lives.
+We have adopted a hybrid work offering
+You'll have access to Pluralsight to further develop your technical skills and enhance your opportunities for professional growth; and
+You'll enjoy the many benefits we offer our employees (https://careers.rewardgateway.com/rewards-benefits)
+
+What you'll be doing.
+Defining, interpreting and developing software to written requirements and technical specifications
+Suggesting improvements to existing products and implementing them across our platform
+Troubleshooting, testing and maintaining the core product and databases to ensure it is functional and scalable
+Assist QA to define acceptance tests and perform troubleshooting
+Support the creation and maintenance of technical documentation
+Write clean, well-designed code, following coding standards and best practices
+Working with globally distributed and multi-disciplinary teams
+
+What we are looking for.
+2+ years experience with backend development and a good level of PHP and MySQL (or other DBMS)
+Practical knowledge of OOP concepts
+Experience with Unit and Integration testing
+Experience with SQL - REST API and GraphQL
+A good understanding of building and operating cloud-based microservices
+Good communication skills with the ability to interact effectively with multi-disciplinary teams
+
+Our interview process.
+A video interview with a Talent Acquisition Partner and Senior Developer or Engineering Lead. This should last no longer than 30 minutes.
+Final video interview of 75 minutes that will consist of 3 stages. This includes:
+50 minutes to discuss your experience and technical abilities
+15 minutes to review and discuss a coding exercise
+10 minutes to ask questions you may have
+
+Be comfortable. Be you.
+At Reward Gateway, we want all of our employees to feel comfortable bringing their passion, creativity and individuality to work. We value all cultures, backgrounds and experiences, as we truly believe that diversity drives innovation. Express yourself, join our community and help us Make the World a Better Place to Work.
+
+We hire BETTER.
+From perks to people, our BETTER approach to hiring earns us more trust, happier people and more world-class talent that help us to make the world a better place to work. Find out more about Reward Gateway's approach to benefits, equality, talent, technology, empathy and what you’ll get in return for joining our Mission at rg.co/lifeatrg.

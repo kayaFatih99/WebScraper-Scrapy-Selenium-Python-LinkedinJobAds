@@ -1,0 +1,79 @@
+About the job
+NFTs for Hardware Parts? Yes!
+
+IMAGINE using Blockchain to Tokenize Hardware Parts - we do that and we were the first.
+
+IMAGINE using Blockchain to Revolutionize the Manufacturing Supply Chain - we do that and we were the first.
+
+JOIN US and Help Build the Next Generation Industry Solution!
+
+Who We Are : Since 2017 - SyncFab is the world first company to use blockchain to revolutionize the hardware manufacturing supply chain with secure data and incentivized responsive local sourcing engine using the industry first MFG token to reward manufacturers and to build the foundation for Supply Chain DeFi. SyncFab has built a manufacturing supply chain procurement platform linking Advanced Manufacturing capacity to Brand Supply Chain Buyers in North America and the EU.
+
+Our Mission : Our team is passionate about local sustainable manufacturing supply chains increasing accessibility and transparency working to solve a variety of new and unique challenges, creating new products from ideation to production. We move quickly, use data to drive our decisions, and deliver products and analytics to manufacturing professionals around the world. We work through the whole software development lifecycle with a lightweight Agile approach. We use the latest tools and processes to ease our lives as developers with a strong focus in software quality.
+
+Position: Front-End Full Stack Native Blockchain Developer
+
+We have an opportunity for an experienced and entrepreneurial Front-End Full-Stack Native Blockchain Fluent Software Developer fluent in GoLang, Javascript, C++, Solidity, Ethereum, Hyperledger, Bezu, React.js, VUE.JS, Materiel.UI, Node.js, Angular and Python - IN THE USA. Ideal candidates will have some exposure to Manufacturing ERP environments and be comfortable working across the front and backend of the platform with JavaScript, Node.JS, ReactJS, Redux, Angular, MongoDB and AWS EC2, Amazon S3, Amazon API Gateway, AWS CloudHSM. While ideally seeking engineers experienced in all of these technologies, we are open to agnostic, dynamic developers who’ve developed consumer-facing applications with other modern, web-based, object-oriented technologies. Visionary developers looking to create the future of supply chain blockchain and DeFi this position is for you those simply looking to collect a paycheck without contributing to building anything meaningful this is not for you. This is a contract to hire position. Successful candidates will have phenomenal communication skills and have worked successfully as part of an established engineering team.
+
+ABOUT YOU:
+Interested in helping revolutionize manufacturing? Are you passionate about the intersection of cloud computing, blockchain and distributed ledgers? Do you have the ability to put together unique cutting-edge solutions that bring together various technologies for breakthrough business outcomes? Do you have a unique combination of deep technical knowledge, business acumen and strong interpersonal skills? Are you a thought leader with a mix of strong product experience, software development and technical blockchain expertise. You need to be passionate about leveraging blockchain and software technology solutions to help solve the problems of manufacturers Large , Medium and Small from C-Suite executives to the Shop Floor assembly line. This role combines high-level strategic thinking, strong communication with stakeholders, and going hands-on to code up proofs of concept to full fledged feature development and existing system maintenance.
+The successful candidate will become a trusted adviser both to our Product Engineering Team as well as our Customers and will work with Enterprise Sales to drive adoption and revenue. This will include showcasing working with SyncFab Manufacturing Blockchain templates (Hyperledger Fabric, Ethereum).
+
+Responsibilities Include
+Architect end-to-end solutions for our customers using blockchain and other SyncFab services.
+Help develop an overall blockchain ecosystem engagement strategy. In partnership with the business development, solution architects and sales team, formulate and execute a strategy to drive adoption of distributed ledgers on SyncFab. Conduct one-to-few and one-to-many training sessions to transfer knowledge to customers considering or already using SyncFab.
+Capture and share best-practice knowledge amongst the SyncFab community.
+Author and contribute to SyncFab customer-facing publications such as blogs, whitepapers.
+Engage directly with the customers’ development team, understand their specific business and technology challenges in the area of distributed ledgers integration in new products and services.
+
+Experience developing Ethereum, Hyperledger and Bezu based solutions and passion for getting hands dirty with code.
+
+Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates. Act as a technical liaison between customers, service engineering teams and support.
+
+Basic Qualifications
+Computer Science degree with 7+ years of experience in software development, including architecture, design, implementation, debugging, and support.
+Experience working with blockchain frameworks such as
+Ethereum and Hyperledger in projects 3+ years experience developing smart contracts and decentralized applications.
+5+ years professional experience in software development in languages like GoLang, Javascript, C++, Python and Node.js. Experience working with RESTful API and general service oriented architectures. Delivering high quality software solutions on time
+
+Preferred Qualifications:
+Experience in writing smart contracts for blockchain frameworks such as Ethereum, Hyperledger Fabric, Sawtooth, Bezu and Corda.
+Experience designing and building highly-scaled distributed systems and web services
+Very strong computer science fundamentals in algorithm design, data structures, problem solving, and complexity analysis
+Possesses strong analytical skills, with excellent problem-solving abilities in the face of ambiguity
+Thorough understanding of parallel algorithms, concurrency, asynchronous architectures
+Experience working in an agile software development organization
+Proven ability to effectively drive cross-team solutions that may have complex dependencies
+Experience in enterprise software or cloud services
+Ability to work effectively, efficiently and independently with minimal oversight
+Excellent organizational skills and attention to detail
+Strong communication, collaboration and interpersonal skills.
+BS/MS in Computer Science or a related field
+Experience in modern test techniques such as Test and Behavior Driven Development (TDD and BDD)
+Familiarity with Agile / Scrum
+Must Have:
+5+ years of professional engineering experience
+Tech: React, Redux, Node.JS, C++, JavaScript, RUST, GoLang, Ethereum, Hyperledger and MongoDB
+Full Stack Experience
+B.S in Computer Science or related
+Plus:
+Experience with Amazon Web Services (AWS)
+M.S. in Computer Science or related
+Ideally you have worked in an ERP environment and are thoroughly familiar with manufacturing ERP. You will collaborate closely with product and vendors and customers to improve the end product and assist the Team to increase revenue based on user feedback, as well as soliciting and managing product enhancement requests from Sales, Business Development and Operations. Our platform will be securely pooling and collateralizing data for analytics optimization and MLAI for Smart Manufacturing across industry and product.
+5+ years of progressive software development/architecture experience is desired
+5+ years of Java / J2EE architecture experience
+2+ years of hands-on blockchain experience
+Strong knowledge of Blockchain fundamentals, smart contracts, consensus algorithms
+Hands-on experience with any one Blockchain platforms (Hyperledger, Ethereum, R3 Corda)
+Proven understanding of architecture best practices
+Knowledge and experience with full SDLC lifecycle
+Experience with Lean / Agile development methodologies
+Preferred Blockchain Senior Technical Lead Qualifications:
+Experience with 3 or more blockchain implementations is a plus
+Strong understanding of different types of Blockchain such as public, private/permissioned, public permissioned, etc.
+Sound understanding of Blockchain framework such as Hyperledger Fabric, R3 Corda, Ethereum (Solidity), Ripple, Multichain
+Good understanding of various different consensus algorithms used in Bitcoin Blockchain, Ethereum, Byzantine fault-tolerant algorithms including Hyperledger Fabric PBFT algorithm etc.
+What’s in it for you:
+Be part of building the engineering department within an innovative company. Build a product from the ground up. Work with a highly motivated and passionate team to build the future of the Manufacturing and Aerospace industry. Awesome work environment! We are proudly incubated at STARBURST, located at the heart of the US AEROSPACE and SPACE CORRIDOR (https://www.starburst.aero).
+OUR MISSION:
+Our team is passionate about using technology to advance local sustainable manufacturing supply chains increasing accessibility and transparency working to solve a variety of new and unique challenges, creating new products. We move quickly, use data to drive our decisions, and deliver products and analytics to manufacturing professionals around the world.

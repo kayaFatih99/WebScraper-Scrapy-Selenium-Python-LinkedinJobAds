@@ -1,0 +1,19 @@
+About the job
+.NET Developer - Europe’s Largest Radio Station Group – London
+
+(Tech stack: .NET Developer, .NET 7, C#, Blazor, Azure, JavaScript, HTML5, CSS3, Agile, Programmer, Full Stack Engineer, Architect, .NET Developer)
+
+Our client is Europe's largest and most profitable commercial radio group. In order to keep pace with the new digital technologies being developed, they are transforming their stations into interactive brands that can operate across multiple platforms such as online, digital TV and mobile. As such we are seeking .NET Developer to join their dynamic .NET / C# team of high flying individuals.
+
+.NET Developer applicants should have a skill set that encompasses: .NET, .NET Core / ASP.NET MVC, C# and SQL Server. Our client can provide you with industry recognised training in: .NET 7, Blazor, EF Core, Azure, JavaScript, HTML5, CSS3, Agile, TDD, BDD, Azure SQL and SQL Server 2022.
+
+This is an exciting opportunity to work on complex enterprise level .NET / C# software development projects. Our client offers a structured career progression programme, industry recognized training, flexible working hours and home working. These positions are urgent, as such our client guarantees to provide feedback on CV's within 24 hours of submission and complete the interview process within 1 week.
+
+Location: London, UK / Remote Working
+
+Salary: £55,00 - £75,000 + Bonus + Pension + Benefits
+
+Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+
+NOIRUKNETREC
+NOIRUKREC

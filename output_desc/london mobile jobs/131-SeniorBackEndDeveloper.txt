@@ -1,0 +1,21 @@
+About the job
+We are looking for a Senior Backend Developer to work with a leading provider of crypto asset data for institutions. The organisation deliver transparent and actionable data and analytics to various industry stakeholders including asset managers, custodians, trading venues, research desks, and data/application providers. They are running in parallel to the decentralized asset world - think Reuters for crypto assets.
+
+This is an opportunity to break new ground, create exciting new data-driven research and products, and help shape the future of finance.
+
+
+Key responsibilities include:
+⎻ Building distributed, reliable, and performant software architectures using Kotlin (any JVM background welcome with a willingness to pick up Kotin);
+⎻ Leading the development of a new product that produces metrics and exposes them via API;
+⎻ Working closely with network data and market data experts to build the product;
+⎻ Depth testing of your code;
+⎻ Scaling and capacity planning.
+
+
+BASIC QUALIFICATIONS
+⎻ Extensive experience in a back-end software engineering role.
+⎻ Proficiency in Kotlin/Java (Kotlin preferred or willing to learn Kotlin if not already proficient).
+⎻ Proficiency in SQL (preferably PostgreSQL).
+⎻ Strong sense of ownership, entrepreneurial spirit, and/or startup-like experience, capable of driving towards solutions independently while seeking feedback when appropriate.
+
+Get in touch if this is something want to learn more about!

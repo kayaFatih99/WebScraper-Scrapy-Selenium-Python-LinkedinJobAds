@@ -1,0 +1,32 @@
+About the job
+Senior Backend JavaScript Engineer | Node.js | TypeScript | AWS | CI/CD | £100,000 | Remote
+
+Music tech? Yeah, not sure that will catch on…
+
+I am supporting an awesome company who are transforming the way songwriters and performers are paid, quickly, accurately, and fairly.
+
+Supported and founded by well know music writer/producer Bjorn Ulvaeus this position will see you supporting the architect and acting as his right-hand man.
+
+The position is for Senior Backend JavaScript Engineer with a focus on AWS architecture. You will need to have experience working with the following:
+
+Development languages: TypeScript/Node
+Compute: AWS Lambda, Containers (e.g. ECS)
+AWS managed storage such as DynamoDB, S3 etc.
+Experience of designing and using RESTful services and event driven architectures
+AWS CloudFormation
+CI/CD based continuous development and deployment of high availability systems
+Working experience of agile methodologies (Scrum/Kanban)
+
+The process for this position is quick an easy!
+
+1st stage is a 30 minute call with the CTO followed up with a 30 minutes technical conversation
+2nd stage is an hour-long technical chat in which you will be able to share some previous code you are proud off.
+
+If all goes well, you will get an offer!
+
+This could be one of the most organised clients I have worked with interview slots lined up next week and an offer looking to be put out by the 17th November.
+
+Please apply for this position before Friday 11th November to be put forward.
+
+For more information hit apply or drop Samuel.barcia@lafosse.com an email.
+Senior Backend JavaScript Engineer | Node.js | TypeScript | AWS | CI/CD | £100,000 | Remote

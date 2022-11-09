@@ -1,0 +1,82 @@
+About the job
+¿Te gusta la transformación digital? ¿Te gusta trabajar acompañado, pero con autonomía, por objetivos y aportar ideas innovadoras? ¿Quieres ser el embajador de nuestros equipos de expertos en tecnologías Microsoft?
+
+Si además quieres participar en el crecimiento de Raona, ¡queremos conocerte! 🤝
+
+
+¿Nos conoces? 👇
+
+En Raona, desarrollamos soluciones IT en transformación digital y automatización de procesos en entornos Microsoft.
+
+Somos una empresa Hybrid Work & Remote Friendly con más de 200 colaboradores entre España, Andorra y Argentina y, nos caracterizamos por ser orientados al logro, dinámicos, resolutivos, autónomos y emprendedores.
+
+Trabajamos en un entorno colaborador, innovador, dinámico y con muy buen rollo.
+
+Apostamos fuertemente por la conciliación profesional/personal (aplicamos flexibilidad horaria), el bienestar personal, la diversidad, la igualdad, la equidad y, la integridad profesional.
+
+
+La posición / La vacante 📄
+
+En Raona ampliamos nuestro equipo con un/a Developer Fullstack .NET para incorporarlo/a a nuestros equipos multidisciplinares. Buscamos una persona comprometida, con ganas de aprender y de mejorar en equipo y de forma individual.
+
+
+¿Qué necesitamos de ti? 🔎
+
+Titulación Universitaria
+Experiencia mínima 2 años en desarrollo .NET
+Experiencia en desarrollos Javascript (Angular, React, JQuery)
+Experiencia demostrable con patrones: MVC, MVVM
+Conocimientos DevOps (CI/CD)
+Conocimientos BBDD (SQL, Transact SQL, LinQ)
+Buenas prácticas en la elaboración de código
+Uso de repositorios de código fuente: Git, TFVC
+
+Conocimientos deseables
+Conocimientos de TypeScript
+Conocimientos desarrollos móviles con Xamarin
+Conocimientos contenedores Docker
+Conocimientos Cloud de Azure
+
+
+¿Qué podemos ofrecerte? 📑
+
+Desarrollar tu perfil profesional trabajando con un amplio equipo de expertos y mentores.
+Liderar una nueva área de crecimiento donde incrementar tus habilidades.
+Hybrid Work o teletrabajo. ¡Tú eliges!
+Horario flexible
+Plan de Desarrollo
+Plan de Formación
+Modelo de incentivos
+Retribución flexible
+Incentivos tecnológicos para que compres tus gadgets favoritos
+Proyectos punteros para clientes líderes en sus sectores de actividad.
+Uso de metodologías ágiles, adaptadas a nuestra realidad.
+Acceso a certificaciones oficiales de Microsoft adaptado a tus intereses.
+
+
+
+¿Cómo será el proceso de Selección? 💻
+
+1. Entrevista con el departamento de Human Capital de Raona.
+2. Entrevista con el/la responsable del departamento Tech.
+
+
+¿Cómo será tu Onboarding? ‍✈️
+
+Los primeros días se centrarán en tu onboarding para que puedas tener una buena bienvenida a bordo. Al iniciar la aventura con nosotros recibirás el Welcome por parte de Human Capital.
+
+Durante la primera semana conocerás al equipo y te entrevistarás con el responsable de departamento. A partir de la segunda semana ya entrarás en materia, entrando a conocer las tecnologías.
+
+Durante el primer mes:
+Irás afianzando conocimientos sobre nuestra forma de trabajo. Comenzarás a asumir pequeños aportes de valor en el proyecto de desarrollo supervisado por el responsable del mismo.
+
+En 3 meses:
+Tendrás un mayor conocimiento de las tecnologías y metodología de trabajo y podrás comenzar a asumir mayores responsabilidades sobre los proyectos asignados.
+
+Durante todo el proceso estarás acompañado tanto por el Team Lead que será tu responsable directo como por el resto de compañeros. 🚀
+
+
+¿Te parece interesante lo que te contamos? 👀
+
+
+👉 ¡No dudes en inscribirte en nuestra oferta!

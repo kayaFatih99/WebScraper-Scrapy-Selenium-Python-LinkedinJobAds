@@ -1,0 +1,41 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Sincera Technologies, Inc., is seeking the following. Apply via Dice today!
+
+Primary Responsibilities:
+
+Develops high-quality, scalable, and efficient solutions and products on schedule.
+Produces code of high quality and reliability - strong quality code metrics.
+Actively contributes to the development of solutions and ideas that add value.
+Engages with system users and business analysts to identify system enhancements and/or new applications to meet business needs.
+Proactively performs extensive system testing to ensure that the systems work efficiently and are developed following the application development methodology.
+Creates Unit tests to ensure accuracy. Tracks record of identifying largest risk areas and driving resolution of these issues.
+Provides accurate and timely input to Scrum Master regarding the status of technical tasks.
+Provides support during meetings as required.
+Serves as a contact person in support of more serious production problems/issues.
+
+Skills and Experience Required:
+
+Education
+
+Bachelor of Science in computer science or a related technical field, or equivalent combination of post-secondary education and work experience.
+
+Required Experience & Skills
+
+5-7 years of increasingly responsible systems development experience on multiple platforms
+5-7 years experience in the development environment commensurate with the assigned area of responsibility
+Java 8 / 11, Spring MVC, Spring Data JPA, & SpringBoot Microservices
+Experience with complex, enterprise web development
+Experience working in an Agile / Scrum methodology
+Ability to accurately identify the root cause of technical problems
+Excellent communication skills; verbal and written
+Ability to adapt to change
+Ability to influence others to ensure that issues that have been raised are resolved
+Excellent problem-solving skills – able to think through likely causes of problems before referring to others
+
+Desired Skills
+
+Experience with RESTful Web Services
+Experience with Unit Testing (JUnit, Mockito, Groovy)
+Experience with Cloud Development, Deployment, and Maintenance (AWS, Google Cloud Platform)
+Knowledge / Experience with Relational Database SQL and NoSQL (Couchbase, Mongo)
+provided by Dice

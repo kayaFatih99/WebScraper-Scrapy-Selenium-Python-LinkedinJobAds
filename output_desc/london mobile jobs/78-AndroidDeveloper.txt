@@ -1,0 +1,39 @@
+About the job
+About You:
+Do you have a passion for skincare, nutrition, and healthcare? Are you looking to join an exciting and growing company and make your mark in a unique consumer environment? If so, then DNANudge's new Chelsea & Westminster store is the place for you!
+Technology generating a profound and long-term impact on health and wellbeing is the motivating mission of DnaNudge. We believe that the road to health and wellbeing starts with a simple test.
+Your primary goal and objective here will design and development of Android App including communication with cloud and hardware products such as DnaBand and NudgeBox.
+
+Main Responsibilities:
+· Acting as hands-on Android App developer- evaluate, maintain, and develop software
+· Maintaining and creating documentation related to App development
+· Prototype, debug, and develop software and apps
+· Gather requirements around functionality and translate those requirements into elegant functional solutions
+· Build user App interaction functions for understanding consumers’ needs and preferences
+· Self-disciplined and flexible, work both independently and in a team
+· Provide support, share experiences and expert opinions with the teams
+· A good team player: work with architect, app developers, UX designer, management, etc.
+· Be dedicated and responsible for protecting the confidential matters, intellectual properties, and trade secrets of the company
+
+Education:
+· Bachelor, Computer Science, or related technical discipline (or equivalent).
+
+
+Required Skills and Experience:
+· At least 5+ year of experience in Android app development.
+· Strong OO design and programming skills in Java & Kotlin
+· Excellent debugging and optimization skills
+· Performing unit and instrumentation tests on code
+· Published commercial mobile applications on Google PlayStore
+· Ability to work on their own and as a part of the team
+· Excellent scoping, estimation, and testing/QA skills
+· Excellent communication skills (verbal and written)
+· Degree in computer sciences or related fields
+
+Desired Skills and Experience:
+· · Familiar with different AWS Service integration for Android and iOS apps – Cognito, AppSync, API Gateway, S3, Pinpoint etc.
+· Good at integration of 3rd party frameworks and SDKs for iOS & Android
+· Knowledge of SQLite, MySQL, or similar database management system
+· Experience on web service integration (SOAP, REST, JSON, XML)
+· Experience building web and native apps
+· Experience using social media APIs

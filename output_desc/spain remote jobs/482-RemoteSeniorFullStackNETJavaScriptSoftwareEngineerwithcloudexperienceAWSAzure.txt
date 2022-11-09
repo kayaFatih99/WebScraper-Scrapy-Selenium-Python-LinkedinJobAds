@@ -1,0 +1,32 @@
+About the job
+Are you an experienced .NET developer who enjoys working in a fast-paced environment? Are you naturally curious and a lifelong learner? Do you have strong analytical skills and enjoy problem solving?
+
+If you answered yes, and you'd like to work on a cutting-edge Fintech Product, using the latest of tools and technologies, we are looking for you!
+
+Our client empowers financial institutions to deliver a fully digital, best-in-class customer experience.
+
+You Will:
+- Build new products and services as part of our SaaS product platform.
+- Be a member of a team who builds, deploys, and runs their own software all the way to production.
+- Design, build and maintain API's, services, and systems across our cloud product platform.
+- Debug production issues across services and multiple levels of stack.
+
+You Should Be:
+- A software engineer who thinks about complex systems, the components that make them and opportunities to simplify them.
+- Passionate about imagining ways to solve business problems using technology.
+- Excited about using cloud computing and cloud-based services to deliver software solutions to customers.
+- Thrive in a collaborative environment.
+
+The Ideal Candidate:
+- 5+ years' experience developing multi-layer systems using C#.NET
+- 5+ years' experience developing web-based applications with JavaScript.
+Good knowledge in database design and development.
+- Has experience working with Serverless architectures and frameworks.
+- Experience of cloud development (Azure or AWS)
+- Continuous Delivery and Continuous Integration experience.
+- Experience working on Agile methodology.
+- English is a must! International colleagues.
+- Participate in on-call duties rotation for out of hours Support
+- May be required to travel occasionally (10%)
+
+If you think you don't tick all the boxes, we'd still love to hear from you. Nobody checks every box, and we are looking for someone excited to join the team.

@@ -1,0 +1,38 @@
+About the job
+Stelvio Group are working with a global music technology business who provide the largest crowd-sourced, community-driven database of recorded music information in the world.
+
+The Full Stack Engineer has more experience and responsibility than lower-level Engineers. Great
+ability to multi-task across projects as well as to adapt to different areas of the code where they
+may not have previous experience. The Full Stack Engineer will be comfortable with both front and back end engineering tasks. This role will be responsible for contributing towards architecture and design decisions. Team Manager may involve you in budgetary and planning discussions.
+
+1 4+ years related work experience.
+2 Experience with Python, mySQL, Docker, Docker Compose, Javascript, React, and Git
+3 Knowledge of Design Patterns, RESTful Services, GraphQL, DevOps, and Agile Methodologies.
+4 Experience working with production systems under load.
+
+Nice-To-Haves:
+
+1 Deep understanding of software development lifecycle processes such as version control,
+build and configuration management, automated deployments, automated testing, etc
+2 Ability to efectively present and communicate with project stakeholders
+3 Capable of taking a large complex project, breaking it down into sub-tasks, and completing
+those tasks as required
+
+Job responsibilities:
+
+Plan, develop, and deploy server-side and client-side software in sprint cycles
+Observe, debug and optimise production systems with thousands of concurrent users
+Research new frontiers, prototype implementations and share knowledge
+Communicate openly and collaborate frequently with Product and Engineering teams to quickly deliver high quality products that maximize value to the businesses ecosystem.
+Take responsibility over large, complex features from concept to design to delivery.
+Demonstrate a consistent commitment to the businesses core values and operating principles
+Work with your team on planning and completing department goals that align with overall business objectives
+Provide technical knowledge via documentation, coaching and mentoring others in the department and company
+
+What You'll Contribute:
+
+Bachelor's degree in computer science or computer engineering from four-year college or university, or equivalent technical work experience 4+ years related work experience. Experience working with production systems under load. Experience with Python, mySQL, Docker, Docker Compose, Javascript, React, and Git. Knowledge of Design Patterns, RESTful Services, GraphQL, DevOps,and Agile Methodologies. Deep understanding of software development lifecycle processes such as version control, build and configuration management, automated deployments, automated testing, etc. Ability to effectively present and communicate with project stakeholders. Capable of taking a large complex project, breaking it down into sub-tasks, and completing those tasks as required. Shows initiative and seeks evidence in data to support ideas.
+
+Benefits:
+Salary $125-127K base.
+Competitive compensation salary, plus performance-related bonus program 401(k) with employer match 100% company-paid medical and dental insurance benefits for you and your dependents.

@@ -1,0 +1,31 @@
+About the job
+Want to work for the 2021 #1 rated FinTech as voted by the Fast50? C#.NET focused Backend Engineer, FULLY remote across EU!! (NO SPONSORSHIP)
+
+The Company
+My client is rapidly expanding into a global bank and building teams and they are looking for a team of Software Engineers from mid level up to senior to be part of this incredible growth.
+If you are looking to build your expertise and grow in one of the most exciting fintech's right now then look no further!
+
+The Role
+I am looking for talented Software Engineers to help my client on their journey to revolutionize the banking industry. You will be working on one of their product teams, supporting and building their next generation banking and payment solutions.
+
+About You
+You will be responsible for the design and delivery of new software products, in addition to enhancing existing products. You should excel in working with large-scale applications and frameworks, and have outstanding communication and leadership skills.
+My client is big on ownership and accountability, so experience of working in an environment where you are responsible for your code all the way through to monitoring it in production is a big plus.
+
+Core Skills and Experience:
+C# (.NET)
+Automated testing
+Databases (they mainly use Azure SQL and Cosmos DB)
+Microservices architecture and related patterns
+
+Desirable Experience
+Service Fabric
+Messaging systems (they use Azure Service Bus and Event Grid)
+Monitoring and Alerting
+Infrastructure as Code (they use Terraform)
+Cloud computing and related concepts, preferably with Microsoft Azure
+Financial experience is a plus
+Payment scheme knowledge (e.g. Swift, BACS, Chaps, Faster Payments)
+Banking knowledge e.g. Treasury, Financial Crime, Accounts
+
+Sound interesting? If you'd like to know more then please apply directly through LinkedIn, or via s.mason@jeffersonwolfe.com for immediate feedback ⭐

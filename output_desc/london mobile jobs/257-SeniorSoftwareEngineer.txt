@@ -1,0 +1,27 @@
+About the job
+Senior Embedded Software Engineer
+
+My client is a global organisation having footprint across the UK, USA, Ireland, Belgium, Portugal, Australia and New Zealand.
+
+This client is backed by the prolific Alphabet (Google) Capital Partners or Sidewalk Infrastructure Partners.
+
+The Group provides a new class of shared ‘neutral host’ 4G and 5G mobile network densification and extension services using small-cells and its own deployment methodology and analytics software.
+
+The Software Developer role is responsible for designing and implementing software solutions associated with innovative 5G small cell products.
+
+The Software Developer will participate in software development projects with an emphasis on delivering software that is optimised for O-RAN deployments.
+The Software Developer role will also include integration with systems outside the RAN domain.
+
+Key Responsibilities:
+• Design, build and unit test complex software systems and sub-systems
+• Collaborate with software architects and developers
+• Create and maintain relevant design documentation
+• Follow software lifecycles and QA procedures including supporting integration testing
+
+Education and Experience:
+• Minimum five years working in commercial software development.
+• Strong C/C++
+• Experience writing low-latency, high throughput
+• Working knowledge of 3GPP architecture & protocols
+• Knowledge of Python
+• Experience with embedded products

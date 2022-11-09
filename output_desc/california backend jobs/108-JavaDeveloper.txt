@@ -1,0 +1,31 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Capricorn Systems, Inc., is seeking the following. Apply via Dice today!
+
+Job Description:
+
+This engineer position will make key contributions to the design, development, and implementation of secure, reliable, scalable, and high-performing features and functionality.
+6+ years’ experience preferred.
+This position will require experience with:
+Languages: Java, Java Script, JSP, UML, WSDL, HTML, CSS, JQuery, PL/SQL, and Shell Scripting.
+Java Technologies: Java, J2EE, JDBC, Hibernate, JSF, XML Parsers, JSP, Servlets, Portals, EJB, JMS, Kafka Struts, Spring Framework, Java Beans, Web Services.
+Web Technologies: JavaScript, HTML, XML, XSL, XSLT, SOAP, React, Node JS, JSON, Restful web services (API), Junit.
+Databases: Oracle and SQL
+Server Tools: SQL Developer, SOAP UI, GitHub, and Splunk Frameworks Spring, Spring MVC, Spring Boot, Spring Batch, Spring JDBC, Spring Security, and Hibernate
+Build Tools: Maven and Jenkins
+Web/App Servers: Apache Tomcat, OpenShift, and Web logic Experience with AEM (nice to have)
+
+Regards,
+
+Arun
+
+Arun Kumar
+
+Cook Systems Inc
+
+Phone:
+
+Email:
+
+www.cooksys.com
+
+provided by Dice

@@ -1,0 +1,69 @@
+About the job
+Satago is a leading Fintech offering an integrated cashflow management solution designed to help business owners get on with growing their businesses and forget about their cashflow problems. We provide innovative credit control and risk tools and are the pioneers of on-demand business finance.
+
+We are in an exciting growth phase and are looking for enthusiastic and creative individuals who want to make a difference and help us disrupt the status quo. We're a hard-working group who enjoy overcoming hurdles and building awesome tools for our customers.
+
+We are currently recruiting a number of Java Developers, to join our growing team.
+
+We are passionate about:
+Innovation
+Empowering and inspiring people
+Understanding customer needs
+Integrity and Transparency
+Diversity and Inclusion
+
+Requirements
+
+If you have some or all of the following please apply:
+Can understand and translate business requirements to technical concepts
+Strong experience with Java and comfortable with Agile/Kanban
+Passion about designing and implementing FinTech products
+Ability to get the overall plan but still have an eye for the small improvements and inconsistencies
+Gets excited by new challenges and doesn't shy away from getting stuck in going the extra mile
+Confident with cloud and cloud-native technologies
+General understanding of either Financial Services or the FinTech landscape who the key players and our competitors are and who offers what products and features
+A solid understanding of technology industry trends, development approaches and frameworks. If API documentation is your bedtime choice of reading that’s OK by us!
+
+Core skills:
+Mid - Senior level backend Java developer, using an IoC platforms such as Spring, Tapestry, or DropWizard
+AWS/Cloud infrastructure experience
+MicroService relevant technologies such as REST and JSON
+Understanding of web-facing technologies, such as JavaScript, Tomcat, html templating libraries
+Thorough understanding of Database technologies, preferably JPA/Hibernate and Postgres or equivalent database systems
+Agile
+
+Preferable / nice to have skills:
+Infra-as-code offerings
+Jenkins Pipelines
+Gradle
+Grafana & Prometheus
+Automated web testing experience (Selenium, Gherkin, etc)
+Load testing experience (Jmeter, etc), QA experience
+Analytical skills will also be viewed as a plus, especially in understanding data (e.g. Excel, R, Python, SQL)
+Knowledge around the Could Native Computing Foundation offerings such as particular Kubernetes
+
+Benefits
+
+Why work at Satago:
+You will be joining an awesome, welcoming, and vibrant environment.
+Play a significant role in the development of our company, have your voice heard and realise your professional and personal growth.
+Work with exceptional, diverse, innovative people who want to make a difference.
+No task is beneath or above us. We love to wear many hats and figure things out. This applies even to our CEO!
+
+We have also other benefits that will keep you happy:
+Competitive Salary, and up to 5% pension matching
+Participation in discretionary bonus pool
+25 days holiday + extra day off for your birthday
+SatagoSelfie: Extra holiday for one Friday afternoon per month – and yes that adds up to six extra days per year!!!
+Health and Life insurance and usual bens
+Online company perks service
+Dedicated budget for continuous Training & Development on a personal and team level.
+Plenty of drinks, snacks, and Friday's happy hour in the office.
+
+Be you!
+
+Satago is proud to be an equal opportunity workplace. We celebrate difference, support it, and thrive on a diverse team that represents a variety of backgrounds, perspectives, beliefs and experiences. The more inclusive we are, the better we are, and our work will be.
+
+If you have a disability or special need that requires accommodation at any point through the interview process, please do not hesitate to let us know.
+
+We’d love to hear from

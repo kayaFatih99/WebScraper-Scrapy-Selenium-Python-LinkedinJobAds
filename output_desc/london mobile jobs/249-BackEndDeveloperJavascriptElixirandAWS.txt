@@ -1,0 +1,34 @@
+About the job
+Backend, Javascript, Elixir and AWS
+
+Superbright is looking for a back end engineer to join our product development team to focus on the emerging technologies division.
+
+You will be working with our world class engineering team to build cloud applications for gpu computing, virtual reality, augmented reality and web 3.0.
+
+Duties include research, design, implementation, documentation, and maintenance of new and existing backend systems and the creation of software services and tools to drive the software development process towards new business opportunities. You will be working on cutting edge technologies in the market today. The development will be from the concept stage to the launch stage and ensuring the highest level of quality for your deliverables.
+
+Responsibilities
+
+You will be:
+Responsible for the design, development and maintenance of systems that enable innovative package delivery experience
+Working with other team members to investigate design approaches, prototype new technology and evaluate technical feasibility
+Working in an Agile/Scrum environment to deliver high quality software
+Develop and deploy testing frameworks
+Working closely with developer teams to create an automated CI/CD pipeline
+Implementing build, deployment and monitoring standards for the client
+
+
+Must Have
+Bachelor’s degree in Computer Science, Computer Engineering or related field
+3+ years of experience with Javascript with Node.js frameworks
+2+ years of experience using AWS services such as lambda, code deploy and ecs
+1+ year experience with Elixir
+Expert knowledge of testing frameworks
+Expect knowledge of source control, code review and agile development process.
+Excellent troubleshooting skills.
+
+
+About Superbright
+Superbright is an award winning creative technology studio specializing in full stack development of immersive media, ranging from XR experiences to physical computing. Comprised of artists and developers, Superbright works on product development, creates commissioned work, and maintains ongoing residencies to form a holistic perspective on these nascent tools and their future applications. Superbright’s work has been featured in numerous festivals and publications, including the Tribeca Film Festival Virtual Arcade, Sundance New Frontiers, SXSW, Sonar, Panorama, and IDFA, and has worked with clients such as Disney, the New York Times, Condé Nast, National Geographic, Red Bull, and more.
+
+For more information on Superbright and projects visit Superbright.me.

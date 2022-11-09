@@ -1,0 +1,22 @@
+About the job
+React Native Developer
+
+Experience: 3-7 Years
+
+Location: Remote
+
+Required Skill Set: React Native, native build tools, XCode, Gradle Android Studio, IntelliJ, Jest or Mocha.
+
+Job Description:
+
+We are looking for a React Native developer interested in building performant mobile apps on both the iOS and Android platforms.
+You will be responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure. Building a product is a highly collaborative effort, and as such, a strong team player with a commitment to perfection is required.
+
+Required Knowledge/Skill:
+
+Have 3+ years of relevant experience in React Native
+Good knowledge of React Native and its core Principles.
+Familiarity with native build tools, like XCode, Gradle Android Studio, IntelliJ.
+Experience with automated testing suites, like Jest or Mocha.
+
+Interested candidate can share your profiles at career@mobileprogramming.com.

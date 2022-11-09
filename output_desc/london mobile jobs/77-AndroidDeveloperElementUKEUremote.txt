@@ -1,0 +1,70 @@
+About the job
+Who We Are
+
+Element is the startup which employs the core team behind matrix.org— the leading project for secure, open decentralised communication.
+
+Matrix’s mission is to make messaging as open as email— allowing everyone to choose where their data is hosted, enjoy private conversations thanks to advanced encryption, and ultimately be in control of their own communication.
+
+The Matrix protocol is used by millions of people globally, from the French and German governments through to community groups and open source projects like Mozilla, KDE, GNOME and Wikimedia.
+
+Matrix powers Element, our flagship messaging apps for the web, iOS & Android, along with EMS, our SaaS platform for personal & professional use.
+
+We build things for everyone, and we know we can’t succeed without a diverse team. Our hiring process is designed to be humane and give candidates the best chance to show us what you can do. If we ever fall down on this, please let us know.
+
+The Role
+
+You'll spend most of your time working on Element Android our flagship Android client, you can take a look at the code on github. Element Android is written in Kotlin and is backed by Realm.
+
+Example recent projects:-
+Implement support for Element Spaces.
+Improving message timeline responsiveness.
+
+Since (almost) everything we do is open source you can get a great feel for exactly what it would be like to work on Element, why not join our developer channel at #element-android:matrix.org to provide a window into the core team and the community. Come and say hi!
+We are currently hiring multiple Android developers and open to all levels.
+
+About You
+
+Requirements
+
+The most important thing is that you believe passionately in the mission of decentralisation of the internet. More specifically that you believe that communications should not be centralised in the hands of a small number of very large organisations and instead individuals should control their own data and choose who they share it with.
+
+Your experience
+
+We don’t have hard requirements for the role, we just want to build the best possible team, but we'd be particularly excited to speak to you if you have experience with some of the following:
+designing and building performant, maintainable Android applications
+using Kotlin in professional capacity
+designing UI using Android ConstraintLayout
+using libraries like MvRx, Epoxy, ViewModel
+employing established UX conventions with an eye for aesthetic design
+working with or as part of an open source community
+providing and receiving peer code review
+working in an Agile/Lean development environment
+
+Additionally we are looking for someone who is:
+smart, curious and enthusiastic
+passionate about building software people love
+a tireless advocate of code quality (understanding the need for trade-offs in the short term whilst keeping us honest in the long term)
+empathetic, with both their colleagues and the end user
+Located in an EU/UK Time zone
+
+Benefits
+
+People tend to stay with the company for a long time, we take this as a sign that we have a cohesive, supportive culture, that we have engaging challenging work and that people can develop their skills and careers here for the long term. We also have a family friendly environment, many of the team have small children and we look to accommodate that as best we can. Since our technology is relevant to anything that requires real-time comms, the role provides exposure to a wide range of domains from web and app dev through to VR, VoIP and IoT.
+
+Our package generally contains:
+Private Health Insurance
+Pension
+Annual Bonus
+Share Options
+Home Office Allowance
+Coworking Space Allowance
+Annual leave (40 days including local bank holidays)
+Company Socials (virtual or in person)
+Annual Global Offsite
+Plumm Health (mental health platform)
+
+You can find a more detailed explanation here and you might be eligible for other benefits depending on your location.
+
+Currently we can consider applicants, from these countries: Canada, Czech Republic, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Portugal, Spain, Sweden, Switzerland, UK, USA
+
+Element does not discriminate on the basis of race, sex, colour, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.

@@ -1,0 +1,26 @@
+About the job
+| Senior iOS Engineer | £90,000 + 10% Bonus | SwiftUI | Combine |1 office day per-week |
+
+Are you looking to use the newest iOS frameworks?
+
+Want to work on a variation of projects and stay away from boring maintenance?
+
+I am current looking for a Senior iOS Engineer to join a leading FinTech brand reaching millions of customers a year. Within their capabilities, my client creates world-class applications and acts as a white-labelling service for some of the biggest names in the market.
+
+You will be responsible for the following on a day-to-day basis:
+· Write clear, maintainable code that will scale!
+· Architect, design, build, and deliver world class iOS applications.
+· Facilitate collaboration with engineers, product owners, and other colleagues to deliver exciting features and resolve complex issues.
+· Challenge team processes, looking for ways to improve them.
+
+What they are looking for:
+· Previous history in a FinTech environment.
+· Commercial experience of leading and developing mobile teams.
+· Extensive experience of system design, design patterns, SOLID principles, and mobile architecture.
+· Commercial experience using SwiftUI.
+· Practical experience with RxSwift or Combine.
+
+A couple other reasons to apply:
+· NO TECH TEST; The interview process consists of 2 technical interviews, followed by a culture conversation.
+· USE THE NEWEST TECH; my clients tech-stack implements the newest iOS frameworks.
+Hit apply and let's have a chat!

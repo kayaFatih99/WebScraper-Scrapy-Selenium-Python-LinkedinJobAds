@@ -1,0 +1,15 @@
+About the job
+I am working with an exciting start up looking to revolutionize Education. Due to their continued growth they now have an exciting new role for a full-stack Flutter developer to join the engineering team and contribute towards the development of their cross platform mobile app.
+
+You will be joining their engineering team, working with developers, product managers and designers to add new features and updates to their mobile app.
+
+Job requirements
+They are looking for an experienced mobile developer to join the development team and help drive forward the roadmap of exciting new additions to the Flutter mobile app. They are looking for candidate who is able to build features end to end so this does include some back end work using Firebase/Node.js.
+
+Essential skills: Min. 2 years commercial mobile development (any) with at least 1 year Flutter/Dart experience.
+Experience integrating with REST API’s.
+Good understanding of state management tools e.g. Provider.
+Proven experience releasing mobile apps to the App/Play stores.
+Understanding of back-end technologies, ideally Google Firebase.
+Experience working with both SQL and NoSQL databases.
+Experience in writing Node.js functions to handle CRUD operations.

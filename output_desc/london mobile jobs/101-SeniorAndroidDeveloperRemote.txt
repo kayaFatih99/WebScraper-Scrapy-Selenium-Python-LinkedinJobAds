@@ -1,0 +1,53 @@
+About the job
+Description
+
+Senior Android Engineer
+
+We’re looking for a brainy, friendly and open experienced Senior Android Developer to help build our customer facing apps. Here in the Treatwell tech team we believe in Agile principles and values, our teams use Scrum and various XP practices, we love DDD and we are embracing eventual consistency in our new services. We like to use the right tech for the job but we don’t get seduced by the latest shiny fads.
+
+Our current Android stack is based on Mortar and Flow, which we are getting away from by migrating to native Android components, also we heavily use RxJava. We are also heavily investing in Kotlin by refactoring older implementations to modules using Jetpack compose, MVI and Flow, currently more than 96% of code is Kotlin. Also we rely on Retrofit, Dagger2. We believe in a testable environment, with test coverage across the full testing pyramid, including unit tests, integration tests, end-to-end, UITesting and PACT consumer driven contract tests. Our code lives in Gitlab where we also make merge requests and run CI.
+
+Elsewhere in the stack we use Java 8, Spring, Immutables, Tomcat, Jetty, ES2015, NodeJS, ReactJS (both client and on NodeJS server-side), Docker and RabbitMQ among others. Everything runs in AWS.
+
+We do things well, but we’re not complacent. We want to do great work and we want to be known for it. We’re looking for people who can help us to continue to grow and improve as a team.
+
+You Will Be Responsible For
+Work as part of a cross functional Agile team writing and shipping high quality code frequently.
+Doing whatever you can to help your team meet or exceed its goals and you will drive incremental improvements in both the way we work and the software we deliver.
+Creating, maintaining and prioritising technical stories in a team backlog in order to reduce technical debt, increase app performance, improve build times and decrease story cycle time.
+Introducing ideas that allow the team to embrace Agile, DevOps and CI/CD mindset.
+
+About You
+You are familiar with some of our Android tech stack and can learn the rest very quickly.
+You have experience working with Kotlin.
+You’ve built high quality mobile interfaces using modern technologies and practices.
+You know good UX and visual design when you see it.
+You’ve been part of a high-performing, autonomous Agile development team and you get kick out of shipping.
+You like learning new skills and taking on tasks beyond your usual remit - maybe even some backend development tasks!
+You’re a good communicator, fun to work with and enjoy being part of a vocal, passionate team.
+You’re active in the software development community, whether through blogs, meetups, personal projects or open source contribution
+You feel comfortable working in an international environment.
+
+About Treatwell
+
+Hi, we’re Treatwell. Nice to meet you.
+
+We’re a team of 800 (and growing) passionate and brilliantly talented people across Europe. We’re the industry’s smartest salon management software, all connected to Europe’s leading booking platform, working with over 50,000 salon partners across 13 countries and processing over 8 million bookings every month. And….breathe.
+
+But we’re not done yet. We’re on an exciting journey to digitally revolutionise the hair and beauty community.
+
+If this excites you, we might have just the role for you.
+
+We’ll Treat You With
+28-days holiday, plus bank holidays
+Monthly £40 Treatwell vouchers so you can treat yourself too
+Benefits platform offering cycle to work scheme, high street discounts and other perks
+Growth funds for you to develop and grow with your team
+A beneficial pension scheme and enhanced parental pay & leave policy
+100% remote position with flexible working
+Annual Treatwell retreat to a sunny European destination
+All the tools / devices supplied to do the best job you can eg. laptop, monitor, keyboard etc
+
+Equal Ops
+
+Treatwell is an ‘Open to All’ employer and warmly welcomes everybody to the team. We are committed to making reasonable adjustments to the recruitment process as required. Please add any adjustment requests to your application.

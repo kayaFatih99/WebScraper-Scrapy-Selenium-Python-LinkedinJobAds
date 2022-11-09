@@ -1,0 +1,24 @@
+About the job
+We're looking for an ambitious, motivated, intelligent and pragmatic back-end developer who is also passionate about human rights, the environment and making a difference.
+This is a Senior Developer role. You will be expected to design and implement features and projects independently, pair with other developers on difficult challenges and interfaces, write excellent code with a view to legibility and future use and provide mentorship and high-quality code review. It does not require any team management desires, although you may choose to adopt some of those responsibilities if you want to, and we would expect the right candidate to be at the point in their career where that was an appropriate decision for them to be making (expert focus or team focus).
+
+There will be significant internal systems ownership responsibility in this role and some client-facing development opportunities. You will work on an innovative calculation engine to assess company impacts, be involved in the design and implementation our integrations system, and help make our data gathering platform a joy to use.
+
+You'll be working within a small high-performance team of ~8 engineers, designers and a product manager, and there will be opportunity to grow into a wider role in the company.
+
+Whilst we run a professional team with plenty of support and a strong review culture, this is a startup and you'll be building production code in use across our clients, so you'll share responsibilities for deploying and maintaining the team's code, ensuring test coverage and optimising code performance as well as developing back-end features.
+
+Company Benefits
+Competitive salary
+Generous equity options
+Generous hardware budget on joining
+Flexible location with the opportunity to mix working in our beautiful riverside office and WFH
+A wonderful team that make coming to work a joy
+A mission that will get you out of bed every morning knowing you're doing good in the world
+
+Interview Process
+We go through this process, with dropouts at each stage:
+A 30 minute role-fit and culture chat - what are you looking for, do you understand the role we're hiring for, does your background and expectations make you a potential fit for it?
+A 40 minute pair programming exercise followed by a 20 minute technical discussion to evaluate your programming ability and domain-specific experience.
+A 60 minute systems design interview.
+After that we'll either offer you a job, or give you a breakdown of why we don't think you're a fit for the role.

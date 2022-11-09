@@ -1,0 +1,21 @@
+About the job
+Senior Back End Developer with excellent Python & Django skills required by my client, a high- growth HR tech company based remotely across the UK on a permanent basis.
+
+There have been huge investments from key players in the development of new software and solutions in the HR Tech space, and the market is projected grow from $24 bn in 2021 to $36 billion in 2028.
+
+My client are simplifying the way employers manage their pre employment screening, increasing customer experience and confidence with their innovative SaaS solution.
+
+To be considered for this position applicants must have the following skills:
+
+Python
+Django
+Strong experience as an Application Engineer
+Experience developing REST APIs
+Flexible to work autonomously or as part of a larger team
+Start up exposure advantageous
+
+This is an excellent opportunity for a proven Senior Back End Developer to join at the next development stage of the business. You will work with their remote-first technology teams and product teams to deliver high quality software.
+
+You will work closely with internal stakeholders, building and maintaining integrations between the business and 3rd party ATS systems. You will also enhance and improve production application - increasing code quality and test coverage.
+
+It must be stressed that only Back End developers with excellent skills in Python, Django, APIs and a proven application engineers will be considered for this position. This is a fully remote role based in the UK offering salary of between £70,000-90,000.

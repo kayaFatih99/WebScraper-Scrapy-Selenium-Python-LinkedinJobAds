@@ -1,0 +1,38 @@
+About the job
+Do you have a passion for high-scale services and working with Oracle's most critical customers? We are looking for a Mobile Site Reliability Engineer that enjoys applying cutting-edge advances in technology to complex, mind-blowing-scale enterprise systems that help solve real world problems. You will contribute to the architecture, design, development, implementation, and operation of critical and complex systems. You are someone who enjoys learning and shaping the newest industry trends and technologies. You foster and contribute to the creative and collaborative culture to deliver results. You embrace ambiguity and enjoy exploring new technologies delivering robust, scalable solutions.
+Who are we?
+We are a world class team of high caliber mobile assurance services site reliability engineer's. We are an inclusive and diverse team with a full spectrum of experience distributed globally. We have the resources of a large enterprise and the energy of a start-up, working on a critical greenfield software assurance project collaboratively with our cloud and mobile engineering teams. The Software Assurance organisation has the mission to make application security and software assurance, at scale, a reality. We are a dedicated team, leveraging each other’s insights and abilities to produce cutting edge solutions to difficult problems through automation and CI/CD. Join us to grow your career and create the future of software assurance at scale together.
+
+As a member of our global team, you will:
+Deploy and operate large scale mobile build pipelines in a cloud native environment
+Improve our offerings through performance and reliability analysis
+Diagnose and resolve issues in the build pipeline
+Participate in system design consulting, platform management, and capacity planning
+Anticipate the future and deliver those concepts to reality
+Participate in a global break-fix rotation
+
+What you'll bring:
+Experience in designing and operating CICD pipelines that build and deliver mobile applications (Andriod and iOS)
+Your skill in operating and analysing complex cloud deployed solutions
+Familiarity with mobile build tools, platforms, and artifact repositories
+A history of working with CI/CD related systems (Kubernetes, Terraform, Jenkins, Mavin, Gradle, Ant or similar)
+A mind focused on systems reliability, automation, and improvement
+Scripting finesse in languages like Python, Ruby, or Bash
+Motivation to collaborate with your local and global teams
+Experience with Linux
+Bonus points for development experience of Android or iOS mobile applications
+5+ years’ experience in Systems Engineering, DevOps or SRE roles running large scale infrastructure, cloud or web services
+
+Nice to Have:
+Experience with Oracle Cloud Infrastructure (OCI) or other cloud services
+Comfort with microservices architecture operating in a Kubernetes environment
+Integration experience with database systems
+
+What we'll give you:
+Exposure to mind blowing large scale cutting edge systems
+Resources of a large, global operation while still having the small, start-up feel of a smaller team day to day
+New skills and competencies working with our vast cloud product offerings
+Ongoing extensive training and skills development to further your career aspirations
+Incredible benefits and company perks
+An organisation filled with smart, enthusiastic, and motivated colleagues
+Opportunity to impact and improve our systems and delight our customers

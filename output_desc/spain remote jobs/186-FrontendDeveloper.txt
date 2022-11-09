@@ -1,0 +1,75 @@
+About the job
+ABOUT US
+Casavo is the European next-generation platform that, thanks to an innovative and end-to-end experience, gives people the freedom to sell and buy homes anytime life changes.
+Founded on the belief that Eeal Estate should be simple, Casavo is redesigning the selling and buying experience leveraging proprietary technology in each step of the process, taking care of the complexities and giving people the freedom to enjoy only the best part of their choice. The Company moreover offers integrated home-related services such as mortgage financing, providing a turn-key experience with an inclusive approach towards Real Estate operators (brokers, contractors and banks).
+Founded in 2017 by Giorgio Tinacci, Casavo currently operates in Italy, Spain, Portugal and France across several cities, rapidly expanding into other European markets.
+WHAT WILL YOU DO?
+
+Implement complex features with a large product surface area
+Contribute to the foundational good of their domain and engineering overall, defining and refining patterns and canonical examples, plus paying down tech debt
+Mentor junior people
+Clearly articulate code design choices that need to be made, and suggest a viable path forward
+Act as a primary maintainer for existing critical systems
+Consistently stay on track with work and keep work in line with bigger picture goals
+Communicate technical issues and decisions clearly and proactively
+Show maturity around what code not to write and thinking before coding, demonstrating critical thinking
+Exemplify a "user first" mindset
+Be open to generalism and ready to actively collaborate with experts with other competences
+
+KEY QUALIFICATIONS FOR THE ROLE
+
+As a Senior Frontend Engineer you'll need to demonstrate:
+Relevant industry experience in frontend development, building, running, and debugging web applications with modern JS frameworks used at Casavo (React, NextJs).
+A passion for building delightful end-to-end experiences with an eye for design and quality.
+Working knowledge of Test Driven Development and test automation
+Knowledge of code quality, Clean Code, Clean Architecture, SOLID principles
+Familiarity with CI/CD practices.
+Ability to document and troubleshoot activities.
+
+We'd excited if you have:
+Interest in more than one programming paradigms (i.e. Functional and Object Oriented Programming).
+Full-stack experience or some knowledge of backend development (especially in Kotlin or Elixir).
+Familiarity with microservices and distributed architectures.
+Prior experience working in cross-functional, agile teams.
+A passion for building great products. You take pride in shepherding projects from ideation to completion, and are interested in being part of the business product development.
+
+TECH TEAM
+
+We are a fun, collaborative and diverse group who are responsible for implementing and digitizing Casavo’s core business of acquiring, pricing, renovating and selling properties. We work closely with sellers, buyers and brokers to let them experience a new and modern way of buying and selling real estate.
+
+COMPANY VALUES
+
+Our culture is characterized by a strong sense of entrepreneurship. We empower each member of our team to own their work and actively contribute to the company's success according to the following values:
+Focus on customers: Egoless, Change, Entrepreneurial
+Drive to innovate: Ownership, Result-Oriented, Fast-driven, Extra-mile
+Learn to adapt: Collaborative, Radical Honesty, True
+
+At Casavo, we strongly believe that diversity adds incredible value to our teams, our products, and our culture. We know that the best ideas and solutions come by bringing together people from all over the world and by fostering a culture of inclusion where everyone feels heard and has the chance to make a real impact. It's because of this that we are committed to providing equal opportunities to talent from all backgrounds.
+
+Casavo is an equal opportunity employer, and we’re proud of our ongoing efforts to foster diversity, equity, and inclusion in the workplace.
+
+BENEFITS & PERKS
+We have built up four benefit pillars to make your life easier as a Casavo employee!
+
+Financial
+Welfare Policy that enables employees to receive a social welfare credit to spend for private activities
+Reward Policy on top of employee’s salary
+Travel and Accommodation on top of business with BizAway
+Laundry Service Discount
+Learning Budget for your training and weekly half day for study and training
+
+Physical
+6 Pillow Days per year that we can use as a Sick Leave without showing any protocol number
+Healthy nutrition and free coffee in our offices
+Free use of the BuddyFit platform
+
+Emotional
+Birthday Off to be used during your birthday month
+Mindfulness Journey
+Supplementary Health Insurance for employees
+
+Social
+Smart Working Policy remote friendly
+Learn moments to share knowledge and experiences
+Two Corporate Social Responsibility Days in which, during working hours, employees engage in voluntary activities
+Company Library

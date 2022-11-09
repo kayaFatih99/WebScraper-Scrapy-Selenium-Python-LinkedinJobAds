@@ -1,0 +1,44 @@
+About the job
+IntePros is seeking a Remote Full Stack Developer to join our premier client. This candidate should be passionate about building high-quality systems utilizing software implementation best practices. They will contribute to an experienced and energetic team on a rapid, agile development schedule and will be expected to mentor developers with less experience, lead design discussions, perform code reviews, evaluate technology, and provide software solutions to meet business objectives. This role will also train team members in creating deployment packages and how to provide support for promoting deployments through environments.
+
+Full Stack Developer Requirements:
+
+6 or more years of experience in the following:
+Experience in Cloud / SaaS technologies, API integration, containerization.
+Experience in creating user interface screens including support for all major browsers and mobile form factors
+Experience in developing and consuming web services and integration concepts including REST, SOAP, JSON & XML
+Proficient in developing configurable Workflows to support business processes.
+Hands-on experience on any JavaScript technologies like Node, Angular, REACT
+Experienced in Release Management, CI/CD and has working experience with tools like Jenkins, ANT, or any other CI/CD tools
+Create and maintain reports and dashboards
+Experience in utilizing Orchestration between various application tiers
+Good understanding of security guidelines for enterprise applications.
+Experience in setting up API management and governance.
+Ability to define the interfaces and components for overall system-level design.
+Experience in implementation of security best practices
+Experience in leading teams through design discussions
+Experience in developing the architecture of technical solutions 8 or more years of experience in the following:
+Experience in supporting live production systems environment .
+Expert level experience using source code controls like TFS, GitHub, BitBucket. etc.
+Experience in five or more of the following: HTML, CSS, JavaScript, jQuery, AJAX, XML/XSL, SQL, XAML, ADO.NET, JSON
+Leads design and deployment of solutions using n-tier architectures (UI, Business Logic Layer, Data Access Layer)
+Leads design and development of relational databases, normalization concepts, triggers, functions, and procedures. Creates, reads and edits ER diagrams
+Ability to write advanced and complex SQL queries including performance tuning
+Develops using principles of enterprise patterns (MVC, MVVM, etc.)
+Advanced working knowledge using n-tier architectures (UI, Business Logic Layer, Data Access Layer)
+Leads development teams in design discussions
+Advanced knowledge building scalable enterprise applications using Microsoft .NET and various integration technologies.
+Experience in .Net Core is a plus
+Advanced development experience in HTML5/CSS3
+
+Full Stack Developer Qualifications:
+Bachelor’s Degree in information technology or similar field that is closely related to the body of specialized knowledge required to perform the job duties
+Current certifications demonstrating knowledge and understanding of relevant technologies will be a plus
+Ability to quickly learn new concepts and software and mentor others is necessary
+Self-motivated, independent, detail oriented and responsible team-player
+Excellent communication and writing skills, including the ability to interpret user requirements and generate technical
+Good organizational skills and expected to multi-task
+Ability to adapt quickly to an existing, complex and fast moving environment
+Passionate about building high-quality systems using software development best practices and encourage this passion in junior team members
+Expert troubleshooting and problem resolution skills
+Experienced in working on an agile / scrum development team. Knowledgeable in all scrum ceremonies and artifacts

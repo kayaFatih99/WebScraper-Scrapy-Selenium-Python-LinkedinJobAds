@@ -1,0 +1,102 @@
+About the job
+¿STRONGHOLD ASSET MANAGEMENT?
+
+STRONGHOLD ASSET MANAGEMENT (SAM) es un fondo de inversión donde nos dedicamos a financiar operaciones de desarrollo inmobiliario. Es decir somos el socio capitalista para un promotor que quiere construir por ejemplo una promoción de chalets. SAM por lo tanto es una empresa a medio camino de una FINTECH y una PROPTECH. Puedes curiosear la web https://strongholdam.com/ para entender un poco mejor qué es lo que hacemos.
+
+UN POCO DE HISTORIA
+
+En torno al año 2016 Matt Calner, nuestro socio director, llegó a Madrid procedente de Londres, con la intención de establecerse en Madrid. Según sus propias palabras, la mejor ciudad del mundo.
+
+Una vez aquí se dio cuenta de que existía una posibilidad de negocio ya que había dificultades para obtener financiación inmobiliaria. Había producto, había mercado, pero el principal freno era la financiación. Y con esta idea en la cabeza y espíritu emprendedor, se asoció con algunos inversores, conocidos y amigos, y empezaron a hacer operaciones pequeñas, principalmente préstamos puente y reestructuraciones de deuda.
+
+En el año 2019 se fundó oficialmente SAM y en 2020 entró como socio de referencia Goldman Sachs, los que financian al FC Barcelona, con una línea de crédito de 100 millones que ha ido incrementando con el paso del tiempo.
+
+Dentro de este camino de maduración de la compañía, a mediados del año 2020 nos contactan para desarrollar una plataforma que les ayude en su trabajo diario. Calculo de intereses, generación de certificados, gestión documental, etc. Lo que sería un pequeño proyecto de solo unos pocos meses nos llevó a finales del 2021 a incorporarnos a tiempo completo en la compañía.
+
+MOMENTO CLAVE
+
+Durante el 2021, con una plantilla realmente pequeña hemos sido capaces de financiar proyectos por un importe de más de 120 millones de euros y el objetivo es poder duplicar esa cifra cada año. Creemos que es un momento clave para los objetivos de la compañía, y queremos que nos ayudes a materializarlos.
+
+¿QUÉ COSAS TENEMOS EN MENTE?
+
+Estas entre otras cosas es lo que queremos hacer en el medio plazo.
+
+Continuar mejorando y optimizando las herramientas y procesos de la plataforma que ya tenemos.
+Mejorar la inteligencia de negocio para ofrecer información útil en tiempo real.
+Internacionalizar la compañía.
+
+A nivel de IT nos gustaría.
+
+Mejorar nuestras habilidades para producir código cada vez más confiable, sostenido por una buena test suite, y que se pueda ampliar / modificar fácilmente.
+Innovar añadiendo nuevas piezas a nuestra infraestructura.
+
+¿QUÉ VAS A HACER?
+
+EN TUS PRIMEROS DÍAS
+
+Conocer a tus compañeros, familiarizarte con el entorno de trabajo y el código que ya tenemos desarrollado.
+Comenzar a asimilar toda la terminología / conocimiento que necesitarás para desarrollar tu trabajo.
+Resolver algunas issues sencillas.
+
+EN ALGUNAS SEMANAS
+
+Resolver issues que requieran un mayor conocimiento del proyecto.
+Gestionar tu trabajo diario, desde la toma de requisitos, hasta poner el código en producción.
+
+EN ALGUNOS MESES
+
+Ayudar a definir y ejecutar la estrategia de IT, en base a los objetivos y necesidades de la compañía. SAM es una empresa orientada a resultados.
+Formar al equipo en aquello que creas que puedes aportar.
+
+¿CON QUE LO HARÁS?
+
+La pieza principal de la arquitectura está desarrollada en un monolito sobre Symfony 5.4 y PHP 8.1
+Nos preocupan los principios SOLID y el contenido del libro CLEAN CODE, aunque no somos talibanes.
+Tenemos test funcionales ( smoke test ) + test unitarios, que se ejecutan además de en local, en un entorno de integración continua.
+Un poquito de javascript + bootstrap.
+git + github.
+
+¿CÓMO ES EL EQUIPO?
+
+
+Serás el tercer compañero de un pequeño equipo de IT. Somos un equipo horizontal, autónomo y ágil. Tenemos total libertad para hacer lo que queramos.
+
+ALVARO CEBRIÁN
+
+Apasionado de la tecnología y la informática, le encanta probar todo tipo de tecnologías y lenguajes nuevos que van saliendo. Aunque a nivel profesional está más enfocado en el desarrollo web, también le divierte programar mis aplicaciones de escritorio, en otros lenguajes como C o aplicaciones móviles para Android.
+
+https://www.linkedin.com/in/alvarocebriangarcia/
+https://github.com/alvarocebrian
+
+DANIEL GONZÁLEZ
+
+Cree que nada es imposible si se hace con pasión y honestidad.
+
+https://www.linkedin.com/in/desarrolla2/
+https://github.com/desarrolla2
+
+¿QUÉ BUSCAMOS?
+
+INDISPENSABLE
+
+Experiencia consolidada en las todas o casi todas las siguientes tecnologías.
+
+PHP, Symfony, MySQL, Git, Linux, JavaScript, Bootstrap.
+Sólidos conocimientos de programación.
+Principios SOLID, test unitarios y funcionales.
+Capacidad para entender y proponer soluciones a problemas de negocio. No nos pagan por resolver issues, nos pagan por ayudar a la compañía a llegar al siguiente nivel.
+Alto rendimiento en el día a día, somos un equipo pequeño, pero muy productivo.
+
+INTERESANTE
+
+Conocimientos en el mundo financiero y/o del mercado inmobiliario.
+Comunicación en inglés.
+Docker.
+
+¿QUÉ OFRECEMOS?
+
+Contrato indefinido / 23 días de vacaciones / Flexibilidad horaria.
+100% remoto, o si lo prefieres puedes venir a nuestra oficina en Castellana 60, Madrid.
+Formación continua.
+40k - 70k brutos anuales.
+Cheques restaurante / guardería / seguro médico.

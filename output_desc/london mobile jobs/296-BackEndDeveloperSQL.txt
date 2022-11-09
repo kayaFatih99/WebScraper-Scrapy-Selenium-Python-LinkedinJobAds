@@ -1,0 +1,17 @@
+About the job
+Leading Financial Services Firm is hiring for a Back End Developer - SQL. This role will be working as part of a new programme supporting platforms across multiple locations. This role is based in London and the salary ranges from £45K - £67K, depending on experience.
+
+This in-house developed system and associated intellectual property is core to the business and growing at the time, so this is a role with stability, longevity and opportunity for you too.
+
+This is a role working across multiple disciplines - not just SQL - but all are data related. They predominantly use Microsoft development data tools so strong experience with MS SQL Server and Transact-SQL is at the core of this with additional expertise in SSRS for reporting with Power-BI experience being helpful too. They use SSIS for the heavy lifting in data manipulation and integration work.
+
+You will be responsible for designing and developing SQL and Power BI/SSRS solutions, ensuring requirements are correct to enable the successful delivery of solutions and supporting implementation plans for the delivery of applications.
+
+As a Back-end Developer you will have the following skills and experience:
+* Transact-SQL experience
+* Delivering SQL solutions (2016 onwards)
+* Delivering BI/SQL reporting (2016 onwards)
+* Design databases
+* Any experience within financial services or working across globally dispersed teams is desirable
+
+Please apply for immediate interview.

@@ -1,0 +1,59 @@
+About the job
+Estamos ayudando de nuevo a nuestro partner, una Startup que ha revolucionado del mercado de la automoción y de la propiedad de vehículos. Su misión es ofrecer una suscripción todo incluido a todos los que necesiten tener un coche por un corto, medio y largo plazo. ⏩ Su CEO les llama el “Netflix de los coches”. ¿Su sueño? Ser una empresa internacional referente en el sector, y esto, ya se está haciendo realidad en España, Francia e Italia. Este verano 2021 fueron adquiridos por RCI Bank and services parte del grupo Renault. Pero esto no implica que pierdan su espíritu de startupers.
+
+Su visión es utilizar la tecnología para poder dar un mejor servicio, por eso sus equipos de Ingeniería y Producto trabajan juntos formando squads de unas 6 personas donde vereas Product Manager, UI/UX Designer, Frontend, Backend y Fullstack Developers.
+
+Necesitan reforzar su equipo de IT para acompasar el crecimiento que estan experimentando y las nuevas necesidades de negocio, por eso estan buscando Backends Developers con las siguientes cualidades:
+
+Requisitos:
+
+Al menos 3 años de experiencia como Backend Developer trabajando en entornos de producción.
+Experiencia desarrollando APIs en NodeJs con Javascript.
+Conocimientos de bases de datos no relacionales (MongoDB).
+Haber trabajado haciendo uso de buenas prácticas.
+Tener experiencia haciendo testing.
+Haber trabajado siguiendo metodologías ágiles (Scrum, Kamban...)
+Estar familiarizado/a con revisiones de código.
+Tener capacidad de análisis para transformar requisitos en tareas de desarrollo.
+Trabajar con enfoque y visión global del producto.
+Se valorará favorablemente el inglés.
+
+Valoran positivamente:
+
+Conocimientos sobre integración contínua.
+Conocimientos en servicios cloud como AWS (CloudFront, EC2, Lambda, S3, ECS, CloudWathc, etc.) o Google Cloud.
+Experiencia analizando y optimizando aplicaciones (recursos, tiempos de carga, etc.)
+Conocimientos sobre caché en cliente y servidor.
+Conocimientos sobre VueJS, NuxtJS y AngularJS
+
+¿Qué harás en tu día a día?
+
+Formar parte de Producto para traducir los requisitos en tareas de desarrollo.
+Desarrollar código para los servicios backend (API, lambdas...) teniendo muy en cuenta la eficiencia del mismo.
+Definir modelos de datos pensando siempre en la mayor eficiencia de las consultas.
+Revisar el código de tus compañeros de equipo
+Realizar tests de todo lo que te encuentres.
+Desplegar tu código en Producción casi todos los días (incluso varias veces el mismo día). No te preocupes, tenemos integración contínua con Git Actions.
+Trabajar siempre codo con codo con alguien del equipo.
+Mantener las funcionalidades desarrolladas para asegurar que todo va como la seda.
+Realizar migraciones para asegurar que el stack tecnológico está actualizado.
+
+Stack tecnológico que te encontrarás:
+
+Javascript (es nuestro lenguaje de desarrollo principal).
+NodeJs
+ExpressJs
+MongoDB
+
+¿Qué ofrecen?
+
+Desarrollo personal y profesional en una de las empresas en pleno crecimiento europeo en un entorno startup: han abierto 4 países y duplicado la plantilla. Trabajarás sobre el producto en constante evolución y verás los resultados de tu trabajo.
+Trabajar en productos que tienen un impacto real y directo con el negocio: cada cosa que hagas tendrá una repercusión inmediata.
+🏡 Trabajo 100% remoto con posibilidad de ir a la oficina en el centro de Madrid.
+Viernes libre en la semana de tu cumple.🎂
+💶Retribución flexible con Cobee: comida, transporte, guardería y formación.
+Horario flexible de lunes a jueves. y jornada intensiva los viernes, de 9:00 a 15:00.
+Jornada intensiva en verano
+🏥 Seguro médico privado gratuito a partir del primer año.
+🏅Team buildings y eventos especiales.📅
+Precios especiales en nuestras suscripciones de vehículos, fines de semana y mas larga duración.🚘🚗

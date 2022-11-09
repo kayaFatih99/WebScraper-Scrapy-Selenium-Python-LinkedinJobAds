@@ -1,0 +1,36 @@
+About the job
+Opportunity to grow|International company
+
+
+About Our Client
+
+German company located in Valencia. The company develops a cloud-based e-commerce system, which has been on the market since May 2018. The project is a scalable SaaS-solution which is based on modern microservice technologies, so both small retailers and high-frequency online shops can use it (both B2B and B2C segments).
+
+Job Description
+
+You tasks:
+Work in an international team (therefore, fluent English is a must-have)
+Plan functionality based on product owner's requirements
+Develop complex SPAs with AngularJS and Angular
+Research and try out new technologies
+Document the planning and implementation processes in the project management software
+The Successful Applicant
+
+What do you need?
+Minimum 3 years of experience in frontend development
+Very good knowledge in the field of TypeScript, JavaScript, HTML5 and CSS3
+Good knowledge of TDD and testing frontend-applications
+Good knowledge of TypeScript/JavaScript backend development with NodeJS
+Ability to plan complex functionality and write clean code
+Very good knowledge of modern SPA frameworks like Angular, React or Vue
+Experience with Git and Docker
+Experience with reactive programming (RxJS)
+
+What's On Offer
+
+International project.
+Salary up to €50.000 annual gross.
+Remote up to 100% (from Spain, no visa available).
+Contact: Arturo García-Serna
+
+Quote job ref: JN-082022-5706644

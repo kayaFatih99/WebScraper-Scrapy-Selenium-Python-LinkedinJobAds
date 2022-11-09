@@ -1,0 +1,30 @@
+About the job
+Lead Node Developer – Decentralized Finance
+
+Are you passionate about Cryptocurrency/Web3 ? Do you have strong skills developing cutting edge ReactJS applications? If so, our client has the role for you!
+
+This business is dynamic and growing decentralized finance tech start up. They are aiming to debunk the belief that decentralized finance is inherently complex and separate from centralized finance. They aim to functionality and purposefully help people achieve financial freedom. The platform is a web and mobile application where people can swap crypto tokens through the exchange and deposit funds to liquidity pools to earn fees and farm rewards!
+
+The Lead Node Developer will be responsible for the following:
+
+Develop backend service for new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary.
+Work closely with traders and developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market.
+Be passionate about the crypto markets, blockchain technology, and decentralized applications.
+
+To apply for this role, you must have a combination of the following skills and experiences:
+
+Professional experience in Node.js
+Professional experience programming in Golang
+Strong experience in Express.js, Docker, Kubernetes
+Significant professional experience programming in Typescript
+Development experience on cloud computing platform (AWS)
+Experience working with a large codebase, distributed teams
+Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB
+
+Salary – £110,000
+
+Location – Fully Remote (Europe)
+
+To apply for this Node Developer role, please send your cv to NDrain@understandingrecruitmet.co.uk.
+
+Interviews have begun so please get in touch ASAP to avoid missing out!

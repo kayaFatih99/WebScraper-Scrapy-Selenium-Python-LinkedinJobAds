@@ -1,0 +1,15 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Photon Infotech, is seeking the following. Apply via Dice today!
+
+Role : Full Stack Java Developer
+
+Duration: Fulltime
+
+Bachelor’s Degree in Computer Science / similar technical subject area and or equivalent experience
+Proven ability with Java, JavaScript and NodeJS
+2+ years of experience with AWS and other cloud-based development methodologies / best-practices
+Excellent understanding of REST concepts, API standards and developing REST APIs with Spring Boot or NodeJS
+Experience with serverless computing and EKS based applications is a plus
+Hands on experience with: Git, Docker, Python, Shell Scripts, Swagger
+Understanding of Cloud databases including – DynamoDB and RDS
+- provided by Dice

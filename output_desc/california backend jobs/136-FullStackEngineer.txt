@@ -1,0 +1,24 @@
+About the job
+Job Title-Fullstack Developer
+Location-V
+Rate- $60/Hr on W2 only
+Duration- 6+ month + extend
+Description:
+
+
+SMART Retirement. Smart is a server that is being retired. Will be moved to inhouse cloud platform
+All Backend Work
+Tech Stack:
+1. Java
+2. Spring Boot
+3. Rest APIs
+4. Other nice to haves: Kafka, Azure, NoSQL
+There is a separate QA team, but will likely need to do their own unit testing. Won't have a lot of database work, but it would be MS SQL if they do.
+
+Required Skills : Java, Springboot, Rest APi's. Kafka, Azure
+Basic Qualification : 6 years of experience, coming form fortune 500 companies
+Additional Skills : 6 years of experience, coming form fortune 500 companies remote, could be long term contract, looking for mid to senior range
+Background Check :Yes
+Type of project :Development/Engineering
+Master Job Title :Dev: Java
+Branch Code :Bentonville

@@ -1,0 +1,46 @@
+About the job
+Who are we?
+
+What does our stack look like?
+
+Our Front-End code is based on Web Components made with Polymer (version 1 and 2) and LitElement. These components are written in vanilla JavaScript, HTML and CSS (no preprocessors), keeping the three layers separately (people who write the CSS, they do it in separate CSS files). We use Jest, Web Component Tester, Karma and Cypress for testing our Web Components and systems (currently, we have more than 200 tests).
+
+We also have a custom middleware made with vanilla JavaScript,
+
+You will develop locally on a dockerized environment, with GitHub as code repository and Jenkins as CI pipeline.
+
+On
+
+What we need from you
+
+We are looking for a Front-End engineer that will help us build the next generation of our platform.
+
+As part of an international team we need you to feel comfortable communicating in English.
+
+What we expect from you (in no particular order) is:
+
+Experience designing architecture solutions from a Front-End perspective.
+Adopt software best practices, design, performance...
+Feel comfortable building solutions using any framework or library.
+Knowledge of HTML, CSS, ECMASCRIPT 6, components systems like Vue, React and Lit
+Experience with Git, Agile, and CI/CD techniques and deployment strategies.
+Have a problem solver mindset and a proactive attitude.
+
+Would be great if you…
+
+Have experience with the WebRTC stack.
+Have experience with Accessibility.
+Experience working remotely.
+Familiar / involved with open source projects.
+
+What we offer
+
+Negotiable salary.
+You will be able to work fully remotely. We have a long-standing culture of remote work.
+Flexible schedule (always having in mind team compromises) and intensive working day during August.
+Annual budget for training.
+Cool tech stack (we love working with the latest technologies, or creating our own!).
+
+Powered by JazzHR
+
+jpp6f9gkIK

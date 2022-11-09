@@ -1,0 +1,36 @@
+About the job
+GoHenry is a London and New York-based fintech company that pioneered the youth fintech and financial education category. We are on a mission to make every kid smart with money and to delight our community of 2 million parents, kids, and teens with innovative, market-leading tools to help parents raise financially healthy kids.
+GoHenry offers a debit card and app for kids and teens and companion apps for the family, with in-app tools for sending money, automating allowance, managing chores, setting savings goals, giving to charity, and in-app financial education lessons where kids can watch videos, take quizzes and earn points & badges. This is all designed to help kids and teens build good money habits that will last a lifetime.
+The Flutter Mobile App Developer role will primarily focus on creating new features to help drive the strategic growth of the business. You’ll be working closely with the product team to understand the business requirements and bring GoHenry’s product roadmap to life across our mobile app and the APIs developed by our back end team. You will also establish close partnerships with teams across the business to ensure successful releases.
+Your key responsibilities will include, but will not be limited to:
+Work closely with our existing Mobile App development team to develop and implement required functionality within our framework and quality standards
+Work closely with the Product teams and develop a deep understanding of the requirements and functionality that they would like to implement
+Research and recommend technical solutions as and when necessary
+What we are looking for
+At least 2 years of proven experience in writing Mobile App using Flutter
+Strong experience in developing Mobile App with APIs (SOAP/Rest, JSON)
+Proven experience in releasing Flutter Mobile App to both iOS and Android
+Have a very good understanding of back-end, web and mobile app technology in a demanding consumer environment
+Strong team player, ability to work in cross-functional teams with marketing, product, design, engineering, operations and partners
+Benefits
+goFlex - flexible working that lets you choose how (& where) you work best (office / home / a mix of both)
+33 days of holiday (including public holidays)
+An additional birthday day off
+Family-friendly leave policies
+Enhanced maternity and paternity leave
+Westfield Cash Health Plan (for you and your children)
+Westfield surgery plan after 3 years’ service
+Westfield Rewards (receive discounts at over 600 retailers)
+Cycle to work scheme
+Training opportunities to further develop your craft
+Choose your own equipment
+We are proud to say...
+We help over two million members improve their money skills every single day.
+We are one of Tech Track’s top 50 fastest growing UK companies.
+We were nominated for ‘Best Personal Finance App’ at the British Bank Awards 2020.
+We were voted 'Best Children's Financial Provider' at the British Bank Awards 2021.
+Our kids and parents have donated over £200,000 of their own money to NSPCC via their GoHenry accounts.
+We won the Kids' Cards category of Finder's Customer Satisfaction Awards 2022.
+GoHenry is an equal opportunity employer, and we are on a mission to foster a diverse and inclusive workplace. Individuals seeking employment at GoHenry are considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law.
+Want to join our mission?
+If GoHenry sounds like a place you would like to be, please apply using the link below.

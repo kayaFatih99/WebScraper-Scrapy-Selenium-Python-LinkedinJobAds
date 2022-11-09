@@ -1,0 +1,24 @@
+About the job
+Interested in Defi and wanted to help contribute to building a decentralised exchange on Solana and work with Web3?
+
+I'm currently recruiting two React Native Developers to join a Defi start-up who are building a decentralised exchange on Solana. The React Native Developer will build the next generation of mobile apps that will shape and impact the financial futures of their growing customer base. Current live projects include a highly immersive mobile application using React Native, a crypto wallet and a new fiat payment application.
+
+The React Native Developer will need extensive experience building, designing and deploying high-level, immersive client-facing UI systems. You will be one of the senior developers you'll be working in a cross-functional team leading all mobile development for a global client base. The ideal candidate will have a strong software engineering background and is comfortable working with React, TypeScript and other tools such as GraphQL.
+
+Key responsibilities for the React Native Developer:
+Develop and contribute to their React Native, Android and iOS apps.
+Implement features to existing applications and develop new products from scratch.
+Develop reusable React Native components.
+Evolve current engineering best practices.
+
+Key skills for the React Native Developer:
+4+ years of experience developing React Native mobile apps.
+TypeScript.
+React.js.
+Asynchronous programming
+Developing responsive UIs.
+
+This role offers the chance to work remotely across Europe, paying up to £100k/$120k, with interviews taking place from Wednesday the 9th of November.
+
+Why Apply?
+This role offers the chance to work in a highly sought-after sector and work with Web3 and decentralised finance. You'll work with leaders in the crypto space and directly with the team at Solana, work flexible hours, and build the next generation of their mobile app that will shape and impact the financial futures of their growing customer base.

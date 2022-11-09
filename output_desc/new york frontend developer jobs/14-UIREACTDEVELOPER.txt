@@ -1,0 +1,72 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Oxford Global Resources, is seeking the following. Apply via Dice today!
+
+React / .Net Developer
+
+100% Remote, Ohio
+
+Duration: 1 year plus
+
+EST schedule, 8am Stand-up
+
+Client needs a UI / React Developer to assist with a large migration/replacement of a legacy application. The new B2B portal is for its distributors is live and will now house all functionality formerly built into the legacy application.
+This consultant will need experience creating single page applications using React, that will consume APIs, and work with Design systems and build re-usable component libraries, in a React / Azure envioronment.
+The role will be 80% UI development and 20% design work/UX
+
+Must:
+
+React /Typescript Development
+
+Preferred:
+
+Experience developing in Cloud environment, preferrably Azure
+
+Updated Client description:
+
+What you will be doing:
+
+Contribute to the component library, tools and artifacts that make up the Design system
+Collaborate with visual designers to translate Sketch designs and mocks into usable, composable code
+Document and advocate for best practices for semantics, accessibility, and responsiveness within the frontend ecosystem
+Maintain and create CI/CD pipelines and build scripting to publish and deploy tooling to the platform
+Provide support to Design System-consuming engineering teams
+Participate in the Design ideation phase, counseling on A11y, usability, feasibility, performance, and more
+Implement components and utilities to high standards, rigorous code reviews, and VQA
+Assure all components meet WCAG 2.1 Level AA from inception according to W3C ARIA patterns
+Drive updates for front-end NPM dependencies
+Introduce a range of better- and best-practices complementary to our components and overall front-end stack
+Counsel product engineers with integration questions
+Influence, inspire, and guide internal audiences, using live demos, documentation, and blogs
+
+What we are looking for:
+
+You have led the implementation of complex components, websites or applications for production software
+You have experience contributing to design systems within an organization or as part of an open-source project
+You have experience working closely and effectively communicating with Product Managers and Designers
+You have a fanatical eye for detail and appreciate the nuances in creating first-class user interfaces
+
+We hope you will join us in building software using:
+
+Typescript, HTML5, CSS
+ReactJS and styled-components
+Storybook
+Build tools (NPM, Webpack, esbuild, TSUP)
+Testing tools (Jest, Enzyme, Testing Library, Cypress)
+
+Who You Are:
+
+Experienced in front end development specifically with React and Typescript
+Strong proven record with user interface, interaction and accessibility best practices
+Experienced in writing robust and effective component APIs
+Experience contributing to Open Source/ Corporate Source projects
+Judicious in choice of libraries and tooling
+
+What you bring to the team:
+
+Deep UI/UX Engineering experience
+Understanding of A11Y and best practices related to it
+Ability to visualize the end-user experience prior to building it
+Passion for doing things "the right way, first"
+Strong collaboration skills and ability to synthesize expertise and end-users needs into pragmatic solutions towards shared goals
+Enjoy presenting interactive demos to large internal groups and composing documentation to help others understand and use what we have built
+provided by Dice

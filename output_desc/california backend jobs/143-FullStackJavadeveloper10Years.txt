@@ -1,0 +1,16 @@
+About the job
+Role: Full Stack Developer
+Functional Area: Cedrus: Cloud Native
+Employment Type: Contractual or Permanent
+Location: Remote – Eastern or Central Time zone or available to work those hours
+The Opportunity:
+Join an existing team to help develop digital applications for a healthcare company. Will provide development support to build cloud based applications on AWS. Work as part of a scrum team.
+Selected candidate will be required to:
+Demonstration development experiance around the implementation of
+Java/J2EE
+Node.JS
+Angular
+Typescript
+Have DevOps knowledge
+Experience deploying code to run on AWS
+Must have - Fullstack – JAVA/J2EE Strong candidate, Spring boot,JavaScript (React & Angular),Node.JS,Angular,Typescript,Have DevOps knowledge, Experience deploying code to run on AWS

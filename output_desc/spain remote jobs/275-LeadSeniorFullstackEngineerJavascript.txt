@@ -1,0 +1,63 @@
+About the job
+About MetaMask
+
+We’re building for a future where the internet and world economy empowers people through interactions based on consent, privacy, and free association. Where both communities and individuals flourish. To accomplish that, we’re working hard to make web3 accessible for everyone around the world.
+
+MetaMask is both a crypto wallet and a gateway to the decentralized web. Our tools help people create communities, play video games, access financial services, make payments, invest in assets, protect against economic turmoil, and more. Our browser extension and mobile platforms meet the needs of millions of users and developers across the world.
+
+Originally a humble key manager, today MetaMask serves over 30 million monthly active users as a decentralized application development platform, an aggregator of decentralized cryptocurrency exchanges, and a decentralized identity manager.
+
+About The Team
+
+Our user base is rapidly growing, and we want every user to be able to access their MetaMask wallet on a multitude of platforms and devices. Our team is focused on bringing blockchain to the entire Javascript ecosystem and open new opportunities for all kinds of Javascript environments (web desktop, web mobile, electron, nodeJS, etc.).
+
+About The Role
+
+We are looking for a Lead/Senior Fullstack Engineer who will lead the development, maintenance and integration of MetaMask with Javascript applications (Web, Desktop/Mobile, NodeJS, etc.). You’ll be responsible for driving an exciting early-stage project to production for a large number of users and web3 developers in a seamless and most secure way possible.
+
+What you’ll do:
+
+Lead the development of the integration of MetaMask and Javascript applications
+Architect technical solutions and lead research of multiple solutions
+Lead and hire a team of Frontend and Backend developers
+Participate in weekly meetings as necessary
+
+Who we’re looking for:
+
+3+ years of Fullstack development
+Proficient in Javascript
+Experience with Javascript library development
+A belief in our mission and values.
+
+Bonus points:
+
+Experience in bringing a Javascript library to production
+Experience with encryption and security
+Blockchain expertise.
+You’re a MetaMask user!
+
+About ConsenSys
+
+Our mission is to unlock the collaborative power of communities by making Web3 universally easy to use, access, and build on.
+
+Working with ConsenSys puts you at the forefront of an evolving paradigm, transforming our society for the better. We fundamentally believe blockchain is the next generation of technology that can lay the foundation for a more just and equitable society.
+
+Blockchain tech is just over 10 years old. Ethereum itself is still a toddler and we’re far from reaching our full potential. You’ll get to work on the tools, infrastructure, and apps that scale these platforms to billions of users.
+
+You’ll be constantly exposed to new concepts, ideas, and frameworks from your peers, and as you work on different projects — challenging you to stay at the top of your game. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+
+Why join ConsenSys? Here are some of the perks of being part of a unique organization like ConsenSys:
+
+One of the most recognized tech companies in the blockchain ecosystem globally. A work experience at ConsenSys is a tremendous reference for your future career. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+
+The forefront of a revolution. We fundamentally believe blockchain is a next generation of technology that can lay the foundation for a more just and equitable society. You can be a part of building the digital economy of tomorrow and radically transforming our society for the better.
+
+A dynamic startup environment with deep roots. We are one of the earliest blockchain companies and a leader in the space. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem.
+
+Deep technical challenges. Blockchain technology is just over 10 years old. Ethereum itself is still a toddler. There is much to be done before these platforms can scale to the order of millions or billions of users. We are building the tools, infrastructure and applications l that are pushing the technology forward.
+
+Continuous learning and improvements. You’ll be constantly exposed to new concepts, ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game.
+
+ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.
+
+ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here.

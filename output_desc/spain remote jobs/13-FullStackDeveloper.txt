@@ -1,0 +1,51 @@
+About the job
+Job Overview
+We are looking for a skilled full stack developer to support the efforts of the Data Department. In this role, you will be required to design, write and maintain code for our current and future projects.
+The role requires an individual who is passionate about web applications, cloud computing and data. It is a great opportunity for someone to join a team that is transforming itself into making decisions in a data driven way.
+
+Responsibilities and Duties
+Developing web apps (front-end & back-end)
+Designing and developing APIs
+Meeting both technical and consumer needs,
+Staying abreast of developments in web applications and programming languages.
+Familiarity with Agile and Scrum
+Familiarity with database technology such as MySQL, PostgreSQL, Oracle
+Proficiency with Version Control System such as Git or Bitbucket
+Familiarity with Linux servers for deployment such as RHEL, CentOS and Ubuntu,
+Familiarity with Web servers such as Nginx, Apache
+Familiarity with Docker, Docker Swarm, Kubernetes will be added advantage
+
+As a developer in the data team you will need to be experienced with the following technologies:
+Javascript
+AngularJS
+PHP
+MySQL
+HTML
+CSS
+
+Nice to have knowledge with any of the below technologies:
+NodeJS
+Angular 2 +
+Typescript
+GCP technologies (Cloud Build, Cloud Run, BigQuery)
+Docker
+Kubernetes
+Ansible
+
+Working Conditions
+Full-Time Job - Hybrid (Malta) or Remote (EU)
+Monday to Friday - 40 hours per week
+Flexible working options
+Located in St. Julian’s, Malta
+Our Benefits
+Private Health Insurance
+Car Park Space
+Annual Performance Bonus
+Wellness Allowance
+Exciting company events throughout the year
+
+If you are interested in this position, please send your CV and Cover letter in English by email to: careers@gamelounge.com before the 10th November 2022.
+
+Game Lounge is the iGaming IDOL 2021 award winner for Employer of the Year.
+
+At Game Lounge Limited we are committed to protecting and respecting your privacy. Data provided will be strictly used for the matters of the recruitment process with Game Lounge Limited.

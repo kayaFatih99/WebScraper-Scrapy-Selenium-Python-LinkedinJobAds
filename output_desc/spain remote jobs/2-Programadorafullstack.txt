@@ -1,0 +1,37 @@
+About the job
+Empresa: Prodigioso Volcán
+Posición: Full Stack Developer
+Localización: Remoto (España)
+
+¡Hola!
+
+En Prodigioso Volcán llevamos más de diez años ayudando en la transformación digital de las grandes compañías. Nuestro conocimiento del sector nos permite ofrecer una estrategia de comunicación adaptada a las necesidades de cada cliente para llegar a sus públicos objetivos con ideas innovadoras.
+Queremos incorporar un perfil con experiencia gestión y desarrollo de proyectos Full stack, para nuestro equipo de Soluciones.
+¿Qué buscamos?
+Personas con experiencia demostrable (de 3 a 5 años) en la creación y mantenimientos de aplicaciones web.
+Experiencia trabajando con Github.
+Experiencia programando y haciendo testing de componentes.
+Se valorarán conocimientos de integración continua.
+Conocimientos básicos de gestión de servidores. Creación de proxys, gestión de DNS, reiniciar procesos, etc.
+Conocimientos en Javascript tanto de front como de back.
+Conocimientos de Angular y Node.js para poder desarrollar componentes autónomamente.
+Conocimientos en Wordpress y PHP.
+Conocimientos sobre buenas prácticas, código limpio, mantenible y estructura de componentes.
+Personas con ganas de aprender, compartir conocimiento y mejorar procesos.
+Persona resolutiva, proactiva, metódica y organizada.
+¿Cuáles serán tus responsabilidades?
+Coordinación y gestión de proyectos con equipos interno de Prodigioso Volcán y externos de desarrollo.
+Desarrollo de plataformas de gestión de proyectos.
+Tareas de analista y definición de requerimientos de los distintos proyectos.
+Además de tareas vinculadas a diferentes clientes:
+Gestión de procesos relacionados con ciberseguridad, seguridad de la información, malware, spyware, capacidad preventiva de la información digital, etc.
+Apoyo en la publicación de proyectos: Backup y migración de sites, gestión de DNS, identificación y solución de problemas que se puedan dar en un servidor, un site, indecación en google, etc.
+¿Qué ofrecemos?
+Formar parte de un equipo prodigioso.
+Dinamismo de los proyectos con base en las últimas tendencias tecnológicas.
+La posibilidad de aportar y aprender dentro de una empresa en constante crecimiento.
+Horario en jornada completa (intensiva los viernes y durante julio y agosto).
+Teletrabajo y flexibilidad.
+Salario competitivo según el perfil.
+Muy buen ambiente de trabajo.
+Prodigioso Volcán es una compañía comprometida con generar un impacto positivo en la sociedad. Sabemos que la diversidad, la inclusión y la igualdad de oportunidades son claves para crear un mundo más responsable. Únete y forma parte del mejor talento. Sé tú.

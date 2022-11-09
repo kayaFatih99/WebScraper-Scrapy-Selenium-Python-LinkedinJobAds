@@ -1,0 +1,61 @@
+About the job
+Title: Backend Mid-Level Engineer
+Location: UK Remote
+Position: Perm
+About Petlab Co
+
+PetLab Co. is the world’s fastest-growing pet supplement business. Launching in 2018, we are currently on track to drive over $120m in sales in 2022 without external funding. We have a loyal community of loving pet parents and over 1.5 million happy dogs whose lives have been positively impacted by our innovative products. Our team is vibrant, fast-moving, and customer-driven where high-performers are valued and rewarded. And it is the ideal place for an ambitious, hardworking, animal lover who wants to progress their career rapidly.
+
+A Day In The life..
+As the platform expands we are looking to build out our development team to keep our customer experience world-class when it comes to delivery and design. We’re looking for someone who has had strong foundations in backend technology and execute and recommended solutions which will aid the business grow and deliver a world-class service.
+
+We move and think fast so it’s important that you are able to thrive in a fast-paced environment and are happy to roll up your sleeves to do whatever it takes to support the team in every way possible. This is an exciting opportunity to have a huge impact in rocket ship of a business with a real purpose! If that sounds exciting - we would love you to join our pack!
+
+Your day to day will look a little bit like this…
+Understanding the product, and recognising how technology can shape a business’s future
+Collaborating with tech lead and product and recommending technical solutions that satisfy functional and non-functional needs;
+Ensuring the platform is performant, secure, scalable, robust, reliable and high quality, well-tested code in the critical areas;
+Informing others of blockers and communicating technical limitations or implementation misuse;
+Championing and sharing best practices to improve the team and code over time;
+
+What we’re looking for:
+3 to 4+ years working as an engineer on backend technology specifically PHP;
+Experience with Doctrine and or Symfony
+Good experience with MySQL
+Excellent understanding and experience of programming languages and paradigms (object oriented, functional);
+Integration experience of different types of external API’s;
+Experience building quality, and highly scalable backend systems;
+Enthusiastic self-starter that will be able to work in a fast-paced environment;
+Proven ability to quickly build and maintain authentic relationships and trust with individuals;
+
+Desirable:
+A mature understanding of software engineering disciplines - including design, construction, testing, maintenance and process;
+A good understanding of object-oriented design and its applicable design patterns or principles;
+A good understanding of service-oriented architecture and event-driven applications
+Experience with CRM systems and marketing automation, payment processing and customer engagement;
+
+Our backend technology stack:
+PHP 7/8 / Symfony
+Docker
+MySQL
+AWS
+PHPUnit
+
+The Good Stuff…
+Generous Annual Leave - 28 days + public and bank holidays
+Flexible Working Hours – We focus on results and trust people to manage their time, whether working from home, while travelling, or in the office!
+Help@Hand – Employee Assistance Programme
+Royal London Pension Scheme – We offer a workplace pension scheme with one of the UK’s leading providers of group pensions. With an employer contribution of 5%!
+Enhanced Maternity / Paternity / Adoption Leave – because time with new family members is important!
+Puppy Therapy – working in partnership with Paws in Work to provide a boost of oxytocin twice a year.
+Generous Learning and development budget – We always wasn’t you to keep learning.
+Free breakfast, fruits and snacks – refuel and revitalise with free munchies in the office.
+Working Environment – dogs are welcome!
+Life Assurance – In the event of your death, while employed by us, your chosen beneficiaries will be provided with a tax-free lump sum equivalent of four times your basic salary.
+Gympass – All in one subscription bringing you the largest selection of gyms, studios and apps.
+Electric Vehicle Scheme – Employees sacrifice salary in return for a new electric car, typically saving 30-40% of costs through income and tax and national insurance.
+Give Back Day – An extra day off in the year to volunteer plus a £50 contribution to your chosen charity.
+Health Cash Benefit – We offer the bronze package with enables you to claim a certain amount of cashback when you pay for something that is health related, i.e dental.
+
+Petlab Co is an equal opportunity employer that is committed to diversity and inclusion. We encourage all applications irrespective of gender, race, sexual orientation, religion, age, nationality, marital status, and disability. We believe that diversity is at the heart of innovation and we welcome passionate candidates form all backgrounds. Come join the family and see for yourself!
+Apply for this job

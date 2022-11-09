@@ -1,0 +1,15 @@
+About the job
+Project Description
+We are starting a multi-year project to build a new e-trading system. The new application will be based on Java microservice architecture backend and Angular frontend with business logic gradually migrated from an existing older monolithic app. Our frontend engineering team will be based in Spain and Portugal locations with client's partners spread all over the globe. Working in this project will let you grow your career in fintech area and learn more about financial markets, financial products and risks.
+
+Responsibilities
+- Work on development of new features for the platform closely with other teams over the globe;
+- Suggest architectural solutions for components you are implementing
+
+Skills
+- JavaScript (3 years+);
+- Knowledge of Angular 8+, TypeScript;
+- Deep understanding of HTML5 / CSS
+
+Languages
+English: B2 Upper Intermediate

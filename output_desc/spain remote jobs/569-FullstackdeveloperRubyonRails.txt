@@ -1,0 +1,35 @@
+About the job
+Nuestro cliente es una startup de impacto social disruptiva en metodologías y soluciones para la enseñanza curricular de lengua en las etapa de Primaria. Se trata de una plataforma educativa plurilingüe actualmente implantada en el territorio nacional y que se comercializa con un modelo de negocio SaaS, con la que la compañía está revolucionando la forma de enseñar las lenguas en los centros educativos obteniendo resultados sorprendentes.
+
+La visión es contribuir a transformar el modelo educativo mediante metodologías activas que estimulen en los alumnos las habilidades del siglo XXI: comunicación, creatividad, trabajo en equipo y pensamiento crítico.
+
+TU MISIÓN
+Como miembro de nuestro equipo de desarrollo, contribuirás al diseño, desarrollo y mantenimiento de nuestra interfaz basada en la web.
+
+Tu misión será:
+Participar en el diseño y la implementación de nuevas prestaciones y funcionalidades.
+Supervisar y mejorar el sistema de carga de contenidos, así como el rendimiento en tiempo de ejecución de la plataforma web.
+Participar en asegurar la compatibilidad del código de la interfaz de usuario entre navegadores y plataformas.
+Definir e implementar soluciones innovadoras para mejorar la experiencia del usuario.
+Mantener la calidad e integridad del código.
+Supervisar el almacenamiento y copia de los datos, así como prever planes de contingencia.
+
+RETO TÉCNICO
+Participar en la migración de la plataforma a tecnologías más punteras y formar parte del desarrollo de un nuevo modulo que utiliza Machine learning/IA para procesar los datos en tiempo real y predecedir el desempeño de los estudiantes y ayudar en situaciones de TDH, autismo, dislexias...
+
+TUS HABILIDADES Y APTITUDES:
+Formación: Ingeniería/grado informático con más de 2 años de experiencia en el desarrollo de software.
+Experiencia en el framework Ruby on Rails.
+Experiencia en tecnologías web (HTML, JScript, JQuery).
+Experiencia en bases de datos MySQL
+Experiencia en herramientas de analítica como PowerBI, AirBNB Superset, Tableau o QlikView.
+Persona proactiva con ganas de crecer dentro de una startup de impacto social, con capacidad de liderar el desarrollo estratégico del producto.
+Capacidad analítica y de gestión de proyectos.
+Persona positiva, creativa, empática y flexible que disfruta del trabajo en equipo
+Buenos dotes de comunicación. Se valorará un buen conocimiento de Inglés
+
+¿Estás interesad@ en trabajar en el entorno dinámico y ágil de una startup en la que puedes disfrutar de tu trabajo haciendo uso de tu iniciativa y autonomía, aprovechando tu capacidad para resolver problemas y desarrollando tu capacidad creativa?
+
+¿Estás buscando un trabajo en el que tu contribución tenga un impacto social positivo como el que provoca esta nueva metodología?
+
+Si es así ponte en contacto con; enocete@q-techrec.com

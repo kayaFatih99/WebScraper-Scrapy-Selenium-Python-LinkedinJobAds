@@ -1,0 +1,45 @@
+About the job
+Keyko is a Swiss based technology company focused on developing advanced solutions that promote the growth of Digital Ecosystems.
+
+We offer unparalleled expertise in the creation and application of large scale Web3, cryptocurrency and data sharing technologies, and are a leader in data marketplaces leveraging decentralized open source platforms like Ethereum, Celo, Filecoin, Bancor, etc.
+
+Keyko has a proven track record delivering complex Web3 and data sharing solutions encompassing access control, blockchains, smart contracts, Big Data, regulatory compliance, data governance and scalability.
+
+With the knowledge, expertise, and proven success that Keyko offers, there is no competitive alternative on the global market for building advanced ecosystems.
+
+We are looking for a new Sensei in our Dōjō: Lead Web3 Frontend Engineer to help in the design, architecture, and development of our new products and services.
+
+Our new sensei will be able to work independently, liaising between technology and business. The role requires an ability to design and build solutions using cutting edge technologies. The sensei must be driven to succeed, have an entrepreneurial mindset, and work well within the team.
+
+Enter our Dōjō
+We are a Digital Ecosystems company looking to change the world!
+We are driven by our belief in Open Source to create communal value for all participants.
+We definitely take a technical orientation to everything we do, but we’re also business savvy and combine both to develop and realize true change agents.
+We are working to make the promise of Web3 a reality by merging legacy Web2 with new solutions.
+We like to think we’re pretty cool and fun… ;)
+Responsibilities Of Our New Sensei
+Build technical solutions for Keyko and our partners through solution definition by encapsulating requirements, developing roadmaps, and understanding solution roll out needs.
+Display an understanding of engineering backlogs and requirements gathering that help establish and oversee commitment to technical priorities.
+Understand how to incorporate specifications from business and product owners into engineering designs.
+Perform development and maintenance / support tasks on solutions.
+Identify gaps in solution designs and be able to recommend solutions.
+Your obi (belt) designates
+Ability to work as a teammate for the good of the Dōjō.
+5 or more years of experience in engineering solution and design with some experience as a team lead.
+Strong knowledge of ReactJS/Redux and Typescript.
+Strong understanding of Solidity and token standards.
+Solid experience with Ethers and Hardhat.
+Solid experience with Subgraphs and GraphQL APIs.
+Experience with databases or search engines like PostgreSql / MongoDB / ElasticSearch.
+Experience with Javascript.
+Your obi (belt) may also designate
+Proven ability to architect and develop novel solutions, products, and ventures.
+Experience with DevOps cultural principles, practices and technologies.
+Understanding of blockchains and multi-chain architecture.
+Understanding of decentralized file systems (such as IPFS, Ceramic).
+Understanding of identity solutions (such as IDX, Verifiable Credentials).
+What’s in the Dōjō?
+Competitive compensation.
+Work remote first model.
+Offsites, live events for the different teams (Lisbon, Berlin, Zurich, Spain).
+Fantastic teammates!

@@ -1,0 +1,35 @@
+About the job
+Project Description
+Luxoft is one of the major software services companies world-wide. We deliver professional software services in multiple business verticals such as finance, automotive, and digital transformation. Supporting large vehicle manufacturers in the area of development, production and aftersales is Luxoft's ambition.
+
+We're seeking a strong and creative Software Developer eager to solve problems of scale and work on cutting edge and open-source technologies. In this project, you will have the opportunity to write code that will impact thousands of users every month. You'll implement your critical thinking and technical skills to develop cutting edge software, and you'll have the opportunity to interact with teams across disciplines.
+
+
+Join our Development Centre in Spain and become a member of our open-minded, progressive and professional team. In this role you will be working on projects for one our world famous clients. You will have a chance to grow your technical and soft skills, and build a thorough expertise of the industry of our client. On top of attractive salary and benefits package, Luxoft will invest into your professional training, and allow you to grow your professional career.
+
+Responsibilities
+- Design and development of core applications in Angular
+- Participate in customer and stakeholder meetings to discuss requirements and issues
+- Participate in test, deploy, maintenance and improvement of the software.
+- Work with QA, product management, and operations in an Agile environment.
+- Participate in the resolution of production issues and lead efforts toward solutions.
+- Maintain technical infrastructure (continuous integration, automated deployment)
+- Task decomposition and estimation
+- Peer review, mentoring
+- Bug fixing, test writing
+
+Skills
+Must have
+- Minimum of three years' experience in front-end development
+- Experience in building complex applications in Angular (version 4+)
+- Expert in HTML5, CSS, SCSS, Typescript, JavaScript, RXJS, ES6
+- Experienced in Redux/NGRX, Automated testing experience with Jasmine/Karma
+
+Nice to have
+- E-Trading Knowledge
+- Event Driven Architecture
+- Terraform
+- Spanish
+
+Languages
+English: C1 Advanced

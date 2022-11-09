@@ -1,0 +1,32 @@
+About the job
+Zeguro, a part of The Hartford Steam Boiler Inspection and Insurance Company (HSB) has an exciting opportunity to join our innovative cybersecurity SaaS team. We are looking for an individual for the position of Software Engineer, Full Stack Developer.
+
+Our team (www.zeguro.com) at HSB is responsible for the Zeguro Cyber Safety solution that makes it easy for small businesses to protect themselves from cyber attacks. Join our team (based in the San Francisco bay area) to help millions of businesses be cyber safe.
+
+This position is responsible for:
+Delivery of new technical features for a unique cybersecurity SaaS solution designed for our small business customers.
+The design, implementation (write high quality and secure code), and testing of application software.
+Troubleshooting, debugging, maintaining and improving existing software.
+Working closely with the team to scope engineering requirements for a particular feature.
+Continuously helping to improve our engineering culture, including practices and processes.
+
+Education and Experience:
+Bachelor's degree in computer science, or equivalent work experience
+2+ years of experience in software engineering
+Experience writing code in JavaScript/Typescript, HTML5, CSS3 or related application
+Experience with front end technologies and frameworks, preferably with React
+Experience with application, network, or cloud security
+Knowledge and Skills:
+Computer science fundamentals and strong problem solving and analytical skills.
+Familiarity with version control systems (Git, SVN, etc.).
+Understanding of agile software development lifecycle and devops principles.
+API design and development experience. Node JS experience desired.
+Preferred ability to write unit tests. Ideally has experience working with some testing frameworks such as Mocha, Jest, etc.
+Experience with building and architecting microservices
+Preferred understanding of SaaS (Software as a Service) product architectures, AWS/Azure/Google Cloud Stack, and networking.
+Required strong verbal and written communication skills, including the ability to communicate and explain technical decisions made.
+
+We offer a Comprehensive Benefits package and a generous Paid Time Off policy.
+
+At The Hartford Steam Boiler, a subsidiary of Munich Re, we see Diversity and Inclusion as a solution to the challenges and opportunities all around us. Our goal is to foster an inclusive culture and build a workforce that reflects the customers we serve and the communities in which we live and work. We strive to provide a workplace where all of our colleagues feel respected, valued and empowered to achieve their very best every day. We recruit and develop talent with a focus on providing our customers the most innovative products and services.
+We are an equal opportunity employer. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.

@@ -1,0 +1,19 @@
+About the job
+Role: Android Developers (Mids & Seniors)
+Location: Multiple UK Locations
+Salary - £45,000 - £85,000
+
+Trust in Soda are currently looking for a number Android Developers to join one of our clients, a leading Digital Agency who are looking to scale out their Mobile Team.
+
+You will be joining an innovative team that see over millions of users across their mobile applications and you will have the chance to collaborate with other talented developers throughout the business on some exciting greenfield projects.
+
+Looking for experience in:
+Strong experience in Kotlin.
+Ideally some experience working with RxJava or a related Reactive programming language / tool
+Must have experience testing, ideally Unit Tests or UI Tests
+Experience with architectural patterns – MVVM, MVP, MVC etc
+Highly Proficient in writing quality code, SOLID principles
+Dependency Injection experience would be ideal
+
+
+If you’re looking for a new opportunity and would like to learn more, I’d love to hear from you!

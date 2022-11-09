@@ -1,0 +1,58 @@
+About the job
+Senior Back-end Engineer
+
+Velocity Tech is partnered with one of the largest insurance providers in the world! This company pretty much provides niche insurance for some of the largest corporations on the planet
+
+They are big believers in using the right tool for the job, focusing on outcomes over output. We're taking our first steps towards an MVP, but here's a snapshot of our foundations:
+
+They use Python as both our primary product language and for our Machine Learning models.
+Our Machine Learning models utilise AWS SageMaker to train and deploy.
+Our Python APIs are built with FastAPI, containerised, and deployed to AWS ECS.
+Terraform manages our AWS infrastructure, ensuring consistency.
+Foundational Functional programming paradigms and types are employed to provide more meaningful, typed, and safe code. But we’re not writing Haskell or OCaml here.
+Our front-end consists of a statically deployed Typescript-based React application, emphasising hooks and functional components.
+The front-end is built with Vite and served by AWS CloudFront (via AWS S3).
+They use TailwindCSS, HeadlessUI, ****and PostCSS to build User-delighting experiences rapidly.
+Cypress and Storybook help provide consistency through Design Systems and business requirements.
+Buildkite ensures we can move quickly, only building and deploying what’s changed.
+
+You'll ideally
+Operate with a DevSecOps mindset, putting security, reliability, and observability at the forefront.
+Have experience with Python and FastAPI, or similar.
+Be familiar with the benefits of using types - we use mypy & Typescript.
+Knowledge of various forms of testing and when they should best be applied, e.g. e2e, property-based, integration, functional, unit.
+Be able to communicate clearly, concisely, and respectfully to technical and non-technical parties alike.
+Be an experienced mentor to your peers.
+Thrive in a culture of collaboration, iteration, and learning.
+
+What your next six (6) months could look like
+Working with our Data teams to help drive Model Execution times down, through infrastructure, code, or execution mode changes.
+Aid in the first stage of our MLOps rollout with a focus on:
+Automated (Re)-Training
+Review and Governance
+A/B Testing
+Deployment
+Monitoring
+Strengthen all of our services to withstand a projected 20x increase in volume over the course of 2023.
+Incorporate sockets to provide real-time updates to our clients, bringing collaboration features to life.
+Assemble robust feature flagging to allow more rapid deployment of changes, separating the deployment of changes from the rollout of changes to Users.
+Create new internal tooling to supercharge our Developer Experience (DX), making Engineering processes/tasks more efficient, less burdensome, and safer.
+Mentor and help grow our Engineering and Data teams.
+
+It'd be nice if you
+Have experience with functional programming.
+Have experience developing applications in a regulated environment.
+Have experience working in a fast-paced start-up/scale-up environments.
+Have knowledge or experience in financial markets, e.g. Fintech, Insurtech.
+
+Regulatory Conduct and Rules
+This company follows a set of prescribed conduct and rules:
+Act with integrity.
+Act with due skill, care, and diligence.
+Be open and cooperative with Lloyd's, the FCA, the PRA, and other regulators.
+Pay due regard to the interests of customers and treat them fairly.
+Observe proper standards of market conduct.
+
+We want to foster a culture where everybody feels included, heard, and equal regardless of position, age, disability, gender, relationship, parental status, race, or beliefs.
+
+PLEASE NOTE: this role requires a right to work in the UK!

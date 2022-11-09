@@ -1,0 +1,43 @@
+About the job
+Are you an experienced technology professional with excellent communication skills? Are you passionate about your craft, always working on improving yourself and challenging the status quo?
+
+Do you want to be part of the journey to take our codebase to the stars and beyond? Then look no further as we are looking for you to join us as our new Senior Full Stack Developer!
+
+This is a fantastic opportunity to join a growing, highly skilled and forward-thinking international team, working in a dynamic and fast-paced iGaming environment.
+
+What will you get up to day to day?
+Providing expertise and knowledge on both Backend and Frontend applications.
+Leading external integrations and installations of new products and services.
+Creating and maintaining awesome web apps using modern development stacks.
+Crafting great looking user interfaces and constantly improving user experience.
+Ensuring cross-platform and cross-device operability.
+Optimising our apps from a performance and SEO perspective.
+Keeping documentation up to date.
+Living and breathing standards and best practices.
+Never delivering half products or stinky code behind.
+Coming up with initiatives that bring value to the business.
+
+Requirements
+Must have:
+
+Strong Javascript skills, with a minimum of 3 years of development experience
+Deep knowledge of modern HTML, CSS and Javascript (e.g. Typescript)
+Experience with at least one modern frontend development stack (e.g. Angular, React, Vue.js)
+Experience with multiple backend languages and their frameworks (e.g. Node.Js, PHP, Java and their frameworks)
+Practical experience with Node.js, SQL and NoSQL data stores (e.g. MySQL/PostgreSQL, MongoDB, Redis)
+Experience with modern development tools (e.g. frameworks, package managers, build tools)
+Experience with Agile software development
+Experience with source control (Git)
+Proactive attitude
+Strong interpersonal skills, team play
+Strong troubleshooting skills
+
+Nice to have:
+
+A degree in Computer Science or technical certifications will be considered an asset
+Some Linux knowledge and scripting/bash-fu/automation are highly appreciated
+What's in it for you?
+
+Being part of a young, dynamic and innovative company.
+Building something great and having fun doing it.
+Becoming the best version of yourself, developing your skill-sets and experience.

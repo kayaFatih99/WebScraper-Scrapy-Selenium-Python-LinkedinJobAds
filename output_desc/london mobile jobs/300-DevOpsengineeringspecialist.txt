@@ -1,0 +1,37 @@
+About the job
+Who are we?
+We're a software development company building the world's Elastic Workforce, reinventing work and challenging the assumption that a local team = the best team.
+We help businesses deliver technical projects better than ever before through our platform and on-demand Elastic Teams™.
+What's in it for you? Our mission is to create freelance jobs with more benefits than permanent.
+Want to know more? read: https://distributed.co/about
+
+About the Job
+You will bring knowledge and experience of continuous integration, continuous testing, continuous delivery and continuous deployment. You will be working with others to identify the best approaches and tools available, delivering technical designs and implementations to stakeholders and colleagues. You will be working with suppliers to get the best out of tools and technologies while also looking for new and innovative ways of delivering higher value. You will help bring culture change through an ‘Automation first’ approach.
+
+
+Responsibilites
+· Creates and implements technical solutions for a domain or cross domains/portfolios of work within a specific technology area autonomously, understanding how solutions impact systems internally and/or externally and assessing the impact of change.
+· Provides technical quality assurance overwork of other engineers through the matrix team structure.
+· Provides sound technical expertise to consult on significant component(s) of a technical solution within a specific domain or cross-domain.
+· Identifies opportunities to improve standards of practice within a project, continuously enhancing ways of working.
+· Delivers resolutions to problems that tend to be complex, cross-domain or of high impact to customers.
+
+
+Requirments
+· Extensive Experience developing and supporting CI/CD Pipelines
+· Be an experienced software developer with a solid understanding of the importance of test-driven development, shared code ownership, pairing, agile principles, and technical debt management. Python essential.
+· Experience working with traditional operations teams and integrating them into a DevOps culture
+· Experience using GIT and Nexus essential – including a good understanding of how we can treat all artefacts as code (config, infrastructure, etc.)
+· Experience troubleshooting complex systems highly desirable
+· Background in Mobile networks highly desirable
+· Ability to apply knowledge/skills to a range of standard and non-standard activities
+· Extensive Experience developing and supporting CI/CD Pipelines
+· Be an experienced software developer with a solid understanding of the importance of test-driven development, shared code ownership, pairing, agile principles, and technical debt management. Python essential.
+· Experience working with traditional operations teams and integrating them into a DevOps culture
+· Experience using GIT and Nexus essential – including a good understanding of how we can treat all artefacts as code (config, infrastructure, etc.)
+· Experience troubleshooting complex systems highly desirable
+· Background in Mobile networks is highly desirable
+· Ability to apply knowledge/skills to a range of standard and non-standard activities
+· Communicating effectively with customers, suppliers and other team members – understanding of own communication style and how to adapt information and messages to audience
+· Advocating and applying technology where it has not been used previously
+· Taught your team how to do their roles more effectively

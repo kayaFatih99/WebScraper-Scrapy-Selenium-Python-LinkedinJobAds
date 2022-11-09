@@ -1,0 +1,47 @@
+About the job
+Back end Developer
+An exciting mid-level position has become available for a full-time back end Developer at Camden A.I.
+Camden A.I. is an innovative data-centric consultancy that is London based. We work within a variety of sectors, on varied exciting projects across the globe.
+As a backend developer, you will feel at home working on various back office integrations, creating APIs, integrating external APIs and working with T-SQL.
+
+What will you do?
+• Work within the development team.
+• Programming new features and functions as well as maintaining existing platforms.
+• Working on projects to improve scalability and stability.
+• Translating complex functional and technical requirements into detailed product plans and product implementations and/or integration.
+• Integrating with external technologies and APIs.
+• Monitor and report on the progress of the projects to a Technical Manager.
+• Hands-on development.
+• Troubleshoot and identify issues, as well as develop high-end applications for end-users and businesses.
+
+What does the ideal candidate look like?
+• 2+ years programming experience.
+• Ideally Educated to BSc Computer Science (or a related discipline) - An equivalent level of job experience may also be considered
+• C# knowledge with .NET Core experience.
+• Hands-on experience with creating REST APIs using ASP.NET Web API.
+• Microsoft SQL Server knowledge, other RDB experience is a plus.
+• Familiarity with writing Unit Tests and the ability to write well-commented code, and the ability to use Version Control.
+• Familiarity with working as part of an Agile development team.
+• Knowledge of, and ability to implement professional coding practices and standards.
+• Strong team player who enjoys collaborative working.
+• An excellent communicator that can speak and guide our clients to solutions.
+• A self-motivated individual who can work in a demanding environment to strict timelines and be self-driven, whilst maintaining the standards of the company.
+• Creative, innovative thinker with good problem-solving skills.
+Skills and qualifications, you will need to demonstrate:
+• Experience working with C# and the .NET core framework
+• T-SQL knowledge including stored procedures.
+• Experience working in an Agile environment,
+• Knowledge and understanding of Unit Testing.
+• Experience building Digital Services / Software Applications
+• Excellent communication skills, verbal and written
+• DevOps skills including Git and CI/CD pipeline creation.
+• Nice to haves include: Azure DevOps experience, Cloud Experience (Azure), Some knowledge of front end technologies (HTML5, CSS3, JavaScript, React)
+
+What you get from us
+• 28 Days holiday (including bank holidays)
+• Training and Career progression
+• Dedicated Mentoring
+• Hybrid working
+• Company Pension Contributions (after probation period has ended)
+• Discretionary bonus based on company and personal performance.
+• Working on stimulating and exciting projects

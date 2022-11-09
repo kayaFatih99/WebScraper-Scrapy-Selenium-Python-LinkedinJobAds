@@ -1,0 +1,19 @@
+About the job
+The role:
+This is an exciting opportunity to join our new tech hub in London. You will work closely with our Technology team in Tel Aviv and will be part of a highly skilled and enthusiastic team, determined to develop new solutions that have the potential to transform the future of financial services.
+As a Senior Backend Developer you will design, implement and own server components, micro-services in Java/Kotlin in a cloud environment.
+Responsibilities will include:
+Lead and be accountable for server components and micro-services written in Java/Kotlin Spring and JPA.
+Be accountable for quality, performance, scalability and security of system components
+Adhere to highest development standards – including clean code methodologies, code reviews, unit tests and integration tests.
+Research and experiment with new technologies and advocate proper adoption
+Oversee development within the team and leverage experience to suggest process improvements
+Requirements
+Degree in Computer Science or equivalent
+5+ years’ experience in back-end development using Java and Spring framework
+Proven practical experience in micro-service architecture
+Experienced in data modeling, RDBMS, SQL and ORMs
+Experience with AWS services and ecosystem is an advantage
+Passionate about technology, ability to research new technology, determine best practices and educate other developers
+Ability to work independently and proactively come up with innovative solutions
+Team player with excellent interpersonal & communication skills

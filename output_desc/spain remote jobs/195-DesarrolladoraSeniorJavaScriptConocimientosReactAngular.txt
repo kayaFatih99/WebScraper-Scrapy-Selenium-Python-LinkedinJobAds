@@ -1,0 +1,30 @@
+About the job
+¡Te estamos buscando para formar parte de un ‘Equipaso’: La Familiaat en la que te recibiremos con los brazos abiertos y el corazón ❤️ lleno de alegría. ¿Todavía no te hemos convencido? ¿Y si te decimos que somos como la ‘Familia Von Trapp’ y cuidamos a los nuestros más que en Sonrisas y Lágrimas? Estamos llenos de sueños por cumplir y ¡te necesitamos!
+
+
+Ampliamos nuestra comunidad Front-End. Buscamos un/a Desarrollador/a Senior JavaScript, con experiencia de al menos 4 años y conocimientos avanzados en:
+JavaScript moderno
+ECMAScript
+Service Workers
+DOM
+Herramientas de desarrollo asociadas al navegador
+Local Storage
+Gestión de paquetes y versionado (NPM, ...)
+Github
+Se valora positivamente experiencia y conocimientos en React, Angular.
+
+En atSistemas utilizamos la tecnología para estar cerca, nos profesionalizamos, investigamos, creamos y vendemos nuestras propias creaciones, nos certificamos, realizamos eventos, nos 𝐝𝐢𝐯𝐞𝐫𝐭𝐢𝐦𝐨𝐬 💃 y por supuesto, para ayudar a impulsar y hacer realidad los proyectos de nuestros clientes.
+
+¿Cómo te podemos ‘conquistar’ nosotros?
+Tenemos Dress Code: Sí, en pijama, chándal o con tacones 👠 porque vas a elegir la modalidad de teletrabajo que quieres hacer y el horario, además del sitio desde el que te conectarás cada día: Si quieres hacerlo desde Maldivas 🌅, ¿quiénes somos nosotros para impedirlo?
+Queremos que te des un capricho por tu cumpleaños: porque, ¡hay sorpresa! No nos olvidamos de las fechas importantes.
+Do you speak english? Si quieres cantar a pleno pulmón las canciones de los Rolling, te ofrecemos clases de inglés, para que, además de cantarlas, las entiendas.
+Diversión, porque creemos que el trabajo no es solo un sitio, sino una gran Familia en la que nos lo pasamos bomba 💣: con escape rooms, concursos de televisión y otras muchas actividades 🎮♟.
+Sabemos que te gusta comer en restaurantes y que a veces no vas para no gastar tanto dinero. Con la 𝐫𝐞𝐭𝐫𝐢𝐛𝐮𝐜𝐢ó𝐧 𝐟𝐥𝐞𝐱𝐢𝐛𝐥𝐞 en tickets restaurante podrás ahorrarte unos eurillos. También en cheques guardería, tarjeta de transporte y seguro médico. 🍕🍼🚈💊
+¡Los eventos son lo nuestro! Tenemos dos grandes congresos además de webinars, formaciones internas hechas por técnicos de atSistemas o meetups.
+Y si todo esto te parece poco, tenemos 𝐦𝐮𝐮𝐮𝐜𝐡𝐚𝐬 𝐬𝐨𝐫𝐩𝐫𝐞𝐬𝐚𝐬 que vamos realizando a lo largo del año.
+¡Los eventos son lo nuestro! Tenemos dos grandes congresos además de webinars, formaciones internas hechas por técnicos de atSistemas o meetups.
+
+Celebramos mas de 2.000 talentos pero, ¡nos faltas tú!
+
+#FamiliaAt #Joinus @atsistemas

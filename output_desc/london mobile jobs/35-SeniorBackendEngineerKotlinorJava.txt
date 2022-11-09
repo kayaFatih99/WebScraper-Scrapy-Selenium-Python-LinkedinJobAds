@@ -1,0 +1,65 @@
+About the job
+About Skedulo
+
+Description
+
+Founded in 2013, Skedulo is a fast-growing SaaS company headquartered in San Francisco and with offices in Australia, Vietnam, and the United Kingdom, we are seeking an experienced Engineer to join our team and help shape the future of our technology environment. If you're drawn to solving interesting hard problems, Skedulo is for you. Over the past 20 years, less than 5% of software investment has been focused on the needs of the world's 2.7 billion mobile workers, and the mobile workforce is our sole focus. Join us as we build a scalable platform for the world's largest brands working with the most respected technology partners.
+
+About The Role
+
+A fully remote role (with lots of meetups) working in the Platform team, as a Backend Engineer in our platform team, you’ll find yourself building core architecture and capabilities that enable our clients and internal development teams to build customised experiences on Skedulo rapidly. You will contribute to our metadata-driven UI products and automated workflow engines. You will be able to use modern tools and processes to hone your skills and have opportunities to mentor and lead while you rapidly develop professionally.
+
+As a Senior Engineer, you will produce and implement functional software solutions on our platform services. You will work with Product Managers, Designers and other Engineers in a cross-functional team to implement key features that will provide tangible results to the success of the company.
+
+We primarily use Kotlin for our backend services but if you're an experienced Java engineer and willing to learn Kotlin then don't let your current lack of experience there hold you back, we will give you the time and space to learn.
+Day to Day
+Working closely with your peers in the team, pair programming, planning, solving issues, helping to both build and design our services and working as a team to deliver.
+Writing and reviewing code from the sprint backlog in line with best practices.
+Assisting in driving squad sprint execution to ensure timelines are met without compromising on quality.
+Anticipate and communicates blockers or delays for your work (or your squads)
+Triaging escalated issues related to our platform services and providing resolution or advice in a timely manner.
+Although your primary skills might be in working across the BE, we want our engineers to think about being T Shaped and getting some experience of the Full Stack, if you don't have experience in the Front End that's fine as long as you have a desire to learn.
+Technical Duties
+Consistently writes production-ready code that is easily testable, easily understood by other engineers, and accounts for edge cases and errors.
+Provide technical advice and weighs in on technical discussions/decisions that impact the team.
+Are we building the right things in the right way? What can we improve?
+You may be required to participate in your squads on-call rotation as part of supporting the services your squad owns.
+Communication & Leadership Duties
+Communicate within your team in an effective, clear, concise manner in both written and verbal form on technical and non-technical subjects.
+Help your fellow team members overcome obstacles, resolve blockers, and complete the work in the sprint.
+You work as a team to deliver as a team and are all responsible for the quality of the product you build.
+Mentoring more junior teammates in an open, respectful, flexible, and empathetic manner.
+Requirements
+Must have at least 5 years commercial experience working with various server side technologies
+Experience working in a cloud-hosted environment
+Must have at least 1 years experience working on microservices
+Must have at least 2 years commercial experience working with Kotlin or Java
+Experience working with unit and integration testing patterns
+Experience working with agile development methodologies
+Preferred Requirements
+
+Any of the following is a bonus but not required.
+Using Kotlin for backend services
+Any experience working in a DevOps type environment
+Have a team player mentality, quick on their feet, agile, and aren't afraid to speak up and voice their opinion.
+Some prior experience setting up and contributing to CI/CD environments
+Some experience with functional programming patterns and practices
+Experience working with GraphQL
+Benefits
+100% remote work environment with a wework subscription so we can use offices when we need to.
+Monthly remote work stipend (£120)
+Company Pension Match (3%)
+Competitive salary
+Private Healthcare Plan
+8 Mental Health paid days off per year
+3 Paid Volunteer Days per year
+Paid Calm App Subscription
+28 days paid leave per year
+8 days of public holidays per year
+Stock Options/ Equity
+Paid Parental Leave for both carers
+Learning & Development Stipend and 10% time to use it
+Employee Referral Bonus
+Fun, creative and fast-paced working environment
+Competitive salary
+Health Insurance

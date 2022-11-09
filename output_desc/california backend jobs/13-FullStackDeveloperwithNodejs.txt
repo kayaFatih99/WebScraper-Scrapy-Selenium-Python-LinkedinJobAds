@@ -1,0 +1,32 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Yorkshire Global Solutions Inc., is seeking the following. Apply via Dice today!
+
+Title: Full Stack Developer (with Nodejs)
+
+Min Exp: 10+ Years
+
+Job Description:
+
+IN THIS ROLE YOU WILL:
+
+Provide senior level system analysis, design, development, and implementation of applications and databases. Integrates third party products.
+Translate technical specifications into code for complex new or enhancement projects for internal clients. Writes programs, develops code, tests artifacts, and produces reports. Employ software development techniques to ensure tests are implemented in a way that support automation.
+Elevate code into the development, test, and production environments on schedule. Provide follow up production support. Submits change control requests and documents.
+Thoroughly understand software development methodology. Thoroughly understand development architecture standards. Train and mentor staff with less experience. Resolve elevated issues.
+Participates in design, code, and test inspections throughout the life cycle to identify issues. Explain technical considerations at related meetings, including those with internal clients. Perform systems analysis activities.
+Thoroughly understand client business functions and technology needs. Have a broad understanding of Vanguard's technologies, tools, and applications, including those that interface with business area and systems.
+Interface with cross functional team members, and communicate systems issues at the appropriate technical level for each audience.
+Thoroughly understand and comply with Information Technology and Information Security policies and procedures and verify that deliverables meet requirements.
+Participate in special projects and performs other duties as assigned.
+
+SPECIALIZATIONS THAT WILL MAKE AN IMPACT:
+
+Expertise in DB development (SQL, Postgres)
+Expertise in REST-full services development (Java/Kotlin, Spring, Node/Express, Typescript)
+Background using modern frontend frameworks: Angular, React, or Vue
+Background working with AWS technologies: CloudFront, S3, ECS, IAM, RDS
+Ability to work in an Agile team environment
+Ability to learn new tools quickly
+Ability to work effectively with Product Owners and Designers
+Experience working with CI/CD tools such as Bamboo, Jira, Bitbucket, etc. is a must
+- provided by Dice

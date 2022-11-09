@@ -1,0 +1,32 @@
+About the job
+Mid–Senior Backend NodeJS Engineer
+
+Permanent
+London (fully remote)
+Salary - £70,000K - £100,000K
+My client is looking for a Senior Backend Engineer to join their dynamic engineering team. If you are interested in all things music this could be the role for you!
+
+You will be working for one of the top leaders in music platforms which provides clients and brands to connect to the music catalog.
+
+In this role, you will be hands-on throughout the end-to-end delivery of new features while maintaining the upkeep of the company's services.
+
+Must Have
+Nodejs
+PostgreSQL & Redis
+TDD
+
+Job Responsibilities
+Design and implement web design techniques
+Maintain web applications user interfaces
+Working with other team members to support functions
+Ensure all coding standards are up to date
+Monitor website performance
+Fix usability issues
+
+
+Contract Type – Permanent
+Location – London (fully remote)
+Salary - £60,000K - £90,000K
+
+Please note that this Role does not offer Visa Sponsorship.
+If you think you are the candidate for this role and wish to find out more, please contact me via 07458161353 or email me at sophia.osman@exploreltd.com

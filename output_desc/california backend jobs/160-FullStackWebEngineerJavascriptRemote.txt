@@ -1,0 +1,74 @@
+About the job
+Infinite Reality is a Metaverse innovation and entertainment company defining the future for brands and consumers. The Metaverse will be transformational in the way brands interact with their audiences, and Infinite Reality is on the bleeding edge. We create ownable metaverse spaces for brands, celebrities, athletes, and performers looking to engage audiences in novel ways and provide VIP experiences in an interactive digital environment.
+
+
+The Job
+
+
+Full Stack Web Engineers will design, develop and support high visibility web applications for world class brands. Consumer and brand facing web apps will serve as the authentication and entry point for visitors to enjoy immersive experiences delivered through game engines such as Unreal Engine and Unity, as well power the experiences through configuration consoles. Our product offering requires a seamless User Experience (UX) delivered through modern Javascript-based technology such as Typescript, Angular, Nest.js, Node.js and GraphQL.
+
+
+
+Responsibilities
+
+
+Meeting with the software development team to define the scope and scale of web application projects
+Designing software system architecture
+Completing data structures and design patterns
+Designing and implementing scalable web services, applications, and APIs
+Developing and maintaining internal software tools
+Writing low-level and high-level code
+Troubleshooting and bug fixing
+Identifying bottlenecks and improving software efficiency
+Collaborating with the design team on developing micro-services
+Writing technical documents
+
+Requirements:
+
+4+ years of advanced Javascript experience (Typescript, Angular, and Node.js required)
+Experience with traditional databases, namely MongoDB and PostgreSQL
+Experience with Nest.js and GraphQL
+Advanced problem-solving and troubleshooting skills
+Familiarity with JavaScript frameworks
+Good communication skills - conversational and written English
+High-level project management skills.
+Able to collaborate, partner with, and learn from other skilled engineers and architects
+Conversant with Git
+Familiar with user story and collaboration tools such as Jira
+Creative, empathetic, optimistic, and curious
+Adept at communicating technical concepts clearly and precisely
+Able to quickly iterate and improve
+A perpetual learner and teacher
+
+Preferred
+
+
+Experience with Amazon Web Services infrastructure
+History working in a fully remote, global team environment and culture
+Location preference in North America, or Europe (Northern, Central, Western, Southern)
+
+Benefits:
+
+Health Care Plan (Medical, Dental & Vision)
+Retirement Plan (401k)
+Life Insurance (Basic, Voluntary & AD&D)
+Paid Time Off
+Public Holidays
+Family Leave
+Short Term & Long Term Disability
+Wellness Resources
+
+
+
+
+
+Infinite Reality is an Equal Opportunity Employer. Infinite Reality's policies prohibit discrimination against any applicant or employee based on actual or perceived race, age, sex or gender (including pregnancy), marital status, national origin, ancestry, citizenship status, mental or physical disability, religion, creed, color, sexual orientation, gender identity or expression (including transgender status), veteran status, or any other characteristic protected by applicable federal, state or local law. Infinite Reality also prohibits harassment of applicants and employees based on any of these protected categories.
+
+
+Infinite Reality will provide accommodations to applicants needing accommodations to complete the application process.
+
+
+All your information will be kept confidential according to EEO guidelines.
+
+
+Not currently accepting applicants residing in Colorado.

@@ -1,0 +1,69 @@
+About the job
+Everything happens somewhere - which is why spatial analytics is fundamental to companies trying to understand the “where” and the “why” of their business. CARTO is the leading cloud-native location intelligence platform, trusted by data scientists, data analysts and developers from companies such as Vodafone, IKEA, BT, Coca-Cola and Mastercard to provide geospatial insights for use cases such as site selection, geomarketing, route optimization, network planning and much more.
+
+With an exceptionally diverse team of 150 people spread across the US and Europe, CARTO (backed by Accel Partners, Salesforce Ventures, Earlybird Ventures, and Kibo Ventures, among others) is changing the way companies analyze location data - making it simple to do this straight out of modern, cloud data warehouses. Redefining its category, the company has grown rapidly in recent years providing a compelling alternative to legacy GIS software.
+
+CARTO with its new CARTO 3 platform has built the most advanced location intelligence platform which connects directly to the most used Data Warehouses in the industry such as Google’s BigQuery, Amazon Redshift, Snowflake and Databricks; thus, allowing our partners and customers to do location intelligence and geospatial analysis directly where their data lives opening limitless possibilities for their businesses.
+
+What are we looking for?
+
+We are looking for an experienced Backend Engineer to join CARTO’s product team to build the next generation geospatial platform running on top of the most popular data warehouses: BigQuery, Snowflake, Redshift, and Databricks.
+
+Our mission is to provide an easy way to work with geospatial data on those data warehouses, we want to compute on them because it allows our customers to work with huge datasets (hundred of GBs or TBs) and because our customers don’t need to move their data out of their warehouses. More info at https://carto.com/blog/enhancing-geospatial-in-bigquery-with-carto-spatial-extension and https://carto.com/blog/announcing-carto-bigquery-tiler-general-availability/
+
+In CARTO we work at a large scale. And when we say large scale, we mean it. Rough numbers:
+
+Tens of millions of map views per month
+Thousands of customers. Hundreds of thousands of users
+Thousands of databases
+Billion API calls per month
+
+If you love to be in contact with top engineers around the world in geospatial, this is your place!
+
+Location
+
+The position is open to remote. In fact, we are mostly working remotely now, but we have offices in Madrid and Seville in Spain. So ideally, you would be in a compatible time zone with Central European Time, but we are flexible.
+
+You will
+
+Build the next-generation geo-analytics platform for analysts, developers and data scientists
+You will lead some internal projects in the backend team (define scope, estimations, write backlog, organize test plans, etc)
+Push BigQuery, Snowflake, Redshift and Databricks to the limit. You’ll also understand the internals of these data warehouses. You’ll have regular meetings with the geo team leads of those data warehouses
+Work side by side with the team lead to help solve technical challenges
+Communicate periodically with your work team, via Slack and daily meetings
+Help to define, plan and organize work tasks in 2-week iterations with Shortcut
+Apply good development practices: clean code, testing, documentation, and code reviews
+Contribute to open-source projects in GitHub (part of our work is open-sourced!)
+Be ready to work and collaborate with engineers from open-source communities like PostgreSQL, GeoParquet, GDAL, Vis.gl, PyData, and from companies like Uber, Microsoft, or Google
+You offer
+
+Initiative, proactivity, a can-do attitude, and eagerness to learn! Curiosity, energy, and a collaborative mindset (code reviews, pair programming, promote teamwork, succeed together)
+Experience having managed projects taking a role of lead developer inside the team
+A solid 5+ years of experience as a backend developer with a mature approach to the job (git/GitHub, documentation, testing,...)
+3+ years working with Node JS and SQL databases
+Ability to help increase the technical level of the backend team
+Demonstrable experience in building APIs and authentication
+You’ve worked before with Typescript and Docker
+Nice to have
+
+Experience working with geospatial technology. Ideally, PostGIS, S2, H3
+Demonstrable work with Redshift, BigQuery, Snowflake or Databricks
+Knowledge of high-performance databases and distributed computing
+Experience with Google Cloud Platform or AWS
+We offer
+
+Competitive, results-based compensation, plus an annual bonus of up to 10% based on company objectives
+Contribute to a platform used by top companies around the world. Your work will have a direct impact on our users and clients
+Access to our Employee Stock Options Plan
+Private Medical Insurance
+Flexible work hours in a focused but casual environment
+Education Stipend
+Flexible compensation
+English classes
+To apply
+
+Provide us your resume and a letter explaining your interest. Be sure to let us know why you’re a great match for this role and for CARTO!
+
+Diversity of identity, perspective, and experience makes us stronger. We welcome you to apply to CARTO regardless of your background, gender, age, ethnicity, orientation, or ability.
+
+To learn more about us, please visit our blog or check our product, follow us on Twitter (@carto) or Instagram (@cartohq).

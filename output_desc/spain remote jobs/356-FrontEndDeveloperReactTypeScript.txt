@@ -1,0 +1,23 @@
+About the job
+Front End Developer Remote / Spain to €70k
+
+Front End Developer (React TypeScript) *Remote*. Are you looking for a highly impactful and rewarding Front End Developer role where you can use your skills to help students around the world receive life-changing education?
+
+You could be joining a unique company that adopt a broad tech stack (React TypeScript and Node.js) where you can develop new skills and reach your full potential as a Front End Developer.
+Successful technology company that provides educational services to students and teachers across the world is seeking a Front End Developer to join their team. You will play a key role in enhancing and maintaining features for a successful self-study and online classroom platform built in React, TypeScript, and Node.js that will be used by millions of students and teachers across the globe. The team have some large, complex projects in the pipeline including building a brand-new real-time booking system and replacing their self-study platform to make it responsive.
+
+For this role you can work remotely from anywhere across Spain.
+
+Requirements:
+You have good Front End development experience
+You have a software development background with React and TypeScript
+You have a good understanding of Computer Science fundamentals e.g. Object Orientated Programming
+You have an appreciation of well designed, scalable code
+You are fluent in English
+You have excellent communication and collaboration skills
+
+As a Front End Developer you can expect to earn a competitive salary (up to €70k) plus benefits.
+
+Apply today!
+
+Ref: 19411/A/AT/281022

@@ -1,0 +1,44 @@
+About the job
+Here at FIXR we’re on a mission to be the number one ticketing platform globally. Ticket sales and event management can typically be a clunky, manual process, but our platform makes it easier than ever for event organisers to create seamless, user-friendly experiences for their customers.
+
+We kickstarted our journey in 2015, and since then we’ve helped millions of people enjoy events all over the UK; whatever size or type of event, we provide a comprehensive end-to-end solution for event organisers, allowing them to not just sell tickets, but to track sales performance, craft a seamless customer journey, and build a valuable and compliant dataset. While we’ve been a leading ticketing platform in the student events industry since our inception, we’ve seen explosive growth across wider industry areas, and we’ve now got exciting plans to expand into new verticals by building out some brand-new features and taking our offering global.
+
+…this is where you come in!
+
+Our technology is at the very core of everything we do, and with a Product and Tech department of 15 which we plan to double by next year, we’re looking for smart, passionate engineers to join us and be part of delivering on our exciting new features and industry-leading solutions.
+
+What you’ll be doing:
+Building upon our existing API to support the development of new features.
+Assisting with the technical specification and architecture of new features.
+Participating in code reviews to ensure a smooth development pipeline.
+Working closely with the Product Manager to set realistic timelines.
+Helping with feature planning and exploration by providing technical input to the Product/Design teams.
+
+Core Tech Stack:
+Python - Django, Django Rest Framework
+Postgres / SQL
+
+The rest of our backend tech stack is:
+Celery
+Elasticsearch
+Redis
+Docker
+Kubernetes / Helm
+
+In return, we can offer:
+
+💰 Competitive salary plus discretionary bonus.
+
+🪑Hybrid environment. We have a brand-new office in Central London should you wish to use it, or we’re more than happy for you to work remotely.
+
+🎁 Holiday perks. Claim a bonus holiday day for every year you are with us, plus extra time off between Christmas and New Year.
+
+🕰 Flexible hours. Manage your hours in a way that suits you.
+
+🧑‍🏫 L&D budget for you and your team.
+
+👫 Inclusive, social culture. Fun and dynamic with regular socials including ski trips, escape rooms and even a spot of bingo every now and then.
+
+🎟 Free + discounted tickets for FIXR events.
+
+At FIXR, we consider diversity a strength – inclusion fuels our ability to solve problems we never thought we could. Your application will be considered on its merits, without regard to your race, age, gender, religion, sexual orientation, disability status or anything else. If there is anything we need to know to enable you to fully participate in our interview process, please just let us know in your application.

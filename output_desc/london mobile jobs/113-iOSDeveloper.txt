@@ -1,0 +1,46 @@
+About the job
+The Role:
+
+iOS Developer
+
+Skills
+Responsibilities
+• Proven iOS development in a production context
+(Swift and Objective C).
+• Woking with the Strategy and UX/UI Design teams
+as well as customer organizations to architect, design, and implement solutions.
+• Strong programming style leveraging Swift specific
+coding conventions
+• Designing, developing and productising mobile
+components and services that complete our Digital Rig – a fully automated platform and continuous delivery stack we use to bootstrap and accelerate Customer Journey Engineering.
+• Familiarity with another programming language
+(i.e. Ruby, ...)
+• Determine, apply and improve appropriate methodologies
+and toolsets for a customer’s culture and operating environment.
+• Understanding, advantages and disadvantages
+of the different iOS architectures.
+• Complete solutions by coordinating, communicating,
+and contributing to team meetings and customer engagements.
+• Familiarity with RESTful APIs to connect iOS
+applications to back end services (i.e. Promise Kit)
+• Explore up-and-coming technologies and software
+products; seize learning and knowledge sharing opportunities; maintain personal networks; participate in professional organizations. Read; teach; learn.
+• Solid understanding of iOS memory management
+and asynchronous code patterns.
+• Enhance the group’s reputation by accepting
+ownership for accomplishing new and different requests; exploring opportunities to add value.
+• Storyboards/xibs and prototyping, size classes,
+auto layout.
+• Support the team by providing advice, coaching,
+and educational opportunities.
+• Familiarity with the Xcode Instruments for
+debugging and optimisation
+• Drive collective ownership and continuous improvement
+of the codebase.
+• Confident working with version control systems
+(Git).
+
+• Strong appreciation of TDD practices.
+
+• Hands-on experience of continuous delivery
+(Jenkins).

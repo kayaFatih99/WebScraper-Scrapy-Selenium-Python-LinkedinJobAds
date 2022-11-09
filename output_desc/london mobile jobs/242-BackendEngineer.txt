@@ -1,0 +1,29 @@
+About the job
+We are one of the largest sports betting operators in the region making 1000+ location networks work across multiple geographies. If you ever wanted to see how software can handle 22 million bets per month - why not join us? You can work 100% remotely or in the office in London or Leeds.
+
+We are looking for someone with:
+
+A Bachelor’s degree in Computer Science or related discipline
+Experience developing software applications
+Excitement about technology and a willingness to learn
+A pragmatic approach to software engineering, who can strike a balance between exciting technical solutions and simpler concepts that just get the job done.
+A keen eye for clean coding, simple solutions, automated testing and continuous deployment.
+
+Bonus points:
+
+A passion for working in the cloud and automation. Experience of AWS (CloudFormation, MSK, S3, Cognito, etc..)
+An interest in Functional Programming
+Knowledge of Kafka
+
+What will you be doing?
+
+Working closely with other highly technical engineers across the UK and Europe, contributing to code reviews, product design and whiteboard sessions.
+Writing real-time microservices with high availability.
+Deploying and maintaining services in AWS.
+
+What do we offer:
+⏰ Flexible hours and remote working - Choose to work from wherever and whenever you'd like
+🏝Unlimited holidays policy
+🏅 Added Value Time program - You can spend 2 days per month working on any project you want that adds value to Superbet or our customers.
+♻️ Change teams
+Pension, private healthcare, life insurance, annual bonus and much more

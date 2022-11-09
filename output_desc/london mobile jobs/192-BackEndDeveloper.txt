@@ -1,0 +1,51 @@
+About the job
+Back End Developer
+Reporting to: Head of Applied R+D team
+Location: Battersea
+
+Foster and Partners are an award-winning British architectural design and engineering firm who put forward an innovative, modern and sustainable approach. We are based in Battersea SW London. Due to a period of sustained growth we are looking to recruit a Back End Developer to join our Applied R+D team
+
+About the role
+The Applied Research + Development team produces cutting-edge technologies, including web applications, to support Architecture, Engineering, Construction and Operations for the built environment. We take these technologies through all stages of the innovation lifecycle, from R+D prototypes through to robust production applications. We are looking for back-end developers to support this mission and deliver industry-leading solutions.
+
+In this position you will help deliver innovative web applications for Architecture, Engineering and Design. We develop a broad variety of application structures including RESTful APIs, real-time web applications and hybrid cloud/on-premise systems.
+
+Back-end developers are required to work in teams alongside front-end developers, graphic designers, and user experience designers to ensure all elements of web creation are consistent. This requires excellent communication and interpersonal skills.
+Back-end developers will write code, design solutions for applications and continuously improve functionality. To be successful, you should demonstrate excellent problem-solving skills, high-quality coding skills, and the ability to manage your time efficiently.
+Responsibilities
+Creating top-quality applications used for Architecture, Engineering, Construction and Operations (AECO) in the built environment
+Collaborating with front-end developers, computational designers, environmental engineers and other domain specialists
+Improving functionality
+Using the most current and appropriate technologies
+Designing and building application layers
+Delivering in support of all stages of application development lifecycle, including tests, CI/CD pipelines and documentation
+Qualities and Skills required
+Essential
+Degree in computer science, software development, or equivalent experience
+Extensive working knowledge of coding using .NET languages especially ASP.NET Core
+Familiarity with NoSQL databases (Azure Cosmos, MongoDB), SQL servers and object–relational mapping frameworks like Entity Framework Core
+Experience with CI/CD pipelines in Azure DevOps and Microsoft Azure
+Experience with building RESTful APIs
+Ability to scope, implement, test and deploy microservices.
+Experience in deploying complex high-uptime applications.
+Proficiency in integrating with third-party APIs
+Familiarity with common web security threats and threat mitigation. Ability to liaise with colleagues in our IT infrastructure team to ensure best practices.
+Following office-wide standards for coding, user interface and application security
+Able to manage sensitive and confidential information
+A keen eye for detail.
+Good problem-solving skills
+Excellent verbal and written communication skills
+Good interpersonal skills
+Desirable
+Experience with high-performance computing for engineering simulations and mathematical modelling.
+Experience with programming distributed rendering systems or render farm management tools like AWS Deadline
+Experience with persistent HTTP connections using technology including Microsoft SignalR, WebSockets or WebRTC for real-time applications.
+General understanding of CAD/BIM tools and technologies
+Experience with unit testing frameworks like XUnit/Moq or similar
+Working knowledge of Docker, Kubernetes and Helm Charts.
+Knowledge of GraphQL, webhooks and modern API tooling.
+Node.js experience
+
+In return we offer a competitive basic salary and generous benefits package which includes 25 days holiday (exc bank holidays), Pension, DIS and discretionary annual bonus
+
+If you would like to work for a company that can offer you a career then please apply by sending an up to date CV to pwithers@fosterandpartners.com

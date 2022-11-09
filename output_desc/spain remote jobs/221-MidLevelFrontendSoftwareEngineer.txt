@@ -1,0 +1,35 @@
+About the job
+Founded in 2010, JOOR now services more than 13,3000 brands and over 380,000 retailers in 150 countries, processing an incredible $1.5B in wholesale transaction volume each and every month. Backed by Macquarie Group, Battery Ventures, Canaan Partners & ITOCHU, JOOR is a Series D start-up that provides the world's most recognized brands and retailers with a digital wholesale management platform that transforms the way these businesses work.
+
+With a CEO recently named a Glossy 50 "Changemaker in the Fashion Industry", JOOR is attracting top talent to drive market dominance. We have over 200 employees in 12 global offices, including NYC, Philadelphia, LA, Milan, London, Paris, Madrid, Berlin, Melbourne, Seoul, Tokyo and Shanghai. And, we are continuing to grow in a smart, sound way.
+
+What You'll Do:
+Design and development of frontend applications that service our brand and retail customers
+Contribute to our expanding React component library and design system
+Breaking up large applications into smaller SPAs
+Ensuring we follow industry standards for securing frontend applications
+Shipping modular and composable frontend applications
+
+We would LOVE to hear from you:
+3+ years software development experience
+2+ years writing testable frontend code, specializing in Typescript and React.js
+2+ years working with SCSS and a keen eye for styling frontend components
+Fluent in both Spanish and English
+Proficient at managing client-side state using hooks and can provide concrete examples
+Experience building composable React.js components based on design systems
+Experience consuming GraphQL endpoints is a very nice to have
+
+What We Offer:
+Target Compensation Range: EUR 40 - 45K (plus company performance bonus & equity)
+Private health insurance
+100% remote work
+Access to Market Weeks to see the product in action
+Collaborate with our international teams in NY, LA, London, Madrid, Melbourne, Milan, Paris and Philadelphia
+Regular social events, including happy hours, lunch & learns, company off-sites, Meetups and speaker series
+Transparency into the state of our business via quarterly all-hands meetings, showcasing the company's performance in relation to revenue and growth
+
+We are one of the few tech companies with a female CEO and 1/3 of our engineering team is made up of women — well above the industry norm. Walking our floors, you'll find people of every shape, color, ethnicity and creed. If you are looking to join a team of innovators and trail blazers who value diversity of thought and experience, then JOOR may just be the place for you.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Excited about the role but still not 100% you fit the criteria? We would still love to hear from you!

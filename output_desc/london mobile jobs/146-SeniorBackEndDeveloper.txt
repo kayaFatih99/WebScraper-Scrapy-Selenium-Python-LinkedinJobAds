@@ -1,0 +1,46 @@
+About the job
+The role is:
+
+Location: London
+Hybrid working solution (2 days in office / week)
+
+What’s it all about?
+The Derivatives Transaction Pricing team is responsible for cross-product transactional pricing of derivatives within the bank. The development team is driven to provide world class technology to support the bank’s Financial Markets business. We bring a deep understanding of the domain, a scientific approach, and innovative solutions to bear on the challenges of best servicing our customers in a highly competitive environment. This is a rare opportunity to join an organization working with smart technologists globally in the financial markets domain. The culture in the team is open, intellectual, and fun. Learning opportunities are plentiful.
+
+
+What we expect of you, day to day.
+As a senior contract developer, you will be expected to hit the ground running delivering quality solutions to business-critical customer requirements. Based in London, you will collaborate in a dynamic global team with fellow technologists, business analysts, project managers and business stakeholders across multiple locations.
+
+
+
+What we’re after…
+An excellent Java developer with good software design principles and the ability to write robust code and accompanying test suites.
+Ability to write efficient, clear code and be able to articulate what has been implemented and why.
+Self-starter who can drive/facilitate requirements and development effort
+Take ownership and responsibility for the full development lifecycle
+Experience working in an agile development environment
+A team player, capable of engaging with other teams
+Experience in the end-to-end design, development, and support of financial markets systems
+Experience with real-time (event-driven) architectures
+Provide second line support
+Domain knowledge in derivatives e-trading is a plus
+Some UI Development experience
+Being a full stack developer is a plus
+5+ years hands on development with investment banking IT experience
+Core Java (essential), Concurrency, Spring
+Familiarity with CI/CD and DevOps
+Experience in micro-services and container technologies (preferably OpenShift or Docker)
+RX Java is a plus
+Kafka Experience is a plus
+Experience with distributed data stores particularly Cassandra is a plus
+Functional programming experience a plus
+Any UI Development experience is a strong plus preferably Core JavaScript, TypeScript, CSS, React, npm/yarn and webpack.
+Financial Market domain knowledge
+Investment banking is a strong plus
+Derivatives business is a plus
+Preferable Domain Knowledge any of Rates, FXO and e-trading
+Fluent in English (speaking and writing)
+Strong ownership and ability to deal with ambiguity
+Outstanding problem-solving skills
+Proactive, self-starter, autonomous
+Good team spirit

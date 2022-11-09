@@ -1,0 +1,52 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Experis, is seeking the following. Apply via Dice today!
+
+Title
+
+NET Full-Stack Developer
+
+Duration
+
+Contract valid through 9-30-23 with possible extension
+
+Extension will depend on budget and performance
+
+Location
+
+Rancho Cordova, CA.
+
+2 or 3 days remote alternating every week
+
+Type of Employment
+
+Contract
+
+Candidates can opt in medical benefits
+
+Interview
+
+1 round
+
+Interview is onsite
+
+Interviews start week of 11-14-22
+
+Start Date
+
+ASAP
+
+We have a need for a mid-level developer with the following skills:
+
+Experience in C# & .NET development as well as .NET Web API
+Writing SQL queries (We use SQL server RDMS for our applications, have many batch processes that use SQL queries )
+
+Desirable/nice to have:
+
+JavaScript/Typescript experience (Knowledge of this would allow contractor to help with development of various other applications such as WM, SHINE, etc.)
+Angular Framework experience (Knowledge of this would allow contractor to help with development of various other applications such as WM, SHINE, etc.)
+Familiar with MVC design pattern
+Familiar with Entity Framework & LINQ queries
+
+Projects include working on .NET MVC web application written in C#, creating/updating stored procedures, batch processes, and SSIS packages.
+
+provided by Dice

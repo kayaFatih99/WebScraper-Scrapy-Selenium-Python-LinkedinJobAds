@@ -1,0 +1,49 @@
+About the job
+Description
+
+Ruby on Rails Backend Software Engineer
+
+As a backend software engineer you will make a meaningful contribution in ensuring we continue to move in the right direction. You will be working on a variety of exciting technologies. Our application code is written in Ruby 2.6+ using Rails 5.x/6.x, PostgreSQL, Redis, MQTT.
+
+We do things well, but we’re not complacent. We want to do great work and to be known for it. We are breaking up our applications into microservices that are well tested, independently deployable and highly observable. We are empowering our teams to operate independently and to ship to production as frequently as they see fit. We’re looking for people who can help us to realise this vision and accelerate the journey, who know what great technology looks like and who can mentor our existing team.
+
+As a Software Engineer in the Treatwell team you will work as part of a cross functional Agile team writing and shipping high quality code frequently. You’ll do whatever you can to help your team to meet or exceed its goals and you will drive incremental improvements in both the way we work and the software we deliver. You will also help your teammates to become more effective and grow their skills.
+
+You Will Be Responsible For
+You’ll work as part of a cross-functional squad, collaborating to deliver incremental, meaningful changes to our customers.
+You’ll support and mentor junior team members, helping them create well thought out and robust solutions.
+You’ll help your team identify opportunities to improve their ability to deliver all kinds of changes to their users.
+You’ll help with the running and maintenance of your team's applications in production.
+
+About You
+You’ve written Ruby and Ruby on Rails code professionally.
+You’ve worked with some of our tech stack and can learn the rest very quickly.
+You’ve been part of a high-performing, autonomous Agile development team that delivers continuously.
+You get a kick out of mentoring and empowering the team around you.
+You have a deep understanding of how distributed applications are designed and built.
+You know good technical design when you see it and ensure quality is embedded in the software development process.
+You’re a good communicator, fun to work with and enjoy being part of a vocal, passionate team.
+You find valuable the software development communities, blogs, meetups and open-source projects.
+
+About Treatwell
+
+Hi, we’re Treatwell. Nice to meet you.
+
+We’re a team of 800 (and growing) passionate and brilliantly talented people across Europe. We’re the industry’s smartest salon management software, all connected to Europe’s leading booking platform, working with over 50,000 salon partners across 13 countries and processing over 8 million bookings every month. And….breathe.
+
+But we’re not done yet. We’re on an exciting journey to digitally revolutionise the hair and beauty community.
+
+If this excites you, we might have just the role for you.
+
+We’ll Treat You With
+28-days holiday, plus bank holidays
+Monthly 40 EUR Treatwell vouchers so you can treat yourself too
+Growth funds for you to develop and grow with your team
+40% off Italo Trains
+100% remote position with flexible working
+Annual Treatwell retreat to a sunny European destination
+All the tools / devices supplied to do the best job you can eg. laptop, monitor, keyboard etc
+
+Equal Ops
+
+Treatwell is an ‘Open to All’ employer and warmly welcomes everybody to the team. We are committed to making reasonable adjustments to the recruitment process as required. Please add any adjustment requests to your application.

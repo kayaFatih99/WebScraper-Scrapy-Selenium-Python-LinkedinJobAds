@@ -1,0 +1,60 @@
+About the job
+THE ROLE
+
+At Personio we are on the amazing journey of becoming the leading HR Platform in Europe!
+Join our international agile Product, Design & Engineering team and take an active role in shaping our engineering culture and the future of thousands of HR teams and organizations across Europe. At Personio you will have a direct impact on our product, our users, our organization, and our engineering practices.
+Join the Payroll Tribe as a Senior Backend Engineer (d/f/m) and take an active role in shaping our engineering culture and the future of our platform. You will work in an effective, autonomous feature-based team, where you will get to play out your dev skills in a high-impact driven environment. You will be responsible for the full cycle of feature development in your team ("You build it, you run it"), and take part in architecting the backend of our complex, mission-critical HR Operating System.
+As a Senior Backend Engineer (d/f/m) at Personio you will:
+
+Drive technical discussions inside the team and communicate technical decisions to stakeholders
+Identify, document, and communicate technical improvements within the team domain
+Contribute to the creation of internal team engineering standards
+Coach and onboard junior and professional team members
+Drive small- to medium-sized cross-team engineering initiatives
+Participate in technical case interviews
+How we work:
+
+We are transforming our PHP and Ruby application into Go and Kotlin microservices!
+We are a product company, so our teams are organized in a mission-based cross-functional fashion. You will work with other Backend Engineers, Frontend Engineers, a Designer, a Product Manager, and an Engineering Manager on one product vertical of our HR Management & Recruiting software.
+We have a “you built it, you run it” attitude and CI/CD is our second nature - we use AWS, Docker, Kubernetes, and GitLab to implement it!
+
+WHAT YOU NEED TO SUCCEED
+
+5+ years of software development experience, from design to deployment and monitoring in production, using Kotlin, Go, PHP, Ruby, or other programming languages
+Strong OO design skills (SOLID 100%)
+Knowledge with automated testing and of when and what to test
+Experience in CI/CD, pull/merge request and code reviews
+Knowledge of a web framework (preferred Spring Boot or similar)
+Experience with event-driven architectures, domain-driven design, resilience patterns, and microservices
+Experience with containerization and container orchestration (Docker and Kubernetes preferred) in a cloud environment (AWS preferred)
+Proactive problem solver. You leave code and processes in better shape than when you first encountered them
+Team player: You are passionate about working with talented teammates. Your heart beats for receiving and giving feedback, to grow both personally and as an engineer
+Interest and passion to learn and experiment with new technologies and follow the best practices in software development for agile environments
+Strong written and spoken English skills
+
+WHY PERSONIO
+
+Aside from our people, culture, and mission, there are a variety of additional benefits that help make Personio a great place to work!
+
+Work with us and receive those remote benefits (benefits will vary depending on office location):
+
+Aside from our people, culture, and mission, there are a variety of additional benefits that help make Personio a great place to work! Work with us and receive:
+Competitive compensation package that includes salary, benefits, and pre-IPO equity
+28 days of paid vacation, plus another additional day after 2 and 4 years (because we love what we do, but we also love vacation!)
+2 Impact Days you can use to have an impact on the environment and society – one for an individual project of your choice and one for a company-wide initiative! #SocialResponsibilit
+Annual personal development budget of €1,500 for conferences, courses, books, career coach, etc.
+Regular company and team events like Oktoberfest, ski trips, Christmas parties, and more! (COVID permitting)
+High-impact working environment with flat hierarchies and short decision-making processes
+Receive generous family leave, child support, mental health support, and sabbatical opportunities with PersonioCares
+Save money with corporate discounts across brands like Adidas, LG, Bosch, Apple, and more
+A remote setup subsidy of 300€ to make your Homeoffice your favourite place to work
+
+ABOUT US
+
+We’re using technology to revolutionize the way HR operates, transforming the way millions of people experience work every day. In June 2022 we raised a second Series E funding of $200 million, allowing us to turbocharge this change and making Personio the fastest-growing and most valuable HR technology company in Europe.
+
+With over 6,000 customers and a team of 1,500 in seven offices across Europe, now is the perfect time to join! We’re hiring talented, impact-driven individuals who want to be more than just another employee. Will you be one of them?
+
+Personio is an equal opportunities employer. We are committed to building an integrative culture where everyone feels welcomed and supported. We #EmbraceUniqueness and understand that our diverse, values-driven culture makes us stronger. As we continue to scale, we focus on enabling our employees to grow both personally and professionally.
+
+We are proud to have an inclusive workplace environment that will foster your development no matter your gender, civil status, family status, sexual orientation, religion, age, disability, education level, or race.

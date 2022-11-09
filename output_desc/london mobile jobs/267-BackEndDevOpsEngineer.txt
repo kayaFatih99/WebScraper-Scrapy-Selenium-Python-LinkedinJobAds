@@ -1,0 +1,20 @@
+About the job
+Back-End DevOps – Contract - Docker - 6 Months - AWS
+
+My client, a UK based Data Software Provider require an experienced DevOps Engineer for a 6 Month period to support their current DevOps team and help make decisions on how to improve their current infrastructure.
+
+The ideal candidate will have experience in the following technologes -
+
+Docker
+Kubernetes
+AMIs
+AWS
+Prometheus
+
+This role is fully remote and open to EU as well as UK Applicants
+
+To be considered, please forward a copy of your latest CV
+
+e. Cormac.reynolds@amicusjobs.com
+
+Look forward to hearing from you

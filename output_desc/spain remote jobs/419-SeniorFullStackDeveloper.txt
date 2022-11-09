@@ -1,0 +1,25 @@
+About the job
+Senior Full Stack Developer
+Location: Remote
+
+The company:
+
+A blockchain based Fintech transforming the world of insurance. Through their platform, underwriters, brokers, and other ecosystem participants will be able to place, trade, analyse, claim, and pay insurance risk using Ethereum smart contracts. They provide one digital space for the creation of insurance programs, the raising and trading of capital, the writing of risk, and the payment rails for premium and claim transactions.
+
+The ideal candidate will have 5+ years of experience, be a problem solver, that thrives by working collaboratively. Should be passionate about their domain and must have that curiosity to understand he things that they work on.
+
+You will be developing and maintaining back end services of the project. Synchronising data in the Ethereum blockchain with data in our DynamoDB database, for a better user experience. Also, looking over the React-based admin panel and application.
+
+They are an early (post-Seed) firm wanting to strengthen their engineering team at this exciting time in their development and growth. They are looking for someone who are excited to embrace start-up culture, and the opportunities that arise from being a part of a lean venture.
+
+Requirements:
+
+BS Degree in Computer Science or Related
+Must have experience in Java, Spring Boot, NoSQL (e.g. DynamoDB) and ReactJS
+Good to have experience of Google App Engine (Java) and Node.js
+
+If you are applying to this role please also fill this form! Thanks.
+https://3w6pfnsi1vv.typeform.com/to/noKvfrVL
+
+
+Mana Search is FinTech’s all-in-one search firm. We partner with the most exciting VC & growth equity-backed FinTechs. Strategic search into the CxO suite, venture building through delivering teams in Engineering, Data Analytics, Product, and Commercial. If you are interested in hearing more about this role or others do get in touch via Gaurav@manasearch.co.uk - thanks!

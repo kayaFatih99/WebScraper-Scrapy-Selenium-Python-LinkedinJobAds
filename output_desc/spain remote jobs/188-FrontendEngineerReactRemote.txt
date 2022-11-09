@@ -1,0 +1,32 @@
+About the job
+Qredo is a decentralized digital asset management infrastructure and product suite designed to unlock new opportunities for institutional investors in digital assets and decentralized finance. Qredo's Layer 2 blockchain protocol enables users to seamlessly transfer and settle BTC, ETH, and ERC-20 tokens. Assets are secured by Qredo’s advanced Gen 2.0 multi-party computation (MPC), which provides tier-1 bank security and institutional-grade governance.
+
+Our Engineering team is looking for a frontend engineer with a passion for development using modern Web technologies. The successful candidate is a highly motivated individual with strong technical skills to create intuitive user experiences, who is passionate about quality, and has a keen eye for the details that surprise and delight our clients. You will be collaborating with engineering teams to define and build apps/frameworks.
+
+Responsibilities
+Take ownership of various business features at Qredo and build world class frontend infrastructure
+Give constructive feedback on product requirements, deliver tasks on time, provide positive user experiences
+Contribute to the technical excellence of the team
+Write clean and maintainable code, conduct thorough and candid code reviews
+Participate in various internal technical projects and give technical sharing sessions
+Make development plans, coordinate across different projects and tasks
+Optimize development workflow, improve development efficiency and quality
+
+Requirements
+More than 5 years of experience in frontend development; a minimum of 3 years in React is required and other frameworks are beneficial
+Good understanding of computer science fundamentals, including but not limited to algorithms, data structures, and networking
+Experience with modern front end technologies (e.g., React, Redux or other state management solutions, styled-components/emotion, Webpack, etc)
+Good understanding of and experience in JavaScript/Typescript, HTML, CSS, cross-browser support
+Prior experience in a complex engineering project
+Experience in frontend engineering, using automated tools to develop, test and deploy the systems
+Deep understanding in at least one of the popular front end frameworks, e.g., ReactJS, AngularJS or Vue
+Good understanding of user experience
+A good mindset of testing to ensure coding quality
+Willing to adopt cross-national teams collaboration and communicate in English
+
+Qredo offers
+Flexibility to work from anywhere and possibility for international transfer
+Assistance with home office setup as well as offsite team building allowance
+Culturally diverse work environment (we speak 33 languages!)
+Great career development opportunities in a growing company
+Competitive compensation and benefits package within the industry

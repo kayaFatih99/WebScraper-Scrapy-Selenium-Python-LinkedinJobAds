@@ -1,0 +1,11 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Synechron, is seeking the following. Apply via Dice today!
+
+Job Description
+
+Overall 8+ years of development experience in Web and Front-end technologies.
+Strong experience in AngularJS 9/10/11/12
+Adapting interface for modern internet applications using the latest front-end technologies.
+Proficiency with JavaScript, HTML5, JSON, CSS and writing cross-browser compatible code.
+Ability to develop in HTML5, CSS3 and JavaScript.
+- provided by Dice

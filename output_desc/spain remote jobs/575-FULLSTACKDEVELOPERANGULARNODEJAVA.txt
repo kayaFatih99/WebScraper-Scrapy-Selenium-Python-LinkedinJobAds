@@ -1,0 +1,30 @@
+About the job
+¿Estás buscando un cambio profesional?¿Quieres ser parte de un proyecto puntero e innovador?¿Te gusta mantenerte al día de las últimas tendencias tecnológicas? Si tu respuesta es un si, ¡Esta es tu oportunidad!
+
+En Viewnext, empresa del Grupo IBM, estamos buscando Desarrolladores/as Fullstack Angular-Node con al menos 3 años de experiencia bajo ese rol, para formar parte de proyectos punteros para un importante cliente del sector bancario.
+
+Tendrás la oportunidad de trabajar "codo con codo" con un gran equipo de profesionales como tú, donde podrás mostrar todo tu potencial y también seguir mejorando tu perfil profesional.
+
+Requerimientos del puesto:
+- Angular 6 o superior.
+- Desarrollo Back en NodeJS con typescript.
+- Creación de servicios / Microservicios / API's (En typescript o Java).
+- Typescript.
+- MySQL.
+
+
+¿Por qué escoger Viewnext?
+✔️ Salario competitivo
+✔️ Formación en Tecnología y también en 'Soft Skills'
+✔️ Acceso a las certificaciones tecnológicas más importantes del mercado.
+✔️ Plan de carrera, seguimiento y evaluación anual de tu desarrollo profesional.
+✔️ Plan de retribución flexible (seguro médico, transporte, formación y guardería).
+✔️ Tarjeta Restaurante para trabajadores presenciales.
+✔️ Programa de Teletrabajo "Full Remote".
+✔️ Horario de 9.00 a 18.00 con flexibilidad de entrada y salida.
+✔️ Jornada de Verano del 1 Julio al 15 de septiembre.
+✔️ Buen ambiente de trabajo, innovador, abiertos e inclusivos.
+
+Si crees que encajas en el perfil o conoces a alguien que pudiera estar interesad@, no dudes en inscribirte o ponerte en contacto conmigo, valoraremos tu candidatura en nuestro proceso de selección.
+
+¿Quieres conocernos mejor? ¡En un par de minutos te lo contamos! -> https://www.youtube.com/watch?v=C9z50VSdjcs

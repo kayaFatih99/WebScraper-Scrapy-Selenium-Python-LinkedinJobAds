@@ -1,0 +1,53 @@
+About the job
+Ebury is a hyper-growth FinTech firm, named in 2021 as one of the top FinTech's to work for by Glassdoor and AltFi. We offer a range of products including FX risk management, trade finance, currency accounts, international payments and API integration.
+
+Role
+
+As the Ebury Technology Department continues to grow to meet the needs of the business, we are looking for strong backend developers who specialise in Python - or want to - to join our large and diverse team. We have a number of roles open across different teams, so let's figure out where you fit in.
+
+Your background
+
+You have extensive experience in developing complex software systems. We mainly work with Python/Django, but it is also ok if you are more comfortable with other languages.
+Since you will work side by side with colleagues from different countries, you will be able to communicate clearly and concisely your ideas in English both written and spoken.
+We look for developers that can “build and run” services. Therefore, you will be comfortable with dockerising your code, defining standard REST end points, adding monitoring and alerting your services.
+SQL knowledge is a plus.
+Quality is important to us, we expect your code to be testable and well covered with unit and integration tests. We use CI Jenkins pipelines and terraform for the deployment of services and infrastructure. From time to time, you might need to contribute to it.
+Experience developing systems for Mobile Apps Backend Environments is a plus
+
+The project
+
+You will contribute to the development of a transactional banking platform, focusing on receiving and issuing payments in more than 140 currencies.
+Our platform is a single platform (20+ Services) with 3 distinct channels for users to access our core functionality:
+Salesforce.com for our front office staff,
+Online banking portal build with Vue.js and
+a Rest API for 3rd party integrations.
+Build and Run services in production. Using tools such as Jenkins, Terraform, Sentry, Prometheus, ELK.. you and your team will be responsible for achieving Service Level Objectives for your code.
+Work with cross-functional product and technology teams across the company to build new features at large and multi-region scale.
+All of these run smoothly in Docker containers on AWS ECS and Kubernetes.
+
+What We Offer
+
+Being part of a remote-first distributed technology team that cares deeply about culture and best practices, and believes in agile principles.
+Clear career progression framework with regular reviews.
+Continued personal development through training and certification.
+Contribute to our technical design through our open and collaborative Request For Comments (RFC) process.
+We are Open Source friendly, following Open Source principles in our internal projects and encouraging contributions to external projects.
+An in-depth onboarding process to make you feel part of the team from your first day.
+
+Due to our remote-first organisation and our remote-focused onboarding system, you will feel a crucial part of the team since day 1. Curious about what working remotely is like at Ebury? Take a look here and see what our remotes say about us!
+
+If there’s something that you can do in our Tech team, it is growing professionally: thanks to our career path and our collaborative and cross-working teams, every day is a new adventure.
+
+About Us
+
+Ebury is a FinTech success story, positioned among the fastest-growing international companies in its sector.
+
+Founded in 2009, we are headquartered in London and have more than 1300 staff with a presence in more than 20 countries worldwide. Cultural diversity is part of what makes Ebury a special place to be. From Sao Paulo to Dubai, Bucharest to Toronto, we enjoy sharing team experiences and celebrating success across the Ebury family.
+
+Hard work pays off: in 2019, Ebury received a £350 million investment from Banco Santander and has won internationally recognised awards including Financial Times: 1000 Europe's Fastest-Growing Companies.
+
+None of this would have been possible without our proudest achievement: our great people. Enthusiastic, innovative and collaborative teams, always ready to disrupt and revolutionise the fast-paced FinTech sector.
+
+We believe in inclusion. We stand against discrimination in all forms and have no tolerance for the intolerance of differences that makes us a modern and successful organisation. At Ebury, you can be whoever you want to be and still feel a sense of belonging no matter your story because we want you and your uniqueness to help write our future.
+
+Please submit your application on the careers website directly, uploading your CV / resume in English.

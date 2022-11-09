@@ -1,0 +1,34 @@
+About the job
+INETUM precisa incorporar Desarrolladores JAVA FULLSTACK con al menos 3 años de experiencia en NODE.
+
+Se requiere tener experiencia en las siguientes herramientas
+
+* Nodejs - 3 años
+* Programación RESTful APIs.
+* Programación multiproceso.
+* Manejo de bases de datos relacionales (mySQL, mariaDB, posgreSQL)
+* Manejo de librerías ORM (como Sequelize), OpenAPI, socket.io,
+* Herramientas de test (JEST, Mocha)
+
+SOBRE INETUM, POSITIVE DIGITAL FLOW
+
+Inetum es una compañía de servicios ágil que proporciona servicios y soluciones digitales y un grupo global que ayuda a compañías e instituciones a aprovechar al máximo el flow digital.
+
+En un contexto de continuo movimiento, en el que las necesidades y los usos se reinventan constantemente, el grupo Inetum se compromete con todos esos actores a innovar, seguir adaptándose y mantenerse a la vanguardia.
+
+Con su perfil multi-experto, Inetum ofrece a sus clientes una combinación única de proximidad, organización sectorial y soluciones de calidad industrial. Presente en más de 26 países, el Grupo tiene cerca de 27.000 empleados y en 2019 generó unos ingresos de 2.300 millones de euros (pro forma).
+
+¿QUÉ OFRECEMOS?
+
+Contrato indefinido
+Retribución salarial competitiva acorde con la experiencia aportada
+Plan de carrera: ofrecemos una atractiva carrera profesional en función de la experiencia y potencial personal dentro de una compañía en continua evolución y con un sólido crecimiento
+Plan de formación en competencias tecnológicas de acuerdo con las exigencias de los proyectos y clientes.
+Retribución flexible: te ofrecemos una retribución a la carta pudiendo elegir diferentes productos y modelar tú mismo cómo distribuirlos: seguro de salud, tickets de comida, guardería, tarjeta transporte.
+Nivel de responsabilidad
+Algo de responsabilidad
+Sector
+Servicios y tecnologías de la información
+Tipo de empleo
+Jornada completa
+Funciones laborales

@@ -1,0 +1,27 @@
+About the job
+Python Back-end Developer, €500 per day, 6 month contract - EU remote
+
+We are looking for an experienced Back-end Cloud developer to join our customer based in Portugal. You will be responsible for the server side development of their web applications hosted in cloud computing environments with AWS. In this role, you’ll be part of a small and international team that’s responsible for the full software development life cycle, from conception to deployment for a cutting edge platform used in the travel industry.
+
+Your Tasks
+• Design and build client-side and server-side architecture
+• Participate in the entire application lifecycle, focusing on coding and debugging
+• Develop and manage well-functioning databases and applications
+• Write effective APIs
+• Test software to ensure responsiveness and efficiency
+• Troubleshoot, debug and upgrade software
+• Create security and data protection settings
+• Build features and applications in cloud computing environments such as AWS
+• Write technical documentation
+• Manage cutting-edge technologies to improve legacy applications
+• Gather and address technical and design requirements
+• Build reusable code and libraries for future use
+
+Requirements
+• Excellent development skills as a Back-end developer with Python/Django and related open-source libraries with a sense of delivering it with a high quality
+• Strong experience with integration with 3rd party APIs (REST)
+• Hands on experience with Serverless Solutions in AWS to build web applications
+• In-depth understanding of software engineering cycles, principles, and versioning
+• Familiarity with front-end languages such as HTML, JavaScript and CSS
+• Experience with streaming technologies is a plus
+• Dedicated and reliable team player with a hands-on attitude

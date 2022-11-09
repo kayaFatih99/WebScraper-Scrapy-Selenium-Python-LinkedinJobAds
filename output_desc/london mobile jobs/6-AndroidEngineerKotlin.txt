@@ -1,0 +1,118 @@
+About the job
+
+
+About Onto
+
+
+We're on a mission to create a faster, smarter and more innovative way of accessing electric cars. We offer an all-inclusive subscription solution, with no deposit and only a monthly renewable commitment.
+
+
+We're changing the way people think about car ownership whilst also doing the right thing for the planet. By 2026 we aim to have a fleet of 500,000 cars across Europe saving over 370,000 tonnes in CO2 emissions.
+
+
+In 2022, we closed a $60 million Series C funding round and continue to grow our offering as the leading car subscription service in the UK as well as expanding into Europe, starting with Germany and France.
+
+
+
+
+Why not take a look
+
+
+Onto
+
+
+Onto: All-in EV subscription (@driveonto) • Instagram photos and videos
+
+
+Tech.eu - Speeding up electric car adoption, Onto raises $60 million to enter Germany and beyond
+
+
+
+
+
+
+About OntoTech
+
+
+We're an open and collaborative bunch who care deeply about creating an amazing team for each and every person to work in. We understand the best way to create a product that our customers love is to create a team in which people love working.
+
+
+As you would expect from a tech-driven company we're working across a number of exciting technologies. We're cloud-based at heart, focussed around AWS. Our back-end technology of choice is Python using the Django framework with our front end written in React with Redux. We also use GraphQL for our APIs. Our apps are native, written in Swift using SwiftUI and Kotlin respectively. We have actively started our journey to break down our monolith into micro-services and expect to continue this in 2022. We've initially selected Python and FastAPI to do this.
+
+
+
+
+Life as an Android Engineer at Onto:
+
+
+Reporting into the Head of Mobile, you will be working with a cross functional team of existing mobile engineers, backend engineers, a product manager and a UI/UX designer in implementing, maintaining and supporting both existing and new features in the product roadmap.
+
+
+Working with the mobile team you will:
+
+
+Work closely with Product, Design and other backend service teams.
+Build upon the foundations of an existing Clean Architecture implementation and work on new product features and a redesigned version of the app on the roadmap.
+Work on the existing keyless access technology integration using external hardware and IoT devices with SDKs for bluetooth integration.
+Build and support complex custom UI.
+Integrate with other internal and 3rd party services for data analytics, crash reporting, content management etc.
+Collaborate with other lead/senior engineers to implement and maintain end to end test automation.
+
+Requirements:
+
+
+
+
+Ideally we are looking for:
+If you don't feel you meet every single one of the bullet points please still apply as we'd love to hear about the experience you do have!
+
+
+For this role, you will need to have:
+
+
+Experience using LiveData and ViewModels.
+Experience with Android development using Kotlin
+Experience with reactive programming principles
+Experience using TDD, SOLID principles adhering to software engineering best practises and coding standards
+Knows how to write unit and UI/functional tests for high code coverage and quality
+Understand version control and continuous integration
+Understand the full mobile application lifecycle, taking requirements through system design, implementation, testing and deployment on the Google PlayStore
+
+It would be a bonus for you to have:
+
+
+Has knowledge of using GraphQL queries and mutations
+Has experience working in an agile environment using sprints and tools like Jira and Confluence
+Has experience with end to end integration and test automation
+
+
+
+
+
+Equal Opportunity
+
+
+Onto is an equal opportunity employer, committed to diversity and inclusion. All applicants are given equal opportunity, regardless of age, gender identity or expression, language, disability, ethnic origin, religion, belief, culture or sexual orientation.
+
+
+Benefits:
+
+Onto discounted car (via Salary Sacrifice) - become a customer
+and join the Electric Car revolution
+Staff options scheme
+25 days holiday (excluding bank holidays)
+Enhanced maternity and paternity leave policies
+Personal days - supporting mental health and creating space for employees
+A fun and social office environment with the flexibility to work
+from home
+Summer and Winter parties
+Regular get-togethers and team socials
+£200 to spend on role related development in Learnerbly (our learning management platform)
+Generous new hire referral bonus of £1000
+
+More About Onto
+Onto was formed in 2017 by co-founders Rob Jolly (CEO) and Dannan O'Meachair (VP People). Originally formed after Rob saw the challenge of converting people over to electric vehicles while working in the Corporate Strategy area of Jaguar Land Rover. After a few pivots in strategy and company name changes, Onto was born.
+
+At Onto, for a flat monthly fee, customers get the latest electric cars with insurance, servicing, breakdown cover and free public charging at over 12,500 locations in the UK. There is no deposit and only a 1-month commitment for hassle-free and emissions-free driving.
+
+How does it work? Simple. It's a fully digital service. Sign up and we'll deliver your car to your door within 72 hours. You just need to unlock your car with the Onto app and enjoy your drive!

@@ -1,0 +1,52 @@
+About the job
+Every day, millions of people rely on WeTransfer to share their creative ideas.
+
+Having made its name in the game of quick and simple file-sharing, WeTransfer has grown into an end-to-end suite of digital solutions with more than 87 million monthly active users in 190 countries. Beyond the WeTransfer.com platform, we have the storytelling platform WePresent, quick slide-making tool Paste, immersive sketching app Paper, and inspiration-capturing tool Collect. We design and deliver delightful experiences that continue to feel obvious and intuitive to millions of people—from our moms to your favorite artists. As a certified B-Corp, WeTransfer aims to be a sustainable and responsible tech company, balancing people, planet, and profit
+
+So, the work we do matters. Come and be a part of it.
+
+About Portals
+
+Join product and design leaders in developing the vision for the future of WeTransfer’s namesake—internally known as the Portals and Reviews product.
+
+The Portals team is responsible for building and launching WeTransfer’s latest product offering Portals and Reviews (wetransfer.com/portals-reviews) which helps our customers organize projects and clients so they can get sign-off and approval in the simplest and easiest way possible. You will be joining the team at a really exciting stage of this product's lifecycle. You will have true ownership and input into Portals and Reviews features and technical direction. This product is a key part of our new WeTransfer premium offering and is leading the way to the next evolution of our service.
+
+You’ll have the opportunity to help shape our engineering and product strategy at a critical phase, laying down the foundation for our next chapter of growth. We’re looking for someone with a rare combination of skills, an appreciation for design, and a passion for building high quality products.
+
+You will be part of a multidisciplinary team, which includes product managers, designers and both frontend and backend developers. Our teams are open, eager to try new things, fun and dynamic. The goal of our team is to collaborate with teams across the company to create the future of WeTransfer that stays true to our mantra "beautifully obvious".
+
+Above all else, we value kindness, understanding and empathy. We believe in open and honest communication and good teamwork to achieve a shared vision. We are passionate learners, who aren't afraid of trying out new tools and technologies to build a great end-to-end customer experience. We love to share our knowledge and experience when we can.
+
+We strive to maintain a culture of kindness and inclusivity. Our team represents a variety of cultural backgrounds—open and clear communication is a priority. We believe diversity of perspective and experience are key to building great products. You’ll play a key role in fostering collaboration and creating an environment where people can do their best work.
+
+About the role:
+
+You'll be responsible for the happiness of millions of users by implementing new features with your project team as well as ensuring our codebase stays nice and shiny. You will do this in a multidisciplinary team with passionate engineers and designers to deploy features to our users.
+
+What you'll be doing :
+Collaborate with designers, product managers, and other engineers to convert feature ideas into workable solutions
+Work with engineers across many teams to design solid conventions across all of our code
+Contribute to a culture of learning and growth through mentoring and knowledge sharing
+Design creative, unique solutions to problems
+Review teammates' code honestly and respectfully
+Assisting with scope estimation and managing stakeholder expectations
+
+What we will be looking for :
+Node is practically your second language. Ideally in TypeScript! You love working with the language and have used it to solve interesting real-world problems. Helping others to improve their skills is something you enjoy and actively seek out to do. And if you know Ruby it would be the icing on the cake.
+Knowing the ins and outs of GraphQL and RESTful APIs
+Strong verbal and written communications skills (English).
+Experience writing highly-scalable systems.
+Experience in building cloud-based solutions.
+Comfortable presenting own ideas to a team.
+
+WeTransfer is an equal opportunity employer and we pride ourselves on the diversity of our people. We welcome you, and everything that makes you—well, you. That includes your gender identity, sexual orientation, religion, ethnicity, age, or disability status.
+
+A note on remote
+
+Our work environment is hybrid-remote, meaning that we support our employees to work remotely and in the office. We encourage employees to decide for themselves and with their team whether or when to go to the office.
+
+We currently use an Employer of Record to hire remote roles with specific location-based eligibility requirements. You must have the right to reside and to work in the location you will be working from.
+
+Background screening
+
+While it is not necessarily a determining or disqualifying factor for any role, you may be required to complete a standard employment background screening..

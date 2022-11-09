@@ -1,0 +1,38 @@
+About the job
+Principal Full Stack Developer (f/m/d)
+Remote
+
+About us
+We are Cosuno, one of the fastest growing start-ups in Germany. We are all about the digitalisation of the construction industry. With our innovative tendering software, we are currently turning the market upside down and setting new standards in process management, cloud technology and user-centric design. Together, we are building the world's largest tendering platform, which is already being used by the industry giants of construction companies and project developers in the DACH region. We are supported by the who-is-who of construction and VC investors, such as Spark Capital, Cherry Ventures, PERI and the SIGNA Group.
+
+Our success is due to our unique and talented employees who work with power and passion on our common mission. We believe in diversity as a driver for good decisions and the basis for great teams. We are committed to equal opportunities and to creating an inclusive environment for all employees. We welcome applications from individuals of all ethnicities, religions, marital statuses, ages, nationalities, origins, sexual orientations, gender identities or any other form of diversity.
+Technology at Cosuno
+
+At Cosuno, we use React in the frontend and Node.js in the backend. Our entire codebase is written in TypeScript. Our API is based on GraphQL and we use Prisma for communicating with the database. We use relational databases as well as Elasticsearch. We write comprehensive end-to-end tests using Cypress in addition to unit tests. Our infrastructure is based on AWS and Kubernetes. For monitoring, we use tools like Datadog and Sentry. We have a well-functioning CI/CD pipeline and deploy to production multiple times a week.
+
+Tasks
+As a Principal Full Stack Developer, you will work on the frontend as well as the backend side of our product and therefore will take full ownership over the features you are creating. You will also provide guidance to other team members on best practices and architectural decisions. After you develop a comprehensive understanding of the components of our product, you are given full responsibility to extend them and build on them in ways that makes our product more valuable, more reliable and better structured to ensure future maintainability.
+
+Specifically, we have a frontend based on React and a backend written in Node.js. They interface with each other using GraphQL and Apollo. We utilize TypeScript for the entire codebase to improve code quality and reliability. We use relational databases as well as Elasticsearch. We write comprehensive end-to-end tests using Cypress in addition to unit tests. Our infrastructure is based on AWS and Kubernetes. We have a well-functioning CI/CD pipeline and deploy to production multiple times a day.
+
+
+Qualifications
+Around 10 years of hands-on software engineering experience
+Substantial experience working with React and Node.js
+Profound experience with JavaScript and familiarity with Typescript
+Generalist mindset; eagerness to learn about new technologies and tackle unfamiliar problems
+Experience in agile product teams as a contributor
+Startup mindset and pragmatic, hands-on attitude
+Fluency in English and good communication skills
+
+Benefits
+Shape a product that solves real-life problems in the construction industry
+Work in an open-minded, collaborative, dynamic, and international team
+Personal training budget and extra training days
+Work fully remote or from our offices in Berlin or Amsterdam
+Freedom in your working hours. It’s the results that count
+Company offsites and regular team events (offline and online)
+Competitive compensation, a permanent contract, and modern work equipment
+Open feedback culture with regular 1-on-1s and development calls
+
+We believe that maintaining the highest engineering standards and using modern technologies are critical factors for the success of our product. If you have a similar mindset, we are looking forward to your application!

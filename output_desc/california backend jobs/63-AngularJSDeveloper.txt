@@ -1,0 +1,37 @@
+About the job
+This job is sourced from a job board. Learn more
+We are looking for AngularJS Developer for the California location. This is a permanent role for a global IT service provider.
+
+Requirements
+
+5+ years Experience with AngularJS
+
+BS degree in Computer Science or Engineering
+
+Strong expertise with HTML, CSS, and writing cross-browser compatible code.
+
+Good understanding of AJAX and JavaScript Dom manipulation Techniques
+
+Experience with RESTful services
+
+Experience in JavaScript build tools like grunt or gulp
+
+Expert in any one of the modern JavaScript MV-VM/MVC frameworks (AngularJS, JQuery, NodeJS, GruntJS)
+
+Familiar with testing frameworks (Ex. Jasmine)
+
+Test runner framework (Ex. Karma)
+
+Hand on and implements complex AngularJS applications, directives, controllers, services
+
+Critical thinker and problem-solving skills5
+
+About Us
+
+Benefits
+
+Zone IT Solutions is Australia based Recruitment Company. We specialize in Digital, ERP and larger IT Services. We offer flexible, efficient and collaborative solutions to any organization that requires IT, experts. Our agile, agnostic and flexible solutions will help you source the IT Expertise you need. Our delivery Offices are in Melbourne, Sydney and India. If you are looking for new opportunities your profile at (url removed) or contact us at (phone number removed)
+
+Also follow our page for new job opportunities and more.
+
+Zone IT Solutions is an equal opportunity employer and our recruitment process focuses on essential skills and abilities. We welcome applicants from a diverse range of backgrounds, including Aboriginal and Torres Strait Islander peoples, people from culturally and linguistically diverse (CALD) backgrounds and people with disabilities.

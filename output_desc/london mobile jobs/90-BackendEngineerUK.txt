@@ -1,0 +1,73 @@
+About the job
+At DISCO, we strongly believe in the uniqueness of thought, experience and perspective that can only be achieved through having an inclusive and diverse workforce. We strive to continue to make DISCO an incredible place to work by fostering a culture of inclusiveness, diversity, openness and collaboration. We value all different kinds of experience, so even if you feel you don't meet all of the necessary criteria for this position, we encourage you to apply.
+
+What is DISCO?
+
+DISCO is the industry standard for managing, organising and sharing music and other media. We make music and media workflow fast, intuitive and simple, directly connecting people and their work to save time. Today we count UMG, Sony, Warner Music, Netflix, Amazon and Rockstar Games among our customers, and over 250,000 people interact with DISCO each month. Our customers are super passionate about our product.
+
+Location
+
+London, England, UK
+
+Role
+
+As a Backend Engineer on the DISCO team, you will assist in designing robust and scalable architecture, implementing comprehensive and secure APIs, and finding elegant solutions to complex problems. The ideal candidate will employ strategic thinking, collaborate with cross-functional teams and possess advanced knowledge of software engineering principles. If you are a Backend Engineer, who has a passion for quality, prides themselves on being a resourceful and adaptive learner of new technologies, enjoys working collaboratively, and can help us drive our vision forward, this role is for you!
+
+Responsibilities
+Work on and have an influence on the architecture, design, and technology stack of our application
+Help translate product specs and business requirements into buildable tasks for the development team
+Work with the support, sales, and product teams to develop and implement new features that grow the business, ensuring these features are scalable and meet the needs of our company and our customers
+Learn continuously and adapt yourself to new technologies as they emerge
+Ensure application security and assist with information security compliance initiatives
+Assist with incident response in a production environment
+Assist with initiatives to address existing technical debt and ensure new code avoids it wherever possible
+Influence the engineering team to adopt good practices and design scalable applications
+Write clean, scalable, high-quality code, with unit tests and integration tests
+Review and critique other engineers’ pull requests
+Assist with deployment processes and the developer experience
+Help more junior engineers grow in the business by mentoring them as required
+
+Requirements
+3+ years of backend development experience
+2+ years of experience developing for Python and Django
+2+ years of building APIs and strong knowledge of RESTful APIs
+2+ years experience with relational databases, with PostgreSQL experience preferred
+Experience working in a remote development team
+Fluent in written and spoken English
+Experience developing with cloud infrastructure
+Experience with source control with GIT processes including Pull Requests and reviews
+Excellent analytical, troubleshooting, and problem-solving skills
+
+Nice to haves
+Experience in a startup business
+Experience developing for cloud platforms like AWS, GCP, Azure
+Familiarity with AI/Machine Learning development
+Any DevOps/site reliability experience
+Experience being on call and supporting production issues of a heavily used application
+Experience with Infrastructure as Code, especially Terraform
+Experience with containers, especially Kubernetes
+Experience with information security audits
+Experience with non-relational databases
+
+Benefits
+
+At DISCO, our employees have told us what benefits mean the most to them, and we've listened. So as a DISCO employee, you will work remotely from home (or a co-working space) whilst being supported by a friendly and fun international team.
+
+In addition, you will receive:
+A competitive salary in a fast-growing startup
+Office set-up allowance
+Annual learning and development allowance
+Annual learning and development allowance
+Four weeks of paid vacation leave per year
+Paid bank/public holidays as outlined in our Leave Policy
+Two weeks of paid sick leave per year
+Paid Parental Leave
+A company laptop
+Monthly internet allowance/reimbursement
+The ability to work how you want. We’re not heavy on rule books. Everyone is trusted to figure out the best way to work.
+
+To apply for this incredible position, please submit your resume along with a cover letter.
+
+DISCO is an equal-opportunity employer. In addition, we will provide reasonable accommodations for individuals who have disabilities. If you require any reasonable accommodation to participate in the application process, please note this in your cover letter and we will reach out to you.
+
+Please note that we do not accept unsolicited resumes from recruitment agencies.

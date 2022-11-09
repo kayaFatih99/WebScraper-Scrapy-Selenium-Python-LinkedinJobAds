@@ -1,0 +1,36 @@
+About the job
+¿Eres un/a apasionad@ de la tecnología? ¿Te gustaría ser el nexo entre la visión y la estrategia de nuestros clientes? ¿Buscas proyectos 🔝 con impacto y que no te dejen indiferente? Si te interesa el mundo de desarrollo y te gustaría un nuevo reto, permítenos conocerte un poco más!
+
+Actualmente estamos buscando desarrolladores Frontend que tengan entre 3 y 5 años de experiencia comprobada en el desarrollo de aplicaciones web en React, Vue o Angular con diseño HTML y CSS y diseños flexibles adaptables a dispositivos de todos los tamaños.
+
+¿Qué esperamos de ti? Experiencia en:
+- Frameworks: React / Vue / Angular 4+
+- Git, using git-flow methodology (necesario)
+- HTML y CSS
+- TailwindCSS or Bootstrap 3+
+- Consume Rest APIs
+- APIs consulting tools: Postman / Insomnia
+- Unit testing and integration tests
+- Agile / Scrum methodologies
+
+¿Qué valoramos?
+- Nivel alto de inglés
+- Designing tools (Illustrator, Sketch, Figma, ...) y Prototyping tools (Adobe XD, Invision, Marvel)
+
+¿Qué encontrarás?
+Ser parte de una cultura donde lo más importante es el empleado!
+Flexibilidad horaria
+Salario personalizado y revisiones salariales
+Eventos de empresa y de team building
+Día libre de tu cumpleaños
+Contrato indefinido desde el primer día
+Fruta, snacks y café en la ofi si eres de Málaga
+Híbrido si eres de Málaga o Remoto 100% si resides en otra parte de España
+
+y mucho más!
+
+Cathedral Software es una consultoría de software de rápido crecimiento involucrada, entre otros, en proyectos de Big Data y BI para empresas multinacionales.
+
+Para nosotros la innovación es la clave del éxito, por lo que fomentamos a nuestro equipo a hablar y contarnos su visión.
+
+Si estás interesad@s, no dudes en ponerte en contacto con nosotr@s!

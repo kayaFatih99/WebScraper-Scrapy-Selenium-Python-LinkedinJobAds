@@ -1,0 +1,25 @@
+About the job
+Front End Developer (Angular 2+)
+€60,000-€70,000
+Remote (Europe)
+
+This is an opportunity for a Front end developer to join a team within our state-of-the-art iGaming platform.
+
+Our client values promote and foster a collaborative environment for their teams, whilst offering complete flexibility and autonomy to their teams, offering remote work and flexible hours.
+
+What you'll be doing:
+Maintaining existing gaming websites, both for desktop and mobile
+Creating whole new gaming brands from scratch
+Working with the technical team to deliver end to end solutions
+Working with business, marketing, and creative staff to deliver great looking, well targeted content
+
+Candidate profile:
+Advanced knowledge of Angular 2+ (4+ years commercial experience)
+Expertise in HTML5 with semantics and reusable markup in mind (4+ years commercial experience)
+The ability to use CSS3 and style processors like SASS/LESS to produce clean, maintainable, and reusable styles (4+ years commercial experience)
+Experience in writing plain JavaScript from scratch (4+ years commercial experience)
+Expertise with AJAX and RxJs, understanding the complexities of asynchronous and reactive programming
+
+Unless you're based in Malta, Gibraltar or the UK then you will be paid via B2B. If you are successful and paid via B2B you will not receive a pension or insurance. You will still receive 25 days annual leave plus bank holidays from the country you are based in.
+
+If you’re interested in hearing more about the above role, please reach out (apply here or email amy.norris@signify-tech.com) with an up-to-date CV and the best time to be contacted.

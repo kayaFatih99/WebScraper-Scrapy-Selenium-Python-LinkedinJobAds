@@ -1,0 +1,23 @@
+About the job
+Job Title : Senior Full Stack Engineer
+Location: Hybrid (Southern California)
+Duration: Full Time
+INTERVIEW : Video
+VISA : USC, GC
+Job Description :-
+Benefits: 100% Dental, Vision, Medical, for employee and family, 401K, 10% annual bonus, up to 10K Sign-on bonus
+Must have: C, C++, embedded engineering, SPI/UART, SQL, NodeJS, Realtime OS.
+5+ years of experience in Software Engineering
+· Expertise in C/C++ languages
+· Familiarity with common peripheral protocols (SPI, UART, I2C, etc.)
+· Working knowledge of Linux kernel configuration or driver development
+· Practice in Agile development
+· Experience with Real-Time Operating System (RTOS)
+
+Regards & Thanks
+SKILLBIRD
+Shubham Choudhary
+Technical Recruiter
+Direct: (302)551-2079,
+Mail: shubham@skill-bird.com
+4 Peddlers Row, Unit#5, Newark, DE 19702

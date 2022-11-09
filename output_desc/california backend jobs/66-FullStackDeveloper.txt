@@ -1,0 +1,46 @@
+About the job
+Exiger is looking for talented full-stack developer to join our Exiger Product Solutions team. The Full-Stack developer role is responsible for building, product based solutions that build on Exiger’s client-facing SaaS applications. The Full-Stack developer will be working with a growing team of in-house engineers, innovating and expanding on customer facing and internal enablement solutions as well as delivering both frontend and backend features/functionality. Ideal candidates have demonstrable experience rapidly building scalable, secure applications leveraging Java, Python, Javascript (Angular) and other web-based technologies in a team-based Agile environment. Candidates should also be open-minded to alternate technologies and platforms and enjoy experimenting with new technologies and tools.
+
+Exiger helps the Nation to see, understand, and respond to supply chain risks and risks presented by bad actors. We are searching for people who think creatively to solve complex problems and deliver world class solutions for our government and corporate partners. Our mission focused attitude demands that hire and build exceptional individuals and teams who put the customer mission first and enable us to consistently over-perform and deliver to provide outstanding performance.
+
+Candidates may be required to perform a code test or whiteboarding exercise as part of the interview process.
+
+This is a full time position in McLean, VA
+
+Key Responsibilities
+Design, develop, and test web applications/components using Python, Java, Javascript and other web technologies. You will deliver highly tuned, testable, and optimized application and database code per specifications and be expected to offer alternative approaches when reviewing requirements and stories.
+Use scripting languages such as Python to implement prototypes and rapid development experiments.
+Integrate emerging low and no-code tools into our workflow to enable rapid feature and solutions development.
+Collaborate closely with product management, engineering, QA and infrastructure teams in all phases of the product development lifecycle.
+Work within an Agile/Scrum-based environment and aid in analyzing and breaking Epics/Stories down into smaller, deliverable units of work.
+Take part in Agile grooming, planning and commitment exercises to estimate, commit to and deliver internal and client-facing goals and initiatives.
+Deliver on-time, unit-testable, high-quality systems that meet the specifications of our product management team.
+Stay current on technology and domain trends, frameworks and cutting-edge technology. The candidate will be working with our teams to bring new solutions delivered by technology to the company.
+
+Professional Experience Required
+A bachelor’s degree in Computer Science or related field
+3+ years of experience in full-stack web application development.
+Experience with the following Backend technologies required: Java, Python, SQL
+Experience with the following Frontend technologies required: Javascript, HTML, CSS, Angular.js, JSON
+Experience with other major JavaScript frameworks a plus.
+Experience building global multi-tiered systems with Web-facing aspects.
+Must be able to attain Security Clearance or currently have Security Clearance (Preferred)
+
+Other Desired Knowledge & Skills
+Experience working with Git and BitBucket
+Familiarity with SOA, microservices, message queueing and relational database concepts.
+Experience working with third-party RESTful web services and other APIs.
+Experience working with engineering teams using Agile principles.
+Ability to effectively work on multiple projects simultaneously and effectively contend with competing priorities.
+Possess strong troubleshooting, code optimization, and refactoring skills.
+Familiarity with AngularJS and/or other client-side frameworks such as React.
+Familiarity working with or implementing Elasticsearch a plus.
+Willingness to share opinions and experiences with team and stakeholders regarding technical topics and approaches.
+
+This position is remote eligible within the United States, excluding residents of New York, California, and Colorado.
+
+Exiger is revolutionizing the way corporations, government agencies and banks manage risk and compliance with a combination of technology-enabled and SaaS solutions. In recognition of the growing volume and complexity of data and regulation, Exiger is committed to creating a more sustainable risk and compliance environment through its holistic and innovative approach to problem solving. Exiger's mission to make the world a safer place to do business drives its award-winning AI technology platform, DDIQ, built to anticipate the market's most pressing needs related to evolving ESG, cyber, financial crime, third-party and supply chain risk. Exiger has won 30+ AI, RegTech and Supply Chain partner awards.
+
+Exiger’s core values are courage, excellence, expertise, innovation, integrity, teamwork and trust.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.

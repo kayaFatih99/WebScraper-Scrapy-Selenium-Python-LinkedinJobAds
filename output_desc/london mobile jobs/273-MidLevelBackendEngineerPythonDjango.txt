@@ -1,0 +1,67 @@
+About the job
+Location: Remote First in Europe (GMT+/-2) with WeWork access and London HQ
+Salary: £45-60k + stock options + bonus
+
+Everyday an unsuspecting colleague, friend, or family member is targeted by criminals. In the United Kingdom, 4.6 million people are affected by fraud annually, and around 700,000 will suffer profoundly as a result. Globally, the problem is even worse.
+
+CybSafe is a venture-backed startup working to prevent people falling victim to cyber incidents for organisations of all sizes.
+
+We're on a mission to revolutionise the way society addresses the human aspect of cyber security. We believe security awareness shouldn't be a tick in the box exercise, and organisations of all sizes should benefit from data science and behaviour change theory.
+
+We're building an intelligent behavioural security platform to combat the rise of sophisticated scams, fraud, and malicious hacking. We're using the power of science, data and behaviour change theory to create a safer and better digital world for everyone.
+
+We're a tribe of risk-takers, game-changers, free-thinkers and doers. And we're passionate about the impact we have on our planet through our software and our voices.
+
+Passion. Impact. Transparency. Autonomy. Purpose. Diversity. Belonging. If these resonate with you, come join us and make a difference.
+
+The role
+You'll be mostly involved with developing our product, rapidly iterating and delivering new features as well as contributing to our internal tooling. As part of the Software Engineering team, you will work closely with product team, designers and scientists in a small autonomous squad, while joining regular discipline specific steering sessions to further your field.
+
+This is a remote role for people who live in Europe (GMT+/-2), with membership to WeWork All Access
+
+Read more about what it's like at CybSafe Engineering here: https://bit.ly/3OoaghP
+
+Our stack: https://stackshare.io/cybsafe-ltd/cybsafe
+
+What you'll be doing
+Building internet applications at scale
+Delivering an experience second to none for the hundreds of thousands of people on our platform, cyber security professionals, and tribe members using internal tools
+Writing code that your colleagues admire for it's readability and elegance
+Designing and maintaining innovative software applications
+Refining high level designs into lower level, actionable technical specifications
+Supporting our Open Source projects like phishtray: We're helping research and giving away software, everyone at CybSafe has time to contribute
+
+Our ideal candidate
+Bachelor's degree in computer science or a related fields; or equivalent experience in software development
+Experience with relational databases
+Distributed system design, including data intensive applications, and path to production
+Experience in developing and maintaining fast, scalable and well-documented APIs
+Good experience in designing data models for relational databases
+Excellent verbal and written communication skills
+Commitment to self growth & care
+
+Experience that would be a bonus
+Strong experience in Python, Django, and Django REST framework
+Strong understanding of software engineering principles, distributed system design, and how to take software to production
+Experience in developing and maintaining fast, scalable and well-documented APIs
+Good experience in designing data models for relational databases
+Excellent verbal and written communication skills
+
+Benefits:
+Stock option plan
+Discretionary bonus
+Self development and training budget
+Laptop with home setup budget
+Work from anywhere & WeWork All Access
+Mental health budget
+Annual gatherings
+
+We also have mental health days and company rest days! Check out our ever-growing list of perks here: https://bit.ly/3mUdy0Y
+
+Diversity & Inclusion
+We are a diverse tribe - read our thoughts on it here: https://bit.ly/3Bak63M
+
+We'd be super grateful if you were to fill in our survey, it helps our data driven efforts: https://cybsafeadmin.typeform.com/to/n8DnrVEN
+
+Applying for roles at CybSafe
+Read about what to expect from our process here:

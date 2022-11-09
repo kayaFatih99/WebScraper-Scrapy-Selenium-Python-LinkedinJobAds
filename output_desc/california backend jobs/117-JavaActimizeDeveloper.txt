@@ -1,0 +1,10 @@
+About the job
+Java SpringBoot/Actimize
+
+At least 7+ years of relevant hands on development experience in Java with Spring boot, Microservices
+2-3 years of experience in implementing Actimize solutions for Actimize IFM-X and Deposit Risk Engine (Must have)
+Experience in designing and implementing enterprise solutions using Java technologies. (Must have)
+Domain expertise in Fraud Management and Payments. (Good to have)
+Strong experience in Banking/Financial Services domain (Good to have)
+Ability to work both independently and with a team. (Good to have)
+Good Attitude, Good Communication skills and Strong Analytical skills

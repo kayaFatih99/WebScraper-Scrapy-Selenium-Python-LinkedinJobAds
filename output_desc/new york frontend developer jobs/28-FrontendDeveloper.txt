@@ -1,0 +1,35 @@
+About the job
+
+Job Title: Front End
+Location – Remote
+• Developing responsive web interfaces
+• Build reusable code and libraries for future use.
+• Ensure the technical feasibility of UI/UX designs.
+• Optimize front-end code for performance and scalability
+• Work with designers to create pixel-perfect representations of visual comps.
+• Work with stakeholders and architects to deliver critical functionality to users.
+• Perform automated and manual testing for accessibility, performance, and cross-browser compatibility.
+• Support back end integrators and QA analysts with the testing and deployment of your code to production environments.
+• Stay abreast on design trends, technologies, and standard methodologies. Experience Requirements:
+• Deep understanding of web standards, responsive web design, and atomic/modular design principles.
+• 3+ years’ experience managing application design, software development, and maintenance.
+• 2+ years’ experience working in Content Management Systems (CMS). (preferred)
+• 5+ years’ experience developing critical, large scale customer facing web applications / sites with high volume and high-reliability requirements. (preferred)
+• Solid grasp and experience in n-tier web applications with knowledge of the different tiers including web servers, application servers, databases, and infrastructure.
+• Extensive UI development proficiencies, including:o HTML / HTML5o CSS / CSS3 / SCSSo JavaScript
+• Custom JS coding is ideal and knowledge of client-side libraries/frameworks such as jQuery, React, and Angular.
+• Front-end build tools: Grunt/Gulp, Assemble, Bower, Yeoman, Node.
+• Good understanding of asynchronous request handling, partial page updates, and AJAX.
+• Form validation and Use of version control software, such as Git.
+• Web accessibility utilizing WCAG, Section 508, and WAI-ARIA standards.
+• Experience with cross-platform, cross-device, and cross-browser testing
+• Experience with UI Frameworks, the ability to develop quickly, experience with RAD/Agile methods.
+• Basic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. Familiarity with tools such as Photoshop is a must.
+• Security mindedness in development practices.
+• Prototyping, usability and/or UI design, web services.Educational Requirements:Bachelor's Degree in Computer Sciences, Engineering, Mathematics or related field. (preferred)
+
+Khizar k
+SR. Technical Recruiter
+408 351 6887
+916 758 7546
+khizar@vitatechinc.com

@@ -1,0 +1,112 @@
+About the job
+¿Sabéis cuando un proyecto comienza con una buena idea que funciona y de pronto la tecnología se vuelve fundamental e imprescindible para seguir creciendo y soñando? ¡Pues este es el caso de Twenix!
+
+Pero...en realidad, ¿quiénes somos? 🤜 🤛
+
+Somos una empresa tecnológica e-learning que ayuda a las empresas y profesionales a mejorar la comunicación en inglés mediante un sistema ultra-personalizado con conversaciones en inglés de 26' con profesores nativos de todo el mundo. (Twenix = twenty six)
+
+El último año hemos conseguido el reto de construir un producto que encanta a nuestr@s usuari@s, algo de lo que nos sentimos muy orgullos@s. Actualmente se imparten más de 15000 clases de conversación mensualmente en nuestra plataforma.
+
+Estamos revolucionando la industria de la formación de idiomas en empresas con un enfoque totalmente distinto al resto del mercado.
+
+
+¿Y ahora qué? 🔮
+
+Hemos invertido mucho tiempo y talento en entender a nuestr@s estudiantes, a nuestr@s clientes y a nuest@rs profesores/ras. Tenemos un fantástico equipo de metodología y producto trabajando al 100% para seguir mejorando la experiencia de usuario a todos los niveles. Nuestro reto es el de construir el mejor producto del mercado para romper la barrera lingüística del idioma en las empresas.
+
+Además de esto, debido al crecimiento exponencial y la apertura internacional a otros países, nos estamos preparando para que el servicio sea mucho más global y escalable, así que nos encantaría que nos ayudaras.
+
+¿Cómo es nuestro día a día? 👨🏾‍🚀
+
+Actualmente el equipo de producto/tecnología lo forman unas 22 personas entre Product Managers, UX/UI, Developers, QA e Infraestructura.
+
+Utilizamos un tablero de Kanban lo cual nos permite subir funcionalidades que aporten valor a producción tan pronto como están finalizadas. Estas son algunas de las ceremonias y metodologías de trabajo:
+
+Daily a las 8:45 (no deberían extenderse más de 15 minutos).
+Los lunes definimos el foco de la semana.
+Sesiones de análisis cross-team para definir la mejor solución técnica a una historia de usuario o técnica con tantas personas del equipo como sea necesario.
+Gracias a Jira tenemos todo esto perfectamente organizado.
+Cada mes tenemos una retrospectiva donde comentamos lo bueno, lo malo y proponemos mejoras.
+Integración continua continua con Github Actions, además de diferentes entornos remotos para poder realizar las pruebas necesarias.
+Desplegamos en cualquier momento del día sin caída del servicio.
+Charlas periódicas entre el equipo para difundir conocimiento o hablar sobre cualquier tecnología que sea interesante y podamos adoptar.
+
+¿Nuestras condiciones? 👍
+
+📅 Horario muy flexible. El trabajo en equipo es nuestra base, tenemos unas horas core donde la mayoría del equipo está disponible. Podríamos decir que es de 8:45 a 13:30/14:00. Aun así, esto está abierto. El resto del día es autogestionable. Confiamos en las personas.
+
+💻 Trabajo remoto o parcial. Tenemos unas fantásticas oficinas en Almería (Literalmente enfrente del mar) y Madrid (Cuatro Caminos). La mayoría del equipo viene dos/tres días por la oficina. Pero hay personas trabajando 100% remoto (Barcelona, Málaga, etc.)
+
+👨🏼‍⚖️ Non-blaming culture. Todos nos equivocamos y todos acertamos, aprendemos de los errores.
+
+💧 Transparencia. La fomentamos dentro del equipo y tod@s estamos abiertos a recibir feedback tanto positivos como negativos. Nos funciona muy bien, elimina fricciones desde el primer momento y nos ayuda a todos a mejorar.
+
+💹 Creemos en el aprendizaje constante y en los planes de carrera. Por lo tanto, fomentamos tanto la asistencia a eventos como la formación.
+
+👩‍🎤 Por supuesto, formación en inglés con Twenix ilimitada.
+
+🎯 Hemos hecho mucho esfuerzo en los últimos meses para definir unos objetivos globales como empresa que alineen a los distintos departamentos. Una vez más tod@s y cada uno de los miembros de Twenix participan en la definición y acciones a realizar de estos objetivos.
+
+🏉 Una vez al trimestre todo el equipo de producto nos vemos físicamente (normalmente en Almeria para disfrutar de un buen clima) para hacer un poco de team building, dar a conocer datos de la empresa y definir objetivos para el siguiente Q.
+
+🤙 Día de tu cumpleaños libre.
+
+🏓 Tenemos mesa de ping pong tanto en la oficina de Almería como Madrid y se organizan campeonatos.
+
+🤼 Organizamos dos eventos anuales para hacer team building con toda la compañía.
+
+🍻 Nos vamos de cervezas (o agua con gas) con bastante frecuencia, a veces se alargan pero siempre son muy divertidas.
+
+
+Por supuesto, no todo es perfecto 👎
+
+Nos gusta ser claros y estos son algunos de los nuestros puntos de mejora:
+
+Nuestro proceso de onboarding dejaba mucho que desear al principio. Hemos aprendido de los errores y lo hemos mejorado. Ahora tenemos una agenda cerrada para la primera semana para entender bien lo que es Twenix, un buddy que te acompañará durante las primeras semanas y sesiones 1 to 1 para medir cómo está yendo todo y establecer objetivos.
+
+No tenemos tantos tests automáticos como nos gustaría. En los últimos meses hemos estado mejorado esto bastante.
+
+Las charlas técnicas se hacen con menos frecuencia de la que querríamos. Tras el verano vamos a fomentarlas más.
+
+Por supuesto, estamos trabajando en mejorar cada uno de estos puntos y estamos abiert@s a escuchar cualquier idea o propuesta. Nos encantaría que nos ayudaras con ello.
+
+¿En qué momento estamos y cómo nos puedes ayudar? 🚀
+
+Actualmente, Twenix tiene oficinas en Almería y Madrid (creciendo en Barcelona también) y se encuentra entre una de las 35 startups más prometedoras de España. Contamos con +80 profesionales deseando romper la barrera lingüística en las empresas, donde grandes fondos de inversión como JME, Inveready, Brighteye o Sabadell VC nos están acompañando en esta aventura.
+
+Te necesitamos para el reto que tenemos en los próximos meses. Tu experiencia nos ayudará tanto en hacer de Twenix un producto top en experiencia y funcionalidades como en los retos tecnológicos y estratégicos que tenemos.
+
+Nos enfrentamos a un crecimiento exponencial nacional e internacionalmente, tenemos un roadmap de acciones técnicas que queremos llevar a cabo y queremos que se una gente al equipo que pueda ayudarnos con ello.
+
+El principal valor de Twenix son las personas y la cultura de la empresa. El equipo está muy compenetrado y comprometido, queremos seguir creciendo manteniendo esa esencia que nos ha hecho llegar a este punto y nos llevará muy lejos. ¿Te unes?
+
+
+¿Qué estamos buscando? 🤔
+
+Desarrolladora/desarrollador Backend con experiencia en NodeJS.
+
+Estamos buscando una persona a la que le apasione el back y que haya trabajado con NodeJs (mínimo unos 3 o 4 años).
+
+En el siguiente punto verás el stack con el que trabajamos, si tienes experiencia con él, mejor que mejor, pero realidad, lo que buscamos es una persona orientada a la resolución de problemas y que encaje con el equipo. En Twenix no buscamos simples desarrolladores/ras, tu trabajo tendrá impacto directo en el producto, por lo tanto participarás activamente en la propuesta y toma de decisiones de nuevas funcionalidades. Para nosotr@s este es un punto clave ya que tenemos claro que el mejor producto se crea con las ideas de tod@s.
+
+¿Qué stack utilizamos? 👩🏽‍💻
+Front
+Angular con Typescript
+Ionic
+Socket.io
+WebRTC
+Testing con Jest y Cypress
+Back
+NestJS
+Mysql
+Redis
+Testing unitarios y e2e con jest y supertest
+ConfigCat (FeatureFlags)
+Infraestructura
+Cloud en AWS
+Github actions para (CI/CD)
+Algo de Bash y Python
+AWS chime (servidor WebRTC)
+Tenemos un roadmap de tecnologías, metodologías, servicios que queremos incorporar en todos los aspectos del producto
+
+Con un solo comando tienes montado el entorno de desarrollo en local para que puedas empezar a trabajar sin complicaciones.

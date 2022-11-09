@@ -1,0 +1,27 @@
+About the job
+¿Estas valorando otros proyectos que te permitan crecer a nivel internacional? ¿Aportas experiencia como desarrollador backend con Python y API? ¿Tienes nivel de inglés alto?
+
+Si es así, ¡ÉSTA ES TU OPORTUNIDAD!
+
+Desde Kapres Technology estamos buscando un Desarrollador backend con Python y API, que aporte más de un año y medio de experiencia profesional para un proyecto muy interesante a nivel internacional para una importante compañía de seguros.
+
+Descripción:
+
+Estamos buscando profesionales para un proyecto centrado en la inteligencia de la ubicación. El trabajo consiste en comprender y analizar la ubicación de un edificio o una parcela a partir de datos geoespaciales, esta labor es algo esencial para la evaluación de riesgos y la toma de decisiones.
+
+Como desarrollador tu labor será:
+
+Escribir código reutilizable, comprobable y eficiente que implemente los requisitos funcionales para el "Location Footprinter".
+Cree api y características de back-end que satisfagan los requisitos de la compañía en términos de seguridad, escalabilidad, rendimiento y confiabilidad. Integración con soluciones de almacenamiento en la nube como bases de datos y almacenamiento de blobs.
+Contribuir a las decisiones técnicas y la dirección en un entorno de equipo colaborativo, incluida la arquitectura, la estimación, la planificación de productos, la creación de historias de usuario / requisitos.
+Sugerir e implementar mejoras en la aplicación.
+
+Competencias profesionales requeridas:
+
+Más de dos años de desarrollo con Python y API.
+Experiencia de trabajo con SQL en bases de datos.
+Conocimiento de Git y de CI/CD pipelines
+Fluidez con el inglés, tanto de forma oral como escrita.
+Experiencia trabajando con Scrum o Kanban.
+
+Proyecto estable de larga duración con contrato indefinido desde un primer momento. Es un proyecto 100% remoto, pero también existe la posibilidad de trabajar presencialmente en las oficinas disponibles globalmente. Gran parte del equipo estará asentado tanto en Barcelona como en Paris. Lo que es un requisito necesario es la posibilidad de viajar para colaborar con diferentes oficinas.

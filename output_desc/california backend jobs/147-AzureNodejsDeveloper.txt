@@ -1,0 +1,29 @@
+About the job
+Responsibilities
+
+Collaborating with onshore developers on the migration of azure environment / ADO / all tooling and applications / services
+Writing reusable, testable, and efficient code
+Design and implementation of low-latency, high-availability, and performant application environment
+Implementation of security and data protection as needed
+Developing and maintaining all server-side network components
+Documenting Node.js processes, including database schemas, as well as preparing reports.
+
+Skills And Qualifications
+
+Strong proficiency w/ Azure Cloud & Tooling / Configuration
+Fluent with Node.js
+At least two years' experience as a Node.js developer.
+Experience with RESTful services
+Experience with serverless technology
+Strong proficiency with JavaScript
+At least two years of experience with server-side CSS preprocessors
+Basic understanding of front-end technologies, such as HTML5 and CSS3
+Superb interpersonal, communication, and collaboration skills
+Integration of multiple data sources and databases into one system
+Understanding fundamental design principles behind a scalable application
+Creating database schemas that represent and support business processes
+Implementing automated testing platforms and unit tests
+Proficient understanding of code versioning tools, such as Git
+Bachelor’s degree in Computer Science, Information Technology or similar
+
+Required Skills : Azure, Node Js, RESTful Service, Java Script, CSS preprocessors, HTML5, CSS3, Git

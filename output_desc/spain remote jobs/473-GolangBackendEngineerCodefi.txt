@@ -1,0 +1,54 @@
+About the job
+About ConsenSys
+
+ConsenSys is the leading Ethereum software company. We enable developers, enterprises, and people worldwide to build next-generation applications, launch modern financial infrastructure, and access the decentralized web. Our product suite, composed of Infura, Quorum, Codefi, MetaMask, and Diligence, serves millions of users, supports billions of blockchain-based queries for our clients, and has handled billions of dollars in digital assets. Ethereum is the largest programmable blockchain in the world, leading in business adoption, developer community, and DeFi activity. On this trusted, open source foundation, we are building the digital economy of tomorrow. To explore our products and solutions, visit http://consensys.net/.
+
+About Codefi Staking And Data/Compliance
+
+Codefi Staking is an institutional ETH2 staking as a service provider. We are working with some of the world’s largest exchanges and custodians to enable them to offer Ethereum 2.0 staking to their customers.
+
+Codefi Compliance are a set of backend data and compliance services implemented in Go that serve a frontend KYT application (Know-Your-Transaction, scanning on-chain activity of Ethereum accounts to identify suspicious activities) and also other products and applications of ConsenSys.
+
+Role Responsibilities
+
+We are looking for backend Golang developers with production big data pipeline (ETL) experience.
+
+Required Skills:
+Understanding of the Ethereum 1.0 Protocol, on-chain storage and data structures
+5+ years of experience as a Backend Software Engineer working on production applications
+3+ years of Golang backend development experience
+Experience with, or understanding of: PostgreSQL and other databases
+General interest in DevOps topics / experience with Docker, Kubernetes or Serverless and deploying cloud infrastructure (AWS / Azure)
+Building production-grade applications/APIs
+Experience on big data pipeline (ETL) and using tools such as Spark to manage large-scale, distributed datasets
+Experience working on agile projects in an Agile environment.
+Experience working in CI/CD setup
+Experience working in a distributed, remote team environment.
+Excellent communication skills.
+Writing good technical documentation.
+
+Bonus Points for any of:
+BSc/MSc in Computer Science or related subject
+Experience with microservices architectures
+Experience with Kafka or other messaging technology
+Cryptography (for instance Ethereum-related)
+Experience in deploying blockchain infrastructure
+
+Other skills to demonstrate:
+Excellent verbal and written communication in English
+Teamwork, flexibility, initiative, communication and organization
+Willingness to constantly learn & improve, challenging yourself to stay at the top of your game
+
+Don't check all of the boxes? Don't sweat it. We’re passionate about building a diverse team of humans and as such, if you think you've got what it takes for our chaotic-but-fun, remote-friendly, start-up environment—apply anyway. While we have a pretty good idea of what we need, we're ready for you to challenge our thinking on who needs to be in this role.
+
+Why join ConsenSys?
+
+Here are some of the perks of being part of a unique organization like ConsenSys
+One of the most recognized tech companies in the blockchain ecosystem globally. A work experience at ConsenSys is a tremendous reference for your future career. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+The forefront of a revolution. We fundamentally believe blockchain is a next generation of technology that can lay the foundation for a more just and equitable society. You can be a part of building the digital economy of tomorrow and radically transforming our society for the better.
+A dynamic startup environment with deep roots. We are one of the earliest blockchain companies and a leader in the space. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem.
+Deep technical challenges. Blockchain technology is just over 10 years old. Ethereum itself is still a toddler. There is much to be done before these platforms can scale to the order of millions or billions of users. We are building the tools, infrastructure and applications l that are pushing the technology forward.
+
+Continuous learning and improvements. You’ll be constantly exposed to new concepts, ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game.ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.
+
+ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here.

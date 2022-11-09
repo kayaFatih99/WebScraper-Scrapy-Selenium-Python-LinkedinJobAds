@@ -1,0 +1,35 @@
+About the job
+ABOUT THE COMPANY
+
+About Bauer Media Group - https://www.bauermedia.co.uk/
+
+Bauer Media Audio is Europe’s leading digital commercial broadcaster and audio operator. Experts in the power of sound, the company reaches over twenty-five million listeners daily through its market-leading broadcast radio, online services, and podcasts. Spanning 9 countries: The UK, Republic of Ireland, Sweden, Portugal, Norway, Denmark, Finland, Poland and Slovakia - BM Audio owns leading brands including KISS, Absolute Radio, Radio Norge, Radio Express, Radio Nova, Radio 100 and RMF.
+
+THE ROLE/ WHAT YOU WILL DO
+We are looking for our next Native App mobile Developer to join an exciting new team building the next generation of audio products & transforming the digital future of radio. You can expect to work in close collaboration with all of the other disciplines in our team in a highly cross-functional and autonomous environment with support and guidance from our leadership
+
+Key Responsibilities and tasks:
+• Working directly to build new native mobile app, and the next generation of audio products for the business
+• To be a proactive part in contributing to a healthy and supportive high-performing team culture that encourages best practices.
+• Help to plan and execute larger technical integration and strategy initiatives to support business and user needs.
+• Communicate effectively to all levels and disciplines of the team.
+• Collaborate with your peers in the broader organisation.
+• Investigate and recommend new technologies, tools and solutions alongside the architecture board to benefit the business
+
+THE IDEAL CANDIDATE
+We develop world class products using the latest technologies, our products reach thousands of people on a daily basis, and we work with an extremely talented team of developers.
+Years of experience are less important to us, we are not looking to tick boxes with this role, and we are open to looking at candidates from all backgrounds.
+
+It would be great if you had some of the below:
+
+• Full professional experience working as an IOS and/or Android developer
+• Extensive experience working on a native apps focused team using core iOS and/or Android technologies
+• Experienced in adopting an existing code base evolving the code as you see fit to meet business needs
+• Understanding mobile app design guidelines on each platform and being aware of their differences
+• Strong knowledge of architectural patterns—MVP, MVC, MVVM, and the ability to choose the best solution for the app
+• Familiarity with Git, push notifications, RESTful API’s & mobile libraries for audio
+• Passion and knowledge test driven development.
+• The ability to working a highly agile, cross-functional, team.
+• You hold effective communication skills, and are able to collaborate, both inside and outside the team from engineering peers to diverse stakeholders.
+• Mentorship and/or coaching, especially of less experienced developers
+• A passion for music 😊

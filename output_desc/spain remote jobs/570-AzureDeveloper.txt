@@ -1,0 +1,34 @@
+About the job
+En AXPE Consulting estamos transformando el mundo de la Tecnología. Por ello, te invitamos a vivir una experiencia única desarrollando tu carrera en una Compañía multinacional, presentes en Europa y América que mira hacia el futuro. Nuestros valores definen nuestra identidad, son la palanca que nos ayuda a hacer realidad nuestro propósito y guían todas nuestras acciones y decisiones: apostamos por el TALENTO.
+
+Desde el departamento de IT, buscamos un Azure Developer con experiencia en desarrollo Full Stack para participar en un proyecto del sector de seguridad:
+
+¿Cuál es tu reto?
+
+Desarrollo e integración de servicios web en Azure
+Integración con servicios REST
+Desarrollo Backend en entorno .Net y/o NodeJS: AAD, Azure SDK, etc.
+Desarrollo Fronten en entorno Angular: Jest, VideoJS.
+
+¿Qué buscamos de ti?
+
++ 3 años de experiencia como Azure Developer.
+Experiencia previa y actual como desarrollador Full Stack
+Experiencia con librerías de visualización de vídeos.
+
+¿Qué valoramos?
+
+Deseable certificación Azure Developer Associate: AZ - 204 o AZ- 203
+
+¿Qué te ofrecemos?
+
+Oportunidad de desarrollar tu carrera en contexto global.
+Contrato indefinido.
+Horario flexible y teletrabajo, para facilitar la conciliación con tu vida personal.
+Seguro médico a precio reducido (para ti y familiares directos).
+Formaciones y certificaciones a nuestro cargo, que te permitirán crecer profesionalmente junto a nosotros.
+Formar parte de una compañía donde se fomentan las comunidades tecnológicas, el intercambio de conocimiento y la excelencia técnica.
+
+
+En AXPE estamos orgullosos de ser una empresa experta en tecnología que apuesta fuerte por el talento. La responsabilidad corporativa es inherente a nuestro modelo de negocio, impulsamos la educación tecnológica tanto a nivel formativo como laboral.
+Formar parte de AXPE es liderar la transformación del sector tecnológico.

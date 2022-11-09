@@ -1,0 +1,51 @@
+About the job
+Mandatory to be located in Spain. Work 100% remote within Spain.
+
+One of the companies we work with is looking for a highly motivated software engineer with a passion for doing things right with meticulous detail. The individual's primary role will be to support and develop applications to enable our couples to plan their weddings and communicate with their guests.
+As an engineer on this team, you’ll draw on your technical expertise to ensure these tools have high uptime and strong performance while working with other technical leaders to build a longer-term roadmap to match the needs of an ever-growing engineering organization.
+
+RESPONSIBILITIES:
+Leverage skills and experience to implement product features that are well architected, tested, and understandable.
+Actively participate in the ideation and execution of product roadmap, architecture discussions, and Agile planning.
+Promote best practices surrounding testing, continuous integration, code standards, etc.
+Develop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics.
+Present your own work to internal/external groups and review work of others
+Provide mentorship to junior members of the team
+
+SUCCESSFUL PHP DEVELOPERS HAVE:
+3+ years overall engineering experience.
+3+ PHP 7.4, Symfony 4.4 or a similar PHP framework.
+Experienced with HTML, CSS.
+Ability to work with project teams located in multiple geographic locations.
+Fluent enough in English to be comfortable communicating and coordinating with teams in the US.
+Experience working in an Agile, TDD environment.
+AWS Infrastructure (s3, lambda, elasticsearch, route53).
+Proficiency in RESTful APIs and API Communications (Graphql).
+Good Grasp of Asynchronous Programming and its workarounds.
+Data services and Database Schema Creation for Business Processes (SQL, NoSql, Postgres, MySql, Elasticsearch,and Redis).
+Working Knowledge in User Authentication and Authorization (JWT).
+Experience in Implementing Data Protection CCPA and GDPR).
+Error handling Skill (ELK Stack, sumo logic).
+Ability to design, architect, and communicate business requirements.
+
+BENEFITS & PERKS
+Private Health Insurance “DKV” paid by the Company.
+Subsidies and grants in training and English courses.
+Currently working 100% from home.
+Flexible working hours.
+Tax relief options for Ticket Restaurant, Ticket Transportation and Daycare.
+40€ per month in tickets restaurant.
+Udemy courses.
+TYPS: easy APP to ask for salary advance payments in 48h.
+ANDJOY: great APP for gym lovers (we have up to 50% discount).
+Free paid hours: use your paid holidays as hours.
+Referral bonus: up to 1.300€ bonus if you recommend someone to work with us.
+Getting married or having a baby? We have a gift for you!
+
+Joppy is a tech recruitment platform built for developers by developers.
+✅ No CV required. Just say what you know and what you want.
+✅ Anonymous profile by default.
+✅ You choose who can talk to you. Companies can't write to you until you accept their offer.
+✅ Only relevant offers matching your preferences. No more Javascript offer for Java developers.
+✅ Get a reward if you get hired.
+Keep an eye on tech job opportunities anonymously and match the job that makes you happy.

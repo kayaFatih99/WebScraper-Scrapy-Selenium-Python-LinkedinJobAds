@@ -1,0 +1,48 @@
+About the job
+Our client is an eCommerce fulfillment technology company with locations across the UK. Although, relatively young, they are already a key player in the marketplace and they have recently been recognized as a top 20 Tech Nation Rising Star for 2020/2021. They are a multi award-winning business who help major retailing clients automate their key eCommerce processes through their platform.
+
+The Role
+They are looking for an experienced Software Developer.The successful candidate will be an active member of the development team, creating features, solving problems, and working with the wider business to make our products the best in the industry. With an Agile (SCRUM) process in place you will work in sprints with the rest of the department to deliver excellent code. You may be working on third party integrations, being a part of our technical stabilisation team, assisting with the DevOps process, trying new technology or working on our Xamarin mobile app. This role would really suit an innovative and collaborative person who not only has a passion for developing awesome features in the .NET stack, but also wants a role they can develop in and a business they can grow with
+
+Responsibilities
+
+Report directly to the Lead Developer and work effectively, professionally, and collaboratively with other members of the business.
+Be collaborative, engage in technical and operational discussions relevant to your work and be open to new and challenging ideas.
+Develop APIs, web-based code, and data structures in .NET as part of the product set.
+Work as an active member of the Development team to create, test and deploy a stable, robust, and efficient platform and/or series of products.
+Write clean and healthy structured, well documented code ensuring alert free, high code quality scores in any applicable tooling.
+Build future-proof reusable core code libraries, which can be shared, in-order to drive further efficiencies throughout the team.
+Deliver code which is well tested and consistently error free.
+Design and develop data access layers that are optimised for performance and security.
+Follow and adhere to the development methodology set out by the CTO.
+Technically support other members of the technical department when and where required.
+Develop unit tests for source code (regardless of approach).
+
+Requirements
+
+Demonstrable experience in a commercial .NET web-tech role using C#.
+An awareness of .NET Core over Linux is greatly beneficial.
+Experience of GIT source control and the processes for managing code using GIT.
+Agile experience (SCRUM/Kanban) greatly beneficial.
+Experience of creating and consuming APIs (RESTful), Entity Framework and SQL Server using the .NET tech stack.
+Competent in SQL for SQL Server and clear understanding of best practice of SQL code for efficient and robust queries.
+Enjoys problem solving, a variety of tasks and using new technologies.
+Experience of React advantageous.
+Experience of Xamarin advantageous.
+A strong and professional communicator who is not afraid to challenge convention and discuss options of approach to issues.
+A strong ownership ethos and passionate about software development
+At least an awareness of DevOps, Continuous Integration, and other build technologies.
+
+
+What they offer
+Increase in pension contributions – matched up to 10%
+Private Health Cover
+Holiday Purchase Scheme
+Share Option Scheme
+Birthday Bonus - take your birthday as paid leave
+Reward Gateway - exclusive access to loads of deals and discounts on big brands, including high street stores, travel websites, food and entertainment, health, and leisure and much, much more
+Peer based employee recognition programme includes
+Monthly awards where the highest scoring person in the company gains an extra day’s paid annual leave
+Quarterly award where the highest scoring person in the business for that quarter gains a bonus up to £250
+Little Extra’s Espresso yourself – Monday coffee mornings between 9am-10am
+Friday Wind Down – down tools at 4pm and enjoy a drink on us

@@ -1,0 +1,12 @@
+About the job
+Backend Developer – Remote (UK Based) - £60,000 to £80,000 – Ref: J340673
+
+We have a new opportunity for a Backend Developer to join an award-winning SaaS scale up in London. The Backend developer will be joining the product team to help them scale their existing solutions. Their ecosystem is composed by a number of API’s mainly built using Ruby, Angular and more recently React.
+
+Previous experience in Ruby development is preferred. However, we are happy to consider applications from developers with experience in other backend languages such as Python, Golang or Node.js. The ideal candidate will also have good exposure to JavaScript and / or TypeScript as well as demonstrable experience in writing well designed and tested code with a strong preference for TDD.
+
+Bonus points will be given to anyone with one of more of the following frameworks: Sinatra, Rails, Hanami, Angular, React, Node.js or Next.js.
+
+In return you will be given the opportunity to have an impact on application architecture and contributing to the global scaling of an established start-up and having lots of fun working with a very lively, bright and diverse team.
+
+For more information, please get in touch with Michael Johnson at Hurren and Hope.

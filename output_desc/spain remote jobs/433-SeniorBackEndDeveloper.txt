@@ -1,0 +1,71 @@
+About the job
+Sientes el espíritu #Wanderlust? Entonces ven a formar parte de Locker in the City!! 🧳✈️ 🌎
+
+Somos una startup del sector TravelTech que está en pleno crecimiento y expansión nacional e internacional. Creemos que el equipo debe crecer de forma sostenible, acompañando el crecimiento del negocio. Para ello nos gustaría incorporar a nuestro equipo de Tech un Senior Backend Engineer (Python + Flask).
+
+Pero vamos por partes...
+
+¿Qué hacemos en Locker in the City?
+Nuestro propósito es claro: que todos podamos disfrutar de la ciudad sin preocuparnos por nuestras maletas. Turistas, mochileros, ejecutivos... o incluso los mismos habitantes de la ciudad... Queremos que todos tengan la libertad de disfrutar de su tiempo sin preocuparse por guardar o cargar con sus cosas.
+
+Somos una Start-Up tecnológica, que ha digitalizado el servicio de consigna de equipaje llevándolo al centro de la ciudad. Nuestras taquillas inteligentes funcionan de forma 100% automatizada las 24 horas del día, los 7 días de la semana y todo ello sin personal en las consignas!! Por lo que hacemos la vida más fácil a todos los usuarios, principalmente turistas antes del checkin y después del checkout de su AirBnB u Hotel.
+
+Pero esto es sólo el principio, ya que nuestra tecnología tiene muchos más usos que estamos desarrollando. Estamos en pleno proceso de crecimiento y expansión. ¿Quieres unirte?
+
+¿Qué te ofrecemos?
+En Locker in the city estamos firmemente convencidos que el equilibrio entre la vida personal y laboral genera bienestar y los mejores resultados. Por eso intentamos constantemente crear políticas que nos beneficien a todos y se adapten a los tiempos actuales.
+
+🖥 Jornada laboral de 4 días & Trabajo 100% remoto
+Tenemos una jornada laboral de 36 horas distribuidas en 4 días, librando siempre lunes o viernes. Nuestro modelo de trabajo es 100% remoto, nuestro equipo está distribuido por toda la geografía nacional. ¿Crees que eso puede ser perjudicial? ¡No te preocupes! Tenemos una oficina virtual en el metaverso de Gather, que nos permite reproducir la vida de una oficina tradicional de forma virtual.
+Para cuidar la comunicación y transparencia, valores fundamentales de la compañía, hacemos Dailys, 1:1 mensuales, All Hands Meeting mensual, Revisiones de desempeño semestrales, etc.
+
+🙌 Flexibilidad, Responsabilidad y Autonomía
+No creemos en un método rígido, sí en que cada persona administre su tiempo de la mejor forma, sin perder el foco y cumpliendo los objetivos, por lo que el horario es flexible también, tú te administras tu tiempo, pero intentamos tener al menos 4 horas diarias en las que coincida todo el equipo.
+Aunque te acompañaremos en todo momento, gracias a nuestra cultura, tendrás el espacio para volar solo, el techo te lo pondrás tú mismo, por eso tus sugerencias e ideas serán escuchadas y valoradas desde el primer día.
+
+🚀 Paquete retributivo, crecimiento personal y profesional
+Vivirás el crecimiento internacional de una startup y formarás parte de un equipo, una pequeña familia, que sabe que remando todos a una se pueden comer el mundo.
+Tendrás una retribución acorde a tu experiencia profesional con revisiones salariales anuales en base a tu desempeño y el de la compañía.
+Payflow: adelanto de nómina en un click, sin coste y sin necesidad de autorización
+Retribución flexible (Flexflow): tarjeta restaurante, tarjeta transporte.
+Formación: Nos tomamos el aprendizaje muy en serio, tenemos una plataforma de e-learning (Coursera) donde podrás hacer cursos y certificaciones. Si hay algo que te inquieta y que puedes aplicar al proyecto, haremos todo lo que está en nuestra mano para que lo aprendas y desarrolles con nosotros.
+Clases de Inglés online 1:1 a través de Preply.
+30 días naturales de vacaciones anuales + El día de tu cumpleaños libre
+
+¿Qué esperamos de tí?
+Buscamos a personas que le gusten los desafíos, con pensamiento analítico, que se sienta cómodo investigando nuevas soluciones, que tenga muchas ganas de aprender y ambición de crear cosas nuevas.
+
+En Locker in the city todos tienen voz y voto, creemos firmemente que la diversidad de ideas nos permite encontrar las mejores soluciones, por eso buscamos gente proactiva, que le guste proponer nuevas soluciones, ideas o enfoques a los distintos desafíos.
+Siempre estamos listos a cambiar cuando vemos que hay algo que será más favorable para el proyecto, por eso es importante tener capacidad de adaptarse a los cambios.
+
+La tecnología es un área muy dinámica, por lo que las ganas de aprender y predisposición para ayudar a los compañeros, son sin duda dos de los valores que conforman el ADN de Locker in the city.
+
+Skills necesarias para el rol:
+Experiencia mínima de 3 años en Python
+Experiencia con Flask y SqlAlchemy
+Experiencia en infraestructura Cloud
+Conocimientos de SQL y experiencia con Postgres
+Conocimientos de Docker y Docker compose
+Conocimiento de Git
+
+Se valorará también:
+Experiencia en AWS Cloud y particularmente en tecnología serverless
+Experiencia en CI/CD (especialmente utilizando Github actions, Cloudbuild, CodeDeploy, AWS ECR)
+Experiencia con metodologías ágiles
+Conocimiento de React y Redux
+
+¿Cómo será tu día a día?
+Trabajaras en el equipo de Ingeniería, en el cual desarrollamos nuevas features que se coordinan con el departamento de producto, hacemos refactor del código heredado, trabajamos en la implementación de arquitecturas que escalen automáticamente, y todo aquello que consideremos beneficioso para el proyecto.
+Hay constante coordinación con los distintos equipos para marcar objetivos, pero algo importante es que en Ingeniería definimos las prioridades y en qué vamos a trabajar en cada Sprint.
+
+Trabajamos con metodologías ágiles, en Sprints de 2 semanas, hacemos planning y retros, así como también dailys. Adaptamos Scrum a nuestra mayor comodidad y de la manera que nos funciona mejor.
+
+¿Cómo será el proceso de selección?
+El proceso de selección consta de 4 etapas diferenciadas:
+Primero te entrevistarás con el CTO de Locker in the city: en esta entrevista la idea es contarte el funcionamiento de la empresa, ahondar en las tareas, y resolver todas las dudas que puedas tener, así como también conocerte mejor, que nos cuentes tu experiencia, tus expectativas, motivaciones, etc.
+La segunda etapa es una prueba técnica donde se evaluaran algunos de los skills más importantes para el rol.
+La tercera etapa es una entrevista con el equipo de Ingeniería, al fin y al cabo es con quienes trabajaras día a día y en Locker in the city la opinión de todos es muy importante. Aquí también te preguntaran un poco sobre tí, tu experiencia, y por supuesto podrás aclarar con ellos las dudas que tengas sobre la empresa o el día a día.
+La última etapa será una entrevista con nuestro CEO, básicamente querrá conocerte y que tú también puedas ver la visión y objetivos de la empresa, para así estar todos seguros que hay un buen fit!!
+
+"El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos"
+Michael Jordan

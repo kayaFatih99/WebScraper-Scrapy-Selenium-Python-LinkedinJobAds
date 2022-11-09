@@ -1,0 +1,70 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Data Systems Analysts Inc. (DSA), is seeking the following. Apply via Dice today!
+
+This position is 100% remote.
+
+Data Systems Analysts, Inc. is searching for a PHP DEVELOPER for milSuite, a Department of Defense (DoD) website that facilitates professional networking, learning, and innovation through knowledge sharing and collaboration 100% Remote. Candidates will be challenged on a daily basis to solve problems and implement solutions that meet the needs of milSuite community of over 2 million registered users.
+
+Minimum knowledge, skill and abilities:
+
+Must have solid PHP and MySQL development experience and an in-depth understanding of source code and release management best practices (i.e. CVS, SVN, Maven, Ant, GIT)
+
+Should have a solid understanding of open source LAMP stack projects (such as Mediawiki, WordPress, and Lime Survey) and experience with HTML5, CSS3, and JavaScript
+
+Desired knowledge, skills and abilities:
+
+Java programming languages are not required but are highly encouraged.
+
+Understanding of object oriented design concepts in Java, and solid experience knowledge on common web application frameworks (Struts, Spring, Hibernate, JDO/JPA, Axis, Web Services, XML Parsers, JSP/Servlets, JNDI, etc.)
+
+Experience developing for WordPress, including development of themes and plug-ins
+
+Experience with PHP Frameworks (Symfony)
+
+Experience with JIRA task management software
+
+Training/Certifications/Experience:
+
+Minimum Of 5 Years Of Experience
+
+Exceptional analytical and conceptual thinking skills
+
+Ability to be a team player and work with members of cross functional teams
+
+Superior oral and written communication, interpersonal, organizational, and presentation skills
+
+Track record of following through on commitments
+
+Excellent planning, organizational, and time management skills
+
+CompTIA Security+ CE and applicable Computing Environment certifications
+
+Active Secret Level DoD Security Clearance
+
+COVID-19 continues to significantly impact our communities, families and employees. With employee health and safety as our top priority DSA is taking action to address the increased risk and uncertainty COVID variants pose in the workplace. DSA will require all newly hired employees to be fully vaccinated before their start date and show proof of vaccination on the first day of employment along with all I9 required forms. These forms are only to be provided via instruction from HR and with approval from DSA management for any access to customer facility.
+
+Salary and Benefits include but not limited to:
+
+The hours for this role are Full-time, Regular - Start and End times are dependent on customer requirements
+Leave benefits include Paid holidays, Vacation, Sick and Bereavement
+Retirement benefits include 401K with 20% match to employee contribution, and Employee Stock Ownership Shares provided by DSA.
+Insurance benefits include customizable Medical, Dental, Vision, Health Savings, Dependent Care, and Domestic Partner Coverage
+Paid short term and long-term disability, life insurance, up to 6 weeks of paid maternity leave to care for a newborn (and additional unpaid time through the FMLA), fertility assistance, and adoption assistance.
+Critical Illness, Accident and Pet Insurance
+Identity Theft Protection
+Pre-Paid Legal Assistance
+Employee Assistance Plan
+Prescription Drug Discount Membership
+Wellness Program / Healthy lifestyle rewards
+Tuition assistance and Technical 100% Paid Training and Family Tuition Assistance.
+Founded in 1963, Data Systems Analysts, Inc. (DSA) has been providing Defense and Federal Government customers' business-driven Information Technology and consulting solutions and services for more than 50 years. DSA's people excel in helping our customers achieve sensitive, mission-critical business goals and objectives. DSA is a 100 percent employee-owned company: every employee has a stake in the success of our company and our customers. Our culture embraces training and development opportunities that include leadership programs, employee networks, continued education, and much more. We recognize that building expertise in your profession benefits everyone. DSA's leadership and training programs help employees better manage their projects, inspire coworkers and customers and reinforce DSA's guiding principles since 1963.
+
+We also value the unique combination of skills, abilities, aspirations, and backgrounds of every individual our diversity makes us stronger. We are 100 percent employee-owned through an Employee Stock Ownership Plan (ESOP). DSA employees receive customizable benefits that are highly competitive in each local market that include a Vanguard 401K.DSA provides equal employment opportunity for employees and applicants without regard to an individual's protected status; race/ethnicity, color, national origin, ancestry, sex/gender, gender identity/expression, sexual orientation, marital/parental status, pregnancy/childbirth or related condition, religion, creed, age, disability, genetic information, veteran status, or any other protected status.
+
+DSA will provide necessary reasonable accommodation to ensure that an individual with a disability who is not able to fully utilize DSA's online job application system is provided with equal opportunity to apply and be considered for all jobs. If you need an accommodation to complete the application process, please email HR @dsainc.com or call
+
+DSA recognizes that the global spread of COVID-19 is a challenging time for everyone. Our #1 priority is the health and safety of our workforce, guests and candidates, and we provide the necessary supplies to maintain safety in the work place. Due to the current situation surrounding COVID-19, our response time and scheduling of interviews may increase. DSA is looking to fill various positions despite the COVID-19 and are managing our workforce within the compliance of all state requirements.
+
+#DSA209
+
+provided by Dice

@@ -1,0 +1,41 @@
+About the job
+About Us
+
+Halo believes in innovation by inclusion to solve digital problems. As an international agency of over 200 people specializing in interactive media strategy and development, we embrace equity and empowerment in a serious way. Our interdisciplinary teams of unique designers, developers, and entrepreneurial minds with a variety of backgrounds, viewpoints, and skills connect to solve business challenges of every shape and size. We empathize to form deep, meaningful relationships with our clients so they can do the same with their audience. Working at Halo feels like belonging. Learn more about our philosophy, benefits, and team at http://halopowered.com/.
+
+Our Proposal🤝
+
+Proactively bring new ideas, solve roadblocks, implement improvements and solutions
+Accurately estimate effort and deliver quality solutions aligned with requirements
+Work as part of a team to deliver as estimated and on time
+Bring new ideas and technologies to the team
+Analyze requirements in order to clearly define successful solutions
+Lead by example across engineering excellence, testing, and quality
+Communicate clearly across functional areas and with clients
+Proactively identify gaps and implement improvements
+
+It can be a perfect match if you meet...
+
++5 years of proven experience in delivering quality websites
+Experience using Angular, NodeJS/JavaScript, and relational/NoSQL databases
+Proven success with distributed (multi-tiered) systems or microservices
+Hands-on experience writing responsive layouts
+Solid understanding of Agile methodologies
+Extensive experience relying on unit testing in a continuous integration environment
+
+It would also be a plus if you...
+
+Have experience in
+
+Ngrx
+Ionic
+Design systems
+AWS
+DevOps CICD
+
+What we offer?
+
+100% remote work!🏡
+Salary in USD💵
+Signing loan, so you can start working with a Mac Computer!💻
+More than 3 weeks of Paid Time Off!⛱️

@@ -1,0 +1,10 @@
+About the job
+Job Description:
+• Must Have Java Spring Boot Hibernate
+• Primary Skills Core Java Java EE Spring Framework Boot Batch Micro Services Hibernate.
+• Secondary Skills GWT Domain Functional Skills Banking knowledge is an advantage 4 yrs of strong hands on experience in Java J2EE
+• Good working experience in Spring frameworks like SpringBoot Spring Batch Spring Data etc and Hibernate JPA Good knowledge on messaging services like JMS Kafka Tibco RabbitMQ
+• Good knowledge of SQL PKL SQL and should be able to write queries
+• Good knowledge on microservices Good analytical and problem-solving abilities
+• Good experience in JUnit testing and mocking techniques Knowledge on SDLC methodologies Waterfall Agile Docker OpenShift Git BitBucket SonarQube
+• Good communication skills Ability to work as a team player Ability to work on multiple tasks concurrently is an advantage

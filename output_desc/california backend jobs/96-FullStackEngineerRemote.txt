@@ -1,0 +1,44 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Techtriad Team - T3, is seeking the following. Apply via Dice today!
+
+This position is 100% remote
+
+You will work in a fast-paced environment on an online platform that serves 300+ e-commerce sites globally.
+You’ll work alongside highly experienced and talented engineer s, product managers, designers & developers to analyze, architect, & build solutions based on business needs.
+You’ll work on multiple projects simultaneously and prioritize workload effectively under tight deadlines. You have good written, verbal, and interpersonal communication skills, attention to detail, and good presentation skills.
+You’ll work with experienced and talented people all over the world. Many of the people you collaborate with will be in a different time zone from you, and you are someone who is excited by the prospect of learning new cultures as well as sharing your own.
+
+Key Responsibilities
+
+Being a senior contributor on a team of skilled full - stack developers working to implement Omnichannel capabilities, with a focus on providing a best-in-class user experience.
+Work with dynamic back-end technologies (Perl, PHP) and help us expand the use of React on our sites.
+Work closely with the team's leadership to define scalable technical solutions & partner with global engineer s to contribute what you build into our global technology products
+Troubleshoot & problem solve when urgent technical solutions are needed
+Code review & mentor junior engineer s
+
+What We Offer
+
+Access to best-in-class engineer ing leadership with exciting opportunities to grow.
+The code that you create living on one of the many sites for a Fortune 500 company.
+Working with a global community of innovative, exciting team members at the helm of the company’s digital transformation. Leave your digital footprint on our custom, proprietary platform.
+
+Who You Are (Skills Required)
+
+You have 2+ years front end web development experience, with expertise in JavaScript (React is a plus) and in CSS with a focus on building complex layouts and meeting pixel-perfect design requirements
+You have 3+ years of Back-end development experience, with expertise in Perl, PHP or NodeJS and GraphQL APIs
+You have experience mentoring other engineer s & working with the product to define & drive solutions
+You have experience with building performant, responsive front-end components
+You have a technical background with knowledge in engineer ing principles and design patterns
+You are passionate about writing clean, modern, maintainable, & highly-performant code
+You have the pro-active ability and a self-starter attitude to troubleshoot and solve problems
+You have a positive, collaborative, and solution-oriented approach
+You have experience working in an Agile team and using Jira
+You have strong communication skills with excellent interpersonal effectiveness, in one-on-one interactions and presenting to a room
+You have self-awareness and a desire to continually improve
+
+Nice to Have
+
+Experience using UML diagrams for system design
+Experience transitioning from Monolith to Microservice architecture
+Experience with multi-step transactions, GraphQL and Micro-front architecture
+- provided by Dice

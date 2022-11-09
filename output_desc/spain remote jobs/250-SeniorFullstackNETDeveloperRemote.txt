@@ -1,0 +1,30 @@
+About the job
+En WayOps estamos buscando perfiles Senior Fullstack .NET Developer que quieran continuar su carrera profesional formando parte de un equipo Software de primer nivel y trabajando en proyectos punteros con las últimas tecnologías.
+
+La persona seleccionada participará en múltiples proyectos encargándose de desarrollar microservicios web con framework .NET Core, realizar diseños web o programar aplicaciones móviles con Xamarin. El desarrollo se realizará en entornos Cloud, principalmente Azure.
+
+EXPERIENCIA & CONOCIMIENTOS
+
+El perfil a incorporar deberá contar con 2-3 años de experiencia como desarrollador Backend utilizando ASP.Net, 1-2 años de experiencia en desarrollo frontend preferiblemente con Vue. Además, se valorarán conocimientos en entornos Cloud (Azure), experiencia con contenedores y certificaciones Microsoft.
+
+Se deberá aportar experiencia en las tecnologías:
+Backend .NET Core 3.1+ (Microservicios, EF Core, Dapper)
+Web Services (ASP.Net, REST, APIs, Oauth)
+Frontend (Vue, React o Angular)
+Databases (Azure SQL Server)
+Herramientas (Visual Studio, Visual Studio Code, Git, Azure DevOps)
+Agile (Scrum, Kanban)
+Conocimientos básicos de contenedores
+Conocimientos básicos de Azure
+
+Además se valorará experiencia en tecnologías como:
+Cloud Azure (WebApps, Storage Accounts, SQL Databases, Cosmos DB)
+Patrones de desarrollo (Repository, DDD, CQRS, Mediator)
+Contenedores (Docker, Kubernetes)
+CI/CD (Pipelines en Azure DevOps, Jenkins)
+Conocimientos de Xamarin Forms
+Certificaciones Microsoft (AZ-104, AZ-204, AZ-304)
+
+CONTRATACIÓN & UBICACIÓN
+
+La contratación será como indefinido o autónomo en jornada completa. El trabajo se desarrollará en remoto aunque podría ser necesario realizar reuniones puntuales en nuestras oficinas. Banda salarial negociable en función de la modalidad de contratación y experiencia.

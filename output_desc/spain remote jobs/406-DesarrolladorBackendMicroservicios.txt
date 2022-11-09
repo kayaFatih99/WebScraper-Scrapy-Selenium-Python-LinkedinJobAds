@@ -1,0 +1,98 @@
+About the job
+Desde Azertium IT nos gustaría contar con los mejores profesionales del Sector, y actualmente, estamos en búsqueda de un Desarrolladores Java con experiencia en Microservicios, con al menos tres años de experiencia laboral, para formar parte de nuestro equipo, con gran desarrollo profesional.
+
+Tienes entre 3 y 5 años de experiencia en Java/J2EE.
+Trabajas con Spring y conoces diferentes proyectos de su ecosistema (Spring Boot, Spring Data, Spring security, Spring Cloud, etc).
+Has trabajado con microservicios.
+Estás familiarizado trabajando con APIs y diseñando nuevas APIs REST aplicando buenas prácticas (preferiblemente usando el enfoque API First).
+Has utilizado y diseñado soluciones con Bases de datos relacionales y/o noSQL.
+Manejas Maven, GIT, Jira.
+Te sientes cómodo en entornos de trabajo Agile.
+Soy capaz de leer código y entender la lógica que hay detrás.
+Nuestros sistemas están en el cloud y estás interesado en trabajar con AWS, donde podrás conocer sus servicios para aplicar las mejores soluciones.
+Quieres trabajar con tecnologías modernas como Docker, Kubernetes, etc.
+Quieres aplicar los principios SOLID y Clean Code.
+Estás abierto a probar nuevas ideas y explorar alternativas innovadoras.
+
+Habilidades y Experiencia Obligatoria:
+
+Conocimiento avanzado de JavaScript
+
+Buenas prácticas (TDD, SOLID, continuo, documentación...)
+
+Métodos de organización AGILE
+
+Conocimiento de plataformas Cloud AWS
+
+Conocimientos de Python y/o PHP
+
+Habilidades y Experiencia Deseable:
+
+3 años de experiencia o más
+
+Nociones de arquitectura de software
+
+TypeScript
+
+BDD SQL
+
+Conocimiento en otros lenguajes
+
+Conocimiento de técnicas de optimización y mejora del rendimiento de sistemas
+
+¿Qué ofrecemos?
+
+Contrato Indefinido con Azertium IT
+Teletrabajo
+Puesto estable
+Desarrollo profesional
+
+Requisitos:
+
+Desde Azertium IT nos gustaría contar con los mejores profesionales del Sector, y actualmente, estamos en búsqueda de un Desarrolladores Java con experiencia en Microservicios, con al menos tres años de experiencia laboral, para formar parte de nuestro equipo, con gran desarrollo profesional.
+
+Tienes entre 3 y 5 años de experiencia en Java/J2EE.
+Trabajas con Spring y conoces diferentes proyectos de su ecosistema (Spring Boot, Spring Data, Spring security, Spring Cloud, etc).
+Has trabajado con microservicios.
+Estás familiarizado trabajando con APIs y diseñando nuevas APIs REST aplicando buenas prácticas (preferiblemente usando el enfoque API First).
+Has utilizado y diseñado soluciones con Bases de datos relacionales y/o noSQL.
+Manejas Maven, GIT, Jira.
+Te sientes cómodo en entornos de trabajo Agile.
+Soy capaz de leer código y entender la lógica que hay detrás.
+Nuestros sistemas están en el cloud y estás interesado en trabajar con AWS, donde podrás conocer sus servicios para aplicar las mejores soluciones.
+Quieres trabajar con tecnologías modernas como Docker, Kubernetes, etc.
+Quieres aplicar los principios SOLID y Clean Code.
+Estás abierto a probar nuevas ideas y explorar alternativas innovadoras.
+
+Habilidades y Experiencia Obligatoria:
+
+Conocimiento avanzado de JavaScript
+
+Buenas prácticas (TDD, SOLID, continuo, documentación...)
+
+Métodos de organización AGILE
+
+Conocimiento de plataformas Cloud AWS
+
+Conocimientos de Python y/o PHP
+
+Habilidades y Experiencia Deseable:
+
+3 años de experiencia o más
+
+Nociones de arquitectura de software
+
+TypeScript
+
+BDD SQL
+
+Conocimiento en otros lenguajes
+
+Conocimiento de técnicas de optimización y mejora del rendimiento de sistemas
+
+¿Qué ofrecemos?
+
+Contrato Indefinido con Azertium IT
+Teletrabajo
+Puesto estable
+Desarrollo profesional

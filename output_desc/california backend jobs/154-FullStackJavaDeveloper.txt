@@ -1,0 +1,24 @@
+About the job
+Senior Java Software Engineer
+Remote
+Full Time/Direct Hire
+We are seeking a Senior Software Engineer (Full Stack Java Developer) - this is a full-time employment role (direct-hire).
+Primary skills: 5+ years Full Stack Java programming, Javascript and/or Typescript, Angular, Cloud experience preferred
+Overview
+Under general supervision, the Sr. Software Engineer – Full Stack designs, tests, and implements Java-based web applications using industry standard software development practices, techniques, tools, and frameworks. Under the guidance of a Sr Developers and Application Architects, supports the design and develops complex business components in Java deploying to Java EE Application Servers. Provide technical support for production incidents, as well as system operations and maintenance support during system and application testing functions.
+Responsibilities
+Translate application use cases, user stories, and UI specifications into dynamic web applications.
+Provide estimates of level of work effort and time for completion.
+Develop and unit test complex application web components.
+Develop complex application business logic using Java. Design and code, and integrate application business layer with external application components.
+Create or update system documentation.
+Qualifications
+Bachelor’s degree or commensurate experience
+5+ years of experience designing, testing, and implementing Java-based web applications including a combination of the following:
+Expert on Java and Java EE technologies
+Experience with Angular 2+ and JavaScript/TypeScript preferred
+Expert working with Agile development methodologies
+Solid experience with Version Control systems such as GIT
+Familiar with implementing standard best practices (e.g. secure programming, Java patterns, and Test Driven Development)
+Experience with configuring automated CI/CD pipelines and able to use automation tools such as Bamboo/Jenkins and Selenium; developing in a Cloud (AWS) environment; Hibernate and Spring; Spring Projects such as Spring Boot, SpringMVC, Spring Data preferred; SOAP or REST services; WebLogic and/or WebSphere; Oracle RDBMS or other relational databases; issue tracking tools such as JIRA
+Candidates with less experience may be considered at a lower job grade and/or salary

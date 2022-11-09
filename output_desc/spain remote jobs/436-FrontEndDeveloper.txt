@@ -1,0 +1,13 @@
+About the job
+Senior Front End Developer
+£90,000-150,000
+The company are a hot new start-up focused on building complex, highly functionable, data-rich UIs and with over $20 million in funding from investors such as Accel (who funded Facebook’s initial rounds), they are looking for a Frontend/Full stack developer to take complete ownership over the platform. (React/TypeScript with Node and Golang on the backend if you want to work full stack)
+The platform itself aims to replace Excel as the go-to for displaying data and there are lots of new features to be added which means complex challenges such as multiplayer editing and developing high-data visuals, charts and tables.
+You will be responsible for translating functional requirements into maintainable, well-tested, and performant code. As well as playing a crucial role in setting the direction of their product, company and culture.
+
+Requirements!
+- Computer Science, Mathematics or Physics Degree
+- Numerous years of experience building complex UIs
+- React and TypeScript experience
+Fully remote across Europe, with offices based in London.
+If this is of interest, please do not hesitate to apply!

@@ -1,0 +1,50 @@
+About the job
+Do you want to change the world? At Cabify, that's what we're doing. We aim to make cities better places to live by improving mobility for the people living in them, connecting riders to drivers at the touch of a button. Maybe one day cities will be places where nobody needs a private car. But we've still got a long way to go...fancy joining us?
+
+We are looking for committed and proactive people who want to keep learning constantly and also, help us to grow technically and humanly working in collaboration with awesome people, and making an impact across our teams. Having a diverse and inclusive work environment is really important for us. That's why we like to count with different points of view in our team that help us to solve problems in a better way.
+
+You will:
+Take part in different projects within our technological stack, each project has autonomy to work in its own way.
+You will work with javascript and typescript, in addition our front projects use mostly React and redux, although you can also work in NextJs, Node and elm.
+You will be an active member of the Frontend guild meeting regularly with all the front engineers, collaborating and sharing libraries (internal or external), talking about good practices, building and proposing ideas about the maintenance of our code base.
+In a front project at Cabify you will find yourself working with git (gitlab), and continuous integration pipelines. Working in the morning on a function, making your colleagues review the code and once it is approved and integrated into the main branch if it passes all the pipes, automatically put it into production, we do "continuous delivery".
+We give quite a lot of importance to tests. You need a special sensitivity in creating unit tests (for example with react testing library), end-to-end (we work with cypress and cucumber) and automatic visual regression tests (we use Storybook and loki).
+You will use our design system and participate in its development and maintenance, so it is interesting that you have a good knowledge of HTML, CSS and design systems.
+All of our services are in the cloud and we currently work with kubernetes.
+If you do not have experience with any of the points discussed, you will have the opportunity to learn and improve them with the help of frontend mentors.
+
+Our Ideal candidate has:
+Great alignment with our principles, we take this very seriously.
+We are looking for a front-end engineer aligned with our company values, who is a good communicator and who can work in multidisciplinary environments.
+Have a solid background with at least 3 years of experience.
+Solid knowledge of HTML and CSS.
+Used to work with "toolings" such as webpack, eslint, prettier, babel, etc.
+Experienced with React and Redux.
+
+Nice to have:
+We are focused on functional programming, knowledge of functional libraries such as RXJS, lodashFP, etc.
+Server-side coding experience
+A CS degree
+
+What's it like to work at Cabify?
+
+We're a company full of happy, motivated people and we never want that to change. Here are some more reasons why it rocks to be part of our family:
+Excellent Salary conditions:
+Semi-Senior: 40K€ - 48K€
+Senior: 50K€ - 65K€
+All the gear you need.
+Very competitive stock option plan. At Cabify, we strongly believe highly committed, vision-aligned key roles must be long-term invested in the company's success, thus a significant portion of the compensation of roles such as this one goes in the form of stock options.
+Recharge day: Every 3rd Friday monthly OFF!
+Flexible work environment and hours. We care about the value you deliver, not how many hours you work. In fact, you shouldn't work too much: your wellbeing matters to us.
+Regular team events.
+Cabify staff free rides.
+Personal development programs based on our career paths
+Annual budget for training.
+Flexible compensation plan: Restaurant tickets, transport tickets, healthcare and childcare.
+We offer fully remote working conditions, or relocation packages to those coming from other countries.
+All the equipment you need (you only have to bring your talent).
+If you prefer to work from the Madrid office:
+Remote days available upon agreement.
+A pet room so you don't have to leave your furry friend at home.
+And last but not least... Free coffee
+Cabify is proud of being an equal opportunity workplace. We celebrate diversity and we are committed to creating an inclusive environment for all employees regardless of background, gender, religion, orientation, age or ability. Join us!

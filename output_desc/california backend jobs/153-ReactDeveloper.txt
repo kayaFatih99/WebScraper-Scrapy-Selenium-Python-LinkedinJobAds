@@ -1,0 +1,14 @@
+About the job
+• At least 4 years of experience working as a MEAN Stack developer.
+Vue.JS experience is must.
+• Experience with Node.js with Express, Couchbase, Redis, React with Redux, git, yarn and related technologies. is must.
+• Knowledge of Bootstrap 4, Redis, Git, yarn and related technologies.
+• Applying best modern CSS methodologies
+• At least 4 years of experience in software development life cycle. Agile in specific.
+• At least 2 years of experience in creating application design and creating design documents
+• Experience in leading team and scoping, estimation and scheduling
+• Understanding of technology trends.
+• Ability to work in team in diverse/ multiple stakeholder environment.
+• Strong problem-solving skills.
+• Analytical skills.
+• Experience and desire to work in a Global delivery environment.

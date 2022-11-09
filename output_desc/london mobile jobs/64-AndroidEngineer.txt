@@ -1,0 +1,35 @@
+About the job
+Android Engineer | Flexible working (once a fortnight) | £60k | Kotlin | Java | Coroutines | MVVM | Agile
+
+One of the leading global news organizations with 5 million+ downloads of their Android application. You’ll be joining an expanding team to work on improvements and features for the core experience of the app.
+You’ll be working closely with other Android developers, product managers, designers and IOS and server side developers.
+
+Tech stack: Java, Kotlin, Coroutines, RxJava, Agile, MVVM.
+
+What you will be doing day-to-day?
+Developing products, features, and services for the app.
+Assist with training of peers.
+Participate in software design, unit testing, QA process’, troubleshooting and code debugging.
+Liaise with other members across the teams from Product Managers, Designers and other developers.
+
+About You
+Competent in programming with Kotlin and ideally Java.
+Experience with MVVM architecture, Jetpack libraries and WebViews.
+Worked with RxJava or Coroutines.
+Experience in unit testing, instrumented testing and Test Driven Development.
+Understanding of Jetpack Compose (is a bonus)
+
+Flexible Working
+They would typically expect to see you in the office, on average, twice a month
+They also support a variety of flexible working requests.
+
+Benefits
+Remote, flexible, friendly company.
+Mental and Physical Health Insurance and dental scheme.
+Annual season ticket loan.
+Paid volunteering days.
+28 days holiday.
+Cycle to work scheme and subsidised gym membership.
+
+Process:
+Hit apply and I will give you a call to discuss in more detail, from there we will get your CV across to the client.

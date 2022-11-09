@@ -1,0 +1,47 @@
+About the job
+En in99 procuramos un acceso a la Justicia y a los servicios profesionales sencillo, rápido y asequible para todo el mundo, incluyendo a ese 99% de personas y pymes que han estado tradicionalmente excluidas. Es una scale up con más de 15 años de existencia. Esto es posible mediante un uso intensivo de la tecnología, ofreciendo servicios 100% online sin necesidad de desplazamientos. La continuidad de la compañía en el largo plazo está asegurada por un acuerdo de financiación con un fondo de referencia en España para los próximos cinco años. El propósito de este rol es el desarrollo de la plataforma de servicios profesionales e implementar nuevos productos. De esta posición tenemos actualmente 3 vacantes con relación a la posición de Full Stack Developer/Desarrollador Full Stack.
+
+Funciones
+Analizar los necesidades y requerimientos de los diferentes equipos, producto, legal, marketing.
+Desarrollar nuevas funcionalidades y mantener las aplicaciones web de in99
+Realizar pruebas y resolver las incidencias detectadas
+Documentar los desarrollos
+Realizar integraciones con servicios de terceros y propios a través de APIs
+
+100% Trabajo en remoto
+
+En in99 todos trabajamos en remoto y de manera distribuida, tenlo en cuenta antes de aplicar a este puesto.
+
+Requirements
+Experiencia en PHP con Laravel o Lumen.
+Experiencia en el desarrollo e integración de APIS.
+JQuery, HTML, CSS, JavaScript
+Bases de datos. SQL Server y/o MySQL
+
+Benefits
+Conecta con un propósito que resuena contigo
+Una de las empresas que más crece en Europa (+500% facturación interaual)
+Hemos cerrado recientemente un working capital revolving por cinco años con un fondo de inversión líder en España
+B Corporation (Pendiente Certificación)
+Great Place to Work Certification
+Máxima conciliación y flexibilidad
+Carrera profesional de verdad para trabajadores remotos. Todos trabajamos distribuidos sin oficinas centrales.
+El puesto es remoto
+Banda salarial: 29,000 € a 120.000 € en función de distintos factores.
+Formación bonificada
+Cheque guardería
+Seguro de salud
+Retiros corporativos
+Contrato laboral remoto indefinido
+
+A través de un uso intensivo de la tecnología procuramos un acceso a la Justicia y a los servicios profesionales sencillo, rápido y asequible para todo el mundo, incluyendo a ese 99% de personas y pymes que han estado tradicionalmente excluidas.
+
+Somos inclusión. Somos innovación. Somos in99.
+
+Espero que nuestro propósito y modelo organizativo resuene contigo y podamos conocernos pronto.
+
+Dimas Cuesta
+
+CEO Fundador
+
+in99

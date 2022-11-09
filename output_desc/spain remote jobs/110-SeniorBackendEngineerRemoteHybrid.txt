@@ -1,0 +1,62 @@
+About the job
+What about us?
+
+Sunhero is a residential solar energy company on a mission to make access to clean, PV solar energy easy and affordable. We leverage technology and innovation to accelerate the transition to clean energy.
+
+Sunhero was founded in 2021 by two entrepreneurs with over 25 years of experience launching companies in the international markets, including Airbnb, Rover, and Course Hero. Sunhero is headquartered in Berlin, Germany, and Barcelona, Spain. We are VC-backed by leading European investors, including Speedinvest and All Iron Ventures, and have ambitious growth plans.
+
+We started in Europe, but climate change knows no borders. And neither will we. Want to know more? Please visit Sunhero.com
+
+What would you do working with us?
+
+We are looking for a Senior Backend Engineer to join our team who is motivated to work on using technology to help solve the world's most pressing problem.
+
+To succeed in this role, you need to be an entrepreneur. You are analytical and strategic, with a pragmatic sense of how to get things done and openness for iterations and changes of course. You know that building a company means doing whatever works best for customers and partners and you are willing to roll up your sleeves to make this happen.
+
+- Design client-side and server-side architecture.
+- Collaborate with our development team to efficiently develop new features and fix ongoing issues.
+- Analyse, model, and build responsive web applications.
+- Write clean and maintainable code that is easy to understand and reuse.
+- Test software to ensure responsiveness and efficiency.
+- Be able to autonomously work on all stages of software development; model, implementation, and delivery.
+- Tackle new challenges and learn new technologies without being afraid to make mistakes along the way.
+- Be able to establish new architecture guidelines to create sustainable architecture patterns and guide others to utilize them.
+- Actively and constantly works with the team to improve their workflow processes to increase their outcome.
+- Guide less experienced peers through difficult challenges.
+- Be proactive while developing and take responsibility for the projects you are working on.
+- Multiply the skills of other team members by sharing knowledge.
+
+What would we need from you to be successful in this role?
+
+- 5+ years of experience in designing and delivering complex scalable software projects.
+- 3+ of experience with Python; previous experience in building APIs with this language is a strong plus.
+- 1+ years of experience with Java is a strong plus.
+- 3+ of experience with NoSQL data models.
+- Strong knowledge of distributed systems and patterns.
+- Strong knowledge of git and git workflows.
+- Hands-on experience with AWS services.
+- Hands-on experience with DevOps practices.
+- Deep understanding of APIs and how they integrate with websites and applications.
+- Hands-on experience with TDD is a strong plus.
+- Used to work with Scrum agile principles and methodologies.
+- Analytical and problem-solving skills.
+- Strong knowledge of computer theory, design and architectural patterns and algorithms.
+- Previous experience in a tech startup is highly desirable.
+- A strong motivation to positively impact the planet and change the way people think about energy production.
+- Strong written and verbal communication skills in English.
+
+This is a remote/hybrid position. You can work completely remotely if you prefer. We have a beautiful office in downtown Barcelona, where you are welcome to work if that suits you.
+
+What perks you will find in Sunhero:
+
+- A meaningful job - we are driven by the desire to make a positive impact in our planet.
+- You will get the chance to deliver impact and shape the path of one of Southern Europe’s solar panel most promising startups.
+- A chance to work with and learn from an experience, diverse, inclusive and international team. We are 17+ nationalities at Sunhero.
+- You will have a flexible working schedule that is based on ownership and autonomy of your role.
+- We are a working parent-friendly environment. 80% of our leadership are parents themselves.
+- If you are based in Barcelona and like to come to the office, we have a beautiful coworking space in the city centre.
+- We are remote-first and our working hours are CET +/- 2.
+
+Diversity & Inclusion
+
+Diversity and inclusion are important to us, and we’re constantly working to improve these aspects. At Sunhero, we don’t just accept our differences, we fully support and celebrate them. We’re committed to equal opportunity employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, or gender identity or expression. We strive to be an equal opportunity workplace.

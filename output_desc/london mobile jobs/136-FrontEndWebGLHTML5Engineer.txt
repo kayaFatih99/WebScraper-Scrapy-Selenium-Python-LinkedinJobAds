@@ -1,0 +1,34 @@
+About the job
+Salary range: £65,000 - £100,000
+
+V7 is an online platform for the annotation, training, and deployment of deep neural networks for image recognition. Its goal is to fundamentally change the way AI is developed and make it drastically easier to give the sense of sight to cameras, machines, or robots. Within this role you will be developing a platform to easily train and deploy vision AI from a highly interactive web interface.
+
+As a Senior Front End HTML5 Engineer at V7, you will be developing our product's front-end alongside our Elixir Back-End Engineers. You are proficient with working alongside design tools like Figma as well as front-end development for the web and for mobile platforms. However, you are also an expert in building tools using Canvas, HTML, WebGL.
+
+Darwin poses several challenges from a web development perspective, from loading datasets containing millions of images, to displaying medical imaging in a canvas which may be over 30,000 pixels squared in size. This role is for an experienced developer seeking a challenge in a competitive engineering startup.
+
+https://v7labs.com/working-at-v7
+
+What you'll Do:
+Optimisation of rendering on the client for images, videos.
+Building tools on the client using canvas/SVG/HTML/WebGL.
+Working on "data heavy" client side tasks like compression/decompression, dealing with large amount of data.
+Building extensible, maintainable code for the editor, with longevity and testability in mind.
+Write WebGL code where performance is a big concern.
+
+Requirements
+Hands on experience in building performant web applications using a major HTML5 Canvas component.
+Strong demonstrable understanding of matrix/vector mathematics.
+Experience using a modern web framework (Vue, Reactjs, Angular).
+
+Any experience with the following is extremely beneficial:
+Familiarity with the standard model/view/projection model for 3D rendering.
+Any experience with using a (web based) 3D rendering library.
+Any WebGL/OpenGL/GLSL experience.
+Experience with Vue.
+
+Benefits
+Unlimited vacation, just tell us when you need time off.
+Paid tickets, accommodation, and travel to relevant conferences, nationally or internationally (NIPS, ICCV, CVPR, ...) to expand your network & knowledge.
+Yearly 4-day company retreats in stunning locations.
+An early presence in the company and the chance to have a lasting impact on our work, in a novel application of DL within one of the most impactful fields.

@@ -1,0 +1,26 @@
+About the job
+Full Stack Java Developer
+Remote (US)
+Salary: $130k + Unlimited PTO/401k
+Key Responsibilities:
+
+Henderson Scott are working with a market leading tech/analytics company who are expanding their Software Engineering Team.
+They're looking to hire 2 Full-Time Full Stack Java Software Engineers. You will be working as a part of a successful engineering team (15 people) who work 100% remotely.
+Required Skills:
+Bachelor of Science Degree in Computer Science, Electrical Engineering, Computer Engineering, Aerospace Engineering, Math or Physics or a technical field (such as CIS or IT) AND a minimum of three years of relevant experience.
+Experience developing commercial applications using Java/Spring
+AWS
+Experience with best practices of object-oriented design
+Experience with unit and integration testing
+Understanding of configuration frameworks such as Spring and how to use Object Relational Mapping tools such as Hibernate / JPA
+Ideally some JavaScript/Angular experience
+Proficient ability to capture and document software requirements
+Knowledge and utilization of engineering tools necessary for successful performance of the essential functions of this job description
+
+Desirable Skills:
+Database and query design (SQL or NoSQL) experience
+Familiarity with continuous integration products such as Jenkins
+Experience with Infrastructure as Code tools such as AWS CloudFormation or Terraform
+Experience with public cloud infrastructure (AWS preferred)
+Experience with modern UI development frameworks (Angular, React or Vue)
+To Apply - Please Contact Sam Shinner at Henderson Scott

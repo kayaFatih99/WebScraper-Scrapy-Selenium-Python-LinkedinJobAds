@@ -1,0 +1,35 @@
+About the job
+Android Developer
+Location: London
+Work type: On-site/ office
+Eligibility:
+- Candidates on ILR (Indefinite Leave to Remain)
+- British Passport holders
+- Tier 2 Skilled Worker Visa holders
+This is an Inside IR35 project
+Overall 5/8 years’ experience (minimum) in developing complex and advanced mobile applications on Android.
+At least 1 year of Kotlin experience
+Deep understanding and Hands on experience of core Android concepts and best implementation practices
+Hands on development experience is a must and must be able to create boiler plate code (architecture implementation) before the development starts
+Deep understanding of MVC, MVVM, VIPER and other patterns
+Deep understanding of Factory, Adapter, Observer, Singleton and other behaviour patterns
+Deep understanding of Object-Oriented Programming, data structures, and design patterns Proficiency in Java application development
+Have published at least 5 Android apps on Play Store
+Must possess knowledge on App Security and Cryptography
+Must have worked on Offline Sync, Caching, Local Storage, Realm/Room/SQLLite databases
+Good exposure to API Caching and defining NFRs (Non Functional Requirements) for mobile applications
+Good working knowledge of tools such as Git, JIRA and Jenkins or any tools that are similar to these.
+Must have worked with Agile Methodologies
+Good communication skills and fluent in English
+Hands on experience with Reactive frameworks such RxJava or custom framework
+Hands on experience with Retrofit and/or volle
+Hands on experience on Mock frameworks such as Mockito or any other similar framework for unit testing
+Must have experience in Performance Tuning the app
+Must have experience using Android Profiler and ability to diagnose any memory leaks and crashes
+Implementation understanding of Multi-threading, asynchronous concepts
+Must have experience in complex integrations such as CRM, CMS, Push Notifications, Identity Management, SSO, Social Integrations to the App
+Experience integrating third party frameworks using Android Gradle.
+Worked with logging and capturing user navigation and app usage to Google Firebase and Crashlytics for understanding the most used features by users
+Deep understanding of Analytics, tagging, accessibility and performance engineering
+Must have experience working on Localization/multi language support
+Must have architecture experience on complex/large consumer facing apps.

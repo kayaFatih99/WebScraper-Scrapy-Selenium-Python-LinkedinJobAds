@@ -1,0 +1,20 @@
+About the job
+As a frontend engineer, you'll own large parts of the architecture and critical features of the product. We put innovation first, which means you'll drive cutting-edge features that customers are eagerly waiting for.
+
+You'll be involved in scaling the product, the team, and the entire company.
+
+### **Please apply asap if you**
+Are good at Vue/Nuxt.
+Are good at BEM and component-driven development.
+Like great design and carefully follows design system guidelines.
+Have a passion for writing clean and testable code.
+Are good at writing tests.
+Self-motivated and able to work independently.
+Product and business oriented. ### **Key responsibilities**
+Own end-to-end features and drive development decisions to create an easy-to-use and smooth user experience. For example, you'll be working on improving our visual builder, web app, and website.
+Build a reusable design system.
+Directly influence and introduce new engineering standards, tooling, and processes that help the team scale ### **What we offer**
+Full-time contract.
+A freelance remote position as one of the early employees at YC-company.
+Possibility to work from wherever you feel comfortable. We offer you flexible working hours with daily or weekly goals.
+Join an amazingly talented team.

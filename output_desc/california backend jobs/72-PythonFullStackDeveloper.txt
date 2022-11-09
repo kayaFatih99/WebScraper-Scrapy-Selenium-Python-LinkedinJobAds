@@ -1,0 +1,10 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, AgreeYa Solutions, is seeking the following. Apply via Dice today!
+
+Responsible for designing, developing, testing and delivering highly scalable services and applications within the Services Innovation Engineering Team.
+We use technologies like Python, Django , FastAPI , ReactJS , GraphQL , Docker, Kubernetes and operate on the Google Cloud Platform.
+You will be expected to get up to speed on existing codebases and participate in architectural discussions where your feedback will shape the future design of the SIET architecture.
+You are expected to be a lifelong learner who continuously strives to improve your Engineering craftsmanship by learning cross-functionally.
+This is a highly collaborative environment where you will be expected to work closely with your team members, product management, and members of service/product teams.
+Collaboration and teamwork are at the foundation of our culture and we need engineers who can communicate at a high level and work well with others towards achieving a common goal.
+provided by Dice

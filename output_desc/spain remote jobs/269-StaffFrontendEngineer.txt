@@ -1,0 +1,68 @@
+About the job
+THE CHALLENGE
+
+Eventbrite is a people-first organization. Our goal of building the global platform for live experience relies on the foundation of top talent and strong company culture. Our team is focused on frontend developer experience and architecture. Our ideal candidate is someone that is willing to work on deep problems and can also explain and help others learn and adopt solutions.
+
+THE ROLE
+
+You will work to plan and execute on a path to continuous improvement of our frontend development experience. We will work together to build tooling to improve efficiencies within the development lifecycle. You will be a part of improving our frontend frameworks and infrastructure to increase the performance and autonomy of our frontend teams. You’ll work closely with other teams to help train/mentor them, garner adoption, and improve our platform and product.
+
+THE TECH STACK
+
+The Frontend Infrastructure focuses on the JavaScript and React areas of the code base. To do so, we leverage the power of ESLint, webpack, Babel, TypeScript, and Node.js .
+
+THE SKILL SET
+
+You have experience working in rapid product development building responsive web pages using a combination of HTML5, CSS3, and JavaScript with recent experience in ES6
+You have experience working with React
+You have experience with state management frameworks like Redux
+You can lead and influence architectural designs
+You are a pragmatic programmer that understands how to balance quality, time to ship, and cost
+You understand build vs. buy tradeoffs
+You can improve engineering standards, tooling, and processes
+You have a deep understanding of cross-browser compatibility pitfalls and how to work around them
+You have a great track record of working closely with design teams to build beautiful and intuitive web pages and applications
+You enjoy mentoring and teaching colleagues at all levels, while also learning from them
+You have a holistic approach to quality
+
+BONUS POINTS
+
+You have previous experience working with a large engineering team on a complex web application
+You have previous experience with building tools (webpack, Parcel, rollup, etc.)
+You have experience with React frameworks ( Next.js , Gatsby, etc.)
+You have experience with strongly typed JavaScript (Typescript, flow, etc)
+You have experience with working in container environments (Docker, Noman, Kubernetes)
+You have experience with continuous integration tooling (CircleCI, Jenkins, TravisCI, etc)
+You have experience with cloud services (AWS, Google Cloud, Heroku, Netlify, etc)
+
+What We Offer
+
+At Eventbrite, we strive to support our Britelings and their loved ones through different stages of life with robust and attractive benefits, financial and physical wellness options, and great perks. In addition to offering a competitive salary and company stock, we have other great benefits available. In the Briteland, you’ll find great medical plans, fertility and adoption benefits, wellness reimbursement, generous parental leave, and much more.
+
+We Care About Your Mental Health And Wellbeing.
+
+Our employees enjoy free coaching sessions with Modern Health. We also offer free therapy sessions with a psychologist. You’ll also have access to private medical insurance for you and your family, that includes dental care. And our wellness program to pay for your gym expenses.
+
+We work hard to cultivate a diverse, equitable and inclusive culture where Britelings feel like they belong.
+
+Employees can participate in resource groups and we offer programming throughout the year to support a diverse and inclusive workplace.
+
+We offer ongoing training and career development that meets people where they are in their careers.
+
+We offer unlimited access to courses in Udemy, leadership coaching for all managers, Briteling led talks, and weekly company-wide town halls with our CEO. We take culture seriously and design programs with employee feedback in mind to make Eventbrite a great place to work no matter where you work from in the world.
+
+Work-life balance & flexibility is extremely important to us.
+
+Our employees can choose what works best for them: work in one of our offices, be fully remote or the best of both worlds! We believe in a flexible working environment to allow Britelings to perform at their best ensuring a healthy work-life balance. We have recently implemented Britebreak Fridays: all Britelings turn off their computers and take the first Friday of every month off to focus on their wellbeing.
+
+About Eventbrite
+
+Eventbrite is a global self-service ticketing and experience technology platform that serves a community of hundreds of thousands of event creators in nearly 180 countries. Since inception, Eventbrite has been at the center of the experience economy, transforming the way people organize and attend events. The company was founded by Julia Hartz, Kevin Hartz and Renaud Visage, with a vision to build a self-service platform that would make it possible for anyone to create and sell tickets to live experiences. The Eventbrite platform provides an intuitive, secure, and reliable service that enables creators to plan and execute their live and online events, whether it’s an annual culinary festival attracting thousands of foodies, a professional webinar, a weekly yoga workshop or a youth dance class. With over 290 million tickets distributed for over 5 million total events in 2021, Eventbrite is where people all over the world discover new things to do or new ways to do more of what they love. Learn more at www.eventbrite.com .
+
+Is this role not an exact fit?
+
+Sign up to keep in touch and we’ll let you know when we have new positions on our team .
+
+Eventbrite is committed to equality of opportunity for all staff, and applications from all suitably qualified individuals are encouraged, regardless of age, disability, sex, gender reassignment, sexual orientation, pregnancy and maternity, race, religion or belief and marriage and civil partnerships.
+
+Applicant Privacy Notice

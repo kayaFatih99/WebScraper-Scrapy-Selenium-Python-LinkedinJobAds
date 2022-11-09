@@ -1,0 +1,41 @@
+About the job
+JavaScript (ES6); React ;Vue; Testing |Proyecto Estable, empresa de viajes, 100% remoto
+
+About Our Client
+
+Contratación a través de Page Technology Services para importante proyecto en empresa española referente a nivel internacional en viajes.
+
+Últimas tecnologías, gran equipo multidisciplinar (Agile) de profesionales, movidos por la búsqueda de la excelencia.
+
+Job Description
+
+Construir y desarrollar una de las plataformas de minoristas de vuelos más grande de Europa.
+Creación de aplicaciones de alto rendimiento.
+Impacto real en el usuario.
+Entregar software de alta calidad y bien testado.
+Equipos de trabajo multiculturales.
+Best practices.
+Levantar riesgos y bloqueos.
+The Successful Applicant
+
+JavaScript (ES6)
+ReactJS y/o Vue
+GraphQL
+Testing: Mocha.Chai, Sinon.js, Jest
+Automation test: Selenium, Cucumber, Node.js
+SASS, CSS-in-JS y styled-components
+Webpack, babel, grunt, npm
+Inglés Alto.
+What's on Offer
+
+Contratación indefinida con Page Technology Services.
+Posibilidad de trabajar 100% en remoto.
+Excelente clima laboral.
+Desarrollo profesional.
+Salario competitivo en función de la experiencia aportada con las tecnologías descritas en la oferta.
+Beneficios sociales flexibles a través de la plataforma Cobee.
+Compensación de gastos de teletrabajo.
+Retribución flexible.
+Contact: Noelia Lopez
+
+Quote job ref: JN-082022-5718175

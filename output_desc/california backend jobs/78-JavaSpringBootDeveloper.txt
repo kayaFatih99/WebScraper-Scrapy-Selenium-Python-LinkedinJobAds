@@ -1,0 +1,12 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, AB2 Consulting Inc, is seeking the following. Apply via Dice today!
+
+Roles and Responsibility
+
+Minimum 8+ years of Java & J2EE with at least 4years of experience in architecting, designing API & Microservices using SPRINGBOOT.
+MUST have proven experience in Design of Microservice Applications leveraging Springboot
+MUST have Agile development experience
+MUST have strong knowledge on REST API
+Should be well versed with Junit, Mockito, Git, SonarQube, Maven, Nexus
+Strong analytical and communication skills
+- provided by Dice

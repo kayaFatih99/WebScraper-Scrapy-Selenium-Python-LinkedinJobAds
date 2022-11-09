@@ -1,0 +1,18 @@
+About the job
+Description
+
+
+Build real-time streaming analytics platform to compute recurring revenue metrics on GCP. We are looking for backend, data, devops, UI and full-stack engineers.
+
+
+Backend / Data Requirements (multiple positions)
+
+Node.js, Express, MySQL, TypeScript, Docker, Google Cloud Platform (Pub/Sub, Cloud SQL, Cloud Run, Endpoints etc.)
+Common Requirements
+minimum 4 years of relevant software engineering experience
+familiarity with modern software development process, code-reviews, pull requests, check-ins, CI/CD, trunk based development
+Git, Linux, Bash, Docker
+strong communication and debugging skills
+attention to details
+Time Zone: PST +/- 3 hours. Must be available during daily standup from 9-10am PST.
+Bonus: Cisco experience, GCP certification, developers who can work full-stack

@@ -1,0 +1,33 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, NITYA Software Solutions, Inc., is seeking the following. Apply via Dice today!
+
+Role: NodeJs Developer with Google Cloud Platform
+
+Location: Remote (PST Hours)
+
+Please provide (in a table) for all candidates apart from normal submission format. If candidate has Google Cloud Platform Certification, please share it across.
+
+We are Okay if they don’t have Google Cloud Platform Certification, but they need to have strong hands on in Google Cloud Platform and ready to take hands on interview with writing code on Dataproc/pubsub and other Google Cloud Platform services
+
+Proper LinkedIn link is must, SO Profile is good to have, please check with candidates on SO (Stack Overflow) and share.
+
+General Front End profiles must not work. They must have exp in Front and Back end, so need a strong Full Stack guy with exp in Nodejs and Google Cloud Platform.
+
+Job Description
+
+Build real-time streaming analytics platform to compute recurring revenue metrics on Google Cloud Platform.
+
+Backend / Data Requirements
+
+Node.js, Express, MySQL, TypeScript, Docker, Google Cloud Platform (Pub/Sub, Cloud SQL, Cloud Run, Endpoints etc.)
+
+Common Requirements
+
+Minimum 6 years of relevant software engineering experience
+Familiarity with modern software development process, code-reviews, pull requests, check-ins, CI/CD, trunk based development
+Git, Linux, Bash, Docker
+Strong communication and debugging skills
+Attention to details
+Time Zone: PST +/- 3 hours. Must be available during daily standup from 9-10am PST.
+Bonus: Cisco experience, Google Cloud Platform certification, developers who can work full-stack
+- provided by Dice

@@ -1,0 +1,25 @@
+About the job
+At micro1, we help connect the best remote developers with hand-picked Silicon Valley companies. Developers get the rate they want plus other amazing benefits. When you work with us, you get access to top Silicon Valley companies, and competitive, stable income. We have many trusted partners such as Webflow, IMX, Deel, and Ultraviolet.
+
+Job Description: Fullstack Developer
+
+The best fit should have:
+
+The ability to maintain our application (iOS & Android) made with React Native and our website made with React Native Web.
+The ability to add new features such as Push notifications
+The ability to upgrade Expo SDK and relevant NPM packages.
+The ability to resolve bugs on the go, perform code clean-up, etc.
+The ability to maintain our data management backend tool based on Python.
+The ability to work with Jira, confluence, and Git.
+The ability to optimize Firebase resource utilization.
+
+What we offer:
+
+• Flexible, remote work schedule
+• Highly competitive package
+• Healthcare Insurance
+• Unlimited Udemy Courses
+• And many more
+Employment Type
+Full-time
+Edit job description

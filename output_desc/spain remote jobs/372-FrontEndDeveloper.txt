@@ -1,0 +1,64 @@
+About the job
+Hi Professionals
+
+Greetings from Ampstek !!!
+
+
+Role: Front End Developer
+Location: Remote
+Duration: 12 months contract
+
+Interested candidates drop your resume sudhakaran.m@ampstek.com
+
+RESPONSIBILITIES
+
+· Expert Java script, DOM timing, html and CSS
+
+· Strong experience in react/redux, node JS
+
+· Knowledge on HTML & CSS
+
+· Experience in back end with node, express, react router, webpack, page performance optimization and SSR rendering of react pages, AWS familiarity (step functions, SNS, beanstalk), web analytics.
+
+· Knoledge on AB Testing is a plus
+
+· Develop new user-facing features on a rapid iterative basis
+
+· Become an expert on the underlying front-end ecommerce code base
+
+· Build reusable code and evaluate feasibility of site-wide front end libraries for future use
+
+· Ensure the technical feasibility of UI/UX designs
+
+· Optimize front-end feature applications for maximum speed and scalability
+
+· Assure that all user input is validated before submitting to back-end
+
+· Collaborate with cross functional team members and stakeholders
+
+The ideal candidate should have a thorough understanding of eCommerce design, JS technical chops, expert level CSS and familiarity with AB testing platforms.
+
+
+
+EDUCATION and EXPERIENCE
+
+· Experience in Web design, development, testing/debugging, implementation, documentation, and operations in medium-to-large enterprise environments
+
+· Expert Javascript, HTML5, CSS3
+
+· Advanced CSS and familiarity with cross browser libraries, compatibility issues and ways to work around them
+
+· Adobe Creative Suite experience
+
+· Responsive web design
+
+· Excellent oral and written communication skills to be able to clearly convey information
+
+· Strong understanding of asynchronous request handling, partial page updates, and AJAX
+
+· Wireframing and understanding of IA and its application in UI
+
+Thanks & Regards
+sudhakaran || recruiter
+sudhakaran.m@ampstek.com
++48(22)1857586

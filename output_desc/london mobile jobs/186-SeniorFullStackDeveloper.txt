@@ -1,0 +1,51 @@
+About the job
+Cerillion is a leading provider of billing, charging and customer management systems, delivering its solutions across a broad range of industries. We are looking for experienced full-stack developers (Java and Angular) to join our development team in the UK. You will be part of a cross-functional team that is responsible for the full Software Development Life Cycle, from conception to deployment.
+
+The team at Cerillion has already produced innovation in the fields of Cloud billing, Subscription Management, Mediation, Convergent Charging, Mobile Billing, Content Billing, Real-time Rating, Product Catalogue, Mobile App and Self Service.
+
+Role Overview:
+
+As a Senior Full-Stack Developer you will be responsible for developing the Java/Spring Boot-based services and Angular-based UI that underpin our product suite.
+
+You will work with other Development teams and Product Managers to define Product solutions and ensure a robust architecture. You will work with our Delivery Organisation to ensure the Product meets the needs of users. Alongside real-world coding experience, you should be passionate about enterprise product development, and prepared to make an impact on our development strategies.
+
+As a senior member of the team, you will be expected to use your experience and to have opinions about all aspects of Software Development and the desire to see through innovation.
+
+Key tasks and responsibilities:
+Work with development teams and Product Owners to define software solutions.
+Listen to feature requests and work closely with design and product teams to solve new use cases.
+Design and code well-functioning services and UI components.
+Actively participate in the product roadmap.
+Build a highly scalable & highly available enterprise system.
+Perform initial testing of software, and support colleagues through Testing project phases.
+
+What we’ll provide you with:
+Competitive Salary
+25 days annual leave (+ bank holidays), increasing to 28 days after 5 years’ service
+Vitality health insurance
+Pension / life assurance plan
+Cycle to work scheme
+Weekly fitness classes
+ShareSave scheme
+Regular company parties, after-work socials, and special events
+Hybrid working (2 days per week in the office/3 days working form home)
+Free breakfast and lunch on office days
+Mental Health First Aiders
+
+What we're looking for:
+5+ years software development experience
+Current, hands-on experience developing software in Java, Spring Boot
+Current, hands-on experience with Angular (Typescript) development
+Strong understanding of versioning tools (Git, Bitbucket).
+Experience developing RESTful Web Services
+Familiarity with Relational Databases and Hibernate
+Appreciation of full software development life cycle
+Strong analytical, interpersonal, problem solving and communication skills.
+Appreciation for non-functional requirements
+
+In addition, the following technical skills would be advantageous:
+Familiarity with Oracle RDBMS
+Experience of working in the Telecoms BSS/OSS domain
+Familiarity with TM Forum Open API
+Scrum Master Certification or experience
+Practical experience with containerisation

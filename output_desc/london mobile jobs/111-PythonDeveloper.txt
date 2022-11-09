@@ -1,0 +1,26 @@
+About the job
+Python Developer
+
+(Fully remote)
+
+A Python developer is needed to join a leading health-tech start up that are innovating the approach to diagnostics to revolutionise healthcare for both patients and healthcare professionals.
+
+They combine Artificial Intelligence, mobile technology and behavioural science to create the most effective digital therapy for diseases such as metabolic dysfunction or diabetes.
+
+This firm are currently doing ground-breaking work and are building a product that is targeted at reversing diabetes over 4 weeks.
+
+As a Python developer, you will be working closely with the tech lead to build out and test new features.
+
+You will be working on a modern technology stack consisting off Python/ Django/ AWS/ Docker
+
+Requirements:
+4+ years commercial experience working as a Python developer.
+Experience working with cloud infrastructure (ideally AWS).
+Experience working with Python Web Services (Django/ Flask/ FastAPI).
+
+Benefits:
+Remote first work environment.
+Equity shares.
+Personal growth and training budget.
+
+If you are a Python developer looking for an exciting challenge then please do not hesitate to apply!

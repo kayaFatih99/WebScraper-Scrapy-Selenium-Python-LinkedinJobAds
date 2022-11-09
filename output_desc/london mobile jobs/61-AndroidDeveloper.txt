@@ -1,0 +1,45 @@
+About the job
+Waracle is looking for a Senior Android Developer to join our friendly cross functional team.
+
+Waracle is an industry leading team delivering digital solutions that transform how we live, work and play.
+
+
+It’s an amazing time to join our team and you’ll be supported by a rapidly growing team of experienced specialists in design research, UX, UI, Scrum, product, data and cyber security, alongside developers specialising in native, hybrid and web technologies.
+
+We pride ourselves on our remote-first ethos so that this role can be based entirely remotely from anywhere in the UK or from any of our 4 tech hubs (Edinburgh, Glasgow, London and Dundee). This role is open to permanent candidates.
+
+
+You’ll be passionate about delivering happy customers, able to communicate clearly to stakeholders, and with strong commercial awareness.
+
+
+Responsibilities
+Creating and supporting development of new mobile applications for Android
+Integration of components and remote systems into the platform
+Software design and documentation
+Optimisation, profiling and debugging backend services
+Write unit and integration tests to ensure high quality code
+Communication with team to produce optimal results
+
+Requirements
+Experience in Android app development
+Experience with Android SDK
+Experience developing Android apps using Kotlin
+Experience with third-party libraries and APIs
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Solid understanding of the full mobile development life cycle.
+Java testing frameworks such as JUnit, Mockito, etc
+
+Benefits for our people
+Working for Waracle means you are part of an energetic and diverse community of technologists who care deeply about making a difference. We offer a wide range of benefits that support your wellbeing, health, personal and professional development goals. Our benefits package is reviewed regularly to ensure the best experience for everyone.
+
+🏡 Flexible working and a remote-first ethos
+🏖 Holidays – 31 days per year and a day off on your birthday.
+⏰ 35 hour working week
+💸 Company Pension and personal financial advisor
+📈 Free access to 1000s of personal development courses
+🏥 Group Life and Medical Cover
+🍼 Enhanced maternity and paternity leave
+🍎 Macbook and home office set up budget
+Plus many more!
+
+We are an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, gender, disability, religion/belief, sexual orientation or age.

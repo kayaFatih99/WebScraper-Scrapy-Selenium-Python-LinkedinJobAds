@@ -1,0 +1,51 @@
+About the job
+Job Title - Senior Laravel / Vue JS Developer
+Reports Into - Art Director
+Location - Remote
+
+A Little Bit about Kwalee….
+Kwalee is one of the world’s leading multiplatform game developers and publishers, with well over 900 million downloads worldwide for mobile hits such as Draw It, Teacher Simulator, Let’s Be Cops 3D, Airport Security and Makeover Studio 3D. We also have a growing PC and Console team of incredible pedigree that is on the hunt for great new titles to join TENS!, Eternal Hope, Die by the Blade and Scathe.
+
+What’s In It For You?
+Profit sharing scheme - we win, you win
+Quarterly Team Building days
+Pitch and make your own games on Creative Wednesdays!
+Flexible working hours - we trust you to choose how and when you work best
+All the equipment that you need to be properly set up
+
+Are You Up To The Challenge?
+As the Senior Laravel/VueJS Developer you will write code and game features that will run on server side helping our games run smoothly, you will have to work out how to deal with massive amounts of data efficiently, train machines to crunch data and generally play around with the latest and greatest in tech.
+You love to write efficient code and tackle hard puzzles, you like working with a committed team.
+
+Your Team Mates
+Tictales create tailored stories-on-demand services for the digital age. We want our audiences to experience quality storytelling and emotions at any time, any place. A passion for telling stories, entertaining players and using technology to bring great experience to massive audiences is what drives the team.
+
+What Does The Job Actually Involve?
+Create and Implement new API features to robustly support millions of mobile game players.
+Improving and Optimising the performance of our different internal tools.
+Collaborate with technical decision-makers to evolve platforms.
+Contributing to the design and architecture of our servers deployed on AWS EC2 Servers.
+You’ll be looking and training on news technologies that make sense.
+
+Your Hard Skills
+Strong Knowledge of MySQL, PHP and Javascript.
+A proven track record of writing high quality code with Laravel and VueJS.
+Experience in database management with hundred millions records
+Knowledge of GIT and AWS tools and environments
+The ability to write quick scripts to accelerate manual tasks.
+Some experience in NodeJS would be a plus.
+Some experience in UNITY and game development would be a plus.
+Knowledge of NoSQL databases (Couchbase, MongoDB, Cassandra, Memcache,etc.) could be useful but it’s not mandatory.
+
+Your Soft Skills
+Kwalee has grown fast in recent years but we’re very much a family of colleagues. We welcome people of all ages, races, colours, beliefs, sexual orientations, genders and circumstances, and all we ask is that you collaborate, work hard, ask questions and have fun with your team and colleagues.
+
+We don’t like egos or arrogance and we love playing games and celebrating success together. If that sounds like you, then please apply.
+
+A Little More About Kwalee
+Founded in 2011 by David Darling CBE, a key architect of the UK games industry who previously co-founded and led Codemasters, our team also includes legends such as Andrew Graham (creator of Micro Machines series) and Jason Falcus (programmer of classics including NBA Jam) alongside a growing and diverse team of global gaming experts.
+Everyone contributes creatively to Kwalee’s success, with all employees eligible to pitch their own game ideas on Creative Wednesdays, and we’re proud to have built our success on this inclusive principle.
+
+We have an amazing team of experts collaborating daily between our studios in Leamington Spa, Lisbon, Bangalore and Beijing, or on a remote basis from Turkey, Brazil, Cyprus, the Philippines and many more places around the world. We’ve recently acquired our first external studio, TicTales, which is based in France.
+
+We have a truly global team making games for a global audience, and it’s paying off: - Kwalee has been voted the Best Large Studio and Best Leadership Team at the TIGA Awards (Independent Game Developers’ Association) and our games have been downloaded in every country on earth - including Antarctica!

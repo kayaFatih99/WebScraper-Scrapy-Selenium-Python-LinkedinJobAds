@@ -1,0 +1,49 @@
+About the job
+One of the companies we work with is looking for a PHP Full Stack Software Development Engineer to join the team.
+Remote candidates must be living (or willing to live) in: Spain.
+
+Job description
+
+As a Full Stack Developer, it’s all about end-to-end ownership! You'll be responsible for designing, developing, and deploying new features and frameworks, focusing on high-performance implementations without neglecting the user experience.
+
+You’ll work in JavaScript/Typescript, using frameworks such as VUE or React on the client side, PHP on the server, and a number of languages, frameworks, and tools in between. You will be responsible for writing clean HTML and CSS. You will work closely with other developers, product designers and product managers in a collaborative and energetic environment.
+
+Here, we iterate quickly and refactor frequently, writing clean and simple code to solve critical business needs – and to provide the best possible experience for users. We like to remain curious and open to all technology stacks in order to keep our products innovative.
+
+Responsibilities:
+Creating web applications using PHP, PHP Frameworks, Javascript, HTML, CSS, and occasionally other languages.
+Architect efficient database schemas for new implementations or improve existing ones.
+Working closely with product management and product designers to define user requirements and translating them into reliable, intuitive features.
+Evangelizing code quality through writing well-architected, structured code, unit tests, while following best industry practices.
+Refactoring, optimizing and constantly driving for improved efficiency and code health.
+Implement or customize web interfaces using Javascript, CSS, and HTML.
+
+🏆 ABOUT YOU
+Engineer Degree / Bachelor Degree in Computer Science and 3+ years of relevant work experience in full-stack developments in a SaaS environment with Agile methodologies
+Profound knowledge of PHP 8, PHP Frameworks (Laravel or Symfony)
+Knowledge of design patterns and all Solid Principles as well as OWASP Top 10 for Web Application Security
+Knowledge of front-end technologies like Vue, React and Node.js
+Knowledge of web technologies such as Javascript/Typescript, CSS/Sass, HTML
+Experience in building RESTful API and handling API integrations
+Ability to adapt, estimate workload, break down a task into logical steps, solve problems, self-improve and suggest new ways of improvement
+You use time boxes to properly schedule your day, making room for all planned activities as well as some buffer for spontaneous meetings or collaboration with other developers.
+Last, but definitely not least: you speak, read, and write English fluently
+
+You’ll be our rockstar if:
+You have reverse engineering skills: ability to traverse logical sequences of either procedural or object-oriented code, abstracted or static - and understand it entirely.
+Have experience setting up and maintaining Docker build files as well as analyzing package compatibility while periodically keeping the tech stack up to date with the latest updates.
+You have experience in implementing fuzzy matching, and building efficient algorithms that can improve data compatibility.
+You have experience working with Amazon and/or Azure Web Services.
+Hiring Process
+Phone Screen with Juliette, HR manager
+Meet & Greet, with the Tech Lead
+Skills Assessment, with the Tech Lead and a senior development engineer from the squad
+Culture Fit Interview, with the rest of the squad
+
+Joppy is a tech recruitment platform built for developers by developers.
+✅ No CV required. Just say what you know and what you want.
+✅ Anonymous profile by default.
+✅ You choose who can talk to you. Companies can't write to you until you accept their offer.
+✅ Only relevant offers matching your preferences. No more Javascript offers for Java developers.
+✅ Get a reward if you get hired.
+Keep an eye on tech job opportunities anonymously and match the job that makes you happy.

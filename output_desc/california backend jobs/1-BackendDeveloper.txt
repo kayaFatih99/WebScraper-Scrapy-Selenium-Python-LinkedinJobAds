@@ -1,0 +1,16 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, adroitco, is seeking the following. Apply via Dice today!
+
+Backend Developer
+
+Remote
+
+Required Skills / Experience
+
+Experience in Advertising platform integration with Microsoft & Google Advertising products like GAM or other GMP products is a must
+Expert knowledge in J2EE application development frameworks and demonstrate proficiency, quality, and passion in your coding ability.
+Experience in building a Spring Boot application
+Experience in writing test cases in Spock groovy framework
+Experience in OAuth authentication and integration to Spring Boot
+Experience in cloud provider products Azure and Google Cloud platform.
+- provided by Dice

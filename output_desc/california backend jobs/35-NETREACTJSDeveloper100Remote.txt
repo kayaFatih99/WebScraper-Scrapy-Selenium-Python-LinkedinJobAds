@@ -1,0 +1,54 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, 4A IT Services LLC, is seeking the following. Apply via Dice today!
+
+One of our healthcare clients looking for a a.NET/React.JS Developer.
+
+Top Skills' Details
+
+.NET Core, C#, SQL
+React
+Understanding of SOLID principles
+Enterprise experience is highly preferred
+
+Candidates must complete a .NET IKM (preferably Multiling OR C#/React/Redux)
+
+Secondary Skills - Nice to Haves
+
+cloud
+azure
+azure devops
+
+Job Description
+
+This person will be updating and stabilizing Client’s Registration Accelerator product and integrating it with their other patient experience products. This product has technical debt, scalability issues, bug fixes, enhancements, etc., that need to be addressed. Additionally, client requests and customizations are constantly coming in, that is also adding to this team's workload. The existing team cannot handle the amount of work.
+
+Ideal candidate must be self-motivated with a proven track record building high quality, scalable web applications and APIs.
+
+Collaborates with peers to develop web applications, prototypes, and multimedia presentations.
+Develop, tests, documents and deploys web applications.
+Performs support and maintenance for web applications.
+Collaborates with external teams in the development of shared reusable component libraries.
+Provides time estimates and status reports for web application development projects.
+Performs support and maintenance of web applications.
+Participates in code reviews to ensure products are held to high standards and in adherence to style guides.
+Other duties as required
+
+Qualifications
+
+Additional Skills & Qualifications
+
+Bachelor's degree in computer science/related field or equivalent experience
+7+ years developing web applications utilizing C#, ASP.NET MVC, jQuery, JavaScript, CSS, HTML
+5+ years hands on experience with Microsoft SQL Server and SQL
+2+ years hands on experience with Entity Framework or other ORM technologies
+Experience with React
+Experience with REST based API development with XML/JSON
+Experience with Knockout or Angular
+Strong working knowledge of CSS
+Ability to determine root cause analysis and resolution of complex performance/stability related issues
+Ability to work with peers in a highly collaborative, fast-paced environment
+Strong ability to learn quickly and adapt to change
+Strong listening, detail-oriented thinking, and creative problem-solving skills
+Experience working within an Agile/Scrum/Kanban/Lean environment
+Healthcare industry experience is desired
+provided by Dice

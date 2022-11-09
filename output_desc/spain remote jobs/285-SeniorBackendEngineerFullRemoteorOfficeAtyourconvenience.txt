@@ -1,0 +1,96 @@
+About the job
+🏰 The challenge
+
+======================
+
+Neobanks, digital banking, fintechs... has been around for a long time, but even today, it is difficult to find fully satisfied clients with their bank. We believe that there is a lot of room to make things simpler and enjoyable.
+
+We don't want to reinvent the neobank, we want to elevate the money experience with the best technology and design. 👉 We want that you finally end enjoying managing your money 👈
+
+At the very beginning, Rebellion pay was just a virtual card and a bunch of crazy people. Now, 4 years later, we are more than 300K clients and one of the best-rated neobanks in the Spanish market.
+
+We are a team of 30 awesome talented people based in several countries; that succeeded in making Rebellion the first neobank to offer an ES IBAN and a physical card with Apple Pay and Google Pay.
+
+Offering an awesome current account is not enough, that's why we also built one of the simplest and fastest way to buy and sell cryptocurrencies in the market. Now we are exploring possibilities on DeFi and how personal finance will take advantage of it. It is a great time to build fintech.
+
+🤔 Why work at Rebellion?
+
+======================
+
+State of the art technology.
+We care about tech health. We take time to do things properly.
+We know how tech teams really works.
+We try, fail and learn. No shame on that. On the contrary, we encourage it.
+Nothing is started if the technical team does not fully understand what needs to be done.
+We ensure that you learn, grow and enjoy your work.
+You will design the solution. You will make decisions. You will take ownership.
+
+🔎 What are we looking for?
+
+======================
+
+As a Senior Backend Engineer, you will translate needs into server-side functionality with help of the Product team. You will work to grow the company, improving existing solutions and creating new ones. Besides, you will be working closely all teams, designing and developing fresh solutions as we scale our product and team.
+
+Also, you will ensure the robustness, performance, and failure characteristics of the solution and the system.
+
+You will work with an experienced agile experienced team of 11 people:
+
+5 Backends
+3 Frontends
+2 UX
+1 Product Manager
+
+Desired Skills and Experience
+✅ Must-haves
+
+======================
+
+Broad experience in Node.js
+Proven experience on integration of external APIs
+Knowledge and experience with automatic test tools
+Experience working in an agile environment
+High level of English
+Experience with making and running test on your solutions
+Care about good practices and principles
+Love to learn and experiment
+Passion to try new tech, solutions and challenges
+Team player
+
+👍 Nice to haves
+
+======================
+
+Good knowledge of Cloud AWS Amazon
+Experience with Kubernetes and Micro-services
+Typescript
+PostgreSQL
+InfluxDB
+Knowledge of NestJS Framework
+Knowledge of MongoDB
+Knowledge of Linux
+Knowledge of React
+Proven experience working in FinTech
+Knowledge and experience working with Banking Cores
+
+👏 What You Get
+
+======================
+
+Competitive salary range 40K-48K.
+Work in a place where failing is part of the process.
+Flexible working hours. We all have many spheres in our busy lives: family, fitness (well, some of us) ..., study...
+Full Remote, office or a mix of both. It’s totally up to you.
+Seeing your ideas become a reality—being part of a small and fast-growing start-up means you will grow with us to the next level.
+Career Progression. If you enjoy working in a fast-paced, innovative environment, you'll get on well here.
+A young and international team of talented professionals who are passionate about product. We speak Spanish, English, German, Portuguese, and Lithuanian—take your pick.
+
+🛵 Our recruitment process
+
+======================
+
+We don't bother you with a thousand interviews. Just 2 meets. We know exactly when someone fits.
+You will enjoy and learn with the technical test. You will receive deep and valuable feedback in return for your time.
+
+If you have any doubts, we encourage you to speak to any member of the team before applying :)
+
+Hope to see you soon.

@@ -1,0 +1,42 @@
+About the job
+About Earnin
+
+As one of the first pioneers of earned wage access, our passion at Earnin is building products that deliver real time financial flexibility for those with the unique needs of living paycheck to paycheck. Our community members access their earnings as they earn them, with options to spend, save, and grow their money without mandatory fees, interest rates, or credit checks. Since our founding, our app has been downloaded over 13M times and we have provided access to $10 billion in earnings.
+
+We’re fortunate to have an incredibly experienced leadership team, combined with world-class funding partners like A16Z, Matrix Partners, DST, and a very healthy core business with a tremendous runway. We’re growing fast and are excited to continue bringing world class talent onboard to help shape the next chapter of our growth journey.
+
+Position Summary
+
+We are looking for experienced, passionate and resourceful senior level engineers to join our backend teams. As a backend engineer you will work cross functionally with various teams and contribute to the design and development of our backend services.
+
+This is a remote position.
+
+What You'll Do
+
+Design & implement features robust enough for our exploding scale.
+Drive the implementation of new features - break down complex problems into its bare essentials, translate this complexity into elegant design and create high quality, maintainable code.
+Create and maintain test automation to enable continuous integration and development velocity.
+Design and implement highly reliable financial transaction systems that integrate deeply with money movement technologies (think card rails, ACH, RTP etc).
+Design & deliver thoughtfully crafted REST APIs to drive the interactions between our client applications and backend services.
+Collaborate and mentor other engineers while providing thoughtful guidance using code, design and architecture reviews.
+Work cross functionally with other teams (data science, design, product, marketing, analytics).
+Leverage a broad skill set and help us implement and learn new technologies quickly.
+Provide and receive design and implementation evaluations and improve per iteration.
+Debug production issues across our services infrastructure and multiple levels of our stack.
+Think about distributed systems & services and care passionately about producing high quality code.
+
+What We're Looking For
+
+4+ years of development experience in a fast-paced environment.
+Bachelor's, Master’s or PhD degree in computer science, computer engineering or a related technical discipline or equivalent industry experience.
+Proficient in at least one modern programming language such as C#, Java, JavaScript, Python, Go, Scala.
+Hands-on experience working with various databases (DynamoDB, MySql, ElasticSearch) and data pipeline technologies.
+Experience with continuous integration and delivery tools.
+Experienced in developing and executing functional and integration tests.
+Excellent written and verbal communication skills.
+Ability to thrive in a fast-paced, dynamic environment and you have a bias towards action and results.
+Experience with Kubernetes and microservice architecture is a strong plus.
+
+At Earnin, we believe that the best way to build a financial system that works for everyday people is by hiring a team that represents our diverse community. Our team is diverse not only in background and experience, but also in perspective. We celebrate our diversity and strive to create a culture of belonging. Earnin does not unlawfully discriminate on the basis of race, color, religion, sex (including pregnancy, childbirth, breastfeeding or related medical conditions), gender identity, gender expression, national origin, ancestry, citizenship, age, physical or mental disability, legally protected medical condition, family care status, military or veteran status, marital status, registered domestic partner status, sexual orientation, genetic information, or any other basis protected by local, state, or federal laws. Earnin is an E-Verify participant.
+
+Earnin does not accept unsolicited resumes from individual recruiters or third party recruiting agencies in response to job postings. No fee will be paid to third parties who submit unsolicited candidates directly to our hiring managers or HR team.

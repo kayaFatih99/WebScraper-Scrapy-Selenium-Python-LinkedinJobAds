@@ -1,0 +1,22 @@
+About the job
+Full Stack iGaming Software Developer
+
+Excellent Salary / Potential Equity
+
+Dynamic opportunity to join an early-stage and rapidly expanding gaming development company to manage software and build cutting-edge products for their clients. This organisation is also backed by the world’s leading gaming organisation with extremely exciting growth plans.
+
+Candidates must come from a strong iGaming & crypto background and be familiar with the MERN stack and DevOps. Successful candidates will also have the opportunity to move into the CTO position. Here is the tech stack in its entirety;
+
+React
+Next.js
+Node.js
+Core-js
+MongoDB
+Express
+GraphQL
+Web3
+NGINX
+Redis
+GSAP
+AWS
+Cloudflare Knowledge & Skills

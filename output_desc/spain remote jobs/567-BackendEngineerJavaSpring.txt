@@ -1,0 +1,45 @@
+About the job
+MotorK is the leading sales and marketing technology company in Europe, specializing in the automotive sector. At MotorK our mission is to empower manufacturers and dealerships to sell more with innovative, cloud-based products and services to offer the best digital customer experience. We are on a fast and ambitious trajectory and serving 90% of the automotive manufacturers. To continue our growth, we are hiring new talents. If you want to spark the future of the automotive world, join us.
+
+We have five core values to live by and they make MotorK an amazing place to work.
+
+Innovative: we will transform the automotive marketplace
+Growth: we play on the global stage and we set ambitious goals for our people and products
+Passionate about our customers: we live & breathe Automotive, we're committed to long-term customer relationships, and we win when our customers win
+Family spirit: we trust, support, and respect each other, working together toward shared goals
+Do the right thing: we champion diversity & equality in our teams, we conduct ourselves with integrity, and keep our promises
+
+What's the role about
+
+We're looking for passionate and business-oriented developers willing to help us raise our bar; code lovers who are experienced enough to know that for any given technical solution execution is a key factor for success. We're constantly striving to be data-driven. That means we measure everything that gives us insights we can use to continuously improve. We do that in a Lean way, using Kanban to represent our workflow while we're using Scrum as an agile framework.
+
+Requirements:
+
+Expertise in OOP in a Java 1.8 or later environment
+Clear understanding of fundamental computer science and software engineering concepts (e.g. design patterns)
+Hands-on with Spring Framework (JPA, Messaging, Restful, etc)
+Experience with third-parties systems integration and asynchronous jobs
+Expertise with relational databases (MySQL) and ORM (Hibernate and Gorm)
+Knowledge of unit and functional testing and experience with TDD (JUnit and Spock)
+Familiar with continuous delivery and with the principles of "you build it, you run it"
+Deep understanding of Agile principles and best practices such as peer review, pair programming
+Good spoken and written level of English
+
+What you will do
+
+Ship maintainable, robust, and tested code in production
+Collaborate with POs and other devs to deliver value incrementally but constantly
+Understand our business needs to make sure you're addressing them properly
+Liaise with the QA Engineers to test the user stories
+Identify and implement the best architectural solutions by collaborating with the architects
+Help improve our way of working based on continuous improvement
+Speak and write in terms that non-technical people understand. Clear communication is super important in our environment
+
+Benefits:
+
+Multicultural environment
+Smart Working
+Concrete career opportunities
+Training
+
+MotorK is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any kind. Our company is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at MotorK are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion or belief, age, family or parental status, or any other status protected by the laws or regulations in the locations where we operate.

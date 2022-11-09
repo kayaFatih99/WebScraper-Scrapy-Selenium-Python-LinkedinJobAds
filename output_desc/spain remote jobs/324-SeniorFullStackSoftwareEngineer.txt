@@ -1,0 +1,41 @@
+About the job
+Growth is the top priority for every company. Yet the best tools and practices are restricted to a few elite companies who can hire hundreds of engineers and data scientists. Everybody else loses $19 out of every $20 on generic marketing. Mutiny is building a no-code platform that helps companies convert that waste into actual customers and revenue by personalizing experiences based on who is actually viewing. Our greatest differentiator comes from the machine learning models we’ve built that learn across our platform and help our customers make the content changes to convert their prospects.
+
+This problem has not been solved in a decade and we are building an iconic company that will automate growth engineering for every company. That's why Sequoia, YCombinator, and CMOs of companies such as Snowflake and Airbnb invested. Mutiny is beloved by some of the fastest growing companies including Notion, Brex, Carta, Segment, Algolia and Qualtrics. We have quadrupled revenue year-over-year with even more on the horizon!
+
+Our culture:
+
+We started Mutiny by first codifying what type of company and culture we wanted to build. These values define how we approach our work every single day:
+Work should feel like play
+Faster always wins
+Stir the pot, regularly
+Do the right thing when no one’s watching
+All hands on deck
+Live in the world you want to change
+
+Read more about our engineering values here.
+
+The role, in a nutshell:
+
+We are looking for a full-stack software developer to join our growing engineering team. You will build, test, and ship software across the stack including optimized APIs to distribute data in real-time, high-throughput data pipelines to power machine learning models (like OpenAI's GPT-3 and reinforcement learning algorithms from Azure), and intuitive UX to provide a powerful, easy-to-use interface. Work closely with our product, design, and CX teams to define how features will work to drive the most value for customers. Be a critical voice in choosing the right architecture for our core systems, help to define an inclusive product culture, and learn from a world-class team of experienced engineers.
+
+What you’ll do at Mutiny:
+Architect, build, test, and ship highly-available and secure services that process and serve data at scale.
+Use data to support product decisions and impact core business metrics with your work.
+Use the latest web technologies and tools. Currently, we have services in Ruby and TypeScript and invest in our tooling and automation to remain productive.
+Work with the most advanced machine learning services, like Open AI's GPT-3, to automatically generate optimized content for customers.
+Build great user experiences that allow customers to easily understand their web audience and create personalized experiences for their key segments.
+
+What we are looking for:
+6+ years of software engineering experience in a web development or infrastructure position.
+Fluency in a backend programming language of choice (e.g. Python, Ruby, Node, Scala, etc).
+Fluency in a frontend programming language of choice (e.g. React, Javascript, Typescript).
+Familiarity with PostgreSQL or other relational database.
+Advocate of automated testing. We always include a full suite of tests for a feature to verify and future proof our code.
+An exceptionally high performance bar for oneself and everyone on the team. Unafraid to communicate what’s working and what needs to change.
+Someone who is energized by ambiguity and can create structure in a dynamic, fast-paced environment.
+A kind human who wants to build an extraordinary product, culture and brand.
+
+We are fully remote.
+
+Mutiny does not accept agency submitted candidates for this posting.

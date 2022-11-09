@@ -1,0 +1,31 @@
+About the job
+Who we're looking for
+We are looking for a Full Stack Engineer that is excited to join an early-stage startup, and take on an integral role in the development of our product. You will be responsible for the full software development life cycle, from conception to deployment. You should be comfortable around both front-end and back-end coding languages, development frameworks, and third-party libraries. You should also be comfortable building native apps for iOS and Android. We're looking for a team player that also has the passion and entrepreneurial mindset needed to help achieve the company's mission.
+
+Who we are
+Dappr is the easiest and most delightful way to start and run a business, guiding the founder all the way from selecting a name to selling their products/services, everything through one beautiful and intuitive UI. By making the necessary tools to start and run a business accessible, affordable, and super easy to use, we'll empower a new generation of entrepreneurs.
+
+What you'll be doing
+Work with the rest of our team to ideate software solutions
+Design client-side and server-side architecture
+Build the front-end of applications through appealing visual design
+Develop and manage well-functioning databases and applications
+Write effective APIs
+Test software to ensure responsiveness and efficiency
+Troubleshoot, debug and upgrade software
+Create security and data protection settings
+Build features and applications for iOS and Android
+Write technical documentation
+
+What you need to have
+Drive and motivation to build an amazing product
+Identify with the company's mission
+Passion for the work you do
+Experience as a Full Stack Engineer or similar role
+Experience developing mobile applications
+Familiarity with common stacks
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
+Knowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+Great attention to detail
+Degree in Computer Science, Software Engineering or relevant field

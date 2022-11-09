@@ -1,0 +1,35 @@
+About the job
+En Logicalis Spain queremos incorporar a 1 Back-end Developer con experiencia en arquitecturas even-driven.
+Funciones principales:
+
+Análisis técnico y desarrollo
+Redacción de códigos
+Documentación del código
+Requisitos:
+
+4 años de experiencia como desarrollador back-end.
+Experiencia trabajando con :
+Java 8+
+Spring boot
+Maven
+Microservices
+Kafka and event driven development/architecture
+Relational data bases
+NoSQL (MongoDB)
+API strategy (API first approach)
+Junit, Mockito testing frameworks
+Git
+2 años trabajando en Frameworks ágiles.
+Necesario :Inglés, mínimo B2.
+Beneficios y ventajas:
+
+Formarás parte de una empresa certificada como Great Place to Work (GPTW) donde apostamos por la ambición tecnológica, el desarrollo y el talento profesional.
+Flexibilidad laboral.
+Modalidad de trabajo: Teletrabajo
+Horario de oficina con viernes y verano intensiva.
+Formaciones y Certificaciones a medida.
+Clases de Idiomas.
+Plataforma de descuentos.
+Seguro médico.
+Gympass.
+Posibilidad de acogerse a planes de remuneración flexible (tarjeta restaurante, tarjeta transporte, tickets guardería…).

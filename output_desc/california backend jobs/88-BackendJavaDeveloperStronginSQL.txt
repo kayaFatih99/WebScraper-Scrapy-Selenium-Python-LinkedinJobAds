@@ -1,0 +1,20 @@
+About the job
+Title: Backend Java Developer Strong in SQL
+Location: San Ramon, CA/ Tempe, AZ (Remote for 6 months)
+Experience- 5+ Years
+Essential Job Functions
+
+Key Skills:
+Strong Java Backend
+Core Java
+Strong Spring boot & Spring Batch
+SQL,/Oracle
+DB
+Microservices
+5+ Years of hands-on experience in designing, building, evolving and working with large scale, complex cloud services
+Understanding of high traffic systems and REST services
+Experience working with DB like MySQL, Oracle etc.
+Experience with at least one of the development tools like Git, Gradle, Maven, Sonar, Jenkins, CircleCI, Artifactory etc.
+Self-motivated, with ability and interest in learning new technologies and adapting quickly to new requirements and environments
+Experience in open source software development highly desired (committer in an Apache Software Foundation project preferred)
+Knowledge of Node.js and server-side Javascript is a plus

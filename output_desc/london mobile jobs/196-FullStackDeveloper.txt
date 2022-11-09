@@ -1,0 +1,37 @@
+About the job
+Emotech was founded in 2015 in London, we are dedicated to multi-modality AI, multilingual speech and multimodal solutions. We provide a variety of products including digital avatar, 3D lipsync, online teaching assistant etc.. Emotech’s AI solutions have been applied in different industries such as smart cities, game and animation, education etc.. With Emotech’s tailored AI solutions, many leading technology businesses managed to reduce their operational costs, expanding their business globally.
+
+We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.
+As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility.
+If you’re also familiar with Agile methodologies, we’d like to meet you.
+
+Responsibilities:
+Work with development teams, design teams and product managers to ideate software solutions
+Design client-side and server-side architecture
+Build the front-end of applications through appealing visual design
+Develop and manage well-functioning databases and applications
+Write effective APIs
+Test software to ensure responsiveness and efficiency
+Troubleshoot, debug and upgrade software
+Create security and data protection settings
+Build features and applications with a mobile responsive design
+Write technical documentation
+Work with data scientists and analysts to improve software
+
+Required Qualifications
+Proven at least 2 years experience as a Full Stack Developer or similar role
+Experience developing web, desktop and mobile applications
+Familiarity with common stacks
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
+Knowledge and work experience of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g.VUE, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache)
+Excellent communication and teamwork skills
+Great attention to detail
+Organisational skills
+An analytical mind
+Degree in Computer Science, Statistics or relevant field
+
+Advantageous
+Computer graphics and animation or experience with modern game engines
+AWS, Hw Cloud, Google Cloud services
+Familiar with Webrtc protocol

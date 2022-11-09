@@ -1,0 +1,42 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, MSYS Inc., is seeking the following. Apply via Dice today!
+
+Title: Java Full Stack developer - Local to UT Only
+
+Location: Remote
+
+Length: Long term
+
+Restriction: W2 or C2C
+
+Description:
+
+Very long term project All projects with this customer goes for 5+ years *** Interview Type: Skype *** remote but must pick up laptop in person and go to office when needed at Salt Lake City, UT *** Candidate must take online test on Java Fundamentals and (Building Web Applications with React or Building Web Applications with Angular); local to UT only
+
+Job Description:
+
+Preferred/required skills: Developer (12/15 months with the possibility of extension) In order for a developer to step in and help in the creation and maintenance of the various OVRS applications, they will need the following skills:
+
+Java
+Spring Boot
+React (or modern frontend framework)
+REST APIs
+RDBMS especially MySQL
+SQL
+PHP
+HTML
+Javascript
+git
+Junit (or similar)
+IDE of choice (VS Code, IntelliJ, etc.)
+Nice to haves: UX/UI Skills, FHIR
+AWS Cloud
+
+Required skills:
+
+Modern Frontend Framework (React Preferred)
+Java & Spring Boot
+REST APIs
+SQL
+Modern Frontend Framework (React Preferred)
+- provided by Dice

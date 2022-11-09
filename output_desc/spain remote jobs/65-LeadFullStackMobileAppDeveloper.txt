@@ -1,0 +1,73 @@
+About the job
+Company description
+We are a social networking app dedicated to creating positive change. Based in the UK, Spain and Morocco, our company was founded with the mission of empowering users to create social impact on the issues that matter most to them (minority rights, environmental causes, etc.)
+
+About the role
+We are looking for a Lead Full-Stack Mobile App Developer to produce scalable software solutions. You’ll be responsible for the software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility.
+
+If you’re also familiar with Agile methodologies, we’d like to meet you.
+
+This is a remote role. You will initially work with us on a freelance basis, with the possibility of joining the team on a permanent basis after an initial project phase of 3-4 months.
+
+Job description
+Job responsibilities
+Develop a mobile application from scratch
+Test software to ensure responsiveness and efficiency
+Troubleshoot, debug and upgrade software
+Create security and data protection settings
+Build features and applications with a mobile responsive design
+Write technical documentation
+Write extremely high-quality code, review code, and work in a highly autonomous environment
+Develop and manage well-functioning databases and applications
+Write effective APIs
+Iterate quickly and fix bugs with ownership of the project
+Recognize new ideas and scopes and discuss with stakeholders to implement those ideas
+Contribute to discussions with the founding team on the pros and cons of features and deployment strategies from a development point of view
+Work on the design and delivery of features
+Write clean, efficient, documented, and reusable code
+Develop highly efficient user interface components
+Analyze app performance and drive improvements
+Optimize the platform for faster execution and high scalability
+Guide the team of junior mobile developers and mentor when required
+Design client-side and server-side architecture
+
+Minimum requirements
+Bachelor’s/Master’s degree in Engineering or Computer Science (or equivalent experience)
+Proven experience as a Full Stack Developer or similar role
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
+Knowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+5+ years of relevant experience in full-stack mobile development (preferably both iOS and Android)
+A portfolio of released iOS and Android mobile apps
+Demonstrable experience working with a wide range of back-end and front-end programming languages
+Prolific understanding of SQL and NoSQL Databases
+Extensive experience developing efficient data design and optimization in both relational and non relational database systems
+Experience in iOS native mobile app development
+Extensive experience in developing, testing, and releasing iOS & Android mobile applications
+Experience with Agile and Scrum methodologies
+Proficiency with Git and related technologies
+Fluency in English for effective verbal and written communication
+Must be able to work full-time
+
+Preferred skills
+Passion for technology and knowledge
+Passion for social causes
+Excellent leadership skills
+Exceptional listening, collaborative, and organizational skills
+Strong team player who can collaborate effectively with different stakeholders
+Expert sense & understanding of coding principles
+Desire to learn and grow as a developer
+Proactive, independent working style
+Excellent communication skills both spoken and written
+Ability to clearly articulate ideas and concepts
+Strong attention to detail
+Ability to work in close collaboration with the UX/UI designers
+The developer should demonstrate critical thinking and problem-solving skills
+Excellent teamwork skills
+Organizational skills
+
+What we offer
+A meaningful job that contributes to creating positive change
+The opportunity to do career defining work in a fast growing company
+A competitive salary
+Flexible hours

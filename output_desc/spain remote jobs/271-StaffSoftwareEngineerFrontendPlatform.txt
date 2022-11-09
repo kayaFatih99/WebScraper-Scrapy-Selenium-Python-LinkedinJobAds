@@ -1,0 +1,67 @@
+About the job
+Location (Remote): United States, Canada, Mexico, Bulgaria, France, Germany, Netherlands, Poland, Portugal, Romania, Spain, Sweden, United Kingdom
+
+Docker is a remote-first company with employees across Europe and the Americas that simplifies the lives of developers who are making world-changing apps. We raised our Series C funding in March 2022 for $105M at a $2.1B valuation. We saw a 4x year-over-year ARR growth last year and continue to grow! Join us for a whale of a ride!
+
+The Frontend Platform Team’s mission is to ensure high consistency, reliability, speed of development, reuse, and performance of Docker frontends, including Docker Hub and Docker Desktop.
+
+As a Staff Engineer, you will propose, prototype, and eventually publish tools and features to solve problems, such as:
+How can we ensure consistency and accessibility across Docker products?
+What do frontend engineers need out of their tools to ensure high velocity and a pain-free development experience?
+What architectural issues affect frontend engineers the most?
+
+You will collaborate with UX designers and engineers to design a reusable component library, adhering to our design system and accessibility needs. You will help migrate the codebase and guide architectural improvements and discussions. You will lead the frontend community of practice in discussions and in collaboration on tech initiatives.
+
+Responsibilities:
+Lead or contribute to the design and architectural improvements that enhance the frontend reliability and consistency in Docker Hub and Docker Desktop
+Work across teams, guiding migrations and working at times directly with other teams with technical implementation
+Write, review, maintain, and document JavaScript/TypeScript code
+Establish best practices and ensure they are upheld
+Write unit, integration, and e2e tests
+Deploy code to production, and own the product throughout the lifecycle
+Demonstrate open collaboration across teams and take ownership of supporting the internal engineering needs of the team
+Participate in 12-hour daytime on-call shifts for one week every 2-6 months, with additional pay
+
+Qualifications:
+7+ years of experience building SaaS applications
+5+ years with JavaScript
+3+ years with React, preferably with static typing (TypeScript, Flow)
+1+ years with writing backends or working with backend engineers on a team a plus
+Knowledge of security best practices
+Experience with design systems, Storybook a plus
+Experience with cloud platforms (AWS preferred, or GCP, Azure), databases (Postgres preferred, or MySQL, etc.) a plus
+Strong verbal and written English skills
+Desire to work on autonomous teams
+Demonstration of collaboration across teams
+Ability and interest in working at a fully remote company crossing international time zones
+Past demonstrations of proactively working outside of this job description
+
+What to expect in the first 30 days:
+Contributions to Docker Hub or Desktop frontend architecture
+Adding and enhancing components in Storybook in collaboration with the Design System Team
+
+What to expect in the first 90 days:
+Own frontend technical initiatives
+Assist in hiring and mentoring, raising the bar
+
+What to expect in the first year:
+Help lead frontend community of practice
+Introduce new architectural improvements and ideas in Docker frontends
+
+Perks:
+Freedom & flexibility; fit your work around your life
+Variety of virtual and in-person social events to build connections and have fun
+Home office setup; we want you comfortable while you work
+Generous maternity and parental leave
+Technology stipend equivalent to $100 net/month
+PTO plan that encourages you to take time to do the things you enjoy
+Whaleness Days: company-wide day off each month
+Quarterly, company-wide hackathons
+Training stipend for conferences, courses, and classes
+Stock Options; we are a growing start-up and want all employees to have a share in the success of the company
+Docker Swag
+Medical benefits, retirement, and holidays vary by country
+
+Docker embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our company will be.
+
+Due to the remote nature of this role, we are unable to provide visa sponsorship.

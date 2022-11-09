@@ -1,0 +1,35 @@
+About the job
+TransPerfect helps organizations navigate the global marketplace. It remains founder-led – and has striven to maintain the ethos and drive that led them to grow organically year-on-year for the past 30 years. Starting in an NYU dorm room in the early 1990s, TransPerfect is today recognized as the largest translation and language services company in the world with thousands of employees located in 90+ offices around the world – and has exceeded $1 billion in revenue in 2021.
+
+The TransPerfect TechOps team has been a vital part of the company’s success since its formation 10 years ago – delivering technology and services that have drastically simplified the lives of our clients and colleagues – from workflow improvements for colleagues to core services that form the basis of the company’s GlobalLink platform, to creating scalable client interfaces that allow novice users to navigate complex ecosystems.
+
+Your responsibilities and tasks will include:
+Lead the mobile apps cross-platform development.
+Code defined features, investigate and fix bugs.
+Write Unit Tests.
+Participate in Code Reviews.
+Take ownership and drive end-to-end quality software development processes.
+Ability to code following different architectural design patterns.
+Have knowledge of multiple areas or domains of the code/product.
+Show a constant interest in learning new things and try proof of concepts towards to improve the code/product.
+Be a mentor for other engineers.
+Actively participate in frequent code/design/architecture reviews.
+
+The minimum we’re looking for (show us what you got if you aren’t a perfect fit):
+4–7 years of experience in mobile applications development.
+Expert skills in cross-platform mobile development with React Native, and experience working with native modules and APIs.
+Ability to take complex designs from Figma and make the corresponding UI components.
+Experience deploying applications to Apple App Store and Google Play.
+Experience/knowledge of Agile methodologies like SCRUM/Kanban.
+Knowledge of SOLID principles.
+Knowledge of clean code practices.
+Ability to work with complex enterprise software architectures.
+
+Why should you join us? Let's see:
+💰 Competitive salary in line with your experience and knowledge.
+😏 You will work in a dynamic, well-functioning software development division with the world's largest provider of language services and technology solutions.
+📈 Significant room for growth.
+🎂 Enjoy a free day for your birthday.
+🏝 Up to 25 days of paid vacations.
+
+By applying, I confirm I have read and accept TransPerfect's Privacy Policy: https://www.transperfect.com/about/data-privacy-recruiting

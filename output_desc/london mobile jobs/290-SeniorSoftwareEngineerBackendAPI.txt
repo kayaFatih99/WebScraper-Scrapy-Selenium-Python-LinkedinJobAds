@@ -1,0 +1,34 @@
+About the job
+Orgvue, the leading organizational design and planning software platform, captures the power of data visualization and modeling to build more adaptable, better performing organizations. HR, finance and business leaders use Orgvue for actionable insight and analysis that helps them make faster workforce decisions in a constantly changing world. Orgvue is used by the world’s largest and best-known enterprises and management consulting firms to confidently build the businesses they want tomorrow, today.
+
+We are seeking a developer with strong backend development skills as well as solid knowledge of the JavaScript (and TypeScript) ecosystem. You will join one of our teams working on an industry-leading SaaS product that is used to design organisations. Your focus will be on developing, operating and scaling the customer-facing API product with use of emerging technologies, which brings many opportunities for learning and innovation.
+
+What You’ll Be Doing
+Building a versioned, fully documented for customers, public, cloud native, RESTful API as your main product as part of a team
+Working with solution designers, engineers, and technical architects to clarify and help design solutions
+Coding, documenting, deploying, operating and scaling the product as a serverless application using observability and analytics of API usage
+Mentoring others and actively helping team members grow
+Solidify the team’s ways of working around code reviews, deployment practices, testing strategy from unit to integration to end to end.
+
+Requirements
+
+What we are looking for
+Demonstrable commercial experience in web application development using Node.js
+Commercial experience, deep understanding and design experience in RESTful API development and delivery
+Ability to work using Agile methodologies with minimal oversight or supervision
+Excellent problem solving and analytics skills, with proven experience of requirements gathering and translating requirements into technical deliveries
+An eye for detail and ability to build accessible and intuitive user interfaces
+The successful candidate will have experience using or be willing to train in using API Gateway, Lambda, S3, DynamoDB, step functions, SQS, Event Bridge, as well as some basic Golang.
+
+Benefits
+Hybrid working
+Wellbeing: You will have access to a blended program of Wellbeing initiatives, including confidential access to qualified therapists, virtual fitness sessions and regular webinars on mental health and wellbeing issues. We also provide a free message-based support app to help you through difficult times, whether that’s at home or work
+Perkbox: Discounts on a wide range of restaurants, shops, experiences and technology
+Subsidised Gym Membership
+Private Medical Insurance and Life Assurance
+25 days holiday
+Pension Contribution matched up to 5%
+Season ticket Loan
+Cycle to Work Scheme
+
+Here at Orgvue we promote individualism and a diverse workforce to build on our future success

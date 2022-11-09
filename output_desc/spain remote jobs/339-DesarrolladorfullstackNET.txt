@@ -1,0 +1,29 @@
+About the job
+¿Quienes somos? atSistemas, consultora tecnológica que trabajamos con las tecnologías más punteras del mercado. Entre otras, trabajamos con 14 empresas del IBEX-35 así como desarrollamos proyectos internos de innovación.
+
+
+¿¿Eres un apasionado del desarrollo en entornos Microsoft? ¡¡¡Esto te interesa!!!
+
+
+En atSistemas buscamos un desarrollador .net fullstack con un mínimo de 3 años de experiencia para incorporarse a nuestra Comunidad Microsoft y participar en nuestros proyectos desde nuestros centros de desarrollo, o desde nuestra Red de talento Remoto, ¡pudiendo escoger la mejor opción para ti!
+Por todo ello te ofrecemos grandes posibilidades en plan de carrera, formación y certificación para crecer profesionalmente. Te encargarás de desarrollar nuevas aplicaciones así como también darás soporte al producto de nuestro cliente ¿Qué buscamos?
+
+
+● 3 años de experiencia o más en desarrollo C#
+● Conocimientos de Net Framework 4.5-4.8
+● Conocimientos de WinForms y WebForms
+● Haber trabajado con bases de datos relacionales como SQL Server
+
+
+En atSistemas utilizamos la tecnología para estar cerca, nos profesionalizamos, investigamos, creamos y vendemos nuestras propias creaciones, nos certificamos, realizamos eventos, nos divertimos y además ayudamos a nuestros clientes a tener mejores procesos de producción.
+
+
+¿Qué más se puede pedir? Pues además puedes contar con beneficios como:
+- Formación en inglés para todos desde el primer día y formación en últimas tecnologías. Consulta nuestro calendario aquí: https://www.atsistemas.com/es/únete/formación
+- Opción de retribución flexible (tickets restaurante, cheques guardería, tarjeta transporte, seguro médico) y certificaciones oficiales.
+- Buen ambiente de trabajo y posibilidades de desarrollo profesional en una empresa en crecimiento, organizada por centros expertos con identidad propia.
+- Club de ventajas AT: benefíciate de nuestros descuentos en productos y servicios.
+- Embajador de nuestra marca, a través de nuestro Plan Amigo.
+- Eventos, meetups, techdays, charlas...Además de otros beneficios y sorpresas que vamos realizando a lo largo del año. https://www.atsistemas.com/es/únete/ventajas
+
+¿A qué suena interesante? Pues, ¡ven a conocernos y juzga tú mismo!

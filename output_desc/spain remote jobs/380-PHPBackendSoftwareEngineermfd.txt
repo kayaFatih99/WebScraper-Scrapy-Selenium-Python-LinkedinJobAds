@@ -1,0 +1,78 @@
+About the job
+Why Spryker?
+
+We engineer for engineers and develop code that is easy to understand, customize and work with on a daily basis!
+
+Do you enjoy sharing your extensive knowledge and mentoring other developers? Do you have a strong service orientation, identify issues quickly, and are able to come up with a suitable solution that makes customers happy?
+
+Then join our Spryker App Composition Platform team as Backend Software Engineer (m/f/d). App Composition Platform allows Spryker Cloud customers to try out 3rd party services with their online business in the most seamless, secure, and curated way. As part of that team, you’re at the forefront of Composable Commerce and key to Spryker’s future success.
+
+Our App Composition Platform organization consists of multiple cross-functional teams aligned around a shared vision and strategic goals that are owning the success of their area.
+
+Your Challenges & Opportunities
+
+Become an expert with the Spryker App Composition Platform
+Develop and maintain our platform running on AWS
+Create exciting new App categories by building the integration into Spryker Cloud Commerce OS
+Build integrations to 3rd party services enabling our customers to choose the best service for their needs
+Work cross-functionally with your team
+Take on responsibility by truly owning what you’re building
+Constantly challenge the status quo and push for improvements in how we work
+
+Our Expectations
+
+You have strong experience with PHP
+Experience building and consuming REST APIs
+Knowledge about professional software engineering e.g. SOLID principles, Clean Code, Separation of Concerns
+Proficiency in developing, deploying, and debugging cloud-based applications using AWS, especially working with message queues
+Good understanding of automated testing and experience writing tests
+Experience working in a high-paced agile environment
+Capable of unblocking yourself and dealing with ambiguity – you’re able to find solutions and make reasonable assumptions
+E-Commerce experience is a plus
+Advanced English skills
+
+About Spryker Tech
+
+⚙️We Are Open Source: https://github.com/spryker
+
+🏔️We strive for excellence: https://docs.spryker.com/
+
+✨We build community: https://spryker.com/community/
+
+❇️Check our StackShare
+
+SOUNDS LIKE YOU?
+
+This is a fully remote role in a global team of top people and PHP professionals at Spryker!
+
+Our Talent Acquisition Manager (Tech), Liana (connect on LinkedIn) is looking forward to learning more about how your story aligns with this role. Apply now and let’s talk!
+
+About Spryker
+
+Since 2014, Spryker has been enabling digital innovation and helping enterprises differentiate with its composable commerce platform. Spryker’s easy-to-use platform offers a best-of-breed approach that provides businesses the flexibility to adapt in an ever-changing market which helps them to future-proof their business. As a global platform leader for Enterprise Marketplaces (B2B & B2C), Thing Commerce, and D2C, Spryker has empowered 150+ global enterprise customers worldwide and is trusted by brands such as ALDI, Siemens, Weleda, Toyota, and Ricoh.
+
+Spryker is taking new markets by storm, expanding across continents to offer clients the most flexible commerce platform on the market. This requires a special mindset, relentless human effort, and lots of collaboration within the team, which is proudly called the Spryker Herd. Learn more at www.spryker.com/career/.
+
+REASONS TO JOIN SPRYKER
+
+🤹 Flexibility: be your most productive, creative, and amazing self - work from anywhere, benefit from unlimited vacation days, and fully flexible working hours. To better settle in - use our office equipment allowance.
+
+🧗 Growth: develop your skills further by spending a generous budget assigned to every Sprykee via self-learning tools, training, and workshops, as well as free language classes and knowledge sharing sessions. We provide each Sprykee with holistic and regular 360° feedback as well as personal and professional growth.
+
+🪢 Diverse Herd: don’t aim to fit in - stand out and step up! We are passionate about many things and one of them is our authentic selves - embracing, working and collaborating across all of our differences. We are an equal opportunity workplace, partnering with different organizations, nurture Sprykee Affinity Groups and have our own Diversity Council.
+
+✨ Spryker spirit: identify, connect, and exchange with our herd, living the Spryker spirit. Low ego culture and collaboration, live, hybrid and virtual team events, legendary parties in surprising locations where we gather our entire global herd.
+
+🚀 Innovation: constant innovation lies not only at the heart of our product but is key to our DNA in all areas of business. Choose between the newest hardware versions, work with the latest tools and technologies and help us to become a global leader for next-gen enterprise commerce.
+
+HERD STATEMENT
+
+We are innovators, challengers, and proactive solution-seekers. We are empathic lateral thinkers and team players first. But above all, we are all different, and that is what makes our Spryker herd unique!
+
+At Spryker, we are proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or disability status.
+
+Our Spryker herd welcomes all.
+
+Spryker solely collaborates with selected agencies where terms and conditions are in place and does not accept unsolicited headhunter or agency sent resumes.
+
+Check out our Career page, Instagram and LinkedIn for more.

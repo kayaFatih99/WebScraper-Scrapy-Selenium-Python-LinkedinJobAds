@@ -1,0 +1,15 @@
+About the job
+Role: Java Developer with Lambda
+We have the position open at the following locations:
+Jersey City, NJ/Irving, TX/Tampa, FL
+Duration: Full Time
+
+Note: Note- After joining, initially remote for a month, and then it’s hybrid
+Skills & Qualification:
+Strong core Java background with experience working Java 8, Java 11.
+Strong understanding of Micro Services
+Strong experience on Coding, Lambda
+Good knowledge of Java/J2EE web application technology stack (Core Java, Spring core, Spring MVC, Hibernate, REST, Spring Boot).
+Extensive knowledge on Micro Services Architecture.
+Experienced in any CI-CD pipelines/Jenkins
+Ability to integrate existing APIs (REST/SOAP).

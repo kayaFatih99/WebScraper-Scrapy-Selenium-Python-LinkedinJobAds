@@ -1,0 +1,56 @@
+About the job
+Talentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS.
+
+Overview
+
+We are actively searching for a Junior Full Stack Java Developer to join our team supporting a new program/customer initiative. Work location is REMOTE or Rockville, MD if preferred.
+
+Duties & Responsibilities
+
+Perform application development and support
+Understand and apply development design patterns.
+Understand and apply design methodologies including Object-Oriented Design and Analysis and Domain-Driven Design
+Understand and leverage common architectural styles and patterns (SOA, Microservice, Layered, Clean, Event Sourcing, CQRS, etc.)
+Understand and apply quality techniques and practices (automated unit testing, Test Driven Design/Development, java performance analysis, continuous integration)
+Problem and modification identification, classification, and prioritization
+Design and development of RESTful APIs
+Creation and maintenance of system documentation and artifacts
+Provide support for critical production issues
+Be part of Agile/Scrum cross-functional team and bring your own unique skill set to the table and collaborate with others to accomplish team goals
+
+Requirements
+
+Bachelor's Degree in Computer Science, Information Systems, or in an associated discipline or an equivalent combination of education and training that provides the required knowledge, skills and abilities
+2 year of software experience, both front and back end development experience
+Java 8+, Hibernate, Maven, relational databases (Oracle, Postgresql, etc.), REST Services, Spring Boot
+UI languages (Javascript, etc.) and frameworks (React, Angular, etc.)
+Experience with AWS platform services, and application/service deployment in AWS
+Experience in Agile/Scrum environment
+Demonstrates critical thinking to problem-solving
+Demonstrates teamwork
+Self-motivated, ability to meet deadlines
+Must be able to obtain and maintain a Public Trust Clearance
+
+Preferred Qualifications
+
+UI languages (Javascript, etc.) and frameworks (React, Angular, etc.)
+Knowledge of user centric design
+Experience in an environment where Data analytics and machine leaning is part of the enterprise architecture
+Knowledge of maintaining security continuous monitoring
+Knowledge of DevOps
+
+Compensation
+
+The proposed salary range for this position is $65,000- $85,000. Final salary will be determined based on various factors such as geography, experience, certifications, etc
+
+Company Description
+
+Hiring Company and its Family of Companies (Medical Science & Computing and Ace Info Solutions) was acquired in October 2021.
+
+Guidehouse is a leading global provider of consulting services to the public sector and commercial markets, with broad capabilities in management, technology, and risk consulting. By combining our public and private sector expertise, we help clients address their most complex challenges and navigate significant regulatory pressures focusing on transformational change, business resiliency, and technology-driven innovation. Across a range of advisory, consulting, outsourcing, and digital services, we create scalable, innovative solutions that help our clients outwit complexity and position them for future growth and success. The company has more than 12,000 professionals in over 50 locations globally. Guidehouse is a Veritas Capital portfolio company, led by seasoned professionals with proven and diverse expertise in traditional and emerging technologies, markets, and agenda-setting issues driving national and global economies.
+
+Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance, including the Fair Chance Ordinance of Los Angeles and San Francisco.
+
+If you have visited our website for information about employment opportunities or to apply for a position, and you require accomm

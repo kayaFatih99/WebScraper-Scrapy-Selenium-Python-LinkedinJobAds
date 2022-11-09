@@ -1,0 +1,54 @@
+About the job
+Description
+
+Senior Frontend (React) Developer
+
+We’re looking for talented, friendly and adaptable Senior Frontend Developers specialized in React to help build our suite of consumer and supplier facing products. We believe in Agile principles and values, our teams typically use Kanban and various XP practices, we love DDD and we are embracing eventual consistency in our new services.
+
+You will be working on a variety of exciting technologies. Our UI applications are written using React & TypeScript, served using Node.js and packaged using Yarn. Our backend is written in Java 11/Spring Boot and provides a well defined, collaboratively designed API to your UI applications. All our applications are deployed within Docker containers and monitored using Prometheus. Everything runs in AWS.
+
+We don’t just ship features, we’re building a Europe-wide platform & team, and know we need to do great work to succeed. To achieve this, we need people who love being challenged, learning new things, and growing with their team.
+
+You Will Be Responsible For
+Working as part of a Agile team writing and shipping high quality code frequently
+Working on a variety of exciting technologies (Typescript / React, Redux / GraphQL, CSS-in-JS (Emotion), Github / Github Packages managed by lerna, Docker / Kubernetes, AWS S3 / Cloudfront)
+Deploying the application through automated pipelines in CI/CD and monitor it using Sentry and Google Analytics for business metrics.
+Do whatever you can to help your team meet or exceed its goals and you will drive incremental improvements in both the way we work and the software we deliver.
+Helping us to realise this vision and accelerate the journey, knowing what great technology looks like and mentoring our existing team.
+
+About You
+You have expert level JavaScript & Typescript skills.
+You’ve built high quality web interfaces using modern technologies & practices and are familiar with our frontend tech stack.
+You are comfortable with the running and maintenance of your team's applications in production.
+You understand component based CSS methodologies, like CSS modules.
+You’re familiar with design systems and how to translate them into reusable components.
+You know good UX, visual and good technical design when you see it and how to ensure quality is embedded in the software development process.
+You’ve been part of a high-performing, autonomous Agile development team who deliver continuously.
+You like learning new skills and challenging yourself & your team.
+You’re a good communicator, fun to work with and enjoy being part of a vocal, passionate team
+You get a kick out of mentoring and empowering the team around you.
+You’re keen to help promote the great work we do to the software development community, whether through blogs, meetups or open source contributions.
+You feel comfortable communicating in English. Any other language is a plus.
+
+About Treatwell
+
+Hi, we’re Treatwell. Nice to meet you.
+
+We’re a team of 800 (and growing) passionate and brilliantly talented people across Europe. We’re the industry’s smartest salon management software, all connected to Europe’s leading booking platform, working with over 50,000 salon partners across 13 countries and processing over 8 million bookings every month. And….breathe.
+
+But we’re not done yet. We’re on an exciting journey to digitally revolutionise the hair and beauty community.
+
+If this excites you, we might have just the role for you.
+
+We’ll Treat You With
+28-days holiday, plus bank holidays
+Monthly 40 EUR Treatwell vouchers so you can treat yourself too
+Growth funds for you to develop and grow with your team
+A discount for gym membership
+100% remote position with flexible working
+Annual Treatwell retreat to a sunny European destination
+All the tools / devices supplied to do the best job you can eg. laptop, monitor, keyboard, etc
+
+Equal Ops
+
+Treatwell is an ‘Open to All’ employer and warmly welcomes everybody to the team. We are committed to making reasonable adjustments to the recruitment process as required. Please add any adjustment requests to your application.

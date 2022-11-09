@@ -1,0 +1,62 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Manpower Engineering, is seeking the following. Apply via Dice today!
+
+Experis - A Manpower Company is engaged with one of the Banking and Finance client, looking to identify Java Software Engineer. This is 100% remote role. Great company to work with and exciting opportunity to grow both technical and leadership skills.
+
+Assignment Details:
+
+Title: Java Software Engineer
+
+Client Location: Naperville, Illinois (100% Remote Role)
+
+Duration: Full Time Permanent Role
+
+Department: IT - Business Transformation
+
+Summary
+
+Our company thrives on collaboration and the opportunity to help each other succeed. You will work as part of a team that values continuous learning and is excited to create leading edge products. The person in this role will have full stack responsibility and be skilled in designing and developing software applications and user interfaces using Java and other technologies.
+
+Responsibilities
+
+Design and develop software applications and user interfaces for loyalty and redemption platforms.
+Contribute to platform architecture and data modelling with primary responsibilities in real-time-reward products.
+Perform as a technical lead in an Agile software process that encourages creativity and collaboration
+Deploy using a Continuous Delivery model in a cloud environment
+Follow and contribute to design and coding standards
+Analyse and troubleshoot systems and platform issues
+Adapt to changing environment and learn new technologies quickly
+
+Qualifications
+
+Strong understanding and experience in Software Engineering Practices and concepts.
+Practical experience with Java, Spring Framework, and JavaScript.
+Ability to translate business requirements into technical requirements and product designs
+Foundational knowledge of AWS RDS, Postgres or equivalent
+Experience with modern web technologies, including React and Node
+Possesses strong Git
+
+Required Education And Experience
+
+6+ years' experience as a software engineer
+3+ years' experience in software design and architecture
+A Bachelor's Degree (preference given to Computer Science, Engineering and STEM majors
+
+Skills
+
+Node, Java/Spring, React, HTML/CSS, JavaScript, git is required
+SQL, docker, and familiarity with AWS services desired
+Outstanding verbal and written communication skills
+Excellent problem solver
+Comfortable working in a fast paced and agile environment and able to accommodate changing priorities
+
+Benefits:
+
+Health Insurance
+401K
+PTO
+And much more.
+
+If you are interested, kindly apply to this job opening with your resume and contact details, we will reach you at our earliest. Thank you.
+
+provided by Dice

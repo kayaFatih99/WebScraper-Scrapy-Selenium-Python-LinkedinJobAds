@@ -1,0 +1,33 @@
+About the job
+This job is sourced from a job board. Learn more
+Desde beonit trabajamos para ir más allá, donde las personas, el talento y el hacer son muy valorados por la compañía.
+
+Estamos buscando un Desarrollador Full Stack apasionado por la tecnología, que le guste trabajar en un ambiente colaborativo donde se presta ayuda sin pedir nada a cambio, y que le guste remar en la misma dirección del equipo para contruir un ambiente agradable con el engranaje perfecto.
+
+¿Cuál será tu misión?
+
+La misión es desarrollar una serie de pantallas y una web por la cual los candidatos de la empresa puedan buscar empleo.
+
+¿Qué necesitamos de ti?
+
+Al menos cinco años de experiencia como desarrollador.
+
+Experiencia en desarrollo Backend con Node.js.
+
+Experiencia en el desarrollo Frontend con Vue.js o React.
+
+Conocimientos en Bases de Datos.
+
+Recomendable conocimientos en Docker y Kubernetes.
+
+Recomendable conocimiento DevOps.
+
+Qué podemos ofrecerte
+
+Crecimiento al mismo ritmo de la compañía, en un ambiente profesional junto a un equipo colaborativo.
+
+Si crees que eres la persona adecuada, no dejes pasar esta oportunidad.
+
+¡Queremos conocerte!
+Desired Skills and Experience
+Programador, Analista-Programador, Fullstack, JavaScript, Node.js, React, Vue.js, Virtualización, Docker, Kubernetes

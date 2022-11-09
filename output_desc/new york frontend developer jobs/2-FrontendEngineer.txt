@@ -1,0 +1,22 @@
+About the job
+Our client is looking for Frontend Developers with a keen eye for design interested in joining a world-class team. You'll be working closely with backend engineers, product, and design teams to ship a core product that will define the future of the business.
+
+There is a significant growth opportunity for the Engineering team as the company continues to excel and invest in technology.
+
+This is a full-time and not a contract or C2C role.
+
+Responsibilities
+Develop and maintain pixel-perfect, cross-browser friendly, responsive websites.
+Work alongside Backend Developers, Graphic Designers, and User Experience Designers to ensure all elements of web creation are consistent.
+Work with QA on developing testing processes, frameworks, and automation strategies.
+Diagnose, troubleshoot, and resolve compatibility issues.
+Strike a balance between functional and aesthetic design.
+Create rapid prototypes and help build capabilities by working on extra projects.
+
+Qualifications
+Bachelor’s or Master’s degree in Computer Science, Computer Engineering, or related major.
+3+ years of experience in developing software applications.
+Proficiency in Javascript, HTML/CSS, and modern web technologies.
+Experience with one or more modern frontend frameworks such as React or Angular.
+Experience with graphic design applications such as Adobe Illustrator.
+The desire to work at an early-stage startup and have significant product ownership.

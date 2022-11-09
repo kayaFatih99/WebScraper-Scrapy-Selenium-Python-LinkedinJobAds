@@ -1,0 +1,35 @@
+About the job
+CI&T é uma digital specialist, parceira na transformação digital de ponta a ponta. Nativos digitais, temos um histórico de mais de 26 anos acelerando o impacto de negócios por meio de soluções digitais completas e escaláveis. Com a presença global de mais de 5.000 profissionais em estratégia, pesquisa, ciência de dados, design e engenharia, desbloqueamos o crescimento de receita, impulsionamos a experiência do cliente e aumentamos a eficiência operacional.
+
+Sua Missão
+
+Atuar junto ao cliente no desenvolvimento de aplicações para o Core bancário para uma das FinTechs que mais cresce no Brasil. Para isso, será necessário empregar as melhores práticas de engenharia de software e arquitetura. Assim como soluções cloud-based na AWS.
+
+Você Precisa Ter Prática Com
+
+Java \ Kotlin \ Python
+Spring, Quarkus ou Micronault
+Kubernetes
+Docker
+Automação de testes
+Git
+
+Você Irá Se Destacar
+
+Conhecer arquitetura Microservices
+Facilidade em aprender novas tecnologias e linguagens de programação
+Experiência com mensageria (Kafka)
+Oracle
+AWS (EKS, RDS, CloudWatch)
+Grafana
+Prometheus
+
+Somos uma empresa multicultural e inclusiva focada em criar um amanhã melhor.
+
+Sabemos que inovação e transformação só acontecem em ambientes de trabalho diversos e seguros, onde pessoas de diferentes origens e experiências se reúnem para compartilhar e criar ideias. Estamos construindo times cada vez mais diversos em relação a deficiências, idade, identidade de gênero e orientação sexual, etnia e raça, religião, culturas e experiências. Portanto, nossas vagas são para TODAS as pessoas!
+
+Para promover a inclusão, acreditamos que é importante romper as barreiras físicas e atitudinais. Por isso, caso você seja uma pessoa com deficiência, desde o início conte pra gente se precisar de algum recurso de acessibilidade para o processo seletivo.
+
+E aí? Se animou?!
+
+Então conclua a sua inscrição e boa sorte =D

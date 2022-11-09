@@ -1,0 +1,18 @@
+About the job
+International client of Venator Broadcast is looking for a experienced Back-End Developer to join their international team.
+
+This is a full remote based position on contract basis. Although a contract, they are looking for someone to join the team for a long-term collaboration.
+
+🚨If the below resonates with your experience and what you are looking for next - APPLY😊🚨
+
+Keen to design and build client-side and server-side architecture?
+Interested in taking part during the entire application lifecycle?
+Experienced in writing effective API's?
+
+Key Requirements -
+
+Significant experience in back-end development with Python/Django.
+Prior experience in integrating 3rd party API's.
+Hands on experience with Serverless Solutions in AWS to build web applications.
+
+Feel free to send your Cv over to roxy@venatorbroadcast.com and lets schedule a call to discuss further.

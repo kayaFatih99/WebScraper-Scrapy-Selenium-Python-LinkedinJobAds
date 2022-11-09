@@ -1,0 +1,32 @@
+About the job
+2389980
+
+About Pinterest
+
+Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+
+Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more.
+
+We are looking for inquisitive, well-rounded Full-stack engineers to join our Monetization engineering teams. Working closely with product managers, designers, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks & features. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.
+
+What You’ll Do
+Build out full-stack Pinner-facing features to power the future of inspiration on Pinterest
+Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users
+Partner with design, product, and backend teams to build end-to-end functionality
+Put on your Pinner hat to suggest new product ideas and features
+Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop
+Grow as an engineer by working with world-class peers on varied and high impact projects
+What We’re Looking For
+2+ years of industry full-stack development experience, building consumer or business facing products
+Proficiency in one or more common backend and frontend tech stacks: e.g. Javascript, React, API, storage, caching and data processing.
+Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers
+Ability to keep up-to-date with new technologies to understand what should be incorporated
+Strong collaboration and communication skills
+Colorado Based Applicants Only
+The minimum and maximum salary for this position is $131,100 to $196,800 in Colorado;
+This position is eligible for equity; and
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+This compensation and benefits information is based on Pinterest’s good faith estimate as of the date of publication and may be modified in the future. The level of pay within the range will depend on a variety of job-related factors that may include location, travel, shift requirements, relevant prior experience and/or education, or particular skills and expertise.
+Our Commitment To Diversity
+
+At Pinterest, our mission is to bring everyone the inspiration to create a life they love—and that includes our employees. We’re taking on the most exciting challenges of our working lives, and we succeed with a team that represents an inclusive and diverse set of identities and backgrounds.

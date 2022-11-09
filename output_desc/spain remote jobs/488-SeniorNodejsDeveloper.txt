@@ -1,0 +1,25 @@
+About the job
+Project Overview:
+
+Our team is growing and we're looking for talented Node.js developers. You will work in a dynamic environment, having the chance to impact the product aspects using multiple scalable, reliable platforms with several products. We are looking for developers with hands-on back-end and front-end experience that feel comfortable working in agile process and adhere self learning.
+
+Our customer is a rapidly growing startup from Tel Aviv, that is building an ultimate Vacation Rental Platform to support services for Airbnb, Booking.com, Agoda, TripAdvisor, Expedia and other property providers at vacation rental market.
+
+Platform is developed using the latest technologies and frameworks, Node.js, Mongo, RabbitMq, Redis on the server side and React, Redux on the client side. We promote continuous learning and are open to learning and implement new things all the time
+
+If you are looking for an interesting product and enjoy being challenged - this is your place.
+
+Responsibilities:
+Design of the data-intensive web applications;
+Optimize performance to support the fast growing business;
+Write clean maintainable code;
+Implement security and data protection.
+
+Requirements:
+At least 5 years of experience in development roles, preferably from startups (or other agile environments);
+Experience with NodeJS (ExpressJS/NestJS);
+Experience in designing high performance, highly scalable microservices architecture with OOP design-patterns and complex business logic;
+Experience in relational databases and NoSQL databases (PostgreSQL, MongoDB, Redis);
+Proficiency in design of distributed enterprise systems - Advantage!;
+Passionate about technology, enjoys solving complex problems and learning new technologies;
+A team player with strong communication skills.

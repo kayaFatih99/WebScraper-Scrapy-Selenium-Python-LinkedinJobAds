@@ -1,0 +1,52 @@
+About the job
+Ciklum is looking for a Senior JavaScript Software Engineer to join our team full-time in Spain.
+We are a leading global product engineering and digital services company that unites 4000+ seasoned professionals globally on various projects in healthcare, fintech, travel, sportswear, entertainment, and security. Ciklum delivers high-impact technology solutions to Fortune 500 and fast-growing organizations worldwide.
+
+About the role:
+As a Senior JavaScript Software Engineer, become a part of a cross-functional development team working for the Sportradar.
+Are you ready to take your career to the next level by helping us build a product that millions of users use daily?
+We support more than 100K transactions per second combined, and we are working for much more because we aim to be one of the top three e-gaming and betting software development companies recognised worldwide for adding the most value to its partners.
+For this reason, we are looking for software engineers who are enthusiastic about building modern, resilient and scalable applications.
+
+About the Client:
+Sportradar.com is a global leader in understanding and leveraging the power of sports data and digital content for its clients around the world.
+ORAKO is a brand of Sportradar's world-leading sports betting portfolio, one of the world's best betting and gaming platforms.
+We work with worldwide leader operators, placing ORAKO at the forefront of the gaming industry technology firms, helping hundreds of thousands of customers every year find, and do, "the source code of sport".
+Companies like DAZN, Unibet, Mondobets, Betfred, Norsk Tipping, Efbet, Mclean's Bookmakers, UK Bookmakers Technology Consortium, including Chisholm Bookmakers, JenningsBet, Corbettsport, and many others, already enjoy the benefits of one of the most robust, scalable, and powerful, rich-feature sports betting commercial platforms available.
+Maybe you will appreciate this information:
+Part of Sportradar MSS Engineering (team of ~200)
+Which is part of Sportradar.com (team of more than 2000)
+
+Responsibilities:
+You’ll spend time on:
+Working collaboratively with product owners and other engineers to create the best product for your customers within our next application
+Ensuring operational excellence of your services / applications
+Understanding how our business works and how products add value to your customers
+Learning and sharing experiences on new technologies and trends and how you can leverage them in current and future products
+Collaborating and sharing knowledge with others across the group
+Exhibiting passion and showing commitment to drive change
+
+Requirements:
+Expert in ECMAScript 2019+
+Experience with Knockout.js
+Experience with web performance optimizations
+Clean code, refactoring and automated testing
+Our work language is English, so it is important to have good level both written and spoken
+
+Desirable:
+Knowledge of Cloud Computing technologies
+.NET
+Experience with Continuous Integration and Continuous Delivery
+TDD
+
+What's in it for you?
+Continuous learning program with technical internals sessions for continuous improvement
+Access to our online e-learning platform
+Internal training sessions during office hours to learn and grow, such as “Coding Dojo” sessions which we have to learn and share coding techniques
+
+About us:
+Our Delivery Center in Malaga is one of the leading IT hubs in Andalusia – it provides an exceptional mix of vibrant tech talent community, wide-open access to learning and career advancement opportunities, hybrid / remote work setup & endless Mediterranean seashore summer.
+
+Be bold, not bored!
+
+Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.

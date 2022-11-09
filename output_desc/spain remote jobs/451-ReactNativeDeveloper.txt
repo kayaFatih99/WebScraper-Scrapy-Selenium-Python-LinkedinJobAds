@@ -1,0 +1,20 @@
+About the job
+React Native Developer - Web3
+Fully remote across Europe
+Up to $120,000 on a B2B contract
+
+This organisation is looking to make decentralised finance simple by amending the poor user experience that newcomers face and help to merge the centralised and decentralised worlds.
+
+They have created an innovative mobile app, crypto wallet, and are working on a money market.
+
+You will be contributing towards their iOS & Andriod apps from the get-go., working closely with designers, product owners and backend engineers to make the applications available for their global audience.
+
+Tech:
+React Native
+React
+TypeScript
+GraphQL
+
+This is an ideal position if you have experience building mobile platforms and user-friendly apps using React Native and are passionate about Web3. (Previously Web3 experience is not a requirement)
+
+The engineering team is based remotely across Europe, if this is of interest please do get in touch!

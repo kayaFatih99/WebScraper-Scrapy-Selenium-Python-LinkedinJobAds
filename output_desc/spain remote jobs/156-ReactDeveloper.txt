@@ -1,0 +1,26 @@
+About the job
+The ubiquity of the digital sphere has created both opportunities and risks for the organizations and individuals that operate within it. Devastating attacks like ransomware, impersonation, account take over, coordinated disinformation, and others fueled by the proliferation of sensitive personal and corporate data in the digital sphere increasingly threaten business continuity, critical systems, and even global security,
+Powered by the world's largest breach data collection of over 100B attributes and 45B curated identity records spanning 125 countries and 53 languages, Constella Intelligence is an industry leader in the digital risk protection space, protecting over 30M customer identities to date. Our solutions are a unique combination of proprietary data, technology, and human expertise to anticipate, identify, and remediate targeted threats to your people, your brand, and your assets at scale. Over the past year, Constella’s work has been featured in publications including the Wall Street Journal, the World Economic Forum, and Forbes.
+WHO WE ARE:
+We’re a diverse multinational team of passionate professionals committed to becoming the most trusted global partner for defeating digital risk. Constella unites multidisciplinary intelligence community analysts, infosec pioneers, military veterans, social scientists, and tech entrepreneurs with advanced analysis of surface, deep, and dark web to protect what matters most. Backed by leading global investors, Constella is a trusted partner to private organizations as well as major public institutions and NGOs around the world, helping to identify, anticipate, understand and defend against the risks emerging from the digital ecosystem. With offices in Los Altos, Washington D.C., Madrid, Granada, Sao Paolo, and Hyderabad, and a distributed global workforce across the US, Europe, South America, and Asia, we help safeguard customers people, brand, and assets across the world.
+Constella is currently looking for a specialist who would form part of our IT team as React Developer
+The open vacancy is for a permanent position of React developer at a distributed Java/React-based platform hosted on cloud services, whose core architecture is built on Java EE 7 (Java 8 application container + database/index) with a broad range of libraries, services and APIs integrated (Lucene, TensorFlow, Gelly, Amazon/Google APIs, etc), while its presentation tier is written mainly in HTML5/CSS3/jQuery over the Struts2 framework and React over Next.js.
+We gradually expand it with auxiliary Big Data components (Elastic Search, Aurora, Kafka, NoSQL) on the backend side and graphic/animation libraries on the front-end (SVG, Sigma, WebGL).
+REQUIRED SKILLSET:
+React
+Next.js
+TypeScript / HTML5 / CSS3 (min. 2 years)
+XML / jSON
+Web servers know-how/experience (apache/nginx)
+Spoken and written English
+Experience in distributed web applications development
+WELCOME SKILLSET:
+Java 6+
+Struts2
+jQuery· Linux / Unix
+SQL (mySQL or Oracle or Postgres)
+Tomcat (alternatively Glassfish / Payara or similar)
+WHY CONSTELLA
+Competitive compensation
+Opportunities for growth at a multicultural, multilingual, global company
+A passionate, world-class team of industry experts working on some of the digital ecosystems’s foremost challenges

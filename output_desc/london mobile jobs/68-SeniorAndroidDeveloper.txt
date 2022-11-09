@@ -1,0 +1,37 @@
+About the job
+Position: Senior Android Developer
+Department: Engineering
+Report to: Engineering Director
+Seniority: Senior
+Work Location: Europe
+At EF Education First, we believe that the world is better when people try to understand one another. Since 1965, we have helped millions of people see new places, experience new cultures, and learn new things about the world and about themselves. Our culturally immersive education programs - focused on language, travel, cultural exchange, and academics - help turn dreams into opportunities for people of all ages and nationalities. People are core to everything we do at EF - together, we help turn our customer’s dreams into life-changing opportunities. When you join EF, you join a global community working in more than 600 schools and offices in 50 countries, all with one shared mission of opening the world.
+KEY RESPONSIBILITIES
+Play a developer role in multiple apps used by millions of students and teachers around the world.
+Cooperate with our UX/UI team to craft beautiful user experiences, and then implement them with equally elegant code. UI is a passion of yours!
+Work in a collaborative team full of passionate, talented people, who love using and making great apps.
+Enter a room with only team members and a whiteboard; walk out with an idea and a plan for the next big thing.
+Make education better. You remember how much education technology lacked, and you are excited to have an opportunity to completely change that.
+Interface with remote and distributed data sources and APIs
+Troubleshoot, and performance tune
+Work closely with the Product Manager, the Mobile Architect and the rest of the mobile team, to continually improve the development process and the product quality
+Help and corporate with other team members, and share your experiences
+Contribute to the software architecture, and help to shape the development process
+Establish time/effort estimations for tasks, to support effective planning
+REQUIREMENTS
+Bachelor degree in Computer Science
+At least 5 years’ experience writing apps for Android platform
+Mastery of Java / Kotlin
+Experience with building Android projects with Android Studio and Gradle.
+Solid understanding of Material Design and the manage to use common method in Android SDK
+Solid experience of architecture and common design pattern, also has experience of using modern 3rd party libraries.
+Custom to be working from home, and having most of the meetings online.
+Strong problem-solving skills in a fast-paced environment.
+Solid skills in algorithm/data structures.
+A real passion for technology and innovation
+Has the ability to write well-designed, maintainable code.
+Good communication and being able to work with the teams all over the world.
+Mastery of Git and Git Flow
+NICE TO HAVE
+Experience of Flutter or other cross-platform solutions.
+Willing to learn other skills other than Android Native Development.
+Knows C/C++.

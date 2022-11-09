@@ -1,0 +1,13 @@
+About the job
+Java Developer
+Location: Bellevue, WA or Santa Clara, CA (Onsite Day 1)
+Experience: 8+
+Basic Qualifications
+8+ years of professional software development experience
+Programming experience with at least one modern language such as Java, Python, Typescript, including object-oriented design
+5+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+2+ years of experience in dev/ops, familiar with pipeline tools such as Code Commit, Git, Jenkins, Code Pipeline, etc.
+Bachelor's in Computer Science or related field
+Experience with large-scale systems distributed systems
+Proven ability to design, develop, and deploy software in production as an individual contributor in an early-stage of product lifecycle
+Expertise in C/C++, Java, or Python

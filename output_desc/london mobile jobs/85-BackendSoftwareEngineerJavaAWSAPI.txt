@@ -1,0 +1,29 @@
+About the job
+Backend Software Engineer / Developer (Java AWS API) *Remote / Hybrid WFH* to £80k
+
+Are you a Java technologist with strong backend development skills? You could be progressing your career in a hands-on role at a successful and growing sports streaming technology company.
+
+Your day to day:
+As a Backend Software Engineer you'll focus on building highly scalable real-time web based payments systems for the live TV / Video on Demand streaming platform that is used to deliver sports matches and data content to a variety of targets via multiple devices and formats.
+
+You'll be working in a collaborative, technology driven environment with a focus on backend Java development using a range of modern development practices including Continuous Deployments to the cloud environment (AWS); making technology decisions and contributing to product strategy.
+
+The hugely scalable platform broadcasts over half a million sports events globally on an annual basis; there are many technical challenges to tackle, you'll gain exposure to a wide range of technologies and will be encouraged to innovate and introduce new technologies as appropriate, continually striving to improve and remain at the cutting edge.
+
+WFH Policy:
+There's a remote interview and onboarding process and you can work from home most of the time, meeting up with colleagues in the London office once or twice a month.
+
+Requirements:
+You have strong backend Java development skills; Java 8+
+You have a good knowledge of relational databases, MySQL preferred
+You have experience of working on high volume, distributed systems
+You have experience of building APIs and microservices environments
+You have a good knowledge of AWS cloud based services
+You're collaborative with strong problem solving skills
+
+Salary & benefits:
+As a Backend Software Engineer / Developer you will earn a competitive salary (to £80k) plus a range of flexible perks and benefits including pension, healthcare, life assurance, wellness benefits and much more.
+
+Apply now or call to find out more about this Backend Software Engineer / Developer (Java 14 / 15 AWS API microservices) opportunity.
+
+Ref: 19266/E/KS/081122

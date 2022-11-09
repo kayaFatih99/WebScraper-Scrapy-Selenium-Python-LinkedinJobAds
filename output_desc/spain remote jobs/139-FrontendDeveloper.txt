@@ -1,0 +1,46 @@
+About the job
+We are the 100% digital bank of the Santander Group and we are currently undergoing a technological transformation and international expansion. In 2016 the re-launch of the Bank began and since then we have been in continuous expansion and growth, especially in our technological side. We work in a start-up format, using agile methodologies to take our clients' experience to the next level. In 2019 we launched the Bank in the Netherlands, Germany and Portugal and recently following also the launch in Argentina with others to follow. Our culture makes us different; social and diversity clubs are part of our essence and allow us to live our culture every day. We are a flexible and fast adapting team that currently works remotely most of the time using all kinds of communication tools, we haven´t noticed the change!
+
+Mission and responsibilities:
+We want to take our customers' digital experience to a new level and you will help us innovate in digital product development in banking.
+Responsibilities:
+As a member of the Openbank development team, you will be responsible for web development with React, working with Javascript, HTML and CSS.
+You will bring your knowledge and experience to the team, proposing ideas for continuous improvement.
+You will participate in code review and contribute to improve common practices.
+You will be responsible for your own proofs of concept to add value to the product.
+
+What are we looking for in this position?
+Bachelor’s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.
+5+ years of experience working with Javascript.
+At least 2 years of experience working on ReactJS frameworks.
+Experience in component-based UI development.
+Experience with CSS, Sass or Less preprocessors.
+Experience developing reusable and self-contained components.
+Experience working in GIT.
+Experience working on Redux application states desirable.
+Advanced knowledge of OPP and JavaScript.
+Knowledge of software design patterns.
+Advanced knowledge of web markup, HTML 5 and CSS3.
+Ability to troubleshoot cross-browser compatibility issues.
+Knowledge of agile methodology, Scrum and Kanban.
+Experience with TDD, BDD and functional testing.
+Passion for technology and start-up methodology.
+Ability to learn quickly, creativity and initiative.
+Ability to make autonomous decisions.
+Results oriented.
+Team player.
+Excellent interpersonal and communication skills.
+
+What do we offer?
+Immediate incorporation to a dynamic and agile company with a growth and expansion project.
+Working in start-up mode with the support of Grupo Santander.
+Competitive remuneration and attractive benefits package.
+Possibility of growth within the company and the Group.
+Collaboration in international projects and possibility of contact with different countries.
+Excellent work environment, social clubs and frequent events (now virtual).
+
+Would you like to grow with us? Join our team!
+
+Openbank is an equal opportunity employer. All applicants will be considered as equal without paying attention to gender identity, sexual orientation, ethnicity, religion, age, political orientation, union membership nor disability status.
+We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build.
+If you´re not currently living in Spain and you are open to relocate, we would still love to consider your application.

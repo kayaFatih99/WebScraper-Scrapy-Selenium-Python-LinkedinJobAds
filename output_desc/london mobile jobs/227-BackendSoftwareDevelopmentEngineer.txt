@@ -1,0 +1,39 @@
+About the job
+Businesses don't look forward to receiving invoices for legal spend because they often don't know what will be billed. Apperio is the only application that provides businesses with real time analytics of their legal spend ahead of the invoice. Apperio is making the legal business clear, connected and collaborative, we are currently a team of around 40 professionals and have exciting plans for growth in 2022/23.
+
+You will help us build our SaaS application with backend technologies based on Django using a PostgreSQL database. This ties with a React frontend using a REST API all of which is hosted in AWS. You will work closely with other software development engineers, QA engineers, a UX designer and a product manager from conception through delivery of well thought out customer experiences.
+
+Daily responsibilities would include developing and improving features across the code base, from database design and migrations, through our python application layer. You will also contribute and guide our overall software development lifecycle, what tools we use, and associated software packages.
+
+We put a high value on work-life balance. Your happiness and success is crucial within our culture and we understand that a healthy balance between your personal and professional life is important.
+
+Responsibilities
+Develop clean elegant code and automated tests to create and maintain features across our full stack using Python, Django with Django Rest Framework.
+Collaborate with our Product Managers, Designers and other Engineers to build a compelling, intuitive user experience.
+Involvement with pair programming, improving tooling, refactoring.
+DevOps mindset, helping to maintain CI pipelines.
+Securing code and maintaining alerts.
+Helping drive the direction of our engineering culture.
+
+Requirements
+3+ years as a backend software developer.
+Experience using Python Django and relational databases.
+Experience with writing tests.
+Experience working in a scrum or similar type team environment.
+Must live in the UK and be able to work in the UK without sponsorship.
+
+Benefits
+Flexible working. Fully remote (UK) or 2 days a week from our London office.
+We invest in your development with a £1,000 a year development budget.
+25 days holiday plus bank holidays with the option to buy or sell extra days.
+Comprehensive private medical insurance with Vitality.
+Hundreds of perks and discounts through Vitality Health Insurance.
+Pension contributions.
+Enhanced Maternity, Paternity, Adoption and Shared Parental Leave.
+Regular social events, team lunches and nights out.
+50% discount at Vitality Gym partners Virgin Active, Nuffield and Pure Gym
+Free tea, coffee and soft drinks
+Central office location in Holborn with Leather Lane on the doorstep for copious lunchtime options.
+Only the best equipment - Macbook Pro and monitor.
+Access to ‘salary sacrifice’ benefits such as the Cycle scheme.
+Referral bonus when you bring your friends to join Apperio

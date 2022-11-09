@@ -1,0 +1,46 @@
+About the job
+We are looking for a forward-thinking Senior Mobile Engineer to join our Product Engineering team, working directly with software engineers, QA engineers, Product managers, designers and more, as well as an open landscape to all parts and people across our organisation.
+
+We believe in ownership, and want to empower our experts in utilising their skill sets in a collaborative and supportive agile working environment that is focused on developing our product to the next level.
+
+We have a wealth of opportunities and problems to solve. If you are looking to make an impact; to be part of a team where your thoughts are heard and given space to develop, as well as the autonomy to thrive in a role, we want to hear from you.
+
+Key Tasks and Responsibilities will be to:
+Lead projects through an end-to-end design process: from user research, ux concept, strategy, application architecture, interaction design, launch and testing
+Contribute to existing products and develop new functionalities
+Leading technical design changes displaying technical ownership and employing best practices. Continuously improve our working processes
+Collaborate with user researchers, product managers, developers, and other stakeholders to frame user problems and take ideas from ideation through implementation
+
+Requirements
+Strong JavaScript knowledge in React Native, React or other javascript based cross-platform frameworks
+Have experience developing for Android and iOS
+Have used/consumed APIs and applying best practices around this
+Good knowledge and experience of Test Driven Development (TDD)
+Good knowledge and experience of automation and building tools
+Has previously worked in Scrum and Kanban teams
+Strong knowledge of version control/Git
+Strong communication and technical presentation skills
+Have worked in a product-led environment (SaaS preferred)
+Good knowledge and experience of performance testing tools
+Experience with Typescript
+An appreciation of the objectives and activities of CyberSmart
+An appreciation of the diversity of thought and individualism of all our team members around the world, embracing this diversity and inclusivity in your approach to your work and sense of community at CyberSmart
+
+Benefits
+A competitive salary
+25 days holiday plus all UK Bank Holidays
+Your birthday off in addition to your holiday entitlement
+1 days additional holiday entitlement for every year with the company (up to 5 years)
+Employee equity options
+Pension Scheme
+Access to Perks: discounts that save you money in the places you shop the most
+Learning and personal development annual grant (£2,000)
+Personal development annual grant (£500)
+Work at home office provision grant (£500) in year 1
+Flexible working hours and working from home
+Regular team breakfasts and lunches
+Full access to our Mental Health & Wellbeing Network, Spill
+Monthly fun activities, chosen by the team, that are not based around the pub!
+A great, friendly team, who work to support each other
+Beautiful workspace in Shoreditch- flooded with natural light, filled with plants, free tea and (good) coffee
+The latest technologies to keep you productive. Our office has dual-screen workstations and we will support you with the necessary equipment for home working.

@@ -1,0 +1,48 @@
+About the job
+We are a successful and fast growing B2B SaaS company offering a market-leading platform to enable enterprise retailers and banks to manage queues and to accept appointment bookings for in-store and virtual appointments. Our clients are based all over the world, including: Samsung, Tesco, Specsavers, Burberry, Pandora, NatWest, Standard Chartered, IQOS and many others.
+
+At present, we’re saving time for 35 million customers through our platform! During the pandemic, customers have appreciated our software more than ever because not waiting in a queue makes them feel less at risk from the Coronavirus – having this impact on the world has been amazing.
+
+This has led to an even greater surge in client demand.
+
+As a result we are hiring a new mid to senior-level front developer to join our growing team of developers creating beautiful and game-changing cloud-based technology that makes life better for our clients and their customers.
+
+You will report to our CTO, who has now been leading agile development teams for more than 10 years. Our tech runs on Amazon Web Services, and our intelligent backend is built using Java 8 and 11, our beautiful frontend is built in React and React Native. We have a desktop browser and iOS and Android apps. We also use: MySQL to persist data, Ansible and Kubernetes for deployment and Prometheus and Grafana to visualise our systems and applications.
+
+Currently we’re all working 100% remotely with team members based across the UK, Europe and USA and occasional (optional) in-person meet-ups in London. We believe that building a diverse team while ensuring everyone’s safety, convenience and happiness is key to creating powerful technology. We’re taking ongoing feedback from the team to assess what in-person working and social arrangements will work best in the future.
+
+Your day to day activities will include:
+Creative problem solving to develop innovative and high quality software
+Collaborating within a cross-functional agile product team working internationally
+Continued learning, idea generation and knowledge sharing of how the latest technologies could be used to enhance our platform
+Leading in delivering user stories from development through to production
+Supporting and maintaining existing applications in production
+Working as an advocate for continuous improvement and innovation
+Collaborating with other members of the organisation in sales and project management as necessary
+
+Our tech stack includes:
+React for all new front-end applications (our older applications used Angular.js)
+React Native to build cross platform mobile applications
+Java 8+ for backend applications
+MySQL to persist data
+AWS to run our systems in 5 regions and counting
+EC2 Instances with Ansible and Kubernetes to deploy applications
+Prometheus and Grafana to visualise our systems and applications
+
+Requirements
+
+You will bring in a creative vision, problem-solving skills, have the ability to work in a collaborative and cross functional teams to get things done in a fast moving environment.
+You are proficient in JavaScript/TypeScript development.
+You are experienced with React / React Native
+You are experienced with web technologies (HTML, CSS).
+Have experience with RESTful web services.
+
+Benefits
+
+Learn more about Qudini and the perks of working with us:
+
+https://www.qudini.com/careers/
+
+Learn more about the company story and our values:
+
+https://www.qudini.com/about-us/

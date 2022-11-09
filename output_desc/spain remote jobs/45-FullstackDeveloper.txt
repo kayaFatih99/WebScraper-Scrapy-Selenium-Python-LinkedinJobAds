@@ -1,0 +1,21 @@
+About the job
+Desde Marlex Human Capital estamos colaborando con una importante empresa dedicada a desarrollar sistemas inteligentes de transporte e infraestructura de tráfico que actualmente busca incorporar a su equipo un Fullstack.
+
+¿Cuál será tu misión en la empresa?
+
+Participarás en diversos proyectos dentro del departamento de desarrollo con las siguientes tecnologías
+Java 8 PostgreSQL SQL SOAP GIT
+Angular microservicios TDD softwares de automatización de pruebas
+REST Jboss SpringBoot primefaces PL/PgSQL Docker shell scripting php y GNU/Linux.
+Al perfil seleccionado se le ofrece
+Teletrabajo 100
+Contrato indefinido
+Horario flexible
+Salario competitivo
+Requisitos
+Experiencia mínima de 4 años
+Formación en Ingeniería del software informática o telecomunicaciones.
+Imprescindible conocimiento de las tecnologías Java 8 PostgreSQL SQL SOAP GIT
+Java, PostgreSQL, SQL, SOAP, GIT, Angular, PHP, Linux, SpringBoot, Docker
+
+30f61243724ed3b1b64b

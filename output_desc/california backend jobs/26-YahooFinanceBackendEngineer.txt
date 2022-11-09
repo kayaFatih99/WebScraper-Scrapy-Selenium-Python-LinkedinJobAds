@@ -1,0 +1,30 @@
+About the job
+It takes powerful technology to connect our brands and partners with an audience of nearly 900 million. Whether you’re looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or develop algorithms to help us process trillions of data points a day, what you do here will have a huge impact on our business—and the world. Want in?
+
+At Yahoo Finance, we power experiences for millions of users globally every month and remain the clear leader in our category. Our systems scale to processing 5 billion market events per day from over 80 global exchanges. We ingest and process the same datasets as the biggest hedge-funds in the world and provide unique derived datasets, products that allow users to track their portfolios, advanced screeners to discover new investment ideas, and visualizations all built to work on the web scale.
+
+Join the Backend Engineering team in Yahoo! Finance – help us design and build various systems that power our products.
+
+Real-time Ingestion and Processing pipelines built using Apache Storm.
+Machine Learning & Offstage analytics pipelines built using Apache Spark.
+Data platform & Search Systems built using HBase, Apache Storm & ElasticSearch.
+Serving systems built using Redis, Vert.x and Jetty.
+
+Must Have:
+
+Demonstrated industry experience building large scale backend data processing and/or serving systems.
+Experience with some combination of Java, Python, golang.
+Development experience in a Linux/Unix environment.
+Masters in Computer Science (or a related technical field) or Bachelors in Computer Science (or a related technical field) with 2-5 years of industry experience
+
+Good to Have:
+
+Prior experience in the fintech space.
+
+Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Yahoo is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form (www.yahooinc.com/careers/contact-us.html) or call 408-336-1409. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.
+
+At Yahoo, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our diversity and inclusion (www.yahooinc.com/diversity/) page to learn more.
+
+US Only: Please be aware that Yahoo requires all employees entering a U.S. Yahoo office and/or attending a company event (including client events) are required to be vaccinated for COVID-19. This position will require the successful candidate to obtain and show proof of a vaccination to enter a U.S. Yahoo office and/or attending a company event (including client events). Yahoo is an equal opportunity employer, and will provide reasonable accommodation to those individuals who are unable to be vaccinated consistent with federal, state, and local law.
+
+Currently work for Yahoo? Please apply on our internal career site.

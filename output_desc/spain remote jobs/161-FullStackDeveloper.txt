@@ -1,0 +1,70 @@
+About the job
+About Syngenta
+
+Company Description
+
+Syngenta Group is a $28B leading science-based agtech company, operating in more than 100 countries, with more than 50’000 employees. We are proud to stand at the forefront of the tech revolution in agriculture. Using the latest digital innovations, data, and cutting-edge technologies we want to transform the way that crops are managed and enable farmers and agronomists to enhance efficiency and sustainable food production.
+
+Our business success reflects the quality and skill of our people. We recognize that human diversity is as important to our business as biodiversity. Embracing the unique perspectives and capabilities of our employees helps us continue to catalyze innovation, maximize performance, and create business value. Join us and help shape the future of agriculture.
+
+Job Description
+
+MAKE A DIFFERENCE
+
+In this role you will work within a multidisciplinary global team to discover, define, and design experiences that empower farmers to work more effectively and efficiently by utilizing our data-driven solutions.
+
+The ideal candidate will develop software solutions in accordance with agreed release plans and associated solution designs for the business applications they have accountability for within their DevOps team; will create high quality code, configurations and customization - developed, fully tested and deployed in accordance with requirements and acceptance criteria; will work with Business Analysts, Product Owner and business SMEs to ensure end user functionality and experience is achieve; will contribute to end user support by addressing production issues/incidents.
+
+We all have a critical role to play and add value. Here is how this role will help:
+
+Develop high quality code, configurations and customizations which are fully tested and deployed in accordance with requirements and acceptance criteria
+Delivery of functional requirements according to business requirements, non functional requirements and design / architectural guidelines maintaining CI/CD pipeline effectiveness
+Collaborate with other delivery DevOps teams where overlap in delivery scope to ensure good understanding of inter-dependencies, planning for timely delivery, end to end testing and automated deployment is intact, and business objective is met.
+Applies code control and testing standards in accordance with Syngenta and industry standards
+Look for opportunities to enhance the work processes and best practices and implement changes to optimize the software delivery model, stability, and support issues
+Contribute to code reviews and pair programming
+Contribute to technical guilds, hackathons and other technical activities to help advance the overall team skills
+Key contributor as a DevOps team member in the planning of sprints and executes their role in accordance with the agreed sprint plans; working with other DevOps teams for cross-functional planning and delivery
+Develops according to coding best practices and maintaining a CI/CD pipeline
+Supports the documentation of detailed designs and technical specifications
+Finds opportunities to re-use existing components and actively reduces complexity and customization in the technology landscape
+Ability to balance short-term demands with the needs to make progress toward long-term goals
+Timely escalation of issues which affect product delivery and quality that are beyond scope of influence.
+
+Some of the technologies that we leverage are Java, Spring and Spring Boot, React, AWS, SQL databases.
+
+Qualifications
+
+WHAT WE ARE LOOKING FOR.
+
+You Will Be a Great Fit If You Have
+
+We are highly people-focused – we look for professionals who are engaged, collaborative and excellent in execution. Leaders are expected to communicate effectively, develop teams and lead by example. Our industry and our function are changing rapidly so we are looking for new team members with a strong desire to develop themselves.
+
+Minimum 3+ years of design, coding and testing of the specific technologies/applications they are accountable for delivering workable software
+Detailed knowledge of Java, Spring and Spring Boot, React (or equivalent JavaScript framework), microservices and web communication protocols
+
+Additionally, It Will Be Nice If You Also Have
+
+Understanding on cloud technologies includes AWS basic services (EC2, ECS, RDS, Lambda and API Gateway), infrastructure as code (i.e: AWS Cloud Formation / Terraform), DevOps platform (Jenkins / Git CICD / AWS CodePipeline) and familiarity with test frameworks
+Knowledge of Gitlab, telemetry tooling (e.g. Grafana & Prometheus) and log aggregation tools (e.g. ELK )
+Understanding of developing and deploying containerized solution (AWS EKS / ECS or similar )
+Working experience of both SQL databases (e.g. PostgreSQL, Aurora, MySQL) and no SQL databases (e.g. DynamoDB, Neo4J, MongoDB)
+
+What We Offer
+
+Additional Information
+
+A role which contributes to valuable and impactful work in a stimulating and international environment
+Flexible working arrangements and environment with an open culture and diverse workforce, a possibility of working from home
+Competitive salary and benefits package
+The opportunity to work with and learn from highly qualified and experienced employees
+A culture that promotes work/life balance, celebrates diversity and offers numerous events throughout the year
+Learning culture and a wide range of development options, including access to learning platforms (Degreed, LinkedIn Learning, O’Reilly)
+High quality office environment
+
+Syngenta has been ranked as a top employer by Science Journal.
+
+Learn more about our team and our mission here: http:// https://www.youtube.com/watch?v=OVCN_51GbNI
+
+Syngenta is an Equal Opportunity Employer and does not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.

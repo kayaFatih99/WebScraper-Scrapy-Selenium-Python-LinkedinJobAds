@@ -1,0 +1,57 @@
+About the job
+The Company
+Our customer, dormakaba, is a Swiss/German multinational that has operated all over the world for more than 150 years and is one of the leading providers of innovative security and access solutions for selected segments of the fast-growing security industry.
+
+They will hire the selected candidate as an internal and permanent employee, based in Madrid, but providing services to their global organization.
+
+Description of the position
+They are looking for a Senior Full Stack Java Developer who will be part of a team of Senior Developers based in Madrid in charge of maintaining & evolving an in-house application -IAS (Integrated Access & Security)- with interfaces to SAP modules.
+
+Working Experience
+Long term Java development experience (min. 5years).
+
+Key Responsibilities
+
+Enhance the IAS platform to meet the additional requirements for upcoming rollouts in Switzerland and across Europe.
+Take the role of a member in an agile Scrum team using JIRA/Confluence.
+Collaborate with Product Owners to define requirements together.
+Keep Quality Assurance & Automation practices very present.
+Ensure top notch 3rd level support for your application.
+Education and Training
+University degree or equivalent on technical College or relevant related experience. Desirable to have any Java certification. Specially in the fields of:
+
+Developing Applications for the Java EE 8 Platform.
+Java EE Design Patterns.
+Mandatory skills
+
+• A broad knowledge of software patterns, OO-design and 3-Tier architecture.
+• Relevant experience/knowhow of Java Development, especially with Spring & Hibernate frameworks, and also with Soap/REST (xml, json).
+• Experience withtools like: maven, GIT.
+• Deep knowledge of SQL and especially Microsoft SQL Server.
+• Experience/knowhow with Windows & Linux.
+• Experience working in Scrum/Agile teams.
+
+Valuable skills
+
+• Experience/knowhow of Web Development: Javascript with React
+• Knowledge of SAP ERP.
+• Knowledge/experience developing Java Swing.
+• Knowledge/experience with Jenkins, Docker, Kubernetes, Azure.
+
+
+Languages
+
+Spanish: Native language, otherwise business fluent.
+English: Very good Business English required (excellent communication skills).
+Job Location
+Madrid. European Union citizen; otherwise, a valid job permit is mandatory. Some travel will be needed, mostly to the headquarters in Zurich.
+
+Salary
+Depending on experience.
+
+Working from home
+Up to full remote if desired.
+
+
+
+If you are interested, please send us an email to java@montareloconsulting.com including in the subject: ‘Senior Full Stack Java Developer’ along with your CV in English.

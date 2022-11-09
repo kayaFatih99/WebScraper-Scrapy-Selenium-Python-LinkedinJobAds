@@ -1,0 +1,49 @@
+About the job
+TourRadar is a Series D, venture-backed Adventure Booking Platform disrupting a $200 billion industry. Revolutionizing how multi-day adventures are booked, we provide Operators with a platform that helps them manage, market and sell their organised adventures to travellers directly (B2C) or via distribution partners (B2B2C) worldwide.
+Traditionally, booking an organised tour was a tedious and time-consuming process. Where will I stay? What activities will I do? What meals am I going to have? What operator can I trust? TourRadar makes booking multi-day adventures seamless and timely, partnering with 2,500+ operators to offer more than 50,000+ adventures in 160+ countries. Founded in 2010, TourRadar was the first to transition multi-day tours to an online marketplace, making them the leader in the industry. In 2021, TourRadar further revolutionised the industry by introducing the Adventure Booking Platform, connecting travellers, operators, and travel agents to organised adventures through one platform.
+With 40+ different nationalities in our team and with offices in Europe, North America and Australia, we work to deliver the best possible booking experience. Launched in 2010, we proudly develop and innovate exceptional talent and we are looking to scale our team.
+We are currently looking for a Frontend Engineer (Full-time) to join our team in Vienna or remote.
+
+Your responsibilities:
+
+Bringing our platform to the next level
+Being involved in all stages of product life cycle (from brainstorming product ideas, to design and implementation of the UI)
+Continuously innovating in bringing our frontend code base to new standards
+Working on projects which can include improving new user acquisition through SEO, optimizing sales tooling, improving customer retention, setting up search and search result pages
+Working closely with our design team
+
+Who you are:
+
+3+ years of experience with JavaScript (ES6/ES7)
+Profound understanding of SCSS/CSS
+Knowledge of functional programming principles
+Knowledge of principles of web performance
+Taste for beautiful UI
+Experience in dealing with version control systems such as Git
+Experience with Continuous Integration and Continuous Deployment
+Worked in an Agile environment
+Test affine - writing tests (unit and integrations tests) is part of your development workflow
+Good verbal and written English communication skills
+
+Bonus skills:
+
+Experience with React
+Knowledge in GraphQL (client and server) and principles of web performance
+Understanding of CSS-in-JS
+Knowledge of SEO optimization
+Experience with BackEnd MVC frameworks, such as Symfony, Laravel and CodeIgniter
+
+What can you expect?
+
+Awesome Office: Located in the heart of Vienna's 1st District, our headquarters and its surroundings are second to none when it comes to atmosphere. Every day we enjoy an open office floor plan, complete with our “barketing department”, foosball games, and deluxe coffee machines that keep us buzzing.
+Location: Vienna is a thriving startup hub, with ample opportunities to grow your network and enjoy the benefits of a city ranked number one for Quality of Living for ten years running! Affordable for families and young professionals, filled with nature parks, a lively restaurant scene, rolling vineyards, and plenty of art, culture, and events to enjoy on your weekends.
+Flexibility: Work from home, or our beautiful office and enjoy flexible working hours that allow you to structure your days how you please.
+Office Exchange: As we're privileged to have three offices across the globe (Vienna, Toronto, and Brisbane), we encourage everyone to make use of our Office Exchange program. You will have the chance to get to know your colleagues better and become a local in a new city.
+Diversity: Thrive in an international work environment that has more than 40 different nationalities under one roof. English is our official working language, but keep your ears peeled for a multitude of languages lingering in the hallways!
+Regular team outings and events: Enjoy virtual or in-person team nights at least once a month with different themes and activities to keep us all connected. Expect spontaneous events and trips together from hiking trips, wine tasting, rock climbing, and more.
+Workgroups: Join like-minded team members in voluntary workgroups around topics like wellbeing, sustainability or company culture to actively shape how we work at TourRadar
+Well-being: Mobile working and disconnected working from managers and team members have unique challenges that are different from working in an office. We are aware that even though we are working hard, it is always important to maintain a healthy work-life balance and manage our mental health. To provide the necessary help you have free and anonymous access to check-ins, therapy & workshops led by an external curated team of professionals.
+Training & Development: With annual training and development opportunities in place, we support each other through yearly Development and Reflection Talks (DaRT) to discuss individual development opportunities and future career paths. At our thriving start-up, there are many opportunities to grow and develop your skills through cross-departmental projects in our rapidly growing industry.
+On top of this, you’ll also enjoy EUR 25 home office allowance for costs arising from working remotely, quarterly team lunches, employee discounts on all TourRadar adventures, and many more!
+
+Through a flexible startup atmosphere, flat hierarchies, and transparent lines of communication we welcome new ideas from fresh minds, so apply now and seize the chance of being part of a highly flexible and motivated team revolutionizing how multi-day adventures are booked all around the world!

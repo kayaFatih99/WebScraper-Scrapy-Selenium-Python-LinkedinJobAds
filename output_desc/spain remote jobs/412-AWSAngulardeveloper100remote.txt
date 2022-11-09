@@ -1,0 +1,43 @@
+About the job
+We are still looking for the very Top Talent…and we would be delighted if you were to join our team!
+
+More in details, UST is a multinational company based in North America, certified as a Top Employer company with over 29.000 employees all over the world and presence in more than 30 countries. We are leaders on digital technology services, and we provide large-scale technologic solutions to big companies.
+
+What we look for?
+For our client, a leader in the construction sector, we are looking for a front end developer to collaborate on various projects in remote mode.
+
+Key Responsibilities:
+
+As a Frontend Cloud Developer you translate business needs into technical application design, working on user-facing applications assisting our employees across the world.
+You plan, estimate and develop software in an agile methodology environment in alignment with the product owners. You actively partner with our product owner, development leads and solution architect to find and develop the right solution.
+You are responsible for creating technical designs, specifications and initiate design reviews to ensure superior quality based on Hilti standards.
+You develop front-end single-page applications residing in AWS cloud and support them in close collaboration with partners from business, vendors and other IT teams.
+Innovative ideas, constant and continuous improvement are very much appreciated and inspired. You assure quality by providing effective methods in code review and testing in the area of your responsibility in close connection with the test management team.
+
+The global initiative of providing cloud-native solutions and replacing old on-premises unsupportable applications is posing new challenges, but at the same time provides interesting tasks and means for self-growth. There are lots of systems and solutions waiting to get new life in form of modern UI applications, serviced and supported by fast and secure backend microservice. Not only replacing old stuff we ensure that the company can timely provide features and solutions to the end users to beat the competition on the market.
+
+Skills required:
+Mandatory
+· Strong hands-on experience with HTML / CSS / JS
+· Strong hands-on experience with Angular
+· Strong hands-on experience with SPA testing framework (Jasmine / Karma)
+· Hands-on experience with integrating SPA with RESTfull services
+· Knowledge and experience with SSO
+· Hands-on experience with JavaScript build and other workflow tools like Grunt, Gulp, Webpack
+· Added advantage: experience in another SPA framework (React.js / Vue.js)
+Advanced in English
+
+Valuable and desirable: being entitled of Disability Certificate
+
+What can we offer?
+23 days of Annual Leave plus the 24th and 31st of December as discretionary days!
+Numerous benefits (Heath Care Plan, teleworking compensation, Life and Accident Insurances).
+`Retribución Flexible´ Program: (Meals, Kinder Garden, Transport, online English lessons, Heath Care Plan…)
+Free access to several training platforms
+Professional stability and career plans
+UST also, compensates referrals from which you could benefit when you refer professionals.
+The option to pick between 12 or 14 payments along the year.
+Real Work Life Balance measures (flexibility, WFH or remote work policy, compacted hours during summertime…)
+UST Club Platform discounts and gym Access discounts
+
+If you would like to know more, don’t hesitate to apply and we’ll get in touch to fill you in detail. We are waiting for you!

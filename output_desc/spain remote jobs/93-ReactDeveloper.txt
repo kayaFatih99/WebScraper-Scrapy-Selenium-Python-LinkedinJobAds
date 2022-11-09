@@ -1,0 +1,35 @@
+About the job
+Empresa: Telefonica S.A.
+
+Descripción del área
+Telefónica CTO-Novum está buscando ingenieros talentosos para unirse a nuestro equipo de Ingeniería. Los desafíos que se enfrentan todos los días para extender y mejorar la experiencia del usuario de Telefónica requieren un vasto conocimiento sobre cómo producir código altamente mantenible y extensible. Nuestros ingenieros deben sentir la necesidad de crear un producto que funcione rápido y sin fallas, ser apasionados por eliminar cualquier problema tan pronto como se descubra y estar orgullosos de hacerlo.
+El grupo CTO-Novum construye y opera la principal aplicación para los clientes de Telefónica en todo el mundo llegando a más de 30 millones de usuarios activos. Trabajamos para construir productos nuevos e innovadores y para facilitar el acceso a todos los servicios que ofrece Telefónica.
+Misión
+Nuestra misión es guiar a nuestros clientes a lo largo de su ciclo de vida, siendo el centro de la relación digital con Telefónica.
+Deberes y responsabilidades principales
+Responsabilidad principal de codificar, entregar y actualizar las aplicaciones móviles y web desarrolladas internamente por Telefónica.
+Diseñar e implementar nuevas funciones orientadas al usuario en las aplicaciones móviles y web grandes y complejas de Telefónica.
+Trabaje en estrecha colaboración con nuestros equipos de productos y diseño para personalizar la experiencia de las aplicaciones para nuestra plataforma móvil y web.
+Responsabilidad integral de las aplicaciones internas desde la codificación hasta la implementación (incluida la portabilidad, el cumplimiento de especificaciones, el diseño técnico, la creación de planes de prueba, el soporte de implementación, la revisión de código)
+Educación preferida
+BSc o MSc en Informática o campo relacionado (o experiencia equivalente en la industria)
+Habilidades especificas
+Más de 3 años de experiencia en el desarrollo de aplicaciones web y moviles y sistemas distribuidos de mediana/gran escala en un entorno de producción.
+Habilidades de liderazgo y excelentes habilidades interpersonales y de comunicación con la capacidad de trabajar con una amplia variedad de departamentos.
+Capacidad para proporcionar información sobre la priorización de funciones con un fuerte sentido de diseño impulsado por el usuario.
+Conocimientos técnicos
+Experiencia en programación JavaScript
+Experiencia con HTML/CSS, React, o VueJS o Angular JS
+Experiencia escribiendo código simple y código bien probado
+Experiencia con Agile, lanzamientos frecuentes de aplicaciones y ciclo de vida de desarrollo de software moderno.
+Idiomas
+Se requiere dominio del inglés escrito, nivel intermedio de inglés hablado.
+Lo que ofrecemos
+En Telefónica cuidamos a nuestros equipos y brindamos un conjunto de beneficios que aumentan la satisfacción de las personas. De esta forma, además de tu salario, podrás disfrutar, entre otros, de los siguientes beneficios:
+Seguro médico con cobertura dental.
+Cheques de restaurante
+Seguro de vida
+Seguro de accidentes
+Plan de pension
+Cuando te unes a Telefónica
+Te unes a casi 100 años de historia, un equipo de 106 nacionalidades presentes en más de 35 países. Te unes a un equipo que trabaja por conectar a las personas allá dónde estén, sin fronteras.

@@ -1,0 +1,46 @@
+About the job
+En idealista, nuestro objetivo es haceros la vida más fácil si queréis comprar, vender o alquilar vuestra casa. Somos el portal inmobiliario líder en España, pero también tenemos presencia en Italia y Portugal.
+
+Para poder seguir creciendo, estamos buscando a un@ desarrollador@ Frontend que pase a formar parte de nuestro equipo de desarrollo. Si te entusiasma el mundo del frontend y te sientes orgullos@ de tu trabajo, estaríamos encantados de trabajar contigo :)
+
+¿Cómo eres?
+
+Dominas a nivel experto HTML y CSS3.
+
+Además, eres capaz de darle funcionalidad a tu código utilizando JavaScript.
+
+Conoces y manejas bien algún preprocesador de CSS. Nosotros usamos LESS ahora mismo, pero si has trabajado con SASS, Stylus u otro, no te será difícil adaptarte.
+
+Tienes una opinión formada y razonada sobre OOCSS, BEM y SMACSS. Puedes defenderlos o criticarlos con argumentos.
+
+Te resulta sencillo comunicarte y entenderte con tus compañer@s de backend, producto/UX o marketing para llegar a soluciones consensuadas.
+
+Tienes experiencia con RWD en múltiples dispositivos y versiones de navegadores.
+
+Bonus points
+
+Conoces algún framework CSS.
+
+Conoces o has trabajado con algún framework/librería de Javascript como React, Vue, Svelte, etc...
+
+Tienes experiencia haciendo testing.
+
+Tienes proyectos chulos que nos quieras enseñar.
+
+Tienes experiencia con metodologías ágiles como Scrum y capacidad para el trabajo en equipo.
+
+¿Qué te ofrecemos?
+
+Formarás parte del equipo de desarrollo del portal inmobiliario líder en España.
+
+Pasarás por un proceso de onboarding, y siempre podrás contar con la ayuda del resto de compañeros. Con el tiempo ganarás un alto grado de autonomía.
+
+Encontrarás el mejor ambiente de trabajo, un entorno informal y multicultural, con una plantilla joven y un equipo altamente cualificado. Aprenderás de los mejores.
+
+Queremos que cada día seas mejor profesional. Hacemos charlas internas, posts, talleres… que hacen que el conocimiento fluya dentro del equipo. Además tenemos subscripciones a varias plataformas de formación online, cursos, etc..
+
+El contrato es indefinido. Además, tenemos un plan de retribución flexible donde puedes incluir el abono transporte y el seguro de salud entre otros.
+
+Tenemos oficinas en Madrid, pero somos remote friendly. Un par de veces al año nos juntamos todos de manera presencial para poder compartir tiempo juntos.
+
+Además, somos una empresa comprometida y que da visibilidad a distintas causas sociales y de salud: una vez al año elegimos ONGs a las que hacer donaciones, tenemos charlas internas sobre diversidad, hábitos saludables, etc...

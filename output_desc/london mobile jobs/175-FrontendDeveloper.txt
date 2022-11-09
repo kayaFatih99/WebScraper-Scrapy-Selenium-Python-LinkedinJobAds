@@ -1,0 +1,62 @@
+About the job
+BBC Maestro is a platform that provides inspirational courses taught by the most experienced creators in the world. Our products are used by thousands of people worldwide.
+
+We're looking for two Front-end Developers as we look to support our product development, help us mature our platforms and continue to provide a great user experience.
+
+About The Role
+
+As a Developer at BBC Maestro you'll be tasked with supporting our platform growth by adding new features and functionality to the BBC Maestro platform as well as helping us make the platform more robust, well tested and developing tools for automation.
+
+You'll work closely with the CTO, project managers and other team members. Interesting projects we have coming up over the coming months include:
+Implement purchase flows for payments and subscription functionality
+Build interfaces for our video player, library and course notes
+Work on our React Native mobile and TV Apps
+Build features that help people learn through technology
+Continuously improve our developer experience
+
+How We Work
+
+Our product and engineering teams work in an agile way using the scrum framework. You’ll be involved from early product discussions, through to architecture planning, ticket creation, implementation and reviews from QA and other engineers.
+
+We use GitHub Flow and utilise feature flags to allow us to work as iteratively as possible, release small changes multiple times daily and make pull requests manageable for peer review.
+
+Our tech stack
+
+We use a multitude of technologies. We don’t require you to have experience with them all though:
+Ruby on Rails
+PostgreSQL
+Webpack
+Modular JavaScript + Stimulus.js
+SASS + CSS BEM
+AWS Services - CloudFront, Amazon Elastic Transcoder, SNS & S3
+CDN Services - CloudFlare
+RSpec / Cypress
+
+Requirements
+
+We're looking for a highly motivated developer with good front-end development experience. You'll need to be able to work with different stakeholders to understand requirements from both a technical and product standpoint.
+
+Requirements for the role:
+Proficient with HTML, CSS and modern JavaScript with at least 3 years of experience
+You've worked on at least one SaaS product
+Experience with Git and GitHub
+Experience with front-end technologies and building SaaS products
+
+Preferred (but Not Essential)
+Experience building UIs within Ruby on Rails apps
+Experience with React and Stimulus.js
+Experience working with APIs
+
+You are
+Empathetic - As part of a small team you'll work closely with various stakeholders and customers. You'll be expected to take time to develop solutions that consider everybody's view.
+A great communicator - You can clearly communicate your ideas and strategy with others as well as incorporate team decisions into your work.
+
+Benefits
+
+Salary is £50,000
+
+We ❤️ Diversity
+
+We are an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
+
+We positively encourage applications from underrepresented groups.

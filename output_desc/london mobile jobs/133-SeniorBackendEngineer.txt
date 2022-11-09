@@ -1,0 +1,38 @@
+About the job
+About the job:
+HR Ways is a Tech Recruitment Company that helps candidates like yours, make it into world's & Pakistan's largest & Top Product platforms. With HR Ways, your recruitment process becomes seamless as we connect you with top employers for quick interviews and easier than ever on-boarding process. We also help you get the best deals and 360 Analysis of the company that you'd like to join. And oh, we recently placed Engineers in Emirates & Ebay!
+
+About the company we're hiring for Currently:
+The company activities span the Americas, Europe, and the Middle East, with offices in Brazil, Portugal, the UK, the Netherlands, Pakistan, and India. It bring together creative problem solvers, doers, and makers from all walks of life, cultures, and regions, united by a drive to help make change happen. Also, the company listen to its client’s challenges and help them build scalable technology solutions that deliver faster and better results for their businesses.
+
+Company Strength: 500+
+
+Job Role:
+Analyze feature requests and then plan & implement them in a test-driven way.
+Create and review merge requests in order to achieve the best possible solution.
+Exchange ideas share your knowledge with the rest of the team and participate in pair programming. Lead the technology strategy for our backend stack and put it in a better position.
+Requirements:
+4+ Years of industry experience.
+Expert command of at least one of the following languages. NodeJS, Java, Python. NodeJS is a must.
+Minimally a Bachelors in Computer Science/Engineering.
+Excellent knowledge of web standards and technologies (HTML, CSS, JavaScript, HTTP).
+Familiarity with one of the following (NodeJS frameworks, Django, Flask, Fast, Laravel, Spring, or other dynamic frameworks), Nestjs is a must
+Solid knowledge on Microservices & Typescript
+Working knowledge of relational and NoSQL databases - Object-oriented design principles and design patterns, with solid experience in data modeling.
+Solid foundation in software engineering process & best practices (unit testing, build automation, continuous integration)
+Hands-on software development capabilities with medium or large projects
+Passionate about computer science, developing software and internet applications
+Enjoys technical challenges and is capable of proposing and evaluating a solution against requirements, demonstrates a strong customer focus
+Committed to the highest levels of quality, demonstrates accuracy and thoroughness
+Good written and verbal communication skills
+Spoken and written English proficiency
+Solid Data modeling skills.
+Microservices and Service-oriented architecture experience is a must.
+
+Experience: 4+ Years
+
+Work Mode: Remote
+
+Salary: Open
+
+For More Jobs, visit www.hrways.co/jobs

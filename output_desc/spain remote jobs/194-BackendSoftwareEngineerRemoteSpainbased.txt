@@ -1,0 +1,57 @@
+About the job
+The team at one of the cool companies we work with is looking for someone who has a start-up mentality, enjoys challenges and wants to grow with the project from the start.
+
+👨‍💻 Main responsibilities as a Backend Software Engineer:
+Be the #1 responsible person for Engineering.
+Owner, expected to work as company's first Tech-Lead.
+Reporting to CTO.
+Grow and scale the application.
+Create the playbook/good practices to be followed by the team.
+Set the quality bar high.
+Mentoring future hires.
+Languages and frameworks are just tools, the knowledge matters the most.
+
+🔎 We are looking for someone with:
+Hands-on, accountable. We HATE micromanaging as much as you do. This is a position to grow, not to stale. Naysayers, please stay away.
+Eager to learn, without fear for technical products.
+Fast learner.
+Backend wizard, preferably with experience using Go.
+Knows (and loves) experimentation and new techniques at heart.
+Excellent writing skills in English.
+Spain/EU based
+
+🙋 We like someone who is:
+Doer, doer... doer?
+Proactive, transparent - no BS culture.
+Extreme Ownership.
+No-ego.
+Highly organized.
+Self-learner.
+Analytical.
+Results-oriented.
+Good teacher (and student).
+
+🤝 What are we offering?
+🕒 Flexible Schedule.
+📡 Full-Remote work.
+🥷 Extremely talented colleagues that are serial entrepreneurs.
+🗺️ Career Plan.
+📈 Work in an environment that tends toward growing.
+💂 Language classes.
+💰 Budget for personal training.
+💻 Possibility to choose your working environment.
+🔮 Whatever you need to develop the work.
+
+
+Hiring Process
+1st call with a team member to evaluate experience and cultural fit.
+2nd call with CTO for a technical challenge.
+3rd call with CEO for details, review and hopefully offer :)
+
+Joppy is a tech recruitment platform built for developers by developers.
+✅ No CV required. Just say what you know and what you want.
+✅ Anonymous profile by default.
+✅ You choose who can talk to you. Companies can't write to you until you accept their offer.
+✅ Only relevant offers matching your preferences. No more Javascript offer for Java developers.
+✅ Get a reward if you get hired.
+Keep an eye on tech job opportunities anonymously and match the job that makes you happy.

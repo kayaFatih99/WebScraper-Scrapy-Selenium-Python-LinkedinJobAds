@@ -1,0 +1,33 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Droisys, is seeking the following. Apply via Dice today!
+
+Full Stack Developer
+
+San Francisco, CA, Burlingame, CA (Remote work allowed till pandemic)
+
+Fulltime position
+
+Interview Mode:-Phone & Skype
+
+PHP is primary skills in addition with knowledge of Python, SQL and React
+
+Responsibilities to include but not be limited to the following
+
+Work closely with product, engineering, analytics, and operations team (both internal and client) to configure, maintain and developer software
+Brainstorm for new ideas and ways to improve development delivery
+Develop technical solutions, web features and tools to support labelling platform initiatives
+Enhance overall system reliability, performance, efficiency and scalability of new platform features
+Work autonomously
+
+Required Qualifications:
+
+3+ years of industry experience in software engineering, development
+Ability to independently and creatively solve problems
+
+Must Have:
+
+PHP - Primary
+React
+Python
+SQL
+- provided by Dice

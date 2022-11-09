@@ -1,0 +1,26 @@
+About the job
+Senior Python Developer
+London
+Up to £90,000
+
+
+The Company
+A telecommunications company is building a new team of engineers to work on exciting greenfield projects. They have multiple roles to fill and are looking for talented python backend engineers. If you are looking for a new challenge and to make your place in an established organisation this is the role for you.
+
+
+The Role
+As a backend engineer you will be responsible for:
+Building products for delivery
+Woking on APIS
+Working closely with the data science team
+Conducting TDD
+
+
+Tech
+Python
+GCP
+SQL
+
+
+Benefits
+This role offers a salary of £90,000 and 27 days’ holiday. You will receive an exclusive flexible benefits package where you can pick and choose what suits your needs best. You will also get an enhanced pension of 5% you, 10% the company.

@@ -1,0 +1,44 @@
+About the job
+This position is fully remote, but candidates must be based in Spain and have the right to work in Spain without a work permit. Please, submit your English CV.
+
+What are you looking for in your next company? An open, friendly culture? Smart application of an excellent tech stack? Real diversity? Rock-solid products? If these matter to you, we have some great things to talk about.
+
+Hearsay Systems is looking for a talented Senior Full-Stack Software Engineer(s) to join our amazing Engineering team!
+
+You'll closely cooperate with our teams based in Budapest. Get to know them better by watching this video .
+
+Hearsay Sites power the consumer-facing sites for advisors at some of the largest financial companies in the world. Our customers can push targeted marketing content both holistically to an entire field team and individually based on a representative’s market and needs. Our sites generate leads and direct consumers to other social media channels while providing powerful and effective regulatory compliance workflows.
+
+About Hearsay Systems
+
+Founded in 2009, Hearsay Systems is the trusted global leader in digital client engagement for financial services. Our Client Engagement Platform empowers over 200,000 advisors and agents to proactively guide and capture the last mile of digital communications in a compliant manner. The world’s leading financial firms—including New York Life, Morgan Stanley, Charles Schwab, and Ameriprise—rely on Hearsay’s compliance-driven platform to scale their reach, optimize sales engagements, grow their business and deliver exceptional client service.
+
+We are a tight-knit and dedicated team that passionately believes in our products, our people, and our culture. Our products help advisors and agents compliantly scale personalized customer engagements across social media (Facebook, LinkedIn, Twitter, Instagram), websites, text, and voice.
+
+Hearsay is headquartered in San Francisco, with globally distributed teams throughout North America, Europe and Asia. Hearsay is backed by Sequoia Capital, NewView Capital, and Salesforce Ventures.
+
+About the role:
+
+Caring about a quality experience for end users: Representatives and customer admins need to have an easy and efficient experience customizing their sites, but they’re only successful if consumers visit the sites and find them easy and useful on every device.
+Building performant, mobile-first websites: We’d like to improve and upgrade services that deliver these sites to our customers and their end-users.
+Enhancing the editing experience: we want to be respectful of our customers’ time and attention, and ensure that we make our product easier and easier to set up and manage.
+Building accessible websites: We think it’s not only right but cool, to make products that all web users can access and understand. While prior experience with building accessible websites and apps isn’t a requirement, an interest in doing so definitely is.
+Contribute to product architecture: to ensure seamless development of new product features and architect infrastructure to support a fast-growing user base.
+Building reliable products: Testing is important. We want to have confidence that our sites work on multiple platforms and can handle all the variety of content our customers will throw at them.
+
+What your day might look like:
+
+Maintaining and improving our Django sites server.
+Refactoring our customizable website theme so it scales to the needs of as many customers as possible. Right now it’s built in React and we’d love to move much of the React rendering to the server.
+Moving our website themes beyond bootstrap where appropriate.
+Helping us transition our website theme and profile editing UIs from Backbone to modern React and Redux.
+Speeding up our sites with better server-side caching, service worker caching, more server-side rendering, better build tools.
+Building stronger test coverage so we spend less time and resources on product support.
+
+We love working here, and we hope that you will too!
+
+In the case of non-EU citizens, you should have a Permanent Residence Card or Residence Card for Third-country National Family Member of EEA National), as we cannot support the visa process.
+
+Our commitment to diversity and inclusion: At Hearsay we believe that diverse teams are the best teams. We are an equal opportunity employer and do not discriminate on the basis of race, religion, colour, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+I hereby acknowledge that my personal data included in my application will be processed for the purpose of the recruitment process under the General Data Protection Regulation as of 25 May 2018, as amended from time to time.

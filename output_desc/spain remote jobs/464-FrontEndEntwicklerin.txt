@@ -1,0 +1,34 @@
+About the job
+ONE HIRING ist eine HR-Tech Plattform spezialisiert auf die Vermittlung von Tech & Finance Kandidaten im Bereich Professional Services.
+
+Wir denken Recruiting neu und digitalisieren die professionelle Personalberatung in Deutschland. Unsere Plattform kombiniert einen KI-basierten Matching-Algorithmus mit der Fachexpertise unserer Success Consultants. Wir bringen Recruitment und Technologie zusammen, um unsere Kandidaten und Kunden nachhaltig glücklich zu machen.
+
+Recruiting aber richtig. Wir bringen Experten und Top-Unternehmen aus Finance & Tech einfacher zusammen als je zuvor. 🚀
+
+Dein täglicher Arbeitseinsatz als Front-End-Entwickler (m/w/d):
+Du befasst dich mit der technischen Konzeption sowie der Umsetzung vielschichtiger Web-Projekte
+Du kannst -je nach Erfahrung- Verantwortung für ganze Projekte oder Teilprojekte übernehmen
+Du entwickelst flexible Frontend-Architekturen
+Du bist verantwortlich für die kontinuierliche Optimierung des Frontend in Bezug auf Performance, Usability und Sicherstellung der Browserkompatibilität
+Du arbeitest eng mit den Bereichen der Backend Entwicklung, UX u. UI Design und Produktentwicklung zusammen
+
+
+Das wünschen wir uns von Dir:
+Du besitzt starke Kenntnisse in der Softwareentwicklung von Web Applikationen
+Präzises HTML5, strukturiertes CSS3 und Javascript
+Du hast solide Erfahrungen mit SPA Frameworks wie Vue.js, Angular or React.
+Kenntnisse in objektorientierter und funktionaler Programmierung
+Du interessierst dich für den Einsatz neuester Technologien
+Ein Plus sind Kenntnisse in den folgenden Themen: Build-Prozesse, CI/CD, Testing, NodeJS+NPM, REST-APIs, Module-Bundler wie Webpack
+Sehr gute Deutsch- bzw. Englischkenntnisse
+Aufenthaltsort innerhalb Europa
+
+
+Was wir dir bieten:
+Dynamisches Arbeitsumfeld, moderne Büroausstattung, Home-Office-Möglichkeit, professionelles Onboarding, 360 Grad Feedbackkultur, Teamwork, Frisches Obst & Co. sind für uns von ONE HIRING absoluter Standard. Was sind also unsere echten Benefits?
+
+ONE Fact: Wir verhandeln deine Gehaltswünsche zusammen mit dir auf Augenhöhe!
+ONE Career: Das reicht Dir noch nicht? Durch Kooperationen mit der FOM und der IU können wir darüber hinaus z.B. berufsbegleitende Studiengänge ermöglichen oder überstützen Dich bei der Auswahl externer Lehrgänge!
+ONE Flex: Ob im Office oder im Homeoffice, bei uns gestaltest Du deinen Tag zu 100% flexibel. Damit Du den Kopf frei hast, um Deine Erfolgsstory zu schreiben, bieten wir Dir neben absoluter Flexibilität auch hier eine extra Meile: Wir haben z.B. einen Concierge, der Dir während deiner Arbeitszeit Behördentermine & Co. abnimmt!
+ONE Mind: Als Unternehmen sind wir nur so gut und gesund wie unser Team. Mental & Body Health waren uns also noch nie wichtiger. Deswegen hast Du bei uns die Möglichkeit dich auch in herausfordernden Zeiten von unserem Kooperationspartner „Nilo Health“ zu unterstützen!
+ONE Inside: Thailand, Ibiza, Dubai? Wir arbeiten hart, feiern aber auch gerne. Unser Erfolg wird auf unseren internationalen Incentive Reisen gebührend gefeiert. Aber auch auf regionalem Boden feiern wir die Erfolge an Social Days, Teamevents & Night Outs gemeinsam!

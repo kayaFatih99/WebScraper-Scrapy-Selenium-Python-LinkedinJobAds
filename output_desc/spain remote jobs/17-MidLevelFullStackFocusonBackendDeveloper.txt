@@ -1,0 +1,77 @@
+About the job
+About The Geeks & Culture
+
+We are a growing, international indie team that is creating the high-quality, innovative, digital Trading Card Game Synergy of Serra. We believe in the idea that everything in the future is gamified and we start shaping this future today.Next to that, we believe in our values which are the foundation of all beliefs, practices and behaviors that are shared and lived by the entire team. That's why we place special emphasis on enriching our team with more geeks who share the following values with us:
+Gamers at heart: We strive to create a world where nobody calls games a waste of time.
+Passion: We live our passion, create art and shape our childhood dreams together.
+Freedom: Work to your own style, not being bound to location or time, to be the best version of yourself.
+Ownership: Own and lead your responsibilities by taking action and making decisions.
+Growing together: We support each other to express ourselves and make a difference in the world.
+Challenging the status quo: We make disruptive games – never seen before – with creativity and art at their core.
+
+About The Project, Vision & Mission
+
+At Calystral Games we focus on two projects. Synergy of Serra is a digital Trading Card Game utilizing Blockchain technology for the benefit of its players.
+
+With our Marketplace we build the next generation of NFT technology, which puts love for the technology second to the needs of the users.
+
+Our mission is to create fair and trustless, disruptive games and at the same time to transform NFT-financed games to a well accepted and fair type of game that focuses on providing the best free2play gaming experience there can be. That’s how we empower gamers to challenge the status quo and by that unleash their true potential.
+
+About Benefits
+💯% remote working and flexible working hours
+💻 Personal hardware and operating system of your choice
+🌎 2+ onsite team events per year, somewhere on our beautiful planet
+🎮 Regular hangouts, where we play games together
+🤓 Personal development is a core element of our culture: 10-15% of the working time is dedicated to self development (we also have a book club)
+🎯 An in-house bonus program where everyone is rewarded through the value that we create together
+💡 No one is defined by a fixed role, instead all geeks shape their own role by bringing in their native genius
+
+About You
+
+Take a moment to answer yourself the following questions: As a geek,
+are you passionate about efficient and maintainable code?
+do you like working in a team to produce a performant and scalable service for our users?
+you don’t shy away from digging in deep to find the best solution or the elusive bug?
+
+Your answers are definitely “YES”? Perfect, then let’s continue with your quest!
+
+YOUR QUEST
+
+Being accountable for the implementation, maintenance and improvement of the micro service and smart contract infrastructure of our user focused solutions.
+
+YOUR KNOWLEDGE
+
+Must haves:
+Expert in one or more scripting languages, e.g. JavaScript
+Advanced knowledge of databases
+Advanced knowledge of RESTful web-services
+Knowledge of micro service architecture, e.g. AWS Lambda
+Advanced knowledge of software engineering and OOP
+
+Nice to haves:
+Basic knowledge of blockchain technology and smart contracts
+
+Your Skills & Abilities
+
+Must haves:
+Operating and monitoring cloud services, ideally AWS, Linux Commandline
+Writing CI/CD pipelines
+Fluent in English
+Communicate in a way that other geeks (with different backgrounds) understand the reasoning behind your actions and decisions
+Think and act as team-player by always putting the achievement of the common goal in the foreground
+Strong ability for prioritisation and implementation of efficient energy and time management
+
+Nice to haves:
+Development with react, vue.js, angular or similar framework is a plus
+
+Your Other Superpowers
+Passion for new technologies and games 💛
+Team player & “beyond the box” thinker
+Fully committed to all your activities and projects
+Enjoy learning and growing every day 🌱
+
+LETS PLAY
+
+Apply now, so we can play together! 🤹
+
+(*) We welcome all applications without regard to gender, gender identity or expression, race, color, religion, sexual orientation, national origin, genetics, disability, age or whatsoeve

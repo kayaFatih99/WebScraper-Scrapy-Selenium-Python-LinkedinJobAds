@@ -1,0 +1,22 @@
+About the job
+Lead PHP Developer - FinTech (Fully Remote)
+
+Salary: Up to £75,000
+
+Fully Remote, Offices – London
+
+Lead PHP Developer – Do you want to make a difference in the financial sector?
+
+This mobile application is one of the most transformative e-wallet systems on the market, changing the way that consumers manage money. The company operate around the globe, operating in three continents, creating a diverse and innovative team. The opportunity at hand will allow the Lead PHP Developer to be creative in their role, helping to solve architectural transactions of the product. They will be required to work closely with the Agile team to help improve the overall functionality of the platform. As the Lead PHP Developer, you will be required to manage relationships, be intuitive and influential whilst having a problem-solving attitude towards the challenges at hand.
+
+Ideal Tech Requirements
+· A Strong Laravel Developer
+· Previous FinTech/Finance work experience (5+ years)
+· Worked within an Waterfall + Agile methodology environment is advantageous
+· A solid understanding of Vue.js is beneficial
+· RabbitMQ and Kafka experience is desirable
+· Strong communication and the ability to work independently is required
+
+If working within this type of environment sounds of interest to you, then please apply now!
+
+Lead PHP Developer

@@ -1,0 +1,37 @@
+About the job
+Job title: Senior Unreal Developer
+Location: Remote
+Salary: Competitive
+Benefits: Private healthcare, your birthday off, plenty of flexibility, parental packages, sabbatical after 5 years of service, cycle-to-work scheme, fun socials, and more!
+
+About Dimension
+Dimension is a leader in real-time 3D content, specialising in advanced virtual worlds, virtual humans, and virtual production for the entertainment industry. As a Senior Unreal Developer, you will work with a team that is pioneering new forms of storytelling, creating mixed reality content for film, games, sports, music videos, fashion, and metaverse experiences.
+
+Our studios are based in the UK (London and Newcastle) and US (Los Angeles), while our mobile stages operate worldwide.
+
+Recent hits include the industry-shifting Balenciaga “Afterworld: The Age of Tomorrow” game and the out-of-this-word Coldplay x BTS “My Universe” hologram video, and star-studded feature films Bullet Train (Sony Pictures) and Pinocchio (Disney).
+
+As a Senior Unreal Developer, you will work alongside 100 curious and creative minds. We work with some of the world's most exciting brands, media and entertainment companies. We offer a competitive salary and a range of other benefits including flexible hours, as well as unrivalled access to on set experience. We encourage applications from people of diverse backgrounds.
+
+
+Responsibilities for the Senior Unreal Developer:
+Work on full production cycles from brainstorming and rapid prototyping to developing fully fledged systems and fine tuning mechanics, as well as stress testing and bug fixing. Developing innovative gameplay, AI, physics, UI, vehicles, weapons and character controls.
+Solve technical problems with simple, efficient and creative code.
+Help ship VR/AR/MR projects across multiple platforms including various headsets to PC, mobile and console.
+Liaise with external middleware providers and platform deployment teams.
+Providing feedback and advice to junior team members
+
+Essential requirements for the Senior Unreal Developer:
+Minimum 1+ years experience with Unreal Engine and ideally, at Senior Unreal Developer level.
+Minimum 2+ years experience in game development, with shipped titles
+Experience with C++ or C#.
+Experience in game development, with shipped console and/or mobile titles.
+You have multi-platform development such as VR, AR, PC, console, mobile or web.
+
+Desirable skills for the Senior Unreal Developer:
+Familiarity with virtual reality head mounted displays and motion controllers.
+History of working within rapid prototyping environments, such as game jams.
+Real passion for video games, films and other creative mediums.
+You will ideally be based in Newcastle or London, however we will consider applicants elsewhere in the UK if you are willing to travel to London or Gateshead on a monthly basis in the future.
+
+If this Senior Unreal Developer role sounds like you, please click apply! If you are not sure, feel free to contact me on Gabriel.Martin@dimensionstudio.co and I'll be happy to respond any questions.

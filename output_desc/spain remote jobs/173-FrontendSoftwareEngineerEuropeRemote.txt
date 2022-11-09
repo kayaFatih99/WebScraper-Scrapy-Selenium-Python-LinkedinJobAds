@@ -1,0 +1,48 @@
+About the job
+ABOUT US
+
+Chiliz is a global fintech and blockchain company behind Socios.com the world’s first fan voting and rewards app.
+
+We have partnered with more than 120 of the most recognisable sports and esports brands in the world to provide a blockchain-backed solution to boosting fan engagement.
+
+Our partners include - The Los Angeles Lakers, New England Patriots, Paris Saint-Germain, Juventus, FC Barcelona, Atlético de Madrid, UFC, Brooklyn Nets, Galatasaray, Golden State Warriors, Manchester City FC, Davis Cup, and many more.
+
+Our diverse and extraordinary team - that spans 30+ nationalities - are the driving force behind our success with creative thinking at the heart of anything and everything we do
+
+THE ROLE
+Due to continued growth we’re looking to recruit a Frontend engineer to join our IT team. You’ll be responsible for building the ‘client-site’ of our web and mobile applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.
+This role is available for all qualified candidates based in Europe. Remote working arrangements will be provided either based on a Full-time employment contract or consultancy agreement depending on the tax residency within the EU.
+As a Frontend engineer you will be part of a Feature team (Squad) consisting of a Team Lead, a Product Owner, a couple of Frontend and Backend Engineers, and QA Engineers. The Feature Team collaboratively works together to deliver features, from inception to implementation, across our Web and Mobile products following the SCRUM methodology.
+
+Responsibilities & Duties
+Working on various evolving web and mobile products utilizing Javascript as the main coding language.
+Using Vue as a framework on top of JavaScript. Vue is not our end goal and we always select the best stack for the product. Knowledge of React or Angular is a plus.
+Improving existing features and building new features for the product.
+Researching new approaches on how to make products better, faster and more secure; sharing these findings with the rest of the Frontend team to have an open discussion on the pros and cons and to learn from each other.
+Providing technical feasibility and estimations for tasks.
+Ensuring correct code implementation with quality, stability, and readability in mind.
+Learning, implementing and using new technologies in the projects.
+
+Requirements
+Have a very good verbal communication and collaborative attitude. We prioritize team work over personal outcomes.
+Be a responsible person and understand that taking ownership is how you evolve yourself, the team around you, and the product.
+Be experienced in at least one of these frameworks: Vue, React, Angular.
+Enjoy working with HTML, CSS(SCSS) and Javascript.
+Have an understanding of ES6 and more latest features of JS.
+Have a good understanding of UX/UI for responsive web development.
+Be able to follow coding standards.
+Know essential tools such as: GIT, SSH, NPM/Yarn, Webpack, JIRA.
+Be able to work on MacOS.
+
+Optional
+Have your own exciting project on the side that you can share with us and share your progress between day-to-day tasks or on a coffee break.
+Experience in either PhoneGap, Ionic, ReactNative, Flutter, and/or NativeScript.
+Experience in NodeJS / WebSockets.
+Enjoy innovating.
+Enjoy looking "under the hood" of the dependencies, and like to get your hands dirty to identify how code works.
+
+
+WHAT WE OFFER
+From working with some of the biggest and most recognizable sports teams in the world to creating unforgettable fan experiences, all while using blockchain technology, it’s never a dull day here at Chiliz. You have the flexibility to split your time between working from home or from one of our beautiful offices in Madrid, Miami, London, Istanbul, Lyon, Gzira, or São Paulo, located at the very heart of these vibrant and cosmopolitan cities. And if there’s no office close to you, we’re cool with fully remote working too!
+
+We’re an extraordinary multi-cultural team spanning 30+ nationalities with ideas as diverse and interesting as we are. Professional and personal development is very important to us and our package includes, depending on location and contractual agreement, a wellness allowance, private healthcare, and a pension plan. Together with a supportive and collaborative working environment and great company perks, above all, we give you the chance to be a part of the future.

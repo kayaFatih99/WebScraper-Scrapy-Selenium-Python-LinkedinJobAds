@@ -1,0 +1,28 @@
+About the job
+Project Overview:
+We are building a secure offline update and installation system for the software we deploy on the Operations Network in our breweries.
+We are using open source software like InfluxDB, Grafana and Node-Red to collect data from the shop floor and send it to edge devices, we are also making this data available for near-live checking by our operators and engineers.
+
+Must have skills:
+Influx DB
+Node-Red
+PowerShell (5.1 and up)
+SQL
+Grafana
+Understanding of versioning, committing and rollback
+Domain Management
+Experience of Agile Methodology
+Active Directory
+
+Role & Responsibility
+You will help us build the best solution to install software in new locations and keep existing installations up to date.
+You believe in automation and scripting above long complicated manual installation instructions.
+You will align with our partners (Who maintain our windows platforms) to ensure that installations, updates and upgrades happen smoothly, always having a rollback or mitigation strategy in mind.
+You will write, update documentation and help train our system maintainers in the breweries on how to manage our platforms
+Pluses:
+Windows Server (2016 and up)
+Networks/Firewalls knowledge
+Virtualization (Virtual Machines, containers)
+Continuous Integration
+(Discretionary/System) Access Control Lists, Access Control Entries,..
+Lightweight Directory Access Protocol

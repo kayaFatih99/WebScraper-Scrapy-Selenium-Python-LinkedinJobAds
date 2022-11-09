@@ -1,0 +1,57 @@
+About the job
+Who We Are
+
+Empathy.co is the leading innovator in commerce Search and Discovery. With over 200 Developers and Search Engineers, it has headquarters in London (UK) and Asturias (ES).
+
+Committed to building human-centred commerce Search and Discovery platforms, Empathy.co gives big brands all they need to create trustworthy, understanding and joyful shopping experiences.
+
+Empathy.co believes that great technology can inspire brands to respect the individual, serve the community and thrive through these relationships.
+
+Trusted by industry global leaders like Carrefour, Kroger and Inditex, Empathy is privately held with no external investors, and cash-flow positive. With this, Empathy.co is free to innovate and relentlessly pursue customer success.
+
+Your mission
+
+As a Frontend Software Engineer for Play, you will join our mission to help customers understand shoppers’ behaviour by creating tools that allow them to play with the search and understand the how’s and why’s of the search. You’ll achieve this by developing tools for merchandisers, thinking about UX and design first, and following Empathy’s principles of trust, understanding and joy.
+
+What You’ll Do
+
+Help develop a product and be part of its evolution and success, having the chance to participate in key decisions.
+Participate in the design and implementation of new features to keep our Playboard web application growing and help our customers build their own Search experience.
+Collaborate with designers and other engineers in the quest of evolving and continuously improving the product.
+Participate in the technical decisions, both from analytical and development points of view.
+Help refine tasks and propose solutions to interesting technical problems.
+Mentor new team members and enforce best practises among the team, being a proactive team player and a key to the growth of the team and product.
+Participate in code reviews, review PRs, and encourage constant improvement.
+Ask smart questions, take risks and champion new ideas.
+Adapt quickly to changes in objectives and environment.
+Stay up to date with modern technologies.
+
+What You’ll Bring
+
+2+ years of experience working as a Frontend Software Engineer.
+Deep understanding of JavaScript and CSS.
+Preferably, experience with TypeScript and CSS preprocessors like Sass.
+Experience with modern JavaScript frameworks like Angular, React or Vue.
+Ideally, Experience interfacing with RESTful services.
+Passion for creating clean, functional and well-designed code.
+Knowledge of browser debugging.
+As a plus, understanding of testing principles and quality software development.
+Knowledge of git and workflow models like Git Flow or Trunk Based Development.
+Good spoken and written English.
+Proactivity, commitment and autonomy.
+Team player attitude, open mindset and eagerness to learn.
+
+What’s In It For You
+
+Being part of a team with a forward-looking, international mindset and Agile working practises.
+The chance to work with cutting-edge technologies and expand your skill set.
+Attractive salary and very competitive benefit package (private medical insurance, online functional training, English lessons, flexible remuneration, etc.).
+Remote work contract with all essential equipment to carry it out and set up a home workspace (as well as an awesome welcome pack).
+A range of employee events throughout the year, including team building activities, Sashimi sessions, and Kick-off events.
+Personal Training Budget and limitless growth opportunities.
+Up to 6 training days available per year to attend courses and events.
+Unlimited certification possibilities, with certification costs covered by Empathy.
+Eligibility to participate in our Bonus Plan and grow with us with our Empathy Stock Option Plan.
+Opportunities to shape the tech community within and outside the company, through mentoring and knowledge-sharing.
+Unlimited free books to expand your knowledge and foster creativity and self development.
+And most importantly: an amazing working atmosphere and team culture.

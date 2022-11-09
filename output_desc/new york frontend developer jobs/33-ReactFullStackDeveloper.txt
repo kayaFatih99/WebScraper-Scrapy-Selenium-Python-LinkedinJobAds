@@ -1,0 +1,27 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Spiceorb, is seeking the following. Apply via Dice today!
+
+Hi,
+
+This is Tejal from Spiceorb.
+
+Spiceorb is looking for a Full Stack Developer(React JS + PHP/Java/NodeJS/.Net) to work for Contract Positions in 100% remote model.
+
+Please email me an updated copy of your resume along with the required details to . We intend to close this position by next week.
+
+Job Title- Full Stack Developer
+
+100% Remote
+
+Please find below the job description:
+
+Strong experience building modern front end applications using React
+Solid fundamentals required in HTML, CSS (or SASS), Javascript (or Typescript), HTTP, PHP is nice to have.
+Good knowledge of at least one backend framework/language like Node.js, Python, Java, .Net is important
+Nice to have working knowledge of REST, GraphQL and D3.js
+Design Patterns knowledge would be helpful
+Good ability to clearly communicate about projects worked, challenges faced, and articulate reasoning behind design and architecture decisions made 5+ years of experience
+BS in Computer Science or related fields.
+MS/PhD preferred
+
+Regards, Tejal - provided by Dice

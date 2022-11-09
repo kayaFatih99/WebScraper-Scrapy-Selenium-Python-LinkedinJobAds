@@ -1,0 +1,24 @@
+About the job
+Gantry is building infrastructure and developer tools to help machine learning teams turn their projects into production-grade machine learning systems. We offer an Evaluation Store , a single source of truth for model performance metrics. Our tool helps machine learning teams understand the performance of their models in production and make operational decisions like whether to deploy, when to retrain, and what data to label and retrain on.
+
+Gantry was founded by Josh Tobin , former OpenAI researcher and co-creator of Full Stack Deep Learning , and Vicki Cheung , former founding engineer at OpenAI and Compute team lead at Lyft. Gantry is well-funded and backed by top-tier venture capital firms and angel investors including Pieter Abbeel and Greg Brockman.
+
+We value diversity and encourage candidates from underrepresented groups to apply.
+
+We are hiring a founding engineer to lead development of our user-facing dashboard. The ideal candidate will be comfortable making pragmatic architectural decisions, as well as working closely with our designer. Our tool is focused on observability of ML models, and so your work building beautiful and functional UI will be critical to the success of our product.
+
+What You'll Do
+Own the architecture and development of our web user interface
+Define our frontend stack (right now we use React, but we're open to a variety of tools)
+Work with our designer and ML team to design and implement data visualizations for a variety of data types
+Set engineering standards and culture as we grow the team
+
+You may be a good fit if you
+Have experience building web frontends with data visualizations
+Are excited to help to accelerate the ability of companies to deploy machine learning as part of their core products and services
+Want to have a large impact as an early member of the team, making a critical aspect of our product functional and delightful
+Are detail-oriented and enjoy iterating based on user feedback
+Have a good understanding of elements of web design
+Enjoy working with a high level of autonomy, thinking through priorities, tradeoffs and long-term design in a cross-functional environment
+
+Gantry Systems, Inc. is an equal opportunity employer. We celebrate diversity, are committed to creating an inclusive environment for all employees, and intend to consider qualified applicants with criminal histories.

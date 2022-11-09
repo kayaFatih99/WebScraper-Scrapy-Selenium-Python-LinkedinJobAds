@@ -1,0 +1,33 @@
+About the job
+Android Developer – Kotlin, MVVM, OTT Media & Sports Streaming
+
+We are hiring a team of Android Developers on a permanent basis for a leader in OTT Media, innovators in web streaming platforms and live Sports streaming.
+
+These can be either worked fully remotely or as part of any preferred Hybrid setup (office in London).
+We are hiring both mid and senior level Android Developers, with salarys ranging from £50k+ up to £83k for top senior Kotlin specialists.
+
+This is a modern Engineering environment with emphasis on code quality, testing, best practice and design structure.
+
+You must have strong commercial Android Development experience, with demonstrable experience building in Kotlin, with good understanding of MVVM.
+
+Technical Environment:
+· Android development
+· Java
+· Kotlin
+· Gradle
+· Design Patterns
+· RxJava
+· Dagger2
+· Glide
+· Google Play Services
+· Play Store account administration and submission
+· Unit testing with JUnit and Mockito
+· Build Automation and Continuous Integration
+
+Additional Bonus Experience:
+· Facebook SDK
+· Fabric
+· Firebase
+· In-App Purchase
+
+If you are interested in finding out more please get in touch ASAP – we run regular interview campaigns with a single stage interview process and hiring decisions within 24 hours of interview.

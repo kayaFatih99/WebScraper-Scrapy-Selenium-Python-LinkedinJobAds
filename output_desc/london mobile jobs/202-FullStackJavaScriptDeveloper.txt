@@ -1,0 +1,29 @@
+About the job
+Full Stack JavaScript Developer
+
+Salary: £75,000 - £95,000 pa. Holiday | Bonus | Private Healthcare | Unlimited Training Budget
+
+Location: UK Wide – Hybrid working. We will consider applications from candidates based in Liverpool, Manchester, Bristol, London, Birmingham, Glasgow, Belfast, and Edinburgh
+Passion drives us, cutting-edge technology thrills us and our amassed skills are what make us successful. People, Technology, and Innovation is always at the forefront of our minds, which is why we are a Microsoft Gold Partner leading the way in Microsoft Dynamics Solutions. If you do not want just another Platform Architect, then we are the place for you.
+
+The Client:
+Our client is a global leader in Systems Integration and IT Consultancy. They have built out a super advanced and respected industry wide Digital Customer Experience team, which is currently collaborating with the biggest companies across multiple sectors, including, Banking, Energy & Utilities, Fashion, Retail, Manufacturing, Automotive and Public Sector. They are engaged on the biggest and most cutting-edge software development projects across the UK.
+
+The Role:
+My client is currently looking to recruit 5 senior Full Stack JavaScript Developers. You will be part of the Web Platforms Team and you will be producing digital experiences via full stack web and mobile applications. Excellent challenge for a Full Stack JavaScript Developer, capable of leading the development and delivery of web/mobile/tablet experiences for Clients.
+
+Essential Skills and Experience:
+In depth experience of HTML5, CSS3, object-orientated JavaScript and large JavaScript applications
+Full Stack JavaScript experience including NodeJS and at least one modern JavaScript UI framework, such as React, Angular or Ember
+Experience of cloud native development including serverless application development approaches using one or more of Serverless Framework, AWS Amplify, AWS Lambda, Google Cloud Functions, Firebase, Azure Functions
+Understanding of Progressive Web App (PWA) development approaches
+Continuous Integration/DevOps experience
+Demonstrable experience in Test Driven or Behaviour Driven Development
+Version control software (Git) expertise
+A deep understanding of web standards, accessibility, and development best practice
+Experience of leading agile development teams, and delivering optimised integrated web solutions
+
+To apply please click the “Apply” button and follow the instructions.
+For a further discussion, please contact James Money on 07948282298 or James.money@83zero.com
+
+83zero LTD is a boutique consultancy specialising in IT, Data Engineering and Architecture | Data Science (ML, AI, DL) | Data Visualisation | RPA within the UK. We provide high quality interim and permanent senior IT professionals.

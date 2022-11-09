@@ -1,0 +1,38 @@
+About the job
+NOTE: We are open to applicants for this role residing in San Francisco or Berlin. We can also help an ideal candidate relocate senior candidates to Berlin, Germany. Not a remote role.
+
+RapidAPI is the world's largest API Hub with three million developers and 30,000 APIs. Developers use RapidAPI to find, test, and connect to APIs while API providers market, manage, and monetize their APIs.
+
+RapidAPI’s next-generation API platform - RapidAPI Enterprise Hub - is used by dozens of Fortune 500 Companies to enable digital transformation initiatives. With RapidAPI Enterprise Hub, businesses can accelerate innovation, bring software to market faster, and successfully implement their API strategy. A global company with offices in San Francisco, Tel Aviv, Tallinn, and Berlin. RapidAPI has raised over $272M in funding at a $1 Billion valuation from Microsoft Ventures, Andreessen Horowitz, Stripes, SoftBank Vision Fund 2, Green Bay, and more incredible investors. RapidAPI is the world's largest API Developers Platform - with four million developers and 40,000+ APIs.
+
+WHY DO WE NEED THIS ROLE NOW
+
+RapidAPI is investing heavily in developer education. We want to make the world amazing for developers of all backgrounds. Developer Relations is a department that reports directly to the CEO while working cross-functionally with product, marketing, or engineering teams, which signifies the buy-in from the leadership team. This is an excellent opportunity because we are building multiple DevRel programs from scratch.
+
+Come on board and bring your curiosity and vision to see it through. Implement programs to make developers' lives easier, and together we plan to make API Development more accessible and dependable for everyone. This team is at the heart of strengthening RapidAPI's relation with developers. Join us and become a crucial part of our story.
+
+Developer Programs Engineers are the engineering wing of Developer Relations. You will build and maintain DevRel related initiatives (Learn, Codelabs, Dev Blog, CLI) that deliver our technical content to the world. Primarily looking for Senior React developers with Next.js , Tailwind CSS, and excellent frontend design skills.
+
+Responsibilities
+Design, build and maintain DevRel projects like RapidAPI Learn, Codelabs, CLI, Stacks, Demo, and DevRel reporting dashboards.
+Write, release, and manage open source projects, demo apps, dev tools, code samples, blog posts, technical guides, or videos.
+Lead the next generation of API Development learning experiences.
+Improve the Developer Experience of post-launch product education.
+Contribute to and manage open source projects and drive open standards.
+Be a hands-on technical lead who can pitch, own, drive, and develop from zero to launch.
+Collaborate with product and engineering teams in defining the roadmap and prioritizing the needs of our partners, developers, and DevRel.
+Advocate for developers internally and help influence RapidAPI developer product strategy by working with DevRel, Product, Engineering, Marketing, and other cross-functional teams.
+Basic Qualifications
+Bachelor's degree in Computer Science or equivalent practical web dev experience.
+Experience with the relevant stack: JavaScript, TypeScript, React, Next.js, Tailwind, CSS-in-JS, Node.js, Jamstack, Firebase, Node.js CLI automation.
+Experience with Jamstack and Headless CMS (Sanity, WordPress).
+Experience with creating accessible React components/architecture.
+Accomplished at building well-structured web apps using modern JavaScript, React, MDX.
+Rock-solid understanding of the core JavaScript language, and writing accessible and semantic SEO-friendly HTML/JS.
+Preferred Qualifications
+7+ years of web development experience (Sr. JavaScript Engineer).
+Excellent front-end design skillset (CSS Animations, dev/design duo).
+Contributions to programs designed to help underrepresented people enter the tech field.
+Experience working with third-party developer tools, including creating documentation, working with GraphQL APIs, building simple SDKs, and CLI libraries.
+Experience participating in developer communities, contributing to open-source projects, and other developer community groups.
+NOTE: We are open to applicants for this role residing in San Francisco or Berlin. We can also help an ideal candidate relocate senior candidates to Berlin, Germany. Not a remote role.

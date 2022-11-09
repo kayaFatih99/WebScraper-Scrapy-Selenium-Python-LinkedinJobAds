@@ -1,0 +1,27 @@
+About the job
+¡Desde AKKODIS, multinacional de servicios tecnológicos líder a nivel global, te estamos buscando a ti!
+En esta ocasión, estamos seleccionando un Desarrollador Web con conocimientos en VUE JS para el equipo e-commerce. Proyecto estable e internacional, 100% teletrabajo con últimas tecnologías:
+
+FUNCIONES:
+- Generar un código limpio, mantenible y escalable para el correcto funcionamiento de la web en una marca de trabajo Agile.
+- Analizar técnicamente las nuevas tecnologías y herramientas de trabajo, las historias de usuario, y participar en sesiones de refinamiento del backlog de producto.
+- Desarrollar nuevas funcionalidades y mejoras en el producto digital del cliente, centradas en cubrir las necesidades del usuario, junto a otros desarrolladores y diseñadores del equipo de comercio electrónico.
+
+REQUISITOS DESEABLES:
+- Mínimo de 3 años de experiencia desarrollando en Vue.js.
+- Experto/a en Javascript, HTML y CSS.
+- Con nociones de Node.js.
+- Acostumbrado/a al uso de herramientas para el control de versiones como GIT.
+- Metodologías ágiles.
+- Nivel de Inglés alto.
+Horario: Flexible de oficina
+Teletrabajo: 100% teletrabajo
+
+¿QUÉ OFRECEMOS?
+📍 100% TELETRABAJO
+🙋♂Contrato indefinido
+🕑 Flexibilidad horaria
+❤️Equipo humano altamente cualificado que te brinda apoyo y seguimiento constante en tu día a día.
+👉 Sistema de Retribución Flexible: seguro médico con Adeslas, cheques restaurante.
+💡Formación: formación en idiomas, formación específica.
+👉Club Adecco con ventajas y descuentos en más de 900 empresas.

@@ -1,0 +1,46 @@
+About the job
+At Fast Forward Solutions, we are specialists in digital and technology recruitment, understanding business challenges in areas of technology, finance, and sales. We support employers to find top talents, and we empower candidates to build exciting careers.
+
+Currently, our client is looking for a Frontend Developer (Mid-Senior)
+
+It is an international software company present in 26 countries, specializing in high-end SAP-based enterprise cost accounting, profitability analysis, and performance management solutions. The client enables its customers around the world to operate profitably, adapt continuously, and make a difference.
+You can join a dynamic team in one of our two locations – Wrocław, Poland and Walldorf, Germany as a Frontend Developer to drive the product development of our solution SAP Profitability and Performance Management Cloud.
+
+Your daily doing:
+
+Develop modern cloud application with React (v.16+), Typescript (v.4+), Redux.
+
+Your profile:
+
+Very strong skills with modern JavaScript ecosystem, Typescript, and React
+Commercial experience in React 3+ years
+Commercial experience in web development (optimally in React + Redux)
+Experience with React functional components, hooks and context API
+Experience working with 3rd party libraries (we use Go.js, grid, SpreadJS)
+Fluency in English, written and spoken
+Independent individual focused on getting things done
+
+Nice to have:
+
+Familiarity with Jest / other testing libraries
+Knowledge of OData
+Knowledge of SAP UI5 / SAP Fiori
+Knowledge of Design Patterns / Best Practices
+Fluency in German
+
+This offer:
+
+54K-100+K EUR on permanent contract (Full Time Employee - B2B not possible)
+Possibility of individual agreement on remote work in Poland, Romania and Bulgaria
+Access to innovative and emerging technologies
+Possibility of combining professional and private life (flexible working hours, health and sports benefits, etc.)
+A challenging and multicultural working environment with ongoing support from buddies, mentors, colleagues, and managers
+A team which lives according to the core values of collaboration, thought leadership and entrepreneurship
+Internal and external functional and technical training and certifications
+Wide range of employee benefits like Private Medical Insurance, fitness card, Training budget etc.
+A passion for technology and people as well as the opportunity to join an expert team with access and influence in different markets worldwide
+
+Remote policy:
+Due to it's legal requirements work remotely on full time job requires being present in these countries where our Client has the legal subsidary: Bulgaria, Croatia, France, Germany, Italy, Netherlands, Portugal, Romania, Poland, Serbia, Spain, Switzerlan, United Kingdom
+Other countries also outside EU there is a need to relocate to EU (Poland, Romania or Germany)
+Client will help with relocation permissions and the process.

@@ -1,0 +1,68 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Scadea Solutions Inc, is seeking the following. Apply via Dice today!
+
+Role: FullStack Developer
+
+Location: Remote
+
+Duration: 3+ Years Contract
+
+We are looking for a Full Stack Developer to join our team in the modernization of several applications utilized by a federal healthcare customer. This team is using technologies such as React/Angular, Typescript, Python, Docker and AWS.
+
+Responsibilities
+
+Design, develop, test, deploy, maintain, and improve several software applications.
+
+Build and own full stack development for software applications.
+
+Develop and maintain API specifications using Swagger Editor.
+
+Develop new features using microservices.
+
+Develop API design approach using AWS cloud and open source technologies.
+
+Develop new features using acceptance test-driven development.
+
+Work in and with small feature delivery teams: cross-functional, cross-component team that completes many end-to-end customer features, one by one.
+
+Participate in product strategy, product design and product development activities.
+
+Use lean and agile work management and engineering practices.
+
+Communicate with team members and client clearly and concisely regarding status/risks, etc.
+
+Qualifications
+
+Bachelor of Science degree and at least 5 years of relevant professional experience. Experience may be obtained with certifications and higher education, such as a master's degree.
+
+Proven full stack application development experience including front end technologies such as HTML/CSS/JS, React, Angular and backend technologies such as Java, .NET, Node.js and database technologies such as Oracle, SQL Server, PostgreSQL.
+
+Excellent communication skills, written and oral
+
+Strong team building and collaboration skills.
+
+2+ years experience with React and Angular frameworks preferred
+
+2+ years experience with PostgreSQL preferred
+
+Strong experience with ECMA-based languages, such as TypeScript and JavaScript.
+
+Strong experience with Git based source code repositories such as Github, Gitlab, Bitbucket.
+
+Strong agile development experience.
+
+Ideal experience with Sass templates.
+
+Ideal experience with Python.
+
+Ideal experience using AWS cloud services.
+
+Ideal experience using Docker containers.
+
+2+ years experience working on an Agile team and following Agile processes and ceremonies
+
+Please Respond To: chaturya AT scadea DOT net
+
+Nine Zero Eight Six Three Six Two Seven Two Seven Ext:Two Two Four Five
+
+provided by Dice

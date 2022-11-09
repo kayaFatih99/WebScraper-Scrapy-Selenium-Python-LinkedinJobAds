@@ -1,0 +1,21 @@
+About the job
+.NET Developer, C#, WPF - Mobile Telecommunications - London
+
+(Tech stack: .NET Developer, .NET 7, C#, WPF, Server 2019, MVVM, Prism, TDD, Agile, Programmer, Engineer, Architect, .NET Developer)
+
+Established in the early 1990s and listed on the London Stock Exchange our client is an instantly recognizable brand within the mobile telecommunications arena. They are widely recognized as innovators within the market and were the first company to deliver phone trainers, full length music player downloads, commercial TV and mobile broadband to its customers.
+
+They are now looking to extend their brand beyond mobile with the launch of several new products. As such they are looking to recruit 6 .NET Developer to help design and develop the .NET / C# software applications that will be the backbone of this exciting new generation of products and services.
+
+The ideal .NET Developer candidates will have a skill set that encompasses: .NET, C#, WPF and SQL Server. Our client can provide training in: .NET 7, SQL Server 2022, MVVM, Prism, continuous integration, dependency injection, TDD and Agile (Scrum / Kanban).
+
+This is a truly exciting opportunity to work on complex enterprise level, Greenfield .NET / C# projects and to develop revolutionary products that will be the envy of the industry.
+
+Location: London, UK / Remote Working
+
+Salary: £40,000 - £60,000 + Bonus + Pension + Benefits
+
+Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+
+NOIRUKNETREC
+NOIRUKREC

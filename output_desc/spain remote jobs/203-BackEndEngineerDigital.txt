@@ -1,0 +1,40 @@
+About the job
+Overview
+
+Medallia is the pioneer and market leader in Experience Management. Our award-winning SaaS platform, Medallia Experience Cloud, leads the market in the understanding and management of experience for candidates, customers, employees, patients, citizens and residents.
+
+We are more than a software company. We want to be known as a company that does the right thing, no matter the challenge or controversy. We are committed to creating a culture that values every person and every experience. Individual life experiences shape the way we interact with the world, which is why we encourage people to bring their whole selves to work each day. The strength of our global workforce is the most significant contributor to our success.
+
+We believe: Every Experience Matters. Talent is Everywhere. All Belong Here.
+
+At Medallia, we hire the whole person.
+
+Medallia for Digital helps companies capture customer feedback across emerging web and mobile channels, engage customers with compelling digital experiences and keep pace with customers’ constantly changing behaviour. Medallia for Digital is a native component of Medallia Medallia Experience Cloud™
+
+Responsibilities
+
+Our Backend Developer should be an innovator and a team player who can keep our product on the cutting edge of technology
+As Backend Developer at Medallia, you work in a team of brilliant engineers that solve and support our customers from the top companies in the world
+You will work on developing the Backend core of our product, as well as define, design and implement complex mechanisms
+
+Qualifications
+
+Minimum Qualifications
+
+Experience in the following areas:
+Excellent Java/Kotlin skills- 3+ years experience
+Several Design Patterns
+Relational DB’s such as: PostgreSQL
+ORM Framework such as: HibernateSpring Framework, specifically with Spring Boot web services
+
+Preferred Qualifications:
+
+Multi-threaded programming
+NoSQL DB such as: Redis
+Messaging/Stream processing platform such as: Kafka
+CI/CD tools such as: Jenkins
+AWS (EC2, S3, RDS, etc…)
+NodeJS
+Kubernetes or any other orchestration system
+
+At Medallia, we celebrate diversity and recognize the value it brings to our customers and employees. Medallia is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, genetic information, disability, veteran status, or any other applicable status protected by state or local law. Individuals with a disability who need an accommodation to apply please contact us at ApplicantAccessibility@medallia.com. For information regarding how Medallia collects and uses personal information, please review our Privacy Policies.

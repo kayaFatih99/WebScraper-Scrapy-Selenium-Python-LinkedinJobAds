@@ -1,0 +1,26 @@
+About the job
+This job is sourced from a job board. Learn more
+General Description: Reporting to the Senior Systems Administrator, the Web Developer is responsible for the design, maintenance, and development of the college’s websites and Web applications along with the technologies that support them.
+
+Specific Duties And Responsibilities
+
+Function as the primary person maintaining the college’s Internet and Intranet websites.
+Implementation and oversight of Drupal content management system.
+Ensure website security through a strong understanding of Internet security principles and secure coding practices.
+Ensure website stability and efficiency regarding load time, usability, and cross-browser compatibility issues.
+Work directly with the Marketing & Communications Department and other departments to coordinate the advancement of the college’s websites, enhancing current sections, or creating new sections when necessary.
+Continually monitor the helpdesk system and respond to appropriate work orders.
+Assist users in resolving problems with the operation of the administrative system, or any other existing systems, including the campus intranet.
+Work with the Systems team to develop database driven web pages.
+Remain up to date on current and new technologies that would enhance the college’s Internet presence.
+Develop and maintain documentation on Internet systems projects.
+Perform other duties as assigned by the Senior Systems Administrator.
+
+Qualifications
+
+Associates Degree in Computer Science or a computer-related field desired.
+1-3 years’ experience designing and building database-driven web applications (Required, education may be exchanged for work experience).
+Knowledge of HTML, CSS, JavaScript (jQuery), XML, JSON, ASP.NET, PHP, CakePHP (or similar frameworks).
+Drupal content management system, Microsoft IIS Server, and search engine optimization is necessary.
+Experience working with documents and graphics for the web, including software such as Acrobat and Photoshop, is required.
+Excellent interpersonal and organizational skills required.

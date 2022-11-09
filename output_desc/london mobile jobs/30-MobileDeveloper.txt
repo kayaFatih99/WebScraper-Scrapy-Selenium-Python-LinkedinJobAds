@@ -1,0 +1,35 @@
+About the job
+We're not a recruitment agency.
+
+We provide quality embedded recruitment, on a subscription-based model that’s flexible to suit your needs. We operate within your business and provide a full-service hiring solution for a cost-effective monthly subscription. Currently we are working with...
+
+WHAT MAKES US EPIC?
+At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.
+Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine and game development.
+
+Mobile Platform Engineering | Unreal
+What We Do
+Unreal-powered projects have been on the bleeding edge of real-time entertainment for over 20 years. Our team of engineering experts is always innovating to improve the tools and technology that empower content developers worldwide.
+
+What You'll Do
+The Fortnite Technology Team is looking for an experienced Mobile Platform Engineer passionate about creating world-class, industry leading game engine technologies, targeting the full spectrum of Android platforms. You’ll work with the latest in Unreal software and mobile hardware offerings to design and implement platform APIs, guide cross-platform API development, and create robust platform support as required by the demands of Fortnite as we continue to grow in this market. If you're an experienced engineer looking for an opportunity to grow and contribute to our engine and feature development, we want to talk to you!
+
+In This Role You Will
+Collaborate with a wide variety of Fortnite engineering and content creation teams to solve complex technical challenges in ways that move the stability and quality of Fortnite forward.
+Implement and improve various low-level systems that interface with platform APIs, i.e. memory allocators (physical and virtual), file systems, input systems, graphics APIs (OpenGL and Vulkan), shader compilers, etc.
+Analyze and continuously strive to solve and optimize problems related to a modern game engine (load times, memory usage and platform specific performance issues) and the wide range of content delivered within Fortnite.
+Make improvements to platform toolchains, i.e. compiler/linker support, deployment to device, SDK upgrades, platform specific data management tools, debugger integration, crash reporting, etc.
+Help us embrace, support, extend and enhance our engine for future hardware.
+
+What We're Looking For
+Strong programming background and C++ knowledge.
+Experience with a broad range of engineering areas in shipping games or real-time visualization systems, with special attention given to low-level code and deep optimization
+Experience developing for Android-based systems
+Well-versed in software engineering principles, especially API design
+Familiarity with an existing game engine with an understanding of engine and editor concepts
+Familiarity with development tools and profiling on modern systems, including frame capture and profiling with engine-level and platform-specific tooling
+Experience developing in a large codebase at a fast pace, making trade-offs between usability, performance, and power
+Prior shipped projects with Unreal Engine is a plus
+
+ABOUT US
+Epic Games spans across 19 countries with 55 studios and 4,500+ employees globally. For over 25 years, we’ve been making award-winning games and engine technology that empowers others to make visually stunning games and 3D content that bring environments to life like never before. Epic’s award-winning Unreal Engine technology not only provides game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and develop remarkable games, we strive to build teams of world-class talent.

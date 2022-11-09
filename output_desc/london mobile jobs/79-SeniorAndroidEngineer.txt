@@ -1,0 +1,30 @@
+About the job
+About the job
+
+hackajob is partnering with Bumble and they are looking for a talented Senior Android Engineer to own and drive technical projects from specification through to delivery and beyond. You will impact millions of users, share know-how with the community and experiment a lot. If you get a buzz from taking initiative, redefining expectations but also getting involved in challenging technical debates with the team, this is your place.
+This role will be based in London, reporting to the Mobile Team Lead.
+
+Responsibilities:
+
+Hands-on development: analyse product specifications, design implementations, write code and rapidly deliver Android app feature designs
+Contribute technical ideas and suggestions to enhance the direction of the product
+Write test cases and work with QA on a weekly release cycle
+Work within an agile team (daily standups, weekly planning meetings)
+Maintain build systems and write unit tests
+Review analytics and performance metrics to draw conclusions and drive change
+
+Experience we are looking for:
+
+Product-focused Android application development experience
+Portfolio of consumer-facing high-performance Android applications available in the Marketplace
+Advanced Android SDK / Kotlin skills
+Strong knowledge of Android API capabilities at different levels, framework components and lifecycles
+Good understanding of design patterns & Object Orientated Programming
+Enthusiastic about teamwork in an AGILE/Scrum environment
+Sound computer science foundations: algorithms, data structures, concurrency, threading, and programming languages (Kotlin and Java)
+
+This role is also available as home working with travel to the office 3-4 days per sprint.
+
+*This role requires you to be based and eligible to work in the UK.*
+
+If you are interested in discussing this great opportunity, please apply directly or send me a private message!

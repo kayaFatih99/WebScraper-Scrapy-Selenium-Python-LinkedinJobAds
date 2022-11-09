@@ -1,0 +1,33 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Versacom, is seeking the following. Apply via Dice today!
+
+Job Title: Java 8 Developer with Microservices Experience
+
+Contract: Long Term
+
+Location: Remote
+
+Job description:
+
+Java 8 with Microservices developer, Experience in backend reactive programming languages:
+
+Java 8+ . Proven track record developing lightweight reactive microservices:
+
+Spring Boot. Deep understanding of event driven architecture and messaging:
+
+Kafka a plus webhooks, asynchronous API design. Experience with PostgreSQL or equivalent relational databases.
+
+Have experience working as an individual contributor as part of a cross functional agile team.
+
+Experience in FinTech is a massive plus.
+
+Have proven experience in supporting mission critical platforms with high levels of availability and service continuity.
+
+Have solid experience in cloud-based architecture and distributed systems
+
+Looking forward to your response.
+
+Best Regards
+
+Vimal Suri
+provided by Dice

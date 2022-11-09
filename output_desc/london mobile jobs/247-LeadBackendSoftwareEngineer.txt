@@ -1,0 +1,26 @@
+About the job
+My client creates groundbreaking products that are transforming legal teams. Their work is multi-disciplinary and brings together the best talent in engineering, AI and the law. Their current product uses neural networks to read and comprehend written contracts, assesses whether they adhere to our customers’ preferred positions, and then automatically amends them. But their ambitions go way beyond reviewing contracts –they want to build technology that changes the way companies all over the world do deals.
+
+Role and responsibilities:
+You will help build software that will allow customers to create contracts from a library of templates, and quickly review and edit contracts sent to them by counter-parties. You’ll also help develop machine learning service which can automatically edit contracts and explain the changes to the user in plain English. And you’ll help build an intelligent contract repository that will help companies save thousands of hours searching for information trapped inside their contracts.
+
+Lead the Backend development in a product focused squad. Make key design and implementation decisions, writing high quality, well tested code that solves challenging problems;
+Mentor and coach junior engineers in the squad, ensuring best practices are being followed. Play a key role in the recruitment of other engineers into your squad;
+Develop back-end services and GraphQL API’s using Django, Flask and similar Python frameworks;
+Build and maintain the Infrastructure their products and components are deployed to;
+Identify and prioritise tasks in conjunction with a Product Owner, taking into account company objectives and goals.
+
+Required skills and experience:
+You enjoy working across the stack, and have experience with Python frameworks such as Django and Flask, and Cloud Infrastructure (e.g. AWS)
+Have a background working in a start-up or similar size organisation and are passionate about building high quality products
+Have an in-depth understanding of the entire development process (design, development and deployment)
+
+Benefits:
+£80,000 - £90,000 salary
+Meaningful equity in the business
+Flexible working, mix working from home & in our WeWork office
+Focus on continual learning and development
+Desk customisation budget and personal desk plant
+
+To apply:
+Please apply via the link or contact Olivia at o.hartley@staffgroup.com

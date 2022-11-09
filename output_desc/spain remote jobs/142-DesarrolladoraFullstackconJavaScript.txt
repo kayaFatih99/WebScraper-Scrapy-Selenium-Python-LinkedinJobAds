@@ -1,0 +1,29 @@
+About the job
+Desde The Cornerstone Talent buscamos el mejor talento para unirse al equipo de nuestro cliente.
+
+Empresa EdTech de rápido crecimiento, busca a un/a Desarrollador/a Fullstack con JavaScript, para trabajar 100% remoto.
+
+Responsabilidades:
+
+Mejorar la escalabilidad y ejecución del producto.
+Construir y gestionar APIs REST
+Planificar historias de usuarios.
+Mentorizar a otros compañeros.
+Redacción de documentación técnica.
+Debugging.
+Realizar testing and corrección de errores.
+Revisió de código y surgerencias de mejora.
+Pair programming con compañeros de equipo.
+
+Requisitos:
+
+Más de 3 años de experiencia.
+Experiencia desarrollando con JavaScript.
+Experiencia, preferentemente, con Angular. Si tienes experiencia en otros frameworks, también es valorable.
+Experiencia con bases de datos no relacionales.
+Experiencia con HTML/CSS.
+Conocimientos en microservicios.
+Experiencia contruyendo responsive websites.
+Experiencia con Git, CI/CD pipelines mediante Jenkins o similar.
+Experiencia con Postman
+Conocimientos en Docker / Kubernetes

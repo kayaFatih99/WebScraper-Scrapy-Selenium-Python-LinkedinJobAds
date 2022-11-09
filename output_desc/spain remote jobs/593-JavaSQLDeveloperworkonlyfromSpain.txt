@@ -1,0 +1,34 @@
+About the job
+Project Description:
+Luxoft is looking for a number of strong Java/SQL developers with 3-5 years of relevant experience to work on various projects (Surveillance/Control Framework/Big Data) for an European Bank. Candidate will be assigned to the relevant projects according to their expertise
+
+For the Java developers, having experience with Big Data or Full stack Java is a plus.
+For those stronger in SQL, experience with QlikSense is mandatory
+
+The ideal candidate should have a good track record of development within a bank on systems that are developed using based on the following technology stack: Java, ETLs, SQL, Sybase, Gitlab, Github, Jenkins, Eclipse, Cloud / PaaS / SaaS, APIs, Testing, Openshift, Kiuwan, UX Shell Script, GitHub, GitLab, Phyton, Hadoop, Impala, Hive, Spark, Scala, Kafka, ELK, Kibana
+
+Responsibilities:
+* Java/SQL development for various projects (Surveillance/Control Framework/Big Data)
+* Manage ALM/SDLC through development, pre-prod and prod
+* Based on functional requirements received, implement the changes required and conduct the technical testing required before handing it over the the users/testers.
+* Document system designs/specifications as per department standards.
+* Applies agreed standards and tools, to achieve well-engineered outcomes.
+
+Skills Required:
+* At least 3 years of relevant experience in same or similar role in Banking environment
+
+Technical expertise/experience in:
+- Java (Full stack/ Big Data will be a bonus)
+- SQL/Sybase
+- Gitlab/Github
+- Oracle
+
+The Ideal candidate should know both Java and SQL. However, for SQL developer with basic/without Java expertise, we will also consider them if they have expertise in Qliksense
+
+Any Expertise in Springboot and JADE (nodejs) are worth highlighting as well
+
+Others:
+* Experience in ALM / SDLC (development, pre-prod and prod)
+* Analysis methodology
+* Communication skills
+* English & Spanish written and verbal communication skills

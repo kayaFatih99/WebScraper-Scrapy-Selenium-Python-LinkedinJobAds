@@ -1,0 +1,72 @@
+About the job
+Visma is one of Europe’s leading software companies delivering software and services that simplify and digitize core business processes. We are a highly motivated group who deliver a HRM Cloud solution to our customers in the Netherlands.
+
+We believe that excellent software is the result of highly skilled and motivated employees collaborating in teams applying modern methods and practices in the software industry. Our teams of highly competent and enthusiastic people are distributed in Ireland, Netherlands, Latvia and Romania.
+
+We are looking for a strong, enthusiastic and experienced Software Developer who wants to join us and shape our journey to upgrade our HRM tech stack in C# and React making our solution future-proof, flexible and responsive for our customers.
+
+Your challenge
+
+Our HRM cloud solution is developed in .Net framework and mainly coded in a VB.NET. The solution has a long history and in its existence has grown into a large system with multiple modules supporting our Dutch Customers in their daily HRM processes for their employees. Multiple interfaces are implemented with other systems used internally, with 3rd parties and Government. Next to our .NET solution a native mobile App is used for simple day to day task support.
+
+Our future goal is to shape the future with new technologies and split our current stack into a Back-end and Front-end solution. This we expect to be done with C# and React and replacing our current solution in time to support a flexible and independent development environment and deliver a loveable product to our customers.
+
+Your task will be to drive us into this new future together with our current software Developers who are very enthusiastic to get you on board and will embrace your help to move towards new technologies. You will be actively involved in shaping our solution and actively develop new features using C# and React.
+
+Your responsibilities
+
+Actively supporting us into the new technology stack;
+Front-end and back-end development of the platform and extensions;
+Code solutions yourself and train, coach our team(s) to use new technology;
+Provide guidance, technical expertise and support to the teams - make sure the developed add-ons cohere to the new architecture;
+
+Ensure a high level of security and automation.
+
+Our perfect candidate
+
+Bachelor degree in computer science or related field. Experience may compensate for a lack of formal education;
+5+ years relevant experience as a Software Developer and taking the lead;
+Highly experienced in Microsoft.Net Development (C#), Microsoft Azure or AWS, WebServices and Web front-end development (React);
+Experienced in SQL Querying and database usage;
+High level of competence in Security, DevOps and Continuous delivery;
+Excellent written and verbal communication skills in English;
+Strong and communicative to guide us in our journey and proactively leading to the desired results.
+
+What we offer:
+
+· Young dynamic multicultural environment (average age 31 years old, 15 nationalities)
+· Challenging, exciting, and varied tasks
+· An inclusive and inspiring work environment with skilled colleagues
+· Exciting professional environment based on a high level of expertise
+· Facilitation for professional and personal development
+· Competitive pay
+· Social benefits (ticket restaurants, ticket transport and health insurance)
+· Team building activities and social business life
+· Autonomy day (Take a day off from your daily duties to research, innovate or self-learning)
+· Flexible working hours, 7-10h / 16-19h. (Friday from 8-15h)
+· During July, August finish at 15 every day
+
+Position with full flexibility: full remote*, partial or in office.
+
+Remote working across different areas of Spain is not a problem but please note that you'd have to be already located and eligible to work in the country to apply. Please ensure when applying for this role that you are legally eligible to work/live in your preferred location. Visa sponsorship or relocation costs will not be provided.
+
+Next step
+
+Who better to tell us more about yourself than you. Therefore, please share your CV in English and a few words in a motivational letter.
+
+Ideally, the position is to be filled as soon as possible. We look forward to hearing from you. Interviews are held on an ongoing basis.
+
+
+Visma Labs Spain is an equal opportunity employer, which means we do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression. We celebrate diversity and are committed to creating an inclusive environment for all employees. We take Diversity & Inclusion seriously as a result would like to request that you submit your CV/resume for any opportunities at Visma Labs Spain without a photo. Our screening process is conducted blindly.
+
+About Visma Enterprise
+
+We provide solutions that keep our customers one step ahead of their competition. In optimizing for efficiency, the goal posts are constantly being moved.
+
+At Visma, we aim to provide solutions and software that are of such high quality that they turn our customers' business and administrative processes into competitive advantages. That means offering world-leading solutions today, as well as tapping into the opportunities tomorrow's technology offers.
+
+The Visma Group comprises five business areas: SMB, Enterprise, Commerce Solutions, Custom Solutions, and Cloud Infrastructure Services. The group operates across the entire Nordic region along with Benelux, Central, and Eastern Europe.
+
+Our headquarter is located in Oslo, Norway.
+
+We want you onboard!

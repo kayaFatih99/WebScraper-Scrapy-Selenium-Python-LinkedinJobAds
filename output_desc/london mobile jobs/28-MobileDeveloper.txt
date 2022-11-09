@@ -1,0 +1,70 @@
+About the job
+StaySafe protects lone workers. Using our smartphone apps and web-based platform we help safeguard the lives of employees within major corporations and small businesses alike, across any industry and over six continents.
+
+About the role:
+
+We are looking for a Mobile Developer to help design, build and maintain our iOS and Android apps. You’ll be responsible for delivering core functionality of our real-time geospatial safety products, and shaping their future, and ensuring we deliver a great experience for our customers by ensuring quality is upheld across the board. You’ll work in an agile environment and across the entire software development life-cycle, collaborating with other software engineers of different skill sets and experience levels.
+
+The role is remote, but we also have offices in London and co-workers dotted around the UK.
+
+Our tech stack:
+
+Kotlin, Java
+Swift, Objective-C
+AWS (EC2, SNS, SQS, Lambda, API Gateway)
+MySQL (Aurora), Redis (ElastiCache), DynamoDB
+Linux
+Apache
+
+Responsibilities:
+
+Develop and maintain apps for iOS in Swift and some Objective-C, and for Android in Kotlin.
+Write testable and maintainable application code to support new features.
+Research and develop POCs.
+Own the apps you develop from development through testing and deployment.
+Identify and fix bugs.
+Work alongside our customer success team to provide second line technical support.
+Build integrations with other devices, e.g. via Bluetooth technology.
+
+Being a remote team we encourage active collaboration through Slack and video conferencing, show and tell sessions, demos and retrospectives.
+
+You should apply if:
+
+You can demonstrate solid, practical experience developing iOS and Android apps.
+You have excellent communication skills, both verbal and written English.
+You have experience of app deployment and best practice guidelines, for example Apple’s Human Interface and App Store Review Guidelines.
+You are committed to writing high quality, testable code.
+You have experience working in an agile environment.
+You love learning. Engineering is an ever-evolving world. You enjoy playing with new tech and exploring areas that you might not have experience with yet.
+
+You’ll value:
+
+Solving problems in a systematic way.
+Continuous learning and development.
+Being inclusive, supportive and responsible.
+Working with integrity, honesty, objectivity and impartiality.
+
+The interview process:
+
+Our interview process is normally an initial phone interview followed by a take-home task and call to discuss it. If successful you will move to a final round of two separate interviews conducted by online video. It is important that we are a good cultural fit. And we promise not to ask you any brain teasers or trick questions.
+
+Benefits:
+
+Competitive salary.
+25 days holiday in addition to the 8 public holidays.
+We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.
+We have a London office, but you can work from anywhere.
+Maternity and parental leave.
+Personal development budget, for example to be used for attending conferences or online training courses.
+The right tools to do your job, for example an Apple MacBook Pro and licences for any software you need.
+Home office budget to purchase additional equipment you may require to setup your working environment.
+Pension scheme.
+
+Things you need to know:
+
+Successful candidates must pass a basic Disclosure and Barring Service (DBS) security check.
+We have payroll set up in the UK. Right now, we can only hire people who work from the UK.
+
+Powered by JazzHR
+
+jSwclgoRS3

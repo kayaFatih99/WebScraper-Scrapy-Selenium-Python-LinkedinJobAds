@@ -1,0 +1,76 @@
+About the job
+About Us:
+CoverWallet, an Aon company, is the leading digital insurance platform for small and medium-sized businesses. We are dedicated to making insurance simple, fast and convenient so that businesses around the world can get the protection they need and get back to what matters most - growing and managing their business. Powered by deep analytics, thoughtful design, and state-of-the-art technology, CoverWallet is reinventing the $200 billion commercial the insurance market for small and medium-sized businesses.
+
+
+CoverWallet is the easiest way for businesses to understand, buy, and manage insurance online and has been recognized as a CNBC Upstart 100, won the Best Insurtech Solution from the Benzinga Awards and was named “One of the Most Entrepreneurial Companies in America” by Entrepreneur Magazine.
+
+
+We have built an incredible team of ~ 350 people (60% in New York and 40% between Madrid Valencia and Sevilla), since January 2021 in Singapore and since December 2021, in Poland.
+
+
+As a part of Aon, a leading global professional services firm providing a broad range of risk, retirement and health solutions with 50,000 colleagues in 120 countries, CoverWallet has the mentality and culture of a high-growth startup with the backing and support of a global multinational company.
+
+
+About the role:
+
+We are currently seeking a Senior Backend Engineer with Ruby on Rails, Django, Phyton, C#, Java, etc., with good tech skills, open to work with new technologies, and want to work on building our applications and services APIs.
+
+This is just the start. Hence, you’ll be a key player in defining technology stack, processes, and build our work environment from scratch!
+
+
+What you will do here:
+
+Ruby on Rails, Django, Phyton, C#, Java, etc. applications development
+
+Work with Frontend Engineers to build and deliver features
+
+Developer client and service APIs for partners and our own applications
+
+Address performance issues
+
+Participate in code reviews
+
+Identify backend best practices
+
+Fun at work, cool office space
+
+
+Who we are looking for:
+
+Expert Backend coder
+
+PostgreSQL, MongoDB, Redis
+
+Git version control export
+
+Experience on scaling and web performance.
+
+English speaking and writing skills
+
+Team player, really motivated with technical challenges
+
+
+What we offer:
+
+We are building a super powerful team. We have offices in NYC, Madrid, Valencia, Seville. Singapore and Poland.
+
+Competitive salary + annual bonus.
+
+Free private health insurance + free accident insurance.
+
+Professional career plan in an international environment.
+
+Best practices, and great tech stack (RoR, NodeJS, Javascript, ReactJS, Redux, Webpack, Gulp, Docker, AWS, Kubernetes, Google Cloud, CI/CD, Microservices, TDD, agile and also Cucumber, Cypress, Selenium, etc.)
+
+Fully Remote or hybrid mode, up to you!
+
+1500€ Education budget.
+
+23 vacation paid days + 2 more personal days
+
+Fun and fast-paced environment.
+
+The possibility to build your career in one of the leading companies around the world.
+
+The possibility to disrupt one of the biggest industries, and in one of the biggest, most developed digital markets in the world.

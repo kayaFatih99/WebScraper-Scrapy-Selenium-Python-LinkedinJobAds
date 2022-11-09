@@ -1,0 +1,41 @@
+About the job
+Back End Developer – Go, Docker, AWS – Remote UK
+
+Location: Remote UK 🌎
+
+Working Arrangements: Flexible or EC2M 1JD
+
+Salary: £70,000 – £90,000
+
+Industry: Marketing & Advertising
+
+Tech Stack: Go, Docker, PostgreSQL, MySQL, AWS 👩🏻‍💻
+
+Great opportunity for a talented Developer (Go, Docker, PostgreSQL, AWS) to join a global SaaS platform that provide innovative sales and marketing information to leading businesses worldwide.
+
+The Company 🚀
+
+Established B2B business with offices in London, Boston and Toronto. Their AI powered platform provides market insights and intelligence for their customers which allows them to rapidly scale and diversify.
+
+The Role ✨
+
+They are seeking a skilled Developer (Go, Docker, PostgreSQL, AWS) to join their product development team creating new features that connect to their internal Data platform.
+
+The successful candidate (Go, Docker, PostgreSQL, AWS) will be a key hire in their new London hub and be responsible for the greenfield development of their new MVP.
+
+This is a great opportunity to work with a modern tech stack (Go, Docker, PostgreSQL, AWS) working directly on product features and overseeing the scalability of infrastructure.
+
+Desired Skills ⚙️
+
+Go
+Docker, Kubernetes
+REST APIs
+RDBMS (PostgreSQL, MySQL)
+AWS
+
+Benefits 🏖
+
+Competitive base salary
+Flexible working (remote or hybrid)
+
+If you are a skilled Developer (Go, Docker, PostgreSQL, AWS) who is interested in this role then please apply below and I will be in touch with more details.

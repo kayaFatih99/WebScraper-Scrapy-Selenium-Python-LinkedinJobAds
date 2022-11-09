@@ -1,0 +1,42 @@
+About the job
+Digital Security Manager
+Location: London, United Kingdom
+Why IAG Tech?
+Our vision of Technology Excellence - to be industry leaders in the use of technology – means there has never been a more exciting time to be part of IAG Tech.
+By joining IAG Tech, you will play an important role in providing IT services to our many operating companies, enabling them to work in the most efficient and effective manner. You will be empowered to challenge the norm, helping to transform the customer journey.
+IAG Global Business Services (GBS) is part of International Airlines Group, one of the world’s largest airline groups, with 573 aircraft flying to 268 destinations and carrying around 113 million passengers each year.
+IAG GBS provides a plug and play platform of scalable, best in class procurement, finance, and IT business services to IAG’s operating companies, which include Aer Lingus, Avios, British Airways, IAG, IAG Cargo, Iberia, Iberia Express, LEVEL and Vueling.
+The company is headquartered in Krakow, and has operations in London, Madrid, Dublin, and Chennai.
+You will make an impact in this role by:
+· Support the world’s leading airline group secure the key digital properties of our brands including flag carriers British Airways, Iberia and Aer Lingus.
+· Lead the cross-group application security effort covering web and mobile customer channel and internal applications supporting colleagues from the back office to ground and aircraft crew.
+· Build cyber security engagement and capability within our operating companies facilitating, coaching and encouraging developer understanding of security issues, grow internal security capability and set in place maturity improvement plans that measure progress
+· Act as a conduit between IAG Tech Cyber Security Office and development teams in each of our Operating Companies; providing cyber consultancy support on internal capability, processes and tooling related to application security
+· Engage in business partnering, providing subject matter expertise on application security and secure development/test/deployment practices
+· Being a trusted partner to business and development teams, understanding business requirements and capability, building relationships and trust to identify cyber security risks and vulnerabilities and offer pragmatic advice based on an understanding of the technology environment the teams operate within.
+· Create and develop a network of developer security champions within development teams, helping build the capability needed to sustain ongoing security improvement, driving continued growth in security awareness and skill amongst developers
+· Seek to embed appropriate security testing in CI/CD environments e.g., through source code reviews, SCA, SAST/DAST, scanning through to penetration tests.
+· Agree improvement plans, build capability, and help coach development teams, working with process owners to change and improve processes, set standards and put in place metrics
+· Maintain a focus on ensuring security helps reduce the cost, disruption and risk posed by security relevant code defects. Assist with the development of web application security guides aligned to appropriate industry standards (e.g., OWASP, ISSAF, CIS).
+· Engage with those planning, scoping, and conducting penetration testing and vulnerability scanning activity
+· Set in place standards, guiderails and good practices and the means to measure progress and security capability
+· Assess security capability (people, processes, and technology) in key development pipelines across the Group, advising on improvement roadmaps
+· Take a leading role in the IAG cybersecurity Guild, helping shape the community of best practice that supports security knowledge and skills growth across the Group.
+To achieve in this role, you are likely to:
+· Have a strong background in application/software security and security engineering within a large, complex business environment.
+· Have a proven track record of providing successful support in the field of cyber security with a focus on application security, and of enabling and facilitating a culture of continual improvement
+· Have proven Security experience across web applications and mobile applications
+· Have knowledge of secure design and security testing for APIs
+· Have demonstrable understanding of the common vulnerabilities affecting modern environments
+Have experience or a good knowledge of applied cryptography
+Have experience with relevant technologies such as; IaaS (Primarily AWS, some Azure), Serverless/FaaS, CI/CD toolsets (e.g. gitlab, azure DevOps, Atlassian, Jenkins), Java and JS webapps.
+· Have proven ability to influence and persuade across a complex organisation
+· Have proven ability of influencing and persuading internally and externally
+· Have the ability to recognise priorities and guide others towards the accomplishment of strategic business goals and objectives
+· Have a pragmatic and risk-based approach to security, understanding that security has to enable business goals.
+· Have the ability to communicate risk in a business focused manner, thus convincing stakeholders of the importance of security
+What we offer is the chance to enjoy a challenging career in an exciting, fast-moving environment in a dynamic industry.
+IAG GBS offers the opportunity to work in a multicultural environment with great offices in many locations.
+We aim to provide all our people with a work life balance, and you will enjoy many benefits offered by a global organisation, including health insurance, pension and performance bonuses.
+An employment contract with IAG GBS
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.

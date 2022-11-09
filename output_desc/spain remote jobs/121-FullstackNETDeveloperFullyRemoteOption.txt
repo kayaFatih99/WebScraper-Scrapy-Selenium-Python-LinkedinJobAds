@@ -1,0 +1,50 @@
+About the job
+Fullstack .NET Developer – Fully Remote Option
+
+A Software Solutions provider that offers the possibility of working fully remotely and with flexible hours.
+Work with the latest technology in a full-stack role – using .NET, React, SQL, Azure and Docker in a Microservices Architecture environment.
+Enjoy some of the best benefits offered in Malta – even if you are working from abroad.
+
+One of Malta’s most rapidly expanding software solutions providers are looking for their next generation of independent thinkers to join them. They are looking for talented developers that can work autonomously within an international environment.
+
+You will be making use of the latest technology here. These include the latest versions of the .NET framework, React, SQL Servers, Azure, together with Docker and Kubernetes. This sort of stack will make sure that you keep your skills up to par and you will always be gaining experience in the most prominent technologies.
+
+The company offers fully remote working together with flexible hours – this is a role which you can take on from anywhere in the world. Flexible working hours will also allow you to take control of your life and focus on the things which really matter to you. Work / life balance is a central tenet for this company and one that they live by.
+
+They also offer some amazing benefits – which you would get access to even if you were working fully remotely and from abroad. These include 28 days of paid vacation leave, a career development budget, complementary hardware for your home office and the opportunity to be financially compensated for any extra hours that you decide to put in.
+
+
+Key Responsibilities:
+
+Building new products and features using .NET technologies.
+Working on development tasks from a backlog in VSTS (Azure DevOps).
+Writing reusable and reliable code.
+Identifying bugs while troubleshooting and testing code.
+Assisting other team members and collaborating on projects.
+Sharing knowledge to improve internal processes and skillsets.
+
+
+Skills/Experience:
+
+Proficiency in working with C#
+Strong knowledge of the .NET framework.
+Proficiency with Frontend Javascript Frameworks (Angular or React)
+
+Salary/Remuneration Package:
+
+€45000 - €55000 (depending on experience) + benefits package
+
+28 days Paid Vacation Leave
+Health insurance
+Complementary Hardware for your home office
+Financial Compensation for Extra Hours worked
+Career Development Budget
+
+
+For more information contact Bjorn Borg confidentially on +356 2034 1557 or email your CV to bjorn.borg@archer.com.mt
+
+I specialize in recruiting for .NET Specialists, if you wish to discuss this or other opportunities, please feel free to contact me.
+
+For more IT opportunities visit our website on https://www.archer.com.mt/
+
+About Archer – Archer is a Specialist IT Recruitment Consultancy based in Dublin, Ireland, and Malta

@@ -1,0 +1,19 @@
+About the job
+Role: Java Full Stack Developer with Vue JS
+Location: Remote
+Type: Fulltime position
+Job Description
+Client is seeking Java Full Stack Developer with Vue JS - This position will primary be responsible to interface with key stakeholders; apply technical proficiency across different stages of the Software Development Life Cycle including Requirements Elicitation, Application Architecture definition and Design; play an important role in creating the high level design artifacts; to deliver high quality code deliverables for a module, lead validation for all types of testing and support activities related to implementation, transition and warranty; part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.
+Required Qualifications:
+• Bachelor’s degree or foreign equivalent from an accredited institution.
+• At least 4 years of experience in Information Technology
+Preferred Qualifications:
+• Experience in Java/J2EE technologies in developing J2EE based web application.
+• Backend technologies - Java 8, Spring, Spring Boot, Microservices, NodeJS.
+• UI technologies – CSS, html, Vue.JS, jQuery/Typescript.
+• Database – Oracle.
+• Knowledge of CICD with Jenkins, Docker, Kubernetes.
+• Excellent analytical and problem-solving skills to understand the business processes, maintenance, production support and release management.
+• Excellent client interfacing skills.
+• Ability to work in a collaborative multi-application team environment.
+• Experience and desire to work in a global delivery environment.

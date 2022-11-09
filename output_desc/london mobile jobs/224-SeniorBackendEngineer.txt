@@ -1,0 +1,51 @@
+About the job
+Who are we?
+
+Hi! 👋 We are Ravelin! We're a fraud detection company using advanced machine learning and network analysis technology to solve big problems. Our goal is to make online transactions safer and help our clients feel confident serving their customers.
+And we have fun in the meantime! We are a friendly bunch and pride ourselves in having a strong culture and adhering to our values of empathy, ambition, unity and integrity. We really value work/life balance and we embrace a flat hierarchy structure company-wide. Join us and you’ll learn fast about cutting-edge tech and work with some of the brightest and nicest people around - check out our Glassdoor reviews.
+If this sounds like your cup of tea, we would love to hear from you! For more information check out our blog to see if you would like to help us prevent crime and protect the world's biggest online businesses. And find out here what it's like to be a Software Engineer at Ravelin!
+
+The Role
+
+We are currently looking for Software Engineers to join our Engineering team and contribute to the development of a high volume fraud technology platform. You will be encouraged to have opinions about the direction of our products, as well as having ownership and contributing new ideas. In the day-to-day work, you’ll be working closely with other engineers, data scientists and product managers to run software at scale under real-world conditions.
+At Ravelin, we strongly encourage learning and development of new and existing skills (machine learning, neural networks, python, Golang, cloud automation etc), so this is the perfect opportunity to grow and learn new things!
+
+Responsibilities
+
+Developing reliable and resilient software
+Working closely with Data Scientists, Data Engineers and Product Managers
+Building internal process and tools
+Building microservices using Go
+Contributing with ideas and suggestions
+
+Requirements
+
+Substantial and demonstrable experience in a programming language(s)
+Understanding of data structures and algorithms
+Experience with Database (design principles)
+Working experience with testing and quality
+Knowledge of Version control
+
+Nice to haves
+
+Experience with Golang
+Knowledge of Cloud technologies (GCP, AWS, or Azure)
+Agile software development
+Microservices architecture
+Containerisation (Docker, KVM, Kubernetes, etc)
+Knowledge of CI/CD
+
+Benefits
+
+Mental health support through Spill + quarterly wellbeing day off
+£1000 learning & development budget as well as Quarterly Learning Days
+Comprehensive medical cover with AXA
+Pension Scheme with Aviva
+25 days holiday + bank holidays + 1 extra day off for religious holidays
+Flexible working hours & hybrid working model
+Ravelin Gives Back - monthly charitable donations and regular volunteering opportunities
+TeamBandit - Fortnightly team lunches with different people from across the company
+Access to BorrowmyDoggy
+Cycle-to-Work scheme
+Weekly board game nights & budget for regular socials that anyone can organise
+Weekly Virtual exercise classes including yoga, pilates & HIIT sessions

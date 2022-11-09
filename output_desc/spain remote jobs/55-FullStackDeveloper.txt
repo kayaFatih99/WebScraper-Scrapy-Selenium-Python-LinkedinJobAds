@@ -1,0 +1,42 @@
+About the job
+Evolutio nace después de más de 30 años prestando servicios en el mercado español con la marca BT (British Telecom) con una nueva visión: ser el socio de confianza que acompaña a las empresas en el proceso de Transformación asociado a la adopción de las tecnologías Cloud.
+
+Experiencia Digital, misión: desplegamos experiencias digitales hiper-personalizadas gracias a el uso de las nuevas plataformas Cloud-CX y explotar todas las posibilidades de la multicanalidad, las tecnologías cognitivas, la automatización y la analítica avanzada.
+
+Buscamos un Full Stack Developer que deberá contar con más de 4 años de experiencia donde haya cubierto diferentes roles en los equipos de desarrollo, asumiendo el desarrollo front, back, microservicios, etc.
+
+Funciones y tareas:
+
+• Deberá trabajar de forma coordinada con el resto del equipo de proyecto en todas las fases del mismo (diseño, desarrollo, validación y corrección de problemas)
+• Deberá ser capaz de identificar proactivamente problemas y ser capaz de colaborar proponiendo soluciones/alternativas a los problemas con los que se encuentre el equipo de proyecto
+• Deberá ser capaz de gestionar sus prioridades de forma autónoma con el objetivo siempre de cumplir sus compromisos siguiendo el plan definido
+• Deberá ser constante en la generación de documentación siempre con una orientación a producto y mercado
+• Deberá desarrollar de soluciones backend, microservicios y módulos para cubrir las necesidades del producto, siempre manteniendo el foco en la calidad del software y la mejora continua (desarollo-validación-documentación)
+• Deberá estar habituado a trabajar con equipos transversales y multifuncionales (Ingeniería y Arquitectura, Devops, Product Management)
+
+Habilidades/Experiencia:
+
+• Mas de 3 años de experiencia en desarrollo back
+• Mas de 2 años de experiencia en desarrollo front
+• Experiencia trabajando con API's y microservicios
+• Más de 2 años de experiencia desarrollando en Java con framework Spring
+• Tecnologías: Java, Spring Framework, Node.JS, Angular, API RESTful, Web Services, Bases de datos relacionales, PL-SQL
+• Experiencia en trabajar en proyectos Agile/Scrum/ITIL
+• Conocimiento de herramientas tipo Azure Devops, Git y Jenkins
+
+Nuestra Propuesta de Valor:
+
+- Un programa de beneficios sociales en el que trabajamos de forma continua para que responda a las expectativas de las personas que trabajan en Evolutio.
+- Diversas iniciativas de flexibilidad y conciliación laboral.
+- Un plan de aprendizaje continuo mediante plataforma elearning para que todas las personas que trabajan en Evolutio puedan desarrollarse profesionalmente tanto en competencias técnicas como en habilidades.
+- Una Oficina de Cambio Cultural cuyo objetivo es que todos los empleados de Evolutio sean agentes de cambio a través de creativas iniciativas y proyectos de innovación.
+- Una red de voluntariado dinamizada por la Fundación Evolutio que nace en 2006 como una forma de contribución a la sociedad utilizando las nuevas tecnologías como vehículo para ayudar a los colectivos más desfavorecidos.
+- Nuevas formas de trabajo en un entorno colaborativo, ágil y diverso.
+
+Los valores que nos definen:
+
+- Nuestro Compromiso: somos personas que asumimos responsabilidades, y nos empleamos al máximo para cumplir nuestras promesas.
+- Nuestra Confianza: creemos en nosotros mismos y en nuestras capacidades. Creen en nosotros porque actuamos con transparencia y humildad.
+- Nuestra Adaptabilidad: somos flexibles y nos sabemos manejar en entorno cambiantes e inciertos.
+
+¡Únete al reto digital!

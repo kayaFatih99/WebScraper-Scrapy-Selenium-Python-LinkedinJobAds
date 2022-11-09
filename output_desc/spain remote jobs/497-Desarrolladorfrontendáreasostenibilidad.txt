@@ -1,0 +1,26 @@
+About the job
+Desde beonit trabajamos con una de las mayores compañías de distribución de moda del mundo, centrada en una escucha atenta y activa, un análisis de ventas en tiempo real y una producción adaptada a la demanda, donde las personas, el talento y el hacer son la prioridad.
+
+Actualmente nos encontramos en la búsqueda de un Desarrollador Frontend que sea proactivo y resolutivo, con capacidad de trabajar en equipo y con buenas habilidades comunicativas.
+
+¿Cuál será tu misión?
+
+Alcanzar la máxima efectividad en la creación de una aplicación de reporting que da visibilidad a toda el área de sostenibilidad de la compañía a través de prácticas ágiles.
+
+Qué necesitamos de ti
+
+Experiencia demostrable de al menos 4 años como Desarrollador Frontend.
+Experiencia de al menos 2 años trabajando con metodologías ágiles.
+Experiencias de al menos 2 años con Git y otras herramientas de colaboración en quipo.
+Conocimiento de bases de datos SQL.
+Conocimiento demostrable con Javascript: ES6, React Hooks, Typescript, Webpack, SPA Application, Jest, React Testing Library.
+Valorable conocimiento en Jira y Confluence.
+Inglés a nivel conversación.
+
+Qué podemos ofrecerte
+
+Participarás en un proyecto con transversalidad e impacto dentro de la compañía, trabajando en un entorno que tiene impacto social y medioambiental. Tendrás la oportunidad de trabajar y desarrollarte en la mayor empresa de moda del mundo, contando con beneficios como seguro médico y acceso a formaciones a través de nuestra plataforma.
+
+Si crees que eres la persona adecuada, no dejes pasar esta oportunidad.
+
+¡Queremos conocerte!

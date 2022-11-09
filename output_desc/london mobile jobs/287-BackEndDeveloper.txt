@@ -1,0 +1,47 @@
+About the job
+BACK END DEVELOPER
+Reneum is seeking a back-end developer experienced in content management, AWS, system architecture, and other back-end systems to join their technical development team.
+
+ABOUT RENEUM
+Climate change is the number one problem of our generation, and the blockchain is the number one technological innovation of our generation. As a blockchain-based climate platform, Reneum sits at the intersection of our biggest problem and our most important technological innovation.
+Reneum is a novel community and marketplace that expands access to all renewable energy to accelerate the energy transition. As a Regenerative Finance (ReFi) platform, Reneum funds climate solutions via a natural capital-backed token and "verified green" NFT. Focusing initially on the energy transition, Reneum partners with green energy developers to vet, monitor and issue tokens they can sell on Reneum's marketplace, for a vertically-integrated approach to ecological credits. Sustainability-focused companies and citizens desiring climate action buy the token to be burnt in return for a collectable NFT representing proof-of-impact (think: LEED or Fair-Trade label, but for the green economy). You can check out our White Paper here for more information on the technical, and see our project Manifesto here to understand our core values.
+
+OUR NEEDS
+To support our business development initiatives, we are looking for a Back-end Developer to manage all back-end development using Node.js, MongoDB and GraphQL and the deployment using AWS or a similar suite of managed services. The successful candidate will be at least a mid-to-senior level back-end developer, primarily focused on Web2 development working in an agile environment, but working closely with our blockchain team to integrate tokens representing MWhs aggregated in our bespoke database. Experience with Blockchain integration & renewable energy systems is ideal.
+The role is fully remote. Successful candidates can work in any location worldwide, however candidates working close to Central European Time will be preferred due to overlapping work hours with the core team.
+At Reneum, we value curiosity of mind and an agile, entrepreneurial mindset. We are looking for people who combine the ability to think long-term with the capability to identify what is important and move quickly to create value.
+Reneum is a no micro-managing, no bureaucracy, no bullshit company. Join us if you're ready to take on a new challenge and be a changemaker in the intersection of the world's biggest market (climate= and the world's most important technology (blockchain).
+
+ROLE RESPONSIBILITES
+Manage and maintain the entire application lifecycle with a focus on server-side development
+You will be expected, within a short ramp-up period, to make major contributions to the product’s development across the full back-end stack
+Back-end development using Node.js, MongoDB and GraphQL with deployment via AWS
+Ensuring the back-end is optimized for all relevant applications including integrating front-end elements with server side logic
+Collaborating with the blockchain development team to ensure that the back-end is setup to securely integrate with web3 technologies
+Use of Content Management Systems to allow the marketing team take control of our website and marketplace's content
+Assisting in maintaining the products extensive CI/CD pipeline
+Applying best coding practices in delivering clean, bug-free and well-documented code
+
+QUALIFICATIONS
+Proficiency in working on the backend for production applications in Node.js
+5+ years of experience working on back-end development ideally within product or a start-up
+Usage of NoSQL & SQL databases, potentially with exposure to MongoDB, MySQL & GraphQL
+Fluent in one or more general-purpose languages (e.g. Typescript, Python, Go, Rust, Java)
+Comfortable with version control systems e.g. Git
+Hands-on experience with the end-to-end cloud process (design, development and deployment) ideally within AWS, Azure or GCP
+Building public B2C / B2B marketplaces that are launched and maintained in production.
+Test-driven or behavior-driven testing to validate your code using modern testing tools such as mocha/jest, cypress or similar tools preferably using a CI/CD pipeline e.g. Jenkins
+Understanding of SEO & DevOps principles and approaches
+You are self-driven and able to work independently and with little direction, with the ability to reach out to teammates and other technology specialists when required.
+You understand that being a highly-skilled developer you are continuously learning and exploring new tools and technologies while applying best industry practices.
+You can work effectively in a remote environment with front-end & blockchain developers
+You care for our planet!
+
+WHAT WE OFFER
+Compensation package subject to relevant experience
+Private medical insurance if required
+Discretionary bonus scheme / token ESOP
+Flexible holidays plus bank holidays (subject to product milestones)
+Choose your hardware setup ($3k cap)
+
+We value all people, regardless of their gender, age, disabilities, race, ethnic origin, pregnancy or maternity status, religious beliefs, political beliefs, marital status or sexual orientation. We encourage applicants from all backgrounds and are committed to promoting equality at every opportunity, both as partners, providers of services, and employers.

@@ -1,0 +1,53 @@
+About the job
+Senior Frontend Engineer (React/Next.js) - remote - up to $100,000
+
+Does green technology / sustainable energy interest you? And are you a React Developer with experience in TypeScript?
+
+Your Opportunity
+This could be a once-in-a-lifetime opportunity for somebody that wants to work in a renewable energy/green-tech company that are helping the plant transition to a more sustainable future.
+
+You will be working for a company that is pumping hundreds-of-millions of dollars into the renewable energy industry. The Founders are renewable energy experts with backgrounds in financial, capital, & equity management/investment.
+
+You will also have the opportunity to learn about blockchain-based systems and the integration of different services. This is a perfect opportunity for someone from a web 2 background that wants to move into web 3 / blockchain. Equally, it is fantastic if you have already had any exposure to any blockchain or smart contract tooling.
+
+Already, in less than four years they have:
+raised more than $6m in investment from major renewable energy names as they moved wards the next phase of their journey
+been accepted into and graduated from a web 3 accelerator program
+built a team of 10 permanent staff, with an additional 15 people onboard the journey from an external-partner perspective
+built the front end of a game-changing renewable energy system
+almost completed the smart contract development and integrations for their next major milestone
+built a healthy community of supporters
+
+The next stage of the journey?
+Hiring a React Engineer with experience in TypeScript / JavaScript and jQuery to join the backend engineer, along with one more blockchain hire too. You will play a really important role in building services that will see them through the final phases of MVP and into the scalability phase of their product journey
+
+Your role will be to:
+Manage and maintain the existing company website; develop new web pages as required
+make major contributions to the product’s development across the full front-end stack
+Front-end development using React / Next.js, including integrating front end implementations with the product’s APIs and GraphQL
+Assisting in maintaining the products extensive CI/CD pipeline
+
+Tech environment includes:
+React & Node (TypeScript)
+Web3.js
+Python
+Next.js
+JavaScript
+Git
+
+
+What is the advantage of this project and journey?
+The end result?.... sustainable energy sources will be delivered more consistently to the planet, very quickly reducing the need for fossil fuels. We will reduce carbon emissions as a result of this platform.
+
+You will be making a direct impact on sustainable energy for the planet.
+
+Are you suitable for this role?
+If you answer 'yes' to most of the following questions, then...yes... you are likely suitable for this position.
+
+Can you work remotely?
+can you work independently and take ownership of React-focused technical decisions?
+are you interested in green-tech?
+are you interested in learning more about blockchain-based platforms?
+are you seriously interested in working with a start-up in phase 2 of their journey?
+
+All applicants will receive a response directly from me. Please apply if you feel you are interested in this role.

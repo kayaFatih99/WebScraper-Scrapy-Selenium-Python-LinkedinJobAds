@@ -1,0 +1,32 @@
+About the job
+We are partnering with an award winning Development company, that due to organic growth are growing their Android Team.
+
+If you want to be part of an Award winning Team please read on.....
+
+Accountability headlines
+Execution of code quality
+Adhering to coding standards best practices
+R&D
+Main Duties and Responsibilities:
+· Meet deadlines for work allocated and complete all tasks to a high standard.
+· Deliver excellent code built to current best practices.
+· Manage self and communicate updates to managers and colleagues.
+· Logs time and effort for all activities as required.
+· Collaborate with cross-functional teams to execute new features.
+· Test own work for robustness, including usability, and general reliability.
+· Ensure bugs, once highlighted are fixed in a timely manner.
+· Give feedback and share best practise with colleagues to improve application performance.
+· Continuously discover and suggest new technologies to maximize development team efficiency and performance.
+Necessary skills
+· Dependency Injection using Hilt
+· Android UI
+· Compose navigation
+· Kotlin
+· MVVM
+·
+Desirable skills
+· Java
+· Testing (Unit & UI testing)
+· Firebase
+· Notifications
+MVI

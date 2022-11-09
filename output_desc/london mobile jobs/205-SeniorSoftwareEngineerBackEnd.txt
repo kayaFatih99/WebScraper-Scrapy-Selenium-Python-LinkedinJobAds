@@ -1,0 +1,51 @@
+About the job
+We are searching for an exceptional and meticulous Senior Engineer (Back-End) with XP in Golang to join a scaling investment platform - think angellist.com but better.
+
+The company
+
+They are on a mission to improve how value is created and distributed. Their first product makes launching and investing in syndicates and funds cheaper and easier than ever before. They want to empower people to build and invest in more companies the world needs.
+
+Longer term, they aim to enrich decision-making through collective intelligence. This will allow them to radically change the way capitalism works.
+
+Their clients are fintech companies who are scaling up and changing the way the world does business through their ideas, hard work and commitment.
+
+They provide culture as a service to their Fintech clients through intelligence-led delivery and headhunting which leads to long-term impactful hiring.
+
+Requirements
+
+5+ years of relevant work experience;
+You love collaborating with and mentoring team members, while also sharing practical knowledge and trends;
+Rigour in high code quality, automated testing, and other engineering best practices;
+Strong analytical and critical thinking skills;
+Have experience working in a CI/CD environment;
+Excellent communication skills;
+Strong understanding of BDD and DDD, practical experience a bonus;
+
+Nice to have
+
+Experience working at a fast-growing startup;
+1+ year experience working with Golang;
+
+Values
+Transparency and radical candour
+Trust and autonomy
+Disagree and commit
+Ownership
+Kindness
+Have fun!
+
+Benefits
+
+They prefer people within a one-hour time difference from London.
+Flexible working (We care about the results, not when you work)
+They have a lovely office just off Exmouth market, where we provide fresh fruit, snacks and an extensive tea selection
+Competitive salary
+Laptop assigned, Mac or Dell (Windows)
+Parental Leave
+£1000 Learning & wellness budget
+
+Mana Search is FinTech’s all-in-one search firm. We partner with the most exciting VC & growth equity-backed Fintechs. Strategic search into the CxO suite, venture building through delivering teams in Engineering, Data Analytics, Product and Commercial. If you are interested in hearing more about this role or others do get in touch via peter@manasearch.co.uk - many thanks!
+
+P.S If you are applying to this role please fill out this type form with your information:
+
+https://3w6pfnsi1vv.typeform.com/to/dtyVu9r3

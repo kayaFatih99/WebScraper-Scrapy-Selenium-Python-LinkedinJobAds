@@ -1,0 +1,44 @@
+About the job
+We Breathe Life Into Data
+
+At Komodo Health, our mission is to reduce the global burden of disease. And we believe that smarter use of data is essential to this mission. That’s why we built the Healthcare Map — the industry’s largest, most complete, precise view of the U.S. healthcare system — by combining de-identified, real-world patient data with innovative algorithms and decades of clinical experience. The Healthcare Map serves as our foundation for a powerful suite of software applications, helping us answer healthcare’s most complex questions for our partners. Across the healthcare ecosystem, we’re helping our clients unlock critical insights to track detailed patient behaviors and treatment patterns, identify gaps in care, address unmet patient needs, and reduce the global burden of disease.
+
+As we pursue these goals, it remains essential to us that we stay grounded in our values: be awesome, seek growth, deliver “wow,” and enjoy the ride. At Komodo, you will be joining a team of ambitious, supportive Dragons with diverse backgrounds but a shared passion to deliver on our mission to reduce the burden of disease — and enjoy the journey along the way.
+
+The Opportunity at Komodo Health
+
+Komodo aims to build the most accessible, actionable collection of healthcare data in the industry. Our diverse clients have a range of familiarity with healthcare technicalities and we strive to provide products designed to be simple enough for a layperson while also allowing power users to explore our data with all the depth and sophistication they require.
+
+As a Software Engineer on Komodo Health’s team, you will be focusing on our internal service layer used to serve a variety of axes - patients, payers, providers, etc. You will enable complex queries supported through backend APIs, adhere to SLAs, and the underlying caching necessary to support multiple access patterns.
+
+By exposing the power of Komodo’s data directly to consumers, and leveraging innovative caching techniques to create drillable, pivotable visualizations, you will help create a state-of-the-art interactive experience for internal and external users alike.
+
+Looking back on your first 12 months at Komodo Health, you will have…
+Expanded or enhanced internal data models to ensure timely performance for all types of requests
+Recommended and implemented additional pre-calculation and caching strategies as needed to ensure that SLAs are met
+Promoted backend API versioning best practices and open API standards in development
+Leveraged relevant AWS services (API gateway, lambdas, among others), updating as needed to take advantage of new beneficial features in support of the API
+Partnered with our Product Managers and wrote design documents to help explain tradeoffs between implementation choices
+Ensured non-functional requirements are met, such as around developer experience and maintainability
+Managed technical dependencies between different microservices to ensure smooth operations
+What You Bring To Komodo
+Experience designing backend APIs for use in web application development (synchronous vs asynchronous response patterns, caching strategies, etc)
+Expertise optimizing data retrieval processes supporting API output, as above, ideally within a low query volume / high data volume environment.
+Demonstrate deep programming experience with Python
+Exposure with relevant ‘big data’ processing either via Spark or through a modern MPP database like Snowflake
+Experience with separate caching/cache invalidation strategies
+Understand design for non-functional concerns such as performance, cost optimization, maintainability and developer experience
+Excellent cross-team communication and collaboration skills, with the ability to initiate and effectively drive projects proactively
+#LIRemote
+
+Where You’ll Work
+
+Komodo Health has a hybrid work model; we recognize the power of choice and importance of flexibility for the well-being of both our company and our individual Dragons. Roles may be completely remote based anywhere in the country listed, remote but based in a specific region, or local (commuting distance) to one of our hubs in San Francisco, New York City, or Chicago with remote work options.
+
+What We Offer
+
+On top of our commitment to providing competitive, fair pay for all roles at Komodo Health, we’re proud to offer robust and inclusive benefits to all Dragons at Komodo Health. We offer global time off programs, extensive internal and external career development and learning opportunities, multiple affinity groups celebrating our team’s diversity, and an annual wellness and productivity stipend to support you in being your healthiest, best self.
+
+Equal Opportunity Statement
+
+Komodo Health provides equal employment opportunities to all applicants and employees. We prohibit discrimination and harassment of any type with regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.

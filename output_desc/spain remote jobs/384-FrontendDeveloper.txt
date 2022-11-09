@@ -1,0 +1,40 @@
+About the job
+Acid Tango is a digital product studio. We transform the ideas of our clients into digital products. Our main focus is digital innovation and making disruptive ideas come to life. We are always searching for the perfect harmony between simplicity, aesthetics and technology in every single project.
+
+We are looking for someone with experience to join our frontend team to deliver amazing digital products. We need a person with passion for product and frontend development, someone that has a great eye for detail and has a good understanding of Javascript, HTML and CSS.
+
+You will
+
+Work closely with cross-functional teams and clients to deliver beautiful, thoughtful, and effective work that has a real impact on our clients' businesses.
+Create clear and helpful interfaces, whilst keeping consistency, maintainability, performance, and, most importantly, the underlying problems, in mind.
+Build efficient and reusable front-end components and abstractions.
+Propose and follow high-quality development practices.
+Be up-to-date on the technical advances related to the frontend ecosystem to apply them in the projects under development.
+Bring your own ideas and knowledge to make us even better.
+
+We're looking for someone who has
+
+Experience developing front-end web applications
+Experience working with React
+An interest in building UIs with modern tools
+A solid understanding of core web and browser concepts (eg. how an HTTP request works).
+Experience writing semantic, accessible HTML
+Experience writing maintainable CSS
+Expert knowledge of JavaScript and how it interacts with the DOM
+Experience working with RESTful or GraphQL APIs and third-party libraries
+Experience with the normal cycle of development: taking requirements, development, testing, continuous integration
+
+Desirable Skills
+
+A strong sense of good UX and design
+Experience contributing to open-source software
+
+We offer
+
+Competitive salary, according to your worth and experience: Junior (20-28K), Mid (28-35K), Senior (35-45K).
+Flexible working hours.
+Challenging projects with a focus on innovation.
+Be part of a dynamic and diverse team with a desire to leave a mark.
+International clients with thousands of users.
+
+If you think you fit well with our team we'll be really happy to talk to you. ;-)

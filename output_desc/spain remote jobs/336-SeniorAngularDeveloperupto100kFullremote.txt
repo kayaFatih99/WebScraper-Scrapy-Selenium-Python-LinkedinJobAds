@@ -1,0 +1,29 @@
+About the job
+The Job
+
+We are looking for an Angular Senior to work on one of the most important Microsoft products today: Microsoft Teams!
+
+Responsibilities
+Take part in the entire development process: from design, planning the architecture down to the development, unit-testing, and DevOps
+Collaborate with Developers, QAs, Product Owner and Scrum Master
+Analyze risks, assess project feasibility, and ensure maximum software user-friendliness
+Work with the latest technologies such as Docker, .net core, Azure and Raven DB (NoSQL)
+Requirements
+Good english skills: ability to communicate (verbally and in written)
+Strong programming skills and an interest in the latest applied technologies
+Extensive experience with Angular
+Great knowledge of TypeScript/JavaScript, HTML/CSS
+Willingness to take ownership and strong sense of responsibility
+Ability to follow procedures and interest in process optimization
+Nice to have
+Experience with Unit/Integration Testing (or other forms of automated testing)
+Experience with any of Selenium/Protractor/PhantomJS
+Experience with RxJS, Vue
+Experience with TDD, BDD; interest in automated testing
+Experience with Docker is a plus
+Experience with Azure development and DevOps is a plus
+Offer
+Salary up to €100k
+Full remote position
+Flexible hours
+International team

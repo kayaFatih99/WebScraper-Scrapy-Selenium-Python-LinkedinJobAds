@@ -1,0 +1,87 @@
+About the job
+• Business: EMAP
+• Title: Senior Backend Web Developer
+• Base Location: Croydon/Hybrid ( 3 days from home, 2 days in the office)
+• Employment Type: Full time, Permanent
+• Salary: £40,000 - £45,000 DOE
+
+Sponsorship or remote working is not available.
+
+EMAP is a progressive media, content, events, subscription, and networking business. We connect influential people and organisations to a high-value network of decision-makers, data, and ideas through our industry-leading business to business portfolio of over 40 brands.
+Working with the Head of Web Development and Systems Administrator’s to manage, create and build web-based solutions, according to the business strategy of Metropolis/emap. You will be an highly experienced, ambitious PHP Developer looking for a challenging role where you can learn lots more.
+
+Your primary focus will be the development of server-side logic, definition, and database maintenance, and ensuring high performance and responsiveness to requests from other team members. As all core systems run on AWS, we are looking for someone who is keen to take advantage of cloud architectures, while engaging with the team to leverage new opportunities as the team continues to roll out company’s technology strategy.
+
+The team consists of highly experienced PHP developers, backed by DevOps specialists, technical business analysts, QA analysts and project management. If you are passionate about technology, constantly seeking to learn and improve skill set, then you are the type of person we are looking for!
+
+Responsibilities:
+Work within an Agile team to design, develop, and maintain enterprise applications and web services with PHP on a mix of in-house and off the shelf frameworks and tools.
+Analyse, Build, design and deliver high quality, high volume, high availability, and high-performance solutions in line with guidance and best practices of the department.
+Design, build, and optimise database systems to support the applications and services
+Front and Back-end development of WordPress sites (WordPress Multisite installations), leveraging JSON and web application frameworks, create and customise PHP themes/plugins
+Refactor, optimise, and improve the existing codebase for maintenance and scale
+Document the development process, architecture, and standard components
+Collaborate with the team and other stakeholders to achieve successful delivery of high-quality software products.
+Design and develop reusable libraries, APIs and code that are easy to maintain, understand and re-use.
+Learn new technologies and keep abreast of existing technologies and be able to apply these to a variety of projects as applicable
+Ensure software conforms to operational requirements of hosting environments.
+Work with 3rd Party clients where necessary offering direction, support and documentation.
+On-time delivery and own quality of work ensuring it meets the technical standards of the department.
+Monitor your work against the production schedule closely and provide progress updates reporting concisely and clearly any issues or technical difficulties to the Development Lead or Technical Project Manager as soon as possible.
+Write, review, and take responsibility for clear, concise and comprehensive technical documentation.
+Adherence to all relevant legal and compliance requirements, standards of web development and online trading for both public and private sector: GDPR, SENDA, DDA, PCI-DSS
+To adhere to Company policies including the Anti-Bribery and Corruption policy.
+To carry out any other ad hoc duties as may be required from time to time.
+
+Key Results Areas:
+Produce defect-free quality code, quality presentation, quality PHP & HTML and good user experience.
+Develop, deliver, and modify web sites to the priorities set by the business.
+Proactively and reactively bring issues to the Web Team daily stand-ups and weekly meetings (or more rapidly for urgent issues). Aim to close off issues by the next meeting, with good progress made on them as a minimum measurement
+
+Personal Specifications and Competencies:
+
+Interpersonal Skills:
+Strong influencing skills with the ability to influence and negotiate for time and resources at all levels.
+Evidence of success in building and managing relationships with high level stakeholders.
+Organisational awareness with the ability to operate with confidence and credibility across all functions of the Company.
+
+IT, Administrative and Organisational Skills:
+Ability to code software according to standards and design guidelines.
+Excellent planning, organisational and time management skills, with the ability to work under pressure and to tight deadlines and to demonstrate an effective and resourceful approach to addressing issues.
+
+Judgement and Analysis:
+Sound judgement with the ability to interpret, analyse and disseminate complex, technical information.
+Must be able to make excellent strategic decisions for the design of complex software, evaluating the likely impact of alternative approaches, referring to software requirements, input from the Development leads and the existing source code base. Decision making in this role will have an impact on software speed, code reusability, team productivity and customer support. Therefore, personal judgement needs to be exercised in determining a course of action.
+
+Initiative:
+Resourceful and purposeful, with initiative, drive, and a strong desire to deliver exceptional results.
+Able to work autonomously through a wide variety of complex problems under own initiative, adopting software development principles required by robust, scalable, and attractively presented solutions.
+A team player both internally and externally.
+
+Communication skills:
+Able to write technical software design specifications.
+Excellent verbal and written communication skills, including the ability to explain complex technical terminology to non-technical people.
+Ensure software changes are well commented to assist in future maintenance.
+
+Benefits: emap is part of Metropolis Group, together we are committed to providing a happy and healthy place to work, so we offer fantastic benefits and perks to our employees.
+
+25 days of holiday per year (with the option to buy or sell)
+Health plan
+Life insurance cover
+Cycle to work scheme
+Discounted gym memberships
+Retail discount vouchers
+Rail season ticket loans
+Continuous learning & Development opportunities
+Volunteer day
+Private virtual GP access
+Seasonal flu jabs on site
+Pension scheme
+Income Protection and more
+
+Equipment: Due to hybrid working laptops are provided.
+
+Privacy: Metropolis Group respects the privacy of every person for whom we have personal data. We comply with data protection legislation such as the Data Protection Act 1998 and the General Data Protection Regulation which regulates the processing of data and ensures that your data is processed fairly and lawfully, is kept secure and only that data necessary for any processing is kept. You can see our privacy policy at www.metropolis.co.uk/privacy.
+Diversity and Inclusion: We are an equal opportunity employer and value diversity and inclusion. All applicants will be considered for employment without attention to race, age, religion or belief, pregnancy and maternity, marriage and civil partnership, sex, sexual orientation, gender identity, national origin, or disability status.
+
+How to apply: Please send your CV covering letter with notice and salary expectations to bobby.pepelyashka@emap.com Due to the volume of applications, we receive, we are unable to give individual feedback at the application stage, however if you are successfully shortlisted you will be contacted within 10 working days of the closing date.

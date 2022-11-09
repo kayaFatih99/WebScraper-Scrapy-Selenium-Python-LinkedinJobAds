@@ -1,0 +1,49 @@
+About the job
+Who We Are
+
+Cimpress Technology develops cutting-edge, best-in-world software that our mass customization businesses use to create personalized products for over 17 million global customers. Our Mass Customization Platform is comprised of modular, multi-tenant services. Our businesses can choose the solutions that work for them, or assemble any custom combination they need. This makes it easier and faster to do things like introduce new products, reach customers and track orders. And this kind of innovation keeps customers coming back. Just last year, Cimpress generated $2.88B in revenue through customized print products, signage, apparel, packaging and more.
+
+We encourage our engineers to think like an owner – to continue to act small as we grow. Every team defines their own roadmaps, and uses the programming languages and technologies that suit them best. This helps us have a big impact at the enterprise level while still feeling small and nimble.
+
+What You Will Do
+
+As Full-stack Software Engineer, you will join one of our product teams. We believe in ownership, and you will have a mandate (together with your team) to develop features end-to-end. At Cimpress, we are big on autonomy, and that makes us strong: we expect you to make all (technical) choices along the way to build solutions for our customers.
+Develop clean, high-performance code that facilitates and inspires over 10 million customers, 23k partners, and almost 2.000 colleagues
+Think of ways to make solutions scalable and future-proof and take ownership over team solutions, we are proud of what we do!
+Help your team grow and team up with business partners to ensure that solutions add customer value
+Be part of a motivated team that is passionate about delivering impactful work to delight our customers.
+Tackle exciting problems to help us process billions of dollars worth of orders every year, using an industry-leading microservice platform.
+Develop in a variety of different languages like JavaScript/TypeScript, C# and Java, and deploy your work to our cloud infrastructure in AWS.
+Develop React applications deployed as SPAs using a continuous development pipeline through GitLab.
+Use a multitude of open-source projects while exploring and promoting new technologies that create high quality designs and code.
+Apply and contribute to shared software used throughout the company including UX component libraries and service frameworks.
+Discover trends and emerging technologies, participate in user communities, and share what you learn with your teammates.
+Example of our tech stack:
+AWS (DynamoDB, S3, Lamda Functions, CloudFormation, etc)
+ElasticSearch
+React, Styled Components, ThreeJS, CanvasJS.
+C# .NET Core
+Your Qualifications:
+
+At Cimpress, we value the experiences that individual team members add to our culture. Please don't hesitate to apply even if you don't meet the exact qualifications, we look forward to learning more about you!
+Proficiency in at least one “mainstream” development language, with JavaScript being preferred.
+Ability to contribute at multiple levels of our stack.
+Experience with agile software development and a desire to write (and review) code every day.
+Nice to have:
+Experience designing API’s with some curiosity for the front-end will be amazing!
+A strong desire for self-improvement, and an aim to control your own learning. In other words: research which training you need and who can coach you, and we will provide the funding and time.
+Why You'll Love Working Here:
+
+Being at Cimpress means that you don’t see work as just a building, a desk or a manufacturing floor. You see it as a chance to take a step forward in your career journey – and your life. We strive to give you everything you need to learn, grow, and succeed. Through innovation, collaboration, and perpetual exposure to what’s next, we’re always pushing boundaries and broadening our horizons. We embrace the chance to operate outside of our comfort zone to discover what we’re capable of. Some might call that a challenge; we just call it another great day at work.
+
+We're Remote-First
+
+In 2020, Cimpress adopted a Remote-First operating model and culture. We heard from our team members that having the freedom, autonomy and trust in each other to work from home and, the ability to operate when they are most productive, empowers them to be their best. Cimpress also provides collaboration spaces for team members to work physically together when it's safe to do so and when in-person collaboration will deliver the best results. Currently we are enabled to hire remote team members in over 30 US States as well as several countries in Europe, including Spain, Germany, UK, Czech Republic, the Netherlands and Switzerland.
+
+About Us
+
+Led by founder and CEO Robert Keane, Cimpress invests in and helps build customer-focused, entrepreneurial mass customization businesses. Through the personalized physical (and digital) products these companies create, we empower over 17 million global customers to make an impression. Last year, Cimpress generated $2.88B in revenue through customized print products, signage, apparel, packaging and more. The Cimpress family includes a dynamic, international group of businesses and central teams, all working to solve problems, build businesses, innovate and improve.
+
+Equal Opportunity Employer
+
+Cimpress Tech, a Cimpress company, is an Equal Employment Opportunity Employer. All qualified candidates will receive consideration for employment without regard to race, color, sex, national or ethnic origin, nationality, age, religion, citizenship, disability, medical condition, sexual orientation, gender identity, gender presentation, legal or preferred name, marital status, pregnancy, family structure, veteran status or any other basis protected by human rights laws or regulations. This list is not exhaustive and, in fact, in many cases, we strive to do more than the law requires.

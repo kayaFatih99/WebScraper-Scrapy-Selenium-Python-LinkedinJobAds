@@ -1,0 +1,32 @@
+About the job
+Looking to be part of a team that develops leading solutions with proven innovations currently in production?
+
+My client is a key player with a portfolio of disruptive products in the content delivery and media streaming industries. They are expanding internationally beyond their core team currently located at their lovely office in Tenerife (Canary Islands) to ensure they deliver high-quality products and services to both current and future international customers. Having grown during the past 5 years from a small start-up, they are looking for even more growth bringing more exceptional individuals to their Engineering team. They have engagements with top players and clients in the industry with global audiences, with plans on expanding their operations with new and exciting products.
+
+Although this position is full-time, we are very flexible with work schedules, with the possibility of offering a remote position from anywhere within 2/3 hours of CET.
+
+Position: JavaScript Software Developer
+
+We are looking for a self-motivated and driven Javascript developer to contribute to our team working in the development of web-based frameworks and apps. You will be working alongside other engineers working on different layers of the company. Therefore, a commitment to collaborative problem solving and the creation of quality products is essential.
+
+What we expect from you
+• Degree in Computer Science, Software engineering, Physics, Mathematics or similar.
+• +5 years of experience in Javascript.
+• +3 years of experience in Typescript.
+• Knowledge about tools such as Webpack, Jest, and NPM.
+• Knowledge of version control tools and modern CI/CD systems.
+• Experience with unit testing and test-driven development.
+• Passion for working with multiple teams and learning new skills.
+• Whilst remote working is fully supported and encouraged, and we are flexible in several aspects, it is also important to start the day in tandem with the team. The team starts the day at 9 A.M. WET with a stand-up meeting.
+
+Nice to have, in no particular order
+• Some knowledge in video streamings, such as HLS, DASH, and the related production/delivery chain.
+• Background and knowledge on network protocols, WebRTC, and general P2P technologies and concepts.
+
+What we offer
+• Competitive salary.
+• Promotion of equal opportunities within our organization.
+• Opportunity to learn, develop and apply state-of-the-art technologies.
+• A healthy company culture with communication, openness, and common sense as our daily drivers.
+• A stimulating work environment with worldwide customers, with priority on work-life balance with flexible working hours. We trust you because you trust the team!
+• Nice venue in Tenerife, our office is located in the historical centre of La Laguna. There is also the possibility to work remotely if you prefer not to relocate.

@@ -1,0 +1,28 @@
+About the job
+IOS Developer - Luxury Fashion
+
+One of my clients, a global leader in the fashion and retail industries, is in need of an IOS Developer to join their IOS team and play a significant role in the development of their next-generation E-commerce platform.
+
+The ideal candidate for this position would have substantial experience in Swift Ui and have two to three years of experience working as an iOS or Android developer.
+
+Requirements for this role:
+
+- Developing high quality, user-friendly IOS applications.
+- Writing clean code, maintaining high coding standards.
+- Implementing UI designs.
+- They are leveraging cutting-edge technology; having familiarity with Swift UI is a
+benefit but not a necessary.
+- Integrating the applications with other systems (using REST JSON APIs and 3rd
+party SDKs).
+- Suggesting improvements to the application (features, UI, UX, code etc.)
+- Suggesting improvements to processes (development, PM, QA, CI, etc.)
+Writing unit, integration and UI tests.
+- Releasing application updates.
+
+Flexibility: Fully remote
+
+Compensation: circa - £70,000 -75,000
+
+Please reply without delay!
+
+IOS Developer - Luxury Fashion

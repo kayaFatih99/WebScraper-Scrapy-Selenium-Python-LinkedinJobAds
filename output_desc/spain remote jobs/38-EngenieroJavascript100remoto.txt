@@ -1,0 +1,19 @@
+About the job
+Modalidad: teletrabajo 100% y acudir a las oficinas 1 vez cada mes y medio cuando hagan dinámicas de equipo.
+Contratación: Con Tecdata durante 6 meses y después pasar a tener el contrato directamente con el cliente.
+
+Nota: 2 años de experiencia + Ingles avanzado hablado con fluidez
+En este caso el salario es abierto y negociable acorde a las experiencia del candidato.
+
+Requisitos
+
+JavaScript
+● Código ES6
+● Bibliotecas de Javascript como ReactJS y Lodash.
+● Graphql
+● Frameworks y librerías de testing como Mocha, Chai, sinon.js y Jest.
+● Selenium + Cucumber + nodejs para pruebas de automatización.
+● Preprocesadores de hojas de estilo como SASS, CSS-in-JS y styled-components.
+● Paquetes y ejecutores de tareas como webpack, babel, grunt, npm.
+● Java 8 y 11 en el BackEnd (si quieres, tienes la oportunidad, de convertirte en un desarrollador fullstack).
+● Uso de storybook para acelerar los desarrollos.

@@ -1,0 +1,57 @@
+About the job
+Who we are
+
+
+INARI is a next generation ecosystem for the insurance industry that harnesses blockchain, data and machine learning to deliver intelligent decision-making tools and automated governed processes to insurance companies around the world. INARI was founded in 2017 and we are headquartered in beautiful Barcelona. We are team of diverse people from all around the world, different cultures and different experiences that combine together delivering a platform that our customers love.
+We are currently looking to bring some new members to the INARI family as we continue to grow.
+Respect, ownership, hard work, creativity, teamwork and customer service are core values for our company and we are looking for people that share the same values.
+You will be working in a fast paced environment using cutting-edge technologies providing innovative solutions with an awesome team of people.
+
+
+What we offer
+
+
+Friendly and fun environment where you will be part of a solid, results oriented and hard-working team
+The best private insurance for you and your family
+Remote work policy
+Attractive salary policy
+Flexible working hours
+Continuous learning and development
+Lots of team building events – going to the movies, internal and external activities.
+Open spaces to share new ideas and knowledge.
+Workshops to design and implement new solutions and technologies
+Quarterly Town Halls with team building activities
+International environment
+Competitive internal referral policy
+
+
+What we expect from you
+
+
+The most import part of INARI are the people that work here, so we expect an awesome professional but also an awesome person
+Team player
+Problem solver
+Good at communicating
+Wants to work in a startup environment
+Wants to actively participate in the continued build and enhancement of our ecosystem
+For our engineering friends we like you to have experience in TDD and DDD and a decent knowledge of modern architectures
+Used to working in environments that use SCRUM / Kanban
+Decent level of english
+
+
+Backend skills
+
+
+Over 2 years experience in Python
+Experience with Python preferred
+Microservices architecture
+API design and implementation
+Docker
+Testing methodology and good practices (such as TDD).
+Experience with AWS resources (SQS, SNS, lambdas, boto3, etc)
+Software Design Patterns (we especially valorate: CQRS, Clean Architecture and/on Event sourcing)
+Knowledge of relational databases.
+We will want to see a Github repo and you will be asked to do a technical test
+
+
+We have a wonderful project and challenge, we can't wait for you to join!

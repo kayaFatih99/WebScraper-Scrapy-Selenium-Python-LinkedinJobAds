@@ -1,0 +1,27 @@
+About the job
+Come disrupt Brick and Mortar!
+
+Are you interested in distributed systems or big data? Shoppermotion is seeking to transform the physical retail store sector with its proprietary mapping technology that enables brands and retailers to better understand in-store shopper behavior in real time.
+The key feature of our technology is that it extracts visitors insights without any shopper interaction. All the analytics are processed anonymously and passively. We are already delivering analytics to the largest FMCG and retail companies worldwide and we aim to become the leading analytics platform in the offline retail sector.
+We are looking for our LEAD ENGINEER to help us keep growing and join our team. Aiming to become the VP of engineering as the development team grows. Responding directly to the CTO and CEO.
+In the last 2 years, we have found the market fit for our product and it is time to scale. As the lead engineer, we need a profile with a broad product vision. We’re looking for a position where you’ll get to work at all levels of the stack.
+📔 The main responsibilities of this profile are
+⚡️ Actively participate in the design and development of new functionalities together with the product and sales team
+⚡️ Help design and conceptualize the evolution of our infrastructure in terms of scaling, continuous delivery, and redundancy
+⚡️ Acquire knowledge of the platform at a founder level to become at the top of the development team
+⚡️ Collect customer feedback for good customer development
+⚡️ Be an active part of hiring new technical profiles
+⚡️ Designing new data models, and APIs, and implementing pixel-perfect UIs
+🚀 You’d be a good fit if
+⚡️ You’re a full-stack web developer with 3+ years of experience in JS and Ruby on Rails
+⚡️ Experience with any of the following is a plus: Python, Scala, MongoDB
+⚡️ You have experience in team management
+⚡️ You have communication skills
+⚡️ You can communicate in English
+🏅 Perks and Compensation
+⚡️ Competitive salary
+⚡️ Access to our Employee Stock Options Plan
+⚡️ Fully remote
+⚡️ Flexible work hours
+⚡️ We are passionate about what we do and have fun as we do it
+⚡️ Several off-site activities every year

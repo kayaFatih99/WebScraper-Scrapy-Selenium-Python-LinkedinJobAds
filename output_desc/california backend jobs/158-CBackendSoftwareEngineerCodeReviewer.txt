@@ -1,0 +1,39 @@
+About the job
+About AlphaPoint:
+
+AlphaPoint is a financial technology company powering digital asset exchanges and brokerages worldwide. Through its secure, scalable, and customizable white label digital asset trading platform, AlphaPoint has enabled over 150 customers in 35 countries to launch and operate digital asset markets, as well as digitize assets. AlphaPoint and its award winning blockchain technology have helped startups and institutions discover and execute their blockchain strategies since 2013.
+
+This role is 100% US remote.
+
+Role Responsibilities:
+
+The code reviewer will be reviewing all code written by engineers on the development team. Reviewing, correcting and looking for better ways to write existing code. This person must be a skilled code reviewer and enjoys doing code reviews and coming up with best practices for code reviews. This person will be reporting directly into the CIO and dotted reporting line into the solution architect lead.
+
+Basic requirements:
+C# programming language expert. 5 - 8 years experienced in C#.
+Well-versed in documenting, critiquing, creating best practice guides and implementing coding standards
+Identifying and documenting anti-patterns
+Performance profiling to determine which type of code is more efficient
+Draft the engineering coding guide and policy for AlphaPoint
+Comfortable with communicating mistakes in code and coaching/supporting engineers to take corrective action
+Someone very detail-oriented
+A specialist in code reviewing
+
+Preferred requirements:
+Prior experience with maintaining open source projects and triaging other engineers’ code on a frequent basis - either for professional/work reasons or as a hobby
+Passion and experience in cryptocurrencies, blockchain, trading systems or other fintech instruments
+Someone who is comfortable working across the engineering organization with senior developers, leads and staff level engineers
+
+Here are some of the benefits of working at AlphaPoint:
+Competitive base salary, bonus and equity
+Comprehensive health, dental, vision insurance coverage
+Life Insurance
+Short and Long-Term Disability Benefits
+401k company match
+Unlimited PTO
+Brex company credit card
+Computer equipment and workplace furniture to suit your needs
+Great colleagues and an inspiring startup environment with colleagues internationally
+$100 of the Cryptocurrency of your choice upon signing
+Company paid Co-Working benefits
+$2500/year for learning and development

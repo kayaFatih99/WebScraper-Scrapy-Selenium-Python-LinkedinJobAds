@@ -1,0 +1,45 @@
+About the job
+About Appspace:
+At Appspace, we’re passionate about creating better work experiences for people everywhere, and we’re looking for people that feel the same way. Our global office locations and flexible work culture help you work wherever and however you’re at your best. Plus, we take the time to help you enjoy your work, build lasting connections, and grow your role. Join the Appspace team and be a part of a culture that’s helping people everywhere love where they work.
+
+Your Role as a React Frontend Engineer:
+Appspace is looking for a Frontend Engineer who is eager to make an impact on people’s lives, and will run the extra mile. Are you an innovative and talented Frontend Engineer, passionate about every single aspect of your job and with a personal mission to impact the user experience of our clients. The right candidate shares an ambitious appetite for the continuous improvement and development of Appspace’s product.
+As a React Frontend Engineer you will work on:
+Write simple and maintainable code.
+Build adaptable UI components that can be used in various applications.
+Working together with the Product and Design teams to build the best UX for our customer.
+Maintain and evolve the existing features.
+Our stack is:
+React, TypeScript, Styled components, SCSS, GraphQL, React Query, etc.
+We build our projects with Webpack and Yarn Workspaces.
+We add tests using React Testing Library with Jest and we use TestCafe and Cypress for the E2E tests.
+Design tools: Figma and Zeplin.
+We use Storybook to build our design system.
+Project management and knowledge: JIRA.
+Communication: Slack, Meets.
+What we are looking for:
+Be passionate about Frontend development.
+Proven experience building applications with React and configuring Webpack, npm…
+Experience with testing frameworks.
+Strong written and verbal communication skills; able to communicate technical information in a clear and concise way.
+Learn from feedback and help others learn to write better applications.
+Good problem solving, analytical and troubleshooting skills.
+The Perks of Working for Appspace:
+For all our team members, we offer a variety of benefits from competitive salaries, employer paid medical, dental and vision coverage and mental health resources.
+Additional perks include:
+100% Remote work (We have offices in Barcelona, Madrid and Porto if you want to go)
+Flexible working schedule
+Appspace Friday's (Free afternoon and no meetings scheduled)
+Reduced working hours in August
+Health Insurance
+Training allowance
+Training days off (5 days)
+Gym allowance
+Annual Bonus
+Employee referral program
+
+
+Disclaimer:
+Appspace Inc. is an equal opportunity employer. All aspects of employment, including recruiting, hiring, placement, promotion, termination, compensation, and training are decided based on qualifications, merit, and business needs. We do not discriminate on the basis of race, color, religion or belief, marital status, sex, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy (including childbirth, lactation, or related medical conditions), gender, gender identity and/or expression, genetic information, sexual orientation, family or parental status, veteran status, or any other status protected under federal, state, or local laws.
+
+Appspace is committed to creating a diverse and inclusive workplace and does not tolerate discrimination or harassment of any kind.

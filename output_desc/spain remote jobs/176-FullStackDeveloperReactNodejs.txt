@@ -1,0 +1,44 @@
+About the job
+ABOUT US
+Tiendeo is the multichannel solution that connects businesses with millions of shoppers around the world through our AI-driven technology.
+
+We help brands and retailers optimize their marketing strategies, reaching their audiences throughout the customer journey and driving customers to visit physical stores.
+
+In 2022, we joined ShopFully, the tech company that is reinventing local shopping worldwide (shopfully.com). With teams in 12 countries, a network of 45 million active users and over 400 partnerships with major retailers and the best-known brands around the world, ShopFully is the European champion and an international leading player in Drive to Store.
+
+Want to learn more? Visit our website for more information or to connect with us.
+
+
+IN THIS ROLE YOU WILL
+In the role of NodeJs and React developer you will have the opportunity to work within one of our cross-functional Tech teams, developing our content solutions, in particular you will work on:
+Evolution of existing solutions in order to generate new features with a focus on speed and performance
+Support web, data and operations teams in defining new development solutions
+
+
+
+SKILLS WE’RE SEARCHING FOR
+Strong experience as an .NodeJs & React Developer
+Familiarity with the NodeJs, React, Postgresql and design/architectural patterns
+Familiarity with architecture styles/APIs (REST)
+Experience in working in a distributed environment (e.g microservices architectures)
+Proven ability to communicate effectively in written form, both in Spanish and English
+Curiosity and willing to keeps up to date, try new tools and libraries, a constant attention in improving and enhancing the projects you work on
+
+
+NICE TO HAVE
+Experience in backend applications such as .Net.
+Experience in Styled components and ReduxJs
+Microservices Event Driven Architecture (e.g RabbitMQ)
+Experience with containers as K8s and Docker
+Knowledge of gitlab and jenkins pipelines
+Experience working with Agile methodologies (e.g Scrum, Kanban)
+
+COMMITMENT AND CONTRACT
+Full-time, permanent or Freelance
+
+WHAT WE OFFER
+An opportunity to build your experience in an internationally growing scale-up company.
+A young and informal work environment.
+Flexibility in your time of entry and exit: this is one of the most valued benefits by our employees.
+English classes: you will have the opportunity of taking weekly classes to improve your level.
+Annual individual budget for training: you manage your own budget to spend on education, from short-workshops to online courses or semester-long classes!

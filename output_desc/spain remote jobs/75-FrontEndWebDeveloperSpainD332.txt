@@ -1,0 +1,57 @@
+About the job
+Job Description
+
+Are you passionate about coding? Does it “hurt” when you see an application with bad UI? Does finding an elegant solution to a hard problem make your day? SMART Technologies is looking for enthusiastic developers like you who want to make a difference in the lives of teachers and students through our world-class software.
+
+Our products are in use in millions of classrooms around the world and we are continuously striving to improve the learning experience. You will have the opportunity to work directly with customers to ensure that you are building products that will help them in their day to day lives.
+
+At SMART, we are always trying to learn and improve. We encourage innovation and creative problem solving. You will be working with the latest web technologies deployed at scale, such as Ember, Amazon Web Services, Google Cloud, Firebase and others.
+
+What would you be doing?
+
+Designing and building next generation web products for use in classrooms around the world.
+Implementing new functionality in our web products.
+Working closely with the User Experience team to design the User Interface.
+Working with other developers to architect and design the technical structure of our products.
+Evaluating and choosing new technologies and libraries to incorporate into our products.
+Mentoring and supporting teammates growth.
+Working with customers and product management to understand how educators use technology in the classroom.
+Writing and maintaining unit and integration tests to ensure our products meet our quality standards.
+Working closely with our test team to ensure automated testing has appropriate coverage.
+Preparing implementation designs for front-end features
+Participating in code and design reviews
+Writing and maintaining technical documentation
+Resolving outages and field escalations
+Troubleshooting and fixing technical bugs
+Running performance benchmarking tests
+Estimating effort for work items
+Participating in the full software lifecycle
+Other duties as required
+
+Core Skills
+
+Building interactive HTML interfaces using Javascript frameworks like Angular, React or Vue.js
+Understanding test-driven development practices including writing and maintaining unit tests
+Experience with developing software using Agile software development.
+Building and deploying applications to Amazon Web Services.
+Experience releasing software using a continuous deployment pipeline.
+
+Education And Work Experience
+
+Degree or Diploma in Computer Science or a related field
+Javascript (required)
+HTML5
+CSS (required)
+JavaScript frameworks like Angular, React or Vue.js
+CI/CD, unit, e2e & integration tests.
+Strong communication skills in English and Spanish.
+Ability to take initiative and propose solutions.
+Adherence to SMART's Core Values and Behaviours.
+Ability to work independently.
+Backend services architecture is an asset.
+Experience with iOS and Android development is an asset.
+Experience with web-based Java development is an asset.
+Experience with CI/CD pipeline scripting is an asset.
+Experience with Nodejs is an asset.
+
+At SMART Technologies, privacy is not an afterthought to us. Privacy is at the core of our software design. The result is that privacy is an essential component at the core of our business. To read more about our specific policies, please follow the links below. For more information please review: https://home.smarttech.com/legal/privacy-policy

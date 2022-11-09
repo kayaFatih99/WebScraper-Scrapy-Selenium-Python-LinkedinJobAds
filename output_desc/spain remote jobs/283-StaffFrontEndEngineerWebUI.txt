@@ -1,0 +1,51 @@
+About the job
+I'm an engineer - what's in it for me?
+
+In addition to the reasons for joining ExpressVPN in general, here are some key reasons for Engineers in particular:
+
+The people. We like to think that you'll find them open and friendly, skilled and motivated, and unified by our mission to protect the privacy and security of millions of customers world-wide.
+Impact. Deliver with both high pace and great quality. You don't need to convince people here to invest in good engineering practices.
+Skill growth. We cover a broad range of engineering specialties: many aspects of high-scale cloud applications, 7 client-side operating systems, firmware, bare-metal servers for which we compile the OS (see TrustedServer), our own open-source VPN protocol Lightway, etc. No matter what your background, you're going to find someone from whom you can learn here.
+Career growth. We're lucky to be a leading company in a fast-growing industry. We're expanding the business and hiring many people, which brings many opportunities for you to evolve your role. You can rotate through teams and gain exposure to a broad range of challenges, or go into people-management. We value the individual contributor and people-management tracks equally.
+
+Responsibilities of this specific position - Engineers for Web UI Applications
+
+You'd join one and potentially rotate through teams that build the web UIs for the ExpressVPN Router, the browser extensions, and maybe some signup and account management flows on expressvpn.com.
+
+Use Javascript, Vue.js, and fully automated CI/CD.
+Agile development practices. That means "master is always ready to ship", "branches are at most a few days old", and "you ship several stories per week."
+Be a champion of the browser space. Be up to date on the latest developments in browser technology, enabling us to avoid unexpected problems with our extensions and also to allow us to plan new features and products strategically.
+Configure and manage build systems.
+Operate test pipelines.
+Be accountable for all aspects of quality, including but not limited to ensuring our UI looks great on all major browsers and operating systems, security, privacy, performance, reliability, etc.
+Maintain velocity: Ultimately measured by how quickly we can deliver value to customers.
+The applications are all fully localized, support dark mode, and have a high degree of automated testing.
+
+Requirements for this specific role
+Please get in touch if you have the following skills or experience:
+
+Expert in Javascript (ES6+), HTML and CSS
+Proven track record shipping a successful application of at least one of the following types: Chrome or Firefox browser extension, a cross-platform application built with web technologies such as Electron, or creating high-quality web apps.
+Expert in at least one modern Javascript-based web frontend framework such as React or Vue.js.
+Expert in writing automated tests, including unit tests, functional tests, and UI tests.
+Experience with CSS preprocessors, e.g., SCSS, SASS.
+Good knowledge of Javascript design patterns and coding standards.
+Sounds interesting. What's next?
+
+Let's talk. Tell us what you're looking for in your dream job, then let's see what role would be a great fit for you.
+
+The steps are:
+
+Get in touch using the form below.
+Our engineering hiring-team will look at your profile and make a decision on whether to engage with you. If you write us a cover-letter, we will respond with a personal note regardless of our decision.
+An in-house recruiter will set up a time to speak with you on video and prepare you for our interview process.
+Our interviews are then composed of:
+a screening call with an engineering manager
+usually about 4 interviews with other engineers
+either a homework problem-solving exercise or a live pair-programming exercise.
+Then offer, including meet-and-greets with more colleagues.
+As soon as feasible: reference checks with former managers and maybe other colleagues. Your hiring-manager will perform these calls, and we'll expect you to make the introductions. We realize that we might only be able to speak with your current manager after you've accepted our offer and resigned from your current position.
+
+Thanks for your time, we look forward to hearing from you!
+
+ExpressVPN is one of the world’s leading providers of online privacy and security services for consumers. Started in 2009, we’ve grown to have millions of active paying customers, a team of more than 700 people worldwide, and a brand recognized by hundreds of millions of people in 18 languages and more than a hundred countries. We see huge growth in our industry, and are gaining market share through strong execution.

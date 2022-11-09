@@ -1,0 +1,27 @@
+About the job
+Descripción
+Nuestro cliente es una empresa líder especializada en proyectos de desarrollo online para cadenas hoteleras y hoteles independientes. Actualmente quieren ampliar su equipo de Booking Engine con un desarrollador Fullstack, que sería responsable de las siguientes funciones:
+
+Diseño y desarrollo de soluciones técnicas con código limpio, testeable y eficiente.
+Realizar revisiones con los demás miembros del equipo (pair programming).
+Colaborar con arquitectos y otros desarrolladores para producir el diseño y la documentación técnica.
+Refactorizar el código existente o implementar nuevas características técnicas.
+Ayudar al Product Ower a aclarar, priorizar y estimar las necesidades de negocio.
+Garantizar la integración continua.
+Requisitos
+Al menos 5 años de experiencia como Desarrollador.
+Al menos 3 años de experiencia con Python y Django.
+Al menos 3 años de experiencia con algún framework moderno de JavaScript, preferiblemente en React.
+
+Que ofrecen:
+Contrato indefinido directamente con el cliente.
+Trabajo full remote, con posibilidad de ir a la oficina en caso de residencia en Mallorca.
+Horario de 8:00 - 17:15 de lunes a jueves. De 8:00 -13:15 los viernes.
+Entrada flexible entre las 8 y las 10.
+Posibilidad de horario intensivo para madres/padres: de 8:00 a 16:00 de lunes a viernes.
+Descuento en seguro médico y otros beneficios sociales.
+Salario valorable en función del perfil hasta 38k.
+Participar en proyectos muy desafiantes con las principales cadenas hoteleras de Europa, Asia y América.
+Trabajar en una empresa que invierte en tecnología.
+Trabajar junto con programadores apasionados y ser parte de una comunidad de programadores de primer nivel.
+Formar parte de la toma de decisiones y liderar proyectos empresariales y técnicos de principio a fin.

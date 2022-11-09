@@ -1,0 +1,50 @@
+About the job
+About Tucuvi ❤️
+
+Tucuvi is a health technology company enabling accessible and efficient healthcare delivery for every patient. Through cutting-edge conversational AI and voice technology, we automate patient’s monitoring and follow up with Lola, the first empathic phone call-based medical assistant.
+
+Tucuvi’s AI is being used by healthcare providers, insurers, and pharmaceutical companies to augment their clinical teams capacities, improve processes efficiency and efficacy, and achieve better patient outcomes and satisfaction through continuous and personalized care.
+
+We have received numerous awards, including a €5.5M funding from the European Innovation Council and are surrounded by some of the best investors in the industry. We are on a mission to transform how healthcare is delivered by automating continuity of care with empathic AI and are hiring for an exceptional Backend Developer (NodeJS) that will help us shape the future healthcare by keep building Tucuvi.
+
+
+What we are looking for 🔎
+We are looking for an experienced and proactive player. We need you to execute architecture designs following in-house high-quality standards with a focus on continuos development and continuos integration. You will work on building one of the most disruptive product in HealthTech, with a high component of innovation and artificial intelligence.
+
+
+What you will do 🐱
+You will be the owner of an important part of the architecture, from maintenance to design, improvement and implementation. Your main responsibilities will be:
+Designing and writing quality, maintainable, scalable, testable, high-performance code.
+Participate in Agile activities such as daily stands and sprints;
+Participate in peer-reviews of solution designs and related code;
+Adhere to high-quality development principles while delivering solutions on-time;
+Collaborate with other development team members and other departments to drive innovation and help define internal standards;
+Participate in self-directed learning, tech groups and workshops to learn new technologies and expand knowledge.
+
+
+The experience we need… 💻
+Experience of >4 years as a backend developer in Node js.
+Able to design and build APIs (REST, HTTP).
+Experience with non-relational databases (MongoDB, Firestore).
+Javascript expert with strong ability and knowledge of data structures and object-oriented programming.
+Advanced knowledge of teamwork with Git.
+Testing code with Jest, Mocha, Supertest or similar
+Basic knowledge for CI/CD (GitLab Pipelines, Github Actions, Bitbucket pipelines or similar)
+Minimum knowledge for automation and deployments in production (Docker).
+Excellent verbal and written communication skills in English
+
+Bonus:
+Experience working with Streams in NodeJS.
+Experience working with VoIP and SIP Trunking
+Knowledge of HL7 communication standards (FHIR, HL7v2)
+Experience working in the healthcare industry.
+Experience working with DDD and hexagonal architecture
+
+What we offer 💍
+Play a key role in one of the most disruptive European startups in HealthTech and AI helping us building a product used by millions of patients
+Remote working environment job, with monthly meetings in Madrid and annual offsite
+29 days of holiday per year plus the day of your birthday
+Professional growth opportunities within the company
+
+
+If you are interested, please reach me at marcos@tucuvi.com

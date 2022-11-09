@@ -1,0 +1,40 @@
+About the job
+Senior Front-end Developer (Angular 13)|International SaaS company (E-learning)
+
+About Our Client
+
+E-learning company with more than 15 years of experience in the market.
+
+They have build a SaaS procut which allows different kind of users to increase their knowledge in different areas. All their content is on Streaming or in the cloud, and due to the high demand related to their product, they are currently modernising and scaling the product.
+
+They currently work 100% remote.
+
+Job Description
+
+Collaborate into the end-to-end life-cycle of features, from concept to deployment.
+Be part of technical and architectural decision-making.
+Crate high quality code using Angular in his latest versions.
+Work in a team of engineers, PMs, designers, etc. All with very diverse and interesting backgrounds.
+Promote best practice amongst other coworkers. Work with others to support them.
+Take ownership of your work and responsibility for every last detail, every step of the way.
+The Successful Applicant
+
+Have 3+ years of experience with Angular.
+Have 4+ years of experience as a Frontend Developer.
+Experience with other JavaScript frameworks like React.js, Node.js and Vue.js, will be well valuated, but not mandatory.
+Knowledge in JSON, State Manager, Observables, Ajax, NPM components, Bundleling, Cross-Platfrom Development,
+Design Systems, Agile Methodology, Git, Testing
+You've got experience being part of successful architectural and/or technical decisions.
+You can show us how you made an impact beyond a team or departmental level.
+
+What's On Offer
+
+100% Remote work.
+Continuous training.
+Health Insurance.
+Mac book.
+Contact: Pierre Rivenc
+
+Quote job ref: JN-062022-5668069
+
+Brand: PP

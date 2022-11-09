@@ -1,0 +1,73 @@
+About the job
+Pitchup.com is seeking a Senior Backend Engineer to help us modernise and build on our approach to back-end development. We use Python extensively, with Django forming the bulk of our backend. We’re beginning to explore microservices for our newer projects to maximise our ability to deliver changes quickly, responding to feedback from our users and trying out new ideas with a fast feedback loop. We’re looking for someone with experience, opinions and ideas who can accelerate our teams and help us build best-in-class software services that are a joy to use.
+
+We’re an award-winning and quickly expanding travel site making it a doddle to book camping, glamping and caravan sites all over the world, with over 5,300 to choose from.
+
+As a Backend Engineer at Pitchup, you’ll be responsible for…
+Adding features to our current customer and campsite-focussed sites using Python
+Working with team members and our Product Owner to scope and implement backend features in our existing codebase
+Suggesting and implementing changes to the back-end architecture of our sites as we decompose our monolith to microservices
+Playing an important role in the improvement of our development practices
+
+Must haves
+Able to demonstrate at least 3 - 5+ years of experience as a Backend developer, ideally within a scaling business.
+Demonstrable proficiency in Python and a strong understanding of software architecture. Microservices and SOLID principles
+An appreciation of the challenges regarding building adaptive and responsive websites
+You are able to solve problems in a structured way
+You are able to communicate technical concepts in a lucid, structured fashion to colleagues
+Team player, self-motivated, able to plan and prioritise effectively
+Experience of working as part of an Agile development team
+
+It would be great if you…
+Have relevant knowledge of the OTA sector
+Have experience of continuous delivery and/or feature flags
+Are up-to-speed with modern backend development and have an appreciation for the pros and cons of ideas like event sourcing, branch-by-abstraction or BDD
+Have experience of working with both internal and third-party APIs
+Have a degree in a related discipline
+
+Our stack comprises:
+Kubernetes
+Python/Django/Celery
+Vue.js
+PostgreSQL
+Redis
+Solr
+Memcached
+Nginx
+Varnish
+Cloudflare
+GitLab
+
+Salary: £75,000 to £110,000 per annum depending on experience
+
+Our engineers get:
+Up to £2500 to spend at box.co.uk to get the tools you need to do your job
+£500 to spend annually on learning & development at Udemy and whatever software you need
+Work-from-home office equipment allowance
+25 days holiday, plus bank holidays (pro-rated for part-time employees)
+Pension matched to 4%, private healthcare, life insurance, critical illness cover and income protection - for peace of mind
+Discounts including: gym memberships, sports equipment, Caffe Nero, Odeon cinema and various hotel and retail outlets
+Great staff discounts on Pitchup bookings across thousands of properties in 70 countries
+Employee assistance helpline, in case you ever need someone to talk to, with access to get-fit programmes, nutrition advice, financial and legal advice and counselling
+
+More about Pitchup
+Pitchup.com receives 31m annual visits and over the last year has booked over 5m bed nights, with total transaction value 92% up compared to 2019, and 116% up for destination UK. The site has been featured in leading global media titles, such as BBC News, New York Times, Le Figaro, and more, and has been translated into 16 languages. You will join a nimble team of 60 based in 10 countries, all working from home, as we are a 100% remote business.
+
+A member of the Financial Times' FT1000 fastest growing companies in Europe, Pitchup.com receives up to 300,000 visits and 7,500 bookings per day, and this year an individual site took 95 bookings in 24 hours. Recently we were awarded the Platinum Trusted Service Award by Feefo, for achieving a customer rating of at least 4.5 out of 5 for 3 years in a row. The company is profitable, doubling in size in terms of transaction value since 2019, and was founded in 2009 by former lastminute.com staff with a background in the holiday park sector.
+
+Some of our press coverage
+UK:
+https://inews.co.uk/inews-lifestyle/travel/uk-camping-campsites-august-bank-holiday-2022-availability-pitch-prices-1804816
+https://www.thetimes.co.uk/article/the-10-best-glampsites-for-autumn-kwnz3d9kz
+IT:
+https://vincenzochierchia.blog.ilsole24ore.com/2022/01/18/estate-2022-pitchup-turismo-glamping-gonfie-vele/
+https://www.vanityfair.it/gallery/tende-da-campeggio-facili-da-montare-da-portare-in-vacanza
+US:
+https://medium.com/authority-magazine/dan-yates-of-pitchup-the-future-of-travel-in-the-post-covid-world-949495433861
+https://www.washingtonpost.com/travel/tips/camp-rental-utah-california-yellowstone/
+ES:
+https://www.europapress.es/turismo/nacional/noticia-reservas-campings-espana-crecen-30-consolidandose-destinos-favoritos-europa-20211214114752.html
+https://www.elmundo.es/viajes/hoteles/2022/06/23/62b2c84ffdddffd5758b45ef.html
+FR:
+https://www.lefigaro.fr/actualite-france/ces-commercants-contraints-aux-promos-pour-rassurer-les-vacanciers-20220808
+https://www.camping-car.com/nos-actus/27057-laissez-vous-tenter-par-une-escapade-en-van

@@ -1,0 +1,35 @@
+About the job
+Somos una agencia especializada en SEO. Como desarrollador full stack formarás parte de nuestro equipo en España.
+
+Idioma de trabajo: ESPAÑOL (necesario)
+
+Para reforzar nuestro equipo estamos buscando desarrolladores full stack para incorporar a nuestros proyectos
+
+Imprescindible:
+Fuertes habilidades de desarrollo en PHP, Laravel (mínimo 2 años de experiencia)
+HTML5 y CSS3 (Bootstrap5)
+Javascript (jQuery)
+
+Valorable:
+Experiencia con desarrollo en Python
+Experiencia en servidores Linux y uso de ssh
+Experiencia en Git (montaje y uso)
+Experiencia en el desarrollo e integración de APIS
+Te has pegado y mucho con datatables
+Bases de datos. MySQL o Clickhouse
+Te has pegado con algún CMS como Wordpress y Prestashop
+
+Buscamos...
+Seriedad, ética profesional, implicación, talento para construir cosas, capacidad para corregir errores de forma agil, proactividad, sentido común, confiabilidad y trabajo en equipo.
+
+Ofrecemos...
+Horas de trabajo flexibles
+Trabajo a tiempo completo
+Trabajando desde casa
+
+
+Tipo de puesto: Jornada completa (40 por semana)
+
+Horario: Turno de 8 horas
+
+Experiencia: 2-3 años (Mínimo Deseable)

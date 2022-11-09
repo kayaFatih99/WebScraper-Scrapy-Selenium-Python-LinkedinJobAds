@@ -1,0 +1,21 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Talent Group, is seeking the following. Apply via Dice today!
+
+Title: – Strong Backend Nodejs with Google Cloud Platform - Developer
+
+Location – Remote
+
+Description:
+
+Build real-time streaming analytics platform to compute application on Google Cloud Platform.
+
+Node.js, Express, MySQL, TypeScript, Docker, Google Cloud Platform (Pub/Sub, Cloud SQL, Cloud Run, Endpoints etc.)
+
+Common Requirements:
+
+Minimum 4 years of relevant software engineering experience
+familiarity with modern software development process, code-reviews, pull requests, check-ins, CI/CD, trunk based development
+Git, Linux, Bash, Docker
+strong communication and debugging skills
+attention to details
+- provided by Dice

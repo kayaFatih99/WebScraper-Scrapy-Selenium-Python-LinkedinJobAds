@@ -1,0 +1,50 @@
+About the job
+Job#: 1304456
+
+Job Description:
+
+Apex Systems is currently looking for multiple Backend Engineer to join a top tier technology client of ours! This candidate would be fully remote.
+
+This position is ideal for Backend Engineer who are excited by unique challenges and are able to think strategically and drive implementation. You will have the opportunity to influence the technical direction of the team and be able to work with many different cutting-edge technologies.
+
+If interested, please apply directly to this posting with a word.doc copy of your resume.
+
+Position: Backend Engineer
+
+Location: 100% Remote
+
+Length: 12+ Month Contract
+
+Major Tasks, Responsibilities & Key Accountabilities:
+The main function of a software engineer is to apply the principles of computer science and mathematical analysis to the design, development, testing, and evaluation of the software and systems that make computers work.
+A typical software engineer researches, designs, develops and tests operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific and general computing applications.
+
+Job Responsibilities:
+Integrate with internal and external partner APIs
+Modify existing backend server code
+Perform low level design and code integrations with client code upwards in the stack
+Work as part of a project team to coordinate API server and client development and determine project scope and limitations
+Review requirements to assess scope and estimate task level work completion time
+Resolve issues observed in production
+
+Candidate Requirements:
+Required Backend software developer with medium to high proficiency in C++, Python, SQL
+Years of experience required 3-5 years
+Ability to resolve issues independently
+Ability to understand requirements
+Bachelor's degree in computer science, software engineering or relevant field required.
+MUST have familiarity with Python, client and server development, deployment in production etc.
+
+If interested, please reach out to Annie King at anking@apexsystems.com |(703) 349-6234
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178.
+
+4400 Cox Road
+
+Suite 200
+
+Glen Allen, Virginia 23060
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com (Do not submit resumes or solicit consultants to this email address). Join our Talent Network! UnitedHealthcare creates and publishes the Transparency in Coverage Machine-Readable Files on behalf of Apex Systems.

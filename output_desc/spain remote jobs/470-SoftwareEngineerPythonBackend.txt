@@ -1,0 +1,75 @@
+About the job
+AssemblyAI is a remote-first AI company building powerful deep learning models for developers, startups, and enterprises to transcribe and understand their audio data.
+
+Our ASR models already outperform companies like Google, AWS, and Microsoft - which is why hundreds of companies and thousands of developers are using our APIs to transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.
+
+AssemblyAI's Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world, with well-known customers including Spotify, Algolia, Dow Jones, Happy Scribe, BBC, The Wall Street Journal, and NBCUniversal. As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.
+
+We're growing at breakneck speed, and recently announced our Series B round. We've raised $63M in total funding, and are backed by leading investors including Insight Partners, Accel, Y Combinator, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur & Investor in companies including GitHub, Uber & SpaceX)!
+
+Our ambition is to build an iconic AI company, making advanced deep learning technology accessible to everyday developers through a simple API, good docs, and a great developer experience.
+
+Join our world-class, remote team and help us build an iconic deep learning company!
+
+The Role
+
+We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:
+Build new API features and endpoints
+Build automated test suites and CI/CD pipelines
+Build highly scalable event-driven and realtime systems
+Instrument systems with metrics, tracing, and logging
+Refactor applications to eliminate tech debt
+Troubleshoot production issues
+
+You'll love this job if you....
+Enjoy solving complex technical problems, even when there is no perfect solution.
+Enjoy being in a fast-paced, customer-facing role.
+Thrive in small, cross-functional teams. We like to wear many hats here!
+You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.
+
+Requirements
+3+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++
+3+ years of working with SQL and NoSQL databases
+2+ years working with common AWS services
+2+ years developing REST APIs
+2+ years of experience working with Python
+2+ working with Python backend frameworks like Django, Flask, or Tornado
+1+ years of production support experience
+Experience migrating systems to meet increasing traffic/scale
+Startup or FAANG-type experience - Has worked at a startup or high growth company
+Deep AWS knowledge - Has many years of experience solutioning within AWS
+Strong Python coding abilities - Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.
+High scalability experience - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes
+
+Skills
+Amazing system design chops - When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.
+High-octane thinking - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.
+Extremely creative - Can find both novel and effective solutions within highly constrained time and resources
+Fast learner - Has shown they can ramp up on difficult topics very fast
+Exceptional gut instincts - Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.
+Opinionated - They have convictions in what they believe and can communicate their position clearly without drama.
+
+Nice to Have
+Machine learning experience - Has worked with machine learning models at scale
+Experience integrating and deploying ML models into production
+
+Remote Locations: North America, LATAM, Europe
+
+(Must be located within 6 hours of EST time zone)
+
+Our Team
+
+Our team is made up of problem solvers, innovators and top AI researchers with over 20+ years of experience in Machine Learning, NLP, and Speech Recognition from companies like DeepMind, Google Brain, Meta, Apple and Amazon. They conduct cutting edge deep learning research and develop novel algorithms & techniques to continually push the state of the art in speech recognition & NLP!
+
+Our team is fully remote, and our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.
+
+As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team. We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.
+
+Benefits
+Competitive Salary + Bonus
+Equity
+100% Remote team
+Unlimited PTO
+$1K budget for your home office setup
+New Macbook Pro (or PC if you prefer)
+2x/year company paid team retreat

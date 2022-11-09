@@ -1,0 +1,68 @@
+About the job
+It takes powerful technology to connect our brands and partners with an audience of nearly 900 million. Whether you’re looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or develop algorithms to help us process trillions of data points a day, what you do here will have a huge impact on our business—and the world. Want in?
+
+About Us
+
+Yahoo Ad Tech’s SSP solution is the global partner of choice for leading advertisers, agencies, publishers, and App Developers seeking to maximize the value of their brands. Simply put, we offer advertisers a one-stop-shop for global programmatic solutions to help increase yield through a rich and broad set of platforms, formats, and technologies.
+
+This position supports existing software in the various stacks that comprise the Yahoo Ad Tech SSP ecosystem to accelerate and enhance our client's objectives and goals. We work in a deeply collaborative and highly efficient manner to allow engineers of any level to make a deep, meaningful impact on the product and the business. We are a multidisciplinary team passionate about creating new products, we thrive on innovation and lead by example.
+
+We value:
+
+Inclusivity, open-mindedness, and diversity
+Creative thinkers and innovators
+Self-motivation and drive
+Taking care of ourselves and each other
+Empowering people and providing a forum to voice their ideas
+
+These values are the core of how we believe, work, and interact on a day-to-day basis.
+
+About You
+
+The Yahoo Adtech SSP team is looking for a Software Engineer who is passionate about large-scale, large-user base, system development. We need problem solvers who will proactively find solutions to challenging technical problems. You should be able to work effectively within a team and be effective at collaboration and communication.
+
+
+Your Day
+
+Research, design, implement, and support software for existing and new products. Examples vary widely from time-series data management to pub-sub messaging to services deployment. Analyze and improve scalability, latency, stability, and security in Yahoo’s Ad Tech SSP platform. Design and develop key pieces of our applications' feature-rich cloud-based solution.
+
+Participate in the agile development of project timelines, implementation design specifications, system flow diagrams, documentation, testing, and ongoing support of systems. Recommend modifications to processes and procedures, and contribute to best practices, architecture, and implementations. Promote and solicit ideas within project teams.
+
+Responsibilities:
+
+Build and maintain features in our complex, low latency, performance oriented and highly scalable backend ad serving systems
+Design solutions to software problems, desirable
+Write and test high quality code using Java and related technologies, eg. Spring, Spring Boot, Hibernate, Junit, etc
+Collaborate with product and other technical teams to clarify requirements
+Work with a cross-functional and geographically distributed team of engineers
+Analyze and optimize code to ensure the SSP performs within our customers’ SLA requirements
+Troubleshoot production issues related to the team’s applications
+Effectively manage day-to-day tasks in an Agile process to meet scheduled commitments.
+Write unit tests and specification documents
+Review and provide feedback on others’ code submissions
+Mentor junior engineers
+
+Requirements:
+
+BS/MS in computer science or related field or equivalent experience
+Excellent communication skills
+Familiar with concepts and popular tools for dev ops
+Experience using Git
+3+ years of experience designing and programming Java based applications
+Familiar with software design methods and techniques
+Experience with developing complex, low latency, performance oriented, and highly scalable backend applications
+Ability to design the classes to store hierarchical relation data and traverse through it (eg. data structure & algorithm)
+Ability to think about all test cases and validate the solution on those
+Experience with relational databases and the ability to read and write SQL queries
+Excellent problem-solving skills
+Must have a solid understanding of object oriented programming
+Experience with continuous integration and large scale automated deployment (CI/CD)
+Familiarity with Internet protocols such as HTTP and SSL
+
+Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Yahoo is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form (www.yahooinc.com/careers/contact-us.html) or call 408-336-1409. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.
+
+At Yahoo, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our diversity and inclusion (www.yahooinc.com/diversity/) page to learn more.
+
+US Only: Please be aware that Yahoo requires all employees entering a U.S. Yahoo office and/or attending a company event (including client events) are required to be vaccinated for COVID-19. This position will require the successful candidate to obtain and show proof of a vaccination to enter a U.S. Yahoo office and/or attending a company event (including client events). Yahoo is an equal opportunity employer, and will provide reasonable accommodation to those individuals who are unable to be vaccinated consistent with federal, state, and local law.
+
+Currently work for Yahoo? Please apply on our internal career site.

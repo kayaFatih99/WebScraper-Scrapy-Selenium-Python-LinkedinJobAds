@@ -1,0 +1,49 @@
+About the job
+Waracle is looking for a Lead level Android Developer to join our friendly cross-functional team.
+
+It’s an amazing time to join our team and you’ll be supported by a rapidly growing team of experienced specialists in design research, UX, UI, Scrum, product, data and cyber security, alongside developers specialising in native, hybrid and web technologies.
+
+
+This position will offer a hybrid working pattern with some office presence at the London office, 2 days per week and is open to both permanent and contract candidates.
+
+
+You’ll be passionate about delivering happy customers, and able to communicate clearly to stakeholders, with strong commercial awareness.
+
+
+Responsibilities
+Creating and supporting the development of new mobile applications for Android
+Integration of components and remote systems into the platform
+Software design and documentation
+Optimization, profiling and debugging backend services
+Write unit and integration tests to ensure high-quality code
+Communication with the team to produce optimal results
+Contribute to the continuous improvement of how software is developed, integrated and deployed within the development community
+
+
+
+
+Requirements
+
+Experience developing Android apps using Kotlin, SDK and Java
+Experience working with variable versions of Android and variable screen sizes
+Experience with third-party libraries, API and open-source Android ecosystem.
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Experience leading software development within teams of mixed experience
+FS experience and awareness of security
+Experience with offline storage, threading, and performance tuning
+Extensive experience with practice libraries- Dagger2, RxAndroid, Coroutines, Retrofit
+Solid understanding of the full mobile development life cycle.
+Java testing frameworks such as JUnit, Mockito, etc
+
+Benefits for our people
+Working for Waracle means you are part of an energetic and diverse community of technologists who care deeply about making a difference. We offer a wide range of benefits that support your wellbeing, health, personal and professional development goals. Our benefits package is reviewed regularly to ensure the best experience for everyone.
+
+🏡 Flexible working and a remote-first ethos
+🏖 Holidays – 31 days per year and a day off on your birthday.
+⏰ 35 hour working week
+💸 Company Pension and personal financial advisor
+📈 Free access to 1000s of personal development courses
+🏥 Group Life and Medical Cover
+🍼 Enhanced maternity and paternity leave
+🍎 Macbook and home office set up budget
+Plus many more!

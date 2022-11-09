@@ -1,0 +1,22 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Mindlance, is seeking the following. Apply via Dice today!
+
+Job Description:
+
+Responsible for development, programming, coding of Information Technology solutions using NodeJS to enable Customer Experience applications.
+
+Responsible for documentation of the system, conduct unit tests, peer code reviews and maintenance of internally developed applications, evaluation and performance testing of purchased products.
+
+Responsible for including IT Controls to protect the confidentiality, integrity, as well as availability of the application and data processed or output by the application.
+
+Required Skills:
+
+Server Side Node.JS Development
+
+Candidates should have 5-7 years' overall experience as IT Developer; Node.js, with React, JavaScript back-end integration
+
+Resources must strong back-end developers, server side NodeJS experience, React UI is a plus
+
+Mindlance is an Equal Opportunity Employer and does not discriminate in employment on the basis of – Minority/Gender/Disability/Religion/LGBTQI/Age/Veterans.
+
+provided by Dice

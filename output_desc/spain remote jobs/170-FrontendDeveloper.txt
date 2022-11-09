@@ -1,0 +1,29 @@
+About the job
+About The Role
+
+We’re looking for an experienced frontend developer to help drive and evolve our SaaS product. We are working with the latest industry-standard stack: material-ui, Reach Router, React, Redux, Emotion, D3, etc. For testing, we use React-testing-library, Jest, Puppeteer, and Cypress. You will be an early contributor to the product and will solve attractive technical challenges.
+
+What You’ll Do
+You'll help implement a state-of-the-art web-based management console that’s at the core of our product
+You'll be working on complex and dynamic visualizations
+You'll help improve the user experience together with our UI/UX design team
+You'll be working very closely with the Cyberhaven core development team
+
+Who You Are
+You have 4+ years experience in frontend engineering: coding, testing, debugging, and automating complex TypeScript applications using React
+You possess strong knowledge of the latest frontend libraries
+You love to work with complex visualizations
+You have a good grasp of very basic data structures and algorithms
+You have the ability to learn new technologies quickly and are eager to do so
+You can clearly describe API requirements
+You have experience working with a backend development team
+
+What You Can Count On
+Competitive salary and stock options
+Health benefits – 100% paid for you and your family
+Flexible time off (paid)
+Career advancement opportunities
+
+At Cyberhaven, we've raised over $52M from leading Silicon Valley investors (Vertex, Costanoa and Redpoint). Cyberhaven is also backed by founders, executives, and security leaders who have built transformational technologies at Nutanix, Palo Alto Networks, Facebook, Google, Slack, Akamai, Cloudera, AsterData and others. We have strong demand for our product from the world’s largest companies and we are growing fast.
+
+Cyberhaven is committed to creating a diverse environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

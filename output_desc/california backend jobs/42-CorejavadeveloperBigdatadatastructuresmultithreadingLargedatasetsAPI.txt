@@ -1,0 +1,33 @@
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, SigmaWay, is seeking the following. Apply via Dice today!
+
+Apply by Email/Direct Application at
+
+100% remote role. need someone who is strong in core java, big data skills. Someone that can clear the core java test in testdome
+
+Big Data expertise
+Java (core java, data structures, multi threading)
+Large data sets (Pinterest is 500 million monthly active users)
+Strong education background
+
+Job Description:
+
+Our team
+
+We build large-scale content processing systems that utilize machine learning signals to select the best content quality to distribute to pinners. To scale our systems we leverage Spark, Flink, and low-latency model serving infrastructure.
+
+What will this person do?
+
+Architect and develop systems, data pipelines, tools, and processes for computing and delivering signals capturing quality aspects of content created on Pinterest.
+Collaborate with Machine Learning engineers during conceptualization and productionization of signal
+Work with infrastructure and platform teams to build the right set of tools and APIs to support signal hosting and delivery
+Collaborate with signal consuming teams to facilitate signal adoption
+
+What type of experience do they NEED to have?
+
+5+ years of industry experience
+Expertise in at least one of the generic programming languages (Java or Scala or C++ or Python). Java is highly prefered.
+Expertise in building and debugging scalable backend services and APIs.
+Hands-on experience with large-scale distributed systems (distributed storage systems, stream processing, inference, and deployment at scale).
+Hands-on experience with big data technologies (e.g., Hadoop or Spark or Kafka or Flink) and scalable real-time systems that process stream data
+provided by Dice

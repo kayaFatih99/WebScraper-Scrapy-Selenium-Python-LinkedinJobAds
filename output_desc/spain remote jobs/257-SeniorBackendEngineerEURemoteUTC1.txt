@@ -1,0 +1,92 @@
+About the job
+Total Compensation Value:
+
+$150k - $250k (Salary + equity)
+
+NOTE: Actual offer will vary based on applicant location / cost of living, skillsets, and level of relevant experience
+
+About the company:
+
+Time zones:
+
+Eastern (UTC -05:00) and Central European UTC (+1:00)
+
+Tessera provides ownership of the world’s most sought after NFTs! Working at Tessera, you will be building on the cutting edge of art, finance, and blockchain technology to help shape the future of digital collecting experiences.
+
+You will get to work, learn and grow with an experienced team supported by incredible partnerships and committed investments from developers, collectors, investors, and thought leaders deeply passionate about the decentralization ecosystem.
+
+You can read more from our medium posts here: https://medium.com/fractional-art
+
+About the role:
+
+We are looking for an exceptional backend engineer to join our team and work closely with our CTO and web stack developers to build a scalable backend infrastructure including database schema decisions and API development as we build our product foundation for rapid growth and continued innovation in this exciting space!
+
+Our Evolving Tech Stack
+
+Frontend: HTML, CSS, JS, Vue.js, React.js
+
+Backend: Redis, MySQL, Node.js
+
+Infrastructure: AWS (S3), Cloudfront
+
+Automated testing: Cypress
+
+Web3: Solidity / Ethereum
+
+Integrations: Various APIs, browser-based crypto wallets (e.g., MetaMask) etc.
+
+What to expect
+
+Make a HUGE impact helping to bring ideas to reality as a core member of a lean, passionate, and friendly team
+An entry-point to learn highly valuable, and complex concepts related to art, finance, and technology in a full-time role in an industry growing exponentially, on a team with some of the leading NFT influencers
+Work within a dynamic team, who challenges the status quo and champions agile working plus continuous improvement
+What we’re looking for
+
+Minimum 3 years of professional software development experience in backend engineering and javascript
+Demonstrated interest and experience tinkering in a personal capacity with Web3 areas
+Extensive experience with Git & Github
+Strong knowledge of Node.js
+Experience in working with Express js
+Strong expertise in JavaScript/ES6
+Good understanding of the HTTP stack
+Experience designing, building, extending, and implementing APIs
+Strong experience in MySql, SQL, and writing stored procedures and optimized queries
+Familiarity with cloud services, job queues, message brokers, container technologies and microservice architectures
+Demonstrated ability to take ownership of an area of code
+Fluency with Linux command line tools
+Strong experience with testing (unit, integration, and end-to-end)
+Strong technical and non-technical communication abilities, both verbal and written (English)
+Bonus points for
+
+BS/MS in Computer Science, Computer Engineering, or a related technical field
+Previous experience in a start-up environment
+Familiar with blockchain and working with NFT metadata
+Experience using CI/CD | Continuous Integration / Continuous Deployment systems
+Previous experience in a highly scaled, major tech company
+DevOps / DevSecOps experience
+Experience working with and building structures to extract, transform, and load blockchain transaction data
+Understanding of various DeFi and NFT platforms
+Experience with writing ETL processes
+What we're offering
+
+Competitive salary (and equity) in an exciting space driving disruptive innovation
+The opportunity to accelerate our growing organization
+A remote work environment with competitive benefits and holidays
+Crypto native colleagues that want to change the world!
+7 additional company holidays, including all-company week-long winter break
+Medical, Dental, and Vision Insurance for US-based employees
+Agile working environment with flexible working hours and location, career advancement, and competitive compensation package
+We arrange social activities to help our employees become familiar with each other and our culture
+If you’re convinced you are the right fit and you can’t wait to join our team, we look forward to hearing from you!
+
+I am an experienced engineer but I haven’t professionally worked with Web3, crypto, or DeFi before... should I apply?
+
+Yes! This is a new and growing space. If you are passionate about Web3 from your own personal tinkering learning new things, and are now excited to dive into a new, expanding field, come grow with us!
+
+Once you've applied, please be patient :) we are still establishing our operations so it may take us up to 1-2 weeks to get back to you!
+
+Don’t meet every single requirement?
+
+Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Tessera we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways.
+
+You may be just the right candidate for this or other roles.

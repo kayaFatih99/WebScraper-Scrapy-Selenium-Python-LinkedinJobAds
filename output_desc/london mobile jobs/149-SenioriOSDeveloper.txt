@@ -1,0 +1,22 @@
+About the job
+Senior iOS Developer
+
+Location: Fully remote (UK)
+Salary: Up to £90,000 + 25% bonus
+Type: Permanent
+
+A market-leader in the sports streaming services industry who's platforms are visited by millions of users globally are seeking a Senior iOS Developer to join the growing engineering team responsible for developing, improving and enhancing their platforms based on a highly scalable and secure microservices event-driven architecture.
+
+As a Senior iOS Developer, you will be utilising your experience with Swift to establish yourself as a key member of the iOS team, implementing new features and driving the future vision of the app with a high level of autonomy. You will work closely with the Product Development and Graphics/UI Design teams to translate business requirements and innovative UI design concepts into industry leading client software that will be used by a global user base.
+
+Experience with the following technology required:
+
+Native iOS
+Swift
+Objective-C
+TDD/BDD
+Microservices
+
+This is a super exciting opportunity for a Senior iOS Developer to join an ambitious and increasingly successful global company who really value an excellent working culture, technical excellence and enjoy each others company as well!
+
+**Unfortunately due to high volume of applicants, not everybody will receive a response

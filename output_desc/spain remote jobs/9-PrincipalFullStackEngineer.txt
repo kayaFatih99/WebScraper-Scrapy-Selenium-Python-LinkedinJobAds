@@ -1,0 +1,69 @@
+About the job
+About the role
+
+Principal Engineers in Blexr represent our most Senior Engineering role, and are responsible for owning the overall Engineering direction and shared technical direction of a Product, Platform or Technical domain. Our Principal Engineers may also operate with breadth across the stack (Full Stack), or depth in a very specific area (e.g.: CMS). Within this role, you’ll be responsible for the Technical and Engineering Leadership for a new greenfield product, driving high quality information and recommendations for our customers to ensure they’re making the best decisions possible. This is a greenfield product, so you’ll be heavily involved in shaping the overall technical direction of the product, along with the engineering principles and ways of working. You’ll be responsible for making key decisions defining how each element of the stack will work together - from component library, to APIs, to analytics, to back end storage.
+Blexr very much believes in the Build-Own-Run approach, so you’ll make the decisions that ensure your product not only delivers customer value - but is robust, reliable, observable and scalable and is something the team is prepared to stand behind. You’ll also work closely with our Platform teams - looking for areas where we can find reusability and alignment across Blexr.
+
+Key responsibilities
+Take ownership over the entire stack for your product area - from Infrastructure and Deployment approach to Edge caching, and everything in the middle.
+Be the technical lead for the team in a given product area, whilst remaining hands on and leading the team by example
+Work closely with Product Managers, Designers, Engineers, QA, DevOps to ensure the team is highly cohesive and able to deliver against product outcomes
+Be responsible for the availability and reliability characteristics of your application
+Provide technical leadership for your team - ensuring a high degree of alignment around technical approaches and day to day coaching and support
+Unwavering focus on seamless, continuous delivery - ensuring that time to production is measured in low minutes
+Take a highly data driven approach to your work
+Ensure systems and platforms developed meet expectations for reliability, resiliency, observability.
+Remain hands on - staying close to the technical details of your product and being able to lead through example
+Production of key documentation and artefacts to ensure a common understanding of the engineering characteristics of your product
+Be a champion for your Engineering approach within your tribe and within Blexr
+Note: There may be need for participation in an On-Call rota, depending on the characteristics of the product you build.
+
+About you
+Several years of experience acting as a Full Stack Engineer - with a core focus on delivering content focused, responsive websites to global audiences.
+Excellent understanding of modern front end approaches and frameworks across HTML, CSS, Javascript, Typescript, Next.JS, etc
+Previous experience leading teams that have built websites for global availability, high performance, localisation/internationalisation
+Solid understanding of core HTTP principles and headers, from Cross domain policies to Cache control headers
+Extensive experience working in fully automated CI/CD environments
+Strong understanding and application of TDD principles across the stack, from unit to acceptance testing, and associated frameworks
+Highly pragmatic and delivery focused - you enjoy nothing more than seeing multiple releases roll out to customers every day - but also know when to slow down to speed up
+Reasonable understanding of data privacy and data security challenges - and how to apply solutions for these in your solution from day one.
+Highly opinionated (but open minded!) on what best practice looks like - and keen to align those around you on this
+Solid understanding of API design and engineering, predominately using RESTful approaches, but also emerging approaches such as GraphQL
+Strong communicator - both written and verbal, who appreciates the beauty of great diagram and loves the art of storytelling - particularly to non-technical audiences
+Experience working with modern architectural approaches such as microservices / micro-frontends / reusable component libraries
+Experience with a range of content management platforms - predominately on headless systems (e.g.: Strapi / Contentful / etc)
+Occasional travel to London and Malta depending on the needs of your team and your project.
+
+Desirable
+Experience with, and working knowledge of other languages, including Python, PHP and SQL
+Experience with delivering capabilities at the edge
+Experience working in referral/affiliate marketing websites, or comparison websites
+Experience building experimentation into your stack from day one (e.g.: Blue/Green, A/B, MVT, etc)
+Experience working on global websites that are localised to different regions
+Experience building with AWS services (including with basic certification) a distinct advantage
+
+The technology stack
+Here’s a slice of what we’re using for this product at Blexr:
+GitLab, with CI/CD
+AWS - with full ownership and access for Product Development Teams. Pick your tools and build great things.
+Docker - With deployment using common orchestration tools such as Fargate
+Next.js/React
+Node.js
+Cloudflare
+A range of CMS platforms (some of which you’ll be involved in choosing)
+ELK
+Notion
+Redshift, Airflow and Tableau for Data/BI
+… and whatever you’d like to bring to the table. Our technology approach is adaptable and focused on using the right technology that has the right impact for our customers.
+
+Benefits working at Blexr
+Company pension contributions (e.g. you give 8%, we give 10% up to a maximum)
+Personal Gym & Wellbeing Budget*
+Personal Training and development Budget*
+Health insurance for you and option for your family
+Remote first with option for remote working space
+Hardware of choice*
+Home-working set up budget
+
+We love all people, from all areas of society. This means Blexr is committed to providing equal employment opportunities to people of every race, religion or belief and ethnic origin, regardless of age, disability, sexual orientation, or gender identity. We don’t care where you’re from or who you love, we just want you to do your best work with us, so that together we can make things #betterwithblexr
+If you need reasonable adjustments at any point in the application or interview process, please let us know. We explain how we’ll handle your personal information in our privacy policy.

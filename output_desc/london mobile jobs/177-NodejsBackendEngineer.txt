@@ -1,0 +1,31 @@
+About the job
+Node.js Backend Engineer
+Mid-Level Backend Engineer
+Fully Remote
+£60,000 - £70,000.
+Are you a strong Backend Developer who is assured in there Node.js fundamentals? Would you like contribute to being part of a dynamic team responsible for building a globally recognised NFT Platform? If so, this fully remote opportunity will be tailer made for you. You will be a part of the development team that is intrusted with building new features for the current platforms including a unique blockchain platform for one of their digital games. This is suited to a candidate who has a passion for using cutting edge technology while working in conjunction with the wider teams to help design and mould the direction the platform moves in. Primarily the candidate will be strong within there Node.js fundamentals along with Typescript and AWS to which the microservices run on within the cloud features, testing is also hugely important so you must be comfortable reviewing colleagues code along with having yours reviewed.
+The Mid-Level Backend Engineer will have the following responsibilities:
+Position Requirements
+Utilise Node.js, Typescript and AWS in your daily activities.
+Monitor, maintain and scale the microservices within current production.
+Contribute towards the improvement & performance of the companies Gitlab set up to allow the release of high-quality software in a regular basis.
+Contribute towards the manual testing within the company along with the further development of the growing use of automated testing.
+Work in conjunction with the front-end team with a willingness to learn and be hands on with the aim of developing a fullstack skillset.
+The Mid-Level Backend Engineer will have the following experience:
+Essential
+3+ years within backend development (Node.js, Typescript, API Design)
+Strong hands-on AWS experience within Lambda & API gateways.
+Depth of knowledge with container platforms such as Kubernetes and Docker.
+Practical experience with Git-based repositories & Terraform.
+Experience using PostgreSQL.
+Strong verbal & written skills.
+At home working as part of an Agile team along.
+Comfortable testing code while partaking in paired programming/code review sessions.
+Knowledge of either Kubernetes, Python or Machine Learning.
+The Mid-Level Backend Engineer role comes with perks such as:
+Perks
+Private Medical Insurance.
+Generous pension contribution.
+Further training and experience within the blockchain industry.
+Please note that this Role does not offer Visa Sponsorship.
+If you think you are the candidate for this role and wish to find out more, please contact me via 07458160949 or email me at jack.broughton@exploreltd.com

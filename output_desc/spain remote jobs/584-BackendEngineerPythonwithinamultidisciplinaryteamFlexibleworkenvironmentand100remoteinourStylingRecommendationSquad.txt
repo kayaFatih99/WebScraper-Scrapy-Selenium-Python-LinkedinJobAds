@@ -1,0 +1,66 @@
+About the job
+Do you want to work in a position where you will see the impact of your work from the very beginning and you will be mentoring and helping the product teams to adopt and implement tools?
+
+Do you want to organise your schedule according to your needs and work with a 🔝 technical team to build tools and a scalable architecture?
+
+
+Why would you like to join us?
+
+🔝🔟The best place to develop your talent. Linkedin has considered Lookiero among the TOP 10 young Startups that are arousing the most interest and attracting the best technology professionals in Spain.
+📰https://www.linkedin.com/pulse/linkedin-top-startups-2022-las-10-empresas-emergentes-/?trackingId=DZKq8cSnesTGm4qqVqeH7A%3D%3D
+
+👫 We are a team. Everyone will help you to overcome your personal and professional challenges. In your team, you will find true team players, and we look for the same in you. You will find a really good atmosphere and a very good vibe.
+
+🤩 Professional development. You will have an individualized career plan, with 1:1 sessions with your manager in order to achieve all your goals. The most important thing is you. We believe in the talent of people and boosting it in the best way.
+
+🌍100% remote (Spain) and totally flexible working hours. If working from Bilbao is too far away for you, that's OK! You can work from wherever and whenever you want.
+
+💼 You will have a direct impact on the business. Your challenge will be to find solutions to problems and you will even have the freedom to propose new projects and initiatives with a direct impact on your day to-day in Lookiero.
+
+💻 You are a #ProductLover and share, like us, your passion for working on our product.
+
+🙅 Once agile, always agile. You will use agile methodologies. We set achievable, measurable objectives that you can set yourself with some flexibility.
+
+🤠 Transparency is part of our culture and is a "must" at Lookiero. Once a month we all meet with Oier, our CEO, to know all the insights of the month.
+
+
+What will make you succeed✌️in your role? Skills, know-how and experience
+
+To feel comfortable in the project, you should ideally have at least 5 years of real, hands-on experience in Python-based ecosystems ideally with hexagonal, DDD or event driven architecture. We make use of Databricks as the unified ecosystem for our data, so having knowledge of technologies such as Spark (PySpark or others) or Pandas is appreciated.
+You are able to work with multiple teams: internal and external team members, clients and providers.
+You are not afraid of technical challenges, in fact, you are hunger for the impossible. You thrive on coding.
+You are passionate about new technologies and problems to solve. You’re ready to offer fresh ideas.
+You’re enthusiastic, self-motivated, proactive, self-sufficient, but also team-oriented.
+It is important that you can learn, understand, and develop great practices aligned with our technical challenges.
+We are an international company, so the ability to read and write in English is welcome.
+
+
+Your mission 😇 in the role will be:
+
+You will work on the deepest part of the products in an autonomous and multidisciplinary product team to provide solutions according to the business needs.
+You will work on Python-based ecosystems with ideally hexagonal, DDD and event driven architecture.
+You will use our data platform to build high-performance, highly scalable data pipelines, and connect with data algorithms implementations to provide the best buying experience to our customers. (pySpark, Delta Lake, MLFlow)
+You will work together with the product manager and technical lead to guarantee the technical feasibility of the proposals.
+You will ensure that the solutions you work on are scalable, maintainable and accessible.
+You will contribute to the quality of the products developed through testing: unitary, integration, contract-testing, e2e, etc.
+
+
+After applying, what will the process be like?
+
+📲 Firstly, you will start with an Initial Interview with the Talent Team.
+⌨ Then, you will continue performing the technical assessment.
+🤸 You will always get complete feedback about your performance.
+👔 If the feedback is positive, you will have a technical interview with the hiring manager and a colleague.
+📖 Last but not least, the final stage will be an offer.
+
+
+A sneak peek of our culture
+🤔 Think Big. Act Fast
+🚀 Take ownership. Drive Results
+💯 We say things the way they are
+🌍 Many voices. One Team
+💥 It's possible
+
+We have grown rapidly since our launch in 2016 and are continuing to grow quickly! We now operate in 10 countries with a super talented team of +600 across our 4 offices in Bilbao (HQ), Paris, Milan and Berlin, but with a remote culture and work-life balance.🌍
+
+If you want to be a key team player, see the impact of your work and are excited to get to know more about us and the role just APPLY 🔜

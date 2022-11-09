@@ -1,0 +1,31 @@
+About the job
+We are seeking a Full-Stack Developer to join our team and help build and scale enterprise applications built on EW-DOS. On any given day you might find yourself working with grid operators to integrate legacy IT systems and energy assets using Switchboard, working with EW delivery partners to scale de-centralized messaging services across multiple geographies and cloud environments, or making strategic decisions about the broader EW-DOS technical roadmap.
+
+What will you do?
+You’ll support the development of EW-DOS, an open-source software stack to create the digital infrastructure to de-carbonize the grid. Initially you will join the Greenproofs team and focus on developing an open data management and messaging system to allow communication between various actors across the Energy Web ecosystem. For more information on our stack, check out our GitHub at the link below:
+
+https://energy-web-foundation.gitbook.io/energy-web/
+
+What are your responsibilities?
+Working with the Solution Architect and rest of the core team to deliver the Greenproofs implementation with multiple enterprise project partners.
+Maintaining technical documentation in GitHub and Confluence.
+Working with the Solution Owner to create tutorials and demonstrations that allow other developers to easily use / interact with the open-source components you develop.
+Proposing and implementing improvements to existing EW-DOS technology stack.
+
+You are a strong candidate if:
+You have 2+ years of commercial backend development experience with NodeJS / NestJS, including injection scoping, object-relational mapping (e.g. TypeORM), and microservices (transports, queues, etc.).
+You have 2+ years of front-end development experience with Angular or React, including components, directives, services, guards, and interceptors.
+You are experienced with general development concepts like facade pattern and state management, as well as standards like NPM and node modules, Web APIs, Authentication & Authorization (e.g. JSON web tokens).
+You have experience working with messaging systems (like NATS, RabbitMQ, MSMQ…) and understand concepts like concurrency and transaction management.
+You are proficient in establishing and managing relational and/or NoSQL databases (e.g. PostgreSQL, MongoDB).
+You are comfortable with HTML and CSS/SCSS.
+You are comfortable working in an agile setting like SCRUM, Kanban, XP.
+You are proficient in writing scalable, robust, testable, efficient, and easily maintainable code.
+You are excited about open-source software projects and participate in their communities. Extra points if you have experience developing SDK libraries.
+You have a keen interest and/or direct experience with blockchain and other Web3.0 technologies, especially Ethereum, Solidity, smart contracts and/or Polkadot/Substrate.
+You have an entrepreneurial spirit! We need people who are curious, creative, collaborative, and who enjoy building things from the ground up.
+English skills are required, but additional language skills are a bonus!
+
+Location, travel, and timeline: The preferred location for the Full-Stack Developer is one of EW's office hubs in Europe (Berlin, Amsterdam, Zug) or Remote within CET Timezone.
+
+Reporting: This position will work with the GreenProofs Team and report to the regional Solution Architect.

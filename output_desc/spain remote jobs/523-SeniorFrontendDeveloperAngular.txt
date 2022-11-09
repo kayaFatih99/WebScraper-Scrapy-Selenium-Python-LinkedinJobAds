@@ -1,0 +1,32 @@
+About the job
+Unimedia Technology is looking for a talented developer to work in an exciting international project.
+
+You will be working with a highly skilled Music Royalties team on one of the biggest challenges in the music industry - making sure songwriters get paid fairly.
+
+The candidate must have recent Angular experience and strong front end web background, with expertize in HTML5, ES6, rxjs and NgRx.
+
+If you consider yourself a fullstack with Java even better as you'll be able to use and expand your skills working in a trully international setting.
+
+Must have
+Angular 2+
+rxjs and RxJs
+Strong understanding of REST and APIs
+Experience in HTML5, flex layouts, CSS
+Keen to learn new languages and technologies.
+Good spoken english
+
+Nice to have
+Fullstack experience (JAVA)
+UI/UX Design knowledge
+AWS Experience
+
+We offer
+Flexible working hours.
+Remote work
+International project experience.
+Great team and working environment.
+AWS echosystem
+
+Salary Range
+Depending on experience: 45 - 55K EUR / year
+In case of freelancers: 30 - 40 EUR/hr

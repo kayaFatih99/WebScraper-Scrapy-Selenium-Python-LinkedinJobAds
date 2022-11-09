@@ -1,0 +1,54 @@
+About the job
+On behalf of e.fundamentals, Ciklum is looking for a Middle JavaScript (Node.js) Developer to join our team full-time in Spain.
+We are a leading global product engineering and digital services company that unites 4000+ seasoned professionals globally on various projects in healthcare, fintech, travel, sportswear, entertainment, and security. Ciklum delivers high-impact technology solutions to Fortune 500 and fast-growing organisations worldwide.
+
+About the role:
+As a Middle JavaScript (Node.js) Developer, become a part of a cross-functional development team working for the e.fundamentals. We're looking for a can-do spirited team member to work with the Squad Lead to help onboard new retailers around the world and help to improve and world class operational development experience.
+
+About the Client:
+e.fundamentals develops an eCommerce analytics platform, built on GCP, that allows a growing number of world class manufacturers to increase their sales across all online channels. They help big names like Kellogg's, PepsiCo and Mars achieve outstanding results.
+The e.fundamentals platform is built on a modern tech stack, which we evolve to make sure we’re using the best tool for the job:
+The data acquisition platform is built with Java, NodeJS and Typescript
+Neo4J, ElasticSearch and MySQL are our primary databases
+We use Google Big Query for our Data Warehouse
+We use Looker for BI Visualisations
+The e.fundamentals service is built with React and NodeJS
+Everything runs on Google Cloud Platform deployed with Kubernetes
+You will join the Data Acquisition Squad with a mission to gather, enrich and make useful the vast quantities of data that power every e.fundamentals product. It currently gathers over 4 million pages per day from around 500 retailers around the world. The Data Acquisition Squad build, maintain and evolve the in-house Data Acquisition platform.
+
+Responsibilities:
+Analyse bot and anti-bot systems and how they detect robots
+Build and improve our anti-antibot system and captcha-solving algorithms
+Create and monitor our custom data acquisition platform adding new metrics for observability and alerting
+Be able to think outside the box to solve hard difficult to replicate data challenges
+Have a passion for technology and are constantly learning
+
+Requirements:
+Strong understanding of web technologies: HTML, DOM, HTTP, and CSS
+A talent for coding with strong skills in JavaScript (Nodejs/Typescript)
+Experience crawling or analysing webpages
+Experience consuming data from and creating Restful API’s
+A test first mentality
+A solid grounding in the understanding of agile software development
+
+Desirable:
+Experience with Web Scraping and associated challenges: anonymization, captcha solving, and fingerprinting
+Cloud technology, especially Google Cloud Platform
+System Networking and Web Traffic
+Data analysis and SQL skills
+
+What's in it for you?
+A dynamic and highly motivated international team of skilled and experienced professionals
+Unique working environment where you communicate and work directly with client
+Continuous learning/development opportunities and progressive career paths
+Competitive salary
+Flexible working hours
+
+About us:
+Join a well-established company and a friendly team of professionals.
+Seize the perks of global opportunities, local atmosphere and industry-leading clients.
+We can’t wait to get to know you!
+
+Be bold, not bored!
+
+Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.

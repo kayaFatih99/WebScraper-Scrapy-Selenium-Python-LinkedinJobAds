@@ -1,0 +1,27 @@
+About the job
+Part of the Capgemini Group, Sogeti operates in more than 100 locations globally. Working closely with clients and partners to take full advantage of the opportunities of technology, Sogeti combines agility and speed of implementation to tailor innovative future-focused solutions in Digital Assurance and Testing, Cloud and Cybersecurity, all fueled by AI and automation.
+
+As a Leader, you will start ramp-up of full stack developer, you will help to deliver scalable, high-quality front and back-end business applications. Our tech stack is composed, but not limited to: Amazon Solutions (Redshift, EKS, CloudWatch), Node.js, Vue.js, TypeScript, MongoDB, Cypress.
+
+In your day-to-day:
+
+· You will be responsible for the development of new ideas and helping expand the range of services.
+· We look for excellence and continuous adoption of cutting-edge technology in everything we do.
+· We release several times a day, which drives each developer to have strong commitment, and ability to follow, DevOps processes and personally own the quality of each activity through the release of the feature.
+· We work under an agile philosophy, so we are always ready to respond to new demands from the market or from our customers.
+
+What are we looking for in a candidate?
+· Experience with a public cloud environment and deployment, prefer AWS.
+· Non-relational databases is mandatory, prefer MongoDB which is a great advantage.
+· Node.js back-end JavaScript runtime environment.
+· TypeScript.
+· Express.js and nestJS.
+· Vue.js front end JavaScript framework.
+· Test Framework: Jest as JavaScript framework testing and/or mocha.
+· Excellent English verbal and written communication skills.
+
+What do we offer?
+
+· An attractive benefit package: Health and life insurance, restaurant vouchers and restaurant tickets.
+· Access to a personalized training and certification programmes.
+· The opportunity to work with one of our main clients, a leader company in the printing sector

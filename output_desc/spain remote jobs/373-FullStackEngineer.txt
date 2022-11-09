@@ -1,0 +1,40 @@
+About the job
+Fullstack Engineer (Remote)
+
+Docker is a remote first company with employees across Europe and the Americas. This means we value transparency and asynchronous communication, but also understand that meeting in person is important. We are looking for a new full-stack engineer to join our Europe-based development team. This engineer will work on the UI and the back end for Docker Desktop and other products. Every day, several million developers build their own software using Docker Desktop. Therefore this is an excellent opportunity to work on software for developers like you, with a huge market impact. You should be passionate about how developers’ lives could be made easier, and about Docker’s part in that.
+
+As a fullstack engineer at Docker you'll collaborate with both Product Management and UX Designers to iteratively design and develop both web and desktop applications. You'll be building JavaScript applications using modern technologies such as React, Redux and Electron. You’ll also be working on the desktop backend components for both Windows and Mac, written mainly in Go with some C# and Swift.
+
+Responsibilities:
+Develop our new products
+Enhance and maintain our existing products
+Interact with other teams within Docker, as well as with upstream communities and our users
+Qualifications:
+
+Experience as a fullstack software engineer
+Knowledge of modern JavaScript and its fundamentals, as well as JavaScript frameworks such as React
+Strong understanding of web technologies like HTML and CSS
+Experience with a server side language. We use a mixture of Go, C# and Swift, but it’s fine if your experience so far is in another language.
+Experience developing desktop applications would be an advantage, but is not essential
+Proven ability to learn new technologies
+Always using good software engineering practices such as code review, source control, continuous integration and automated testing
+Ability to work in a team with other developers, with UX Designers, and with Product Management
+Ability to interact with our users and customers in a way that brings credit to Docker
+Perks:
+
+Autonomy, freedom & flexibility; we trust you to get your work done
+Variety of virtual and in-person social events to build connections and have fun
+Home office setup; we want you comfortable while you work
+Generous maternity and parental leave
+Technology stipend equivalent to $100 net/month
+PTO plan that encourages you to take time to do the things you enjoy
+Docker swag
+Medical benefits, retirement and holidays vary by country
+Whaleness Days: an additional companywide day off each month
+
+Docker embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our company will be.
+
+
+
+
+#LI-REMOTE

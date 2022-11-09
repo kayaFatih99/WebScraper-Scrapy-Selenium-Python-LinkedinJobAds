@@ -1,0 +1,23 @@
+About the job
+We are currently looking for a Senior BackEnd Developer for one of our clients, who would like to work on a complex infrastructure in a company with one-of-a-kind software solution.
+
+Your daily bread would be:
+Developing unique platform and libraries
+Improving codebase and its capability
+Designing, building, testing and maintaining the highest code standards
+Fixing bugs
+Apply changes to production
+Constructing the ecosystem and making contributions to open-source projects
+
+What would you need:
+4 years of experience as a Backend or Full-stack developer
+Experience with TypeScript and Node.js
+Communicative English
+Be comfortable with L3 support in a full remote team
+Have your own ideas
+Be able to visit one of the offices once a week (offices in Brno, London, Miami)
+
+Benefits:
+Ability to work from anywhere
+Flexible hours
+25 days off

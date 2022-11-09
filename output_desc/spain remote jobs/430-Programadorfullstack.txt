@@ -1,0 +1,14 @@
+About the job
+Programador con experiencia en Visual Studio, C#, y/o Android Studio
+
+Responsabilidades
+Empresa TIC de desarrollo de software, con ubicación en Valladolid, busca programador con experiencia demostrable en Visual Studio, C# y/o Android Studio, para incorporación inmediata.
+
+No es necesario residir en una zona concreta ya que se trabajará en modalidad de teletrabajo.
+
+Empresa con agradable ambiente laboral. Se trabajará con jornada partida dos días a la semana y jornada intensiva tres días a la semana, durante todo al año.
+
+Se ofrece contrato indefinido en modalidad de teletrabajo para mantener y continuar con el desarrollo de un Sistema ERP de escritorio que está en C#, y que en estos momentos se encuentra al 85% de desarrollo. El sistema ERP conecta con dos APP desarrolladas con Android Studio de las cuales una de ellas está finalizada pero no comprobada y la otra está a un 50% de desarrollo
+
+Requisitos
+Imprescindible experiencia en C#. Se valorará muy positivamente Android Studio

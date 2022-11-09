@@ -1,0 +1,52 @@
+About the job
+FutuRS es la empresa tecnológica del Grupo Ribera Salud y parte de Centene Corporation. FutuRS es un nuevo concepto de asistencia sanitaria en el que fusionamos la visión clínica y la tecnología para dar una respuesta óptima e integral a las necesidades de las personas.
+
+En este proyecto internacional, trabajamos mano a mano con nuestros compañeros de Centene Corporation para desarrollar y optimizar la herramienta Trucare Cloud (TCC).
+
+TruCareCloud es una plataforma de gestión de salud de la población bajo el concepto de Human Centered Design que permite gestionar de forma eficaz a sus miembros, para mejorar los resultados y reducir los costes.
+TruCare proporciona una vista longitudinal de 360 grados para cada miembro, permite a los equipos colaborar, mejora la productividad y garantiza el cumplimiento de la obligación regulatoria.
+
+¿Quieres conocer más sobre la plataforma y el quipo?
+La arquitectura del proyecto se basa en Microservicios escritos en Nodejs.
+La arquitectura de integración dirigida por eventos se basa en Apache Kafka.
+Se utiliza MongoDB como almacén de datos.
+La arquitectura del front-end se basa en Microfront-end desarrollados en la última versión de Angular.
+Desde el inicio del proyecto se aplica metodología Scrum para dar un valor diferencial al producto, con más de 30 equipos en más de 5 países.
+Los equipos son multifuncionales y tienen autonomía para desarrollar su parte de producto.
+
+Buscamos contratar un Desarrollador Back End con NodeJS como tecnología principal, que tenga experiencia demostrable en proyectos de dimensiones y/o arquitecturas similares, que asuma los retos tecnológicos que se proponen, en un entorno de trabajo colaborativo y motivador.
+
+Funciones:
+Aportar valor al desarrollo del producto, entendimiento de la estructura y avance en las mejoras.
+Garantizar la calidad del código desarrollado.
+Interacción técnica con los miembros del equipo para alinear los esfuerzos, asegurar la correcta funcionalidad de la aplicación y resolver cualquier problema.
+Ejecutar procedimientos de prueba sobre el código desarrollado.
+Contribuir a los procesos de mejora continua en el desarrollo de requerimientos definidos por el Product Owner.
+Trabajamos con una metodología Scrum: backlog grooming, scrum diario, planificación y revisión de sprints, retrospectiva.
+
+¿Qué ofrecemos?
+Salario acorde a la experiencia y méritos del candidato
+Formación y actualización tecnológica continua.
+Desarrollo profesional y personal.
+Plan de compensación flexible (seguro médico, tarjetas de restaurante y transporte, cheques guardería)
+
+¿Qué significa formar parte de FutuRS?
+Entrar en una empresa internacional con un gran ambiente de trabajo.
+Trabajar en una organización con tecnologías punteras y en constante evolución.
+Formar parte de un proyecto sólido donde las personas cuentan.
+Asumir retos y apostar por tu carrera profesional.
+
+Requisitos mínimos.
+Licenciatura o máster, en Informática o disciplina similar. <- experiencia equivalente
++5 años de experiencia con lenguaje informático (ej. NodeJS, y/o Java).
+Nivel alto de inglés.
+
+Tecnologías:
+Nodejs
+Java
+MongoDB
+Kafka
+Docker
+Kubernetes
+JWT
+Jest

@@ -1,0 +1,41 @@
+About the job
+Fans love Midnite because of all the epic ways to win. Unlike the alternatives, Midnite doesn’t feel like a website built 20 years ago. Our customers use our world-class sports, esports, and game wagering platform to interact with the games they care about. As an Android developer in the Engineering department, you will be responsible for building our very first Android app from the ground up.
+
+You will:
+Build and Release our first Android App!
+Conceptualise, develop and deploy new features
+Work side by side with designers and engineers in a multi-team environment, where we ship multiple times a week
+Ensure code integrity with a constantly evolving codebase
+Advocate for Android best practices
+
+Requirements
+
+You have: (Not hard requirements - If you’re not sure, please apply!)
+Experience with Android development tools like Android Studio
+Knowledge of the Android SDK and AndroidX
+Experience working in a cross-functional team
+Kotlin and/or Java experience
+A product mindset: you care about users and you want to make data-informed decisions
+A passion for turning excellent design into beautiful products
+
+Bonus Points:
+You have experience building a production app from inception
+You are gamer, esports or sports fan at heart!
+You have experience with cross functional teams
+You take pride in readable, well-designed, well-tested software
+
+Benefits
+A ground-floor role in which you’ll be integral to our company culture and help shape the direction. You’ll be part of a growing community of Midnite employees, partners, investors, and advisors, all focused on our common goal. We love to do things together with regular company-wide meetups, games night, and team retreats.
+Grab a piece of the pie. We offer competitive equity packages, from performance-based stock grants to Employee Stock Purchase Plans that allow teammates across the globe to feel like they own the place.
+Comprehensive Health insurance via Vitality so you can stay healthy.
+25+ paid holidays and use-what-you-need sick days.
+Paid maternity, paternity, and adoption leave.
+Flexible long-term work options (remote and hybrid).
+Generous stipends for headphones and your remote work setup.
+Our team combines years of experience building world-class betting technology with deep esports and sports domain expertise. We are as intentional about building a durable company and inclusive culture as we are about perfecting our product, and are serious about flexible work and professional development.
+
+About Us
+
+Midnite is a next-generation betting platform that is built for today’s fandom. We are a collective of engineers, quants, designers, and marketers who all share a passion for esports, sports, and gaming. We exist to bring fans together and enhance their interactions with their favourite games through the rush of winning money. Whether you want to back your favourite football team or put some money down to win your next game in Call of Duty, Midnite lets you get some skin in the game. Designed and built from the ground up with the newest technologies, we made Midnite for all levels of fandom. Making Midnite intuitive, immersive, and immediately understandable is hard work. But we believe that by keeping this our north star, we can make something truly awesome.
+
+We are backed by some of the world’s top investors that have brought you companies like Draftkings, Betfair, Revolut, Just Eat, and many more. With a central hub in London, we are a remote-first team spread out across the world all working together to shape a new era in wagering. Join us and become part of a passionate group of builders who are obsessed with crafting exceptional products for fans all over the world. We'd love your help.

@@ -1,0 +1,23 @@
+About the job
+We are recruiting multiple Software Engineering positions on behalf of our client; a well-funded fintech who are looking to take their market-leading platform and scale.
+
+With over 100 employees, they are currently valued at over £80m and are among the UK’s fastest growing tech companies and they are looking to scale!
+
+Not another fintech??????? Yes, but this is fintech with a difference. They are not a bank so they are able to be much more flexible and with their purpose-driven business and they have had a substantial positive impact on the current housing crisis we are currently facing.
+
+They are large enough to provide a stable environment with a complex and technically challenging product (they process millions of transactions daily), but small enough for you to have a huge impact. Their tech team is small with
+
+From a tech perspective, the team are working with TypeScript (Backend + Frontend), React, PostgreSQL, AWS, Terraform, Docker.
+
+We are looking for Software Engineers to join the team to support with a digital transformation and help build the foundations to scale upon. They have a huge focus on code quality, development best practices (SOLID principles) and they want opinions!
+
+Why should you be interested?
+
+👉 You can be part of the core Engineering team and have a huge impact.
+👉 Join an £80m valued fintech at the ground level.
+👉 Ability to bring your experience and ideas into a team completely open-minded and ready for change.
+👉 Fully remote role (with quarterly events in the Manchester HQ).
+👉 Huge visibility on both tech and product.
+👉 Working daily with complex financial systems.
+👉 25 days holiday, rising to 27 plus statutory bank/public holidays + Birthday leave
+👉 Private medical insurance

@@ -1,0 +1,32 @@
+About the job
+Nisum is a leading global digital commerce firm headquartered in California, with services spanning digital strategy and transformation, insights and analytics, blockchain, business agility, and custom software development. Founded in 2000 with the customer-centric motto “ Building Success Together® ,” Nisum has grown to over 1,800 professionals across the United States, Chile,Colombia, India, Pakistan and Canada. A preferred advisor to leading Fortune 500 brands, Nisum enables clients to achieve direct business growth by building the advanced technology they need to reach end customers in today’s world, with immersive and seamless experiences across digital and physical channels.
+
+What You'll Do
+Become an essential part of a cross-functional team of accomplished engineers and architects
+Build software tools to empower our teams
+Help push the development of the engineering department as a whole forward
+Help lead the continued development of our overall platform
+Participate in architecture discussions with engineers from every team author, review, and approve technical designs
+Mastery of domain programming language
+Engineer extensible solutions with the team in mind and can fix complex bugs
+Review code to ensure it is functionally correct and consistent with the technical design
+Accountable for domain dependencies and critical paths
+Solve technical problems using cutting-edge technologies and best practices.
+Ensure all aspects of the technical design are correctly incorporated
+Contribute technical expertise to all projects as required
+Contribute to research and implementation POC’s as required.
+What You Know
+Strong in Object Oriented concepts.
+Knowledge of HTML and CSS is required.
+Experience in ReactJS UI framework is required.
+Extensive experience in UI layout and design.
+Education
+Bachelor’s degree in Computer Science, Information Systems, Engineering, Computer Applications, or related field.
+Benefits
+In addition to competitive salaries and benefits packages, Nisum US offers its employees some unique and fun extras:
+Professional Development - We offer in-house technical training and professional learning programs aimed at developing skills across a broad spectrum of topics such as technology, leadership, role-based training, and process expertise. We also offer an annual stipend for employees to attend external courses in order to maintain professional certifications
+Health & Wellness Benefits - We believe that your health and welfare are important, and we strive to ensure that you have affordable options available to you, including some plans that are subsidized for employees and their families up to 90%. We also have dental and vision plans in the US where Nisum pays 100% of premiums for employees
+Volunteerism Pay - We believe in giving back and in the US, our employees are eligible for up to 40 hours of paid time off each year to volunteer for the causes that they are most passionate about. This is in addition to personal PTO and paid holidays
+Additional Benefits - We offer all the other important benefits to keep employees and their families healthy and financially secure, such as 401(k) retirement savings with a company match, pre-tax parking and transit programs, disability insurance, and Basic Life/AD&D, alongside exclusive employee discounts on a wide variety of products and services
+
+Nisum is an Equal Opportunity Employer and we are proud of our ongoing efforts to foster diversity and inclusion in the workplace.

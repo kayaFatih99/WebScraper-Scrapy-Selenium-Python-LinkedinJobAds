@@ -1,0 +1,36 @@
+About the job
+Automation Engineer (JavaScript)
+JOB DESCRIPTION
+Participate in developing and documenting User Stories by providing the test strategy and automation estimates
+Develop, document, and maintain the test strategy and test scenarios
+Build and execute unit, component, acceptance, integration, load, security, scalability, usability, and platform tests
+Conducts code reviews to ensure consistency, quality, and reusability of test automation artifacts
+Partner with the developers to ensure all areas of the application are fully tested and to find technical solutions for test automation
+Build and manage automated test suites and ensure execution through various environments, CI-CD pipelines and to be used by NOC teams.
+Regularly execute, maintain and upkeep automated test suites and analyze the results to identify the cause for failures.
+Create defects for issues found with appropriate details and ensure issues are resolved, including validation of the fix, and required automation updates
+Present appropriate results to sign off on software functionality for new Production releases
+Work with cross teams and release management team to manage dev, QA, and production release of the software
+Perform exploratory testing to understand the feature and how it is implemented, to find additional or unexpected behavior, and to refine and define additional test cases for the feature
+Contribute to the QA automation framework using industry standard tools and approaches
+Leverage and enhance coding standards and best practices for automated QA code
+Participate in analyzing Major Incidents and Emergency Change controls to identify opportunities to automate software quality test cases to reduce or eliminate those
+
+QUALIFICATIONS
+Bachelor's degree in computer science or equivalent experience.
+Minimum 7 years of industry experience, preferably in an Agile development environment.
+Must have 5+ years of JavaScript experience.
+Experience with automated testing tools - Cucumber/Gherkin, Selenium Webdriver, Webdriver IO
+Knowledge working with CI/CD processes and tools - preferably Jenkins/JenkinsX.
+MUST HAVE Experience with source control versioning tools and processes – Git / Stash.
+NICE TO HAVE – experience with querying Couchbase database.
+Experience working with databases and various data formats and related technologies for testing. SQL Server and SQL Server Management Studio is a plus
+Nice to have - Experience with Splunk analytics for validating technical fixes and updates in the app code/config.
+Experience with defect tracking tools (JIRA)
+Experience in manual testing.
+POS system experience is a plus
+Nice to have experience with payment gateways and payment terminals
+Nice to have experience with Kubernetes and container-based application deployment and operations
+Ability to work independently with an aptitude for detailed work and follow-up activities.
+Ability to multitask in a fast-paced agile work environment.
+Experience in heavy traffic eCommerce applications is a plus

@@ -1,0 +1,26 @@
+About the job
+Job Description
+
+Zachary Piper Solutions is actively seeking a TS/SCI Java Software Developer to support a large government contractor on their Satellite Systems Division located in Seal Beach, California.
+
+Responsibilities For The Java Software Developer
+
+Develop and maintain requirements, architectures, algorithms, interfaces, and designs for software systems.
+Write software code and integrate completed software components into the back end of a fully functional software system.
+Perform software development in the agile methodology utilizing a DevSecOps environment where you will support continuous improvement.
+Build software test procedures and environments, execute the tests and document results to ensure software system requirements are met.
+Support the presentation of progress demonstrations to customer representatives and satellite program leadership.
+Participate in software and algorithm design, development, and integration efforts.
+
+Qualifications For The Java Software Developer
+
+MUST HAVE Bachelor’s, Master’s or Doctorate degree from an accredited course of study, in Computer Engineering, Software Engineering, Computer Science or another related field.
+MUST HAVE 7 or more years of experience with the Java software language.
+Software development experience in a collaborative team environment using agile principles and a structured development process including code reviews and DevOps processes/tools.
+Experience using team collaboration tools including Git, JIRA, Confluence, Artifactory, etc.
+MUST HAVE Active U.S. Top Secret/SCI or a TS/SCI CI Polygraph Security Clearance
+
+Compensation For The Java Software Developer
+
+Salary range: $150,000-$155,000 a year
+Comprehensive Benefits: Cigna Medical, Dental, Vision, 401k, PTO

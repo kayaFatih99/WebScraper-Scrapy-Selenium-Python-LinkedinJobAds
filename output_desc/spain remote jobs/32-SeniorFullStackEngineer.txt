@@ -1,0 +1,40 @@
+About the job
+What you are/will do in this role:
+Passionate about building genius products that change the lives of millions of users for the better, and disrupt traditional industries and you don’t let yourself be daunted by roadblocks and challenges along your path to success
+
+Perform and deliver without supervision, in time, in high quality, and proactively communicate about progress, challenges, and success.
+
+Evaluate and select the best tools (framework, library, practices) for the problems at hand and ensure standards in your team.
+
+Able to break down complex scenarios, simplify processes and create simple solutions
+
+While being able to provide robust, scalable, and elegant solutions, you also know when it’s time to be pragmatic and get things done
+
+As a Senior Engineer, you bring all the skills and experience to dig deep into a problem, gather all the data you need from multiple sources and investigate from different angles to understand and fix root causes rather than just the symptoms
+
+Are in a continuous learning process and are comfortable learning new languages
+
+What we want you to bring:
+Deep knowledge and experience (5-8 years) in building modern, responsive/adaptive web applications end-to-end with React.JS or similarly combined with solid expertise in all related standards and technologies (ES6, HTTP, HTML, CSS, JavaScript, TypeScript, REST APIs, GraphQL, etc.)
+
+Experience with Java is a (huge) bonus
+
+Ideally, experience with React Native and the app's development process (another bonus point)
+
+Experience with defining and delivering scalable frontend architectures (e.g. micro frontends, design systems, and storybook)
+
+Professional work experience in Cloud environments is a plus, ideally Google Cloud (GCP)
+
+Deeply familiar with concepts like DevOps, Continuous Delivery, Clean Code, TDD, Pair Programming, Code Review best practices
+
+Job Description
+
+We are looking for a Senior FullStack Engineer (Java / Javascript) with strong programming skills, fresh ideas, and a passion for solving user problems to build a truly outstanding product experience for travelers from all over the world.
+
+Our Technologies:
+ES6, React, React-Native, TypeScript, Redux, Webpack, Jest, Node.js, GraphQL, Apollo GraphQL, REST API, Google Cloud Platform, Kubernetes, Docker, Java, Spring Boot
+
+Our way of working:
+We have end-to-end responsibility from design, over creation up to running it in production
+Upside: We have lots of ownership
+Downside: We break it, we fix it. :)

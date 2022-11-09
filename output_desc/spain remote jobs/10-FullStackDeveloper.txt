@@ -1,0 +1,16 @@
+About the job
+Location: Berlin (Remote Europe)
+Salary: Up to €85k + equity + education budget + pension💰
+Tech Stack: TypeScript, React, Node.js, Redux & AWS
+
+This B2B SaaS start-up had the right idea in creating a platform that helps other businesses to set up and manage hybrid and remote working 🤩 Backed with €35million in funding, an ever growing product and amazing company culture (no, really!) this opportunity is not to be missed!
+
+Responsibilities:
+Own architectural decisions and the technical build-out as we scale
+Build user-facing features on frontend and improve performance and reliability
+Improve the backend systems: build backend endpoints for application logic (e.g., scheduling, search, logistics flow management)
+
+Responsibilities:
+5+ years of Software Engineering experience
+Good experience with the tech stack (TypeScript, React, Node.js, Redux & AWS)
+Experience working on code base at scale

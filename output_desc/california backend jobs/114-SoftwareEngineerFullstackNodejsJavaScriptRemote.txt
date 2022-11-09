@@ -1,0 +1,57 @@
+About the job
+ABOUT US:
+
+Braintrust is the only network that gives in-demand talent all the freedom of freelance with all the benefits, community and stability of a full-time role. As the first decentralized talent network, our revolutionary Web3 model ensures the community that relies on Braintrust to find work are the same people who own and build it through the blockchain token, BTRST. So unlike other marketplaces that take 20% to 50% of talent earnings, Braintrust allows talent to keep 100% of earnings and to vote on key changes to improve the network. Braintrust is working to change the way freelance works – for good.
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Remote - Work from anywhere (TimeZone: CST | Partial overlap)
+HOURLY RANGE: Our client is looking to pay $50 – $75/hr
+ESTIMATED DURATION: 40h/week - Long-term
+
+THE OPPORTUNITY
+
+Qualifications
+Strong understanding of JavaScript and Node.js
+3+ years experience with JavaScript and Node.js
+Experience with TypeScript
+Ability to write front-end code as needed
+Understanding of serverless / microservice / cloud infrastructure and data pipelines
+Experience writing unit tests
+Experience publishing npm modules
+Experience with git, pull requests, and automated testing
+Experience working on a small team, where clear, efficient, and respectful communication is critical
+
+Bonus Points For…
+Vue.js or React experience
+Familiarity with Ruby
+Experience with using MongoDB and AWS
+Experience working and integrating with third-party APIs
+
+Responsibilities
+Ship clean, well-tested, and highly observable code to production on a regular basis
+Participate in planning to iterate and continuously improve the product, helping to make strategic and technical decisions as we scale our platform
+Perform code reviews and collaborate with peers
+Collaborate on design specifications and communicate trade-offs of different approaches
+Troubleshoot production issues
+Write clear technical documentation
+
+Company Overview
+
+Our client is the SaaS platform for consent-based marketing.
+
+Their comprehensive product suite empowers companies across industries to take real-time action on their leads, protect themselves from litigation by documenting proof of consent, and save money by providing new levels of data insights and control.
+
+Their mission is to make consent-based marketing the best channel for customer acquisition.
+
+Job Summary
+
+They’re looking for a full stack JavaScript engineer to work on their Accounts team. You’ll help build some of the newest segments of their product suite, both from a frontend and backend point of view. You’ll work with Node.js, Vue.js, and serverless technology to ensure their billing and account platform is top-notch.
+
+Apply Now!
+
+ABOUT THE HIRING PROCESS:
+
+Qualified candidates will be invited to do a screening interview with the Braintrust staff. We will answer your questions about the project, and our platform. If we determine it is the right fit for both parties, we'll invite you to join the platform and create a profile to apply directly for this project.
+
+C2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.

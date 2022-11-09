@@ -1,0 +1,62 @@
+About the job
+MotorK is the leading sales and marketing technology company in Europe, specialized in the automotive sector. At MotorK our mission is to empower manufacturers and dealerships to sell more with innovative, cloud-based products and services to offer the best digital customer experience.
+
+We are on a fast and ambitious trajectory and serving 90% of the automotive manufacturers. To continue our growth, we are hiring new talents. If you want to spark the future of the automotive world, join us.
+
+What we believe in
+
+We have five core values to live by and they make Motork an amazing place to work.
+Innovative: we will transform the automotive marketplace
+Growth: we play on the global stage and we set ambitious goals for our people and products
+Passionate about our customers: we live & breathe Automotive, we're committed to long-term customer relationships, we win when our customers win
+Family spirit: we trust, support and respect each other, working together toward shared goals
+Do the right thing: we champion diversity & equality in our teams, we conduct ourselves with integrity and keep our promises
+What's the role about
+
+We’re looking for passionate and business oriented developers willing to help us raise our bar; code lovers who are experienced enough to know that for any given technical solution the execution is a key factor for success.
+
+We’re constantly striving to be data driven. That means we measure everything that gives us insights we can use to continuously improve. We do that in a Lean way, using Kanban to represent our workflow while we’re using Scrum as an agile framework.
+
+Requirements
+
+What you should have to fit the role
+
+Must:
+ES6
+Webpack/Babel
+Proficiency with SASS and BEM
+Mobile first approach CSS
+REST API’s management
+JS unit testing libraries
+Experience with Git version control system and familiarity with the principles of “you build it, you run it”
+Great team player, able to perform with little or no supervision, always willing to contribute and add value where possible.
+Good spoken and written level of English
+
+Extras:
+VueJS
+Template engine knowledge: blade, twig
+Experience with Docker
+Deep understanding of Agile principles and best practices such as peer review, pair programming
+
+Nice to have:
+AlpineJS
+Tailwind/PostCSS
+Ability to read and understand php code snippets
+Performance optimizations (page speed, modularization, best practices)
+Knowledge of design tools: Figma
+
+What You Will Do
+Ship maintainable, robust and tested code in production
+Collaborate with POs and other devs to deliver value incrementally but constantly
+Understand our business needs to make sure you’re addressing them properly
+Liaise with the QA Engineers to test the user stories
+Identify and implement the best architectural solutions collaborating with the architects
+Help improving our way of working based on continuous improvement
+
+Benefits
+
+What you will get
+Multicultural environment
+Smart Working
+Concrete career opportunities
+Training

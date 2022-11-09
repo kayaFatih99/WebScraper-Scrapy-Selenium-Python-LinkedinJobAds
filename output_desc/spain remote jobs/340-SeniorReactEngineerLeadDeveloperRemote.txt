@@ -1,0 +1,42 @@
+About the job
+Everything happens somewhere - which is why spatial analytics is fundamental to companies trying to understand the “where” and the “why” of their business. CARTO is the leading cloud-native location intelligence platform, trusted by data scientists, data analysts and developers from companies such as Vodafone, IKEA, BT, Coca-Cola and Mastercard to provide geospatial insights for use cases such as site selection, geomarketing, route optimization, network planning and much more.
+
+With an exceptionally diverse team of 150 people spread across the US and Europe, CARTO (backed by Accel Partners, Salesforce Ventures, Earlybird Ventures, and Kibo Ventures, among others) is changing the way companies analyze location data - making it simple to do this straight out of modern, cloud data warehouses. Redefining its category, the company has grown rapidly in recent years providing a compelling alternative to legacy GIS software.
+
+CARTO with its new CARTO 3 platform has built the most advanced location intelligence platform which connects directly to the most used Data Warehouses in the industry such as Google’s BigQuery, Amazon Redshift, Snowflake and Databricks; thus, allowing our partners and customers to do location intelligence and geospatial analysis directly where their data lives opening limitless possibilities for their businesses.
+
+Our frontend technology is based 100% on React and it’s free of legacy code as it has been built from scratch in the last two years by a very strong engineering team, which we are looking to expand with this position.
+
+The frontend team at CARTO is composed of 8 engineers, all of them working remotely from different parts of Europe (Spain, France, Poland, Czech Republic). The position is fully remote and you can work from anywhere in the world.
+
+The frontend team maintains several products at CARTO:
+
+Workspace: the dashboard that controls our product. It uses React + Sagas + Redux
+Builder: webGL empowered, high-performance web application for geospatial analytic visualizations. Based on the well-known Open Source project kepler.gl. React + Redux
+CARTO for React: library/framework based on Create React App to develop applications using CARTO and React
+deck.gl is one of the most popular Open Source mapping libraries, it’s a WebGL-powered reactive framework for visual exploratory data analysis of large datasets. Our CTO belongs to the technical steering committee and our team members are maintainers of this repo. Our major contributions there are the MVTLayer, the integration with Google Maps and the CARTO module
+
+What we look for
+
+You must be someone with really strong experience with React and 3+ years of experience. You are a big evangelist and fan of React and someone who knows deeply the internals of this technology; Ultimately, you are also someone who is involved and active in the React community
+A solid 5+ years experience as developer having managed projects taking a role of lead developer inside the team
+Excellent knowledge for tooling and modern development practices in (git/github, documentation, testing, profiling...).
+Fluent written & spoken English
+Autonomy, curiosity, & good energy
+A true will to teach & learn from your coworkers (pair programming, code reviews…)
+A solid team player
+We offer
+
+Competitive, results-based compensation, plus an annual bonus of up to 10% based on company objectives
+Being part of a team that is sitting at the front of a revolution on the GIS market together with next-generation Cloud Data Warehouses
+Access to our Employee Stock Options Plan
+Private Medical Insurance
+A great, high-qualified and motivated team to work with
+Flexible hours
+To Apply
+
+Do you feel that you don't check all of the requirements? At CARTO we believe that professional development happens through teaching and learning from your peers and managers. Even if you’re uncertain about whether you have the experience we’re looking for, please apply if this position sparks your curiosity.
+
+A diversity of identity, perspective, and experience makes us stronger. We welcome you to apply to CARTO regardless of your background, age, gender, ethnicity, orientation, or ability.
+
+To learn more about us, please visit our blog or follow us on Twitter (@carto) or Instagram (@cartohq).Not the right job for you? Take a look at the rest of our openings at carto.com/careers
