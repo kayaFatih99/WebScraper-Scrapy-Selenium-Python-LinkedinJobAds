@@ -1,0 +1,41 @@
+About the job
+About Us
+
+In today’s software-centric economy, speed is everything. Before Sauce, testing took too long, it was tedious, expensive to maintain and placed focus only on monotonous infrastructure issues. With Sauce, developers are free to innovate and accelerate their software development cycles, improve quality, deploy with confidence and reduce costs. Our automated testing cloud gives our customers the ability to deliver a flawless digital experience to their customers by ensuring the web and mobile applications people use every day work on any browser or device. We call that automated testing, but you’ll probably just call it awesome!
+
+The Role
+
+You’ll be an active collaborator on the Live Testing team which is directly responsible for providing a reliable and unified experience for running manual tests. The work includes a mix of feature development, reviewing, planning, and contributing to initiatives. These will promote growth in your strengths and abilities. You will find we are a very eager and supporting team interested in growing together. We are not looking for individuals that can do it all, collaboration is key. We want to be proud of what we build but also kind, flexible and calm especially in emergencies.
+
+We are looking for an experienced candidate but we don’t expect you to know it all in your first week. We are looking for someone with solid fundamentals, who can teach, learn and do teamwork.
+
+Responsibilities
+Participate in the entire development life cycle, from planning through implementation, documentation, testing, and deployment, all the way to monitoring.
+Produce high quality, maintainable code with test coverage and documentation.
+Ensure high observability standards for services and systems through the application of monitoring tools and methodologies.
+Strive for constant improvement and contribute to the power of our agile development culture.
+Work with the frontend and backend engineers to ensure consistent delivery as needed
+Be a part of an on-call rotation
+Requirements
+4+ years of experience developing web applications in a modern Javascript framework (React), a state management tool (Redux), and with consuming REST APIs.
+Experience in writing unit and/or end-to-end tests
+Some experience working with backend languages like Python, Java, and/or Kotlin.
+Knowledge working with containerized technologies
+Good understanding of asynchronous programming paradigms
+Strong sense of ownership and passion for engineering great products.
+Nice To Haves (optional)
+Knowledge of Typescript
+Knowledge of React Testing Library
+Knowledge of Tailwind framework
+Hands on experience with Docker and container orchestration technologies such as Kubernetes Helm
+Experience with CI/CD tools (Gitlab Pipelines)
+Experience contributing to open source projects
+Security Responsibilities At Sauce
+
+At Sauce, we will commit to supporting the health and safety of employees and properties, partnering with internal stakeholders to learn and act on ever-evolving security protocols and procedures. You’ll be expected to fully comply with all policies and procedures related to security at the department and org wide level and exercise a ‘security first’ approach to how we design, build & run our products and services.
+
+Sauce Labs is proud to be an Equal Opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender identity/expression/status, sexual orientation, age, marital status, veteran status or disability status.
+
+Please note our privacy terms when applying for a job at Sauce Labs.
+
+#SauceEU

@@ -1,0 +1,31 @@
+About the job
+Dealum is the next-generation investor group collaboration platform that is flexible, intuitive, and simple. We believe that the early-stage investment ecosystem can become more efficient and connected. This is why we provide investor groups and group managers online tools that save their time and streamline processes - but more than developing software, we aim to change the way angel investments are made.
+
+We are looking for a Full Stack Engineer to join our team in the Estonian HQ!
+
+The person filling this role will work closely with our CTO to develop the Dealum web app based on the insights and feedback from our team and customers. You will become part of our lean and efficient core team while building an online platform that brings together a variety of players from the investment ecosystem so they can connect and collaborate.
+
+What comes with the role?
+Writing a clean and simple code that speaks for itself
+Building features and functionalities from start to end
+Understanding and analysing the feature requests and underlying use cases
+Researching and proposing the best way to solve customers’ pain points
+Continuously working on one big web app product
+
+What do we expect you to have?
+Experience in developing web applications
+Knowledge of TypeScript, Angular, NodeJS Express, MySQL
+Internal drive to learn on the go and make things happen
+
+Bonus points for having worked in a SaaS/PaaS or fintech startup.
+
+Looking for a challenge?
+We have three just for you:
+Being a developer in the deepest sense of the word, not just a code writer
+Making an impact on the product roadmap and implementation
+Building a next-generation product that continues to be ahead of the curve
+
+A perfect role if you want to join a small team without excessive procedures and bureaucracy:
+Office in Tartu old town
+Full-time role
+A lot of flexibility, but also the responsibility

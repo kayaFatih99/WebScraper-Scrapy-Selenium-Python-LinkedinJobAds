@@ -1,0 +1,38 @@
+About the job
+About &Open
+🙂 The world’s first happiness platform
+🎁 Our gifting platform sends digital and physical gifts at scale
+🤝 Clients include Airbnb, Spotify, The Modern House and more
+📈 Join our growing team
+
+About the Team
+&Open’s Engineering team is a multidisciplinary group of software engineers, UI designers and technical architects. Together, our task is to build the best gifting platform in the world. We obsess over the details, the connections and touch points. We use modern tooling to develop refined and reliable code.
+
+About the role
+We’re seeking a Lead Frontend Engineer to help us build the interfaces to our gifting platform. This role works alongside the Product, Engineering and Creative teams, and reports to our Director of Engineering.
+
+What you’ll do
+Build. You will be part of our development team, which is responsible for the web front-end that powers our clients’ products and services.
+Collaborate. You’ll work closely with product, design and backend teams to build new features, drive technical direction, and build scalable web technology targeting the most modern browsers.
+Visualise. Development of impressive graphs, dashboards, visualisations etc. of user and logistics activity.
+Innovate. We aim for continuous improvement and you’ll be encouraged to bring that through in all aspects of your work.
+Lead. You’ll mentor and guide the work of others.
+
+What you’ll need
+7+ years as a frontend/javascript engineer, with demonstrated capabilities to lead, mentor, and manage
+Significant experience with client-side frameworks, and specifically React.js
+Experience building rich data-driven web applications, consuming information from APIs and dynamically filtering data sources
+Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis
+Experience working with visual designers in the complete product development lifecycle of successfully launched applications
+Advanced knowledge of modern web technologies and CSS techniques
+The ability to rapidly prototype ideas into working code to assist in the design process
+Strong debugging and diagnostic skills
+Experience shipping large scale web applications
+Desirable skills
+Experience with WebGL, I18n, UI Theming, multi-tenanted architectures, and component-driven design
+Knowledge and working experience with Heroku or AWS for web app deployment
+Continuous Integration and Continuous Deployment workflows
+Our backend is built with Ruby on Rails
+
+All Welcome Here
+We believe diverse teammates, opinions and backgrounds generate a larger global impact and more considerate acts of care. &Open is an equal opportunity employer and we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status or disability status.

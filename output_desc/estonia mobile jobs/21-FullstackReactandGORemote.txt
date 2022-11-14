@@ -1,0 +1,33 @@
+About the job
+¿Buscas seguir desarrollándote como Fullstack developer manejando React y Golang dentro de un entorno agile?
+Desde Oxigent Technologies, consultora tecnológica, seleccionamos un/a FULLSTACK DEVELOPER para participar en un proyecto de desarrollo con REACT Y GOLANG dentro del sector aeronáutico y ubicado en Barcelona.
+Te incorporarás al equipo de desarollo y tu principal misión será participar en un proyecto de blockchain.
+
+¿Cuáles serán tus funciones?
+
+- Participar en el desarrollo, colaborando con el equipo técnico existente, de la solución de blockchain.
+- Implementación de funcionalidades y mejoras del portal en React.
+- Puntos de conexión y otras aplicaciones en GO.
+- Desarrollar aplicaciones inteligentes en GO.
+- Soporte al product owner en cuestiones técnicas.
+
+Para ello, ¿qué necesitamos?
+
+- 5 años de experiencia en desarrollo Fullstack.
+- Con React y GO al menos 1 año de experiencia en proyectos complejos.
+- Se valora la experiencia con una red de blockchain (pero ni mucho menos es obligatoria).
+- Dominio del inglés.
+- Se valora la experiencia en ED.I
+- Se valora experiencia trabajando en un entorno de desarrollo ágil.
+- Se valora experiencia trabajando con Kubernetes y Docker.
+
+Y llegados a este punto… ¿qué te ofrecemos?
+
+🤝Contrato indefinido.
+📚Cheque Formación: que tendrás disponible para seguir aprendiendo nuevas tecnologías para desarrollarte en las áreas que más te o incluso para mejorar tus skills en idiomas.
+💰Salario acorde a la experiencia aportada (entre 45.000 - 55.000 euros brutos anuales).
+🩺Seguro médico privado.
+🤸‍♀️Aplicación de acceso a gimnasios con descuentos: apostamos por un estilo de vida saludable, por eso ofrecemos descuentos especiales en instalaciones de múltiples centros deportivos.
+🤑Retribución flexible aplicable a seguro médico, restaurante, transporte, guardería y formación.
+💫Horario flexible y jornada intensiva los viernes y los meses de verano.
+🏠Modelo de trabajo 100% posible

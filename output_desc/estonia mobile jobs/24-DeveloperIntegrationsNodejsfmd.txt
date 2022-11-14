@@ -1,0 +1,39 @@
+About the job
+At Acrolinx, we envision a world connected by amazing content that’s ready to make an impact. We help the world’s Fortune 2000 brands to create amazing content at massive scale — across writers, workflows, languages, and cultures. Built on an advanced Al engine, Acrolinx is the only software platform that can actually “read” your content and guide writers to make it better.
+
+We’re in search of a generally nice and smart person to join our development team either in Berlin or from remote. If you’re interested in innovation, working across disciplines, and love working on applications and solving technology challenges, be our guest.
+
+You and Your Role
+
+You’re an expert in Node.js and modern TypeScript/JavaScript frameworks.
+You’re an explorer at heart and like to dive into different technology stacks.
+You’ll build cross platform applications and integrate different web-based CMSs to enable content creators in generating amazing content.
+Your knowledge on XML/DITA will be an added advantage.
+You’re a problem solver and enjoy developing in environments where sometimes the laws of nature seem to be temporarily disabled.
+You engage with your team in discussions.
+You’re someone who enjoys sharing knowledge with teammates.
+You speak English fluently.
+
+We expect you to come with some experience developing larger applications in a team and all the tools that come with that. If you bring some C#, C++ or Python to the table, we’ll know how you could put it into play.
+
+Your Work Environment
+
+You’ll join an international team of friendly, dynamic people who are passionate about their jobs. Our tech-stack includes various programming languages and common frameworks as well as GitLab, AWS, Kubernetes, and more if we need.
+
+You can expect a flat, informal hierarchy and quick decision-making processes, support in getting up to speed, teammates of all ages and backgrounds.
+
+A clear, concise company vision and mission together with a clearly defined set of company values.
+
+But that’s not all! We also offer a family-friendly environment, flexible remote working options, sponsoring the monthly BVG ticket, Urban Sports Club membership, pension subsidy, and much more. We strongly encourage diversity in our team and share a respectful and open mindset.
+
+Our Product
+
+Chances are, you’ve read some text today that Acrolinx software helped to shape.
+
+The core of our product is a linguistic engine, which analyzes written text—not just for spelling and grammar but also for good style and consistency. Acrolinx does this for English, German, French, Swedish, and Japanese (with Spanish and Czech currently in the works). This combination makes us unique worldwide. Just take a look at our list of happy customers, which include Google, Facebook, Microsoft, IBM, and Adobe. We also have customers of comparable size and impact in other industries such as the healthcare, manufacturing, and automotive industries.
+
+At Acrolinx, we embrace diversity as a catalyst for change – in our global offices and in our supply chain. We believe that it makes us a better, more innovative company.
+
+We’re strengthening the talent at Acrolinx with a greater focus on diversity and inclusion. Acrolinx welcomes employees from diverse backgrounds such as language/linguistic ability, ethnicity, nationality, sex, sexual orientation, gender identity and expression, class, religion, disability, age, military status, visa status, economic status, and geographic location.
+
+Acrolinx also acknowledges that diversity cannot exist without inclusion and accessibility, and we commit to growth in all areas.

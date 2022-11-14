@@ -1,0 +1,27 @@
+About the job
+We are looking for Lead Front-End developer (React JS) to join our team!
+Markus is our product (heymarkus.com). It has been carefully crafted throughout the years and is now becoming ready to concur the world. It is actively being used every day in Baltics, Scandinavia and in many other countries outside of EU region.
+
+You will be one of the key members of our development team, by leading all the Frond-End developments.
+
+Have you ever visited Vapiano or O'Learys restaurants or Apollo Cinema? Have you ever wondered how awesome and digitalized the entire process is? Come and help to make it even better and introduce it to the rest of the world. And next time you order a pizza with your friends you can show real-life examples how you've helped to make restaurant and cinema world better!
+
+Lead Front-End Developer is responsible for:
+Create and lead in-house professional front-end team
+Using code reviews as a way of teaching and learning
+Producing clean code using different design patterns
+Proposing ways to reduce tech dept
+Support business ideas with tech solutions and estimations
+Create solution with low upkeep/maintenance cost
+
+The must-have:
+Previous experience as JS developer for 5 years
+Previous experience as React JS developer for 3 years
+Experience with containerized applications
+Good organizational and time management skills
+Problem-solving mindset
+
+The nice to have:
+Experience with Node.js
+Previous experience from Product company
+Leading Digital Transformation or Scaling up a Startup

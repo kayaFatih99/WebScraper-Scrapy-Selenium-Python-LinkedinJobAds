@@ -1,0 +1,59 @@
+About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team:
+
+The Full Stack Engineering Department builds the Agoda web and app products. We have several teams in front-end focusing on different aspects of our products including accommodations, flights, payments, marketing, post-booking services, and more. Agoda’s marketplace is the world. We build localized and optimized user experiences at scale on every major internet platform. These include our mobile websites, native apps, and desktop sites. We hire people from around the world who have a passion for using technology to create and implement the best user experiences. Our teams work on the full stack and build end-to-end systems including user interfaces, APIs, backend systems, and database systems. Our products are always evolving and under experimentation. We accomplish this by having an amazing degree of automation, CI/CD systems, and use a modularized approach. As we are data driven and measure our results, we continually innovate and improve our work. We are looking for the next great talent who strives to learn and grow and has a standard of excellence, strong sense of ownership, and great technical skills.
+
+The Opportunity:
+
+Lead / Staff engineer is the key role in our technology organization working together with individual contributors and senior leadership. Our Lead engineers are heavily involved in the hiring and mentoring process and are the go-to people who design and implement new systems and components. We are looking for people who are passionate to take on more responsibility and driving major architectural changes in Agoda. It’s expected from you in this role as Lead / Staff engineer to push Agoda forward technically by adopting new technologies and setting higher standards.
+
+In this Role, you’ll get to:
+
+Maintain ownership and responsibility of mission critical systems
+Be hands on – build high volume platforms using cutting-edge technologies like React and GraphQL
+Mentor and coach other software engineers
+Be a major contributor to our agile and scrum practices
+Design and lead crucial technical projects and initiatives cross teams and departments
+Stay on the leading edge of technical know-how, industry trends and drive technical innovations
+
+What you’ll Need to Succeed:
+
+7 years of experience developing web applications in client-side frameworks such as React, Angular, VueJS, etc. 6+ years preferred
+B.S. in Computer Science or quantitative field; M.S. preferred
+Working experience with agile, analytics, A/B testing and/or feature flags, Continuous Delivery, Trunk-based Development
+Excellent HTML/CSS skills – you understand not only how to build the data, but how to make it look great too
+Excellent understanding of object-oriented JavaScript, TypeScript
+You love new technologies and approaches and want to use the best tools available. We want people who can help us continually evolve our stack
+Great communication and coordination skills
+Excellent analytical thinking and problem-solving skills
+You have a good command of the English language
+
+It’s Great if you have:
+
+Knowledge in physical architecture at scale, building resilient, no single point of failures, highly available solutions
+Knowledge in one or more of the following: NoSQL technologies (Cassandra, ScyllaDB, ElasticSearch, Redis, DynamoDB, etc), Queueing system experience (Kafka, RabbitMQ, SQS, Azure Service Bus, etc)
+Working Experience with Containers and Dockerization, also K8S is a plus
+Knowledge and hands on experience in CI/CD solutions would be a plus
+Strong experience in all aspects of client-side performance optimization,
+Extremely proficient in modern coding and design practices. For example, Clean Code, SOLID principals, and TDD
+Experience in multiple front-end platforms including iOS, Android, Web, and API services
+Have worked on an app or internet company that is at scale with large numbers of users and transactions per second
+Have experience in a data driven company with experience analyzing and working with Big Data
+Lead teams and greenfield projects solving large system problems
+Worked on global projects serving world markets with distributed data centers and localization of the front end and data
+
+This position is based in Bangkok, Thailand (Relocation Provided)
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #ENG #4
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.

@@ -1,0 +1,46 @@
+About the job
+Full Stack Engineer
+
+Reporting to: Head of Web Development
+Department: IT Digital
+Location: Fully Remote
+
+The Role
+
+We are looking for a talented software engineer for web with excellent server-side and frontend-side skills to join a self-organised digital development team in charge of highly performant web applications. The ideal candidate has deep knowledge of web standards and developing single page applications, as well as experience in collaborating on software projects.
+
+You would be joining a small, nimble web development team that doesn’t buy into the hype, and simply focus on providing solutions that are highly scalable, easily testable, maintainable, and extensible. You are independent and inventive, you communicate and collaborate effectively, and have a hunger to learn, share knowledge, and thrive in an energising environment.
+
+What you will be doing
+
+The Web Development Department is made up of 4 teams, Web UI development team, Web development team, Test/QA team and Web Analytics, all working together to give our web platform the best experience for our users. On a day to day basis you can expect to be performing the following core functions:
+
+• Architect full-featured applications using Ruby on Rails and cutting-edge JavaScript technologies including React, Redux, JSX, ES6/7 etc.
+• Develop and code for client-facing web applications, writing software with focus on great user experience and performance.
+• Participate in the full development cycle and direction of product and feature sets, turning feature requests and technical requirements into a set of re-usable components using elegant code solutions.
+• Help us shape the internal software architecture and development, from requirements gathering, to design and implementation, to production deployment. Development, operations, testing and others all work together to ship outstanding code to production.
+
+What you will need to succeed
+
+Strong proven experience experience building websites.
+• Expert in MVC web technologies and REST APIs.
+• Expert in JavaScript – you are very familiar with the JS landscape of technologies, and have in-depth knowledge and experience using it in tandem with client-side technologies to create fast, responsive, mobile-friendly websites and applications. Ideally you are already experienced with or want to learn ES6/7, React and Redux.
+• Strong experience with at least one of the dominating scripting languages for web - Ruby, PHP, Python, Elixir, NodeJs. We tend to use Ruby a lot.
+• Passionate about web development – you are familiar with all aspects of MVC web applications and at ease on server side, applying the most adequate pattern in the right situation.
+• Comfortable working across the stack and understanding how all the pieces fit together (front-end, middleware, network layer, etc.) and how they impact the performance of your application.
+• Performance and optimisation experience.
+• You have interest in working in a very cross-functional team that touches on many of the core systems and user flows.
+• A solid engineer – you find something magical about solving problems with elegant but simple solutions. You have deep knowledge of design patterns and are a good problem solver with attention to detail and critical thinking skills.
+• A good communicator – you communicate enthusiastically, clearly and concisely with both technical and non-technical staff.
+• A keen learner – you are up-to-date and capable of keeping the pace with the latest trends and technologies in web development.
+• Bias towards action. You are hands on, passionate, persistent, creative and humble. You get things done.
+
+Our current interview process is a 3-step selection:
+
+• A professional conversation with our technical managers
+• Solving a technical challenge
+• A conversation about the provided solution
+
+
+
+BetVictor is an equal opportunity employer

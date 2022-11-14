@@ -1,0 +1,51 @@
+About the job
+Our End User Platform team is looking for a Senior Front-End Engineer who is passionate about coding and excited to tackle challenging problems under the hood in Veriff’s critical entry point for end users: our identity verification flow. If you enjoy being part of a team, collaborating with your peers to deliver the highest quality product for our customers, then you might be the right fit for this role.
+
+As a Senior Front-End Engineer we expect you to not only be a craftsman with your code and automated tests, but to constantly influence and guide your peers to the next level. Your tech skills allow you to untangle problems for the team and groom complicated features to a level where implementation becomes clear for your teammates. You have the experience to see the forest, not just the trees and to be able to formalize plans to coordinate bigger initiatives.
+
+You will get a chance to work with the team who built our verification flow that serves tens of millions people over the years. New challenge for the team is to scale their product even further by turning it into a platform, so efficiency of the organisation can be pushed even higher. This is a unique opportunity to learn about scaling up the products in high-growth company.
+
+You’ll Help Us Protect Honest People Online By
+
+Writing high-quality, maintainable, tested and efficient code with TypeScript, React and GraphQL
+Doing (and receiving) code reviews and providing feedback to your peers
+Identifying and advocating the use of new technologies, libraries, tools, and best practices
+Working with supporting wide variety of web browsers
+Contributing to the tools that other engineers at Veriff use, like our design system, Genoma
+Advocating for the use of new technologies, best practices and tools both in the team and across Veriff
+Collaborating with other engineers both inside and outside the team to further improve the Verification process at Veriff
+Together with Product Manager, Designer and Researchers being an active contributor to the product development process. Working closely with our users, getting feedback and analyzing metrics to create the best possible experience
+
+You are the right future Veriffian for the job if you have:
+
+Strong knowledge of Front-End development and experience developing feature-rich web applications
+Fluency in HTML, CSS, Modern JavaScript (and TypeScript), React Ecosystem and its best practices
+Passion for providing the best product experience, we see you as an active contributor to all product and design discussions
+High level of self-organization, ownership and responsibility
+Not afraid to dive down into technical details of browser APIs
+Good communication skills and empathy for others
+
+You can also check our tech stack on StackShare.
+
+Why Veriff?
+
+We help companies all over the world connect with honest people. Our software verifies over 10,000 government-issued documents from more than 190 countries — and this is growing fast! That's millions of verified identities a year and countless people working behind the scenes to help make the lives of millions, and eventually billions, of people safer online. We are a force for good and want to be the standard for trust online.
+
+Some Of Our Favourites Include
+
+We're a diverse team of over 55 nationalities coming together to solve one of the world's most pressing problems. When you join Team Veriff, we offer you the opportunity to have real impact and advance your career, whilst looking after you along the way with a range of benefits designed with you in mind.
+
+Full flexibility to work from home or our pet friendly offices
+Stock options that ensure you share in our success
+Comprehensive relocation support to Estonia
+Extensive medical, wellness coverage to ensure you’re feeling great physically and mentally
+Learning and Development budget that you are free to tailor for your own needs
+Six weeks of fully paid sabbatical leave after reaching your 3rd work anniversary
+
+With backing from investors such as Accel, IVP, Tiger, Taavet Hinrikus, Ashton Kutcher, and Paul Buchheit, and having received unicorn status, we're well positioned to achieve our mission. However we need people like you to ensure it happens. Be a force for good and join Veriff!
+
+We are an Equal Opportunities employer committed to a diverse and representative team. Different opinions, perspectives and personalities push us forward. We want to hear from people who are passionate about their work and align with our values. Regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability. We also know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates - so rest assured, whoever you are, we want to hear from you!
+
+Please be informed that if you are offered this position in the end of recruitment process you are required to pass identity verification and background check.
+
+#TTB

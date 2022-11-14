@@ -1,0 +1,29 @@
+About the job
+Bolt engineering teams are working on unique product challenges: complex algorithms for demand prediction, optimal real-time pricing, routing, fraud detection, distributed systems and much more. Volumes are growing at a steady pace.
+
+Your daily adventures will include:
+Designing and building Bolt's growing backend and frontend systems. Focusing mostly on front end part
+Coding mostly in JavaScript, Node.js and TypeScript (previous experience with Node.js is not required)
+Proactively fixing upcoming bugs and solving technical challenges
+Contributing ideas to our product development roadmap
+Giving a hand to your fellow colleagues, participating in code reviews and architecture discussions
+
+We are not really looking for Node.js experts, but for cross-language engineers for whom a specific stack is just a tool to solve a problem, not the solution itself.
+
+We are looking for:
+Experience in JavaScript and Node.js / C++ /Java or any OO language
+Knowledge of major frontend frameworks (React.js/Vue.js)
+A university degree in a technical subject (Computer science, Mathematics or similar)
+4+ years of experience in software development
+Good English and communication skills
+Solid understanding of algorithms and data structures
+Experience with any SQL (MySQL/PostgreSQL)
+Experience with API design and development
+
+You will get extra credits for:
+Experience with micro-service and distributed systems
+Interest in real-time and asynchronous systems
+Familiarity with any cloud systems (AWS, Azure, Google app engine)
+Monitoring and troubleshooting experience
+Experience with React.js, Ember.js
+Experience with config Apache, Nginx, Amazon Web services

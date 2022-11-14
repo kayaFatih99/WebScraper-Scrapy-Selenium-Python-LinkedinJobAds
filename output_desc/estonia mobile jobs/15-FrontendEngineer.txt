@@ -1,0 +1,56 @@
+About the job
+The company and our mission:
+
+Zartis is a digital solutions provider working across technology strategy, software engineering and product development.
+
+We partner with firms across financial services, medtech, media, logistics technology, renewable energy, edtech, e-commerce, and more. Our engineering hubs in EMEA and LATAM are full of talented professionals delivering business success and digital improvement across application development, software architecture, CI/CD, business intelligence, QA automation, and new technology integrations.
+
+At Zartis, we are hiring a Senior Frontend Engineer to work on behalf of our partner, a well-known company in the insurance sector.
+
+The project:
+
+Our teammates are talented people that come from a variety of backgrounds. We’re committed to building an inclusive culture based on trust and innovation which creates a good work environment that helps enrich the product.
+
+The client help users to save money by comparing offers off multiple providers. Health, car, motorcycle, household or pet insurance we have them all. To further develop and improve these applications, they are seeking a front-end software developer to join their product team. As a part of a multinational Scrum team, you will be responsible for the conceptualisation, design, development, testing and review of the client’s web applications. You will work in a React based frontend where you will solve interesting challenges in a variety of technologies
+
+What you will do:
+
+As part of a product team you constantly improve the client’s products and our user‘s experience
+You define, build, test and deploy new features and maintain the client’s existing applications
+You work on frontend with React
+You assure quality through peer reviews / pull requests
+You collaborate closely with other developers, the Product Owner and UX/UI Experts
+You take an active role in Scrum process and the shaping of the team‘s way of working
+
+Tech Stack:
+
+Visual Studio Code
+React/NextJS frontend using Typescript
+Version control with Git and GitHub as provider
+Kibana & Datadog for monitoring
+Software development in Scrum/SAFe using Jira
+Documentation on Confluence
+Slack and Google Workspace for collaboration
+
+What you will bring:
+
+Proficient with Typescript. Experience with Node.js will be a nice point to have.
+Proficient Testing Frameworks (Unit, Integration, e2e).
+Familiar with DevOps principles.
+You are curious about working on big web applications with a big user base
+You are open to join an existing, long running product team that constantly advances its product
+You have 3 - 5 years of experience with JavaScript (Typescript is a plus)
+You have 1 - 2 years of experience in React framework
+Having any back-end experience in .Net would be considered as a plus
+You understand Git as version control
+You hold a degree in computer science, are currently working on one or have relevant work experience in software development
+You are familiar with agile development methodologies like Scrum (SAFe is a plus) and understand the idea of outcome driven development
+You have a communicative, assertive and self-motivated personality, with sense of responsibility
+You are fluent in English, spoken and written
+
+What we offer:
+Competitive salary based on experience
+Remote work
+Flexible working hours
+International working environment
+Work from home financial support

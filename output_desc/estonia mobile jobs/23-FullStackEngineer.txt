@@ -1,0 +1,20 @@
+About the job
+Tec Partners are working with a company that is aiming to revolutionize asset management by building a social platform to democratize investments in alternative assets (start-ups, private equity, art, crypto-assets, etc.).
+
+Their vision is that alternative asset classes will grow fast in the coming years, as the returns of more traditional investments (real estate, stock markets, etc.) are decreasing, inflation is growing, and tech makes it easier than ever to democratize this type of investments outside of the Ultra High Net Worth sphere.
+
+Further down the line, they will open other asset classes (such as Venture capital or Private Equity) and aim to become the one-stop shop for non-professional investors for all alternative asset investments.
+
+Tech Stack:
+
+Platform- NextJs, React, Apollo GraphQL,Typescript
+API & Database - GraphQL (GraqphQL codegen, Nexus), PostgreSQL, Prisma
+Cloud - Google Cloud Platform, Container-on-demand
+Testing - Playwright, Jest
+
+The successful Fullstack engineer will have:
+
+Mad about React and Javascript frameworks
+At least 3 years of working experience with the core Tech stack
+You are able to or want to, work at every level of the stack. We believe this to be the strongest indicator of extraordinary people.
+Autonomy, fast learning, and proactiveness

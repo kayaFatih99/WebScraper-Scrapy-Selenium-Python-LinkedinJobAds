@@ -1,0 +1,22 @@
+About the job
+Essential Functions:
+
+As a software engineer, your role will consist of:
+
+● Implementing new features and fixing bugs that your team owns. Writing automated tests to cover those changes.
+● Ensuring the quality, usability and performance of the software.
+● Adding value through participation in peer code reviews, providing comments/suggestions and enforcing best practices.
+● Collaborating with the product to define and estimate the work on new features.
+● Collaborating with other teams to get features integrated and released on the platform.
+● Participating in daily standups and sprint ceremonies every two weeks.
+
+Qualifications
+
+Experience and education:
+
+● Bachelors (or equivalent) degree level education in a technical discipline
+● Minimum five (5) years of professional experience
+● A strong experience building elegant and smooth user interfaces using React.js.
+● A strong interest in the ever evolving Javascript ecosystem to develop, package and serve frontend projects. An experience with Next.js is a plus.
+● Proven ability to work with designers.
+● Familiarity with design systems and reusable components.

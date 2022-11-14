@@ -1,0 +1,55 @@
+About the job
+VIDA is partnered with stealth-mode Medical Imaging AI start-up that is driving the AI revolution for medical imaging and diagnostics. Their mission is to modernise patient care and empower clinicians by augmenting clinical care pathways with state-of-the-art AI models.
+
+The organisation is now looking for a remote Senior Full-Stack Developer to play a pivotal part in developing the platform which is currently at pilot stage. This presents an excellent opportunity to be involved in a vast and highly innovative global project, and with being part of a small team at an exciting start-up in a fast-paced environment, you will be able to contribute to team growth, development of the organisation and really make an impact. The client is offering an attractive and competitive package including stocks options.
+
+ABOUT THE OPPORTUNITY
+
+As a Senior Full-Stack Developer you will contribute to all facets of the platform focusing on reliability, performance, and scale. You will work closely with other developers to design and implement various components, product owners and UX designers to understand the features we are building and to improve product experience, QA and regulatory to ensure the development of quality software. Being part of a small team at an exciting start-up in a fast-paced environment, you will be able to contribute to team growth, development of the organization and to make an impact.
+
+WHAT WILL YOUR ROLE ENTAIL
+
+Design and develop various front and back-end components of the software
+Test, deploy, maintain, and improve the software
+Write reusable, readable, testable, scalable, and efficient code
+Manage individual project priorities, deadlines, and deliverables.
+
+REQUIREMENTS
+
+Bachelor’s or master’s degree in Computer Science, Engineering, or equivalent
+experience
+4+ years of experience in full stack software development
+Experienced in object-oriented programming
+Strong programming skills in backend languages such as C#
+Experience with Agile and secure software development methodologies
+Experience with cloud technologies and infrastructure
+Good written and spoken English
+
+IMPRESS US MORE
+
+A link to your GitHub repository so we can check your code
+Experience with Atlassian tools (Jira and Confluence)
+Experience with CI/CD using tools such as Git/Bitbcuket
+Demonstrable capability designing, implementing, and securing RESTful endpoints with implementing RESTful services
+Experience with Docker and Kubernetes
+Experience with DICOM, FHIR, HLg
+Experience with developing solutions for the Digital Health environment, specifically
+Medical software devices
+
+ABOUT YOU
+
+Committed and pro-active
+Accurate, reliable, attention for details
+Strong analytical skills
+Curious about novel development technologies
+Always interested to learn and to challenge yourself
+You can work on your own as well as in a team
+
+WHAT WE OFFER YOU
+
+The opportunity to help drive the AI revolution in medical imaging and diagnostics
+Attractive and competitive salary and benefits
+Annual personal development budget
+Generous amount of vacation and flexible working hours
+Meet colleagues 4 times per year in company offsite meetings
+Being part of an international team of smart and passionate colleagues

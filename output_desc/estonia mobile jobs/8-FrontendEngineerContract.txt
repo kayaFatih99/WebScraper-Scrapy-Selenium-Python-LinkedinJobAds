@@ -1,0 +1,15 @@
+About the job
+5 Month Contract - Fully Remote - €550-650
+
+I've partnered with an exciting startup whose mission is to help companies reduce their carbon footprint. The vision is to help businesses reduce over 1 gigaton of emissions in less than 10 years!
+
+Their platform can provide accurate carbon calculations that make it easy for businesses to understand their emissions and take action and meet their reduction targets.
+
+After great success they're now looking to improve the user experience making the frontend more clear, easy to use and improved communication with the end user. This dashboard will be used by businesses to help them measure, monitor and reduce their carbon footprint.
+
+The ideal candidate will have strong JavaScript, React experience and have previously worked on data centric platforms using data visualization tools such as D3.js
+
+Keys Skills: Javascript, React, D3.js
+
+
+If you are interested in finding out more, hit the apply button or drop me an email @ jack.reeves@fewandfar.io

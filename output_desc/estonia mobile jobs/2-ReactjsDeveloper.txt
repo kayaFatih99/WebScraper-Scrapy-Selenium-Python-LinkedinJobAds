@@ -1,0 +1,16 @@
+About the job
+Position Requirements
+Strong computer science fundamentals: data structures, algorithms, design patterns, databases, operating systems, etc.
+Experience in Frontend architecture
+1+ years of experience in open source frameworks
+1+ years of experience in at least one of the following: Javascript/TypeScript, Angular/React.js, or Node.js
+1+ years of experience in Agile practices
+1+ years of experience working on streaming data applications (e.g. Kafka)
+Solid Experience in developing scalable Event driven applications.
+Good to have: worked on containerized ecosystems (Kubernetes, Docker)
+Experience in designing, solving problems in highly scalable and complex systems
+Experience with GCP, Microsoft Azure, or another public cloud service
+
+
+Mandatory Skills
+Javascript/TypeScript, React.js

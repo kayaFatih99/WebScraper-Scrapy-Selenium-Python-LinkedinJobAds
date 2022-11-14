@@ -1,0 +1,36 @@
+About the job
+MentorMate is an industry veteran that meets complex business challenges with native, hybrid, and custom software development. We think big, design smart and develop fast for all screens, projects, and teams. Our headquarters is located in Minneapolis, Minnesota, we have an office in Sweden, five development offices in Bulgaria, and a network of remote software development partners in more than 20 countries across the globe. With over 1,400 projects completed by our 850+ top software engineers, we innovate in sectors like healthcare, education, finance, agriculture, and beyond.
+
+As a remote partner in our network, you will participate in the creation of enterprise-class applications on the latest technology platforms using proven design patterns. This position requires a solid hands-on developer to fully participate in the software development process, including design, development, unit testing, and technical documentation. You will use the Scrum development methodology to create 21st-century software solutions that set standards. On top of that, you can work from anywhere in the world, part- or full-time, and receive competitive pay.
+
+About the project
+
+Our LAMP&FE team is looking to hire a Senior Software Developer experienced in React Native to join a project in the veterinary care industry that offers innovative clinical solutions related to advanced diagnostics and treatment. You’ll have the opportunity to participate in the creation of diverse web applications improving pets’ health and well-being by using proven design patterns and the latest technology platforms.
+
+What will be your responsibilities
+
+Participate in the architecture, design, and development phase of software production
+Manage personal work tasks for optimized software delivery
+Deliver high-quality software with extensive Unit Testing
+Be responsible for developing and testing critical components of the system
+Build polished cross-browser web-based user interface
+Collaborate closely with the team in designing software and hardware
+Communicate with foreign team members and clients
+Participate successfully in an established daily Scrum process
+
+What you need to have
+
+2+ years of experience with React Native
+Proficiency in TypeScript
+Ability to build mobile user interfaces with a native look
+Hands-on experience in mobile app distribution (AppStore & Google Play)
+A passion for building great software
+Excellent English skills
+
+What we offer
+Remote Work Model: Freedom to be based anywhere in the world
+Global Tech Community: Work in a global team using the latest technologies
+Exciting Career Prospects: Enterprise projects that set standards and save lives
+Compensation Range: The compensation range for this role is 48,000 EUR - 77,000 EUR annually based on experience
+No Intermediaries: Direct communication with our teams
+Personal Assistance: Support with administrative, financial, etc. issue

@@ -1,0 +1,43 @@
+About the job
+Senior Full-Stack Engineer
+Fast-growing AI Startup, Zurich, Remote, Typescript, API Design, MongoDB
+
+Remote (with visits to their office in Zurich, once per quarter or relocation to Switzerland)
+
+Trust in Soda are partnered with a world class AI company, backed by YCombinator and looking to double their team in size. They are currently 10 software engineers and they build software solutions to help companies improve their deep learning models. Their customers do Machine Learning and Computer Vision, ranging from automotive companies, robotics, medical imagery etc, their customers are engineers themselves.
+
+This is a team of very smart experienced friendly and social engineers with lots of passion.
+
+They use a modern stack of:
+
+Typescript, React, NodeJS
+Docker, Kubernetes, Google Cloud Platform, AWS, Terraform, MongoDB
+
+In this role you would be working on their core product. Your responsibilities would include building, improving, and deploying their software.
+
+Particularly, you will get to:
+
+Design and implement new features across the stack.
+Build parts of the software stack, mostly on the DB and API side.
+Design and implement the architecture and infrastructure with a focus on high performance and scalability when handling millions of data points.
+Uphold their high engineering standards and bring consistency to the codebases, infrastructure, and processes you will encounter.
+Research and implement new technologies and solutions.
+
+Required Skills
+
+Ideally, you have:
+
+At least 5 years of experience in building, managing, and deploying applications into big infrastructures.
+Knowledge of software engineering, design, and deployment best practices.
+Experience with building and shipping software solutions.
+A strong passion for new technologies and interest in keeping up with the latest technologies.
+A creative, collaborative, and product-focused mindset.
+Excellent coding skills in TypeScript and NodeJS. Python and C++ are a bonus.
+Knowledge in Machine Learning and experience with Docker and Kubernetes is a bonus.
+
+
+If you're looking to work for a true tech company, with smart people, a flat hierarchy, flexible working, and to solve interesting and complex problems, please do get in touch!
+
+
+
+We look forward to receiving your application and discussing further

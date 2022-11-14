@@ -1,0 +1,39 @@
+About the job
+Would you like to work in an energizing and entrepreneurial environment where you will face new challenges each day? You have an analytical mind, very good coding skills and you are passionate about building up a unit and their projects from the scratch? Then become our new Frontend Developer (m/f/d) in our international remote working team - remote based in Europe!
+
+YOUR FIELD OF ACTIVITY.
+
+You will be part of a new unit that will launch new online marketplaces (websites, APIs) across multiple services and technologies,
+You work in an agile team that is designing and developing software with premium publishers internationally,
+You will solve running issues by using Open Source Software, it's community and first of all the internal know-how of the team,
+You will meet up with fellow developers to deep-dive and present new technologies, discoveries and quick hacks,
+Continuously improve and regularly challenge the team’s status quo by embracing new ideas and openly engaging in discussions,
+You make sure that the code is of high quality and tested when passing through the CI/CD pipeline.
+
+YOUR MINDSET & EXPERIENCES.
+
+You have an open-minded, hands-on and self-organized attitude which is positive, enthusiastic and empathetic,
+You are experienced with agile development methods as well as the willingness to work in a self-organized environment,
+You have professional experience as a Frontend Developer,
+You are very confident in using HTML, CSS and sufficient knowledge in different JavaScript frameworks, for example Node.js and / or Vue.js,
+Knowledge of TDD and best practices within the mastered frameworks
+You are familiar with major templating systems,
+Desirable: You are familiar with Ruby on Rails, Jekyll and major templating systems,
+
+
+WHAT WE OFFER.
+
+Fridays off until 2023 as we experiment with a four-day week. Help us build the future of work where all of us to have more time to take care of our health and well-being!
+Flexible trust working hours in a remote work environment, which we equip with state-of-the-art hardware (e.g. MacBook pro), monitors, height-adjustable desks / portable solutions and ergonomic chairs, among other things with a 500€ budget
+Unlimited employment contract,
+Generous time off policy - six weeks of PTO + holidays, volunteer days, and more!
+Co-Working Access,
+Participation in an exciting and healthy growing company that offers you a lot of room for your personal development and your impulses and ideas,
+Transparent decision-making processes with our three founders as well as leads with a distinct start-up mentality,
+Ambitious and at the same time warm and appreciative international teams
+
+
+HOW TO APPLY
+
+There is a lot going on at Savings United! You want to know more? Then simply upload your CV and answer last detailed questions.
+We are looking forward to getting to know you better!

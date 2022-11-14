@@ -1,0 +1,70 @@
+About the job
+A Few Words About Us
+
+First things first… What will you become a part of? Valtech is a global digital agency focused on business transformation. We enable clients to anticipate tomorrow’s trends and connect more directly with their consumers across digital and physical touchpoints.
+
+We deliver innovation with a purpose. While our expertise is experience design, technology, and marketing, our passion is in addressing transformational business challenges for our clients. Challenges where we re-imagine the customer journey and build new connected experiences. Challenges where we make data work in this new era and help our clients transform the way they operate and optimise business-critical digital platforms for multichannel commerce and marketing.
+
+From discovery to optimisation, clients trust Valtech to remove complexity and deliver innovative, frictionless solutions that close the experience gap between customer expectation and reality. We are a network of more than 5,000 makers, thinkers, marketers, creatives, and developers spanning 5 continents with 50+ offices in 22 countries.
+
+About The Role
+
+As a Global Platinum Sitecore Partner with 9 MVPs in our ranks, it’s no small thing for us to be looking for a Global Frontend Lead Developer focusing on Sitecore area. We are delighted to give you the chance to be part of a team of exceptionally talented, creative, and innovative Sitecore professionals working on the Sitecore stack around the world with various front-end stacks.
+
+For this role we’re looking for candidates already living in one of the following countries: Germany, France, Netherlands, UK, Denmark, Sweden, Ukraine, or Switzerland.
+
+Working remotely from a different country, or long distance relocation is not possible for this role. Relocation within Europe is not excluded but of course, candidates already living in the above mentioned countries will be preferred.
+
+What You’ll Be Doing
+
+Stay up to date on what is happening in the field and take the lead in determining the (technical) course in the front-end architectures, together with the communities of practice you represent.
+Champion Jamstack, headless, decoupled architectures, Static Site Generators and monorepo approaches
+As a Global Sitecore Frontend Lead Developer you will play an active and hands-on role in supporting the organization in delivering solutions that clearly position Valtech as a market leader
+As part of our Global Sitecore Practice Team, you’ll get deeply involved in some of our most critical, complex and large-scale Sitecore headless engagements
+You have business sense and you understand what success looks like for our clients. That means you can translate that knowledge into solutions that maximize the benefit
+You’ll actively support our teams globally in delivering solutions that exceed client expectations. You’ll guide and steer the teams and, if necessary, engage with clients.
+Create support for change and build a strong base for scale
+Make the organization aware of the increasingly important role of front-end architecture in our projects and ensure that front-end is involved more and earlier in the process
+Maintain an overview of available knowledge within the discipline, indicate where additional knowledge is needed and actively pursue knowledge sharing
+Contribute to projects by leading by example, coaching fellow front-end developers, setting the mark
+Actively promote front-end within the organization
+Look for ways to simplify an increasingly complex developer experience
+Advocate for best practices, fast performance and scalable solutions
+
+Our Preferred Candidate
+
+Has a maker mentality, who wants to join a company full of diverse, intelligent, and talented people
+Wants to shake things up and fill their days with problem-solving, innovation, and phenomenal client projects.
+Is ready to do the best work of their life…. things they are really and genuinely proud of, with opportunities to travel far and wide, learn every day, and really and truly meet their potential.
+Is flexible and has a personal drive to “getting things done”
+Has the ability to adjust on-the-fly to new demands in the business environment with a proper sense of urgency
+Is having the “We before Me” mindset where success is created in close and respectful collaboration with teams and colleagues across our company
+
+We need you to know
+
+React/NEXT, Vue.js/NUXT or similar technologies. You should know a lot about JavaScript, TypeScript, HTML, CSS and SASS
+CI / CD Pipelines
+Ambitious performance, SEO and accessibility targets
+Build & development tooling (like webpack, rollup, Node.js, and Babel.js)
+GraphQL and Backend-for-Frontend patterns
+Shift-left testing
+Having a front-end lead role and being an evangelist of change
+Working in the digital agency world. You have a background at or experience with digital agencies. You understand the playing field, the competitors in the market and the available platforms.
+Edge-computing, like Serverless Javascript / JS-based CDNs and static site generators
+Familiarity with Microservices and service-oriented architectures
+Headless CMS and Sitecore JSS solutions
+Ability to work with dispersed teams in different locations and working with different cultures.
+Flexibility to travel regularly - some months you can expect up to 40% of your time to be away from home.
+Excellent communication skills and you are fluent in English – both spoken and written.
+
+Meet the team
+
+You will become part of our Global Sitecore Practice Team working with colleagues who are among the most experienced and talented within the global Sitecore Community. You will report into our VP Global Technology, Sitecore, Una Verhoeven, who heads up our Global Sitecore Practise Team.
+
+What can you expect from us?
+
+At Valtech you’ll become part of our exceptional team of more than 5,000 talented innovators, design thinkers, marketers, creatives, and engineers. We interact across countries, disciplines, trades, roles and teams. We are consultants before anything else and take ownership of our own work, clients, and careers. We provide everyone with a large degree of freedom - in return, we expect an equally high degree of accountability and dedication. We transform by doing and insanely passionate about improving the end user experience. We are a people company. We share our knowledge and learnings, we dare to speak up and take risks. And we care deeply about one another, our clients, and the world around us.
+
+We have from our very beginning always worked hard on providing everyone within our organisation the opportunity to grow and transform their job opportunities and career paths across the world. From graduates to seasoned professionals who are experts in their field. Valtech will always be recognised not just for the quality of the work we deliver, but for all the amazing people that make it happen. We don’t just talk about how to get things done, we really do transform by doing.
+
+If this sounds like your next challenge, then do send us your application already today.

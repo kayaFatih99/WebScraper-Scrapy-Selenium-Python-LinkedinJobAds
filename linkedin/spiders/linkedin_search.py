@@ -29,9 +29,9 @@ class LinkedinSearchSpider(scrapy.Spider):
         driver.get("https://www.linkedin.com/login/tr?trk=homepage-basic_intl-segments-login")
 
         username = driver.find_element(By.XPATH,'//*[@id="username"]')
-        username.send_keys('webscrapertest99@gmail.com') # linkedin username or e-mail
+        username.send_keys('') # linkedin username or e-mail
         password = driver.find_element(By.XPATH,'//*[@id="password"]')
-        password.send_keys('2611563fatih') # linkedin password
+        password.send_keys('') # linkedin password
         loginButton = driver.find_element(By.XPATH,'//*[@id="organic-div"]/form/div[3]/button')
         loginButton.click()
         
@@ -60,7 +60,7 @@ class LinkedinSearchSpider(scrapy.Spider):
             
             for block in blocks:
                 link = block.find_element(By.XPATH, './/div/div[1]/div[1]/div[1]/a').get_attribute("href")
-                # Toplanan linklerin yazdırılacak adresi :
+                
                 with open(f'output_list/{top_link_names}.txt', 'a',encoding="utf-8") as f:
                     f.write(link + " , ")
                 driver.execute_script("arguments[0].scrollIntoView();", block)

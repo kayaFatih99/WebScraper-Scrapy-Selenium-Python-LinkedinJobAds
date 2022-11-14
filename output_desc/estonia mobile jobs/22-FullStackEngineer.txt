@@ -1,0 +1,13 @@
+About the job
+Plexus has joined forces with a exciting start-up that are building a decentralised crypto infrastructure for the continent of Africa. They are looking for a Full Stack Engineer to join their expanding team on a permanent basis. This is a urgent role, with potential to start the mission within a few days.
+Requirements
+6+ years working as Full Stack engineer .
+4+ years with Golang
+3+years with React
+Familiarity with cloud based platforms, ideally AWS
+Experience with Security or Fintech
+Offers
+Fully remote
+Competitive salary + generous benefits package
+
+If you are interested in this role, send over a CV - george.mcnulty@plexusrs.com

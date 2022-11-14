@@ -1,0 +1,5 @@
+About the job
+Experience and Education:
+3+ years of professional experience in a technology company or environment.
+Prior experience as a front-end or full-stack developer or engineer, is required (JavaScript, React, Node.JS, Next.JS).
+Prior experience in a developer relations role is preferred.
