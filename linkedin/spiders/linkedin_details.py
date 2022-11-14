@@ -18,8 +18,8 @@ class LinkedinDetailsSpider(scrapy.Spider):
         items = LinkedinItem()
 
         # Aşağıda input girişleri otonomiyi kolaylaştırmak için eklenmiştir :
-        top_link_names = 'berlin_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
-        desc_folder_name = 'berlin mobile jobs' # spain remote jobs # klasör(folder) işlem yapmadan önce el ile yapmak gerekir yoksa okumaz.
+        top_link_names = 'estonia_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
+        desc_folder_name = 'estonia mobile jobs' # spain remote jobs # klasör(folder) işlem yapmadan önce el ile yapmak gerekir yoksa okumaz.
 
         options = webdriver.ChromeOptions()
         options.add_argument("headless")

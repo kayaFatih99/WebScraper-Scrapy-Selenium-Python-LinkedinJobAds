@@ -15,10 +15,10 @@ class LinkedinSearchSpider(scrapy.Spider):
         yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        search_keywords = 'mobile developer' # full stack developer 
-        search_location = 'Berlin' # Madrid, Spain
-        search_filter = '&f_WT=2' # remote filters => &f_WT=2
-        top_link_names = 'berlin_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
+        search_keywords = 'react developer' # full stack developer 
+        search_location = 'Estonia' # Madrid, Spain
+        search_filter = '&f_E=4&f_TPR=r604800' # remote filters => &f_WT=2
+        top_link_names = 'estonia_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
 
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
