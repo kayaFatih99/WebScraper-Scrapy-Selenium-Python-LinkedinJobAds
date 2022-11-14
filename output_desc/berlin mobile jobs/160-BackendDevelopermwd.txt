@@ -1,0 +1,33 @@
+About the job
+Wir sind they – eine frisch gegründete Cloud Consulting Firma mit großen Ambitionen. Wir sind ein junges, kleines Team, mit dem du wachsen kannst und die Möglichkeit hast, deinen Job selbst mitzugestalten. Du suchst Cloud Migrationen, IT-Optimierungen oder Software-Entwicklungen? Wir denken nicht in Schubladen, sondern werden deine Ideen über den Tellerrand hinaus supporten und gemeinsam umsetzen. Wir sind kein Konzern mit alten Boomer-Strukturen, sondern kommunizieren auf Augenhöhe mit dir und packen zusammen an, denn they just make IT.
+New Work ist bei uns kein Buzzword – wir leben es. Du profitierst von flexiblen Arbeitszeiten, flachen Hierarchien und einem freundschaftlichen Miteinander
+Du erhältst die aktuellste technische Ausstattung und alles was du für deine bestmögliche Arbeit benötigst
+Du hast gute Ideen und bist motiviert dich einzubringen? Wir geben dir gerne die Chance mitzugestalten
+Dir fehlt der obligatorische Obstkorb oder die Softdrinks? Sag uns einfach, was dich motiviert und wir finden eine Lösung
+
+Aufgaben
+Teil eines 5-köpfigen Entwicklungsteams (zukünftig 7-8 Personen)
+Aktuell schwerpunktmäßig Automotive-Branche - bedeutet eigenständig als Team eine Media Middelware für die Medienauslieferung der weltweiten Car Configuration bauen. (Tech Stack: Node.js, Terraform und diverse AWS-Dienste)
+Multi-Cloudsysteme sind unsere Kernkompetenz. Das Aufsetzen von komplexen IT-Architekturen, die Durchführung von Migrationen sowie die Optimierung von Bestandssystemen.
+Unsere Full Stack-IT-Beratung reicht von einer ausgearbeiteten Strategie und Architektur bis hin zur Umsetzung, Betrieb und stetiger Optimierung.
+
+Qualifikation
+
+Software-Entwicklung ist dein Bereich in dem du dich wohl und sicher fühlst? Und du bringst folgendes mit:
+Ein abgeschlossenes technisches Studium (Informatik oder etwas vergleichbares)
+Software-Entwicklung-Erfahrungen – im besten Fall mit Golang oder NodeJS
+Lust auf aktuelle technische Themen (Cloud Technologien) und schreckst nicht davor zurück, in Legacy Systeme von Kunden zu schauen
+Cloud Erfahrung oder die Bereitschaft dich dahin zu entwickeln
+Insbesondere AWS und Azure Kenntnisse von Vorteil
+Ein hohes Maß Eigenverantwortung und Eigenantrieb
+Lust auch mal über den Tellerrand zu schauen und dich mit uns weiterzuentwickeln
+
+Benefits
+Full Remote
+1 x pro Quartal: Team-Events als "Workation" (i.d.R. Reisen auf Firmkosten zu tollen Destinationen - zuletzt Amsterdam)
+IT-Austattung deiner Wahl
+Bei Bedarf Bahnticket oder ähnliches
+Regelmäßige Weiterbildungen auf Firmenkosten
+Bezahlung auf Konzern-Ebene
+
+Wir freuen uns auf deine Nachricht.

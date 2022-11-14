@@ -1,0 +1,46 @@
+About the job
+Yelp is looking for an authentic, tenacious, unboring Backend engineer—who plays well with others and protects the source!—to join our Compliance Engineering team. You’ll take on a diverse set of challenges across Yelp engineering, working closely with the rest of the organization to ensure compliance across all of Yelp’s applications.
+
+As a Backend engineer on the Compliance Engineering team, you’ll have a tremendous impact protecting Yelp’s enormous data footprint, our employees, and our millions of users. You’ll have the opportunity to partner with stakeholders to develop, monitor, and maintain solutions that meet all applicable data regulations and privacy laws (GDPR, CCPA, etc.) at Yelp, as well as build tools to automate manual validation.
+
+This opportunity requires you to be located in Germany.
+
+We’d love to have you apply, even if you don't feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+
+Where You Come In
+
+Develop and deploy compliance-related components (GDPR, CCPA, etc.) for Yelp’s mobile and web applications.
+Build solutions and tools to automate manual validation of Yelp’s compliance to data regulations and privacy laws.
+Create and validate controls to ensure data flows are identified and mapped.
+Maintain data privacy updates in accordance to changes in data privacy laws.
+Work closely with teams across the organization (Security, Engineering, and Legal) to identify, implement, and document risks in Yelp’s systems.
+Guide, influence, develop, and implement compliance engineering solutions based on policies and best practices across Yelp.
+Lead discussions around security and compliance and respond to relevant inquiries.
+Partner with stakeholders to maintain and monitor data regulations and privacy law compliance.
+
+What It Takes To Succeed
+
+Professional experience in large enterprise environments or implementing compliance components such as GDPR, CCPA, SOX, or PCI.
+Familiarity of basic cloud concepts (AWS services, container solutions [Docker/Kubernetes], microservices, etc.).
+Basic development or scripting skills in Python and Javascript.
+Great understanding of and interest in Service-Oriented Architecture.
+Experience with OWASP, security libraries, secure coding practices, and common security flaws.
+BS or MS in Computer Science, Engineering, or a related technical discipline, or equivalent experience.
+
+What You'll Get
+
+Full responsibility for projects from day one, a collaborative team, and a dynamic work environment.
+Competitive salary with equity in the company, a pension scheme, and an optional employee stock purchase plan.
+30 days paid vacation per year plus one floating holiday.
+€150 monthly reimbursement to help cover remote working expenses.
+€89 caregiver reimbursement to support dependent care for families.
+Flexible working hours and meeting-free Wednesdays.
+Regular 3-day Hackathons, bi-weekly learning groups, and productivity spending to support and encourage your career growth.
+Opportunities to participate in digital events and conferences.
+Complementary elective German lessons for international employees.
+€67 per month to use toward qualifying wellness expenses.
+Quarterly team offsites.
+
+Yelp values diversity. We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition, disability, or any other protected status.
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.

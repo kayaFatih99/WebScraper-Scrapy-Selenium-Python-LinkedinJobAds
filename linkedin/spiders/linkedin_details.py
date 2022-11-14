@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+from ..items import LinkedinItem
 import time
 
 class LinkedinDetailsSpider(scrapy.Spider):
@@ -14,9 +15,11 @@ class LinkedinDetailsSpider(scrapy.Spider):
         yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
+        items = LinkedinItem()
+
         # Aşağıda input girişleri otonomiyi kolaylaştırmak için eklenmiştir :
-        top_link_names = 'london_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
-        desc_folder_name = 'london mobile jobs' # spain remote jobs # klasör(folder) işlem yapmadan önce el ile yapmak gerekir yoksa okumaz.
+        top_link_names = 'berlin_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
+        desc_folder_name = 'berlin mobile jobs' # spain remote jobs # klasör(folder) işlem yapmadan önce el ile yapmak gerekir yoksa okumaz.
 
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
@@ -27,9 +30,9 @@ class LinkedinDetailsSpider(scrapy.Spider):
         driver.get("https://www.linkedin.com/login/tr?trk=homepage-basic_intl-segments-login")
 
         username = driver.find_element(By.XPATH,'//*[@id="username"]')
-        username.send_keys('') # linkedin username or e-mail
+        username.send_keys('webscrapertest99@gmail.com') # linkedin username or e-mail
         password = driver.find_element(By.XPATH,'//*[@id="password"]')
-        password.send_keys('') # linkedin password
+        password.send_keys('2611563fatih') # linkedin password
         loginButton = driver.find_element(By.XPATH,'//*[@id="organic-div"]/form/div[3]/button')
         loginButton.click()
         
@@ -96,17 +99,17 @@ class LinkedinDetailsSpider(scrapy.Spider):
                     f.write(job_desc)
                 txtNumbers = txtNumbers + 1
             
-            yield {
-                'job_title':job_title,
-                'company_name' : company_name,
-                'company_linkedin_link' : company_linkedin_link,
-                'company_location' : company_location,
-                'company_image' : company_image,
-                'work_method' : work_method,
-                'post_date' : post_date,
-                'applicants' : applicants,
-                'work_time' : work_time
-                }
+            items['job_title'] = job_title
+            items['company_name'] = company_name
+            items['company_linkedin_link'] = company_linkedin_link
+            items['company_location'] = company_location
+            items['company_image'] = company_image
+            items['work_method'] = work_method
+            items['post_date'] = post_date
+            items['applicants'] = applicants
+            items['work_time'] = work_time
+
+            yield items
         
         
         

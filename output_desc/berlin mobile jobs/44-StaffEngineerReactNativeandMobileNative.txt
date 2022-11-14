@@ -1,0 +1,66 @@
+About the job
+About Kraken
+
+As one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities worldwide - our unique combination of products, services, and global expertise is helping tip the scales towards mass crypto adoption. But we’re only just getting started. We want to be pioneers in crypto and add value to the everyday lives of billions. Now is not the time to sit on the sidelines. Join us to bring crypto to the world.
+
+To ensure Kraken is the right fit for you, please ensure you read Kraken Culture Explained to find out more about us!
+
+UI Engineering at Kraken
+
+Kraken’s Software Engineers are tasked with developing cutting edge interfaces that change how millions of users interact with our platform. Our products need to handle processing and displaying huge amounts of real-time information whilst also maintaining an intuitive and friendly user experience, to achieve this engineers with both a strong technical background and keen eye for design are required. We're looking for passionate and talented engineers who can bring fresh ideas and expertise from all industries. As a Software Engineer, you will work as a core member of a fully remote team on a specific project critical to Kraken’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need all of our engineers to display a versatile talent set, from exceptional technical ability to strong communication skills and passion for the monumental change that the crypto industry can bring to society.
+
+About The Role
+
+We’re looking for a legendary Staff Engineer who can take our mobile products to the next level. You will use your strong knowledge of mobile engineering to identify places where we should use native code to improve the overall UX, UI and performance of our mobile products. We demonstrate ownership of tangible outcomes which deliver value to our users.
+
+For this role we are looking for an experienced staff engineer with a background in a similar role ideally in a financial / trading environment. You have contributed strongly in building an industry leading mobile app using React Native with the combination of native components.
+
+A key goal will be to take the ownership of architectural vision, long term engineering direction and vision for scaling and growing our mobile products. You are expected to know best practices, how to deliver great user experiences and be able to mentor engineers on the team to deliver these, with a down-to-earth attitude.
+
+Everybody within the Engineering organization is mission oriented and results driven, we put “accelerating the worldwide adoption of cryptocurrency” above all else and we index heavily on tangible business results over ‘busy work’, It’s not about how much code was written, it’s about how much impact what was delivered with as little as code as possible, or even better solving a problem without writing any new code.
+
+Responsabilities
+
+Strong technical understanding of the React Native and native mobile across iOS and Android architecture, performance and ongoing stability of mobile products
+Take ownership and continuously review code to ensure it is scalable, reusable and works across multiple applications inside our repository
+Mentoring and guiding engineering in the mobile team to best practices and working with them to educate
+Excellent communicator to smoothly ensure others understand what is required to change at all levels.
+Experience working with product and engineering leadership to ensure big bets can be made, architectural changes can happen and priorities are understood.
+Excellent communication both written via RFCs / architecture diagrams and verbally to clearly articulate points in meetings and get everyone on the same page is required.
+Keep up to date with the mobile development ecosystems so as to be able to influence future product direction.
+
+Requirements
+
+At least 8+ years extensive software engineering experience in high performing teams
+6+ years of strong knowledge using React Native and Typescript at scale
+2+ years in a Staff Engineer role
+Objective-C/Swift or Java/Kotlin - iOS and Android native experience and bridging with React Native
+Firm grasp of the JavaScript language and its nuances, including ES6+ syntax and the TypeScript superset
+Ability to teach (and write) new architecture, turbo modules and JSI to the team, knowledge and understanding of C++
+Experience working on either large complex enterprise level systems or proven ability to build a greenfield product from start to finish
+You write high quality, well tested code to meet the needs of your customers.
+Willingness to take extreme ownership of your work and educate engineers to create results
+Ability to work closely with product, engineering and design teams
+Working with leadership and senior management to steer the way of mobile engineering roadmap
+
+Nice to have
+
+You have worked in the crypto, fintech or security industry
+Knowledge of Rust
+React Native core contributor or experience with the core
+
+Location Tagging: #EU
+
+We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!
+
+As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.
+
+Stay in the know
+
+Kraken Culture Explained
+
+Follow us on Twitter
+
+Catch up on our blog
+
+Follow us on LinkedIn

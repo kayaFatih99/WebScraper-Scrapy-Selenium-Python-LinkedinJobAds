@@ -1,0 +1,38 @@
+About the job
+You want to help build a new, digital product (green field) in an agile and self-organized environment and make it successful? Do you want to be part of an exciting start-up that takes the market for InsurTech to a new level?
+
+Then take over the backend development for our new IT platform in our recently founded start-up, backed by the Hypoport Group. The first technology decisions have been made and are now waiting for your expertise to help shape and implement them. You are free to choose whether you want to work full-time or part-time.
+
+Working hybrid/remote: You can have your home base at one of our locations (Berlin, Hamburg or Munich) and/or you can also work fully remote from your home office throughout Germany.
+
+Your tasks:
+Development of central system components and backend services for a new insurance platform
+Coordination of all activities within and with other self-organized, agile project teams and with related disciplines
+Conducting feasibility studies and technical reviews
+Our concepts and technologies: Kotlin, Docker, Kubernetes, Hyperscaler, REST APIs, Graph APIs, hexagonal Architecture, CD/CI, SQL, document databases, AWS
+Cooperation at eye level in a team with mutual appreciation and open feedback culture
+
+What you bring to the table:
+You are enthusiastic about modern, agile product development as well as scalable architectures and applications.
+You have several years of experience as a developer and understand the challenges and success factors in software development, DevOps and QA.
+You have solid experience in development with Java and/or Kotlin
+Quality standards for processes in the team as well as for the developed systems are a high priority for you.
+You work with the team to come up with ideas and solutions for code and process improvements
+You work independently, but also know when you need support from the team
+You are able to communicate effectively in English
+You are curious and always interested in learning more about tech trends, industry trends, domain and company
+
+What we offer:
+Self-organization: There is no micro-management or classic hierarchies at our company - we work independently and result-oriented.
+Grow with us: Trainings, knowledge days, exploration days, peer feedbacks & individual development programs.
+
+You Create: Become an expert in your role, contribute your own ideas and drive projects forward independently - mutual development forms the basis of our work.
+Quality Time: Trust-based working hours, home office, sabbaticals, flexible planning of your 30 days of holiday and the option to extend your holiday by 10 days.
+Team play: At our company, people shape the company - not the other way around. We create room for growth, which each team can fill with initiative and personal responsibility.
+
+Still a question mark?
+Reach out to Anne
+https://www.linkedin.com/in/annegryzbeck/
+
+Anne Gryzbeck | People & Culture Recruiting Partner
+Corify | Hypoport

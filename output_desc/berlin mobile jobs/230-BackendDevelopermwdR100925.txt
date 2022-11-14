@@ -1,0 +1,65 @@
+About the job
+Wir sorgen gemeinsam für die digitale Energiewende in Gebäuden
+
+Techem ist seit fast 70 Jahren führend in der Immobilienwirtschaft: Wir bieten smarte Lösungen für mehr Energieeffizienz in Gebäuden in rund 20 Ländern weltweit.
+
+Für unser stark wachsendes Digital IT Team suchen wir schlaue Köpfe, kreative Denker und leidenschaftliche Tüftler, die sich für modernste Softwareentwicklungen und digitale Energielösungen sowie das Internet of Things begeistern. Du fühlst dich angesprochen und hast außerdem noch Freunde und Kollegen (m,w,d) im Kopf, die auch perfekt zu uns passen würden? Dann freuen wir uns, dich oder euch kennenzulernen.
+
+Ein Teil von Techem zu werden heißt, ein Teil der Energiewende zu sein – und das in einem zukunftsweisenden und agilen Arbeitsumfeld. Steig' bei uns ein als:
+
+Backend Developer (w/m/d) , R-100925
+Standort: Remote (Deutschland, EU) oder Eschborn, Bielefeld
+
+Super Aufgaben:
+
+Weiterentwicklung der bestehenden Basiskomponenten unseres Unternehmens
+Konzeption und Erstellung von SQL- und NoSQL-Datenbanken
+Erarbeiten von Cloud-Lösungen auf Basis der Azure-Cloud-Technologien
+Permanente Optimierung, Automatisierung und Performanceanalyse unserer Systeme
+Du arbeitest am Aufbau unserer Basis-Datenplattformen von morgen mit
+
+
+
+Unser Team:
+Wir sind ein starkes Team und ergänzen uns in unseren Fähigkeiten
+Wir haben eine Sache gemeinsam: Lust auf neue, digitale Services für unsere Kunden
+Bei uns zählt der Mensch mehr als die Position oder das Hierarchie-Level
+
+
+Super Voraussetzungen:
+
+Abgeschlossenes Studium oder vergleichbare Ausbildung mit Erfahrung im IT-Bereich
+Umfangreiche Kenntnisse in z.B. folgenden Feldern können zielgerichtet eingesetzt werden: PL/SQL und NoSQL, Azure ADX, MongoDB, CosmosDB, C#/.NET, Oracle, PostgeSQL und Delphi
+Erste Clouderfahrung gerne im Azure Umfeld und Berufserfahrung im Datenbankumfeld
+Gute analytische Fähigkeiten, Begeisterung für neue Technologien und Trends
+Teamfähigkeit, Kommunikationsstärke bevorzugt in Deutsch und gute Englischkenntnisse sowie Erfahrungen mit agilen Methoden
+
+
+Unser Tech Stack:
+Java, Springboot
+Gitlab repository & pipelines
+CI/CD mit zwei-wöchentlichen Produktivsetzungen
+jUnit, FitNesse für Testautomatisierung
+Azure Cloud Stack, Docker, Kubernetes
+Jira, Confluence, MS Teams, IntelliJ unter Linux oder Windows
+
+
+Unsere Highlights und Angebote für dich:
+Eine spannende Aufgabe im wichtigsten Thema unserer Zeit: Bekämpfung des Klimawandels!
+Einen tollen Teamspirit, mit dem alle digitalisieren, sprinten und viel gemeinsam bewegen
+Daten und Erfahrungen eines IoT Champion mit über 50 Millionen funkenden Sensoren bei dem die Datenverarbeitung die Kernwertschöpfung ist
+Modernste Softwareumgebungen z.B. auf Azure Cloud sowie agile Vorgehensweisen und Tools
+Freiheit beim mobilen Arbeiten und moderne Kommunikationsmittel
+Ergänzende Treffen mit deinem Team z.B. in Eschborn oder Bielefeld
+
+Super Klima:
+
+Guter Start bei Techem: Digitaler "Welcome Call" für alle neuen Mitarbeiter, 2-tägige Onboarding-Veranstaltung, uvm.
+Arbeiten bei Techem bedeutet: kurze Entscheidungswege, flache Hierarchien, offene Duz- und Unternehmenskultur, uvm.
+Persönliche Entwicklung bei Techem: vielfältige Möglichkeiten, um sich sowohl als Fach- als auch als Führungskraft weiterzuentwickeln, wie etwa mit unserem systematischen Entwicklungsprogramm "STEP", uvm.
+Für unsere Mitarbeiter: Flexible Arbeitszeiten, mobiles Arbeiten, ein modernes Arbeitsumfeld sowie gratis Wasser, Fairtrade-Kaffee und Tee an allen Standorten, uvm.
+Beste Chancen die Zukunft der Energiewirtschaft mitzugestalten: Digitales und dynamisches Umfeld, zukunftsweisende Projekte, uvm.
+
+
+Neugierig?
+Schauen Sie sich die komplette Stellenanzeige auf unserer Homepage an: https://karriere.techem.de

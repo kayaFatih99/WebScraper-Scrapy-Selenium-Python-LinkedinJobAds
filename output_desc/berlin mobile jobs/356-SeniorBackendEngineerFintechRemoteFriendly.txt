@@ -1,0 +1,38 @@
+About the job
+The Aave Companies are focused on innovation in Web3, and have cultivated a thriving, collaborative culture. Valuing expertise and passion, the Aave fam is welcoming, passionate, and eager to build great products. We celebrate differences and seek to recruit, develop, and retain the most talented people from a diverse candidate pool...and we're hiring!
+
+We are looking for an experienced Senior Backend Engineer to help build out a groundbreaking FinTech application from the ground up, which will become a critical piece of architecture for the next stage of Web3 and crypto adoption.
+
+The ideal candidate should have a background in the traditional FinTech industry and also be curious about Web3. They are excited to help build a quality foundation, drive key decisions early on, and set up the product for long term success.
+
+This role is remote friendly. For coordination purposes, it is preferred that you are located and working within the GMT-PST time zones.
+
+Responsibilities
+Design and architect backend REST and/or GraphQL APIs
+Develop backend that will become the foundation for the intersection between Web3 and FinTech
+Work with external stakeholders in the FinTech industry to integrate solutions
+Coordinate with core stakeholders in Product, Legal, and Compliance to build features for scale and performance
+Become a subject matter expert in payments and Web3
+Collaborate with front end and smart contract developers
+
+Requirements
+5+ years of relevant experience building clean, maintainable, and well-tested code in production systems at scale
+2+ years of experience in Typescript and Node
+2+ years of experience building scalable solutions on top of AWS or GCP infrastructure
+Experience working with container technologies like Docker
+Familiarity with Kubernetes
+Familiarity with GraphQL APIs and frameworks (e.g., Apollo Server)
+Experience with database development with both relational databases and NoSQL databases, like PostgreSQL, Redis, DynamoDB, or similar
+English language fluency
+Experience working in Web3 or an eagerness to learn
+Excellent work ethic with the ability to work quickly, efficiently, and to multitask
+Desire and ability to innovate and improve upon current processes
+Positive attitude and a team player
+
+Benefits
+Flexible working with office based in Central London (W11)
+25 days paid holiday
+Private dental care
+Private healthcare
+Front seat into position on working with decentralized financial technologies
+Guaranteed innovation-driven work environment

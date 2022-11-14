@@ -1,0 +1,35 @@
+About the job
+Backend Developer (Inhouse) – Germany Wide, Home Office
+
+** Fluent Business Level of German Language Required **
+
+Up to €65,000 + Prepaid Monthly Credit Card
+
+This client is one of the leading providers of healthcare equipment in Germany. Due to their recent merger with a well-known German healthcare business, they’ve got some big internal projects for migrations and integrations of various technical platforms like Salesforce, SAP & more.
+
+Their mission is to provide people in need of help and care with the best possible information and tools to make life easier.
+
+They’re looking to add a Backend Developer to their Enterprise Technology team of 9 people already.
+
+Tasks of the Backend Developer:
+Maintaining of existing, planning and implementation of new functionalities in their own Middleware (PHP, DI/dependency injections)
+Planning and implementation of new REST APIs within Middleware to Salesforce, various webservices and the logistic system
+Implementation of various web-tools (PHP) for company-internal needs (data visualization)
+Maintain the existing DevOps system (git, GitLab CI/CD)
+Participation in the digitization of processes in the whole company
+Collaborate with the Product Owners, UX experts & key users with the IT team made up of Frontend & Backend Developers
+Work in an agile environment in two-week sprints & daily team report meetings
+
+Experience required of the Backend Developer:
+Several years of professional experience in backend development (PHP, MySQL, Rest, Node.js, JavaScript)
+Experience with frameworks (DI/Dependency Injections)
+Initiative and motivation to advance the product, the team and personal development
+Reliable, customer-oriented and team-oriented working attitude
+Committed, structured and able to work both independently and within a team
+
+
+Charlie Nuttall
+NGP Europe
+Salesforce Recruitment Consultant
++44 203 769 2025
+charlie@ngpeurope.com

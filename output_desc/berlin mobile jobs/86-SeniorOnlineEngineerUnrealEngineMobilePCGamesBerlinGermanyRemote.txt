@@ -1,0 +1,36 @@
+About the job
+Project: Unreal Engine Mobile/PC Games
+
+OPM’s client is a highly successful independent developer with over 20 years in the industry. They are seeking an experienced Engineer to join their team.
+
+The successful candidate will have a large autonomy in your work, as well as helping their juniors to develop and grow.
+
+Requirements
+Strong programming experience on live games, for PC, mobile and/or console platforms
+Experience implementing online services, such as In-app purchases, authentication, leader boards, live events, Meta and progression, matchmaking, and analytics
+Fluent in C++, C#, or comparable languages
+Experience working with backend technologies, either in-house or BaaS, in a serverless architecture
+Experience implementing game systems and features, such as UI and gameplay
+Experience with cloud infrastructure on any of the major providers (Azure, AWS, Google Cloud), including VPCs, SQL/NoSQL databases, and messaging/queue systems
+Experience with Playfab, Azure functions, SignalR, Redis
+Experience with UE4, including UMG, Blueprints
+Experience with UE4 build system, and CI/CD (Jenkins, TeamCity or similar)
+Multiplayer game experience, including dedicated servers, UE4 replication and client prediction
+Experience with testing automation frameworks
+Responsibilities
+Implement features and solutions, both on client and backend, covering the tech stack from UE4 communicating to Playfab and Azure infrastructure
+Write clear, maintainable, and fast code in adherence to internal standards
+Research new technologies and tools that will help run live services with high availability and scalability
+Integrate platform services and SDKs
+Support running a 24/7 live game, following schedules, and investigating live incidents
+Write technical specifications, technical design documents, and other relevant documentation
+Mentor junior and regular engineers, run technical interviews and own a significant part of the online infrastructure
+Benefits
+Relocation bonus
+Occupational pension scheme
+Job ticket for public transportation system
+Flexible working hours
+In-house massages & gym membership
+Interested in finding out more about the studio and project? Apply now or call directly today on +44 1206 214 426!
+
+Tagged as: C, Mobile, Unreal Engine

@@ -1,0 +1,41 @@
+About the job
+This job is sourced from a job board. Learn more
+Über Codestryke GmbH
+
+Wir sind ein High-Tech Unternehmen im Bereich Industrial IoT und zählen zu den fortschrittlichsten Lösungsanbietern in Deutschland. Unsere Softwareprodukte und Lösungen sind weltweit auf 4,5 Millionen Geräten im Einsatz. Dabei arbeiten wir eng mit Partnern wie Microsoft und Siemens zusammen. Wir suchen zum nächstmöglichen Zeitpunkt Verstärkung für unser Jobangebot Backend Entwickler mit Node.js - Remote (w/m/d).
+
+Klingt spannend? Dann freuen wir uns auf eine aussagekräftige Bewerbung über unseren Partner Workwise.
+
+Was erwartet dich?
+
+Als Teil unseres VergeLink Teams nimmst du aktiv an der Produktentwicklung teil
+Du übernimmst die Architektur, Entwicklung und Optimierung von Backend- und Edge Services
+Du nimmst an agilen Prozessen, einschließlich Sprintplanung, Projektumsetzungen, Retrospektiven und Daily Meetings teil
+
+Was solltest du mitbringen?
+
+Du hast fließende Deutsch und gute Englischkenntnisse (mindestens C1)
+Du hast ein erfolgreich abgeschlossenes technisches Studium oder eine technische Ausbildung
+Du bringst mindestens 2–3 Jahre Erfahrung in der Backend-Entwicklung mit und hast fundierte Kenntnisse in Node.js mit TypeScript
+Du hast Kenntnisse über gängige Protokolltypen (GraphQL, HTTP, MQTT, TLS, REST)
+Du kannst mit Linux, Bash und gängigen Linux Kommandozeilentools umgehen
+Du bist erfahren mit Netzwerkkonfigurationen und hast ein tiefergehendes Verständnis für Internet- und Netzwerkprotokolle
+Du hast Erfahrung mit Docker und React
+Deine Leidenschaft, Ideen einzubringen und im Team zu arbeiten, zeichnet dich aus
+Fließendes Deutsch und gute Englischkenntnisse runden dein Profil ab
+
+Was bieten wir dir?
+
+Hochmotivierte Teams, flache Hierarchien, direkte Kommunikation
+Modernes Tech-Stack mit starkem Fokus auf die Reduzierung von eintönigen Aufgaben (z.B. vollständig automatisierte Erstellung aller CRUD-APIs – inkl. Client – mit Hasura & GraphQL)
+Abwechslungsreiche Aufgaben in spannenden Projekten
+Wachsendes Unternehmen in einer zukunftsgerichteten Branche
+Zahlreiche Weiterbildungsmöglichkeiten
+Flexible Arbeitszeiten und hohe Eigenverantwortung
+Event Days (Oktoberfest, Kurztrips, After-Work Events)
+Kostenlos: gesunde Snacks, Früchte, Getränke und Smoothies
+Moderne Büroräume im Munich Central Tower mit top Anbindung
+
+Unser Jobangebot Backend Entwickler mit Node.js - Remote (w/m/d) klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.

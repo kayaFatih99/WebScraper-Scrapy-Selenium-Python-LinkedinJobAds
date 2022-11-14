@@ -1,0 +1,21 @@
+About the job
+The client is a leading global technology and consulting partner. They shape and build bespoke technology solutions for exciting multi-national brands and household names to further their business transformation objectives. Their EMEA division totals 190 employees across their offices including Berlin, Copenhagen, London, Dubai, Prague and Amsterdam. Globally, their team exceeds 1,200+ employees across Tokyo, New York and Singapore.
+
+Managing one's personal finances in the present era revolves around one's mobile device. As a front-end developer, you'll have the skills to create native apps for iOS and Android, in addition to responsive web apps that work across devices. You have the ability to deploy a "full-stack," but you also know your way around the back end.
+
+As a front-end developer you will need to demonstrate that you understand that with this key role comes a lot of responsibility to make sure you are doing things right.
+8+ years of software development experience (Senior)
+3+ years of ReactNative experience
+4+ years of ReactJS experience
+6+ years of Javascript/typescript
+iOS (Swift, Objective-C)- At minimum, they have extensive experience integration Native iOS components into React Native projects
+Android (Kotlin, Java)- At minimum, they have extensive experience integration Native iOS components into React Native projects
+4+ years of REST API integration experience
+1+ years of GraphQL experience
+3+ years of Unit testing experience
+2+ years of CI/CD
+2+ years of Finance industry experience
+
+This is an opportunity to be part of something very exciting and groundbreaking.
+
+Apply directly if you are interested or send me a message on LinkedIn.

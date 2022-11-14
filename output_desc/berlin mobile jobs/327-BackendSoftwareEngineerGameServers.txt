@@ -1,0 +1,52 @@
+About the job
+About The Role
+
+As a Backend Software Engineer you will help to expand our game backends, slot services and tools. This includes developing new features and tools, and supporting existing features and tools.
+
+Responsibilities
+Develop new in-game features, tools, and processes
+Support existing in-game features, tools, and processes
+Support Mathematicians and Frontend Developers
+Participate in code reviews
+Research in the online casino industry
+
+Requirements
+2 years of development experience
+Experience in Ruby or Python
+Fluent Git user
+Experience with containers (Docker)
+Familiarity with CI/CD processes (GitLab CI)
+Fluent in English, written and spoken
+Problem solving, attention to detail and the ability to work on multiple projects
+
+Nice to have
+Enjoy creating games
+1 year of experience in developing slot games
+Proficient with JIRA, Google App Scripts, and Cloud Services
+Knowledge of statistics, probability and combinatorics
+Strong communication and teamwork skills
+
+Good to know
+We embrace diversity and equal employment opportunities. We are committed to creating a fair, supportive, and open environment for all.
+
+Why Work for Booming Games
+
+Founder led. Impact driven. Employee centric.
+
+We come to the table with a compelling game offering for our clients. We are releasing an exciting game every three weeks, with aggressive plans to increase this to release a new game every two weeks. Using our cutting-edge technical expertise, we aim to shape this offering to have off-the-shelf games from which to take our pick. We strive to establish a “one team” mentality with our internal clients, working towards a common goal. We’re a multi-cultural and diverse team whose passions and strengths bring much joy to the work.
+
+Our perks
+We’re a 100% remote-first company, offering a best-in-class remote experience
+Competitive package
+Educational allowance per year
+Dog-friendly offices in Berlin and Malta
+Family-friendly policies
+Career growth opportunities
+Zestful working environment
+Knowledge sharing opportunities
+Dynamic culture surrounded by industry experts
+Company social events for team bonding
+
+Contact
+
+HR Team

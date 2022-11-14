@@ -1,0 +1,17 @@
+About the job
+Location: Berlin, Cologne, Hamburg (Hybrid - You can visit the office as little as once a month)
+Salary: Up to €75k 💰
+Tech: PHP, Symfony
+
+Hot opportunity to join this high tech start-up in digitalising the construction industry. With an impressive product, great company culture and €65+ million in funding - this opportunity is not to be missed! 🚧🛠
+
+Responsibilities:
+You'll be part of an agile cross functional team with a focus on backend whilst casting an eye on web and data engineering
+You'll concept, develop and own the PHP services
+Teach, mentor, and collaborate with your team across the product department
+
+Requirements:
+3+ years of experience with backend PHP development
+Relevant experience working with Symfony or a similar framework
+Broad experience with clean code and OOP
+You can speak English fluently and are eager to learn at least a bit of German.

@@ -1,0 +1,44 @@
+About the job
+At Inkitt, we believe every author should have an equal opportunity to succeed. Our mission is to discover hidden talents and turn them into globally successful authors. Traditional publishing often leaves authors behind with human editors responsible for selecting books fit for publication. Inkitt is a pioneer at the forefront of Data Driven Publishing. By inventing an algorithm which analyzes users' reading behavior to identify hits, we have removed subjectivity from the traditional publishing equation. This gives Inkitt the unique ability to discover hidden talents that might otherwise have gone unnoticed.
+
+Are you a builder? We are looking for the change-makers of the world; the people who just build the solution anytime they are unsatisfied with the status quo. Be a part of the revolution to develop new ways of distributing our books, audiobooks, creating games, and video series!
+
+Come build the Disney of the 21st Century with us!
+
+This Backend Engineer (m/f/d) position is for all of you experienced builders out there who want to join our Inkitt Web and Mobile Team and build the foundation for our company’s future.
+
+What you'll do:
+
+Develop key components and APIs powering our Inkitt and Galatea mobile applications
+Build data collection platforms feeding our Analytics and AI ReadRank and other algorithms
+Investigate and propose the latest containerized and serverless hosting architectures, API gateways, and monitoring solutions
+Architect services for scale and cost, leveraging the big-name cloud providers as well as more exotic offerings as appropriate
+Develop API contracts, create documentation, and support application teams in developing against those APIs
+Write and maintain software components in Golang, Ruby, NodeJS, and Python
+Evangelize exploration and application of new languages and frameworks
+Participate in Incubation of new business-transforming consumer products and services
+Who you are:
+
+5+ years of professional software development experience within various back-end infrastructures
+Expertise in Ruby on Rails and a strong desire to learn other back-end languages
+Experience with using Docker and Sidekiq, while any experience with building CI pipelines, Kubernetes, AWS, Google Cloud Platform, Kafka, or RabbitMQ is a plus
+Strong working knowledge of SQL and NoSQL databases, caches, and CDNs
+Excellent communication skills for collaborating with other teams, while experience mentoring juniors is a plus
+A drive to raise the bar of the team on Code Quality, User Empathy, and Delivery Speed
+What we offer:
+
+Top of the line health benefits that align with your local market
+Generous parental leave and support with growing your family
+Ways to help you save and invest in your future
+Opportunities to continuously grow, learn, and develop yourself
+Time away - no set holiday or vacation policy, observe what works for you
+Free access to our Galatea App, as well as an unlimited budget for self-development books
+Fantastic office spaces in Berlin and San Francisco - and always coming up with the next best way to keep our remote colleagues connected
+How we've been doing:
+
+We're a well-funded, mission-driven, series B company with top-tier investors like NEA, HV Capital, and Kleiner Perkins. Recently, Inkitt has raised $59 million, which is one of the largest Series B funding rounds on record for a Berlin-based business. We believe we have a breakthrough idea that will disrupt the publishing industry while changing undiscovered authors’ lives for the better
+At Inkitt, we strive to build a company culture and provide employment opportunities based on diversity and inclusion. We believe every author should have an equal opportunity to succeed, as should our team members. As a growing team from 20+ countries, we welcome everyone to apply.
+
+We look forward to hearing from you!
+
+Check out our careers blog and follow us on Instagram & LinkedIn! #weareinkitt

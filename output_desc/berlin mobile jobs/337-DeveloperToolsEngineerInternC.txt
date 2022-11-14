@@ -1,0 +1,26 @@
+About the job
+NVIDIA's GPUs, SoCs, and networking hardware are the world leaders in performance and efficiency, and we are continually innovating in creative and unique ways to improve our ability to deliver extraordinary solutions in a wide range of sectors. We are seeking software engineers who are passionate about what they do and are committed to making a difference in the world through their inventions. As part of the Software Developer Tools Team, we are responsible for enabling 1st & 3rd-party developers to turn NVIDIA's chips into groundbreaking consumer, professional, server, networking, supercomputer, mobile, and automotive solutions.
+
+What You Will Be Doing
+
+Join the Developer Tools team as an intern to work on software such as Nsight Systems. Dive into the codebase and work on usability and functionality improvements that directly affect our users.
+Collaborate internationally to collect requirements and understand the background and expectations.
+Design and implement new features as well as optimize existing algorithms to handle huge amounts of data.
+Develop tests that ensure that product features work with numerous combinations of hardware and software options.
+
+What We Need To See
+
+BS or MS degree in Computer Science, or equivalent experience.
+Excellent problem solving, collaborative, and interpersonal skills.
+Experience with C++, understanding of algorithms, containers, and data structures.
+Good written English skills.
+
+Ways To Stand Out From The Crowd
+
+Understanding how the tools you use daily work internally: compilers, debuggers, operating systems.
+Experience with Qt, Python, parallel computing technologies like MPI.
+Industry experience, or track record participating in collaborative software projects.
+
+With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. Our diverse team of talented, capable, and professional people is our greatest asset! If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you!
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

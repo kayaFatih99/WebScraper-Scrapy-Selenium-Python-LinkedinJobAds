@@ -1,0 +1,51 @@
+About the job
+Who we are:
+
+We're an ambitious team of researchers, builders, and entrepreneurs with many years of experience in the crypto space and are passionate about digital assets. With a new product roadmap, we are adding several new products to our portfolio, beyond on-chain data - we are becoming a more comprehensive go-to crypto platform for various needs.
+
+Glassnode is a leading market intelligence platform for on-chain and derivatives data. We offer the most comprehensive library of advanced on-chain metrics and insights for Bitcoin, Ethereum and hundreds of other digital assets, bringing data intelligence to the blockchain and cryptocurrency space.
+
+With an emphasis on user-centric interfaces, we aim to deliver intelligible, actionable, and unique insights from blockchain data and beyond, helping investors make educated decisions in an overly emotional and irrational market, and equipping blockchain teams with valuable insights on their projects and tokens.
+
+Senior Backend Engineer - NodeJS (m/f/d). Remote. Full-Time or Consultancy-based Contract
+
+About the role:
+
+Have a direct impact on our business success through building extraordinary and reliable products used daily by our large and ever-growing crypto community.
+
+We are looking for a savvy Backend Developer with knowledge of the Node.js ecosystem. We are developing a remote-first company that empowers people to approach tasks creatively, organise their work the way is best for them and it’s all supported by a collaborative team in a pragmatic and solutions-focused environment. We would like to work with someone who shares these values, can act independently and can see themselves thrive in such an environment.
+
+Join us remotely, you can be located anywhere around the CET time zone, as our work is 100% online. The position is full-time.
+
+What you will be doing:
+Implementing new business features based on the latest developments in the cryptocurrency ecosystem
+Ensure product reliability, scalability, and security
+Improving the performance of core business logic, especially computation, and storage-heavy components.
+Designing new database structures, and improving the design of existing ones.
+Removing technical debt, developing internal tools, and improving the architecture.
+Participating in the product roadmap
+
+What you need:
+5+ years of experience as a backend engineer, with recent experience as a node.js/typescript developer
+Experience with relational databases - design, optimizations, querying
+Writing well-organized, efficient, and easily testable code
+You are comfortable within agile remote-first organizations that work in cross-disciplinary teams
+You are fluent in English as that’s our company language
+Bonus if you have any:
+Experience with Kubernetes
+Experience with non-relational databases
+Knowledge of and using different design patterns
+Experience with Nest.js
+Genuine interest and some knowledge about the crypto world
+
+What we offer:
+A modern technical stack with an emphasis on quality
+Flexibility to organise your work and hours the way you like, our remote-first setup enables this for everyone
+Join a young, self-funded and already profitable company in a future-proof market
+Freedom to own your decisions and experiment, we need driven experts who help us figure out what to do, not for us to point at what needs to be done
+Be one of the main contributors to building a company with its unique culture in the cutting-edge tech space
+No approval loops or unnecessary processes, quick decision-making and full ownership of your function
+We are working on a kick-ass, meaningful benefits package, something truly useful and empowering - you will help us figure out what we'd need to stand out as the workplace of the future, we are open to any ideas
+Frequent company offsites, we love remote but love to have fun together too - this year we went to Lisbon for a week, we're also going to Mallorca for our Xmas party and more adventures are coming
+
+Glassnode is an equal opportunity employer. We respect and empower each individual who joins us. Glassnode commits to a transparent, inclusive, non-discriminatory recruitment process and employment.

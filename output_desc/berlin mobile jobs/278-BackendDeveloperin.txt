@@ -1,0 +1,28 @@
+About the job
+Deine Mission
+
+Du entwickelst skalierbare RESTful Services mit Spring Boot
+Du übernimmst End2End Verantwortung für Deployment und Betrieb
+Du schreibst sauberen und wartbaren Code
+
+Deine magischen Kräfte
+
+Du hast Erfahrungen mit Java und Kotlin (Spring Boot)
+Du hast erste Erfahrungen mit Docker oder AWS gesammelt
+Du hast hohes Interesse an Finanz-Fachlichkeit (Kategorisierung/Vertragserkennung)
+Du bist ein:e Teamspieler:in und arbeitest am Besten mit kleinen, interdisziplinären Teams
+Du bist pragmatisch und qualitätsgetrieben
+Du findest einfache Lösungen für komplexe Probleme
+Du arbeitest eigenverantwortlich und kannst deine Ideen in die Tat umsetzen
+Du bist neugierig auf neue Technologien und willst dich immer weiterentwickeln
+
+Unser Versprechen
+Finanzguru mitgestalten statt nur mitschwimmen: Aktive Mitarbeit an fachlichen Themen, die auch über den Tellerrand hinausgehen
+Ein Team bestehend aus wahren Gurus auf ihren Fachgebieten, flachen Hierarchien, Transparenz und Spaß bei als auch außerhalb der Arbeit
+Eigenverantwortung vom ersten Tag an, eine attraktive Vergütung sowie eine berufliche Perspektive und die Möglichkeit, Dich in Deinem Aufgabenfeld (und darüber hinaus!) weiterzuentwickeln
+Die Möglichkeit aus dem Home Office heraus zu arbeiten
+Täglich ein kostenloses Mittagessen Deiner Wahl
+
+
+Du fühlst Dich angesprochen?
+Dann schick uns eine Übersicht deiner magischen Kräfte :)

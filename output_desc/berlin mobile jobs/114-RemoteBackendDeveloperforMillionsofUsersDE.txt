@@ -1,0 +1,34 @@
+About the job
+TELLONYM is a remote tech company, founded in Berlin. We want you to become part of our journey to build a social network that prioritizes open communication and lets everyone participate - and to help us build a world-class remote company on the way.
+
+At Tellonym, you will be joining a young and diverse team with a variety of experience, skills and personal backgrounds. Everybody in our company can bring in ideas that will directly affect the millions of active users on Tellonym.
+
+We believe in strong teams of self-motivated people, fast decision-making and empowering you to take charge through a supportive, learning-friendly atmosphere. We work in a flat hierarchy with the opportunity for everybody to weigh in. Every employee takes over own projects from the first day, which ensures quick learning, ownership and skill development.
+
+Our backend is running on Node.js fully hosted on AWS. We use MySQL as our primary data store that is also self-maintained, but also make use of Apache Cassandra for feeds and ElasticSearch for search / text indexing. For caching we use basic Redis structures. We also run our own chat system that uses WebSockets for real-time communication. A large part of our system is our analytics services run via Clickhouse as well as our "worker" infrastructure to feature several async mechanisms in a scalable way.
+
+Visit our Tellonym profile (at)workAtTellonym to check out the product, ask any questions you have and read about our workplace.
+
+Tasks
+Take ownership and implement new features and improvements into our Node.js API
+Enhance your knowledge to implement product requirements or performance optimisations
+Understand existing code and rework it to fulfil coding standards
+Draft architectural decisions together with the Tech Lead
+Have a direct impact on team processes and conventions by regular retrospectives
+
+Requirements
+Living in Europe
+Enthusiastic about Node.js with experience over two years
+Excellent analytical and problem-solving skills
+Passionate about writing well-structured, efficient and maintainable code
+Values an environment of candid feedback
+Used to work in an English-speaking environment
+
+Benefits
+Flat hierarchies that offer lots of freedom, impact as well as responsibility
+Completely flexible working times and location (we are doing half-yearly team retreats with hackathons)
+The right environment to learn new things and personally develop yourself
+Competitive compensation package and the option to participate in our ESOP system
+Modern working tools, hardware (Macbook) also for private usage
+State-of-the-art tech stack running on AWS
+Work with an exceptional team of young and smart people with a diverse background

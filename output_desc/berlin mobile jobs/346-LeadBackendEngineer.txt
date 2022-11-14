@@ -1,0 +1,58 @@
+About the job
+The company and our mission:
+
+Zartis is a digital solutions provider and Deloitte Fast50 company working across technology consulting, team augmentation, and product development.
+
+We partner with firms across financial services, medtech, media, logistics technology, renewable energy, edtech, e-commerce, and more. Our engineering hubs in Ireland, Spain, Portugal, Poland, and Czech Republic are full of talented professionals delivering business success and digital improvement across application development, software architecture, CI/CD, business intelligence, QA automation, and new technology integrations.
+
+We are looking for a Lead Engineer on behalf of our client, a British company in the energy sector that is on a mission to deliver the future of smart energy by providing smart meter and grid infrastructure programs, as well as data-driven services.
+
+The project:
+
+Our teammates are talented people that come from a variety of backgrounds.
+We’re committed to building an inclusive culture based on trust and innovation which creates a good work environment that helps enrich the product.
+
+Our client has been in the UK energy market for 25 years and they are playing a critical role in decarbonizing the UK energy system. As a major energy service and smart metering company with technology, data, and sustainability at the core of our ethos and business model, our client is committed to delivering the future of smart energy.
+
+What you will do:
+
+● Leading the development of a 'Test stub' Demand Side Response Service Provider (DSRSP) Platform.
+● Documentation and Diagrams writing.
+● Developing software, which is testable, dependable, and maintainable
+● Analyzing, designing, and developing new applications while taking projects through the entire software development cycle from concept to product release, always adhering to industry best practices
+● Working on ways to automate and improve development and release processes
+● Planning and executing projects in a timely manner
+● Using industry-wide standards such as PAS 1878 and 1879
+● Ensuring your software meets the highest security standards and is ISO27001 compliant
+● Collaborating in reviews of specifications, with others as appropriate
+
+What you will bring:
+
+● Strong programming skills in the backend with a strong preference for Python
+● Experience building a product from the ground up and participating in decision-making
+● Experience with REST APIs
+● Experience with cloud-based servers (ideally, AWS)
+● Experience and desire in writing Documentation and Diagrams
+● Experience building microservices
+● Linux familiarity (from a developer's perspective) is highly desirable
+● Familiarity with relational databases (SQL)
+● Git experience
+● Ability and desire to learn and apply new programming languages
+● Familiarity with best practices for security and scalability
+● Familiarity with server-side software concepts
+
+Nice to have:
+
+● Experience with Node.js
+● Experience with Ruby in any of its flavors
+● Experience with Serverless
+● Experience with distributed systems with Kafka as orchestrator
+● Experience with Embedded devices
+● Knowledge of the energy sector
+
+What we offer:
+
+● Competitive salary
+● Remote work and flexible schedule
+● Work From Home financial support
+● International working environment

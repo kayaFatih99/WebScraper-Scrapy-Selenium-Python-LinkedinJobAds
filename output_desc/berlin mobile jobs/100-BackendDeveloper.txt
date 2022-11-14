@@ -1,0 +1,29 @@
+About the job
+MVP Match
+We are a freelance network that connects the world's best tech talent with the most ambitious companies to solve challenging problems and create excellent digital products that delight their users.
+
+The Client
+Our client provides NGK the regional capability and environment to rapidly ideate and test new business models, ideas and experiences in an environment unconstrained by the day to day business.
+
+Why we like them
+VL's partner company, NGK Spark Plug is one of the world leaders in the industrial environment. With a history spanning over 80 years, they aim to keep their name attached to quality and reliability. With such a long life span, diversifying their portfolio towards the Digital is an amazing initiative - the top leaders are extremely passionate about investing in innovation and the future.
+They mean business!
+
+Your Role:
+➢ Collaborate effectively with the team to deliver high-quality solutions for our users
+➢ Develop high-level product specifications with attention to system integration
+➢ Define all aspects of backend development from appropriate technology and workflow to coding standards
+➢ Develop and maintain our APIs and main services
+➢ Own the features you implement and ensure they are successfully rolled out into production
+➢ Maintain, monitor, and improve existing services, libraries, and infrastructure
+
+Your Profile:
+➢ A top of class Master degree focused in computer science or information technology from a university that is renowned for fostering practical experiences and innovation excellence
+➢ 5+ years of experience developing applications with PHP, NodeJS, Rest APIs - However, due to their nature of being a Venture Builder, they are open to ANY other technology! (Java, Kotlin, Python, etc)
+➢ Mastery of software design principles and back-end application architecture, with the knowledge of applying them in practice
+➢ Experience with test automation tools and frameworks;
+➢ Experience with various DBMS technology (PostgreSQL, ElasticSearch), version control system, various Cloud strategies (AWS,GCS)
+➢ Fluent in English and German
+
+GENERAL INFORMATION :
+THIS IS A FULL-TIME PERM POSITION

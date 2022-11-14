@@ -1,0 +1,45 @@
+About the job
+Bei uns übernimmst Du Verantwortung und entwickelst Dich weiter. Ob Du in Deinem Job aufsteigen oder innerhalb der Agentur in einen anderen Bereich wechseln möchtest: Wir unterstützen Dich gerne mit den nötigen Weiterbildungen, dem Besuch von Konferenzen und internen Schulungen. Und wir leben Work-Life-Balance! Die Vereinbarkeit von Familie, Beruf und Freizeit gehört zum Fundament unserer Unternehmenskultur. Wir haben flexible Arbeitszeiten und Teilzeit-Modelle, ermöglichen das Arbeiten aus dem Homeoffice und finden?für fast alle Bedürfnisse eine entspannte Lösung.
+
+Was noch? Großartige Kollegen. Firmenevents. Agile Methoden. Ein internationales Umfeld. Spannende, abwechslungsreiche und herausfordernde Aufgaben. Die Chance, eigene Ideen einzubringen und dich zu beweisen. Und obendrauf ein gigantischer Ausblick auf die Tempelhofer Freiheit.
+
+Bei Endava wirst Du Teil einer großen, internationalen Community, in der Du leidenschaftlich über technische Themen diskutieren kannst! Wir unterstützen uns gegenseitig dabei zu wachsen und unser volles Potenzial zu entfalten. Und auch außerhalb der Arbeit haben wir eine Menge Spaß zusammen, sei es bei Team-Events, Parties, oder in verschiedenen Freizeit-Gruppen!
+
+Aufgaben
+Du bist verantwortlich für die Planung und Entwicklung von nativen iOS und Android Apps
+Du arbeitest agil an betreffenden Applikationen
+Du stellst zusammen mit dem Team sicher, dass die Leistungsanforderungen erreicht werden
+Du unterstützest unsere Sales Teams und berätst sowohl intern als auch extern
+Du führst die Kalkulation von Aufwandsabschätzungen durch
+
+Qualifikation
+Bereitschaft und Fähigkeit anspruchsvolle technische Probleme zu lösen und sich in neue Bereiche einzuarbeiten
+Fließendes Deutsch- und Englisch
+Hervorragende Kenntnisse in Swift, Objective-C und dem iOS-SDK
+Hervorragende Kenntnisse in Kotlin, Java und dem Android-SDK
+Sicherer Umgang mit Git, Xcode und Android-Studio
+Fähigkeit zur schnellen Einarbeitung in fremden Source Code
+Verständnis und Erfahrung bei der Umsetzung  von Softwarearchitekturen
+Kenntnisse bei der Nutzung von RESTful API’s
+Fähigkeit einzelne Tasks in Dauer und Aufwand realistisch abzuschätzen
+Erfahrung im Signierungsprozesses und im Deployment von iOS Apps und Android Apps im Apple AppStore und Google Play Store
+Erfahrung in der technischen Konzeption und Dokumentation von Apps
+
+DAS MACHT DICH NOCH INTERESSANTER
+Vertrauter Umgang mit Continuous Integration, Crashlytics, MS AppCenter
+Erfahrungen auf Cross-Plattform Technologien wie Flutter, React Native, Xamarin
+Erfahrung mit Apple Watch und Apple TV, AndroidTV
+Erfahrung in der Anwendung von unterschiedlichen Testverfahren
+
+Benefits
+Bei uns übernimmst du Verantwortung und entwickelst dich weiter.
+Ob du in deinem Job aufsteigen oder innerhalb der Agentur in einen anderen Bereich wechseln möchtest: Wir unterstützen dich gerne mit den nötigen Weiterbildungen, dem Besuch von Konferenzen und internen Schulungen.
+Wir leben Work-Life-Balance! Die Vereinbarkeit von Familie, Beruf und Freizeit gehört zum Fundament unserer Unternehmenskultur. Wir haben flexible Arbeitszeiten und Teilzeit-Modelle, ermöglichen das Arbeiten aus dem Homeoffice und finden für fast alle Bedürfnisse eine entspannte Lösung.
+Großartige Kollegen. Firmenevents. Agile Methoden. Ein internationales Umfeld.
+Spannende, abwechslungsreiche und herausfordernde Aufgaben. Die Chance, eigene Ideen einzubringen und dich zu beweisen.
+Hardware Deiner Wahl
+Karriere-Entwicklung und vieles mehr!
+
+INTERESSE?
+
+Dann bewirb dich bei uns! Wir möchten deine Fähigkeiten und Motivation nicht nur anhand von Zeugnissen beurteilen. Zeig uns, was du bisher alles gemacht hast. Uns interessieren Projekte aus deiner bisherigen professionellen Tätigkeit, aus Eigeninitiative entstandene Projekte oder dein Code auf Github oder Stack Overflow. Bitte gib uns auch deinen nächstmöglichen Einstiegstermin und deine Gehaltsvorstellungen an.

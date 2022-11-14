@@ -1,0 +1,34 @@
+About the job
+Our Client:
+Our client is an e-commerce company that helps consumers better manage their online orders. Their mission is to empower customers by opening new consumer-friendly delivery and purchase options to organise the world's deliveries across carriers.
+
+The Goal of the Project:
+They need someone to build the Gmail and Outlook integration. Currently, the login process is in place, however, what they need is to build the email access in order to allow the app to access the emails online and offline and scrape the data in order to bring up into the app all of the orders that the customer has made and display them into their app.
+
+Responsibilities:
+Work in collaboration with product and design to use cutting-edge and custom technologies to imagine, build and launch a breakthrough product that disrupts the market
+Implement new features in a highly collaborative environment with product managers, customer strategists and fellow engineers
+Create responsive, mobile friendly and beautiful web applications
+Implement software engineering best practices (e.g. Agile software development, test-driven development, unit testing, code reviews, design documentation, etc.) enabling the product and team to scale
+Building APIs, designing data models, maintaining backend code, and scaling production systems
+The role is due to start ASAP (or last the end of October) for a duration of 3-6 months, based on the project requirements. The role is fully remote but requires CET time zone overlap to be able to attend the daily standups and team meetings.
+
+Requirements:
+5+ years of software development experience in backend technologies preferably working with FastAPI and Python
+Experience with OAuth2 integration
+Experience with Firebase
+Experience with web-scraping technologies and data architecture
+Familiar with principles of APIs, stateful web (single page) applications, and developer platforms (Git, Heroku)
+Experience designing data persistence and caching concepts using SQL and NoSQL DBMS (e.g. PostgreSQL, MongoDB)
+A solid understanding of how to design, develop, test, and monitor production-ready data-intensive systems
+Entrepreneurial/startup experience, willing to learn and help build a tech stack from scratch
+Strong knowledge of the agile software development lifecycle and continuous integration
+You are open to adding your own contributions and proposals on how to improve the project
+
+Team set-up:
+2 frontend
+2 backend
+They are looking for the 3rd backend engineer
+The team works in Scrum with daily 15-minute standups and 2-week sprints. Each sprint starts with backlog review and planning.
+
+THIS ROLE STARTS ASAP!

@@ -1,0 +1,27 @@
+About the job
+What We Are Looking For
+
+Ditto aims to expand the internet. Our software enables devices to synchronize data in realtime, even where the internet doesn't reach. The core technology is a realtime database that runs on mobile, web, IoT, and server systems that forms peer-to-peer connections and automatically syncs data changes.
+
+We are looking for a sales engineer with mobile SDK experience that wants to win big and bring Ditto's transformative technology to customers around the world. You will work alongside Account Executives to assist with the technical side of our sales process.
+
+We close $100k-$1M+ ARR figure deals in 6-9 months with large Fortune 500 companies. Our sales cycles are complex and involve many stakeholders. Your job will be to win over the technical teams who are evaluating our platform for multi-year deployments. As a result, you will be an ambassador for Ditto technical capabilities and will seek to earn the respect of our customers.
+
+The ideal candidate has extensive experience with mobile development, ideally with exposure to both iOS and Android. We care more about your technical background than your sales or customer experience. You should enjoy learning new technologies as our SDK is cross-platform and you will be expected to gain knowledge of other platforms. Strong written and oral communication is a requirement as you will be the voice of the product. In addition, travel is expected as you may work onsite with our customers and represent Ditto at industry conferences.
+
+Work with a remote team, manage your own time, and tackle interesting problems. Ditto is an equal opportunity employer with people from many different cultures and countries. We celebrate diversity and are committed to building a team that represents a variety of backgrounds, skillsets, and perspectives, and to providing our employees with a rewarding and inclusive work environment.
+
+Responsibilities
+Coordinate with account executives to create opportunities, close deals, and expand relationships
+Effectively sell the value proposition of Ditto to key technical stakeholders within an account
+Maintain an extremely close relationship with our customer success team to make sure customers are happy and want to renew
+Work closely with our product and marketing team to create new, sought-after solutions and marketing material to further expand our pipeline
+Work within engineering team to develop new features based on user feedback
+Support customers deploying Ditto
+Travel and run educational activities with customers
+Represent Ditto at industry conferences
+
+Requirements
+Strong experience with mobile development (additional languages/platforms a plus!)
+Excellent written and oral communication skills
+Strong attention to detail and love in delighting customers

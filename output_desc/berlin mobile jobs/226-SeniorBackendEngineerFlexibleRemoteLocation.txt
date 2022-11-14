@@ -1,0 +1,36 @@
+About the job
+At Dorian we’re building a no-code platform that unlocks new superpowers for fiction writers.
+
+Our unique social medium allows writers to truly connect with their fans and offer personalized interactive content to everyone! We believe that talent is everywhere so our creation and discovery tools are designed to help diverse and often underrepresented creators get heard and understood through their stories.
+
+Summary of Position
+
+The Senior Backend Engineer will focus on building and maintaining the backend services for our mobile app and authoring tools.
+We are seeking someone who is ambitious, self-motivated, agile, and adaptable.
+You must be able to multitask efficiently, be proactive, and thrive in a dynamic, fast-paced environment
+Requirements
+
+7+ years of engineering experience with recent experience in the industry
+Extensive Node.js experience
+Ability to work fully remote environment
+Strong communication skills
+Clean, modern JavaScript
+Experience developing asynchronous code
+Express or similar REST API frameworks
+SQL
+Websockets
+Knowledge of basic security best practices in a cloud environment
+Cloud deployment experience
+Ability to work with remote instances: SSH, remote debugging, logs
+Strong git skills
+Preferred Qualifications
+
+Game development experience
+Proficient with TypeScript
+Experience with Sequelize, React, ESLint
+Experience on AWS
+Perks
+
+Fast growth and learning opportunity - we ship, learn, and iterate fast!
+Opportunity to be a part of a venture-funded ambitious team that builds an innovative product
+Competitive salary and equity

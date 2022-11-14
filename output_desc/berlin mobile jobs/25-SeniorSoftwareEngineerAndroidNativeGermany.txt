@@ -1,0 +1,77 @@
+About the job
+😎 Our Culture
+
+Our number one goal at Quantum Metric is happy people, healthy and diverse culture. We’re passionate about empowering people to develop their passions, as well as ensuring that everyone feels supported along the way with training and development programs designed to accelerate your career. As a remote-first company, we stay connected through our numerous committees and resource groups, including the Woman’s Resource Group, Parent’s ERG, and our DEI committee, to name a few. By joining Quantum Metric, you will have the opportunity to accelerate the trajectory of your career in the highly competitive enterprise SaaS space. In 2021, 26% of employees received an internal promotion.
+
+By joining our team, you’ll help some of the world’s most recognized brands deliver cutting-edge digital experiences that empower employees to truly empathize with their customers.
+
+Here at Quantum, we value all types of experience and education. We don’t expect you to meet every qualification for this position, and encourage you to apply if you have knowledge in most areas. Our door is open to everyone, and we can’t wait to add your unique identity to the team!
+
+🚀 About The Role
+
+You’ll be part of our mobile team, building and maintaining the Android SDK. This library uses specially developed techniques to accurately capture the end user's in-app experience. The Mobile Team's job is to build a stable and solid library that pioneers new ways of understanding the user's journey, so our clients can build and maintain flawless app experiences. You'll ship code used in apps built by the coolest companies on the planet.
+
+You love developing software and digging into apps. Whether you’re starting your career, or you’ve been engineering for decades, your passion for building with code is palpable. You are particularly fond of Android and high quality apps. Activities, Fragments, lifecycle callbacks and rooted Android devices are your comfort zone. Perhaps you've even dived into Smali or decompiled apps to see how they work. We imagine that you aspire to be more than just a code monkey though. You desire to work closely with other engineers who share your love of development. You see big-picture value in learning from those who have gone before you, and bringing your unique perspective to the team. Also, while you’re a developer (and possibly an introvert) you actually enjoy brainstorming sessions with your peers and product owners to determine the best approaches forward. You see the importance of providing input and considering the points-of-view of those around you. Basically, you enjoy being a valued member of a healthy team.
+
+💡 Requirements
+
+Bachelor’s Degree in Computer Science, Software Engineering, Information Systems or equivalent.
+Self-taught hacker? Perhaps even better.
+You are highly proficient with Java, Gradle, Android Studio, and building apps or libraries.
+You're also great at tracking down bugs in apps, even if you don't have the source code.
+Sure, there are other things you probably know, but these are the technical skills that will prove most valuable in this role.
+Special consideration for those who have decompiled apps, built Xposed modules, modified Smali code, debugged network requests with Charles Proxy, or have shipped Android libraries.
+You’re curious, so you’re probably really familiar with a variety of different tech. This is a good thing because we understand the value of learning continuously and expanding out of your comfort zone.
+Compensation: Up to $175,000 per year + bonus potential + equity
+
+Skills
+
+You are highly proficient with Java, Gradle, Android Studio, and building apps or libraries.
+You're also great at tracking down bugs in apps, even if you don't have the source code.
+Sure, there are other things you probably know, but these are the technical skills that will prove most valuable in this role.
+
+🏆 Perks & Benefits
+
+€355 Home Office Stipend ($400) - upon hire
+
+€71 Monthly Business Expense Stipend ($80)
+
+Stock Options
+
+Unlimited PTO
+
+Summer Splash! Every other Friday off during summer
+
+Flexible Schedules
+
+Work From Home
+
+Hybrid workspace solutions available via Upflex
+
+Medical Insurance
+
+Includes routine dental care
+
+Medical History Disregard - no application or underwriting required, pre-existing conditions are covered.
+
+The full vacation entitlement starts after an employee has been employed for six months.
+
+RECHARGE PROGRAM (after 3 years, disconnect for 3 weeks, no email/slack)
+
+If an employee is terminated before the six months have passed or within the first half of a calendar year, the employee will only be entitled to 1/12 of the annual vacation entitlement for each month of the employment relationship.
+
+In the event of termination after the first six months and within the second half of the calendar year, an employee will be entitled to the full annual vacation.
+
+🐉 About Quantum Metric
+
+As the pioneer in Continuous Product Design, Quantum Metric helps organizations put customers at the heart of everything they do. The Quantum Metric platform empowers a customer-centric culture, using quantified empathy to align business and technical teams to effectively prioritize customers needs based on business impact.
+
+Today, Quantum Metric captures insights from 20 percent of the world’s internet users, supporting nationally recognized brands in ecommerce and retail, travel, financial services and telecommunications. 6 of our customers come from the top 25 Fortune 500 Companies. Our customer retention rate is 97%.
+
+In January of 2021, Quantum Metric secured its place as the first tech unicorn of the year with an above $1 billion valuation and a $200 million Series B funding round, and we are using those funds to accelerate our product and people growth. Quantum Metric has been recognized as an excellent place to work by the Inc 5000 and the Deloitte 500.
+
+If the above role feels like a match and you’re interested in joining a team of people with exceptional potential from diverse backgrounds, perspectives, and life experiences, we want to hear from you!
+
+The job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Quantum Metric reserves the right to change, edit, and add duties and responsibilities of all job descriptions at any time, at its sole discretion, and to notify the respective employee accordingly.
+
+#BI-Remote

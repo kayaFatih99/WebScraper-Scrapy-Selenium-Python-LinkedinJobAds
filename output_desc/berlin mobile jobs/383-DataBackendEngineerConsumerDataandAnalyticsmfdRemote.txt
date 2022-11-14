@@ -1,0 +1,45 @@
+About the job
+Interested in exploring data and finding innovative ways to collect, curate, and make it easily accessible for others to use? How about doing that at scale? Yelp’s unique dataset contains billions of interactions between users and local businesses around the globe. If working with such a vast amount of data sounds exciting, come join us!
+
+As a Data Backend Engineer on the Consumer Data and Analytics team at Yelp, you’ll be responsible for building elegant and scalable data products that serve critical, up-to-date, structured information to support different types of analytics and machine learning across Yelp. You'll design and own mission-critical data pipelines to enable decision-making, partner with company leaders to create scalable data products, and launch innovative data processing solutions.
+
+Yelp engineering culture is driven by our values: we’re a cooperative team that values individual authenticity and encourages creative solutions to problems. All new engineers deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor, and team. At the end of the day, we’re all about helping our users, growing as engineers, and having fun in a collaborative environment.
+
+This opportunity has the option to be fully remote throughout Germany.
+
+We’d love to have you apply, even if you don’t feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+
+Where You Come In
+
+Build systems that can effectively store and crunch terabytes of data.
+Work on the infrastructure that empowers millions of Yelp users to make the best decisions.
+Create and contribute to data products that support features such as personalizing search results, clickstream analytics, and recommending businesses to users.
+Work closely with other software engineering teams, product managers, data scientists, and analysts to help define the team’s roadmap.
+Gain expertise in cutting-edge infrastructure for data analytics and product feature use cases.
+Write code and documentation, participate in code reviews, mentor other engineers, and share the skills you’ve learned.
+
+What It Takes To Succeed
+
+A passion for working with, and making sense of, large volumes of data.
+A hunger for tracking down root causes, no matter how deep it takes you—and fixing them in systematic ways.
+Experience building data pipelines to train and deploy machine learning models and/or ETL pipelines for metrics and analytics or product feature use cases.
+Exposure to some of the following technologies: Python, Java, Scala, Apache Spark, Apache Kafka, Apache Flink, AWS and service oriented architecture, AWS Redshift, AWS Athena / Apache Presto, AWS S3, NoSQL systems like Cassandra.
+Excellent written and interpersonal communication skills.
+
+What You'll Get
+
+Full responsibility for projects from day one, a collaborative team, and a dynamic work environment.
+Competitive salary with equity in the company, a pension scheme, and an optional employee stock purchase plan.
+30 days paid vacation per year plus one floating holiday.
+€150 monthly reimbursement to help cover remote working expenses.
+€89 caregiver reimbursement to support dependent care for families.
+Flexible working hours and meeting-free Wednesdays.
+Regular 3-day Hackathons, bi-weekly learning groups, and productivity spending to support and encourage your career growth.
+Opportunities to participate in digital events and conferences.
+Complementary elective German lessons for international employees.
+€67 per month to use toward qualifying wellness expenses.
+Quarterly team offsites.
+
+Yelp values diversity. We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition, disability, or any other protected status.
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.

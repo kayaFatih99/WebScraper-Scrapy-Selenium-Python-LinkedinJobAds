@@ -1,0 +1,36 @@
+About the job
+Back End Python Engineer
+
+We are Assetario
+We love data. We are gamers. We are engineers. Phenomenal team of MIT graduates, technical experts and advisors who lead multi-billion dollar businesses.
+Our engineering and data teams cooperate with the goal of building a smart platform to process your users’ data, to drive personalized app experiences. Our platform processes hundreds of terabytes of data with tens of millions of daily active users with hundreds of ML models in production.
+
+About the job
+Join our expanding Software Engineering team as a Senior Python Developer. You will be involved not only in programming but also in infrastructure design. Help us, architect, develop, test, and maintain highly scalable cloud services that support our Machine learning pipelines to personalize the experiences of free-to-play mobile gamers.
+
+What you’ll be responsible for:
+
+Work with Data Science and Data Engineering teams to own your solution from development to production.
+Drive major architectural changes as we scale to improve our engineering velocity
+Promote software engineering best practices via code reviews, building tools, and documentation.
+Contribute to the development of technical project documentation and user documentation.
+Develop internal tooling and/or libraries to enable machine learning deployment at scale
+
+Ideal experience:
+
+3+ years experience as a Python Developer
+Expertise in Python frameworks (Django, FastAPI or Flask is an advantage)
+Experience working with production-grade machine learning systems
+Experience with service development on AWS (Athena, S3, Lambda)
+Knowledge of C++, Scala or other object-oriented programming languages is a plus
+Experience with streaming technologies e.g. Kafka
+Experience with Docker and Kubernetes
+CI/CD experience (CircleCI, Github Actions)
+
+Benefits:
+
+Equity and stocks option
+Unlimited leave days
+Snacks, good coffee and cold tub on our big terrace
+Flexible working hours
+We will equip you with a laptop, keyboard and all work essentials

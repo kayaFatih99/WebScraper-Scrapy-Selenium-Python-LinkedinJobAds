@@ -1,0 +1,74 @@
+About the job
+About Remote
+
+Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out remote.com/how-it-works to learn more or if you’re interested in adding to the mission, scroll down to apply now.
+
+You'll be joining 100 engineers across Frontend, Backend, SRE and QA. We're organised into cross-functional development teams assigned to the specific verticals.
+
+Please take a look at remote.com/handbook to learn more about our culture and what it is like to work here. Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of belonging. You can check out independent reviews by other candidates on Glassdoor or look up the results of our candidate surveys to see how others feel about working and interviewing here.
+
+All of our positions are fully remote. You do not have to relocate to join us!
+
+The position
+
+You will be part of the Finance Vertical as a Senior Backend Engineer, working together with key business areas such as Billing, Accounting, and Tax to help us scale our finance operations to the next level. You will work closely with engineers, product managers, and designers to build and maintain a billing system that allows us to scale compliantly.
+
+What this job can offer you
+
+Be part of opening up the world of work for every person, business, and country, no matter where they live
+A direct impact on the organization’s financial core.
+An opportunity to build and maintain an elaborate billing system that allows the whole company to continue to scale.
+A lot of freedom to organize your work
+Work together with several areas of business with multiple stakeholders from several different areas
+
+What you bring
+
+Significant experience as a Senior Backend Engineer, which includes building, shipping and maintaining a complicated software project
+Solid knowledge and experience in Elixir and Postgres (or similar database)
+Experience in dealing with ambiguity, taking abstract concepts and turning them into working software
+Strong ability to work independently and self-guided
+Curiosity and willingness to learn and develop
+Experience working on Finance projects
+
+Practicals
+
+You'll report to: The Engineering Team Lead
+Team: Engineering - Billing team
+Location: Anywhere in the World
+Start date: As soon as possible
+
+Remote Compensation Philosophy
+
+Remote's Total Rewards philosophy is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.
+
+Benefits
+
+Our benefits & perks are explained in our public handbook at remote.com/benefits .
+
+How you’ll plan your day (and life)
+
+We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at remote.com/async .
+
+You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your life-work balance is important and you will be encouraged to put yourself and your family first, and fit work around your needs.
+
+If that sounds like something you want, apply now!
+
+Application process
+
+Interview with an Engineering Manager or VP of Engineering
+Code exercise
+Interview with the team (you'll get a sense of who you'd be working with)
+Value Alignment Interview with recruiter
+Prior employment verification check (Read more at remote.com/employment-checks )
+
+How to apply
+
+Please fill out the form below and upload your CV with a PDF format.
+
+We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.
+
+See how to convert your CV to PDF here.
+
+If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.
+
+Need help? Email hiring@remote.com

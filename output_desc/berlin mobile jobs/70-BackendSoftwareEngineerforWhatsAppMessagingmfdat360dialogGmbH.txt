@@ -1,0 +1,32 @@
+About the job
+360dialog has been selected by WhatsApp as one of only a few partners worldwide to exclusively provide access to and develop solutions on top of the WhatsApp Business API. As of today we are providing our solutions for many major brands like IKEA, PepsiCo, Carrefour, KFC, Pizza Hut as well as over 1500 customers worldwide. At 360dialog we believe that messaging with businesses will feel as normal as chatting with friends and family.
+
+As a Backend Software Engineer at 360dialog you will be responsible for developing and creating real time communication software on the highest level. Messaging is about instant communication and WhatsApp is the biggest messaging network with more than 2*10⁹ active users. This creates on the one hand interesting technological challenges on the other hand it allows us to learn and work with the latest and most interesting technologies available on the market.
+
+We’re now looking for outstandingly bright and passionate professionals who want to learn and get better every day to join our team and pursue our vision.
+
+Tasks
+Planning, implementing, maintaining and improving our software stack and its architecture for WhatsApp business messaging
+Managing and planning of challenging software projects
+Solving technically complex problems to ensure a seamless messaging experience for our users
+
+Requirements
+
+Your profile - basic qualifications:
+Experienced in planning, implementation and documentation of scalable software
+Basic database knowledge: MySQL and Postgres
+Fundamental understanding of network technology and distributed systems
+Good knowledge of Python and one other programming language
+Interested in learning about new technologies and concepts and about bringing them into production Your profile - preferred/optional qualifications: -Advanced knowledge of TCP/IP networking, architecture, and core technologies (such as DNS, DHCP, HTTP, Routing, Load Balancing)
+Familiarity with test driven development
+Firm knowledge about kubernetes and databases
+
+Benefits
+
+Here’s an opportunity to shape a whole new industry in conversational messenger business. You’ll be joining a team of experienced entrepreneurs backed by some of the most reputed angel investors.
+An innovative environment where you will work with some of the best tech-people on the planet
+Daily opportunities to evolve yourself and get better every day
+The full flexibility of choosing your location you work from. Either in our office locations in Berlin, Munich, Katowice or wherever you like according to our all-remote culture.
+A competitive salary package
+
+In case you see yourself in this role feel free to reach out to us with your CV and a short motivation teaser.

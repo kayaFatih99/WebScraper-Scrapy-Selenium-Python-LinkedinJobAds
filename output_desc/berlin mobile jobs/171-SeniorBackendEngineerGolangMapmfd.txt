@@ -1,0 +1,76 @@
+About the job
+With OWWN we want to enable the Gen Z to make excellent financial decisions in seconds and become the most preferred financial company in Europe. To achieve this, we have currently raised more than 5 million in seed funding from EQT Ventures, 468 Capital as well as top-tier business angels. 💸
+
+In order to make this vision a reality and continue to support our customers through their next financial challenges, we are looking to expand our team in the upcoming months and are therefore looking for a new member to join our team. 💪
+
+Are you a service-oriented and entrepreneurial mind with proven experience in exciting and delighting customers? Are you full of new ideas and just dying for a chance to finally bring them to life? Does working in a truly customer-centric company excite and motivate you? If this sounds like you, we would love to talk to you!
+
+Our technology stack
+
+Microservice infrastructure in Golang
+AWS, Docker, Kubernetes (EKS)
+NATS Stream, and gRPC
+Postgresql, MongoDB, SingleStore, Elastic Search
+Terraform, Github Action
+NewRelic
+
+What You’ll Be Doing
+
+Enhancing and building the Map Platform.
+Working closely with the Lead Backend Engineer and Core-banking Team to deliver scalable and reliable features
+Ensure excellent code quality through pull requests.
+You will be responsible for ensuring that the system accurately meets the defined expectations of the business unit. This will include ensuring that proper testing is implemented, and performance requirements are closely monitored by working with the development team.
+Contributed to scalable distributed systems in production.
+
+Minimum Requirements
+
+5+ years of experience working in Software Engineering in Backend Environments.
+Excellent communication skills
+Fluent English
+Quick learner with an ambitious and results driven personality
+
+Minimum Technical Requirements
+
+Fluency with Golang
+Feeling confident in microservice environments using gRPC and Protobuf
+Understand classical algorithms and data structures
+Experience with Docker and Kubernetes
+Writing scalable, robust, testable, efficient, and easily maintainable code
+Maintain the CI/CD flow
+Extensive experience with Postgresql, graph databases, and NoSQL databases in production.
+
+Preferred Requirements
+
+Microservice integration and end-to-end testing.
+Experience using NATS Stream.
+Experience with AWS services (Amazon EKS, VPC, Amazon Aurora MySQL PostgreSQL, ).
+
+Nice to have
+
+Familiar with SAGA patterns or similar approaches for handling distributed transactions.
+Familiar with the data plane and control plane.
+Familiar with real-time connections for high volumes (prefer gRPC technology)
+Experience with C++ or Rust
+Experience in a start-up or scale-up
+Experience in a product-focused environment
+
+Benefits
+
+🚀 Perfect timing with renowned investors to build something great
+🧠 Outstanding mentors who will support you in your growth
+💸 Attractive salary and you even get a stake in the company
+💪 Access to city-wide sport offerings and language courses
+📈 Extremely steep learning curve with own responsibility and intensive support
+📣 Learn to be pragmatic and make quick and sustainable decisions
+⏱️ Flexible working hours, because we care about your outcome and not output
+🤙🏽 Very strong team cohesion with daily and weekly activities
+
+Do you want to become part of our first-class team and empower young people to make excellent financial decisions even without prior knowledge? Then you absolutely have to send us your application immediately. 🚀
+
+PS: And if you want to stand out in your application, just let us know in your cover letter what we can improve about our website, the product or even our job offers. 💡
+
+Notice:
+
+We value equal opportunity. It means we do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, and we encourage all people equally to apply for jobs with us.
+
+We celebrate diversity and are committed to creating an inclusive environment for all employees, as we believe diverse teams are more successful in the long term.

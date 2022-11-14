@@ -1,0 +1,55 @@
+About the job
+About The Opportunity
+
+We are looking for Staff Backend Engineer to influence the future of our technology and services. In this role, you’ll work closely with the team and leadership on making important architectural evolution and evolving the backend practice at Contentful.
+
+Staff engineers drive the technological evolution of Contentful by charting the path ahead and working on hands-on high-stakes, technically critical projects.
+
+Reporting directly to Director and working closely with CTO and EVP engineering staff engineers are responsible for the evolution of specific technological areas of Contentful.
+
+What to expect?
+Architect and build the next platform-level changes
+Work on scaling our high traffic APIs, including our GraphQL API, one of the busiest GraphQL endpoints of the internet
+Architect and build the next backend capabilities of our application framework so Contentful itself and Contentful partners and customers can build on Contentful
+Work on advancing standards and practices in the backend discipline
+Work closely with the department leadership on determining the technical roadmap
+Work with a technology team that wants to innovate how to architect workload specific solutions on a mix of serverless Docker, Kubernetes
+Participate in the selection process of technologies and services that Contentful will adopt
+This role requires being in the office 1 day(s) per week if you are based in Berlin
+What do you need to be successful?
+Experience in guiding from inception to delivery of architecture level projects at a global scale
+Familiar with distributed systems architecture and operations
+Fluent with our stack AWS, Docker, Kubernetes, Terraform, TypeScript
+Serverless and edge technologies experience and interest a bonus
+Passionate and provably successful in influencing the practice of a team of 30 or more members
+Passionate about teaching and empowering your team and stakeholders
+You communicate well in English and you know how to cultivate empathy and openness towards people from all over the globe
+What's in it for you?
+Join an ambitious tech company reshaping the way people build digital experiences
+Full-time employees receive Stock Options for the opportunity to share ownership and the success of our company
+We value Work-Life balance and You Time! A generous amount of paid time off, including vacation days, education days, and volunteer days
+Access to our Employee Assistance Program (EAP) for information, support, discussion, and counseling for life’s challenges
+Use your personal education budget to improve your skills and grow in your career. Join a free German class or one of our many internal learning initiatives!
+Use your physical fitness budget to get away from your desk and support your physical wellness
+Enjoy a full range of virtual events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties
+A monthly phone/internet stipend and phone upgrade reimbursement after 2 years
+Plus, Contentful socks! And other amazing swag as part of company events. Oh yeah!
+To view more career opportunities, visit https://www.contentful.com/careers/
+
+Who are we?
+
+Contentful is the leading content platform that powers digital experiences for over 30% of the Fortune 500 companies and thousands of global brands. Our platform unifies content in a single hub, structures it for use in any digital channel and integrates seamlessly with hundreds of tools through open APIs. It lets developers and content creators work in parallel, increasing team efficiency and happiness. Companies such as Shopify, Staples, Atlassian, Electronic Arts, Chanel, Roche, Vodafone use Contentful to build their mobile and web products, voice-controlled apps and more.
+
+We’re growing rapidly and we have secured over $330 million in funding from top-tier partners such as Tiger Global, Sapphire Ventures, Salesforce Ventures, General Catalyst and Benchmark.
+
+More than 750 people from 70 nations contribute their energy and creativity to Contentful, working from hubs in Berlin, San Francisco, Denver and distributed around the world.
+
+Everyone is welcome here!
+
+“Everyone is welcome here” is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!
+
+If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.
+
+Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information such as bank account numbers, identification numbers, etc through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reaching out to us at security-esk@contentful.com with any information you may have.
+
+By clicking “Apply for this job,” I acknowledge that I have read the “Contentful’s Candidate Privacy Notice”, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.

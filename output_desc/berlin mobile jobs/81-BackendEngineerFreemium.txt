@@ -1,0 +1,36 @@
+About the job
+The Freemium R&D team oversees the entire user journey on Spotify and ensures we engage with people in innovative ways, every step of the way. Our team grows Spotify’s audience by finding future listeners around the world and delivering the right value to them, at the right time. With research, product development, product design, engineering, and marketing all collaborating in one organization, we’re able to quickly create meaningful features and services for millions of people around the world, resulting in joyful, long-lasting relationships with Spotify.
+
+As a Backend Engineer in the Freemium R&D team, you’ll have the opportunity to have a significant impact on Spotify’s growth by reaching new users, markets and audiences. We achieve this by truly understanding the needs of our users, and by innovating to solve real problems for them, building solutions across the entire Spotify infrastructure to support our goal. Your work in this team will ultimately impact the way the world experiences music and audio content and is crucial to Spotify’s future success!
+
+We are hiring across a range of teams and as such you might work on everything from unlocking commerce at Spotify, developing a completely new and innovative user experience, crafting a next-generation customer support experience, or removing access barriers to build a pioneering audio platform for the next billion users in growth markets.
+
+The engineering team is responsible for engineering world-class technical solutions and are deeply involved in the conceptualisation part of the process. We work closely with product, user researchers, data scientists and designers to build hypotheses around opportunities related to specific cultures, regions or markets. These hypotheses are tested and validated by A/B tests and prototypes before being shipped to end-users.
+
+What you'll do
+
+Engineer, deliver and operate highly available cloud-native solutions at scale, e.g. for our commerce platform or backend services in the end-user request path.
+Lead and influence engineering craft initiatives across squads, product areas and teams
+Work as a part of an inclusive and autonomous agile development team that employs continuous delivery and quick feedback loops. Collaborate with other squads and software engineers across the company to deliver on our goals
+
+Who you are
+
+You have proven fundamentals in computer science and previous experience building backend services at scale
+You are proficient in building backend technologies in Java
+You have an intermediate to advanced understanding of distributed and high-volume systems and architecture patterns
+You have experience designing, implementing and scaling cloud-native software on providers like AWS or GCP.
+You are comfortable working collaboratively on a cross-functional team in a remote-first environment.
+You have a growth mindset, are curious and not afraid to be experimental. You share your ideas and continuously improve yourself and the team around you
+You are passionate about engineering practices like agile, continuous delivery, test-driven development, observability and reliability
+
+Where you'll be
+
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within theEMEA region in which we have a work location
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences.
+Find more information about our Work From Anywhere options here.
+Working hours? We operate within the Central European time zone for collaborationWe ask that our team members be located within Greenwich Mean time zone, Central European time zone, or Eastern European standard time zone for the purposes of our collaboration hours
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

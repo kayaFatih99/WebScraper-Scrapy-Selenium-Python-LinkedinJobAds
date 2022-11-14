@@ -1,0 +1,36 @@
+About the job
+Job Description
+
+Where you’ll work: Hungary OR Ireland OR UK OR Portugal OR Germany
+
+Engineering at LastPass
+
+We understand technology, security, and the digital world on a deep level. We simplify the complex world of digital passwords and safeguard our users’ digital life. And we get a kick out of it. When you work for a product team at LastPass, you are redefining (and reinventing) digital life for millions of users around the world.
+
+Your Day to Day
+
+As a Product Security Engineer, you would be working on:
+Supporting and coaching multiple engineering teams from the same business domain to improve the application security of LastPass
+Applying and maintaining DevSecOps tools in CI/CD pipelines
+Performing application security design reviews, threat modelling and code reviews
+Security architecture to help software engineers build secure products and services from the ground up
+Sharing knowledge and collaborating with security engineers from other teams
+Debugging and troubleshooting complex mobile (iOS/Android) solutions
+
+What We're Looking For
+
+As a Product Security Engineer, your background will look like:
+Knowledge of core iOS and/or Android APIs, frameworks and platform security features
+Deep technical knowledge in mobile application security
+Experience with at least one of the following technologies: Objective-C, Swift, Java, Kotlin
+Experience in working closely with engineering teams and supporting them on their path to “shifting security left”
+Experience with DevSecOps tools: SAST, SCA
+Experience with threat modelling, testing, and analysing backend applications
+Team-player, hands-on and can-do attitude
+Good written and verbal communication skills in English
+
+You will get extra points if you have:
+Hands-on experience with cryptography, authentication, and authorization services. (SAML2, OIDC, OAuth2)
+Experience with version control, build, and bug tracking systems such as TeamCity, Jenkins, Gitlab, and Jira
+
+Helping millions around the world organize their online lives, LastPass, is an award-winning password manager that makes going online easier and safer. We help customers securely accomplish the things that matter with less effort and more peace of mind.

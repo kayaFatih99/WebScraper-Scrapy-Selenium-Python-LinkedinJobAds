@@ -1,0 +1,45 @@
+About the job
+Double Symmetry is looking for a passionate Senior Android Engineer (Remote) to join our Mobile Engineering team.
+
+Double Symmetry is a mobile app development agency based in Berlin that specialises in creating high end apps. We take pride in crafting exceptional native experiences and approach our client's needs with curiosity and passion, using over a decade of experience to drive success.
+
+Our mission is to help founders transform their ideas into viable, exceptional and successful mobile products.
+
+About the role:
+
+We are looking for engineers who will work with us to create exceptional native experiences for our clients. You will join a talented team of engineers who collaborate closely to build apps from inception to release. You will have opportunities to contribute to our growing open source projects.
+
+We work 4 days a week because a work-life balance should be the rule not the exception. The working hours are from Monday to Thursday, between the hours of 09-18 (CEST).
+
+Requirements
+
+Must Haves
+3+ years of working on Android, or demonstrable equivalent skills.
+Good Kotlin knowledge.
+Experience creating production level apps.
+The ability to communicate and express your ideas and concerns efficiently.
+You can work with stakeholders and clients to hear out problems, propose solutions, advise on trade-offs and implement high quality features while maintaining clear lines of communication.
+You encourage learning and take the time to teach less senior developers.
+You take the lead and work with others in tackling issues.
+You enjoy and take pride in building beautiful and highly functional things.
+You are humble and admit mistakes readily.
+You are well versed in English for writing documentation and blog posts.
+You are able to work independently and have a high sense of responsibility.
+
+Nice to have
+
+Experience with Jetpack Compose and familiarity with Kotlin Multiplatform – We understand that these are fairly new technologies and ideal candidates should have some experience with them, but we encourage you to apply as we are a good place to learn!
+
+Benefits
+A lively, transparent and family-friendly work environment.
+Work and learn with highly experienced engineers.
+4–day work week, because a work-life balance should be the rule not the exception.
+We are remote.
+A team who believes that strong teams are built based on honesty.
+A sustainably and successfully growing company.
+Apple equipment.
+Monthly team event.
+Access to hard and soft skills development courses.
+Timezone Free Month – no core working hours for a month so you can easily travel and work from your favourite locations anywhere in the world.
+
+Sounds like you? Get in touch! We’re excited to hear from you.

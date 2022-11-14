@@ -1,0 +1,50 @@
+About the job
+Job Description
+
+This role can be based in one of our tech hubs in Helsinki or Berlin, or you can work remotely anywhere in Finland, Sweden, Germany, Denmark, and Estonia. Read more about our remote setup here.
+The merchant group at Wolt is looking for multiple backend engineers to join multiple different teams. Main stack is Python or Kotlin on the backend, depending on the team you join.
+
+Wolt as a platform focuses on serving three main groups: The Customers, the couriers and the merchants. There are multiple teams focusing on separate and specific areas within the groups. Merchant group focuses on making Wolt an integral part of our Merchants’ daily lives in all the 23 countries Wolt is active in.
+
+The current teams in the Merchant Group are:
+
+Merchant App - Team owns the Merchant Application - the main Wolt operating tool for the venues. Around 50 000 iPads are alive and about at the moment in 23 different countries.
+Merchant Tools - Team owns various parts of the Merchant lifecycle (such as the onboarding experience) and internal + external tools.
+Restaurant Menu - Team focuses on creating a great experience for managing menus with the Menu Editor. Changes in the editor can be directly seen in the experience on the consumer side.
+Merchant Integrations - Team helps merchants scale their operations on Wolt by providing self service tools to automate manual tasks.
+When you apply we will consider you for all the teams, but feel free to specify if there is some team that especially interests you based on these short descriptions.
+
+All in all, you'd be part of a team that improves the Wolt experience by helping our merchants serve more customers faster while enabling them to focus on things that are the most important. If that's something that gets you excited, don't hesitate to drop in your application.
+
+Cool stuff about our teams:
+
+Ownership: We handle the whole development process (business logic, testing, database & data streaming, CI/CD, analytics, cloud) ourselves in an autonomous manner. Don’t worry, we’re not alone: We have support from central teams when we need help.
+Technology: We use modern tools and technologies. Current stack in use: Kotlin, Python, React + Typescript, MongoDB, Kafka, GitHub Actions, Jenkins, Terraform, AWS, Docker and Kubernetes.
+Autonomy: We make the decisions as a team. We are free to choose the technology stack and tools and make architectural decisions as a team. Team leads are there to serve the teams and be the best they can be. No top-down decisions!
+Growth: There is a lot of room for learning, teaching and growing together. We will support you with the tools and materials you need.
+Creativity: We’re building something new with minimal technical debt so you can focus on developing new features.
+Flexibility: You can choose whether you want to work fully remote, from the office or hybrid. It’s up to you and we don’t monitor people. We have a dedicated relocation partner to help you move to either Finland or Germany. If you are currently living in Estonia, Denmark or Sweden there is no need for you to relocate should you want to work from home but we will help you if you do want to move.
+
+Diversity: We have different people with different backgrounds. Cultivating diversity and maintaining different opinions is the key to our success.
+
+Our humble expectations
+
+Hands-on: We are looking for people who have several years of experience building high-quality software. This can include working with Apps, APIs and integrations, handling the whole development cycle all the way to production. Having said that, seniority at Wolt is measured by skills, not the number of years on your CV.
+Skilled: We want you to be proficient with Python or Kotlin on the backend. We find expertise in other JVM backend languages like Java and Scala genuinely relevant as a starting off point for learning Kotlin.
+
+Communicator & collaborator: We work closely with our teammates and having a good connection with team members is essential. We understand that everyone has their own unique way of communicating with others. We expect you to be yourself, express your opinions, and work together with the rest of the team.
+
+Next Steps
+
+Join us for an exciting journey! If you find the role interesting, we'd love to receive your application!
+In case you want to check up on your application or have any further questions about the position, you can turn to Talent Acquisition Partner Sandra Weigt at sandra.weigt@wolt.com at any given time.
+
+About Wolt
+
+Wolt is a technology company that makes it incredibly easy to discover and get the best restaurants, grocery stores and other local shops delivered to your home or office. Wolt is not just a delivery app – we’re a technology company building a commerce platform to seamlessly connect our millions of customers with thousands of merchant and courier partners, in real-time across 23 countries and 250+ cities. Our apps (iOS and Android) have the industry’s highest ratings, largely thanks to our customer-first-mindset, which shows in how we build products and run operations. In June 2022 we officially joined forces with DoorDash. Combined, we have a presence in 27 countries, 23 of which operate with the Wolt brand and app. Wolt and DoorDash continue largely independently, with Wolt’s name, brand, product, technology and team.
+Working in Product Development at Wolt
+At Wolt, we’re about getting things done. You’ll probably enjoy it here if you like taking ownership, developing yourself and being around friendly, humble and ambitious people.
+The behind the scenes of Wolt is run by an awesome bunch of over 400+ planners, builders, designers and data crunchers. We call ourselves Product+, as we’re the very core of Wolt’s products, tools and platforms. To build our products, we work in over 40 cross-functional, independent and autonomous teams. Teams are made up of a mix of talented individuals: engineers, designers, data scientists, analysts, and product leads. Each team takes ownership for solving customer problems in the best possible way.
+Our Commitment to Diversity, Equity & Inclusion
+We want to have all sorts of people in our team – people like you and me, and people different from you and me. To be able to work with diverse teammates – when it comes to gender, age, ethnicity, life background, sexual orientation, political views, religion, or any other personal trait – we consciously aim to offer equal opportunity for everyone to work with us. This is because we believe diverse teams make the most thought-through decisions and build things in the most inclusive way.
+Join us today to build Wolt together!

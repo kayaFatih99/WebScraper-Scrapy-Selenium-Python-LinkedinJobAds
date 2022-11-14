@@ -1,0 +1,25 @@
+About the job
+Role: Android Developer
+Type: Permanent and Contract
+Location: Remote Poland Nearshore
+
+Job Description:
+Android Developer
+• Have a passion for technology with strong design and problem-solving skills
+• Have excellent oral and written communication skills
+• Have excellent programming skills in Java and familiarity with reactive programming (RxKotlin /
+RxJava)
+• Have deep knowledge of Android design principles, patterns, and best practices
+• Have good understanding of Android UI fundamentals
+• Be proficient with Android Studio, build system and debugging tools
+• Have strong experience in Object Oriented Programming
+• Have experience working with RESTful APIs and common RESTful design patterns
+Nice-to-haves:
+Good knowledge of SIP, SDP, VOIP protocol, RTP, RTCP, SRTP, Audio/Video Codecs, REST APIs,
+XML
+• Good knowledge of Network protocols - TCP/UDP, TLS, Encryption, OpenSSL, WebSockets
+• Good knowledge of scripting languages - Shell, Python and Linux commands
+• Good understanding of tools - SVN, GIT, JIRA, Confluence, Wireshark/ethereal
+
+Note: No Visa sponsorship available.
+You can reach at devanshu.k@tgcworld.com

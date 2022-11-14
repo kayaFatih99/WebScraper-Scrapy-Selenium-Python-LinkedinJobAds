@@ -1,0 +1,27 @@
+About the job
+Senior Backend Engineer | Nodejs | Ai | Germany
+
+Albert Bow is seeking a Senior Backend Engineer to join one of the Top 4 Ai companies globally (rated by Gartner). The company is working with the latest cutting-edge solutions with their customer portfolio includes: Daimler, E.On, Bosch, Henkel, Lufthansa, Salzburg AG, BioNTech SE, Mobily.
+
+Requirements:
+Several years of experience in backend development (ideally in Node.JS/ Typescript).
+Several years of experience with MongoDB or a similar NoSQL database including expertise in profiling database queries.
+Experience with containers and debugging containerized applications.
+Experience in building a large-scale software product.
+Experience with writing well-tested and high-quality code - we are practicing TDD using testing frameworks and libraries like Mocha, Chai & sinon.
+Experience in identifying bottlenecks in a large codebase by using a profiler and a debugger.
+Familiar with code-analysis tools and the procedure of static code analysis.
+Experience in using and working in a Linux-based environment daily – you should be comfortable with working in the terminal.
+
+Responsibilities:
+Producing a clean, readable and well-tested code.
+Improvement and testing of already existing code and documentation.
+Helping us to increase unit-testing coverage for existing code.
+Profiling and benchmarking our existing codebase to identify bottlenecks.
+Measuring the performance of database-queries and helping us to reduce network overhead in our microservices-based product-architecture.
+
+This position is 100% remote.
+If you are interested please apply with an up to date CV below or reach out to me directly to hear more – mariosroko@albertbow.com
+
+Thanks,
+Marios

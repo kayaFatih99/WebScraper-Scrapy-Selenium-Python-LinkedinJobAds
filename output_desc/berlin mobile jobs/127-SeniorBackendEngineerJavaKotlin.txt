@@ -1,0 +1,19 @@
+About the job
+Want to build Web 3 with us? The next few years in crypto, NFTs and Web3 belong to builders and believers—not short-term speculators. At Rarible, we believe Web 3 will only proliferate when teams build excellent infrastructure, gaps and solutions that serve communities and create a better internet for everyone .If that sounds like music to your ears, we’re looking for you.
+
+Here’s why:We are looking for a Java/Kotlin Developer (Protocol Team) Rarible Protocol is a set of tools for web3 developers to build rich NFT applications. It allows to trade NFTs safely, get consistent and full data about NFTs. You will develop backend services which index state from the blockchain and other sources into internal databases.One of the key challenges is to make the data consistent and reliable You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.
+
+What will you do?
+
+1. Design and code the core Protocol service components
+2.Develop automated tests to ensure business needs are met, and allow for regression testing
+3. Manage and optimize the current systems
+4. Monitor and troubleshoot
+5. Promote best technology and software development practices
+6. Conduct code reviews
+
+Required Skills
+
+1. Understanding Microservices architecture
+2. Knowledge of Spring as a basis for building microservices
+3. Experience with Mongodb, Kafka, Redis

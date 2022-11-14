@@ -1,0 +1,34 @@
+About the job
+Wir sind die Entwickler von Papyrus Autor – dem Schreibprogramm für moderne Autoren. Wir vereinen technologisches und literarisches Know-How und kreieren die beste Software für Schriftsteller, die es gibt.
+
+Gestalte mit uns die Zukunft des Schreibens. Wir freuen uns auf Dich und Deine einzigartigen Fähigkeiten.
+
+Aufgaben
+
+Mit Deinen Programmierskills beeinflusst Du, wie Menschen Bücher schreiben – Deine Lösungen landen direkt bei Autoren und Schriftstellern.
+
+Bei uns nutzt Du Deine Fähigkeiten, um unser langfristiges Softwareprojekt in einer mobilen Applikation umzusetzen. Schneide unser Desktop-Programm auf die Bedürfnisse moderner und mobiler User Experience zu.
+
+Was Dich erwartet
+C++ Programmierung für eine einzigartige, von unseren Anwendern geliebte Software - unsere Fans warten sehnsüchtig auf eine mobile Version!
+Portierung von Papyrus Autor auf Android und iOS und Weiterentwicklung der mobilen App mit C++, Qt und QML.
+Revolution des Look & Feels unserer Software. Verleih uns den besonderen Touch, den QML in Qt ermöglicht.
+Modernisierung und Anpassung unserer Textverarbeitung / Office-Suite auf mobile Plattformen und das Web.
+Design und Umsetzung innovativer Software im Team. Bei uns arbeiten alle zusammen, Fragen können sofort geklärt werden. Jeder, der mitredet, versteht etwas von Software.
+
+Qualifikation
+Du kannst im Team arbeiten, bist stressresistent und verantwortungsbewusst. Du liebst es, etwas zu kreieren.
+Du bringst sehr gute Kenntnisse in C/C++, Qt und QML mit.
+Du hast auch Spaß an Oldschool C/C++-Code und Freude an Entwicklung von modernem C++. Qt-Widgets sind *noch* unser Status quo.
+Sehr gute Englischkenntnisse. Unser Team ist multinational!
+Du hast einen Uni-Abschluss und/oder berufliche Erfahrung in mobiler Softwareentwicklung. Du bist Autodidakt ohne Abschluss? Überzeuge uns von Deinem Talent.
+
+Benefits
+
+Papyrus Autor ist unser Traumprojekt. Mach es zu Deinem eigenen und kreiere etwas, das ohne Dich nicht existiert hätte.
+Flache Hierarchien: Keine Bürokratie, keine Politik. Wir fokussieren uns auf großartige Software.
+Wachse mit uns: Entwickle Dich in eine Schlüsselposition in einem stabilen, international wachsenden Unternehmen.
+Schnelle Maschinen: Arbeite mit einem Setup, das Du liebst. Hardwarewünsche sind kein Problem.
+Remote: Wir sind nicht an ein Office gebunden und arbeiten remote!
+
+Hast Du Dich erkannt? Bewirb Dich bei uns mit Deinem Lebenslauf und einer Arbeitsprobe, z.B. einem Auszug aus einem früheren Projekt. Wir freuen uns auf Dich!

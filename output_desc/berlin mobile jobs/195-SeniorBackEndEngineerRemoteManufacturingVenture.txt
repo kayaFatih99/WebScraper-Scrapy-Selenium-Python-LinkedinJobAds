@@ -1,0 +1,64 @@
+About the job
+What We Do
+
+We are an exciting new stealth start-up creating the future of manufacturing!
+
+The Manufacturing industry is fundamental to our daily lives. Everything we touch, use, and consume comes from a factory in one form or another. Recent global developments such as the COVID crisis and the Ukrainian-Russia war have brought to light how fragile the supply chain can be. This requires manufacturing companies to be able to react faster to change and transform their operations towards more flexibility. Blue-collar workers are indispensable in this transformation. Unlike robots, humans can learn new and complex tasks very quickly. Especially tasks like assembling products or repairing machines won’t be automated by robots for a long, long time.
+
+We are on a mission to supercharge blue-collar workers, assisting them in their daily tasks and unlocking manual labor's full productivity and flexibility potential. We firmly believe that humans play a crucial role in factories. Robots won't take over everything but will instead enhance workers' abilities.
+
+Through computer vision and artificial intelligence, we will revolutionize manufacturing by giving workers the tools they need to increase their productivity beyond their current analog limits through tracking, analyzing, and improving manual processes. We are focusing first on assembly processes but will later extend this to more processes such as material consignment or machine repair activities. We will impact society as a whole by making products more affordable and making more efficient use of our planet's resources.
+
+We are financially backed by Merantix, the world’s first AI Venture Studio. Merantix brings some of the world’s most talented engineers, scientists, and entrepreneurs (Yale, Oxford, and Harvard alumni), to tackle some of the world’s most challenging problems, such as fighting against breast cancer, developing autonomous vehicles, and making the finance industry more sustainable. Based on the Berlin AI Campus, the studio has founded seven ventures to date and employs more than 150 people between its studio and its ventures. You have the opportunity to become part of this ecosystem and mingle with AI and business experts from various industries.
+
+Your role
+
+This is a remote role. Therefore, you’d be able to work from anywhere you want that is +/- 2 hours from Germany’s time zone while ensuring that we still don’t lose the personal touch through frequent personal encounters in Berlin.
+
+You will be one of our first engineers and will have the opportunity to apply artificial intelligence to the manufacturing industry. As an early engineer, you’ll be a core part of our product. Additionally, you will have the opportunity to define and architect an entirely new platform from the bottom up.
+
+You will not be bound by legacy technologies and slow processes. As our venture grows, you will grow too and have an opportunity to expand our engineering team and create an engineering culture. This role is for entrepreneurial-minded engineers who want to be an early part of a fast-growing startup. Our fast-growing nature also means you will receive increasingly more responsibilities. You’d be required to take the lead on the major projects and support Junior Back-End engineers with their developments.
+
+Your role will include:
+You will shape the core product and its tech stack from the ground up;
+You will participate in the overall design, architecture, and integration of our backend systems;
+You will build, maintain and run secure cloud-native backend services;
+You will develop and maintain APIs for user-facing applications on top of our data backends;
+You will work closely with the frontend engineer and product team to build thoughtful backend services to power product features;
+You will work closely with the data engineers and wider tech team to build a coherent system with robust communication between services;
+You will plan, gather requirements, collaborate, and communicate with stakeholders;
+You will play a key part in the technical decision-making process;
+You will mentor other engineers and strive for best practices;
+
+Your profile
+
+You'll play a critical role in defining and driving the tech stack, so if you think you'd be great at this job, even if you don't hit all these requirements, please still apply!
+
+Essentials:
+3+ years experience as a backend engineer, full-stack engineer, data engineer, or proven equivalent experience;
+Fluency in python or an equivalent language for modern backend development;
+Proven experience fostering software development best practices (e.g. code review, pair programming, clear documentation, CI/CD, code testing frameworks, TDD);
+Proven experience building robust backend services and APIs (e.g. FastAPI, Django);
+Experience building robust ETL processes, data pipelines, and orchestrators (e.g. Airflow);
+Experience with Deployment technologies (e.g. Docker, Kubernetes);
+Experience with industrial-grade relational and non-relational data storage (e.g. Postgres SQL, Elastic search);
+Comfortable with git and building CI/CD pipelines (e.g. GitHub, GitHub Actions);
+Comfortable with DevOps on Cloud architectures (e.g. AWS/GCP, terraform);
+Experience with Agile Methodologies and working in Sprints;
+BSc or MSc in Computer Science, Engineering, or a related subject. Equivalent work experience will also be considered.
+Fluency in English (German not required).
+
+Nice to have:
+Experience building data pipelines and storage for high volume, unstructured text data.
+Experience or an interest in AI and machine learning technologies (e.g. Tensorflow, Pytorch);
+
+What We Offer
+A competitive salary + stock options
+A Brand new office situated on the AI Campus in Berlin where we closely cooperate with other exciting AI ventures - although we work remotely, you can still work from the campus if you wish
+We offer Visa Sponsorship
+Hardware allowance. We give you support to have all the equipment you would need to thrive on your job
+International Team: Within our current team, we have more than 10 nationalities and counting
+Engaging Topics and Excellence: Merantix offers unique insights into applied machine learning research and development, working with a group of highly talented engineers and entrepreneurs
+Ethics️: We are committed to developing ethical AI software
+Dynamic working culture: We hold weekly and monthly events around AI Innovation and Implementation. We have a very flat hierarchy, open 360° feedback, and flexible working hours
+Learning and Development. Annual learning and development budget to attend conferences or purchase educational resources to develop additional skills further

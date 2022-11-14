@@ -1,0 +1,35 @@
+About the job
+Reference Number: iOS1021
+The Role:
+We are looking for an iOS Developer with a passion for pushing mobile technologies to the limits and is willing to work with our team of talented engineers to develop Company’s enterprise suite of iOS applications.
+The main responsibilities of the position include:
+Be part of the development of company's complex mobile application (challenging requirements such as security, live updates and complex business rules)
+Emphasis on code quality delivery: unit and snapshot testing, UI testing
+Follow continuous integration and Agile Methods; read and submit merge requests
+Invest in multiple areas of the mobile development cycle: CI/CD, app health monitoring and alerting, data-driven analysis
+Present ideas for system improvements and help to shape the future of our company
+Continuously monitor and improve application, reliability and performance optimisation
+Participate in design sprints when building new features or products
+
+Main requirements:
+BSc/MSc in Computer Science, Engineering, or any other relevant degree
+2+ years of experience on iOS development (Swift and the iOS SDK, Xcode, Apple Human Interface Guidelines)
+Passion for mobile applications and a keen interest on personal development
+Solid understanding of the full mobile development life cycle
+Have successfully published at least one iOS application to App Store (portfolio of apps on App Store)
+A keen interest in benchmarking and optimisation
+Showcase of open-source projects and technical blogs will be considered as a plus
+Proactive, sharp, efficient and organised
+Excellent team working skills
+
+Benefit from:
+
+Attractive remuneration package
+Intellectually stimulating work environment
+Continuous personal development and international training opportunities
+
+Type of employment: Full time
+Location: Cyprus, Greece or Remote
+Please visit this link https://www.xm.com/careers/ios1021 to submit your online application for this position.
+
+All applications will be treated with strict confidentiality!

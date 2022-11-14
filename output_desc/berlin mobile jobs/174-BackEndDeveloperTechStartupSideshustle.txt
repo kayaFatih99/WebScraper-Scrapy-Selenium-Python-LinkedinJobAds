@@ -1,0 +1,38 @@
+About the job
+100% Remote Jobs. Work From Anywhere.
+
+Initially, this is a part-time position. You don’t need to quit your current job. You can work on the project in the evening/ weekends according to your availability.
+
+Tasks
+
+About Friency
+
+Friency is a German-based digital company bringing the user into the center of social media. In our highly diverse, international team, we are developing state-of-the-art digital apps. Friency is on a mission to lead, disrupt, and reinvent the whole social media industry. As of today, people are spending so much time on social media apps and never experiencing so much loneliness as ever before at the same time. This is the reason, we’ve created Friency, where everything you want from a social media app happens once a day in a minimalist way.
+
+Your profile
+You like test-driven development, teamwork, and keeping your code well documented while working on a purposeful product.
+You're self-motivated and thrive in environments that lack structure
+You take ownership of problems and provide critical feedback
+
+Requirements
+
+Must Haves
+3+ years of working experience as a software engineer
+2+ years of experience developing APIs
+You're proficient in Typescript and/or Javascript
+You have a strong knowledge of automated tests
+You have worked with relational databases
+You're familiar with AWS services
+
+Nice To Haves
+Professional experience with NestJs/ExpressJs or other nodeJs frameworks;
+Experience with GraphQl, TDD, CI/CD pipelines;
+
+Benefits
+
+What we offer
+The ability to work with the founding team of a startup that will disrupt the Social networking services
+Be part of a very talented, hungry, and expanding team with great opportunities
+A value-driven, energetic and fun culture
+A work environment where you are expected to challenge and be challenged every single day
+Remote culture - Global hiring

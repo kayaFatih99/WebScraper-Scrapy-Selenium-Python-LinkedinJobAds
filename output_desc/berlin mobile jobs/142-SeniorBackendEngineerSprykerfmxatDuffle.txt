@@ -1,0 +1,37 @@
+About the job
+In the last few years, traveling overall has, unfortunately, become too stressful, too complex, too inconvenient, and too time-consuming. And although everyone in the industry is working very hard to improve the passenger experience, there is so much more that can be done.
+
+Traveling and retailing should be seamless, simple, transparent, fast, and convenient. And digital. This is where Duffle comes in.
+
+We are hiring an exceptional, entrepreneurial, and energetic full-time Sr. Engineer, Backend platform, to lead our backend development. This person will work closely with the VP of Engineering to build the next-generation global travel retail platform. As Backend Engineer, you will be responsible for implementing the end-to-end platform that will power our operations. You will join a team of engineers who built the v1 of our platform and lead this team to develop the next level as we expand our operations.
+
+Location: HQ in Berlin - we currently have a hybrid work environment balanced between home and office. Remote possible within Europe.
+
+Tasks
+You and your team will develop the Duffle platform leveraging the commerce platform of Spryker.
+Develop and influence the platform roadmap together with the VP of Engineering and execute those priorities.
+Architect platform with scalability in mind (an increase of # of airports, retailers, user growth, order volume, etc.).
+Hire, onboard, and mentor the growing engineering team.
+Stand up Platform Operations, monitor the platform's health, measure the system performance KPIs and proactively create plans to improve them.
+You will implement individual requirements by evaluating and using new technologies to build solutions in interdisciplinary and international teams.
+Take on responsibility by truly owning what you’re building, from ideation over the design to implementation and maintenance.
+
+Requirements
+Well-founded experience in e-commerce or q-commerce, or other types of online marketplace projects.
+Ideally, you have developed backend systems that power mobile experiences for consumers and businesses.
+You have extensive development experience with PHP, MySQL, and AWS in multiple architecture settings; Spryker development experience would be a significant advantage.
+Working knowledge of front-end technologies, including CSS3, JavaScript, and HTML5.
+Strong understanding and experience developing microservices and REST APIs.
+Experience developing highly scalable backend solutions.
+Knowledge of professional software engineering and development practices.
+Ability to clearly and constructively discuss ideas and generate understanding for your proposed solutions.
+Excellent written and verbal skills in English.
+
+Benefits
+We are offering a unique opportunity for you to actively shape the platform and its future direction as an early and senior member of the engineering team.
+We offer a competitive salary (based on your background and experience).
+We offer the ability to build an international team, culture, and technology platform from the ground up - no legacy technology to deal with.
+
+Sounds interesting?
+
+We are looking forward to connecting with you!

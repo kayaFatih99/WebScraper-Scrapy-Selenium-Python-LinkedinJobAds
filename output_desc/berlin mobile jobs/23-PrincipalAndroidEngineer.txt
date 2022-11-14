@@ -1,0 +1,56 @@
+About the job
+I'm an engineer - what's in it for me?
+
+In addition to the reasons for joining ExpressVPN in general, here are some key reasons for Engineers in particular:
+
+The people. We like to think that you'll find them open and friendly, skilled and motivated, and unified by our mission to protect the privacy and security of millions of customers worldwide.
+Impact. Deliver with both high pace and great quality. You don't need to convince people here to invest in good engineering practices.
+Skill growth. We cover a broad range of engineering specialties: many aspects of high-scale cloud applications, 7 client-side operating systems, firmware, bare-metal servers for which we compile the OS (see TrustedServer), our own open-source VPN protocol Lightway, etc. No matter what your background, you're going to find someone from whom you can learn here.
+Career growth. We're lucky to be a leading company in a fast-growing industry. We're expanding the business and hiring many people, which brings many opportunities for you to evolve your role. You can rotate through teams and gain exposure to a broad range of challenges, or go into people-management. We value the individual contributor and people-management tracks equally.
+
+This specific position - Principal Android Engineer
+
+Many of our teams need expertise for Android, and we're looking for experienced engineers with such backgrounds. You won't be siloed just to Android. You'll have access to and be encouraged to commit to any repo across the company, we'll expect you to grow your skills in any direction that both fits your interests and the needs of the business, and over time you can rotate through various cross-functional teams.
+
+You will:
+
+Write high quality, well architected, modular code which is easy to read and maintain.
+Ensure your code and the application as a whole have excellent automated test coverage.
+Ensure the app has a clean, simple and robust architecture to enable various teams to easily contribute code.
+Ensure the build and test pipelines are fast and stable.
+Provide high quality code reviews for your team and other contributors to the code base.
+Lead by example and provide guidance and mentorship to other developers.
+Provide technical insights to the Product Manager.
+Work closely with designers to build great UI and a great user experience.
+Undertake spikes, prototyping and R&D work to investigate feasibility and de-risk complex projects.
+Write clear and comprehensive tech designs and test plans, and ensure work is broken down into bite sized chunks and accurately sized.
+
+Requirements
+
+Proven track record working on Android applications using native frameworks.
+Expert command of Java and/or Kotlin.
+Excellent at writing well architected code using design patterns such as MVC, MVVM and MVP.
+Excellent at writing automated tests, ideally following TDD practices.
+Experienced writing thread safe code.
+Experienced with agile software development practices such as Scrum or Kanban.
+Experienced at helping other team members be more productive, and to grow.
+Good communication skills, spoken and written.
+Logical mindset and great problem solver.
+
+Sounds interesting. What's next?
+
+Let's talk. Tell us what you're looking for in your dream job, then let's see what role would be a great fit for you.
+
+The steps are:
+
+Get in touch using the form below.
+Our engineering hiring-team will look at your profile and make a decision on whether to engage with you. If you write us a cover-letter, we will respond with a personal note regardless of our decision.
+An in-house recruiter will set up a time to speak with you on video and prepare you for our interview process.
+Our interviews are then composed of:
+a screening call with an engineering manager
+usually about 4 interviews with other engineers
+either a homework problem-solving exercise or a live pair-programming exercise.
+Then offer, including meet-and-greets with more colleagues.
+As soon as feasible: reference checks with former managers and maybe other colleagues. Your hiring-manager will perform these calls, and we'll expect you to make the introductions. We realize that we might only be able to speak with your current manager after you've accepted our offer and resigned from your current position.
+
+Thanks for your time, we look forward to hearing from you!

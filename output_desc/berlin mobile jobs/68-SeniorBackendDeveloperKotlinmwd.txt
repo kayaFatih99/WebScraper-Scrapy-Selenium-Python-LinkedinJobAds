@@ -1,0 +1,57 @@
+About the job
+Ein paar Worte über uns
+
+🤟 Wir sind Entwickler aus Leidenschaft Wir lieben es, komplexe Probleme zu lösen und schreiben lieber Code, als unsere Zeit in vielen Meetings zu verschwenden.
+
+💪 Wir verändern was Unsere Software macht den Arbeitsalltag von über 150.000 Menschen einfacher, strukturierter und perfekt organisiert.
+
+👯‍♂️ Nie ohne mein Team Wir sind ein großartiges Team von 10 Entwickler:innen mit starkem Zusammenhalt und sind stolz auf das, was wir schaffen.
+
+🚀 Wir stehen für Leidenschaft, Innovation und Klarheit
+
+Aufgaben
+
+Dein Tag bei orgavision
+Daily Scrum – 10 Minuten zum Start in den Tag
+Du implementierst neue Features, behebst Bugs und optimierst unseren Code
+Du schreibst Unit-Tests, optimierst unsere CI und unsere SaaS-Umgebung
+Du arbeitest im Pair und führst Code-Reviews durch
+
+Qualifikation
+
+Das bist Du
+Du hast mindestens drei Jahre Erfahrung in Entwicklung performanter Web-Backends auf der JVM und Deine Produkte sind live im Einsatz.
+Du weißt die Vorteile funktionaler Programmierung zu schätzen.
+Du weißt, wie man ein System in Microservices und Self-Containes-Systems unterteilt, miteinander verbindet und dem Frontend effiziente und semantisch saubere REST-Schnittstellen zur Verfügung stellt.
+Auch komplexe, effiziente SQL-Abfragen sind für Dich kein Problem.
+Deinen Code sicherst Du durch Unit-Tests ab.
+Du arbeitest gerne im Team, hinterfragst kritisch und akzeptierst gemeinsam getroffene Entscheidungen.
+Du hast hohe Ansprüche an Deine Ergebnisse, erkennst aber auch, wann weitere Optimierungen keinen Mehrwert mehr bringen.
+Das Ergebnis für unsere Anwender:innen ist Dir genauso wichtig wie guter Code.
+Du siehst Themen gerne erledigt, anstatt über Verantwortlichkeiten zu diskutieren.
+Du hast Lust auf den vollen DevOps-Stack: von der Entwicklung (Kotlin, Kafka, Elastic-Stack) über das automatische Deployment (Ansible) bis hin zum Betrieb (Docker).
+Du möchtest Vollzeit oder aber mindestens 32 Stunden pro Woche in Festanstellung arbeiten.
+
+Benefits
+
+Deine Vorteile als Entwickler:in bei orgavision
+
+👩‍💻 Büro, Remote – oder beides. Du arbeitest dort, wo es für Dich am besten passt. Best of all Worlds!
+
+🕔 Flexible Arbeitszeiten
+
+Vereinbarkeit von Job und Privatleben ist tief in unserer Firmenkultur
+
+verankert. Überstunden kannst Du durch freie Tage ausgleichen.
+
+💻 Top Office-Ausstattung
+
+MacBook Pro oder Thinkpad und Peripherie und IDE Deiner Wahl. Im Büro gibt es zwei externe Monitore und einen höhenverstellbaren Tisch.
+
+🏙 Unser Büro: Gut erreichbar In Berlin direkt am KaDeWe und der U2. Alternativ nutzt Du Dein eigenes Leasing-Fahrrad.
+
+🏅 4,7 Sterne bei Kununu Wir sind stolz darauf, Top-Arbeitgeber zu sein. Mach Dir selbst ein Bild anhand unserer Bewertungen auf Kununu.
+
+Wollen wir uns kennenlernen?
+
+Dein Ansprechpartner ist Sven Wiegand. Wenn Du Fragen zu diesem Job hast, freut er sich über Deine Nachricht.

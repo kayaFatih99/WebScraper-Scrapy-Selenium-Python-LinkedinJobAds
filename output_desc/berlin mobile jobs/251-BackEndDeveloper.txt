@@ -1,0 +1,61 @@
+About the job
+WHAT WE DO
+
+Hi, we are Vodeno. We are a Banking-as-a-Service provider underpinned by a cloud-native platform and backed by a fully EBA (European Banking Authority) regulated bank.
+Supported by a leading global equity firm and the ecosystem of nearly 90 partners, our Platform opens new opportunities to businesses across Europe to integrate financial products and services into their solutions.
+Based on financial sector know-how and expertise in cloud technology, we provide a set-up of customer-facing and daily banking services which include: digital onboarding, accounts, cards, payments, and lending with a white-label mobile app channel access.
+As we enter the phase of accelerated growth, we are looking for a Backend Developer.
+
+WHAT YOU WILL BE DOING
+
+As a Backend Developer, you will work on transformational projects within our BaaS (Banking as a Service) model.
+In this role, you should be able to work independently with little supervision.
+You should have excellent organization and problem-solving skills. If you have hands-on experience in software development and you are a great communicator, we’d like to meet you.
+Your goal will be to develop high-quality software that is aligned with user needs and business goals. Our Cloud Native approach is based on Google Cloud Platform’s cutting-edge technologies. According to the platform’s requirements, all apps are expected to meet various requirements:
+
+Operating in multiple channels and various client contexts
+Ensuring internationalization and localization
+Supporting subsequent launches of platform instances (multitenancy)
+Enabling scalability and support for frequent automatic updates (continuous delivery)
+Guaranteeing security, reliability, and fault-tolerance
+Minimizing maintenance effort
+
+SKILLS YOU SHOULD HAVE
+
+You are someone who is passionate about solving problems, and making things well explained and documented someone who can use data to answer questions and someone who is known for thinking creatively and having strong analytical skills.
+You bring strong experience and demonstrable knowledge in the following areas:
+
+Minimum 2 years of commercial Java programming experience
+Hands-on with Hibernate, Spring, Spring Boot, Apache CXF, REST API, Microservices, Web Services
+Practical knowledge of Gradle/Maven
+Good knowledge of message queues - Kafka, PubSub
+Understanding of cloud solutions (Google / Azure / AWS) - (GCP preferred)
+Good knowledge of SQL
+Good knowledge of Git
+Good knowledge of Spring
+Understanding of cloud orchestration tools like Docker, Kubernetes, and Helm. We will teach you how to use and develop those technologies if you don't have hands-on experience.
+Experience with multithreaded programming and distributed systems
+Experience in application monitoring (including monitoring tools like ELK)
+
+
+WHAT WE OFFER
+
+We offer a flexible form of a contract according to your preference.
+We are also flexible of your work location: this can be your home or office, depending on what you like and what works for you.
+You will have opportunities to grow, and we will provide you with a professional growth budget. As a Google Cloud Partner, we organize Vodeno Cloud Academy and you can get officially certified by Google.
+You and your closest family will be covered with VIP-level private medical care, so you do not have to wait for the doctor’s help in case you or your family ever need it.
+You will work on computer equipment that delivers the best user experience — Apple MacBook Pro.
+If you feel like working from the office, we have beautiful spaces available for you in Brussels, Madrid, Katowice, and Warsaw. Each office is very nicely located with convenient commute options by public transport and by bike.
+
+OUR PROCESS
+
+We keep our recruiting process simple.
+Step 1: Talk with one of our Recruiters about your to-date experiences and ambitions
+Step 2: Solve our online coding test — this allows us to verify your knowledge level and save your time later
+Step 3: Meet with your future colleagues for a technical interview
+Step 4: Meet with your Team Manager to discuss how we fit each other
+
+EQUAL OPPORTUNITY STATEMENT
+
+At Vodeno we embrace diversity in all of its forms and nurture an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of opening new opportunities to businesses and people.
+We're an equal opportunity employer. All applicants will be considered for employment without attention to ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity status or disability status.

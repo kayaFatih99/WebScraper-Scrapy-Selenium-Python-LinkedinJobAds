@@ -1,0 +1,46 @@
+About the job
+Who We Are
+
+At Vermietet. de we have been revolutionizing the real estate market in just a few years. With our market-leading property management product for private landlords and the support of our powerful partner ImmoScout24, we are creating the largest digital ecosystem for the property sector in Germany.
+
+We are building solutions for a market that has been completely overlooked to date. We invented the first cloud-based platform for private landlords and want to take it beyond the boundaries of technology and customer experience. Vermietet. de already represents the largest rental community, hundreds of thousands of customers and an international, highly motivated team. Join us in shaping the future of real estate!
+
+Tasks
+
+Who Are We Looking For
+
+We are looking for an engineer who will drive the development of the most complex features of our product. You love to design applications and to work with complex domains. You are a good analyst who makes decisions about architecture tradeoffs, and you are excited about our domain and mission. We expect you to help us to build a simple and efficient organization with a flat hierarchy and a productive environment. Check our tech radar on GitHub so that you know languages, frameworks, and techniques that we use.
+
+Your Responsibilities
+Build state-of-the-art architecture
+Prototype and deliver the features of our product
+Ensure reliable delivery of our roadmap
+Mentor less experienced developers
+Proactively discover and understand the product
+
+Requirements
+
+Our requirements
+You already took part in the development of several business domain-heavy products
+Distributed systems, domain-driven design, event sourcing, and other architecture concepts are known to you and you had an experience with some of them
+You are a great Java developer. More languages are a plus
+You are an advocate of testing and are willing to promote good testing practices within your team
+You are critical and enjoy challenging the status quo in backend development and any of the areas you are responsible for
+You speak fluent English
+
+Benefits
+
+More reasons to join
+An international and dynamic team with flat hierarchies, encouraging individual ownership and responsibility
+The newest tools and hardware
+Flexible working hours and home office
+Penthouse office over two floors with rooftop terrasse in a prime location at Berlin Alexanderplatz, beers and your favorite drinks included
+Growing choice of benefits (e.g. corporate ticket, gym membership, personal training, Swapfiets)
+Fun activities and events
+Support with relocation and Visa, if needed
+
+Fancy a challenge?
+
+Then apply directly here with your resume/CVportfolio (as links to your portfolio or whatever can show us which products you already have enriched with your professional creativity), motivations, and your availability. We are looking forward to receiving your application and will get in touch with you quickly!
+
+Starting: ASAP

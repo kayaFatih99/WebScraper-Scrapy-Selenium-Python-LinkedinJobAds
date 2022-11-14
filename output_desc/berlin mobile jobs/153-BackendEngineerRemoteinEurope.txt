@@ -1,0 +1,53 @@
+About the job
+At Abusix, we are remote working pioneers and thought leaders fighting network abuse and other cyber threats on a global scale. We build an ecosystem that enables everybody on the internet to transform security-related data into actionable information, transport it to the right place, and help mitigate it as fast as possible. Together with our amazing customers, some of the biggest Internet Service Providers, Datacenter Operators, and Enterprises, we do make the internet a safer place.
+
+OUR VISION is to build a global platform for all internet stakeholders where data can be shared and made actionable to contribute to a safer online environment.
+
+OUR MISSION is to fight network abuse on a global scale.
+
+About The Role
+
+Our engineering team is looking for a Junior Backend Engineer (gn) with a high degree of self-initiative, excellent communication skills and a huge eagerness of taking on responsibility. You join our Data Services team that is processing all data required to run our self developed software solutions in a remote team environment. The main goals are processing and adaption of high-volume parallel data streams with modern and scalable technologies like Apache Kafka, Apache NiFi and NSQ. In this position you are responsible for maintenance and enhancement of our existing systems, architecture planning and testing. By taking on responsibility and contributing your own ideas, you will bring our products to the next level.
+
+What You Will Do
+Test & Review code to minimize maintenance and increase code quality
+Extend systems to provide data for other teams and products
+Adapt code to meet latest customers requirements
+Discuss problems in team to find the best solutions
+Extend the team to keep the workload in balance
+Write documentation to make your work easily accessible to others
+
+Your Profile
+Your main values match ours: ownership, collaboration, innovation, respect and authenticity
+Eager to take on responsibility, intrinsic motivation and reliability
+Very good communication skills to ensure the seamless flow of information within the remote team
+Basic knowledge of distributed stream processing, parallel/asynchronous programming and Git Version Control
+Experience working with high level programming languages (Typescript or Python or Java / Kotlin), and Testframeworks
+Experience with automated software testing and TDD
+Fluent in English, German is a plus
+
+What we offer
+Work with the latest technology, in the cloud and with the latest frameworks.
+Share defined projects open source.
+An extremely steep learning curve.
+Impact, responsibility and participation in a very interesting field.
+Competitive pay according to your country and meaningful equity.
+Home office equipment or coworking space membership contribution.
+Flexible working hours.
+Fast-paced high-tech B2B company.
+Conference and travel budget.
+Fun team events.
+Additional benefits depending on your place of living.
+
+We believe in building and cultivating a remote culture of ownership, collaboration, innovation, respect and authenticity in a fun, diverse, and aspirational team of people with the same passion and drive. Come and help us to make a difference.
+
+Our main values
+Ownership - Everybody takes the seat as the Co-CEO of Abusix to drive results proactively.
+Collaboration - We genuinely believe that we are stronger together as a team.
+Innovation - We love to challenge the status quo and want our people to be brave and embrace failure in a safe environment.
+Respect - Our daily interactions are guided through respect for each other, our customers, and the environment.
+Authenticity - We are true to our personalities and values, have fun at work and don't take ourselves too seriously.
+
+Abusix is an Equal Opportunity Employer, and diversity of all kinds is important to us.
+Our team focuses on creating an inclusive environment for all people. We welcome people from all different backgrounds and currently employ startup founders, college graduates, students from all over the world, and coding academy graduates.
+We are actively and regularly working with the entire team to shape our culture in a conscious way towards our ideal of empowerment, transparency and kindness.

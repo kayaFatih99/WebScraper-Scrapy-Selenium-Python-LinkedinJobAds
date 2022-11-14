@@ -1,0 +1,36 @@
+About the job
+Gestalte mit uns die Zukunft - werde Teil unseres Teams!
+
+Wir sind heute [movers] und morgen [shapers].
+
+Als [movers] sind wir strategische und überzeugende Vordenker*innen in einer der führenden europäischen Management- und Technologieberatung. Wir unterstützen unsere Kunden, treiben Ideen voran und inspirieren. Als [shapers] formen wir konkrete Lösungen und gestalten Prozesse. Wir nutzen innovative Technologien und eröffnen so neue Wege. So ist jede*r von uns stets beides: [mover & shaper]. Gemeinsam sind wir in Deutschland und Österreich rund 2.400 [movers & shapers] und uns alle eint das Ziel, mithilfe digitaler Technologien die Zukunft für unsere Kunden erfolgreich zu gestalten.
+
+Bei uns warten verschiedenste Projekte aus den Branchen Industries, Insurance und Public Sector auf Dich. Du hast bereits Branchen-Präferenzen? Teile sie uns gerne mit.
+
+Wir bei Sopra Steria sind außerdem davon überzeugt, dass Deine Individualität der Schlüssel zu einem nachhaltigen Unternehmenserfolg ist. Lebens- und Arbeitszeitmodelle sind verschieden, das wissen und schätzen wir sehr. Lass uns zusammen Deine Möglichkeiten bei uns besprechen.
+
+Bist Du auch ein [mover & shaper]? Dann suchen wir Dich unbefristet als:
+
+(Senior) C# .NET Backend Software Developer / Engineer (m/w/d)
+Das erwartet Dich als [mover & shaper]
+Du führst als mover & shaper die Migration einer erfolgreichen Software in eine neue servicebasierte/cloudnative Architektur durch
+Bei der Implementierung bringst Du Dein Wissen aus den Bereichen Webservices und Cloudbetrieb/-deployment ein und hilfst so, die einzelnen Services zur Laufzeit zu einem Ganzen zusammenzufügen
+Des Weiteren entwickelst Du als mover im Team neue Softwarelösungen und bist auch für deren Analyse, Konzeption sowie Weiterentwicklung vom Design bis zur Delivery verantwortlich
+
+Das macht Dich zum [mover & shaper]
+Abgeschlossenes Studium der (Wirtschafts-) Informatik, -Mathematik oder Naturwissenschaften sowie mehrjährige Berufserfahrung in der Softwareentwicklung
+Du kannst auf ein sehr gutes theoretisches und praktisches Know-how in der Implementierung von servicebasierten / cloudnative Software-Architekturen aus unterschiedlichen Projekten zurückgreifen
+Du bist sicher im Einsatz von C#/.NET Core in Visual Studio und hast Erfahrungen in der Backendentwicklung servicebasierter Anwendungen
+Zusätzlich hast Du Know-how im Betrieb von Webservices durch den Einsatz von Containern mit Docker, Kubernetes, AWS, Azure oder ähnlichen Technologien
+Du bist ein kreativer Kopf mit gesundem Selbstbewusstsein und zeigst außerordentliches Engagement und Ehrgeiz
+Gute Deutsch- und Englischkenntnisse bringst Du ebenfalls mit
+Beratung heißt Flexibilität: Dein Projekteinsatz richtet sich nach unseren Kunden und Deiner Projektsituation und beinhaltet sowohl hybrides Arbeiten als auch den Einsatz vor Ort
+
+Das bieten wir [movers & shapers]
+Weiterbildung: umfangreiche fachliche und methodische Trainings inkl. Zertifizierungen
+Work-Life-Balance: Arbeitszeitkonto, mobiles Arbeiten, Familienservice und Sabbatical
+Flexible Urlaubsgestaltung: 30 Tage Urlaub und die Möglichkeit zur individuellen Erhöhung oder Verringerung des jährlichen Urlaubs um bis zu 5 Tage
+Selbst fahren: Firmenwagen und Dienstfahrrad per Gehaltsumwandlung
+Feelgood-Atmosphäre: unternehmensweite (Online-)Team-Events, Afterworks und Office-Feiern an unseren Standorten
+Unser Beitrag: Netto-Null-Emissionen bis 2028 und viele weitere Corporate-Responsibility-Projekte in den Bereichen Bildung, Beschäftigung und digitale Inklusion
+Unser Mindset: Teamspirit, offene Türen, Duzkultur, gelebte Vielfalt

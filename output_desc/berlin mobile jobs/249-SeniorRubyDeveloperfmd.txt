@@ -1,0 +1,43 @@
+About the job
+everphone was founded in 2016 to address $100bn of this market opportunity with a flexible, safe, and cost-effective model to equip workforces with smartphones and tablets. With their 'one click' service, everphone's model offers a unique all-round service including mobile devices, phone plans, setup with mobile device management, and replacement of defective devices. By partnering with software providers, we offer integrative mobile technological solutions which help business partners drive change and digitalisation within their organization. everphone has more than 1000 B2B customers, including Ernst & Young, TÜV Süd, Gorillas, TIER, Hyundai; and Partnerships with Samsung and Deutsche Telekom.
+
+Now we are looking for an outstanding:
+
+Senior Ruby Developer (f/m/d)
+
+About the role:
+
+We are looking for a strong (Senior) Ruby/Python Developer to join our company in Berlin as we enter our growth phase. Our ideal candidate is a knowledgeable, easy going person who can support a lead engineer on a core tech product central to the business.
+
+You'll have the opportunity to work with a rapidly evolving product which uses "real world data" to improve operational processes with the help of machine learning technologies.
+
+We seek creative, solution driven thinkers to innovate a product that gives us a competitive edge. If you have excellent programming skills and a passion for extreme ownership in your work, we would like to meet you.
+
+What you'll do:
+Bring new ideas to the table to design the future of a core tech product
+Contribute to the scaling of a purpose-built service used across departments
+Liaise with developers, designers and system administrators to identify issues
+Design robust, scalable, thread-safe and secure features
+Contribute in all phases of the development lifecycle
+
+What you'll need:
+3+ years professional experience writing Ruby is a must
+In addition, 2+ years of Python knowledge is required for this role
+Interest in GoLang is a plus
+Good knowledge of relational databases
+A firm grasp of object oriented analysis and design
+Ability to handle interactions between services
+
+What we offer:
+A dynamic work environment and the opportunity to proactively shape the growth of a company;
+A high degree of personal responsibility and creative freedom;
+Two bright and modern offices in the middle of Berlin;
+Huge open kitchen areas where you can cook, get free drinks, snacks and fruits as well as chill areas with sofas to simply switch off;
+A heavily discounted Urban Sports Club membership, so you can participate in the coolest physical activities Berlin has to offer;
+A JobRad membership for you to cruise and commute through Berlin with your favorite (e-)bike;
+LinkedIn Learning accounts as well as German and English classes for everyone;
+... and of course a premium smartphone of your choice for private use.
+
+For more information check out our career site: https://www.everphone.com/en/career/
+
+Does this sound like the next big challenge for you? Then please send us your application containing your earliest start date and salary expectations. We look forward to hearing from you!

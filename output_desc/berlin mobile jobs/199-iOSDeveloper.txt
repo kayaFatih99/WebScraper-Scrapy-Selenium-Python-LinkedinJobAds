@@ -1,0 +1,16 @@
+About the job
+Our client, a company that provides geofencing technology solutions to detect cases of fraud and false data in the sports betting & Igaming industry, is looking for an experienced iOS Developer to join their team remotely.
+
+You will design and implement new features across our publicly available iOS App and private SDK, design solutions fit for purpose across both our clients and the end user, support QA Engineers, maintain and advance automation test suites across the iOS/macOS products, work closely with our client integrations team to prioritize customer needs.
+
+Requirements
+· Some cross-platform development experience/knowledge
+· At least 4 years of experience iOS development
+· Knowledge of mobile web development is preferable
+· Experience using RxSwift / ReactiveCocao & Swift 5
+· Experience with analytical systems (GoogleAnalytics, Firebase, etc)
+· Experience with mobile CI Systems (CircleCI, Jenkins etc)
+
+Salary: 60-65K € per year
+
+If this sounds interesting to you apply and let’s have a chat !

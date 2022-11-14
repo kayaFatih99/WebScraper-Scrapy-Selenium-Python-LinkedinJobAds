@@ -1,0 +1,82 @@
+About the job
+External text introduction
+
+About Whitebox
+
+Are you fascinated by participating in the creation and development of innovative digital products? Are you excited to drive growth in digital wealth management and deliver a unique customer experience? If so, we can’t wait to hear from you.
+
+Whitebox is one of the leading digital wealth managers in Germany. We are a fast-growing company at the forefront of revolutionizing the investment industry.
+
+About The Role
+
+Our senior engineers are experts in the field of software engineering. Through their experience they accumulated a wealth of knowledge. They are consistently able to explain the reasoning behind their decisions to their team members and a wider audience inside our organization. They can provide guidance and show us a path of continuous growth.
+
+But most importantly, our senior engineers understand that context matters most. It is about knowing the context under which ideas, paradigms, best practices, and solutions were discovered and created. It is about recognizing what our specific context requires. It is about taking deliberate decisions, well aware of the tradeoffs involved.
+
+Our senior engineers understand that software engineering is about empowering people. So they set, manage, and guide expectations. They provide our team members in different roles and business functions with the power to gain new insights and quickly translate them to the next iteration of our services.
+
+Requirements
+
+Produced at least 2 applications delivering value to customers (in any capacity)
+Great software development principles
+Expert knowledge about Ruby in addition to at least 1 major language (Ruby, JavaScript, Java, Python, Go,...)
+Expert knowledge with Ruby on Rails
+Proficiency on at least 2 major (cloud-)platforms (Windows, Linux, AWS, GCP, Azure,...)
+Understanding cross-platform issues
+Excellent knowledge of Internet Technologies
+Knowledgeable of Database Technologies
+Knowledgeable about programming language paradigms
+Can guide stakeholders during the process of problem discovery and requirements gathering
+Strong Communication Skills
+Excellent analysis, project planning, and estimation skills
+Self-Motivated and working independently
+
+Nice to have
+
+Product company experience
+Experience working with a global or otherwise multicultural team
+Experience working with a remote team
+
+Your first week
+
+The first week is all about context. The why what and how of our organization. The first week is always exciting and challenging. We want you to get to know the team and gain confidence that we will always have your back.
+
+Meet with the team and have 1on1 conversations with everyone
+Get introduced to our business and upcoming challenges
+Discuss our current objectives with our leadership team
+
+Your first month
+
+The first month is there to orient yourself. Get to know our codebase, understand the reasons behind past choices, understand the context of our organization.
+
+Working out all the particular areas of the codebase and functionality
+How the pieces all fit together
+How it all relates to the product and value that we are providing to our customers
+
+Your first quarter
+
+In the first quarter you will become fully integrated into your team and be able to work with everybody on our ongoing projects. In line with this you will also integrate yourself into your chapter.
+
+Bringing value to our customers
+Moving our projects forward, cycle to cycle
+Working towards your own goals, to raise the bar
+Participating in our engineering team meetings, defining our own principles, goals, and how we want to work
+
+Work environment
+
+You will work integrated in our mobile development team.
+You will work directly with your team's engineering manager.
+You will be a core member of our mobile chapter, a group of all mobile engineers.
+
+Salary/Technicalities
+
+We are a remote-first company. Our engineering team members are spread across the world, but we need to be in similar time zones.
+This role is focusing on relationships. Some colleagues prefer to work a few days in the week in our office in Freiburg, Germany. For candidates based in Germany, being able to come in once in a while is a strong plus.
+This is a permanent, full-time (40h/wk) role.
+30 days of paid vacation.
+
+Our offer
+
+We are offering the ideal candidate a permanent contract and an attractive retributive package. Selected candidates will have the opportunity to sign on with a fast-growing company, working with growing team of exceptionally skilled people in a very fast-paced environment. Please note that only the candidates that fulfil our requirements will be considered and only shortlisted candidates will be contacted.
+
+External text conclusion

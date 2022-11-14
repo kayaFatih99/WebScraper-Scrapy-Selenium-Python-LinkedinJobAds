@@ -1,0 +1,63 @@
+About the job
+wealthAPI is a tech-driven Finance startup (FinTech) aiming to change the way we plan and manage our wealth. Our customers integrate our APIs and services into a wide range of financial applications; always with one aim: improve the way we manage and plan our wealth. wealthAPI is primarily owned by its founders and operates under a long-term growth strategy.
+
+At wealthAPI, we live an open discussion culture, decide together and develop as a team. Your are encouraged to take your own decisions and actively shape our products.
+
+Performance in the job is important to all of us - at the same time both founders have family. This means we care about compatibility of family and career.
+
+We combine technical excellency with a deep understanding of financial markets. Sharing knowledge is part of the "wealthAPI DNA".
+
+We love our work - and are passionate about our products.
+
+Tasks
+Work in a small team and as such take product assignments and lead them to completion. You will be responsible for all the phases of planning, development and delivery.
+Actively participate in architectural design and decision-making.
+Conduct code peer-reviews and attend retrospectives to plan and execute improvements as a team. Support junior and mid-level team members to achieve high code quality.
+Use modern technologies: Ruby on Rails, Postgres, gcloud, Kubernetes, Docker
+Get involved in technological projects together with experienced Engineers and further improve our architecture, scalability and security to fulfil the need of our ever growing solution
+Demonstrate great communication, ownership, accountability and team play skills. You are not “just” a developer - you will always think about our product and how to improve the experience for our customers.
+
+Requirements
+
+Must have:
+8+ years of development experience
+Strong development experience in Ruby on Rails or Spring Boot
+Test Driven Development
+Extensive unit and integration testing skills
+
+Beneficial:
+Machine learning experience or related statistical training
+Experience with a big-data stack such as MongoDB or Cassandra
+Experience with Java
+Interested in investing and personal wealth management
+Knowledge of financial products and the stock market
+
+Soft skills:
+Willingness to learn about new technologies
+Use data or reliable source of information to drive the decision making during discussion, design or implementation phases
+Have the ability to take on complex problems, learn quickly, and persist towards a good solution
+Be conscious about speed of delivery vs quality of code and find the best balance
+
+Language skills:
+English is mandatory
+German is a plus
+
+Benefits
+
+We are a compact team that focuses on personal and professional growth. We discuss openly, decide in the team and implement together.
+
+We combine technical excellence with a deep understanding of financial markets. Learning from each other is part of the “wealthAPI DNA”.
+
+We are passionate about what we are doing - and achieve because we love what we are doing.
+
+We solve real life investment problems together with a vibrant user base and see the immediate value of that.
+
+You learn to invest, about financial products and how to manage your money.
+
+We believe in automation. We automate anything and everything that can improve our productivity and focus.
+
+We write our own tests and we test our own solutions which helps us learn more and understand our customers better.
+
+wealthAPI is an equal career opportunity no matter your gender, identity, race or religion.
+
+We value transparency, close collaboration, and a slight amount of chaos in our work because it makes us faster and more creative.

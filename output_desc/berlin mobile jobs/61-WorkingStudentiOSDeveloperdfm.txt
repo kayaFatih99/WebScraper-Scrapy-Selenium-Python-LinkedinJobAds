@@ -1,0 +1,27 @@
+About the job
+Fitrockr is a global innovative technology startup specializing in health solutions based on wearables. The Fitrockr Health Solutions platform offers modules for Research & Analytics, Fitness Challenges, Coaching and Healthcare. Founded in Berlin in 2017 by three German engineers and entrepreneurs. We are looking for a proactive and enthusiastic new team member joining us as soon as possible.
+
+Tasks
+
+Within this position your focus will be on app development ranging from new feature development to continuous usability optimisations for our existing mobile apps:
+
+Fitrockr Hub: this app allows pairing and data synchronization of Garmin wearables with the Fitrockr Health Solutions platform.
+
+Fitrockr Fitness Challenges: this app allows pairing and data synchronization of various fitness wearables to participate in online fitness challenges.
+
+Requirements
+
+Must have skills:
+Swift-based iOS development experience
+REST-based backend communication experience
+English or German language skills
+Work eligibility in Germany or student registered at a German university
+
+Optional skills:
+Use of external SDKs
+
+Benefits
+Work on and improve an innovative product in the health technology space.
+Flexible working times. Decide yourself when and where to work.
+100% remote work, no need to travel to an office.
+Liaise and work together directly with the company founders.

@@ -1,0 +1,42 @@
+About the job
+About Us
+
+Sauce Labs is the leading provider of continuous test and error reporting solutions that give companies the confidence to develop, deliver and update high quality software at speed. The Sauce Labs Continuous Testing Cloud identifies quality signals in development and production, accelerating the ability to release and update web and mobile applications that look, function and perform exactly as they should on every browser, operating system and device, every single time. Sauce Labs is a privately held company funded by TPG and Riverwood Capital.
+
+The Role
+
+If you are a product designer who is strong in both UX and UI, and likes to nerd out in the world of developer tools, then read on.
+
+Sauce Labs is the leading provider of automated and continuous testing solutions that ensure web and mobile applications look, function, and perform exactly as they should — on every browser, OS, and device, every single time.
+
+Sauce Labs is looking for a Product Designer to join our team. You will collaborate with product management and front-end development to research, design, and deliver on new capabilities for our customers. This role is perfect for a designer who thrives in a fast-paced environment and is excited by novel design challenges that can truly make a difference. This role will report to the Product Design Manager.
+
+Sauce Labs has teams and remote employees around the globe. Candidates for this position must be based in the UK, Germany, Poland or the Netherlands.
+
+Responsibilities
+Work closely with product managers and product teams to define, design and deploy successful user experiences
+Create sketches, wireframes, storyboards, task flows and user journeys to effectively communicate interaction and design ideas
+Design high fidelity UI mockups and high quality, production-ready design assets.
+Articulate a clear point of view for customer experiences and the rationale behind it
+Collaborate with UX Research to develop a thorough understanding of your users
+Partner with product managers on planning and strategy
+Communicate and collaborate regularly with the broader Product Design team, and contribute to design-led initiatives that help the company grow
+Required Skills
+4+ years experience designing interactive web applications
+2+ Experience designing SaaS for enterprise or B2B
+Experience working with design systems and component libraries in Figma
+An online portfolio that demonstrates your process, with samples of in-progress work as well as final designs
+Experience with UX activities and outputs throughout the product development process — from discovery and user research, to high-fidelity designs and engineering specs
+Experience engaging with and designing for technical users
+Strong English communication skills, both written and verbal
+Strong facilitation and collaboration skills
+Self-organized and proactive
+Experience using data to identify opportunities and measure success
+Agile development experience
+Security responsibilities at Sauce: At Sauce, we will commit to supporting the health and safety of employees and properties, partnering with internal stakeholders to learn and act on ever-evolving security protocols and procedures. You’ll be expected to fully comply with all policies and procedures related to security at the department and org wide level and exercise a ‘security first’ approach to how we design, build & run our products and services.
+
+Sauce Labs is proud to be an Equal Opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender identity/expression/status, sexual orientation, age, marital status, veteran status or disability status.
+
+Please note our privacy terms when applying for a job at Sauce Labs.
+
+Remote-EU LI-CAS

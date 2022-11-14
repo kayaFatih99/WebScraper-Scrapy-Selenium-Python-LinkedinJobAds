@@ -1,0 +1,40 @@
+About the job
+Podigee is a powerful software-as-a-service solution, leader in podcast hosting, distribution and analytics.
+
+From entry-level professionals to seasoned veterans, we all work together to create a product and service that serves podcasters large and small. We are actively shaping the present and future of the podcasting industry.
+
+Your mission
+Building, maintaining and scaling high traffic web services
+Multifaceted work including standard web development but also working with data pipelines, audio transcoding, ad tech and content delivery with a backend focus
+Building features from concept to production
+Extend a widely used API
+
+Your profile
+Backend or full stack developer with willingness to dive into new topics and learn new technologies
+Experience in developing database backed web applications/APIs
+Professional experience of at least 3-4 years in SaaS environment
+Experience with Ruby / Ruby on Rails
+Knowing at least one frontend framework like react, vue or angular is a big plus
+Detail oriented but pragmatic thinker
+Fluency in English for verbal and written communication is required
+Nice to have:
+experience with audio encoding in general OR
+experience in managing a fully automated infrastructure OR
+experience with Ad Technologies
+
+Why us?
+You work together with an experienced team, with perfectly mixed skills
+Flexible workdays with 6 weeks vacation per year
+Work remotely (timezone CET +/- 1 hour) or use our office, just as you prefer it
+Newest equipment of your choice for both work and private usage
+Salary negotiable and fully based on company fit and qualifications
+
+Our tech stack
+Backend with Ruby and Ruby on Rails fully tested with RSpec
+Complex asynchronous job structure with Sidekiq
+New frontend components are build with Vue.js and tested with Mocha
+Database is PostgreSQL/TimescaleDB
+Nginx for CDN and load-balancing enriched with smart components built in GO; hosted on AWS/GCP/Hetzner Cloud
+Infrastructure management with Terraform/Ansible/Consul/Prometheus/Grafana
+
+We encourage you to apply even if you’re still developing some of these skills! We value applicants who represent diverse backgrounds and welcome all applicants regardless of gender identity, religion, ethnicity, national origin, sexual orientation, age or disability.

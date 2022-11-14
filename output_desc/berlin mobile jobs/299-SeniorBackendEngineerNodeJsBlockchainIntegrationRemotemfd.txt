@@ -1,0 +1,52 @@
+About the job
+Who we are:
+
+We're an ambitious team of researchers, builders, and entrepreneurs with many years of experience in the crypto space and are passionate about digital assets. With a new product roadmap, we are adding several new products to our portfolio, beyond on-chain data - we are becoming a more comprehensive go-to crypto platform for various needs.
+
+Glassnode is a leading market intelligence platform for on-chain and derivatives data. We offer the most comprehensive library of advanced on-chain metrics and insights for Bitcoin, Ethereum and hundreds of other digital assets, bringing data intelligence to the blockchain and cryptocurrency space.
+
+With an emphasis on user-centric interfaces, we aim to deliver intelligible, actionable, and unique insights from blockchain data and beyond, helping investors make educated decisions in an overly emotional and irrational market, and equipping blockchain teams with valuable insights on their projects and tokens.
+
+Backend Engineer - Node.Js (Blockchain Integration). Remote. Contract or an Employee Agreement. (m/f/d)
+
+About the role:
+
+Mission - you will work in the Data Ingestion team powering our data layer by connecting to blockchains, centralized exchanges and decentralized protocols to identify and analyse financial portfolio data.
+
+We are developing a remote-first company that empowers people to approach tasks creatively, and organise their work the way is best for them and it’s all supported by a collaborative team in a pragmatic and solutions-focused environment. We would like to work with someone who shares these values, can act independently and can see themselves thrive in such an environment.
+
+Join us remotely, you can be located anywhere around the CET time zone, as our work is 100% online. The position requires a full-time engagement; both a Contract and an Employment Agreement are possible.
+
+What you will do:
+You will be connecting blockchain integrations to our data layer
+Explore new ways of building and optimising a scalable and quick system.
+You will be working with Smart Contracts, Liquidity Pools and Decentralized Protocols.
+You will contribute directly to the product, suggesting improvements and discussing the best way to shape it.
+We aim for a “you build it, you run it” environment, where you will be involved in all phases of the development lifecycle.
+You will be involved in the product firsthand, proposing solutions and enhancements to make it from great to brilliant.
+Help us maintain and care about our tech stack: allow time to refactor and ensure the code is maintainable and scalable.
+Work in a mature team that consists of 4 engineers, 1 engineering manager, and 1 product manager.
+
+What you bring to the table:
+4+ years of full-time Backend Software Engineering experience.
+Writing well-organised, efficient, and easily testable code.
+Proficiency in NodeJS and Javascript/Typescript development.
+Solid knowledge and experience working with REST APIs and WebSockets.
+
+__Nice to have:__* Experience with NestJS.
+Genuine interest in blockchain technology, you are up-to-date with new trends.
+Knowledge of design patterns and when to apply them.
+AWS / GCP
+Knowledge of React and NextJS.
+
+What we offer:
+A modern technical stack with an emphasis on quality
+Flexibility to organise your work and hours the way you like, our remote-first setup enables this for everyone
+Join a young, self-funded and already profitable company in a future-proof market
+Freedom to own your decisions and experiment, we need driven experts who help us figure out what to do, not for us to point at what needs to be done
+Be one of the main contributors to building a company with its unique culture in the cutting-edge tech space
+No approval loops or unnecessary processes, quick decision-making and full ownership of your function
+We are working on a kick-ass, meaningful benefits package, something truly useful and empowering - you will help us figure out what we'd need to stand out as the workplace of the future, we are open to any ideas
+Frequent company offsites, we love remote but love to have fun together too - this year we went to Lisbon for a week, we're also going to Mallorca for our Xmas party and more adventures are coming
+
+Glassnode is an equal opportunity employer. We respect and empower each individual who joins us. Glassnode commits to a transparent, inclusive, non-discriminatory recruitment process and employment.

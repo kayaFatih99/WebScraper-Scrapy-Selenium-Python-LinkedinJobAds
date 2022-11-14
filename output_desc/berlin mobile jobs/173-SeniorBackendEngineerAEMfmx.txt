@@ -1,0 +1,64 @@
+About the job
+
+
+Thrive on innovation at a global technology leader. Develop exciting customer-centric digital solutions and business models in the diverse, dynamic and stable work environment at ZEISS Digital Partners. Join our inspiring colleagues in a modern workspace and benefit from our open culture. Cooperating closely with our ZEISS businesses around the globe, we enable the digital future @speed and @scale for ZEISS.
+
+We offer
+
+Modern technology stack - with room for you to try things out in a high-tech group
+
+Munich or Jena based permanent job with 40-60% hybrid work option
+
+Great colleagues and a lead to support your professional development from day one.
+
+
+
+Your role at ZEISS Digital Partners
+
+You are part of an interdisciplinary team of designers, frontend and backend developers
+
+You are responsible for digital solutions based on Adobe Experience Manager (AEM) – driving implementation of CMS modules based on the respective business needs of ZEISS’ business units
+
+You collaborate closely with other developers, project/product managers, designers and external agencies to build an amazing user experience – both for B2B customers and B2C consumers
+
+You design, build, test, and maintain AEM/Java applications for ZEISS’ global web presence
+
+You are in charge for defining concepts and implement integrative solutions, asynchronous, synchronous rest services, batches, and message queues.
+
+
+
+If you would like to know more about the role, kindly contact the responsible recruiter: Anna Dollhofer (anna.dollhofer@zeiss.com).
+
+Your profile
+
+Master's degree in computer science – or equivalent
+
+At least 3 years professional experience in J2EE as well as professional experience in AEM technologies / environments, preferably 6.5 as well as an AEM Developer Certificate
+
+Expertise and skills in web technologies such as CSS/Sass and JavaScript/TypeScript
+
+You master quality, and you know what it means to ship high-quality code
+
+You are a pragmatic, empathetic and collaborative team player – and always strive for amazing digital customer experiences
+
+You share innovative ideas with confidence – going the “extra mile” where needed
+
+Excellent communication skills – fluent in English – German is a plus.
+
+
+
+Additional nice-to-haves
+
+Experience in static code analysis and continuous integration tools like SonarQube and Jenkins
+
+Experience in working with frontend frameworks such as React, Angular or Vue
+
+Experience with MS Azure would be a plus
+
+You have been actively supporting continuous enhancement of development processes (testing, building, deploying, automating).
+
+
+
+Your ZEISS Recruiting Team:
+
+Anna Dollhofer

@@ -1,0 +1,40 @@
+About the job
+Als Senior Backend Developer (m/w/d)
+
+in einem selbstorganisierten, interdisziplinären Remote-Team bringst du deine vielfältige Erfahrung ein und entwickelst unsere SaaS-Platform mit Serverless-Technologien weiter. Wir arbeiten kollaborativ, kundenzentriert und unbürokratisch an der stetigen Verbesserung unserer Produkte.
+
+Über den Job:
+Du arbeitest an neuen Produktfeatures
+Du entwickelst Bibliotheken und Shared Code zur serviceübergreifenden Verwendung und trägst damit zur Reife unserer Development Platform und Developer Experience bei
+You build it, you run it - Infrastruktur, Deployment und Betrieb Deines Codes gehört mit zu Deinen Aufgaben, dabei nutzt Du moderne Prinzipien und Cloud Services (Infrastructure as Code, AWS CDK)
+Dein sauberer, gut getesteter und dokumentierter Code trägt zur langfristigen Wartbarkeit des Gesamtsystems bei
+Gemeinsam mit Deinen Kolleg*innen wirkst Du kollaborativ an architektonischen Entscheidungen mit
+
+Desired Skills and Experience
+Über Dich
+Sehr gute Kenntnisse und 3+ Jahre Erfahrung in der Backend-Entwicklung mit TypeScript und node.js
+Erfahrung im AWS Ökosystem, idealerweise Erfahrung mit AWS Lambda und Serverless
+Erfahrung mit TDD, idealerweise BDD
+Idealerweise Erfahrung mit den vielfältigen Methoden des Domain Driven Design (DDD)
+Gute Kenntnisse in Datenbanktechnologien (SQL, idealerweise DynamoDB)
+Von Vorteil: Erfahrung mit Messaging, event-getriebenen Architekturen und Event Sourcing
+Erfahrung in agilen Arbeitsumfeldern, selbständige Arbeitsweise und Hands-on Mentalität
+Software-Development ist für dich ein Team-Effort
+Sehr gute Kommunikationsfähigkeiten in einem Remote Setting
+Ausgezeichnete Problemlösungskompetenz und die Fähigkeit, verschiedene Sichtweisen und “Flughöhen” einzunehmen
+Du kannst dich im Arbeitskontext sicher auf Deutsch verständigen (mind. B2)
+Du erfüllst nicht alle Voraussetzungen, glaubst aber trotzdem, die richtige Wahl für diesen Job zu sein? Dann möchten wir dich motivieren, dich trotzdem zu bewerben! Gemeinsam finden wir heraus, ob unsere Stelle zu dir passt.
+
+Benefits
+Eine Remote-Position mit Möglichkeit, das Berliner Office zu nutzen, sowie flexiblen Arbeitszeiten
+Auswahl deines Arbeits-Equipment (Apple/Lenovo) sowie Ausstattung deines Homeoffice-Arbeitsplatzes
+Essenszuschuss mit unserem eigenen Produkt, der digitalen Essensmarke :)
+Förderung deiner Weiterentwicklung mit einem jährlichen Weiterbildungsbudget von eintausendfünfhundert Euro
+Ein offenes und vertrauensvolles Miteinander in einem Team, das viel Wert auf Zusammenhalt und gemeinsame Weiterentwicklung legt
+Mitarbeit in einem nachhaltig wachsenden Startup mit solider Finanzierung sowie an einem Produkt, das sich direkt an HR-Manager:innen richtet
+Quartalsweise Team-Offsites für “Face- und Quality-Time” im remote Kontext
+Lust auf Hrmony?
+
+Super, wir freuen uns auf Deine Bewerbung mit deinem aktuellen Lebenslauf über das Bewerbungsformular!
+
+Du hast Fragen zu unserer Ausschreibung? Dann melde dich auch gerne über jobs@hrmony.de.

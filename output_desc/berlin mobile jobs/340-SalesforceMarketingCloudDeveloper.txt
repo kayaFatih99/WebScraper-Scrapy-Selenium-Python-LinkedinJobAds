@@ -1,0 +1,82 @@
+About the job
+We are on a mission to make science open so everyone can live healthy lives on a healthy planet
+
+Who We Are
+
+Frontiers is an award-winning open science platform and leading open access scholarly publisher.
+
+We are one of the largest and most cited publishers globally. To date, our 200,000 freely available research articles have received more than 1 billion views and downloads and 2 million citations. Our journals span science, health, humanities and social sciences, engineering, and sustainability. And we continue to expand into new academic disciplines so more researchers can publish open access.
+
+Be part of the publishing revolution and help us transform the way research is published, evaluated, and communicated to the world.
+
+The role
+
+The Salesforce Marketing Cloud Developer will be the technical subject matter expert in using Salesforce Marketing Cloud to implement and execute the omni-channel strategy, Mobile Push marketing strategies and campaigns for the League’s Member Marketing teams. Based on the feature roadmap and by collaborating with League’s Member Marketing teams, product owners, the Salesforce platform team and other engineering teams, the Salesforce Marketing Cloud Developer will perform hands-on technical development for feature enhancements and projects related to Salesforce Marketing Cloud using AMPscript, JavaScript, HTML and CSS, SOAP/REST APIs, Email Studio, Automation Studio, Mobile Studio, Advertising Studio, Interaction Studio and CDP.
+
+Responsibilities
+Actively contributes to the development of solutions and ideas that add value.
+Engages with system users and business analysts to identify system enhancements and/or new applications to meet business needs.
+Creates quality design documents to illustrate how the system works.
+Writes clear and detailed technical specifications for development of the application.
+Produces products on schedule.
+Produces elegant and efficient designs, high performance and scalable code that will allow for easy extension to future needs.
+Produces codes of high quality and reliability - strong quality code metrics.
+Effectively performs code walk-throughs.
+Takes part in solution & code review. Proactively searches for possible improvements of existing solutions.
+Tracks record of identifying largest risk areas and driving resolution of these issues.
+May lead the design, development, and implementation of applications.
+May be responsible for providing accurate and timely input to Project Manager or lead regarding status of project-related technical tasks.
+Serves as a contact person in support of production problems.
+Performs other duties as assigned.
+
+Key Skills/Requirements
+API Integration experience with email and SMS for marketing cloud: Triggered sends etc.
+Automation Studio experience.
+Experience with building Journeys.
+Experience with building email templates and SMS templates.
+Reporting.
+Experience with REST/SOAP API integrations.
+Possess extensive knowledge and expertise with Salesforce and in the use of project management methodologies, tools, resource management practices, change management and project reporting.
+Self-starter able to work effectively with limited supervision.
+Ability to work with functional teams through all phases of the Software Development Lifecycle independent of the delivery methodology chosen.
+Ability to work independently and as part of a team.
+Experience with CDP, Interaction Studio, Saleswing, Google BigQuery and Snowplow.
+Salesforce Marketing Cloud Email Developer certification.
+Strong oral and written communication skills.
+
+Desirable Skills
+3+ years of consulting and / or experience participating in at least 2 Marketing Cloud implementations.
+3+ years of experience in building SQL Queries and database management expertise.
+3+ years of experience with HTML, AMPScript and Server-side JavaScript.
+Any additional Salesforce Marketing Cloud or Salesforce Platform certifications.
+Experience using Agile methodology.
+Experience with other Salesforce Clouds, such as Salesforce CDP, Mulesoft, CRM Analytics and Interaction Studio.
+Experience with technologies such as Node.JS, Vue.JS.
+Experience in developing complex integrated solutions including integration services, data modeling, database design, and multi-tier architectures.
+Able to effectively estimate tasks, cost and duration of activities needed to develop solutions.
+
+Benefits
+
+With more than 50 nationalities represented in our global team, you will work regularly with teammates in other countries, and with our community of researchers, editors, and authors from around the globe.
+
+Our mission to create solutions for healthy lives also extends to the working environment we provide for our employees.
+
+This includes:
+
+100% remote working
+
+Employees now have the flexibility to choose where they want to work, with remote working available on a part- or full-time basis (not applicable to some Workplace/IT jobs due to nature of role requiring presence onsite, in the office).
+
+Learning and development
+
+All employees have access to LinkedIn Learning (and Pluralsight for our technology team), an annual personal learning budget, and dedicated L&D time.
+
+Wellbeing
+
+We offer free online yoga classes, an employee assistance plan, access to the Headspace app, and four wellbeing days on top of your annual leave allowance.
+
+Volunteering opportunities
+
+Employees can dedicate three days each year to volunteer for a personal cause or through our volunteering partner platform, Alaya.
+
+Frontiers actively embraces diversity and is a safe and welcoming workplace. Recruitment is free from discrimination – including based on race, national or ethnic origin, age, religion, disability, sex, gender identity or sexual orientation. With over 600 employees from more than 50 different nations, our diversity creates vibrant teams and constantly challenges us to appreciate multiple perspectives.

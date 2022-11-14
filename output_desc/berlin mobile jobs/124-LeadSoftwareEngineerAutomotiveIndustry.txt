@@ -1,0 +1,63 @@
+About the job
+HERE Technologies is a location data and technology platform company. We empower our customers to achieve better outcomes - from helping a city manage its infrastructure or a business optimize its assets to guiding drivers to their destination safely.
+
+
+
+At HERE we take it upon ourselves to be the change we wish to see. We create solutions that fuel innovation, provide opportunity and foster inclusion to improve people’s lives. If you are inspired by an open world and driven to create positive change, join us. Learn more about us. Watch Video
+
+
+
+
+
+
+
+You will be a Lead Software Engineer acting as Tech Lead within HERE Professional Services - Global Solution Engineering team.
+
+You plan, design, develop and test complex software customer solutions that advance HERE’s geolocation business and vision. Day by day, you will regularly interface with customers around the globe as well with internal stakeholders, such as project, product, and engineering teams. You often work on cross functional and technical domains, designing and implementing cloud services, embedded or mobile clients for multiple industries including Automotive, Transport and Logistics. You feel at home going deep in technical discussions with developers, documenting complicated systems, and explaining their work to both technical and non-technical audiences. In this role you’ll represent the go to person and authority for the technical questions regarding the assigned project scope, You will be involved in estimating development efforts and backlog planning, and your design decisions will be based on customer requirements, project’s solution architecture and project's delivery roadmap. Over the course of the software development lifecycle, you will be accountable for the delivery of software design, implementation, integration and quality.
+
+What would be your responsibilities?
+Support opportunity quotation initiatives (RfX) by providing technical analysis, detailed component design, and effort estimates for the assigned scope.
+Collaborate closely with Solution Architects to shape the software solution.
+Design and document the detailed technical solution.
+Scope complex features and break them down into smaller concrete tasks that can be taken up by the team.
+Lead internal and external teams to achieve the assigned goal in time, on budget, on quality.
+Act as a technical point of contact between the program and development.
+Collaborate with the functional manager and program managers to help with decisions around planning, work allocation, execution, and risk management.
+Validate the technical deliverables according to the requirements and the expected engineering practices.
+Assess and analyze complex problems and define clear action plans for the problem solution.
+Clearly explain complex technical solutions to the program stakeholders.
+Take timely decisions and communicate them to all necessary stakeholders.
+Guide, coach, and mentor less experienced colleagues.
+Evaluate new technologies and provide proposals for technical improvements.
+
+
+10+ years of related experience with Bachelor/Master in Computer Science, Software Engineering or similar technical degree.
+Self-motivated, proactive, cooperative, flexible, well-organized and a strong team player.
+Experienced in overall software engineering process: analysis, design, implementation, test, deployment and documentation.
+Experience with several modern programming languages, technologies and concepts (e.g. C++, Java, Swift, Typescript, Scala, cloud design, microservice architectures, Kubernetes, security-first design, domain-driven design, ...).
+Expertise in at least one of these technical domain: Embedded, Mobile, Cloud
+Experience in building automotive solutions.
+A proficient developer able to read and write good, self-documenting, and performant code.
+Experience with Agile, DevOps and CI/CD methodologies.
+Strong availability to perform precise and explanatory code reviews.
+Experience providing guidance and leadership to engineers.
+Strong problem-solving abilities and an aptitude for learning new technologies.
+Ability to work across teams, manage issues cross-functionally, and remotely.
+Availability to occasionally travel abroad.
+Availability to communicate across different time zones.
+Availability to offer coaching to others in own areas of expertise.
+Excellent English written and verbal communication skills.
+Experience in pre-sales is a strong plus.
+
+
+We encourage you to apply even if your profile does not meet all the requirements for this position. We believe in continuous learning and growth.
+
+
+
+HERE is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, age, gender identity, sexual orientation, marital status, parental status, religion, sex, national origin, disability, veteran status, and other legally protected characteristics.
+
+
+
+
+
+#ProfessionalServices

@@ -1,0 +1,27 @@
+About the job
+We have an immediate opportunity for "Android Developer" with our client. Interested candidates send me your CV to san.g@lancesoft.com
+
+Job Title: Android Developer
+Location: Anywhere in EU - Remote
+Duration: 6+ Months Contract
+
+Expert knowledge of
+Object Oriented Programming
+Kotlin/Java for Android
+Supporting designs on different screen sizes and resolutions
+Android SDK and App Lifecycle
+Design patterns like MVVM, MVP and/or MVI
+Web service integration (REST, JSON) using Retrofit and OkHttp
+Competent with
+GIT usage and code management
+Reactive and functional programming (Rx, Coroutines, Flow etc.)
+Task/ticket management tools such as JIRA
+Documenting Android solutions and code
+Integrating with and using third party libraries/applications (e.g. video providers)
+Full Android development lifecycle from project creation to release signing
+Android Architecture Components and jetpack libraries for example: viewmodel, navigation components, dynamic feature modules, app bundles,etc.
+Understanding of
+App modularisation and Clean Architecture
+Persistent storage solutions
+Continuous Integration solutions
+Unit testing experience using jUnit and Mockito

@@ -1,0 +1,14 @@
+About the job
+WO WIR DEINE HILFE BRAUCHEN
+Dein Fokus liegt auf der Entwicklung der Android Mobile App
+Durch Code Reviews, Unit -und Integrationstests trägst Du dazu bei, dass unsere Software auf dem neuesten Stand ist
+Wenn es um Veränderungen in der Architektur geht, bringst Du Dein Wissen und Ideen ein
+
+DEINE EXPERTISE
+Du verfügst über mehrjährige Erfahrung als Entwickler für Android-Applikationen und SDKs
+Du bist Experte für Kotlin, Java, Dagger, Android Studio und RxJava
+Kenntnisse in Glide, Timber, Retrofit, OkHttp und Swagger sind von Vorteil
+Du sprichst fließend Englisch, Deutschkenntnisse sind von Vorteil
+
+*VOLLZEIT
+*REMOTE ist möglich

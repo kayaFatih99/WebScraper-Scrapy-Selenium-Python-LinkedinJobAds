@@ -1,0 +1,13 @@
+About the job
+Fully remote - Senior Golang Backend Engineer - €85k-€95k
+
+As a leading eSports company, providing high-quality performance and insights, they’re recruiting a passionate Backend Engineer, who will be working on building high-quality, scalable, and performant distributed systems!
+
+With the opportunity to balance quality, performance, and maintainability in this position, you’ll gain in-depth experience with
+Building major new features and supporting end-to-end testing
+Working on API integrations to ensure seamless user experiences
+Design and redesign information architecture
+
+Working on modern techs such as Golang, PostgreSQL, AWS, and Docker, it's the perfect opportunity for a tech fanatic to further develop their career!
+
+This is a Senior/Lead role, open to candidates based in the UK or in a similar time zone in Europe -/+3hrs

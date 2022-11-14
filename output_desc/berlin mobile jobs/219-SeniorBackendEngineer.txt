@@ -1,0 +1,65 @@
+About the job
+Job Description:
+
+DataRobot is the AI Cloud leader, delivering a unified platform for all users, data types, and environments to accelerate the delivery of AI to production for every organization. A third of the Fortune 50 currently trusts our Augmented Intelligence platform. We are growing and scaling rapidly with a massive market opportunity in sight. As a DataRobot employee, you will be part of a company whose mission is clear - to change outcomes for organizations worldwide. We’re at the forefront of the AI revolution, from banking to insurance to healthcare. And we need other revolutionaries to join us.
+
+DataRobot accelerates building predictive models to get the most out of valuable data. We work hard to create tools that data scientists can use effectively. Our headquarters is in Boston, with offices in Kyiv, Munich, and various other locations around the globe.
+
+As a Backend Engineer in our Machine Learning Development department, you will work on DataRobot’s machine learning platform and actively contribute to the development of our backend and API services around modeling capabilities.
+
+We are looking for talented people with excellent engineering skills who can analyze problems, design unprecedented solutions, and implement them for real-world use on top of our platform.
+
+DataRobot is based around delivering best-in-class AI solutions, and this position provides the opportunity to build the key machine learning components of our system.
+
+What does it take?
+
+Develop, test, and support features of the DataRobot ML platform
+Create and maintain automated unit tests and functional tests
+Design infrastructure for new features with the input of peers
+Plan capacity, manage application performance
+Manage individual projects and milestones with abundant communication of progress
+Seek, give, and constructively receive critical feedback, including but not limited to code review
+
+Main Requirements
+
+5+ years of development experience in Python.
+Experience writing maintainable, testable, production-grade Python code.
+Experience with automated testing and test-driven development in Python
+Demonstrable knowledge of computer science fundamentals, whether by a degree or otherwise.
+Good understanding of scientific Python toolkit (numpy, pandas)
+Experience with SOA architectures, REST, message queues and api design
+Experience with Git + GitHub
+Personal drive to get things finished.
+Effective communication behavior.
+
+Additional Requirements
+
+8+ years of development experience.
+Publicly reviewable contributions to exciting development projects.
+Linux proficiency.
+System/performance engineering (profiling process memory/cpu/io/network usage, system calls, flame graphs)
+Strong expertise in distributed systems and algorithms.
+Experience supporting user-facing code and APIs.
+Machine Learning experience.
+
+What you get in return:
+
+We move fast and reward hard work. We expect results, and we love doing the work we’re passionate about.
+Our employees have a voice in what we do! We continually challenge and support each other to find better, more robust solutions for customers and partners. After all, it’s our customers that make us tick.
+We’re committed to building a company culture where every individual can bring their full impact and reach their fullest potential. Our mission is to build a diverse and inclusive environment where dedicated people of all cultures, perspectives, backgrounds, races, genders, religions, orientations, abilities, and ages can 10x their lives.
+
+The talent and dedication of our employees are at the core of DataRobot’s journey to be an iconic company. We strive to attract and retain the best talent by providing competitive pay and benefits with our employees’ well-being at the core. Here’s what your benefits package may include depending on your location and local legal requirements: Medical, Dental & Vision Insurance, Flexible Time Off Program, Paid Holidays, Paid Parental Leave, Global Employee Assistance Program (EAP) and more!
+
+Our Core Values:
+
+Be You - We are co-contributors to our culture committed to diversity, inclusion, equity and a sense of belonging throughout our global community. We value each person as their authentic self and welcome honest and respectful dialogue as an avenue to greatness.
+Dream Big - We don’t settle for the status quo. We always pursue the development of the next version of ourselves. We believe investment in the growth and resilience of our people is the foundation of building an iconic company.
+Be Data-Driven - We believe data-driven decision making enables innovation and execution at velocity while ensuring repeatable success. We take on the toughest challenges as we transform the world with our platform and AI.
+Better Together - We celebrate success and learn from failure as one team. We foster an aligned, collaboration-first workplace by building trust through transparency, integrity and accountability.
+Champion Customers - We empower our customers and our communities by shaping the future of trusted, augmented intelligence in order to solve their most difficult problems. We are humble, not complacent. We succeed when they succeed.
+
+All U.S. DataRobot employees must be fully vaccinated against COVID-19. If there is a medical, religious, or other legally protected reason that prevents you from receiving an available COVID-19 vaccination, and you are selected as a candidate for consideration, we have a process in place to evaluate requests for accommodation.
+
+DataRobot is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. DataRobot is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor’s EEO poster and EEO poster supplement for additional information.
+
+All applicant data submitted is handled in accordance with our Applicant Privacy Policy.

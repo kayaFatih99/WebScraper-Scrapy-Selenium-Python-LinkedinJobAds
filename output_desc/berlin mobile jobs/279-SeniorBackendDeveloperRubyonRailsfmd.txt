@@ -1,0 +1,68 @@
+About the job
+Getsafe is a digital insurance company that creates a better insurance experience for everyone. Powered by its unique technological platform, Getsafe makes insurance simple, fair and accessible. As Getsafe replaces complexity and manual paperwork with smart bots and automation, customers can file claims or change their coverage in real time with just a few clicks.
+
+Since launching in Germany in 2018, Getsafe has become one of the best-rated insurtechs in Europe, serving over 350,000 customers. After having started its UK operations in 2020, and entering the Austrian market this year, Getsafe is looking to expand further in order to serve even more European markets. Headquartered in Heidelberg, Germany, with offices in London and Berlin, the company employs more than 200 people. In 2021, Getsafe received its insurance license from Germany's financial regulator, BaFin. With $130 million raised to date, it is one of Europe's top 10 funded insurtechs.
+
+At Getsafe we believe in agile working methods: you can work remotely within Germany.
+
+YOUR MISSION:
+
+Getsafe is working on building the radically best insurance for first-time insurance buyers through technology and a great customer experience. We have 350k (and growing) happy customers using our app and services. We're looking for a Senior Backend Developer to join our growing engineering team to work on cutting edge infrastructure and APIs that need to be highly performant and deal with the complex domain of insurance problems.
+You will work in a cross functional team together with product and data to conceptualize and develop new features for our product and platform
+Work smarter, not harder. Build solutions that enable us to move faster as we scale and not build 1-offs
+Iterate quickly towards the best solutions for our customers and business
+Write high quality code and improve our overall technical system and architecture to scale with our growing portfolio of insurance products and countries that we're available in
+Take ownership and be a leader in the team of best practices and push our technology forward along with supporting more junior members of the team
+
+OUR STACK:
+Distributed architecture of 8+ independent RESTful services
+Ruby on Rails (if you don't already work with it, you can learn it on the job)
+PostgreSQL, Kafka, Sidekiq, Redis
+Heroku and AWS
+Our open source Ruby gems
+
+ABOUT YOU:
+4+ years experience in backend development working on complex systems
+Experience writing robust, scalable, maintainable HTTP and RESTful APIs. Previous experience with Ruby is a plus, but not a must
+Experience with relational databases
+Responsibility for high-quality and reliable code along with knowledge of how to test it
+You can distill a complex problem into multiple parts and clearly communicate your technical vision to the team.
+
+You can look forward:
+A fast and value-oriented company with flat hierarchies and helpful colleagues
+A positive, focused, appreciative, and goal-oriented atmosphere. Our working environment is our heart and soul
+Getsafe is shaped by each and every one of us. We are a close-knit team and host after work events
+A competitive remuneration package with trust-based working hours as well as sustainable career and development opportunities. We invest in your growth!
+Modern and spacious rooms kitted out with the best equipment offer you all the possibilities to work freely. We have comfortable couches & community areas – what do you feel like doing today?
+
+Perks & Benefits:
+Remote, hybrid or office? The decision is yours! Work where and how you want in Germany or UK. Our modern offices are centrally located in Berlin, Heidelberg and London
+Workation? Enjoy the possibility to work up to 90 days abroad in the EU
+Participate in our employee stock ownership program and secure your company shares (VSOPs)
+Grow with us and use your personal Getsafe budget for personal and professional development
+Use the Getsafe insurance voucher for the product of your choice
+Learn up to 14 different languages with your personal Babbel account
+Apple or Microsoft? Choose your individual hardware
+Celebrate with us! Regular team events (summer party, Christmas party, hackathon, etc.)
+
+Meet your team:
+
+Anthony Mayer #engVP #programmer4life #petobsessed #naturelover
+
+Andreas Robecke #creator #dreamer #oceanlover #averagejoe
+
+Lütfi Demirci #coffeeenthusiast #technolover #discodancer #onemonthearly
+
+Igor Yamov #softwareengineer #mountainbiker #designlover
+
+Bobby Ung #badminton #gastronomylover #french #life4cooking
+
+Illia Kaplaushenko #frontend #traveler #ukrainian #football
+
+Jorge Villalobos #frontend #mexiCAN
+
+Akihiko Ito #martialartist #catloverallergic2cats #japanese #homecook
+
+Raphael Kallensee #softwaredeveloper #bicycles #electronicmusic #hi
+
+Interested? Let's Chat!

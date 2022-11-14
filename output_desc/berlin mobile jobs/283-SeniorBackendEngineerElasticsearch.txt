@@ -1,0 +1,23 @@
+About the job
+Fully Remote - Perm
+
+Plexus have recently partnered with an innovative company looking to be the main search provider for web3 - a $9 Billion market completely untapped in web3.
+
+Now, there is no way to get information from one place regarding web3 protocols, developer tools etc.
+My client is looking to create a decentralised multichain search engine where you can find any information regarding a protocol / project for consumers / developers in one place.
+
+📊 Responsibilities.
+Designing and creating search infrastructure for web3.
+Build and maintain DevOps that can scale with high throughput queries
+Integration of web3 data sources into search algorithms
+Work with design and product to build customer-facing software
+
+👩‍💻 Capabilities
+
+- 5+ backend development experience
+- Strong algo background, with preference to database, blockchain or caching
+- Elastic Search, Python, testing and load balancing experience
+- Experience with k8s, Docker and Cloud (GCP, Digital Ocean)
+- Clear English
+
+Please let me know if this is a conversation worth pursuing.

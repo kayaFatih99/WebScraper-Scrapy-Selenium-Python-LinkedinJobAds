@@ -1,0 +1,59 @@
+About the job
+Lead PHP Engineer
+
+(EU citizen - based anywhere in Greece - relocation package available)
+
+Overview:
+Guidepoint’s Engineering team thrives on problem solving and creating happier users. As Guidepoint works to achieve its mission of making individuals, businesses, and the world smarter through personalized knowledge-sharing solutions, the engineering team is taking on challenges to improve our internal CRM system and create new products to optimize the seamless delivery of our services.
+As a Lead PHP Engineer, you’ll lead a team of engineers through challenging development projects. Come join a highly collaborative team of skilled engineers with a passion for quality.
+This position can be remote in the United States.
+
+What You’ll do:
+Work in an agile environment, orchestrating a group of skilled PHP engineers of various levels to complete User Stories authored by professional Product Managers
+Architect highly scalable/transaction heavy web/api applications
+Manage Frontend resources (in addition to backend PHP) through projects in React, Angular (maintenance), MooTools/Jquery (deprecation), Socket.io and serverside NodeJS
+Work with Product and QA Managers to groom and plan sprints for your team
+Collaborate/coordinate with other Engineering Leads/Managers in same or different functions
+Work with QA and Application Support teams to triage bugs
+Work with DevOps to automate deployment and monitoring of applications
+Design and develop Restful APIs using frameworks and design patterns
+Design JSON payloads and various payload contexts
+Convert complex business rules and workflows from User Story requirements into bespoke Sales Force type CRM applications
+Work with monolithic legacy codebases, along with design patterns in newer repositories
+Work with large database schemas of 500+ tables
+Write complex queries. Efficiently joining upwards of 20 tables, some containing +10m rows. In T-SQL or Doctrine ORM
+Integrate 3rd party platforms via APIs and callbacks
+Write Unit tests and documentation
+
+What You Have:
+7+ years professional experience developing APIs & web based applications in PHP as an individual contributor
+2+ years leading PHP resources or 5+ years as a Senior PHP Engineer and looking for a chance to be responsible for a team
+Prior experience working with organized development teams (5+ member pods)
+Prefer hands-on experience using MS SQL Server, CosmosDB, but other relational databases/NoSQL ok (MySQL, Postgres, MongoDB)
+Professional experience using open source PHP frameworks. Symfony3+ preferred (Laravel, CodeIgniter - ok)
+Experience scaling in LAMP, but also leveraging Redis, RabbitMQ, Elastic Search (ELK), SupervisorD, Socket.io, centralized Session stores
+Prefer experience designing fault tolerant architecture on cloud deployments (loadbalancing, clustering, reducing/eliminating single points of failure, etc)
+Understand branching, merging, pull requests and conflict resolution in Git (Bitbucket or Github)
+Experienced in leveraging issue tracking systems and wikis for documentation (Jira/Confluence)
+Comfortable on CentOS Linux, command line, SSH, SFTP, SCP…
+Full stack is a plus (JS, SPA Frameworks, CSS, HTML)
+Able to onboard self and others while working entirely remotelyin EST (NYC office available for collaboration)
+Experience in Azure/AWS/GCP PaaS
+Experience crafting architecture diagrams in Visio or LucidChart
+Problem solving skills and a proactive work style
+Strong interpersonal & communication skill
+
+What We Have:
+
+Very competitive compensation
+Free coffee, tea & snacks from the Kitchen area
+Private Health Insurance(after 6 months on employment)
+Casual work environment
+Weekly-Monthly events and competitions
+More to come as we build our engineering team in Greece
+
+About Guidepoint:
+Guidepoint, a leading expert network firm, connects clients with vetted subject matter experts—Advisors—from their global professional network. Guidepoint clients leverage the insights and perspectives shared by Advisors to stay informed and make better business decisions. Its slate of services, including phone consultations, surveys, events and proprietary data insights products, help professionals gain comprehensive understanding of a topic before making strategic or investment decisions. Guidepoint’s multinational client list includes 9 of the top 10 consulting firms and some of the largest hedge funds, private equity firms and Fortune-ranked public companies. For more information, visit www.guidepoint.com.
+
+#LI-KD1
+#LI-REMOTE

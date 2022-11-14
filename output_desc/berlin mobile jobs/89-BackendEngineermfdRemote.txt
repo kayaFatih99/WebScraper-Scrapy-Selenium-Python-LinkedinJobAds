@@ -1,0 +1,24 @@
+About the job
+At refive, we’re on a mission to digitize and personalize the post-purchase experience, starting with the receipt. So that users can get the most value out of their receipts & retailers can compete using the same tools e-commerce has enjoyed for years.
+
+We’re changing how brick & mortar merchants engage with their customers and compete with the online world and we want you on board!
+
+We’re an ambitious team with a diverse background in terms of work, culture and life experiences and enjoy the laughs while executing fearlessly.
+
+Tasks
+Your contribution will range from maintaining our product to building new features
+You will participate in the full development process from the inception of the feature to deployment and its further maintenance
+You will help support and develop our integrations with points of sale and customer experience partners
+You will collaborate with the team in brainstorming and design sessions and give feedback in code reviews
+
+Requirements
+Solid Python knowledge and at least 1 year of professional experience developing Django applications. You've also worked with relational databases such as Postgres.
+Solid understanding of the fundamentals of networking, web application architecture and databases.
+Comfortable with Linux, command-line tools, SSH and bash scripting.
+You care about best practices for code quality, automation, and testing
+Fluency in using Git
+Last but not least, you are an excellent team player and thrive when faced with challenges
+
+Sounds Awesome?
+
+Great! Please send us your CV and a few lines about yourself (including start date). We look forward to hearing from you.

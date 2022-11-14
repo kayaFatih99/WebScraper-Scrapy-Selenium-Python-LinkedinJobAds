@@ -1,0 +1,72 @@
+About the job
+Your role at zolar
+
+The Tech team at zolar ensures that we create a customer-centric environment and a positive contribution to the climate. Our focus is to develop software that provides and enhances new - and in some cases previously untapped - opportunities for climate action, and generates business value. Each of our development teams takes full responsibility for a specific product, independently ensuring that the software is delivered quickly as well as functionally and completely. Our general tech stack at zolar includes JavaScript, TypeScript, React, Redux, PHP, Symfony and AWS.
+
+Get to know our team's tech stack choices better by having a look at our Zolar Tech Radar that lists our approach to languages and frameworks, platforms, processes and development tools we are looking to adopt or trial further.
+
+As a (Senior) Backend Engineer (f/m/x), you implement high quality features and improve existing code base to enable our internal teams managing their projects with highest customer experience. You will take on the following tasks at zolar:
+Design and implement well defined REST APIs.
+Focus on fast and easy-to-maintain data structures and take care to deliver reliable, well-tested and sustainable code.
+Work closely with product management, QA and the development team.
+Support your colleagues and be motivated to gain new knowledge and to share it within the team.
+
+Your Qualifications
+You have 3-5 years of experience in software development.
+You are strong using PHP 7 and frameworks such as Symfony.
+You have a good understanding for the development of applications in a service oriented environment.
+You are familiar with agile development practices (f.e. TDD, BDD, Pair Programming).
+Plus: You have experience with AWS.
+
+What Zolar Offers You
+100% remote working (within Germany) possible // Stay flexible: Whether you want to save yourself the commute to work or want to see your colleagues in person – you are free to choose how many days you work remotely or in the office. In addition, you also have the option of working in another EU country for four weeks a year.
+Mental health & yoga // Stay healthy: Be it during COVID-19 or normal times – your mental and physical health is a matter close to our hearts. In addition to a mental health programme, we also offer free yoga sessions and a discounted M membership at Urban Sports Club.
+Meeting-free days: Two half-days each week are kept completely free of meetings to ensure you can focus on your work without interruptions.
+Remote work equipment // Ready for work: We want you to be able to work as well at home as you can in the office, so we provide you with a one-off budget to purchase a desk, chair or monitor for your remote work.
+Dog policy // Bring your own dog: A variety of four-legged feel-good managers provide natural entertainment in the office and enjoy the attention of their two-legged colleagues.
+Company pension plan // Live well tomorrow: A world worth living in is a matter close to our hearts, which is why we offer our employees support in their private retirement planning with the help of responsible providers.
+Leapsome feedback // We love feedback: We are proud of our open feedback culture, but we know that it is sometimes difficult to share your opinion out loud. For such cases, there are weekly Leapsome surveys, where you can submit your input on different topics anonymously.
+zolar Academy & CPD budget // Stay inquisitive: The zolar Academy offers you interesting presentations and insights into different fields (of work) every month. Speaking of interesting insights: an annual CPD budget means you can take a deep dive into topics that both interest you and further your career.
+All-hands meetings // Stay informed: The latest company figures and goals are discussed transparently at monthly all-hands meetings.
+Onboarding day & buddy programme // Involved instead of just employed: Get off to a great start – with a comprehensive onboarding process, a buddy by your side and regular team events.
+Climate protection // One love: From Veggie Wednesday to certification as a climate-neutral company – climate protection truly is a matter close to our hearts.
+
+Your contact person
+
+Robert Linke and Juliana Ruhstrat are looking forward to your application!
+
+Our career webpage https://www.zolar.de/career gives you a first impression of our company culture.
+
+About Us
+
+Clean energy for everyone.
+
+Inspired by our love for the planet, we are creating a liveable future for all humans through renewable energy. Our mission is to build a solar system on every roof in the world. We enable homeowners to produce their own green electricity and at the same time actively contribute to climate protection.
+
+Let's shape the energy revolution together – become part of team!
+
+Our values
+Climate activists - We actively work on climate protection. As a team. Everyday.
+Growth Mindset - We yearn for growth.
+Strong together - Together we are working towards the same goal. Differences make us stronger.
+Information matters - We respect each other in discussion. The strongest argument wins.
+New paths - By offering a digital solution to climate protection, we are part of the renewable energy revolution.
+Now more than ever - Instead of giving up, we go the extra mile.
+
+At zolar, we strive to provide a friendly, safe, and welcoming environment for everyone who works here or with us, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, socio-economic status, ethic origin, national origin, age, culture, belief or religion (or its absence).
+
+Saubere Energie für alle.
+
+Aus Liebe zu unserem Planeten schaffen wir mit sauberer Energie eine lebenswerte Zukunft für alle Menschen. Unsere Mission ist es, auf jedes Dach der Welt eine Solaranlage zu bauen. Wir ermöglichen es Hausbesitzer:innen, ihren eigenen Ökostrom herzustellen und gleichzeitig einen aktiven Beitrag zum Klimaschutz zu leisten.
+
+Lass' uns die Energiewende zusammen mitbestimmen und werde Teil unseres Teams!
+
+Unsere Werte
+Klimaschützer:innen - Wir treiben den Klimaschutz voran. Als Team. Jeden Tag.
+Growth Mindset - Wir sind hungrig nach Wachstum.
+Zusammen stark - Wir ziehen alle an einem Strang. Unterschiede machen uns stärker.
+Der Inhalt entscheidet - Wir diskutieren miteinander auf Augenhöhe. Das stärkste Argument gewinnt.
+Neue Wege - Wir revolutionieren die erneuerbaren Energien, indem wir den Klimaschutz digitalisieren.
+Jetzt erst recht - Wir geben nicht auf, wenn es schwierig wird, sondern gehen die Extrameile.
+
+Bei zolar sind wir bestrebt, jeder Person, die hier oder mit uns arbeitet, eine freundliche, sichere und einladende Umgebung zu bieten, unabhängig von Geschlecht, Geschlechtsidentität und -ausdruck, sexueller Orientierung, Behinderung, körperlicher Erscheinung, Körpergröße, sozio-ökonomischem Status, Herkunft, Alter, Kultur, Glaube oder Religion (oder deren Nichtvorhandensein).

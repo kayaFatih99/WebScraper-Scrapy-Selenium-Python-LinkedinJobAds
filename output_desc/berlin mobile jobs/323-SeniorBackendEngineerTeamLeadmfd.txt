@@ -1,0 +1,40 @@
+About the job
+Your Role
+
+Do you love to develop new product features and constantly optimize them?
+
+As a Senior Backend Engineer (m/f/d) you will develop new features, design useful API methods and help us increase the reliability of StudySmarter's software. For this, you will not only work with the Engineering team, but also with the Product, UX and UI team!
+
+We also offer you a long-term perspective as a technical leader to contribute to your personal growth.
+
+The following tasks await you :
+
+The development of state-of-the-art architecture based on Django, AWS and Kubernetes in the backend area is one of your tasks
+You take responsibility for functions from design to implementation
+Constant monitoring and improvement of our existing backend services with a requirement for smooth implementation
+You contribute to a user-oriented development of the learning platform of the future
+
+What you need to succeed
+
+You have at least 3 years of experience in web development, especially strong Backend, Python and Django skills are part of your profile
+You love to develop products
+You are motivated for new challenges and personal growth
+You know what clean code and a powerful API should look like
+You are fluent in English
+
+Why StudySmarter?
+
+At StudySmarter, you have the chance to develop yourself, grow and achieve your career milestone. For this you have a yearly budget at your disposal for further education.
+You can choose between Apple and Windows for your equipment, as well as the corresponding operating system (Windows, Linux, iOS).
+You have the possibility to work remotely according to your lifestyle. At the same time, you can expect lovely colleagues, fresh fruit, free drinks and a harmonious working atmosphere in our office.
+Our brand-new and freshly renovated office directly at Stiglmaierplatz makes you want to get started. You can also look forward to a co-working space in Berlin. You are more than welcome to bring your dog with you to the office.
+We like to strengthen our team spirit with fun team events: after-work parties, joint dinners, visits to the Oktoberfest, sports events, darts tournaments and much more.
+For relaxation, we offer free online yoga and meditation sessions. In addition, there is the option for employees in Germany to get a Qualitrain membership.
+We offer you virtual shares in StudySmarter if you are interested and employed in Germany
+You will receive a cool StudySmarter Surprise merchandise box at the start of your journey with us.
+We want everyone to feel in good hands - so tell us what's important to you in your work environment.
+
+
+About us
+StudySmarter is a leading EdTech startup from Munich, which digitizes the complete learning process of students and pupils with its smart learning platform. We have not only been awarded as the best learning app worldwide, but have also been able to support more than 4 million users in their learning experience. With our new investment in hand, we want to win 12 new markets this year and significantly expand our team.
+Our vision is, to support everyone in achieving their own educational goals with cutting-edge technology.

@@ -1,0 +1,56 @@
+About the job
+Grow with HiveMQ as we lead IoT messaging and connectivity
+
+We are a fast-growing tech start-up looking to add to our team of innovative and motivated people. HiveMQ is a messaging platform for reliable, secure and scalable data movement to and from connected IoT devices. Our vision is a connected world where people and companies can unleash their full potential. Our flagship product, the HiveMQ MQTT broker, is used by over 130 customers to develop new connected products, improve efficiencies, and drive down costs.
+
+HiveMQ originated in Landshut, Germany, and has grown into a global, remote-first company. The last time we counted, we spoke 32 languages within HiveMQ. Join us as we work to contribute to the fast moving development of the IoT ecosystem and help companies enable mission critical use cases like connected cars, logistics, Industry 4.0 and connected IoT products.
+
+H
+
+HiveMQ’s Vision for this role
+
+HiveMQ builds the nervous system of the interconnected world.
+
+The HiveMQ Cloud team architects, implements and operates the HiveMQ Cloud platform and provides manifold HiveMQ Cloud Dedicated and Pay-As-You-Go plans for our customers as fully managed Software-as-a-Service offerings.
+
+We build and run everything to give our customers the power to connect millions of devices for thousands of users and all their critical connected use cases.
+
+At HiveMQ we value top-notch, excellent technology and set the bar high for our engineering and operations standards.
+
+We are looking for an experienced Senior Backend Engineer to work on all kinds of backend services for our customer facing Cloud Portal and upcoming new services and offerings. This includes designing, architecting, implementing, optimizing, refactoring and maintaining data services, backend-for-frontend services, business logic and technical services, to extend and improve common framework code, CI/CD tooling and supporting tools to assure our high standards and prepare for the lift to the next level.
+
+The HiveMQ Cloud team usually operates within European work hours.
+
+You will…
+
+Learn everything about MQTT, distributed systems, IoT (theory, applications, best practices) and large scale cloud software-as-a-service offerings,
+Work with the HiveMQ Cloud team to deliver outstanding technology and services to our users
+Architect, implement, optimize and maintain our HiveMQ Cloud backend and its customer oriented microservices using Java SE, the Micronaut, Quarkus or Vert.x framework,
+Build, maintain and refactor existing code bases, extend APIs, implement performance sensitive data streaming services, implement functional metrics and enhance the CI/CD process
+Work with Product Managers to envision and create new customer value,
+Cooperate closely with our Platform and Site Reliability Engineering (SRE) teams to ensure our service remain highly available, fully reliable and transparently observable,
+Live a culture of teamwork, quality, growth, drive to action and excellence
+Contribute to the overall developer experience, code quality and engineering vision of HiveMQ
+
+
+You have…
+
+Strong software engineering background (5+ years) and profound experience in architecting, developing and delivering scalable backend and Cloud services running on Cloud native technologies like Kubernetes, Docker and Cloud Managed Services.
+Rock-solid knowledge in developing production-grade Java code, especially with Java SE 11+, RxJava 2, Reactor, Micronaut, Quarkus, Vert.x or similar
+Strong Experience with Databases (PostgreSQL or similar), Messaging and Streaming Processing Systems (e.g. Kafka, Kinesis, EventHub, Google PubSub) and/or Interface Implementation (e.g. REST, ProtoBuf)
+Familiarity with common security best practices (e.g. OWASP, OAuth, Cross-Domain Origin Policy, Certificates, 2-way TLS)
+Good understanding of build systems (Gradle and Maven), Unit- and Integration-Testing paired with high standards on solving problems with excellent code, peer reviews, Git, CI/CD and a high degree of automation.
+Experience with custom metrics and monitoring of distributed applications.
+Solid Experience with at least one of the big cloud providers (Amazon Web Services, Microsoft Azure, Google Cloud Platform).
+A systematic but pragmatic approach paired with a high sense of ownership and take pride in the work you accomplish as a team
+A good understanding how agile product engineering using Kanban in a self-organized team works
+Excellent communication skills and an outstanding work ethic
+
+
+EXCERPT FROM OUR CUSTOMER LIST
+
+https://www.hivemq.com/customers/
+
+Informations About Our Job Advertisements
+
+Job advertisements of HiveMQ GmbH are always directed at female, male and various applicants, regardless of age, gender, religion, sexual identity, disability, race, ethnic origin, world view, etc. The selection of a candidate is exclusively based on qualifications. For organisational reasons, we cannot return application documents and cannot reimburse any expenses that you incur during the application process.

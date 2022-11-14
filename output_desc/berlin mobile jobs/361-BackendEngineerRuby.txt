@@ -1,0 +1,36 @@
+About the job
+Remote
+
+Global
+
+Full-time
+
+Who We Are
+Jitjatjo is a high-growth tech start-up headquartered in the bright lights of New York, but our family extends out globally to places like Portugal, Estonia, Poland, Australia, and more. We develop, market, and operate the contingent labor platform and staffing marketplace that leverages A.I. and Empathic Intelligence to instantly and accurately match businesses with vetted industry professionals. We provide businesses with staffing on demand and offer quality, vetted talent through our trusted platform, with unparalleled visibility, efficiency, and performance.
+
+Creating opportunities through technology is what we do; it’s not who we are.
+
+Why do we do what we do?
+
+We want to help people reach their potential, our talent to feel valued, and our business partners to thrive. Our belief is that everyone, especially now, needs a champion, needs to be seen, needs to feel heard, and needs to be believed in. It’s time to embrace change, transform the way we work, and intentionally create a future with opportunity in abundance.
+
+Learn more about Jitjatjo at https://about.jitjatjo.com/
+
+About the Role
+Without a doubt, Jitjatjo’s products are dependent on the quality of our engineers and their work. That’s why as a Backend Engineer you will be paving the way to extend our products to new horizons. You’ll be immersed in our stack of Ruby on Rails, PostgreSQL, Redis, and Elasticsearch.
+
+Our engineers influence, solve problems, and deliver value.
+
+Your Superpowers
+You have a minimum of 5+ years of professional coding experience
+You have the spirit of a problem solver and delivering value
+Within your experience, you have 3+ of those years focused on Rails/Ruby
+Third-party service integrations are no stranger to you
+Extensive experience and orientation to: BDD/TDD flow development, SOLID principles, and architecture patterns
+Always strive to write clean code and continuously refactor and improve existing code
+Experience with modern git-based development flow (pull requests, code reviews, continuous integration)
+Experience with API architectures, relational, and non-relational databases.
+A plus: experience with React/JS
+A plus: experience working in a continuous integration environment and/or contain orchestration (Docker, Kubernetes, Gitlab* CI/CD*)
+
+Jitjatjo welcomes people from all backgrounds, ethnicities, genders/identities, religions, expressions, ages, and the list goes on. For us, diversity is an ongoing forever initiative and not a ‘check the box’ philosophy. If you are a human who has the curiosity, passion, and collaborative spirit...work with us. Let’s move the world forward together.

@@ -1,0 +1,34 @@
+About the job
+Stark und konzentriert - willkommen bei moccamedia !
+Als eine der größten unabhängigen und inhabergeführten Mediaagenturen planen wir Mediamanöver auf lokaler Ebene, aktivieren Handelspartner - und kurbeln so Nachfrage und Umsatz unserer Kunden aus Industrie, Handel und Dienstleistung an. An 5 Standorten in Deutschland, der Schweiz und Österreich legen sich unsere 200 Mitarbeiterinnen und Mitarbeiter ins Zeug. Zahlreiche internationale Marken aus dem Handel zählen auf unser Können. Möchtest Du mit uns die Mediawelt von morgen gestalten? Dann verleihe unseren Projekten eine besondere Note und bringe Dich in unser starkes Team mit ein.
+
+In unserem IT-Bereich entwickeln wir sowohl interne Lösungen zur Projektsteuerung und -abwicklung unserer crossmedialen Werbekampagnen, als auch begleitende (hauptsächlich webbasierten) Lösungen für unsere Kunden. Bei uns bearbeitest Du die Anfragen von Kunden und Stakeholdern und entwickelst so Deine Produkte bis zur Umsetzung mit einem agil arbeitenden Softwareteam.!
+
+Ohne Dich geht hier nichts
+Du bist verantwortlich für die Weiter- und Neuentwicklung von APIs.
+Du entwickelst Services.
+Du unterstützt den/die Product Owner:in beim Verfeinern der Product Backlog Items (Epics, User-Stories, Akzeptanzkriterien).
+Du lieferst die Produktinkremente sowie die Vorstellung im Rahmen des Sprintreviews.
+Die kontinuierliche Verbesserung des Entwicklungsprozesses sowie die Sicherstellung der Qualität ist für Dich selbstverständlich
+
+
+Deswegen bist Du heiß begehrt
+Du verfügst nachweislich über Erfahrung in der Backend- und API-Entwicklung und bringst sehr gute Kenntnisse in Java 7-17, Spring und Tomcat mit.
+Einen sicheren Umgang mit REST (API Design), JPA und Datenbanken (Postgres) setzen wir voraus.
+Du hast Erfahrung in der Versionierung mit GitLab.
+Deine Arbeitsweise ist analytisch und lösungsorientiert.
+Idealerweise kennst Du Dich im Bereich Kubernetes, MinIO, Scala aus.
+Kenntnisse der Google/Facebook-APIs sind von Vorteil
+
+
+Bei uns erwartet Dich das gewisse Extra
+Neben wirklich gutem Kaffee im Büro bieten wir
+Ein familiäres, dynamisches Arbeitsumfeld, Expert:innen-Know-how sowie zahlreiche Möglichkeiten für die fachliche und persönliche Entwicklung.
+Flexible Arbeitszeiten, Arbeitszeiterfassung sowie die Möglichkeit zum mobilen Arbeiten.
+30 Urlaubstage im Jahr
+Einen Arbeitsplatz im Herzen von Trier oder von einem beliebigen Ort in Deutschland, Mitarbeiterevents, jede Menge gute Laune – all das zeichnet uns aus!
+
+Werden Teil unserer Kultur und entdecke jeden Tag Neues, denn wir bieten noch mehr!
+Wir sind gespannt auf Deine Bewerbung
+
+Wir sind gespannt auf Deine Bewerbung!

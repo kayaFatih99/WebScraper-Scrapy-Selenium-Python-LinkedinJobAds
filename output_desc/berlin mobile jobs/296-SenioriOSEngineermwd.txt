@@ -1,0 +1,26 @@
+About the job
+As an Android Developer, you'll be creating software at a massive scale using Android/Java together with technologies like Android TV, Android Mobile, Fire TV, and collaborating with a passionate unit of talented individuals. The unit spans across multiple time zones (majorly, USA & Poland) and covers the full product life cycle, including architecture, design, coding, devOps, testing, and other activities required to ensure uninterrupted content streaming service to millions of customers worldwide.
+
+The unit employs Scaled Agile Framework (SAFe) as a process framework, as well as uses software development best practices such as CI/CD, TDD, etc. As a part of a scrum team, you'll have the opportunity to make decisions on how to build the product.
+
+Responsibilities:
+* Own end to end solution
+* Implement new features
+* Work with colleagues overseas
+* Solve problems, improve solutions
+
+Mandatory Skills Description:
+* Strong technology foundation
+* 3-5 years of experience with Java
+* Experience working with Android platform
+* Solid understanding of streaming technology
+* Experience with large-scale distributed systems and client-server architectures
+* Troubleshooting skills
+* BS/MS in Computer Science (or equivalent)
+* Spoken English
+
+Nice-to-Have Skills:
+* SAFe (Scaled Agile Framework) — the company provide necessary training
+
+Languages:
+English: C1 Advanced

@@ -1,0 +1,23 @@
+About the job
+We are looking for a brilliant Backend Developer to drive the growth of our data-centric backend and the billions of data it processes on an ongoing basis.
+
+About Thryve
+
+Thryve empowers digital health services globally to provide better care with a unified access to health data. While we currently serve 2.000.000+ users for our corporate customers, we grow rapidly in line with healthcare digitalization.
+
+Your mission
+
+You ensure that our (micro-)services provide excellent event-based data access, secure backend administration and rapid mass data processing. Together with the mobile engineering and data science teams, you decide on new and changed modules as well as their interaction and implementation. You take full ownership of software and appreciate the freedom to choose the best stack of tools and methodologies for any given task.
+
+Why join
+
+For clients and millions of users globally, Thryve provides a key element to improve the single most important thing for humanity: health. As we grow rapidly, this is an exciting opportunity to join an evolving global player and shape the growth of our fantastic, international team (backgrounds in 10+ countries & speaking 15+ languages). While our lovely industrial loft office in central Kreuzberg has free food and drinks (and fantastic lunch & bar options around), we're flexible in remote work and working hours. If you join, you benefit from competitive salaries and equity opportunities, as well as benefits in kind (e.g. your new bike sponsored by us). We are an equal opportunities employer and strive for an open and inclusive work atmosphere.
+
+Join us and shape tomorrow's health care, globally.
+Desired Skills and Experience
+You have at least three years’ work experience, with a solid background in Java or Kotlin
+You understand modern software systems and its development life cycle in and out
+You’re familiar with cloud based infrastructure (e.g. AWS, OTC) and orchestration technologies (Docker, Kubernetes)
+Ideally, you are familiar with big data technologies (e.g. OLAP) and event-driven architectures (Apache Kafka)
+You thrive in an open, agile and clean-code environment
+You have very good communication skills in English

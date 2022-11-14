@@ -1,0 +1,51 @@
+About the job
+About Leadzai
+They help your business achieve its advertising goals more efficiently. Pay-per-results only and no subscription.
+
+Your mission 👀
+As a Frontend Software Developer, you will be responsible for the creation, continuous development and maintenance of Leadzai web app features. You will further develop features like mobile development and other devices and interfaces.
+
+As a Frontend Developer, some of your responsibilities would be:
+Develop critical frontend features of the platform;
+Integrators with third-party systems;
+Interact with their technology partners (Google, Facebook, Microsoft,...) to stay on top of updates to their systems.
+Actively develop and maintain a web SPA in collaboration with other teams from different ends;
+Learn from and mentor fellow colleagues and help them grow their technical knowledge;
+Plan with your peers and tech leaders new core components requested by Advertio's clients
+‍
+What they expect from you 🏅
+Experience with API consumption (e.g REST);
+Experience with Git (Workflows);
+Ability to write efficient and maintainable code;
+
+Familiarity with data structures and algorithmic design;
+Experience with at least one Object-Oriented Programming language;
+Experience developing SPAs/PWAs with ReactJS and TypeScript;
+Design and implement solutions with CSS and at least one UI library;
+Strong knowledge of English, written and spoken.
+
+Extra points ✨:
+GraphQL;
+Apollo Client;
+Node.js;
+React Native;
+CI/CD (Docker);
+JIRA.
+
+Benefits & perks 💎
+
+Flexibility & Autonomy
+Remote friendly environment, so you can work anywhere
+Flexible work schedule
+Unlimited vacation days
+Flex benefits (we use Coverflex)
+Close-knit team
+Cool workplaces in Lisbon and Braga
+Free meals at the office or at your workplace
+Cool Team-Building Events
+
+Hiring process 🧩
+Call with the Human Resources Director, João, and with one person of the frontend team
+Technical challenge
+Meeting with the CTO
+Offer 🥳

@@ -1,0 +1,62 @@
+About the job
+ABOUT THE ROLE
+
+We are looking for a Back-End Python Developer to join the development group in
+building and improving the SaaS platform that fights climate change with code. . As a BE Developer you will be part of a team of 5 to 10 talented colleagues and work at designing and implementing (and also testing, monitoring, debugging, refactoring, optimizing) the best platform to manage Clean Energy assets in the industry. You will be using latest technologies to do so.
+As a Developer, you will also have an important role to play within your team. You will be
+able to leverage each and every one of your skills to make your team achieve its goals.
+It could be either by mentoring others, strategize to maximize the value delivered,
+getting new knowledge and share it, bring energy, identify and reflect on team’s issue,
+contribute to continuous improvement or generate fun.
+This platform, helps managing renewable energy plants, supporting the business of the customers. It also collects data points from several sources, cleanses it, detects occurring issues, and uses it to help manage thousands of renewable energy plants all over the world. Also adds the toolset needed to take make sure the plants are running smoothly, and that it can be profitable.
+The offices are in Munich, Germany, but you’ll be working remotely. They're an international team spread throughout the world (US, Canada, Philippines, Sweden, Spain, Germany and Greece).
+
+WHAT YOU WILL BE DOING
+
+• Participate in all activities related to application development
+• Act as a Python specialist and stay on top of its newest technologies and practices in a Cloud environment
+• Acquire and maintain an Agile mindset axed on maximizing value delivery
+• Make quality your development center focus and the one of your team
+• Contribute to your team goals achievement in any possible way, aiming for the organization objectives
+• Be an active part of your team’s continuous improvement effort
+• Acquire and maintain a good understanding of the renewable industry
+
+WHAT YOU WILL NEED TO BE SUCCESSFUL
+
+We believe you enjoy working in a purpose-driven organization and that you thrive in an environment where you need to find creative solutions to challenging problems in a fast-
+changing context. This also means that you are effective at managing multiple projects
+of varying complexities, work well under pressure, and are driven by continuous learning
+and growth. Specifically, we are looking for someone with the following background:
+
+• Degree in Computer Science, software engineering or equivalent
+• Minimum of 2 years of related experience as Python Developer in a Cloud environment
+• Very good knowledge of Python and design patterns
+• Familiarity with Git is a must
+• Familiarity with any of the following technologies is an asset:
+- Django
+- PostgreSQL
+- Elasticsearch
+- Redis
+- Docker
+- Kubernetes
+• Good understanding of what is an Agile mindset (Delivering value, not just code)
+• Result oriented but still attention to details
+• Curious about new trends in technology and proactive
+
+This is an agile software development company – big enough to make an impact, but
+small enough to move quickly and execute in a growing industry, taking advantage of
+rapidly evolving technologies. They are a collective of bold and ingenious talents driven by
+results. The team is made up of hard-working, fun-loving people who are passionate
+about making the world a better place. They seek fierce and humble people to help them
+achieve their ambitious plan.
+
+WHY JOIN US
+
+• A humble cause with a clear purpose – you will help us fight climate change with </code> every day at work. We aim to be environmentally conscious in all aspects of their operations.
+• Work with passionate experts and top talents in your field – we are proud of our highly skilled crowd and the savviness each of us brings to the team.
+• Friendly and uplifting atmosphere – we believe kindness and respectfulness is core for their culture. A friendly smile or a helping hand is never far away.
+• Flexible hours and workplace – it is the result that counts, not when or where. The hybrid/remote work setup allows everyone to set themselves up for success and create a more sustainable work-life balance.
+• All the benefits you expect (and more) – besides the basic benefits (adapted to local needs and norms), you will enjoy perks such as 8h of paid volunteering per year and participation in their Corporate Bonus Program (to name a few).
+
+For more information or to apply; please contact us or send your CV to
+gjurgjica@mentortalent.ie.

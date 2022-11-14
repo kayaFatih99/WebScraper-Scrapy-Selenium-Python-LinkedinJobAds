@@ -1,0 +1,34 @@
+About the job
+Do you want to work within a FinTech start-up and bring about positive change? ✅
+
+We have partnered with a FinTech-for-good Startup on a mission to increase economic opportunity for Africans worldwide - By building the Revolut for Africa!
+
+They offer value in international remittances and are on track eliminate the $3.3 billion lost in fees annually from overseas money transfer.
+
+Their first application, a personal finance mobile app, has already gained over 250k users ❗️
+
+Now they aim to scale the platform into new markets and include a wider range of FinTech products 🤖 - to make it even easier for day-to-day payments and doing business in Africa
+
+This is where you come in…
+
+The role
+
+As a Senior Software Developer, you will take ownership of the scalability, development and design of the Backend architecture of their products.
+
+You will be making a huge impact delivering new features across; multi-currency, New markets, Machine Learning, KYC, Anti money laundering, Fraud Detection, and more!
+
+💻 Tech stack you will work with: Golang, gRPC, AWS, ECS, Terraform, Kafka, Redis, PostgreSQL, Vault.
+
+You will need:
+5+ Years experience building reliable and scalable services in Golang.
+Experience using AWS cloud.
+A Strong understanding of best practice in Backend design and Development.
+A Passion for the product and mission!
+
+In return you will get:
+💵 Salary: £70k - £100k
+📈 Generous Equity/Stock options
+📍 Fully remote working in UK
+👥 A great team culture
+
+Interested? Apply directly with your most recent CV or email me via Chris.Dixon@fewandfar.io

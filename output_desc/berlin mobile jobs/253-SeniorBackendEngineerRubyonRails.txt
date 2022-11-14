@@ -1,0 +1,44 @@
+About the job
+🚀 Our mission
+
+We believe that the power of the web should be placed in the hands of the creators and users, where they control their data and identity. Creators should be rewarded for the quality of their work and strength of their community.
+
+With Fuel we want to enable creators to launch and manage their own NFT projects within minutes, no coding skills required.
+
+We’re going to be the fuel for the web3 revolution.
+
+Tasks
+
+You’ll be working on our core product, tooling to make it extremely easy for creators to launch and manage their NFT projects. You’ll be responsible to define the architecture and work closely with UX designers to build a world class product. Finally, you’ll participate in hiring, mentoring and growing the engineering team.
+
+Requirements
+
+🧩 We're looking for an all-star who is ...
+Excited to join an early stage startup and solve a lot of problems that can’t be easily Googled.
+Full of energy and good vibes.
+Never tired of learning. Wants to be a pro in bleeding edge tech like NFTs, DAOs, and Web3.
+Comfortable working in a chaotic environment, can work autonomously and take ownership.
+Shipping quality software at speed, with an MVP-first mindset.
+
+You believe that web3 / crypto can change the world, and you want to work on something bigger than us. We’re fully mission driven, here for the tech.
+
+You’ll be one of the first hires, working closely and reporting to our technical co-founder and will impact the product roadmap.
+
+Skills And Experience
+5+ years of experience in software engineering, spanning both the frontend and backend stacks
+Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design
+Experience with Ruby on Rails and willing to learn new technologies
+Experience with SQL and NoSQL databases, like Postgres, MongoDB or DynamoDB
+Familiarity with agile methodologies and Github experience
+Ability to write high quality, well tested, production level code
+Strong customer empathy; you think critically of how our features impact our community, users, and business
+Experience deploying applications to production on AWS
+Excellent spoken and written communication skills
+
+Benefits
+🏡 Work from anywhere
+📈 Stock options
+Ξ Get paid in cryptocurrency (opt.)
+⏰ Flexible working hours
+🏥 Health Insurance
+🖥️ Office space in the heart of Berlin (Kreuzberg)

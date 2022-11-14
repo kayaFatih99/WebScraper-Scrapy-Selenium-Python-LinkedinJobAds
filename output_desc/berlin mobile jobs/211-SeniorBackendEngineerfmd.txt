@@ -1,0 +1,54 @@
+About the job
+Company Description
+
+Jodel was launched in 2014. The idea of Jodel started when we realised that despite countless products in tech, there was no fast and simple way to connect with people around us.
+
+The people behind Jodel are as diverse, creative and friendly as our users. We are a 80+ people strong team with over 17 nationalities, represented in our Berlin HQ and all over the world. Each individual brings a different perspective and approach to the table - but all have the same drive and motivation to create the world’s hyperlocal community. Together, we are building the most successful social media platform in Europe, while still enjoying ourselves in this exciting journey.
+
+Now we are looking for our next colleague to join the Jodel team.
+
+Your mission
+At Jodel we love the phrase: "you build it, you run it, you own it" and we implement it for everything we do
+Create, implement, test, and maintain backend components: application, data, infrastructure, deployment, and analytics
+You will build scalable systems with metrics instrumentation and monitoring
+Design and implement RESTful APIs with high reliability and uptime
+Identify and resolve performance and scalability issues
+
+Your profile
+At Jodel we speak NodeJS (TypeScript/JavaScript) - so you should too! Ideally, you have 3 years experience in one of them.
+Building a robust and maintainable microservices architecture is our goal and we would like to have an expert in the team to help us achieve this goal. Ideally, you have at least 2 years of experience with distributed systems and microservices.
+Jodel runs on a big Kubernetes Cluster, so an understanding of containerization is a must.
+Jodel is a social media app, so performance is a key to our success, and scalable systems are what we always aim to build. Having a colleague that has experience with event-driven architecture is a great plus.
+We have different types of databases. You will work with AWS, MongoDB and more.
+
+What attitude are we looking for?
+You’re naturally motivated and proud of doing great work.
+Numbers and data are the best way to drive your decisions.
+People and human interactions come before processes and rules for you.
+You understand the value of "measure twice - cut once" and you work by this mantra.
+You own your successes and your failures, and constantly seek to improve.
+
+What We Offer
+An Empowered Team -- Engineering owns tech debt and tech improvement decisions; we collaborate tightly with our product team but we're all very mindful not to step on each other's toes. We own technical decisions, take responsibility and are accountable for them.
+Preventive culture, rather than reactive -- While some of us participate in on-call activities, we have a very low amount of actual production emergencies. A lot of energy goes into fixing root causes and we are very proud of not having anyone in firefighting mode.
+Career building is part of the deal -- you don't join to just write tests and contribute to the product - you also join to improve your career. We pay special attention to your personal development and make sure you're focusing on the skills that matter the most to you.
+Lean processes -- we try hard to cut meetings and processes to a minimum, to ensure that you’re focusing on being productive. And we encourage all interactions to be direct and open, not forcing you to go through any intermediaries to get your work done.
+United in diversity -- with people from all over the world, from Tunisia to France, from India to Poland, we are multicultural by default and proud to be so. We all come from different walks of life and cultural backgrounds, and we continue to push for diversity in our team!
+We're building a team, not just making money -- we solve hard problems together but we also relax and have fun. From team cooking to going on company trips, from office parties to go-karting, we'll make sure you have a good work-life balance.
+The future will be amazing -- the list of non-trivial challenges we'll be dealing with includes developer APIs, security issues, scaling access to a lot of data (among other things we can't tell you about :-) ); all of this with location and anonymity as their own dimensions in Jodel.
+No one else is doing what we're doing -- it's that simple. We're pioneering local communication and since communication is a basic human need, our work is just very very exciting. On top of that, we are one of the few large scale European Social Networks. There’s not that many and we're very proud to be "Made in Europe".
+
+Some Of Our Benefits
+Learning & Development Budget - 600 EUR
+Company Funded Pension
+BVG transportation ticket discount for Berlin
+Company trips and offsite events
+Nilo - employee Mental Health Support
+Kima Ventures Network
+Hybrid working set-up
+
+Our Tech Stack
+
+NodeJS (TypeScript/JavaScript), Kubernetes, MongoDB, Redis, ElasticSearch, Graylog, Prometheus, Grafana, Kafka, Cassandra, SQS, Kinesis, Athena, Parquet, Presto, Redshift, Glue, Luigi, Terraform, and Ansible.
+
+For an updated list, check here: https://stackshare.io/jodel/platform

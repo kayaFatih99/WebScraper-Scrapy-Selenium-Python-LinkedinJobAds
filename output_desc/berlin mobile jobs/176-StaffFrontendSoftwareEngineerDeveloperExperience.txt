@@ -1,0 +1,73 @@
+About the job
+About Kraken
+
+As one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities worldwide - our unique combination of products, services, and global expertise is helping tip the scales towards mass crypto adoption. But we’re only just getting started. We want to be pioneers in crypto and add value to the everyday lives of billions. Now is not the time to sit on the sidelines. Join us to bring crypto to the world.
+
+To ensure Kraken is the right fit for you, please ensure you read Kraken Culture Explained to find out more about us!
+
+UI Engineering at Kraken
+
+Kraken’s Software Engineers are tasked with developing cutting edge interfaces that change how millions of users interact with our platform. Our products need to handle processing and displaying huge amounts of real-time information whilst also maintaining an intuitive and friendly user experience, to achieve this engineers with both a strong technical background and keen eye for design are required. We're looking for passionate and talented engineers who can bring fresh ideas and expertise from all industries. As a Software Engineer, you will work as a core member of a fully remote team on a specific project critical to Kraken’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need all of our engineers to display a versatile talent set, from exceptional technical ability to strong communication skills and passion for the monumental change that the crypto industry can bring to society.
+
+About The Role
+
+To accomplish Kraken’s mission of accelerating the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion, we’re looking for exceptional Staff Engineers to work on improving the developer experience of our web and Mobile Product developers.
+
+You’ll be joining a fully remote team within the Kraken Engineering department and will contribute to its pursuit of perfection both from a product feature and engineering architecture perspective, thus a strong team player mindset is required. The Developer Experience team which you will join supports all Product development teams across web, mobile and backend by creating the tools, platforms and release pipelines they need to deliver first-class products.
+
+You will gain familiarity with a variety of languages and frameworks used throughout the development stacks and will become a major contributor to the productivity of various teams. You must possess excellent technical knowledge and the ability to deliver impactful work, seek what is best for Kraken and its success, create new and useful ideas, make time to help colleagues, challenge prevailing assumptions and suggest better approaches, admit mistakes freely and openly, treat people with respect even if you’re in disagreement with them, and above all provide frequent candid corrective feedback to your teammates.
+
+At Kraken we strongly believe that high performance teams filled with stunning colleagues is a core foundation of success in software development and we require all our engineers to embody that mindset.
+
+Responsibilities
+
+Helping build a scalable infrastructure to facilitate the development and release of web applications and iOS and Android mobile applications
+Contribute code to web and mobile applications where necessary where this improves the Developer Experience
+Ensuring the code written is scalable, reusable and works well across multiple applications inside our repository
+Coordinating with teams responsible for other layers of the product infrastructure
+Building a product is a highly collaborative effort, and as such, a strong team player with a commitment to perfection is required
+
+Basic Qualifications
+
+9+ years of professional software development experience
+Firm grasp of the JavaScript language and its nuances, including ES6+ syntax and the TypeScript superset
+Excellent knowledge of React Native and/or React
+Excellent knowledge of modern state management libraries (Flux pattern)
+Ability to apply Continuous Integration and Continuous Delivery (CI/CD) based application development
+Experience with testing libraries/frameworks such as Jest, Detox, Appium, Cypress, etc.
+Experience with Docker
+Experience both with REST and WebSocket based web services
+Experience building framework and platform agnostic packages
+A strong desire to maximize developer productivity and experience
+Willingness to create tools for other engineers, to create standards for design and process improvements
+Willingness to facilitate organizational changes as needed for supporting automation and change management
+Willingness to take extreme ownership over your work
+Ability to understand business requirements and translate them into technical requirements
+Forensic attention to detail
+You’re passionate about software development... it’s not just your career, it’s your hobby and you’re constantly striving to learn new things and improve
+
+Nice to Haves
+
+Familiarity building automated workflows using a service such as GitLab CI, GitHub Actions, CircleCI, etc
+Familiarity with at least one build tool such as Fastlane, Metro, Bitrise, AppCenter, etc
+Knowledge of and passion for cryptocurrency
+Knowledge of Swift and/or Java/Kotlin
+Knowledge of Rust
+Experience with Next.js
+Experience maintaining open-source packages
+
+Location Tagging: #US #EU
+
+We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!
+
+As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.
+
+Stay in the know
+
+Kraken Culture Explained
+
+Follow us on Twitter
+
+Catch up on our blog
+
+Follow us on LinkedIn

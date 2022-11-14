@@ -1,0 +1,41 @@
+About the job
+Your opportunity
+We are looking for an experienced senior front-end engineer to join us in building The New Relic One! The platform will be used by your coworkers throughout the company and will help make their lives—and the lives of the customers they work with—easier and more enjoyable each and every day. Some of the problems we work on involve frontend API’s to interact with the internal framework, extensible architecture solutions, UI components and deal with modern frameworks and libraries such as ReactJS or Redux.
+
+What you'll do
+Implement rich, interactive data visualizations using modern JavaScript and software development techniques in conjunction with the team members.
+Select the best frameworks and tools needed to do the job done quickly, while also optimizing for codebase stability, product stability, and target use case growth.
+Work with our product manager and a team of data engineers to ensure data exploration products accurately render complex data that are aligned with the needs of our internal customers.
+Produce highly performant and flexible user interfaces.
+Collaborate with designers and other UI engineers across the company to learn from others and to ensure you stay up to date on the company’s UI best practices.
+Learn and improve your skills to continuously push us to deliver higher quality data products and improve how we view data visualization as a company
+
+This role requires
+5+ years of experience working with modern JavaScript front-end frameworks
+Familiarity with modern development and build tools such as git, npm, babel, and webpack; experience with front-end JS testing tools and a comprehensive understanding of UI testing techniques
+Experience integrating the UI with data from service endpoints and expertise in modern HTML and CSS, including extension languages like Sass
+
+Bonus points if you have
+Passion about the whole stack a complex modern application requires!
+Interest in learning new languages, platforms, and ideas.
+Thrive in a fast-paced environment focused on delivering production code at a regular cadence using Agile techniques, tools, and methodologies.
+
+We're looking for bold and passionate people to be a part of our mission to help every engineer do their best work, every day, using data, not opinions, at every stage of the software lifecycle. We'd love to have you apply, even if you don't feel you meet every single requirement. What's most important to us is finding authentic and accountable people who feel connected to our mission and values, not just candidates who check off all the boxes.
+
+We believe in empowering all Relics to achieve professional and business success through a workforce model called Flex First. The Flex First model allows us to work in a variety of workplaces that best support our success, including fully office-based, fully remote, or a combination of both.
+
+Read more about Flex First and New Relic’s vaccine policy as part of our commitment to maintaining a safe and healthy workplace in light of the COVID-19 pandemic at www.newrelic.com/blog/how-to-relic/future-of-work
+
+New Relic currently has offices in Germany, Ireland, Spain, and the United Kingdom, and based on business needs may approve work in Belgium, France, Italy, The Netherlands, Switzerland, Sweden, UAE, and other locations throughout the region. Some of our opportunities are limited to specific hiring locations. Talk with your recruiter about your goals and how we can work with you in our Flex First approach!
+
+Our hiring process
+
+Please note that visa sponsorship is not available for this position.
+
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.
+
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.
+
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.
+
+Interested in the details of our privacy policy? Read more here: www.newrelic.com/termsandconditions/applicant-privacy-policy

@@ -1,0 +1,29 @@
+About the job
+Cybernetic Search has been engaged by a blockchain based climate platform. They are seeking a Backend Developer experienced in content management, AWS, system architecture, and other back-end systems to join their technical development team on a permanent basis.
+
+It is a fully remote role with a global team. Ideally, the candidate would be based around Central European Time (open to candidates within a time zone not far off).
+
+The ideal applicant would be a mid/senior backend developer, mainly concentrated on Web2, whilst incorporating tokens alongside the blockchain team. Experience with Blockchain integration & renewable energy systems is ideal. Excellent English communication is essential.
+
+Responsibilities:
+• Manage and maintain the entire application lifecycle with a focus on server-side development.
+• You will be expected, within a short ramp-up period, to make major contributions to the product’s development across the full back-end stack.
+• Back-end development using Node.js, MongoDB and GraphQL with deployment via AWS.
+• Ensuring the back-end is optimized for all relevant applications including integrating front-end elements with server side logic.
+• Collaborating with the blockchain development team to ensure that the back-end is setup to securely integrate with web3 technologies.
+• Use of Content Management Systems to allow the marketing team take control of our website and marketplace's content.
+• Assisting in maintaining the products extensive CI/CD pipeline.
+• Applying best coding practices in delivering clean, bug-free and well-documented code.
+
+Requirements:
+• Proficiency in working on the backend for production applications in Node.js.
+• 5+ years of experience working on back-end development.
+• Experience with NoSQL & SQL databases, ideally with exposure to MongoDB, MySQL & GraphQL.
+• Fluent in one or more general-purpose languages (e.g. Typescript, Python, Go, Rust, Java).
+• Comfortable with version control systems e.g. Git
+• Hands-on experience with the end-to-end cloud process (design, development and deployment) ideally within AWS, Azure or GCP.
+• Understanding of SEO & DevOps principles and approaches.
+• You understand that being a highly-skilled developer you are continuously learning and exploring new tools and technologies while applying best industry practices.
+
+Many benefits on offer. Apply now if you are ready to take the next step in your career!
+Send your CV to: john.ahmad@cyberneticsearch.com

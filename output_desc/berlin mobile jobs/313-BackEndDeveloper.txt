@@ -1,0 +1,27 @@
+About the job
+Platform Developer (Java/Scala)
+€60,000-€80,000
+Remote (Europe)
+
+This is an opportunity for a platform developer to join a team within our state-of-the-art iGaming platform.
+
+Our client values promote and foster a collaborative environment for their teams, whilst offering complete flexibility and autonomy to their teams, offering remote work and flexible hours.
+
+What you'll be doing:
+Add new features and new integration to the existing platform
+Collaborate with the whole team to migrate the platform to a new architecture based around Scala & Akka
+Developing services to support websites and administration UI
+Diagnosing & fixing production issues
+Adapt to the variety of things that are required in a small, growing company
+Use initiative to support the team and give input for better implementations
+
+Candidate profile:
+3+ years' experience in Java, with a desire to learn Scala (AKKA)
+Experience using Lambdas, streams etc and Kafka is a plus
+Proficiency in writing different automated tests
+Strong communication and interpersonal skills
+Experience in writing distributed systems in microservices with the likes of Spring Boot, Vert.x or Micronaut
+
+Unless you're based in Malta, Gibraltar or the UK then you will be paid via B2B. If you are successful and paid via B2B you will not receive a pension or insurance. You will still receive 25 days annual leave plus bank holidays from the country you are based in.
+
+If you’re interested in hearing more about the above role, please reach out (apply here or email amy.norris@signify-tech.com) with an up-to-date CV and the best time to be contacted.

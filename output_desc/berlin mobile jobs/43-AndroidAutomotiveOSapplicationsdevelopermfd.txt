@@ -1,0 +1,43 @@
+About the job
+
+Description
+
+Our Team is looking for an Android Automotive OS applications developer (m/f/d) that is ready to proactively function in a cross functional agile team and focus on development and integration of Android software on an Android Automotive OS-based Infotainment Platform, analyzing performance issues and performing fault tracing of the in-vehicle software and supporting systems.
+
+In this exciting position you will have the chance to develop your skillset by integrating Android OS on the next generation of vehicle computers powering car infotainment systems for passenger cars.
+
+Responsibilities
+
+You are involved in the development of the best-in-class next generation of Android-based infotainment software in close cooperation with our automotive customers
+You are responsible for Android development with a focus on styling and theming of apps
+You test your software not only on the PC, but also in one of our customers test vehicles
+You work with modern and fast infrastructures in the form of Git and Jenkins, among other things, allow you an uninterrupted development flow and prompt feedback through fast build times
+
+Requirements
+
+Degree in Computer Science, Information Technology, Communication Technology or a comparable qualification
+Professional Experience with In-Vehicle Infotainment Systems
+Knowledge in of widget libraries for a modern UI development language
+Experience with a programming language such as Java, C# or Python and a good understanding of programming in general (OOP, unit tests)
+Passion for UI design details (color, font, icon, positioning) as well as Android and automotive software solutions
+English level: Full professional
+
+Nice to have
+
+German level: Upper-Intermediate+ (B2+)
+
+We offer
+
+EPAM Employee Stock Purchase Plan (ESPP)
+30 days holiday per annum
+Company Pension Scheme
+Competitive compensation depending on experience and skills
+Regular performance assessments
+Opportunities for personal and professional growth
+Unlimited access to LinkedIn learning solutions
+Friendly and enjoyable working team
+Relocation package support
+Regular corporate and social events
+Flexible and remote working opportunities
+All benefits and perks are subject to specific eligibility requirements
+Join EPAM Germany, named a Top Company 2022 by Kununu

@@ -1,0 +1,77 @@
+About the job
+Who we are
+
+Sendwave is on a mission to make sending funds to loved ones as easy and affordable as sending a text. What makes us stand out in a sea of similar apps? We deeply care about the diasporas and communities we serve — and that comes with a sense of connection to the markets we operate in. We strive to make life better for everyone who touches our product. That means recognizing and honoring the human experience behind sending money. We do that by remaining fee-free in most of our markets and offering round-the-clock customer care.
+
+Our app is currently available in the United States, United Kingdom, Canada, and parts of Europe, and sends funds to 19 receiving countries for over 500,000 users. We currently have a 4.6-star rating on Trustpilot — people put their faith in us to deliver their money quickly, securely, and affordably. And we’re pretty darn proud of that.
+
+How we work
+
+What we’re most proud of though is our brilliant, creative, and tenacious team. Our remote-first workplace means you’ll be working with Sendwavers in Europe, Africa, South America, and the U.S. that all share a core set of Sendwave values. What exactly are those values? Glad you asked.
+
+Prioritize fearlessly.
+
+There will always be more problems to solve and opportunities to pursue than we have the capacity for. We’re not afraid to say no and are willing to let fires burn, knowing that to win we must discern and execute decisively on the vital few rather than the important many.
+Take full ownership of the outcomes we’re responsible for. Our job is not to do what we can to solve a problem. It's to ensure that problem is solved. If an attempt to solve a problem doesn't work, we seek an alternative. If we need help, we request it, and, if necessary, demand it.
+Forge a diverse team and inclusive culture. We believe the challenges we’re addressing will be best met by a truly global, diverse team, working together. We’re not naive to the systemic bias and discrimination that make this easier said than done, so we check our egos, listen deeply, and measure progress towards making this a fundamental part of our success.
+Maximize our rate of learning. We view projects as ever-evolving drafts and welcome opportunities to discover that what we had in mind won't work so we can move to an even better end state. Most importantly, we do this fast. The faster we run these loops — as a company and individuals — the faster we’ll achieve our mission.
+Embrace embarrassing honesty from ourselves and others. We function best when we're open and honest with one another — especially about our challenges and doubts. We lean into uncomfortable conversations and support our colleagues when they do the same.
+Maximize energy, not time spent. We measure our own and others’ contributions by objectives reached, not time spent. Living a full life outside of work is necessary for high achievement over the long term.
+
+Good to note: We are able to hire in Belgium, Canada, Costa Rica, France, Germany, Kenya, Poland, Senegal, UK, and US.
+
+Your key area of focus:
+
+We’re looking for an experienced engineer with strong technical design skills and excitement about mentorship to help keep our team well rounded, and help keep our product quality high as we grow the team and the product.
+
+Engineering at Sendwave has stayed small throughout the company’s growth and we’ve been able to sustainably work in a simple, distributed team. We’re getting ready to tackle more challenges more quickly— simultaneously launching multiple new markets and reinvesting in our user-facing product. To achieve this, we need our small product eng team to grow into a group of teams.
+
+We want to add another senior engineer to the team to help guide some of the architectural changes we’re making in the short term, and to mentor and grow our not-yet-senior team members to the point where they can take on those roles in the future.
+
+About The Team
+
+Engineering at Sendwave is split between 6 teams (Finance, Risk, Growth and Engagement, Delivery, Policy and Identity, and our Platform team). We’re about 30 engineers.
+Engineers at Sendwave work with Product to support all of our other teams including our Customer Service, Growth, Finance, and many more areas of the company.
+The engineering team is responsible for both our native iOS and Android clients and our python backend, including APIs, transaction delivery, performance, and support tools.
+In the first few months, you'll be:
+
+Participating in cross-team discussions about our system’s top level architecture
+Mentoring and coaching other engineers to facilitate long term growth
+Reviewing code and design docs for other team members
+Identifying and helping to prioritize opportunities for our team to invest in the codebase(s) in order to move faster
+Help others on the team navigate and learn the most complex technical projects
+Building and deploying new features and improvements
+What you bring to the table:
+
+6+ years of professional software engineering experience or 4+ of professional software engineering experience in a high-growth, rapidly changing environment
+Solid understanding of server tools and concepts (python, databases, web performance) and familiarity with mobile (iOS & Android) platforms, and cloud infrastructure (e.g. AWS, GCP, Heroku).
+Demonstrated experience articulating a long term technical vision and making complex technical/architectural tradeoffs thoughtfully and collaboratively to get there
+Experience with and excitement about mentoring junior and mid-level engineers and shaping engineering culture across the company
+A willingness to travel 4 weeks / year
+Bonus points if you:
+
+Have been part of a rapidly growing engineering organization and have experienced (and hopefully helped to solve!) the challenges that come with growth
+Have experience with DevOps and with the tools/technologies/processes for building easy developer workflows
+Are able to look at a technical system and envision how it could be more reliable and easier to make changes to
+Are excited about being a leader in an engineering org, but don’t necessarily want to be a manager
+Are passionate about achieving Sendwave's mission and are excited at the prospect of lowering remittance costs for diaspora communities.
+The benefits and perks you’ll enjoy...
+
+Competitive Salary
+Convenient, remote working. Sendwave is 100% remote. We are able to hire in Belgium, Canada, Costa Rica (this one is very new), France, Germany, Kenya, Poland, Senegal, UK and US
+Subsidized health insurance and pension contribution-matching (both vary from country to country)
+26 weeks of fully paid parental leave, and subsidized fertility assistance
+Unlimited vacation with a 20-day minimum requirement
+Up to $10,000 annual charitable donation-matching
+
+And best of all:
+
+Our team of over 400 employees is fully distributed across the world. We are working from coffee shops, homes, and co-working spaces — making us one of the larger fully distributed growth-stage startups in the world.
+We are proud parents, community organizers, farmers, band members, yoga teachers, YouTube influencers, former Olympians, and serial entrepreneurs.
+We collectively speak over twenty languages, including Akuapem, Amharic, Bengali, Ewe, Fante, Ga, Igbo, Kalenjin, Luganda, Oromo, Somali, Swahili, Wolof, Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish.
+We recently joined forces with WorldRemit, another remittance company. We’re excited about the ways we can collaborate and continue to provide the best service to our users.
+Ready to apply?
+
+Applications will be reviewed on a rolling basis. If interested, please submit your resume along with a cover letter highlighting why your experience demonstrates you meet the requirements of the role. Please also indicate the countries in which you have work authorization.
+
+Confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. Sendwave is a place where everyone can thrive. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to wake up every day.

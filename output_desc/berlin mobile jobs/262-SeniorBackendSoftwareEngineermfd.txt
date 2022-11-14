@@ -1,0 +1,45 @@
+About the job
+What is Myos?
+
+We are a FinTech based in Berlin that accelerates growth for e-commerce sellers all over Europe. Our team of 40 is ready to expand – that's why we're looking for you! As a team, we value transparency, drive and independence. We give all team members the opportunity to prove and outgrow themselves – leaving plenty of room for new ideas and their appreciation. Our Friday Wins sessions are almost as legendary as our Team Breaks. Make a real difference as part of a team that does not only work together, but also challenges itself to get better every day.
+
+Our Product
+
+Myos is the first product-backed financing for e-commerce merchants. We ask for no personal guarantees and ensure flexible repayment, without extra cost.
+
+Want to learn more about the role?
+
+Examples of your tasks:
+Partner with product managers to provide solutions to end users
+Design and develop microservices in a Node.js and Typescript environment
+Participate in code reviews and system debugging or diagnosis
+Mentor other software engineers
+
+What we think will help you to fulfil these tasks:
+You are proficient with using these tools: Node.js, Typescript, GraphQL and PostgreSQL
+You have a hands-on approach to software and database design
+You can produce testable code with simplicity and pragmatism in mind
+You are experienced in working in a system with microservice architecture
+You have knowledge of docker and kubernetes
+You thrive at message queues
+You are fluent in English (German is a plus)
+You are able to evaluate our current processes and are excited about implementing improvements
+
+Why we enjoy working at Myos:
+
+We don’t focus simply on what we do – we also care how we do it.
+At Myos we have flexibility in time and location - you decide when and how you want to start or end your day, and most importantly, you have the opportunity to work from anywhere in the world (or, depending on location and mood, in a modern office in a prime location)
+You want to improve your skills in a specific area? We support you with online courses, books and advanced training.
+We respect our employee’s skills, attitude and experience, therefore we offer them an above-average compensation package and the option to participate in the employee stock ownership program.
+We don’t have an upper limit for your vacation days. Myos prioritizes a work-life balance above all and believes our employees perform their best without limiting their vacation.
+We support you with the latest technological equipment (Apple or Windows depending on your preferences) and furniture for your home office.
+To ensure our team has a joy of gathering, we regularly organize team retreats, as well as regular on- and offline team events.
+You can work and learn directly from our experienced serial entrepreneurs, who are managing our teams.
+
+Does this sound like your desired working environment?
+
+Then send us your application documents (CV and relevant references) now!
+
+__Equal Opportunity Statement (EOS)
+
+At Myos, we celebrate diversity and are promoting an inclusive environment in which our team members from all different backgrounds, ages, genders or sexual orientations feel equally appreciated. In order to achieve this, we are committed to shaping a hiring process that provides everyone with an equal opportunity to get hired.__

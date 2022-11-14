@@ -1,0 +1,27 @@
+About the job
+Shape the future of B2B with us
+
+You help us to bring our search to the next level
+You design, build and maintain our search API, used by our own search frontend and other services across our engineering teams at Visable
+You work with a wide range of tools, technologies and processes
+You uphold our high engineering standards and bring consistency to the many codebases and processes you will encounter
+
+What we offer
+
+Working in a company with international teams with diverse backgrounds and languages
+A modern office in the heart of the city of Hamburg as well as the ability to unplug from the office desk and work remotely from wherever you want
+Creative environment with a highly motivated team where everyone can have a huge impact
+We focus on best practises across the board (e.g. automation of everything, agile workstyle, modern cloud-based tech-stack etc.)
+We value you as an individual and we are strong as a team. We advocate knowledge sharing, honest discussion and pair programming
+Company benefits like 30 days vacation, public transport tickets, Kicker, state of the art hardware and many more
+
+This is how you can impress us
+
+You know your way around a rails application
+You have experience with elasticsearch or lucene / Apache Solr
+You have a good understanding of lean and agile practices
+You're a real team player. You have efficient communication and interpersonal skills. You love to help and find solutions together
+You have experience with distributed systems, designing and building APIs
+You are experienced in testing on different levels (unit, integration testing...)
+
+We live and love diversity! That's why at Visable we promote equal opportunities and guarantee that all qualified applicants are considered for employment without regard to age, ethnicity, religion, sexual orientation as well as gender identity or expression and physical or cognitive abilities. A culture of respectful interaction is deeply rooted in our corporate values and therefore we want every employee to feel included, accepted and valued.

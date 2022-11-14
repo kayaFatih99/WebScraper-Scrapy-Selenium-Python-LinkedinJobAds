@@ -1,0 +1,51 @@
+About the job
+Please note as much as this is a remote position, we are only able to consider candidates based in (or willing to relocate to) Switzerland, Finland, Poland, France, Italy, Spain, Germany, and the UK.*
+At Scandit, we develop real-time computer vision solutions for smartphones, wearables and robots that combine modern machine learning approaches with computer vision. To expand our engineering team, we are looking for a C++ Mobile Software Engineer.
+
+About The Role
+
+You’ll help guide the implementation of our cross-platform API’s to ensure consistency, as well as write multithreaded code on a modern cross platform C++ code base, that makes use of the full range of today’s hardware capabilities. You’ll be the connection between our Computer Vision/ML Engineers and the Android/iOS experts on our market-leading software.
+
+Additionally, you’ll work on projects such as real-time animated overlays for our data capture engine, or work on extending our SDK to target additional platforms (Linux).
+
+Who You Are
+
+Proven experience in writing modern C++ code
+You have experience architecting and extending cross-platform C++ projects
+Your are passionate about the latest developments in C++ and enjoy sharing your knowledge with others
+You believe in automated testing for producing high-quality code
+Experience with Python is a plus
+Experience with development for Linux is a plus
+Experience with development for iOS and/or Android is a plus
+You are willing to go beyond your role, your team and (sometimes) your comfort zone to make a cross-functional impact on the business
+
+What We Offer
+
+Here are just some of the reasons why people choose to build their career at Scandit:
+A highly skilled team and a fun environment where you can put your enthusiasm for cutting-edge technologies to use
+Excellent office infrastructure, optimized for hybrid working in Zurich, Warsaw, Tampere, and London.
+Excellent support for remote work across the UK, France, Italy, Spain, and Germany
+Innovation hackathons
+People-first culture
+Global team outings
+Festive/end of year all company celebrations
+Your birthday off
+An attractive individual equity plan in a high growth company
+Do good and give back with 2 impact days where you are able to give time to one of our trusted nonprofit partners
+Specific benefits related to the location you are joining
+
+Who We Are
+
+Scandit enables enterprises and consumers to change the way they interact with everyday objects and augment the physical world with real-time data captured by scanning barcodes and recognizing text, objects, and other visual identifiers using smartphones, tablets, wearables, drones, and robots.
+
+Scandit’s mobile data capture platform is built on proprietary computer vision, augmented reality, and machine learning technologies. Companies in industries such as retail, transportation & logistics, manufacturing, and healthcare can use Scandit’s technology to create and power mobile apps for crucial enterprise workflows like mobile point of sale, mobile shopping, self-checkout, inventory management, and proof of delivery.
+
+Many of the world’s most innovative and successful companies are benefiting from Scandit’s enterprise-grade mobile data capture platform, including Sephora, Louis Vuitton, DHL, and Levi Strauss & Co.
+
+Scandit was founded by a group of researchers from ETH Zurich and MIT. The company is headquartered in Zurich and is also represented in Boston, London, Warsaw, and Tampere. Over the years, our company has evolved into a world-class team of mobile image processing, cloud computing, and “Internet of Things” experts from around the globe.
+
+“Everybody is welcome here” - Is a celebrated component of our DNA.
+
+At Scandit we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be a safe space for all.
+
+All qualified applications will receive consideration for employment without regard to race, colour, nationality, religion, sexual orientation, gender, gender identity, age, physical [dis]ability or length of time spent unemployed.

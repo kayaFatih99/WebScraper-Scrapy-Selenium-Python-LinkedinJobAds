@@ -1,0 +1,39 @@
+About the job
+This job is sourced from a job board. Learn more
+Über Codestryke GmbH
+
+Wir sind ein High-Tech Unternehmen im Bereich Industrial IoT und zählen zu den fortschrittlichsten Lösungsanbietern in Deutschland. Unsere Softwareprodukte und Lösungen sind weltweit auf 4,5 Millionen Geräten im Einsatz. Dabei arbeiten wir eng mit Partnern wie Microsoft und Siemens zusammen. Wir suchen zum nächstmöglichen Zeitpunkt Verstärkung für unser Jobangebot Backend Developer im IT Startup Remote (m/w/d).
+
+Klingt spannend? Dann freuen wir uns auf eine aussagekräftige Bewerbung über unseren Partner Workwise.
+
+Bei uns dreht sich alles um das Industrial Internet of Things (IIoT). Wir setzen als führender Anbieter von industriellen IoT-Lösungen neue Maßstäbe und haben unsere Lösungen weltweit auf etwa 4,5 Millionen Geräten im Einsatz. Dafür brauchen wir deine Unterstützung als Backend Developer (m/w/d).
+
+Was erwartet dich?
+
+Du findest bei deiner Arbeit eine Kombination aus: Innovation, Spaß, Verantwortung, Wertschätzung und Teamgeist.
+Du kümmerst dich um die Architektur, Entwicklung und Optimierung von Micro-Services und Datenverarbeitungs-Pipelines in unserem Backend
+Du nimmst an Architektur- und Code-Reviews teil
+Du bist an agilen Prozessen, einschließlich Sprintplanung, Projektumsetzungen, Retrospektiven und Daily Meetings beteiligt
+
+Was solltest du mitbringen?
+
+Du hast einen erfolgreichen Abschluss eines technischen Studiums oder einer technischen Ausbildung und mindestens 2–3 Jahre Erfahrung in der Backend-Entwicklung
+Du hast fundierte Kenntnisse in Node.js und mit TypeScript
+Du bringst Kenntnisse über gängige Protokolltypen (GraphQL, HTTP, MQTT, TLS, REST), sowie im Umgang mit Linux, Bash und gängigen Linux Kommandozeilentools mit
+Du bist erfahren mit Netzwerkkonfigurationen und tiefergehendes Verständnis mit Internet- und Netzwerkprotokollen und Docker
+Du besitzt ein eigenständige und proaktive Arbeitsweise und bringst deine Ideen ins Team mit
+Du sprichst fließendes Deutsch und hast gute Englisch-Kenntnisse
+
+Was bieten wir dir?
+
+Bei uns bekommst du die perfekte Work-Life-Balance mit bis zu 40 Tagen Urlaub im Jahr
+Wir sind ein hoch motiviertes Team mit flachen Hierarchien und direkter Kommunikation
+Dich erwarten abwechslungsreiche Aufgaben in spannenden Projekten
+Wachsendes Unternehmen in einer zukunftsgerichteten Branche
+Wir bieten dir zahlreiche Weiterbildungsmöglichkeiten, flexible Arbeitszeiten und hohe Eigenverantwortung
+Dich erwarten ebenfalls unsere codestryke Event Days (Oktoberfest, Kurztrips, After-Work Events) und kostenfreie gesunde Snacks, Früchte, Getränke und Smoothies
+Du findest uns in modernen Büroräume im Munich Central Tower mit einer top Anbindung
+
+Unser Jobangebot Backend Developer im IT Startup Remote (m/w/d) klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.

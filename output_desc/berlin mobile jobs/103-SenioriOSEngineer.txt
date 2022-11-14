@@ -1,0 +1,44 @@
+About the job
+Project Description
+
+We want to create a unique customer experience in the mobile
+
+payment sector using a customizable software development kit
+
+which will be implemented in 3rd party applications and support
+
+Apple Pay and Google Pay card provisioning. Get involved in a
+
+vision that will change your perspective on banking services and
+
+the financial sector in general while establishing a new B2B2C
+
+market for Bank.
+
+Our development teams operate in a scaled agile approach in
+
+several locations. They are responsible for the complete software
+
+development lifecycle; including ideation, implementation, and
+
+operation.
+
+Responsibilities
+iOS development using Swift on daily basis
+Developing SDKs
+Working in client server architectures using HTTPS, REST and JSON
+Operating in application architectures and code patterns
+Skills
+
+Must have
+You possess the ability to write runtime optimized code and have an understanding of algorithmic complexity
+You bring a test driven mindset
+You are experienced in continuous integration/continuous delivery
+You can work in large teams and with multiple engineers on the same codebase.
+You enjoy working in an agile and fast-paced environment with changing or competing requirements
+You are eager to acquire and share new talents in a highly skilled team
+Nice to have
+You can speak English very well (German is a plus)
+Languages
+
+English: C1 Advanced

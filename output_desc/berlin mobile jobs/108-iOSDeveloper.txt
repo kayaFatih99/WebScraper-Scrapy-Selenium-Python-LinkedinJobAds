@@ -1,0 +1,45 @@
+About the job
+Overview
+Able is a purpose-driven company focused on making the overall population fitter, healthier and happier by providing a 360-degree personalized approach to weight care for tens of thousands of people worldwide.
+We are customer-obsessed, authentic and super pumped to create innovative tech solutions which are accessible and will impact and improve the lives of our customers.
+
+Able
+Able is different. It provides a science-backed, comprehensive program that is personalized to users' biology and lifestyle, and supported by 1-on-1 coaching. It’s the safest and most effective way to improve metabolic health and achieve sustained weight care.
+
+The team
+You will be joining a strong team of >70 people with high talent density who enjoy working in our fast paced, 100%-remote environment. Our team is fully international and passionate about building the future of health and weight care for our customers.
+
+The Opportunity
+This is a great opportunity to join a highly talented team of iOS developers working on a product that is shaping a revolutionary approach to weight management.
+
+Employment
+Regular employment in UK or Malta or Contractor agreement for the team members distributed across Europe (non-UK/Malta).
+
+Responsibilities
+Taking part in the development of native mobile apps with iOS.
+Work within a team of developers to complete proposed initiatives, contributing application architecture and implementation guidance.
+Developing and ensuring the delivery of high-quality, readable code.
+Regular code refactoring.
+Providing app efficiency in terms of size, stability, and performance.
+Evaluating and implementing new technologies to optimize application development.
+Providing detailed estimates of work and ensure on-time delivery of sprints.
+Ensuring that all Frameworks and SDKs in the app are up-to-date.
+
+About you:
+4+ years of experience developing native applications for the iOS platform.
+2+ years experience with Swift.
+Understanding of iOS SDK (UIKit, Push Notification, GCD, Networking).Strong understanding of OOP.
+Software design patterns and Architecture of the applications (MVC, MVP, MVVM).
+Reactive frameworks (RxSwift/ReactiveCocoa/Combine).
+Understanding of mobile application design and UX, experience in Autolayout Constraints/Layout Anchors/SnapKit/LayoutKit.
+Experience with Realm and REST APIs.
+Experience with Firebase and similar 3rd-parties is a plus.
+Flexibility and willingness to learn new technologies as needed.
+Ability to write clean & effective code.
+
+Life at Able
+By joining Able, you’ll become part of a team that picks each other up, collaborates daily and who work hard, fast and smart because they’re motivated and passionate about being the best in the industry. We thrive on innovation, we push the boundaries, and we’re proud of the work we do that really helps thousands of people live a happier and healthier life!
+
+Equality
+All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+#LI-Remote

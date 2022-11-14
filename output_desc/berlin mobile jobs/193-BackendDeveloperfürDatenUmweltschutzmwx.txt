@@ -1,0 +1,37 @@
+About the job
+Unsere Mission
+
+Wir bringen Verbraucher und die Umwelt auf Augenhöhe mit Unternehmen, in dem wir die rechtliche Durchsetzung von Privatsphäre und Werbepräferenzen einfach und kostenlos machen.
+
+Über Dich
+
+Interessen
+
+Wir brennen für die Themen Verbraucherrechte & Datenschutz und haben unsere Wurzeln im Umweltschutzbereich. Wir würden uns freuen, wenn Du dich auch mit diesen Themen identifizieren kannst.
+
+Zeit
+
+Wir wünschen uns jemand, der uns mindestens 2 Tage die Woche, gerne auch länger unterstützt. Vielleicht nutzen wir die ersten paar Monate um uns kennen zu lernen, und entscheiden dann, ob Du mehr Zeit mit uns verbringst oder sogar Vollzeit einsteigst.
+
+Aufgaben
+
+Aufgaben
+
+Wir suchen jemand, der uns in verschiedenen Bereichen unterstützt:
+Mentoring für unsere beiden sehr talentierten Junior Developer
+Operative Mitarbeit bei Systemarchitektur und Programmierung
+Mitentwicklung der Unternehmens-Strategie
+
+Qualifikation
+
+Wir verwenden Django/Python (+ Django-Rest-Framework) im Backend und arbeiten für interne Prozesse stark mit dem Django Admin-Interface. Wir deployen auf AWS und definieren unsere Cloud-Infrastruktur mit Terraform. Für unsere mobile App nutzen wir Dart/Flutter. Du solltest mindestens drei Jahre Erfahrung als Entwickler haben. Besonders mit Django solltest du dich sehr gut auskennen. Wir sind bei der Entwicklung unserer Software sehr fokussiert auf Qualität, Clean Code und Sicherheit und wünschen uns dies auch von Dir.
+
+Benefits
+
+Vergütung
+
+Wir sind für verschiedene Vergütungsmodelle offen: Sei es ein Dein Tagessatz als Freelancer, ein festes Gehalt als (Teilzeit-)Angestellter, Anteile am Unternehmen oder eine Kombination aus allem.
+
+Remote First & Flexible Arbeitszeiten
+
+Du kannst über Deinen Arbeitsort sehr gerne frei entscheiden. Bis auf sehr wenige Meetings und Kernarbeitszeiten steht es Dir auch frei, zu welchen Zeiten Du dich engagierst.

@@ -1,0 +1,31 @@
+About the job
+Hi. We are Gorillas. We do on-demand grocery delivery in minutes. Since our initial launch in May 2020 we have built warehouses across Europe and New York and are spreading true change in the communities we serve. True to our need for speed, in March 2021 we became Europe's fastest-ever unicorn company. And with $1.3B total funding raised to date, we're just getting started.
+
+About The Opportunity
+
+We are looking for a Senior Backend Engineer who will work with us on creating the digital backbone that enables our entire organization at Gorillas Operations K.G. The work can range from customer-focused feature development including analytics to internal tooling and microservices, that will help either our team or our customers to have a seamless experience.
+
+Your Responsibilities
+Collaborate with your cross-functional team to determine requirements
+Architect, develop, test and deploy microservices that would serve to thousands of customers each day
+Be an enabler! You're in charge of making the work for other team-members easier and enabling them to reach their goals
+Mentor junior and mid level developers
+Share knowledge and learnings proactively and take responsibility to see projects through
+To be successful, you will need some of the following
+Equivalent work experience or a Bachelor degree in Computer Science, Computer Engineering, or Electrical Engineering
+Significant experience in developing software using JVM language (we use Kotlin!) and Spring Boot or Node.js/Typescript in large-scale production systems
+Strong ability to balance business needs, a sense of urgency, and the shipping of high quality and pragmatic solutions
+Be a thoughtful technical voice and support your team in making diligent architectural decisions
+Experience with both relational and non-relational database
+Knowledge of version control system
+Experience with GCP, AWS or other cloud providers
+Knowledge of container technology (Docker, Kubernetes)
+Experience with data streaming, Kafka, RabbitMQ
+Professional proficiency in written and spoken English
+What's in it for you
+Opportunity to work with the best technologies in the Market.
+Work in a creative, international environment with high energy and unrivaled team spirit
+A 25% discount on all your Gorillas deliveries 🦍 ❤️
+Free snacks and drinks in the office, and the opportunity to sample new products before anyone else
+Your choice of a Mac or Windows laptop, plus a tech accessory budget to maximize your work environment
+Gorillas is an equal opportunity employer, which means we do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,40 @@
+About the job
+🚑 About FIRST A
+
+FIRST A is a health tech start-up and the first quick delivery service for medication in Germany. Headquartered in Berlin we deliver pharmacy-only medicines and drugstore products to your doorsteps within 30 minutes. Our service makes access to medication as fast and easy as possible - nationwide. FIRST A is a long-term partner of local pharmacies and is driving digitization of the healthcare market. Since April 2022, we are part of the leading European online pharmacy SHOP APOTHEKE EUROPE.
+
+🚀 Your Responsibilities
+Contribute to architecting and building backend of web and mobile products.
+Maintain these products for accuracy and high availability.
+Write and maintain modular and high performance code.
+Collaborate across functions and own the planning, estimation and execution for parts of the product.
+Continuously identify opportunities to improve system designs, architecture and implementation standards.
+Mentor 2-4 junior Developers.
+
+🦸 About You
+5+ years of relevant experience of architecting and building products/business critical backend applications using Node.js
+Experience with relational databases like Postgres or MySQL.
+Exposure to cloud infrastructure like AWS, GCP etc.
+Familiarity with REST APIs and stress testing tools.
+Exposure to deployment best practices and auto scalable infrastructure setup.
+Familiarity with caching tools and queuing systems is a plus.
+Contribute to architecting and building backend of web and mobile products.
+Maintain these products for accuracy and high availability.
+Write and maintain modular and high performance code.
+Collaborate across functions and own the planning, estimation and execution for parts of the product.
+Prior work experience in cross-functional team in remote setting.
+Experience in building complex web applications.
+Strong advocacy for good software development practices and codebase improvement.
+Strong analytical skills.
+Good communication skills
+
+🤩 Why join FIRST A
+Great opportunity to shape a young product
+A setup of your choice to ensure that you have all the tools you need to do your best work.
+A chance to work in highly motivated team of bright minds
+A diverse company culture (30+ people with 5+ nationalities) with fast decision making loops, rapid self-development, and growth opportunities.
+Remote-friendly work environment.
+
+Do you want to make a difference and improve access to medicines for many people? We look forward to hearing from you!
+
+FIRST A is an equal opportunity employer who values diversity and encourages people of all ethnic & racial origins, gender identities, sexual orientations, religions & ideologies, socio-economic statuses, educational backgrounds, ages, and individuals of all abilities to apply.

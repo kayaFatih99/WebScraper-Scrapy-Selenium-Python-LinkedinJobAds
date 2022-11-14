@@ -1,0 +1,45 @@
+About the job
+We are changing the game… SwissBorg is here to put Crypto assets back into the hands of ordinary people by allowing them to manage and create their own wealth.
+
+We are also Europe’s fastest growing Crypto app and since launching in 2020 in Lausanne, Switzerland our flagship SwissBorg app has taken the market by storm! We currently offer 47 different cryptocurrencies and our user base has grown year on year, with 600,000+ community members.
+
+Our aim is to be the gateway to DeFi. The revolution of crypto is bringing transparency and access to financial services that were, up until now, only accessible to the most wealthy. At the same time, DeFi is, in its current state, awfully complicated to use. Our mission is to build a product that is user-friendly and community centric most of all. With Swissborg, our mission is to provide everyone access to the tools that will enable them to safely increase their wealth using the power of DeFI.
+
+What you might be doing:
+Contribute to the development and evolution of our Android apps
+Work closely with the Product, Apple/iOS and Backend teams
+Write clear and maintainable code with Unit/UI tests
+Evaluate the right technologies and keep yourself up to date to the Android technology landscape
+Constantly improve the quality of our products by fixing bugs and refactoring the code base where necessary
+Implement best practices to ensure app reliability and security
+
+What you might bring:
+3 + years of experience developing Android native apps
+Knowledge of Kotlin
+Knowledge of Jetpack Compose and Kotlin Coroutines is a plus
+Knowledge of dependency injection frameworks (Dagger, Koin)
+Knowledge of MVI is a plus
+Solid understanding of the full mobile development lifecycle
+Strong UX/UI design skills and the care to develop world-class user interfaces
+Enthusiastic, fast learner and a problem solver
+The ability to propose, listen and accept people's feedback
+Flexible, proactive, organized, detail-oriented and entrepreneurial
+Excellent English communication skills
+Experience in the finance industry a plus
+Experience with encryption, cryptography standards and securing Android app is a plus
+
+What you can expect from us:
+We offer a remote working environment
+25 days annual leave plus local bank holidays
+Annual bonus paid in CHSB
+A welcome CHSB bonus
+Flexible working hours
+Individual learning and development budget
+Annual team retreats
+A MacBook Pro
+An equipment voucher to ensure that your home office is up to your standards
+Menstrual leave
+
+At SwissBorg, we embrace diversity. We strongly believe that getting the best outcome requires different perspectives and backgrounds. We’re committed to openness, curiosity and creating an inclusive culture because we know that diverse teams build better products and generate better ideas. We strongly encourage applications from everyone!To ensure a safe & welcoming space, please feel free to let us know of anything you require to feel comfortable bringing your whole self to the recruitment process.
+
+Keep an eye on our Careers Page and follow us on LinkedIn & Twitter for regular company updates!

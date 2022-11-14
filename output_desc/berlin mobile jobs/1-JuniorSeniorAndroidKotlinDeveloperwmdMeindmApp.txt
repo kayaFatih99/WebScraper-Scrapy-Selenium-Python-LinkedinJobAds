@@ -1,0 +1,38 @@
+About the job
+Einleitungstext
+
+Unser agiles und interdisziplinäres Produktteam betreut den kompletten Lebenszyklus der „Mein dm-App“ für Android und iOS, welche das Einkauferlebnis in den Märkten digital ergänzt und erlebbar macht.
+
+Bei den digitalen Kundenservices setzen wir auf eine hohe Code-Qualität sowie eine exzellente Nutzerfreundlichkeit, die wir durch hybride App-Entwicklung erreichen. Hierbei setzen wir auf einen nativen App-Rahmen und darauf aufbauende Feature-Entwicklung mit React Native oder Jetpack Compose.
+
+Um unserem Qualitätsanspruch gerecht zu werden, setzen wir auf Pair Programming, ausgeweitetes Testing, Continuous Integration & Delivery. Technologie- und Architekturentscheidungen werden weitestgehend im Team erarbeitet und verantwortet.
+
+Einen Eindruck, wie unser Team arbeitet und wie die „Mein dm-App“ entsteht, erhältst du in diesem Video.
+
+Du wohnst nicht in der Region Karlsruhe? Kein Problem! Bei Interesse ist es möglich, fast vollständig remote zu arbeiten.
+
+Deine Aufgaben
+
+Agile Entwicklung der „Mein dm-App“
+Wartung, Testen und Pflege
+Weiterentwicklung unserer Entwicklungs- und Qualitätsprozesse
+Enge Zusammenarbeit im cross-funktionalen Team sowie mit anderen Entwicklungsteams und Fachabteilungen
+Entwicklung eines für mobile Apps optimierten Backends
+
+Das bringst du mit
+
+Erfahrung in der Entwicklung von mobilen Apps
+Sehr gute Kenntnisse in Kotlin und gute Kenntnisse in Java
+Fundiertes Wissen über Dependency Management, Build- und Releaseprozesse, Automatisierung sowie passende Tools
+Idealerweise Erfahrung mit React Native (JavaScript/TypeScript), iOS/Swift
+Offenheit für andere Programmiersprachen und neue Technologien
+HHohe Teamfähigkeit sowie gute kommunikative Fähigkeiten auf Deutsch (B2/C1)
+
+Das bieten wir dir
+
+Attraktive Arbeitsbedingungen: Mit flexiblen Arbeitszeiten und überwiegend mobilem Arbeiten, einer 37,5 Std.-Woche sowie 30 Urlaubstagen, ermöglichen wir eine ausgewogene Work-Life-Balance
+Moderne Unternehmenszentrale: Helle Büroflächen, höhenverstellbare Tische, neueste Technik und ein Mitarbeiterrestaurant – unser dialogicum bietet ideale Bedingungen für deinen Arbeitstag dank innovativer Ausstattung und intelligenter Konzepte
+Optimale Verkehrsanbindung: In direkter Nähe zur Autobahn, einer S-Bahn-Haltestelle und dem DB-Bahnhof Durlach gelegen, sind wir mit PKW und Bahn sehr gut erreichbar. Zudem gibt es ein kostenloses Parkhaus und eine Fahrradgarage, jeweils mit Elektro-Ladestationen
+Dialogische Unternehmenskultur: Unsere Arbeitsgemeinschaft ist geprägt durch den gegenseitigen Austausch auf Augenhöhe, Dynamik und flache Hierarchien. Ein zentraler Baustein unserer Zusammenarbeitskultur ist die Eigenverantwortung
+Mitgestaltung und Entwicklung: Bei uns kann sich jeder einbringen und dazu beitragen, Themen voranzutreiben. Für deine persönliche und fachliche Entwicklung bieten wir vielfältige Weiterbildungsangebote an
+Weitere Vorteile und Zusatzleistungen: Profitiere von weiteren Leistungen wie z.B. Mitarbeiterrabatt, Fahrrad (Jobrad)- und IT-Leasing, Urlaubs- und Weihnachtsgeld sowie betrieblicher Altersvorsorge

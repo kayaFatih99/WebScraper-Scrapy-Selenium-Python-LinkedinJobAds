@@ -1,0 +1,57 @@
+About the job
+Description
+
+Take advantage of this unique opportunity to actively shape WorkMotion's growth story. As one of our Senior Backend Engineers within our Foundation team, you’ll have the chance to experience a unique 360° perspective behind the curtains of a textbook hyper-growth scale-up.
+
+What Your Tech Stack Will Look Like…
+
+Java 11, 17
+Spring Boot, Hibernate, System Design, MicroServices
+MongoDB, PostgreSQL
+AWS, Github, JIRA, Confluence
+
+What You’ll Do…
+
+Design and develop the necessary code and tests to implement the features/functions of the applications/services.
+You will drive microservices architecture
+You will implement and maintain features and projects related to our own case management application
+Deliver high-quality software features that meet coding and design patterns best practices.
+Follow DevOps best practices – including continuous integration and unit testing, You build it, you ship it.
+You will contribute to requirement analysis, design and architecture decisions
+Commitment to quality and timely delivery of assigned work products.
+Conduct code reviews of work done by other engineers in the team.
+Modify existing software applications with full competency.
+Troubleshoot failures during testing, including reproducing faults, evaluating requirements, and documenting root cause analysis.
+
+What We’re Looking For…
+
+Proven working experience in Java development for at least 5 years
+You have experience in JAVA including Spring framework.
+You're familiar with Test-driven development.
+You have experience with relational databases e.g. PostgreSQL
+You have experience with building API e.g. RESTful architecture
+You have experience with the integration of applications, features, and APIs
+You are ideally familiar with agile e.g. SCRUM or KANBAN
+You love to get things done
+Dev-ops experience is a big plus (Docker, Kubernetes, etc.)
+Solid Infrastructure Experience is a big plus (AWS & DevOps)
+
+What We Offer…
+
+Opportunities to get to know some of your colleagues at our offices
+Competitive salary
+Merit-based culture with substantial growth opportunities
+Trust-based work – organise your own schedule. We want to celebrate results, not hours spent working
+Collaborative team culture where everyone's input is valued
+Subsidised gym membership subscription and other benefits
+Training and development allowance
+Regular company and team events like Summer or Christmas parties, and more! (COVID permitting)
+Some benefits may vary due to local law and regulations.
+
+Who We Are…
+
+We are a remote-first tech startup founded in 2020, offering an all-in-one HR-service to our clients, allowing them to hire the very best talent anywhere in the world (WorkGlobal). Additionally, our solution helps our clients become a company of choice, by enabling them to offer temporary employment to their employees through our easy to use WorkFlex product.
+
+A stellar founding team is leading WorkMotion, backed by one of the most renowned early-stage investors in Europe. If you like to roll up your sleeves and get all in, we can do it and build the #futureofwork together! You will be part of our incredible intercultural team, based all over the world and have the chance to learn and grow alongside the company.
+
+No matter what you look like, where you’re from or where you prefer to work, we encourage all to apply. We believe that the more diversified we are, the more we can revolutionise the working world!

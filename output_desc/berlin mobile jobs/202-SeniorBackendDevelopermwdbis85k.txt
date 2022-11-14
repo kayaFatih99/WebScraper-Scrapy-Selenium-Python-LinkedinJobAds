@@ -1,0 +1,31 @@
+About the job
+Du bist ein Teamplayer?
+
+Dann bist du hier genau richtig!
+
+Der Arbeitgeber:
+
+Wir suchen aktuell im Auftrag unseres Kunden, dessen Tätigkeitsfeld die Betreuung verschiedener Jobportale darstellt. Das etwa 80 Mitarbeiter*innen umfassende Team legt großen Wert auf einen freundschaftlichen Umgang untereinander sowie unkomplizierte Betriebsprozesse mit flachen Hierarchien. Krisensicher wird das junge Unternehmen durch die Zugehörigkeit zu einem großen Konzern.
+
+Das wird geboten:
+
+Flexible Arbeitszeiten und die Möglichkeit im Homeoffice zu arbeiten
+Ein kreatives Arbeitsumfeld mit viel Gestaltungsspielraum für eigene Ideen
+Ein motiviertes und kollegiales Team
+Diverse Mitarbeitervorteile (bspw. betriebliche Altersvorsorge, Sabbatical, Mitarbeiterrabatte etc.)
+
+Das könnten deine Aufgaben sein:
+
+Du bist für die Weiterentwicklung der verschiedenen Portale unseres Kunden verantwortlich
+Du entwickelst, implementierst und betreibst skalierbare Services
+Du evaluierst und implementierst spannende Technologien zur Verbesserung des Stacks unseres Kunden
+Du bist für die Entwicklung automatisierter Unit-, Integration- und End-to-End Tests zuständig
+
+Das bringst du mit:
+
+Du hast ein tiefgreifendes Verständnis in einer serverseitigen Sprache, wie z.B. Node.js oder Ruby on Rails
+Du konntest bereits Erfahrung in der Entwicklung von Backends für Web-Applikationen sammeln
+Du schreibst sauberen Code und kannst erklären wie du vorgehst
+Fließende Deutschkenntnisse runden dein Profil ab
+
+Du bist neugierig geworden? Dann bewirb dich ganz bequem und einfach mit deinem Lebenslauf bei uns!

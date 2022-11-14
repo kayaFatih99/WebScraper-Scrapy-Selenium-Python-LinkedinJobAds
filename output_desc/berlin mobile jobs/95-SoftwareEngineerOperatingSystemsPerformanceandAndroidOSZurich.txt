@@ -1,0 +1,22 @@
+About the job
+The Reality Labs team at Meta enables people around the world to come together and connect through world-class Augmented and Virtual Reality hardware and software.With global departments dedicated to AR/VR research, computer vision, haptics, social interaction, and more, AR/VR is committed to driving the state of the art forward through relentless innovation. Our teams explore, develop, and deliver new cutting-edge technologies that serve as the foundation of current and future AR/VR products.As a Software Engineer at the Reality Labs in Zurich, you will develop the software behind some of our flagship AR and VR products, the prototyping platforms that make these products possible, or foster our scientific explorations. You will collaborate with highly diverse teams, threading together newly developed technologies to create intuitive experiences that enhance people’s experience of the world around them.This role will be in one of our many teams, where you could be doing any of the following: Optimisation, frameworks and foundational Linux/AOSP work in support of AR and VR applications, building the system-oriented camera and sensor services along with the surrounding infrastructure and tools.
+
+Software Engineer - Operating Systems, Performance and Android OS (Zurich) Responsibilities:
+
+Lead and set direction in how Meta Reality Labs develops its future capabilities and for teams to deliver best in class experiences for current and future products
+Build tools, system architecture, prototypes, frameworks and infrastructure for any of the following: sensor control / data management, AOSP, sensor telemetry and performance profiling.
+Collaborate with cross-functional teams of partners, product managers and engineers in areas like computer vision, machine learning, graphics, hardware and firmware to understand requirements and enhance existing solutions
+Write clean readable code, debug complex problems that span systems
+
+Minimum Qualifications:
+
+Bachelor degree or equivalent experience in the field of Computer Science, Computer Engineering or a similar field
+3+ years experience in developing any of the following.... Operating Systems, AOSP (Android Open Source Project), protocol design (specification and implementation) or delivering performant solutions for resource / memory constrained devices or system
+3+ years of experience using C++ for day to day software development
+
+Preferred Qualifications:
+
+1+ year of experience with performance Profiling/Tuning, Telemetry, System Event Tracing, Scripting
+1 + year of experience with any of the following: system analysis, thermal and power optimisation for embedded systems, with system resource optimisation on mobile platforms, especially of memory
+2+ years experience delivering performant solutions for resource constrained devices
+2+ years experience with any of the following..... hardware sensor data access and control (e.g. cameras, IMUs), Android internals, frameworks services, HAL or Native libraries, Android SDK, Android NDK, Android JNI, Android IPC mechanisms, Linux OS development

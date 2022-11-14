@@ -1,0 +1,48 @@
+About the job
+360dialog is a business-to-business solution provider in WhatsApp messaging space. It mostly means that we are doing many-layered magic that allows other businesses to easily integrate WhatsApp Business Accounts into their architecture.
+
+We aren’t a small start-up anymore, but we are still in a hyper-growth trajectory, which basically translates to a best of start-up and corporate world fused together - stable enough to not have fires to extinguish every day (or even every month!) but flexible enough to often try new things.
+
+We want to go to the top of this space, wherever that might be, and if you feel like this might be an exciting adventure and would like to hop on then read on.
+
+Your mindset
+
+What mainly matters to us is that you are independent and passionate about software adventuring. We don’t hold hands, therefore it’s critical that you can manage yourself and understand your capabilities.
+
+It requires motivation to go ahead without others constantly pushing you, and even more importantly, the ability to call for help when the monster (project or task) is still too big for you alone.
+
+This approach while demanding a high level of self-organization gives the unparalleled freedom to move at your own pace. Except for rare remotely casted meeting spells, which allow to trade insights and ideas, we do not really require any time synchronization.
+
+For some, this type of exploration could be dreadful, but if it sounds marvelous to you, then please send us your application.
+
+Requirements
+
+Your role and responsibilities:
+Full ownership of new products: planning, implementing, maintaining and improving the architecture and software for some of our services.
+Solving technically complex problems to ensure company operations never stop, such as payments, integrations, etc.
+Deliver software solutions that really add value to the running of the company, our clients and our teams.
+
+Your skills:
+You put a high value on freedom of work and flexibility of time associated with remote culture
+You are not afraid to be responsible for essential components of the system
+Passion of building solid products, but smartness to workaround when needed
+Good architectural knowledge (without being an astronaut)
+Our stack is based on NodeJS, NestJS, Typescript, Postgres, GCP, Auth0
+A development environment with the usual Git, Jira, Jenkins, Docker
+
+Your skills - preferred/optional qualifications:
+Experience in payments, fintech or subscription systems
+Experience in 10x scaling environments
+Exposure to Decentralized and/or Event-driven and/or Service-oriented architectures
+
+If you think it's the right place for you, we encourage you to apply even if you do not fit 100% in the job description.
+
+Benefits
+
+What you can get
+A competitive salary package that comprises stock options for outstanding contributors
+Remote first culture with a high degree of freedom (and the weight associated with it). Async as default. Fewer meetings as possible
+Proactive people environment
+Full ownership of your work
+No useless perks
+Tons of challenges driven by insane growth

@@ -1,0 +1,20 @@
+About the job
+Our client, a multinational software vendor is seeking a talented Senior Back End Developer to join their team on a fully remote basis as a permanent employee.
+
+We will require candidates comfortable working with stakeholders between GMT & GMT+4 in terms of time zones. As such ideally, we are looking for applicants in Europe.
+
+The Role:
+Building Java components for world-class enterprise software applications.
+Delivering compelling functionality in performant code.
+Providing high-level application architecture.
+Delivering solutions for new products/features.
+Conducting code reviews and mentoring more junior members of staff.
+
+Required skills and experience:
+Upwards of 5 years back end development experience.
+Excellent development skills across Java, Spring, Hibernate etc.
+Professional experience of Spring Boot.
+Professional experience of messaging platforms such as Apache ActiveMQ, RabbitMQ, Apache Kafka etc is preferred.
+Experience working with REST APIs.
+Strong English communication and stakeholder engagement skills.
+A university degree in Computer Science or similar.

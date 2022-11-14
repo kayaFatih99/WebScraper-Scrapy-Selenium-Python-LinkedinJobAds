@@ -1,0 +1,60 @@
+About the job
+At Borg, we are building the next-generation search engine for the social web.
+
+It is hard to know what information you can trust these days. We are working on solving this problem. To do that, we have developed a novel algorithm that enables the surfacing of high-quality information. This is a massive challenge. It requires indexing billions of profiles across multiple platforms, finding millions of communities, and serving them as structured data streams via a dynamically priced API.
+
+Indexing and connecting all this data from potentially hundreds of data streams, running ML algorithms on the data, serving the output of these algorithms to authenticated clients via well-defined open APIs are therefore pretty central to the core value proposition of Borg. This is the domain of backend engineering.
+
+You will work with the data scientists and product managers to envision and implement a system of reusable services following a cohesive architecture that gives our users, internal and external, all the information and control they could hope for from our algorithm.
+
+You will be responsible for making sure that our backend engineering can match the increasing complexity of our challenge as best as possible. This not only means that the quality of code and engineering processes is top-notch but also the backend infrastructure is as stable and efficient as it can be at the different stages of the development of the platform.
+
+Responsibilities
+Envision and implement crawlers/API-clients that aggregate complex, graphical data into comprehensible descriptions of social networks
+Architect efficient and reusable backend-end systems that drive complex web applications
+Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling products
+Identify and resolve performance and scalability issues
+Planning and coordination of data modelling & feature releases
+Architect efficient and reusable front-end systems that drive complex web applications
+Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
+Identify and resolve performance and scalability issues
+Planning and coordination of data modelling & feature releases
+Mentor junior Backend Engineers
+
+Requirements
+5+ years experience envisioning and implementing complex, high-availability, high through-put backend systems.
+2+ years experience writing serverless applications on systems such as AWS Lambdas
+Python experience, including concepts like asynchronous programming, meta-programming, types, and scientific python.
+Deep Expertise in at least one of the major web frameworks such as Flask, Django, aioHTTP, Pyramid, etc
+Experience with building scalable APIs and optimising the performance of complex SQL queries touching millions of data points. We use PostgreSQL.
+Experience with E2E testing e.g. Cypress
+Demonstrated ability to take advantage of cloud-native technologies and techniques to build a robust, high availability platform
+A growth mindset, being able to balance long term engineering objectives with the immediate development needs of the company and translate them into engineering initiatives
+Highly collaborative with strong verbal and written communication skills
+You enjoy writing documentation and understand why it's valuable
+
+Great to Have
+BS/MS/Ph.D. in Computer Science or a related technical field.
+Interest in sociology, anthropology, evolutionary psychology, game theory, or related fields.
+Interest in design, user experience, or related fields.
+Interested in and deeply familiar with some online cultures, sub-cultures, memes, etc.
+You are a power user of some social media platforms and/or a member of some online communities.
+Familiarity with Javascript-based backend technologies such as ExpressJS.
+
+Benefits
+
+Work Setup
+
+We're a fully remote team working from all parts of the world. We organize ourselves into small teams (“squads”) working on particular projects. These teams typically have a daily standup call and work mostly asynchronously apart from that. We are heavy users of the tools for remote work, and we continue testing new tools as they come out to make sure we have the best stack possible.
+
+If you work from Berlin, you can work from our Berlin office, located in Mitte.
+
+Application Process
+
+We hire for ability, not credentials. You will notice that this is reflected in our recruiting process. The process is designed to test your ability to solve problems that you will face in the role you are applying for. There won’t be any brain teasers or anything else unrelated to what the job will be.
+
+We invest tens of hours carefully crafting descriptions and the corresponding questions for each role. We spend so much time because we found this to be a good investment. These ads and their corresponding questions have proven to be an excellent filter. Make sure not to skip any questions – they are (by far) the most important part of the application.
+
+If we like your answers, we will schedule the first interview. There are typically three interviews (+/-1) in total. For some roles, you may receive a take-home task that should take about 2-3 hours to complete. After that, we will ask you to work with us on a trial project for a week. We will pay you for this project. The idea is that you get to experience what it is like to work on our team, and we get a chance to experience what it would be like to have you as a colleague. Within that week, we will either make you an offer or let you know this is not a fit.
+
+We keep this process to 2-3 weeks from when we get in touch with you.

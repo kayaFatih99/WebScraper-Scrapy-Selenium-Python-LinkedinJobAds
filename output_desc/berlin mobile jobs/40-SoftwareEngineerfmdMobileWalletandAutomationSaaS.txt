@@ -1,0 +1,28 @@
+About the job
+We are a bootstrapped start-up working on product-market-fit with low-code automation for mobile wallets. You want to build a product based on next generation software? Come join us on our exceptional journey.
+
+Tasks
+Solve problems by applying no-code / low-code technology is part of the job. You should love to code and reducing the amount of code makes you write better thus more valuable code.
+Build new features in a fast and simple way to help the team validate ideas and find / improve product-market-fit.
+Write code in some or all of our stack, which is currently Kubernetes, Postgres, Golang, Alpine.js.
+
+Requirements
+You are curious to understand problems and eager to find simple solutions (KISS).
+You are ambitious, knowing that only working hard and learning fast will make you reach your goals.
+You care deeply about the product, understanding the trade-offs between quality, performance, and time to ship.
+Full professional proficiency in English, including documenting and discussing complex technical and business matters. Fluency in German and/or Vietnamese is considered a big plus.
+
+Benefits
+You will join a deliberately small team of extraordinary people from all over the world with great ambition, exceptional endurance and creativity.
+You will work directly with our CTO and push our product driven development forward.
+Your professional development will benefit from fast pace, constant learning and start up dynamics.
+
+Our core values:
+Strive for personal growth
+Be humble, be confident, be awesome
+Enable each other with trust and an open mind
+Elaborate innovative and simple solutions
+Take ownership, think ahead, stay alert
+We have grit!
+
+We are looking forward to your application! Please include salary expectations and your earliest possible start date in Berlin and let us know in brief why this role is perfect for you. We want to know about you and don't need a long, formal letter.

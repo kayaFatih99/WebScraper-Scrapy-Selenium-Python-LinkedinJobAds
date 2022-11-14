@@ -1,0 +1,51 @@
+About the job
+About Us
+
+Our mission is to ensure that the future of work is bright. At Next Matter, we empower organizations and people to do their best work every day by providing a modern, easy-to-use work platform with the powerful functionalities of enterprise software.
+
+Join us on a hyper-growth journey in one of the most exciting, well-funded European Tech startups as a Backend Engineer to help us build the services and APIs forming the core of our product.
+
+About The Role
+
+As a Backend Engineer you will collaborate closely with the Product and Frontend team on designing new and improving existing features and APIs, while caring about the usability, performance, compliance and security aspects. You will identify and address technical debt, and take active part in code review.
+
+About You
+
+You have a strong sense of ownership, a passion for building products and take pride in high quality, performant and testable code. You can demonstrate persistence and willingness to go the distance to get things done. You are eager to bring new ideas to the table that will shape our product, technology, and company. You previously have, or are willing to work in a remote-first environment and enjoy working with people from a wide range of technical skills and backgrounds.
+
+Your Skillset
+Extensive expertise in developing scalable services and APIs with Python, Django and Django Rest Framework.
+Strong working knowledge of SQL. Experience with PostgreSQL is a plus, but not essential.
+Experience with ElasticSearch, Celery and Redis a plus, but not essential
+Experience with developing user interfaces with React, or similar modern web framework is a plus, but not essential.
+Strong communication and collaboration skills, both in technical as well as customer and product oriented scenarios.
+Ability to navigate the complete project lifecycle from design to production confidently.
+
+Benefits
+The chance to join a fast-growing, well-funded startup, with an experienced, tech-driven team and a validated product / business model.
+You get to contribute to shaping the future of our company and product, and see the impact of your work.
+The opportunity to work remotely, with flexibility in working hours. We are a remote-first team located in multiple European countries.
+Support for your personal and professional development.
+A competitive salary and equity options.
+Pick from several packages of equipment. We'll set you up with either an Apple MacBook Pro or a Lenovo machine along with any software you need.
+
+Company Mission
+
+The future of Operations is bright! The Next Matter Platform enables operations teams worldwide to build and run reliable, automated operations solutions effortlessly with their teams, systems, customers, suppliers and partners.
+
+Next Matter is the new standard system for Operations, bringing them on eye-level with Finance (ERP), Sales (CRM) and IT (Ticketing) who already have purpose-built cloud platforms.
+
+Our highly experienced team comes from a diverse set of backgrounds like strategy consulting, software and high-tech and is passionate to unshackle operations teams from running their work on highly manual, duct-taped solutions with email, spreadsheets, meetings and chat.
+
+How To Apply
+Please apply with your one-page CV (LinkedIn profiles are accepted as well) and a one-page maximum cover letter, highlighting relevant experience and motivation to join
+We interview fast, but thoroughly. Process is typically concluded in 1-2 weeks in the following order
+Step 1: Pre-screening conversation Recruiter
+Step 2: Coffee chat with Engineering Team Lead
+Step 3: Interviews, incl. coding challenge with up to 4 team members
+Step 4: Interview with CEO and COO
+Step 5: Reference Check and offer
+Availability: Immediate start date preferred
+Find out more about life and career at Next Matter on our FAQ page!
+
+At Next Matter, we value and celebrate diversity. Therefore, we are committed to creating an inclusive environment and equal opportunity for all employees. Also, research has shown that some groups of people are less likely to apply if they don't meet 100% of the job requirements. If you are interested in one of our jobs and don't meet all of the criteria, we encourage you to apply anyways, as you might just be the right candidate for us. We are committed to building a team that represents a variety of backgrounds, perspectives and skills and look forward to hearing from you.

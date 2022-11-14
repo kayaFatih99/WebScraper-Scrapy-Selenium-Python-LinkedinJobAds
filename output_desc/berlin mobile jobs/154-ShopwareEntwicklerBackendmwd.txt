@@ -1,0 +1,28 @@
+About the job
+Du bist engagiert, teamfähig, zeigst Leidenschaft und hast Spaß an interessanten Programmen und Projekten? Dein selbstständiges und analytisches Denken hat dir schon immer bei Problemlösungen geholfen? Zudem bist du kommunikativ, hast ein hohes Maß an Einsatzbereitschaft und kundenorientiertem Handeln?
+
+Dann freuen wir uns auf deine Bewerbung.
+
+Aufgaben
+
+Dein Aufgabenbereich:
+Du agierst als Backend-Entwickler*in für unsere Shopware-Umgebungen
+Du entwickelst komplett neue Online-Shops oder entwickelst unsere bestehenden Projekte weiter
+Du begleitest unsere Webprojekte im gesamten Entstehungsprozess: Anforderungsanalyse, Umsetzung, Testing und Bugfixing
+Du setzt Individualentwicklungen, ERP-Anbindungen und Plugin-Entwicklungen für unsere Kunden um
+
+Qualifikation
+
+Das bringst Du mit:
+Erfolgreich abgeschlossenes Studium der Informatik oder ausreichende Berufserfahrung als Webentwickler*in
+Gute Kenntnisse in Shopware (Template, Architektur und Plug-in-Programmierung), Server-Konfiguration
+Erfahrungen mit SQL sowie im Profiling und der Performance-Optimierung von Shopware-Installationen sind von Vorteil
+Fundierte Kenntnisse in PHP, JavaScript (jQuery & VueJS), Responsive Webdesign
+Kenntnisse in CMS wie WordPress wären ebenfalls von Vorteil
+Selbstständigkeit, Sorgfalt und einen hohen Qualitätsanspruch
+Teamfähigkeit, Digitales Mindset und ein Gespür für aktuelle Trends
+
+Benefits
+Dann kannst du dich auf ein sehr vielfältiges und interessantes
+
+Tätigkeitsgebiet, ein agiles und erfolgshungriges Team sowie Home-Office und kurze Entscheidungswege freuen.

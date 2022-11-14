@@ -1,0 +1,39 @@
+About the job
+Deine Aufgabe ist die Entwicklung von qualitativ hochwertigen Software-Anwendungen mit Hilfe neuester Technologien in abwechslungsreichen und spannenden Projekten unserer Kunden.
+
+Du ...
+verfügst über ausgeprägte konzeptionelle und analytische Fähigkeiten, eine selbstständige und lösungsorientierte Arbeitsweise sowie über ein hohes Maß an Qualitätsbewusstsein
+bist ein/e engagierte/r Teamplayer/in, der/die sich für neue Technologien begeistert und sein/ihr Wissen sowie Erfahrungen gerne weitergibt
+arbeitest leidenschaftlich mit agilen Methoden, bringst Deine Ideen ein und trägst so maßgeblich zum Erfolg des Teams bei
+verfügst über grundlegende Deutschkenntnisse und beherrschst Englisch in Wort und Schrift
+besitzt ein erfolgreich absolviertes Hochschulstudium im Bereich der Informatik oder eine vergleichbare Ausbildung bzw. Berufserfahrung
+stehst für Zuverlässigkeit und gute Kommunikationsfähigkeit sowie kundenorientiertes Denken und Handeln
+solltest fundierte Kenntnisse in der Softwareentwicklung mit Java/Kotlin in einigen der folgenden Bereiche und Technologien mitbringen:
+
+Java-Frameworks (Spring/Spring Boot)
+Konzeption und Implementierung von REST APIs
+Datenbanken (Postgres, MySQL, MongoDB, H2, JDBC, JPA)
+Containerisierung (Docker, OpenShift, Kubernetes)
+Werkzeuge (Jira, Confluence, Git)
+Continuous Integration (Jenkins, Gitlab CI)
+Build-Management (Gradle, Maven)
+Testautomatisierung (JUnit, Mockito, Cucumber)
+Messaging-Systemen (Kafka, RabbitMQ)
+
+
+Wir ...
+
+ermöglichen Remote-Arbeit je nach Projektbedarf
+begleiten und gestalten spannende Projekte
+bieten eine Festanstellung
+sind ein junges und dynamisches Team
+wenden neueste Technologien und Methoden an
+haben ein attraktives Bonusprogramm
+
+Über uns
+
+LE Software Solutions wurde von mehreren Freelancern 2017 in Berlin gegründet. Wir unterstützen Konzerne und mittelständige Unternehmen mit unserer langjährigen Erfahrung und Expertise in diversen IT-Projekten.
+Neueste Technologien und moderne Methoden sind unsere Leidenschaft. Mit unserer Expertise und unserem KnowHow möchten wir anspruchsvolle IT-Projekte mitgestalten.
+
+gn = geschlechtsneutral
+Stellenausschreibungen der LE Software Solutions GmbH richten sich stets an weibliche, männliche und diverse Bewerber/innen, unabhängig von Alter, Geschlecht, Religion, sexueller Identität, Behinderung, Rasse, ethnische Herkunft, und Weltanschauung etc. Eine Auswahl eines Kandidaten erfolgt ausschließlich qualifikationsorientiert. Aus organisatorischen Gründen können wir Bewerbungsunterlagen nicht zurück senden. Etwaige Aufwendungen im Rahmen des Bewerbungsprozesses können wir nicht ersetzen.

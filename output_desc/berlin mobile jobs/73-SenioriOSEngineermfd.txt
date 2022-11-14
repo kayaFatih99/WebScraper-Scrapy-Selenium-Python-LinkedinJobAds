@@ -1,0 +1,41 @@
+About the job
+At Shop Apotheke we are all about health! Our e-pharmacy serves 8M+ customers across Europe, and we welcome new users every week. We are growing the existing platform and adding entirely new services to it. Our goal is to enable our customers to live their healthiest lives possible.
+
+We are looking for a Senior iOS Engineer to join our team. Come, build with us!
+
+Tech stack
+Swift UI, Swift, REST, Fastlane, CircleCI
+
+Your tasks:
+Take ownership of the app, the way it feels for the customers and the way it performs.
+Play an active role in designing and improving the overall app architecture to support the massive growth of our iOS app
+Have autonomy and freedom in shaping how you work and taking initiatives within your team or within the developer community
+Architect and implement efficient and reusable native app components and user interfaces using Swift UI
+Work in a cross-functional team with an Agile Coach, Product Owner, UX, QA and other engineers
+
+Your profile:
+You have several years of experience in the field of software development for iOS with very good knowledge in: Swift and Swift UI
+You have a strong sense of ownership, ability to work independently and your code conforms to Clean-Code
+Bonus if you are familiar as well with Combine and concurrency
+You share our drive of being user-centric and you are interested in e-Commerce
+You favour simple solutions and like to ship them to the customers within days
+You want to make an impact on the product you build and the people around you.
+You like to test your code before your colleagues do it and you are experienced with unit and integration testing.
+You understand that seniority is not the number of years of experience but the ability to make a genuine impact, to be proactive and to take ownership.
+
+Remote work:
+Our offices remain open, but you are free to work from home, from any location in Germany. It is entirely up to you if you want to pop into the office every now and again, or if you work from home all the time.
+
+Our offer:
+An agile and outcome-oriented organisation, where respect for talent and honest work are fundamental values.
+Direct communication, respect and a collegial approach are vital points of our code of conduct.
+We are a diverse, international team and English is our working language.
+Your growth helps our growth. We have a training budget dedicated to the engineering team, and it’s up to you to choose what conferences or workshops you spend it on.
+In case you want to learn German, we support you with free German classes.
+You can devote 10% of your working time to personal development projects. Be it things that are close to your heart; experimenting with the rest of the team as part of the Open Friday initiative; trying out new app technologies; or tackling a problem that you wouldn’t deal with otherwise.
+For parents, we offer a monthly subsidy for kindergarten.
+28 days vacation per year.
+10% employee discount on all over-the-counter and beauty & wellness products in our online store.
+
+About us
+SHOP APOTHEKE EUROPE is an international e-commerce company with headquarters in the Netherlands, offices in Cologne & Berlin and further locations in Europe. As one of Europe's leading e-pharmacies with web shops in seven countries, we ensure that millions of people can rely on us for their health every day. We are growing extremely dynamically and are looking for more team players who want to continue this exciting development and the successful growth of the past years together with us!

@@ -1,0 +1,20 @@
+About the job
+Staff Android Engineer - £110-115k Remote
+
+We’re looking for a Staff Android Engineer to work on a startup building a fully open source encrypted messaging Platform.
+
+As a Staff Mobile Engineer, you’ll work on the Core android app- The company has 42M+ users worldwide.
+
+You'll be the subject matter expert for android you will contribute heavily to the android tech strategy while remaining hands-on.
+
+You can work fully remote from these countries: Czech Republic, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Portugal, Spain, Switzerland, UK,
+
+If you're a Staff Android Engineer with some of the following experience please get in touch:
+
+Strong knowledge of Kotlin
+Worked in an Agile/Lean development environment
+Have experience working on high-scale products (The application has 42M+ users worldwide)
+User focus and enjoy getting involved in product discussions
+Experience with Rx java or AI & Machine Learning or any kind of encryption application Is a bonus!
+
+Android Engineers, please apply with an up-to-date CV or email mohamed.abdulle@fewandfar.io

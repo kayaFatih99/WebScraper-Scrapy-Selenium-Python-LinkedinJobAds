@@ -1,0 +1,41 @@
+About the job
+Sameday Health is dedicated to healthcare as a complete experience. Our purpose is to create healthcare that centers around the client by combining a human-centered approach with intuitive technology to offer quality care in our clinics or at your door.
+
+Since the opening of our first clinic in Venice, CA at the height of the COVID-19 pandemic, Sameday has been focused on closing gaps in the healthcare system. We provide expanded healthcare in our 50+ locations across the country including LA, San Francisco, New York, Miami, DC, Boston, and more. Sameday Health serves its clients wherever, and whenever, it's most convenient for them.
+
+Inspired by the lotus flower's ability to thrive in even the toughest terrains, Sameday Health is on a mission to help our clients in their moments of need by providing hope and personalized care.
+
+To learn more about Sameday Health, visit us at Samedayhealth.com
+
+Your Impact
+
+We are constantly looking for people who will help us build and scale our systems. A backend developer will work with a team of other developers, as well as designers, to create software that supports users throughout their entire healthcare journey. As a backend developer at Sameday Health, you'll be responsible for helping establish engineering standards and practices and making sure that our codebase adheres to these standards.
+
+What You'll Do
+Build reliable and secure systems from day one that can handle thousands of patients daily as we scale diagnostic testing and healthcare services across the United States
+You'll work on our product's infrastructure, such as its databases and APIs. You will also develop new features by collaborating with our product teams and engineers, who are responsible for driving business results
+You help to solve our most complex problems and create impact for our customers. You build highly scalable, reliable backend services that power the health care industry's most innovative products
+
+What You'll Bring
+Allrounder experience (Backend services, RESTful APIs, API design, server-side flows)
+Skills in JS or another common backend programming language with an eagerness to fill any gaps in knowledge! (Node, Express.js, PostgresSQL, AWS)
+Backend programming language
+Front-end experience (JS/HTML/CSS)
+Ownership: You are a self-starter and are satisfied by owning large chunks of the product roadmap.
+Ambition: You are ridiculously ambitious and want to get the most out of your life.
+Data security and encryption understanding (This is healthcare—security and compliance are critical!)
+You care about more than engineering quality. Whatever you do, needs to have business impact. You can make trade-offs between speed and quality.
+
+Our Culture & Perks
+Beautiful headquarters office in Venice, CA
+Competitive market salaries and full employee medical benefits
+Comprehensive Medical/Dental/Vision benefits
+Employee premium coverage
+Dependent coverage
+401k match
+Autonomy to build something from the ground up
+Life Balance Initiatives and wellness benefits such as a subscription to Headspace, responsible time off, a dedicated Recharge Room, and daily healthy lunches provided when in office
+
+Other Duties
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.

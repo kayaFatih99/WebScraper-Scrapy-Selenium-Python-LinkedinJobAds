@@ -1,0 +1,46 @@
+About the job
+Du hast Lust darauf, die Entwicklung von mobilen Applikationen voranzutreiben? Du fühlst Dich in der Android-Welt zuhause? In unseren crossfunktionalen Teams kannst Du Dich auf kreative Weise austoben und Deine Fähigkeiten bei der Realisierung von großen, nativen Plattformen einbringen.
+
+Unterstütze unsere Teams und konzipiere und entwickle hochperformante Android Apps für unsere Kunden. Mit Deinen Kolleg:innen aus dem Team sorgst Du für Clean Code und regelmäßige Deployments.
+
+Aufgaben
+Gemeinsame (Weiter-)Entwicklung von Mobile Apps für Android in agilen Teams
+Aufnahme und Abstimmung von Anforderungen mit den fachlichen Ansprechpartnern bzw. Product Ownern
+Konzeptionelle Entwürfe von Architekturen und Definitionen von Schnittstellen (z. B. REST) sowie Verbindung mit externen Backend-Systemen
+Entwurf von Oberflächen und Verbesserung der User Experience
+
+Qualifikation
+3+ Jahre Berufserfahrung in der Entwicklung für mobile Endgeräte (Android)
+Sehr gute Kenntnisse in Java & Kotlin
+Kenntnisse der relevanten mobilen Frameworks, Libraries und Tools (inkl. Anwendung von Architektur Patterns wie MVC/MVVM)
+Wissen über aktuelle Trends und Technologien im Bereich Mobile Apps
+Motivation eigenständig technologisch und methodisch am Ball zu bleiben
+Die generelle Bereitschaft für externe Einsätze bei unseren Kunden in der Region
+Deutschkenntnisse: Sprachniveau: B2
+
+Benefits
+100% Remote Möglichkeit (bundesweit)
+Flexible Arbeitszeiten ohne Kernzeit
+12 Tage zur individuellen, persönlichen und fachlichen Weiterentwicklung pro Jahr
+Hohe Transparenz, viele Mitbestimmungsmöglichkeiten und sehr flache Hierarchien (unsere Geschäftsführung schafft sich ab!)
+Sabbaticals
+(Teil-) Subventionierte Benefits wie JobRad, JobTicket, Fitnesskarte, Massage
+Teamevents, Weihnachtsfeier, Sommerfest u.v.m
+
+WENN DU BIS HIER HIN GELESEN HAST, HABEN WIR DICH HOFFENTLICH ÜBERZEUGT!
+
+Wenn Du Dich in unserer Stellenbeschreibung wiederfindest, möchten wir Dich sehr gerne
+
+kennenlernen. Wir freuen uns über eine kurze Mail mit Deinen Kontaktdaten.
+
+Wir, Tamara und Konstantin, melden uns dann ganz kurzfristig bei Dir!
+
+Gerne kannst Du Dich auch telefonisch unter der Telefonnummer 0228 54881-385 bei uns melden. Wir freuen uns auf Deinen Anruf!
+
+Über uns
+
+Wir in der tarent verstehen uns als Digitalisierungsexpert*innen, die auf individuell angepasste
+
+Softwarelösungen spezialisiert sind und seit 1996 Kundenwünsche erfüllen. In den Projekten, die normalerweise 6 bis 12 Monate dauern, arbeiten wir in Teams, die inklusive Product Owner und Scrum Master eine Größe von 5 bis 8 Personen umfassen. Gestartet mit einigen wenigen Mitarbeitenden sind wir mittlerweile auf eine mehr als 200-köpfige tarent-Familie angewachsen. Die Familienmitglieder verteilen sich ebenso wie unsere Standorte auf ganz Deutschland. Neben unserem Headquarter in Bonn sind im Laufe der Zeit weitere Niederlassungen in Berlin, Köln und Freiburg hinzugekommen. Wichtig bei unserem Wachstum war es immer, dass das Wohl der Mitarbeitenden im Fokus ist und bleibt. So bieten wir viele Benefits, wie z. B. Remote-Arbeit, Vertrauensarbeitszeiten ohne Kernarbeitszeiten sowie
+
+planbare Auszeiten vom Job an. Zudem haben unsere Mitarbeitenden die Möglichkeit u.a. ein JobTicket und/oder ein JobRad zu bekommen. Die Gesamtunternehmung hat sich den agilen Arbeitsmethoden und der agilen Organisationsentwicklung verschrieben, ein hohes Maß an Vertrauen und Freiheiten sind für uns Selbstverständlichkeiten!

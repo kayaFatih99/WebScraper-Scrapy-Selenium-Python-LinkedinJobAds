@@ -1,0 +1,45 @@
+About the job
+LivePerson (NASDAQ:LPSN) is a Conversational AI company creating digital experiences that are Curiously Human. Every person is unique, and our technology makes it possible for companies, including leading brands like HSBC, Orange, and GM Financial, to treat their audiences that way at scale. Nearly a billion conversational interactions are powered by our Conversational Cloud each month.
+
+You'll be successful at LivePerson if you are excited to build something from the ground up. You excel by finding daily opportunities to grow at the same pace as the technology we're building, and you build partnerships that improve our business. Likewise, you're someone who sees feedback as a chance to grow and believe decisions powered by data are the norm. You care about the wellbeing of others and yourself.
+
+Overview
+Work collaboratively in a cross-functional team (PM, UX, engineering) team to ensure that our products are inclusive, meet the needs of people with disabilities, and meet accessibility compliance requirements
+You Will
+Evaluate the accessibility of Web technologies, mobile accessibility, and native applications using internationally recognized standards, guidelines and techniques.
+Triage accessibility issues for multiple products and be the subject matter expert on the team to guide other team members
+Advise our teams and customers on how to make our products conform with the standards of accessibility and maximize the usability for users with disabilities.
+Conduct quarter accessibility audit for the wide range of products and put together reports to help the team and leadership understand where the gaps are
+Design and Implement the accessibility fixed within our products including our mobile SDK and mobile apps
+Provide technical updates and leadership on the progress of accessibility programs
+You Have
+At least 8 years of software development experience
+Experience with at least one of the following languages and related development tools: Objective-C, Swift
+Experience with assistive technologies
+Experience using accessibility APIs on any platform is helpful, but not required.
+Knowledge of either UIKit or AppKit APIs is helpful, but not required.
+At least 1 year of experience with native development for iOS
+At least 1 year of experience with Swift for iOS
+At least 1 year of experience with Objective-C for iOS
+At least 1 year of experience in setting up CI/CD for the iOS apps
+BS/MS in Computer Science or equivalent degree or equivalent experience
+Experience shipping customer facing apps to the App Store
+Advanced familiarity with GitHub
+Experience building native frameworks or SDKs that are used by other apps is an advantage
+Knowledge of the Android platform or a will to learn and become an expert in both Android and iOS is an advantage
+Benefits
+Health: medical, mental, dental, and vision
+Time away: vacation, dependent care, holidays, wellness days, and more
+Financial: 401K, ESPP, Basic life and AD&D insurance, long-term and short-term disability
+Family: parental leave, maternity support, fertility services
+Development: tuition reimbursement, native AI learning
+Additional: WFH support, 24/7 access to professional counselors, voluntary ins. coverage, exclusive perks and discounts
+Why You'll Love Working Here
+
+Your entrepreneurial spirit will be supported. We love team members who chase down their big ideas, become experts, help colleagues, and own their work. These four company values guide our continued, holistic growth as individuals, as teams, and as a global organization. And to further make our point, let's just say we're very proud to be on Fast Company's list of Most Innovative Companies and Newsweek's list of most-loved workplaces.
+
+Belonging at LivePerson
+
+At LivePerson, people from diverse backgrounds come together to make an impact and be their authentic selves. One way we share and connect is through our employee resource groups such as: Live In Color, LP Proud, and Women In Tech. We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local law.
+
+We are committed to the accessibility needs of applicants and employees. We provide reasonable accommodations to job applicants with physical or mental disabilities. Applicants with a disability who require a reasonable accommodation for any part of the application or hiring process should inform their recruiting contact upon initial connection.

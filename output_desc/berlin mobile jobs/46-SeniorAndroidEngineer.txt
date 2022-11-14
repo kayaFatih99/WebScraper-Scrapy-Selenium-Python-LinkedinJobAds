@@ -1,0 +1,11 @@
+About the job
+Senior Android Engineer
+Remote in Germany OR Italy
+
+Trust in Soda are partnered with a Global D2C Tech Business, headquartered in Germany who are looking to expand their mobile team. Currently 16 people, split into 3 different sub teams. You would be joining a cross functional team of 6 and developing new features for a high performance consumer facing app used by 9 million monthly users.
+
+Tech Stack: Kotlin, Dagger, Rx, Coroutines, Espresso, Gradle Modules, GraphQL
+
+In this role you will play a big a bit role in contributing to architectural design, technical planning of projects and features, as well as collaborating on API design with other teams. We're looking for engineers who are up to date with latest tech and who are passionate about al things Kotlin and Android. If you have built new features of a large-scale app before, please get in touch for more details.
+
+This company pay competitive benefits and salaries and have a flexible working policy too

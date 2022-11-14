@@ -1,0 +1,46 @@
+About the job
+Die apo.com Group ist eine der führenden Online-Apotheken im deutschen Markt mit drei Standorten in Europa. Wir stehen für Innovation und Nachhaltigkeit gepaart mit einer ausgeprägten Leidenschaft für intelligente Technologien und Digitalisierung. Dafür setzen wir auf pharmazeutische Kompetenz, innovative digitale Services und KI gestützte Logistik Technologie.Wir unterstützen Menschen dabei, gesund zu werden und gesund zu bleiben.
+Um unser starkes Wachstum weiter voranzubringen suchen wir Persönlichkeiten, die die digitale Transformation der Gesundheitsversorgung mitgestalten möchten.
+Für unseren Standort in Leipzig suchen wir zum nächstmöglichen Zeitpunkt in Vollzeit (40 Stunden/Woche) einen Backend-Developer (m/w/d).
+
+Deine Aufgaben bei uns
+Du bist verantwortlich für die Neu-und Weiterentwicklung von Shop-Backend und Middleware-Systemen
+Du beschäftigst dich mit den neusten Technologien und Trends zur kontinuierlichen Verbesserung der Produkte
+Du steuerst den Entwurf & die Erstellung von REST/SOAP-API's zur Anbindungen interner Module (Microservices) und externer Plattformen
+Die Erstellung von Unit- und Integrationtests im laufenden Entwicklungszyklus gehören auch zu deinen Aufgaben
+
+Das bringst du mit
+Sehr gute Kenntnisse in PHP (OOP)
+Gute Kenntnisse in relationalen Datenbanksystemen (bevorzugt MySQL)
+Erfahrungen mit PHP-Frameworks (Laravel/Symfony)
+Ein Selbstverständnis im Umgang mit Versionsverwaltungssystemen (GIT/SVN)
+Folgende Begriffe sind dir nicht unbekannt:
+SCRUM
+GitLab/Bitbucket
+Clean Code
+IDE's (PHPStorm/Eclipse)
+Docker oder andere Virtualisierungslösungen
+Mit Jira/Confluence
+SwaggerHub
+NoSql Datenbanken (Redis)
+Volltextsuchmaschinen (SphinxSearch/Solr)
+RabbitMQ
+Guzzle
+Bootstrap
+Gute Englischkenntnisse
+
+Das bieten wir dir
+Einmaliger Startbonus von 3.000,-€ *Auszahlung nach der bestandener Probezeit (Bewerber von Personaldienstleistern ausgeschlossen)
+0-100% Remote Work, ganz deinem Wunsch entsprechend
+Einen unbefristeten Arbeitsvertrag
+Eine leistungsgerechte, übertarifliche Vergütung
+30 Tage Urlaub pro Jahr
+Schulungen, Workshops und Side-By-Side-Coaching, wir unterstützen dich bei deiner Weiterentwicklung
+JobRad-Kooperation
+Sehr gute Sozialleistungen u.a. mit eigener, subventionierter Kantine, kostenfreier
+Getränkeversorgung (Tee, Kaffee, Softgetränke), Personalrabatt, moderner Ausrüstung, Team- und Firmenevents u.v.m.
+Kostenlose Nutzung unseres firmeneigenen Fitnessstudios
+Positive Dynamik und Wachstumsumfeld im Zukunftsmarkt Gesundheit
+Hardware nach Wahl
+
+Wir freuen uns auf deine vollständige und aussagekräftige Bewerbung mit Angabe deiner Gehaltsvorstellung sowie deines Eintrittstermins.

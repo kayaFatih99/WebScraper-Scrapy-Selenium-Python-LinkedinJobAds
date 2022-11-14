@@ -1,0 +1,64 @@
+About the job
+Vectornator, by Linearity GmbH, is a powerful and award-winning vector graphic design software that simplifies the design creation process for everyone with innovative features and trusted by leading brands like Apple, Disney and Microsoft. Vectornator offers cross-platform functionality (iPad, iPhone, Mac) without compromising on power or quality. Our powerful software has reached over 6M downloads and has raised $30M+ in funding from one of the biggest Venture Capital firms globally (EQT, HV Capital & 468 Capital) and we have been recognized as one of Europes Top B2B rising 100 "Soonicorns" by Sifted. Our mission, revolutionize the way people design all over the world. To accomplish our mission we need YOU!
+
+If you breathe design, love creating new ideas, and are an outstanding team player, this position is for you.
+
+We're an international mix of driven, passionate and talented people all brought together by a desire to create the best next-generation graphic design tool that the world has seen. We are a flat organization that empowers our people to be brave and do what they think is best for the team and the company. We believe in the power of collaboration, brainstorming and last but not least, in the super power each of us has hidden.
+
+We are going through an exciting phase of growth and are looking for an experienced Senior iOS Engineer. You will be part of the Canvas Integration team which builds the connection between UI & rendering.
+
+Life as a Senior iOS Engineer at Linearity:
+The bulk of your time will be working on our critical tool interactions on the canvas
+Architect new features and expose them via clear APIs that other developers will use
+Write unit tests to ensure code quality
+You will closely collaborate with our designers to build creative and innovative design features
+
+Don’t just take my word for it, here's what the Engineering team has to say ….
+
+Kai - VP of Engineering 🍎
+
+“The team is very enthusiastic, made up of loads of Apple fans that are into their work. I love how the development and design team work closely together using the latest technology to create innovative solutions”
+
+Sofia - Engineer 💡
+
+”The engineering culture feels that it has an Intention of improving things, doing it in a way that people feel comfortable and involved & that's what stands out to me”
+
+We would love to hear from you, if you have.......
+A Tech-related bachelor’s degree or equivalent
+Years of experience developing native iOS applications
+Great experience working with Swift & Objective-C
+A great understanding and hands on experience with unit testing
+Deep understanding of Core Graphics. Experience in Core Animation (beyond simple animations) is a plus
+Expertise in UIKit
+Knowledge in performance measuring/tuning
+Experience with object-oriented programming and functional programming
+Understanding of time and space complexity of an algorithm
+Proactive attitude, startup mindset, and pragmatic
+Strong interest in Apple's latest technologies and follows best practices
+Fluency in English and good communication skills
+
+Salary, Benefits & All Things Included:
+
+Ways of working:
+Flexible working culture/schedule (your choice of how you would like to work)
+Hybrid, 100% remote from anywhere in the world or relocate to Berlin (to work in our mobile office-work onsite in our modern office in Berlin )
+
+Paid time off💰🏖:
+27 vacation days and 1 extra day each year of employment
+Family first: 1 year paid maternity leave & 4 months paid parental leave
+Social responsibility: Take 2 days off to volunteer in a charity event
+Period leave: take 1 day off per month
+Recharge: 4 weeks of additional leave for every 5 years of employment
+
+Additional Benefits:
+YourCampus benefit app: Through this app you get a budget of 145 EUR and access to a wide range of benefits, starting from gym memberships, coaching sessions to vouchers for your favourite webshops.
+Birthday Gift: $50 euro to treat yourself to a birthday gift on your birthday 🎁
+Further education: Training budget and free language classes with Babbel
+Relocation budget & assistance
+Latest Apple working equipment
+Fun Stuff: Game events, Kahoot sessions, and onsite parties in Berlin
+
+https://vectornator.recruitee.com/o/senior-ios-engineer-canvas-integration-team-remote-mfd - Apply via our website
+
+Location
+Berlin / Remote

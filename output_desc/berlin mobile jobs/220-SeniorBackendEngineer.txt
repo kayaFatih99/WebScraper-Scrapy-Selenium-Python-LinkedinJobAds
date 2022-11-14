@@ -1,0 +1,27 @@
+About the job
+Our engineering teams architect, develop, and test our products. As a Backend Developer, your mission is to build scalable and fast backend software for our platform which serves millions of views monthly. At InterNations you will contribute to connecting global minds and making expat life a great experience.
+
+As a member of an international, cross-functional Product Experience Team (PXT), you will architect, implement, and test new functionality and maintain existing functionality using web technologies.
+
+Our PXTs organize themselves using Agile methodologies and you will work closely with your Product Manager and your team on the feasibility of concepts and upcoming changes. You will write automated tests at the unit, integration, and acceptance levels to assure quality and longevity of our products and a sustainable pace for future changes.
+
+As part of the greater engineering organization, you will lead and take part in cross-team initiatives: architectural changes, refactoring, and establishment of best practices.
+
+What we are looking for:
+We are working with PHP, so a relevant experience in a language like PHP, Java, Scala, Kotlin, Python, or Ruby is needed
+Experience with a modern web framework like Symfony, Zend Framework, Laravel, Rails, Spring, or Django
+Experience with automated testing, whether it’s unit, functional and/or acceptance testing
+A strong interest for working with big datasets in relational databases, search indexes, or key-value stores
+Relevant interest or experience with distributed systems and scalability
+What we value:
+Bettering our skills, teaching each other and learning ways to build better software
+User testing, experimentation, automated testing and continuous integration to gain meaningful feedback for what we do
+Fostering collaboration and cooperativeness
+
+Technologies we use: PHP, Symfony, MariaDB, Solr, RabbitMQ, Redis, Memcached, Composer, Behat, PHPUnit
+
+What we’re working on right now: Get in on the ground floor of our brand-new SPA and design system that is transforming our entire product and development experience!
+
+Where we work: Although we’re based in Munich, Germany, our entire staff works across Europe. We are remote-first: all of our colleagues are free to work from home, the office, or elsewhere—or even a combination of those. We only ask that you join us from Europe.
+
+Sound interesting? Then send us your CV today!

@@ -1,0 +1,66 @@
+About the job
+Company Description
+
+upday is a media and tech company and the leading news app in Europe with more than 25 million MAUs.
+
+Founded in 2016 as a joint project between Axel Springer and Samsung Electronics, upday became profitable after just 3 years in the market.
+
+If you’re looking to join a dynamic and international team full of fantastic talent that has the energy of a start-up but the stability of an established media company - look no further, we are your match!
+
+You will be doing:
+
+🚀 Develop our features in pair-programming sessions, followed by code reviews
+
+🚀 Build Microservices which are written in Kotlin, running in Kubernetes and hosted on AWS
+
+🚀 Enrich the backend team and raise it to a higher level
+
+🚀 Manage many varied and exciting projects and work with external, interesting and international clients on enabling to realise their products
+
+
+You are bringing:
+
+👩‍💻 You have a good understanding of the entire lifecycle of building services with clients. This means responsibility for engaging and improving the whole lifecycle of services from inception and design, through deployment and operation
+
+👩‍💻 You love software that is well crafted; You are excited about what you plan to build with your team and you actively own your career always thinking about the next step to bring it forward
+
+👩‍💻 You have an eye for software design and can talk eloquently on a range of topics due to your experience and also from reading and experimentation
+
+👩‍💻 You have 6+ years of work experience in building B2B products and B2C applications - production-ready applications would be a plus
+
+About our Backend-Team:
+
+The backend team is self-organizing and highly autonomous working with agile methodology driven by our company OKR’s. You’ll be working directly with our Product Owners and stakeholders in a collaborative and cross-functional manner.
+
+This approach requires a huge amount of teamwork and is not always perfect. We believe in the quality of the services which we build but in case something goes wrong we have engineers on-call. Generally, we are solving problems and making decisions as a team. If you have working experience building production-ready applications, great! We want to know more.
+
+Which frameworks do you use? How do you test your applications? What patterns and technologies do you use to make these apps failure tolerant, scalable, reliable and resilient? We are highly interested in the problems you faced. The more the better!
+
+Why joining us?
+
+Full remote within the european union
+Flat hierarchies, fast decision-making processes and an inspiring high-pace environment
+A great opportunity to work with talented and diverse colleagues from different departments of the upday family (technology, product, marketing, editorial)
+In addition to free drinks, fresh fruit, you will receive discounts in the Axel Springer canteen|restaurant and benefit from other advantages of belonging to the company
+We are located in a brand new and terrific open-plan office in the heart of Berlin
+This position is possible fully-remote or hybrid
+A lot of team building event such as summer party, lasertag, christmas party, boat party, karaoke
+Frequent pizza and beer events and afterworks on our 360 rooftop
+Queer seite regroups LGBTQIA + people working for AS group who organise events, talks and pushes LGBTQAI+ agenda within the AS group and drives new projects to make AS more inclusive.
+Every year we do an employee nps survey to measure satisfaction
+Feel free to check our alumnis reviews on Glassdoor & Kununu
+
+What we offer?
+
+We provide an onboarding in terms of office equipment in all of the regions and countries through an external service provider (Mac or Microsoft notebook, and Samsung phone)
+We provide visa advisory support through a external service provider
+We participate and or host a lot of amazing events such as Tech Con | Women in Tech | Women mentoring programm | Hackathons | congresses | job fairs
+
+Are you interested? Looking forward to reading your application!
+
+Stella Bailleux will be your contact personn during the recruting process.
+
+Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs (impostor syndrome) unless they meet every single qualification. At upday we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+A small insight into how we live and implement diversity and inclusion at upday can be found here: https://www.diversity.axelspringer.com/di-stories/upday
+We are looking forward to receiving all applications regardless of gender, nationality, ethnic and social origin, religion, ideology, disability, age, sexual orientation and identity.

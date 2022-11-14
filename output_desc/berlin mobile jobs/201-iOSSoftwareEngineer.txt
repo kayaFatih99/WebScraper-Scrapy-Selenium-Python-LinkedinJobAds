@@ -1,0 +1,87 @@
+About the job
+Company Description
+
+We are an equal opportunities employer and place where everyone is welcome. We strongly encourage people from minority backgrounds, LGBTQIA+, parents, and individuals with disabilities to apply. If you need reasonable adjustments at any point in the application or interview process, please let us know.
+
+In your application, please feel free to note which pronouns you use (For example - she/her/hers, he/him/his, they/them/theirs, etc).
+
+We’re one of the world’s largest privately owned real estate tech companies and a subsidiary of Axel Springer. Our mission is to unlock everyone’s perfect place! Some of Europe’s best known digital real estate marketplaces and brands form part of our Group, they are: 🇫🇷 Meilleurs Agents, 🇫🇷 Groupe SeLoger, 🇧🇪 Immoweb, 🇩🇪 Immowelt, 🇪🇸 Housell and 🇮🇱 Yad2.
+
+We also invest in innovative business models which shape the future of how people buy, sell, rent or lend properties and hold minority participations in companies such as: 🇬🇧 PurpleBricks, 🇩🇪 Homeday, 🇺🇸 Zumper and 🇺🇸 Parcel.
+
+Our ambition is to be the leading Employer in PropTech across Europe and this is a pivotal time to join us as we embark on this journey enabling us to help unlock everyone’s perfect place!
+
+The vacancy is open in Berlin, Hamburg or Nürnberg.
+
+Job Description
+
+WHAT WE DO IN THE MOBILE TEAM
+
+Our current apps help millions of users across Europe (mainly Belgium, France and Germany today). In order to unlock everyone's perfect place, we are taking all the knowledge and experience we have gained over the years to renew our apps and create new products that will be scalable across all European countries.
+
+To achieve this, our international teams share their experiences, cultures and beliefs to build the next generation of real estate Apps in Europe.
+
+As true experts in native technologies, we are recruiting the best engineers in Europe to take up the challenge.
+
+As a great team, we are recruiting team players that are not afraid to learn, share and collaborate in transparency in a trustful environment.
+
+Come and take part in this human adventure that will help you progress in your professional career.
+
+Qualifications
+
+WE ARE LOOKING FOR AN INDIVIDUAL WHO CAN:
+Be a team player
+Collaborate and communicate with transparency in mind
+Design and develop iOS apps for the Group's various brands
+Continuously improve the quality and performance of our apps
+Ensure the follow-up and maintenance of our apps
+Follow a safe delivery process through CI/CD in close collaboration with product managers
+Be a driving force in implementing new innovative features (virtual tour/3D, voice recognition, geofencing, etc.)
+Monitor and create prototypes around new technological opportunities (Apple Watch, Apple TV, MacOS, ...)
+
+AN INDIVIDUAL WHO HAS:
+At least 1-2 years (2+ years is a plus) experience as an iOS developer and good knowledge of Swift
+Solid grounding in the particularities and constraints of application development
+Great autonomy combined with desire to learn and share his/her knowledge to make him/her the ideal candidate for this position
+Organization and know-how to stay light to integrate a friendly and fun team.
+Good knowledge of the use of REST services, of the implementation of the clean architecture
+Capacity to work on big projects used by hundred of thousands of users per day
+
+SKILLS REQUIRED:
+Xcode / Swift
+Git / Source Code Management (GitHub, GitLab, …)
+A good understanding of software architecture
+Reactive programming (RxSwift and/or Combine)
+UI frameworks (UIKit and mainly SwiftUI)
+Dependency management
+Basic knowledge with testing (Unit, UI)
+Basic knowledge with CI/CD
+Communication with RESTful web-services
+Excellent communication skills
+Knowledge of English is mandatory, French, Dutch or German are assets
+
+SKILLS THAT ARE A PLUS:
+Knowledge of Atlassian suite (Jira, Confluence)
+Experience with Scrum methodology
+Experience with Swift Package Manager and/or CocoaPods
+Knowledge of Clean Architectures
+Current projects: Clean Swift, MVVM+C, VIPER
+Future projects: The Composable Architecture (TCA)
+Experience with A/B Testing
+Experience with Tracking
+Experience with Bitrise (CI/CD)
+Experience with Firebase
+Knowledge of accessibility
+Knowledge of white-label apps
+Experience with design systems
+
+Additional Information
+
+WHAT WE OFFER YOU:
+A professional but friendly and stimulating working environment
+Opportunities for personal development in line with business growth (trainings, conferences, ...)
+Working on apps in a quality-first mindset
+We are one of the leading PropTech platforms in Europe. If you’ve ever rented or purchased a property then you may have used one of our classified portals. This is a great time to join us to help elevate our AVIV brand.
+The opportunity to work hybrid within our operating footprint with international travel to our locations in France, Belgium and Germany.
+The autonomy to work in a style which suits you to be the most productive
+The freedom to tell us which tools you need to be successful in your job so we can set you up to make it happen.

@@ -1,0 +1,30 @@
+About the job
+OWNR is a growing PropTech company, with headquarters in Berlin and Hamburg, that helps people become house owners. We are developing a digital platform for our customers and need your support as an experienced Software Developer. You can find our tech stack on stackshare.io.
+
+Tasks
+You prove your colleagues' ideas and help to find reasonable technical solutions
+You develop functions and APIs to simplify internal processes and offer our customers the best user experience on our platform
+You work cross-functionally with our OWNR teams and support decision-making
+You improve our digital services by making ideas for further development
+If you are interested, you will contribute to the optimization of our IT processes in deployment and in the control of our infrastructure
+
+Requirements
+You have at least 3 years of experience in backend development with TypeScript and Node.js
+You enjoy working with people and communication is an important part of the working process for you
+The structuring of data (MySQL) is easy for you
+You have implemented various applications with AWS (e.g. Lambda, Serverless)
+You communicate fluently in English
+Optionally, you already have experience in the real estate industry
+
+Benefits
+You can actively help to make decisions regarding procedures and the selection of technologies!
+Your personal development is important to us, so we develop a personnel development plan with and for you!
+You get sustainable and structured training about our service and product!
+You get a high responsibility in a growing company!
+A permanent employment contract and the opportunity to work remotely or in our offices in Berlin or Hamburg!
+A small number of meetings, which aren't boring!
+Flexible working hours, no overtime!
+Regular team events!
+AND: You like and know how to work independently. We will not disturb you that much!
+
+We are very happy to meet you! Apply there or online via our homepage!

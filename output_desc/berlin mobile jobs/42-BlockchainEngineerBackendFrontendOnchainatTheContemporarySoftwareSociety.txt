@@ -1,0 +1,25 @@
+About the job
+We are looking for inspiring working students with a background in any area of software engineering. We are looking for frontend and backend people of all kind.
+
+We are not bound to specific languages and frameworks: It's not the tool, it's the artist.
+
+We pay 15-25 EUR per hour, depending on your experience.
+
+Tasks
+building decentralized applications either in the backend, frontend or in smart contracts
+supporting our experienced team in day to day software tasks
+writing tests and helping in quality assuarance
+
+Requirements
+fluency in at least two languages and one framework, we don't care which one as long as you are enthusiastic about it
+a good understanding on computer science fundamentals
+a commitment to learn new things in a thriving industry
+active communication skills; we don't expect you to be an expert, we don't expect excellence on day one and we don't expect error free operations - however we expect you to be able to communicate transparently about all of this
+Here are a few keywords about tech we are using regularly:
+
+Python, Django, AWS, Docker, Terraform, Rust, Java, Go Lang, TypeScript, React, Web3, Solidity, HardHat, Truffle, Ethereum, Polygon, Solana
+
+Benefits
+no legacy code, no corporate stacks, bleeding edge tech only
+a beautiful office in XBerg as an option, work-whereever-you-want policy
+learn and get trained by a team of seasoned pros to become an expert in a thrilling field

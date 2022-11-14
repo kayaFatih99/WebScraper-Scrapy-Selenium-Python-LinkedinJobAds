@@ -1,0 +1,28 @@
+About the job
+Java Developer (FinTech, Spring Boot, Kafka, Kubernetes, Big Data) - Berlin, remote - up to €85,000
+
+One of Germany’s best known companies are founding a bank with the aim of creating a new dimension in mobile banking. Here’s a chance for a great Java Developer such as yourself to work at the forefront of technology!
+
+Experience the dynamics of a FinTech Space with agile processes, short decision-making times and the chance to progress quickly in a great team.
+
+Your tasks will include:
+Development of a new platform for the innovative and simplified management of financial investments
+Agile software development in the Java environment within a cross-functional team
+Integration of interfaces to international financial service providers
+You work closely with product management and the executive board
+You open up new topics and technologies, deepen the knowledge you have acquired and thereby actively contribute to our team
+
+What you bring with you:
+2 years of professional experience as a developer
+Sound knowledge of Java
+Quality awareness; You work independently and solution-oriented
+
+What’s on offer?
+With more than 10 years of success in the market, the stability of an established online company
+Steep career opportunities through continuous growth - individually choose the path to a becoming a technical specialist or develop into a manager
+Central location with excellent transport links
+Free RMV job ticket (for family + friends too), unlimited technical training, company events
+
+Keywords: Java, software, development, FinTech, GIT, Maven, Jenkins, Kubernetes, agile, Big Data, REST, SOAP
+
+Interested? I’d love to go into more detail and have a full job specification available upon request.

@@ -1,0 +1,60 @@
+About the job
+OUR PHILOSOPHY
+
+Who or what is SocialHub?
+Founded in 2009, we’re an established internet startup located in Ingolstadt, Germany. Our team of 70 has lovingly crafted a unique set of tools, that allow companies like Deutsche Bahn, Rossmann and Media-Saturn to manage their Social Media profiles with ease. This product is called SocialHub. Now we’re expanding our development team and we’re on the lookout for like-minded people, who can help us push our software to the next level!
+
+Here at SocialHub, you would have the chance to work with a broad range of individuals. From business strategists to tech geeks, everyone has the freedom and support to be creative in whatever they do.
+We are all different and work according to our own rhythm, but we are all united under our company philosophy: "We believe that work should be fun"!
+
+NodeJS - Javascript
+So far, we have engineered a really clever piece of software that's in daily use at some of the biggest and most advanced Social Media Teams in Germany and Europe.
+Building on this success, we would like to find another smart, passionate and enthusiastic engineer to help us make our software even better for our customers!
+If you are looking for a job in an established (but still growing) SaaS startup and you love to build software that’s both fun and easy to use, this could be it!
+
+DOES THIS SOUND LIKE YOU?
+You like writing automated tests so you notice regressions on your code early on
+You love to see your users happy. Therefore you don’t hesitate to help clients if the need arises for solving bugs.
+Using a DVCS like git comes natural to you
+You appreciate constructive criticism and are able to provide such yourself when reviewing others code
+You have a thing for documenting your work because you know your future self will appreciate it
+
+WHAT OUR EMPLOYEES SAY
+https://www.kununu.com/de/socialhub
+
+YOUR REQUIREMENTS FOR THE JOB
+At least 3 years working experience in a development team and experience in developing scalable web apps
+Experience in building Node.js based APIs with Express.JS
+Knowledge of common web security best practices (e.g. OWASP 10)
+You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)
+
+THESE SKILLS WOULD BE BENEFICAL FOR YOU
+You have experience with technologies like Redis, RabbitMQ and the ELK stack
+Experience with non-relational databases
+Knowledge of mongodb and its query syntax
+You can analyze and resolve performance issues with mongodb queries and indices
+You’ve worked with gitlab and gitlab ci before
+Knowledge of the Social Network API’s e.g. Facebook, Twitter, etc.
+You’ve run your own Web Server in the past and know your way around Linux
+
+WHAT WE HAVE TO OFFER
+Flexible working hours and the possibility to work remotely.
+An enthusiastic and friendly team in a productive working environment.
+Varied and challenging activities in a constantly growing and future-oriented industry.
+Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.
+An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing.
+Always a cold Fritz-Kola in the fridge (if you decide to stop by our office).
+Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague & Spain. Our next one is in Portugal.
+
+SOUNDS INTERESTING FOR YOU?
+
+If that sounds like a dream job to you then send us your application.
+
+Your application can be as short as you like it to be. It doesn’t have to be formal. We like to know what you have done so far, what you love to do and some links to projects you’ve done (e.g github link or similar).
+
+Please tell us your availability and your salary expectation p.a..
+
+Earliest possible starting date: asap
+
+We are looking forward to meeting you!
+Your SocialHub team

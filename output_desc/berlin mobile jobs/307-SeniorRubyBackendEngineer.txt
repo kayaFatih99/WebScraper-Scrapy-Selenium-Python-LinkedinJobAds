@@ -1,0 +1,33 @@
+About the job
+Aklamio is looking for a Senior Ruby Backend Engineer that will help us develop our products around our SaaS referral marketing solutions. As you work with our scrum team, you’ll be writing high-quality code and making sure we follow the best practices patterns. Be part of a team that will have a significant impact on our product!
+
+Who we are
+At Aklamio, we believe that customers, their networks, the power of word-of-mouth and customer insights are a company’s best assets. With our Customer Incentives Platform, we help enterprises all around the world grow by acquiring new customers, and by rewarding loyal customers and converting them into brand advocates.
+Founded in 2011, Aklamio has become Europe’s most successful incentives marketing platform with offices in Berlin, London, and Madrid. Aklamio was ranked 2nd fastest growing technology startup in Germany (Financial Times, Europe’s 1000 Fastest Growing Companies) with minimal external funding.
+
+What you’ll do
+As part of our international development team, you will further develop and improve all our products, services and sites around our SaaS referral marketing solutions
+In collaboration with the frontend team, you will implement the API’s needed for laying the foundation for great products
+Extend and maintain our current infrastructure (APIs and MVC) and ensure, it follows best practices patterns, having good performance and security measures as well as a good test coverage
+Working closely with the whole development team, you will contribute to design and extend the architecture of our system
+You work in a lean and agile manner (Scrum)
+
+What you’ll bring with you
+You proudly have of 3+ years of proven experience in Ruby and technologies like Rails, Sinatra and Rack
+Good understanding of web technologies in general and know how to build secure and robust applications
+You know how to avoid the pitfalls of Caching and Cache invalidation
+Testing with RSpec, Capybara or similar frameworks is the way you prove that your code works as specified
+You have sound knowledge in working with production-grade databases (MySQL, Redis)
+Enjoy building reliable and performant APIs based on REST or GraphQL
+Ensure clean code style and high quality with static code analyzers like Rubocop, Brakeman or similar is obvious to you
+Previous experience with Git and version control management software like Gitlab or Github is expected
+Experience with front end development (JavaScript) and DevOps skills are a plus
+
+Why join us
+Become part of an excellent team in one of Europe’s fastest-growing and most exciting startups. We offer many possibilities for development in an international environment with flat hierarchies and fast decision making. Innovation, creativity and ownership are our top priorities! At Aklamio we are committed to providing a mutually respectful work environment. We believe diversity, team building and inclusion among our teammates are essential to our success.
+
+We offer
+Challenging team and career growth opportunities
+Flexibility: Live and work where you want. Home office is the new normal for us. Live and work anywhere you choose; the comfort of your home, favourite coffee shop or wherever you please.
+Personal and career development: 1000 EUR yearly budget for training so you can expand your skills professionally or linguistically
+Belonging: enjoy virtual and in-person team events. Team building is fundamental for us.

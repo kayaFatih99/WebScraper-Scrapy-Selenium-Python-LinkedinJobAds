@@ -1,0 +1,32 @@
+About the job
+Papyrus Author has helped authors write better books for more than ten years in Germany. Our software stands apart from its competition because we connect every step of the authoring process, from mapping out an idea, to writing your first page, to producing the ready-to-publish e-book. We love giving our users the tools to work smarter and provide a polished and comfortable writing experience.
+
+Tasks
+
+You’re competent in C / C++ and are looking to join a classical, long-term software project. You love that C++ can do more than just embedded systems.
+Writing C++ code for a unique software that is deeply loved by its users.
+Development of new software modules and technologies in C++ and Qt.
+Modernization of the procedural C-kernel of our word processor / office suite.
+Design and implementation of innovative software in a great team. We all work together, questions can usually be discussed immediately. Everybody that joins a discussion understands software concepts.
+Co-development of our mobile version with Qt.
+Creating documentation for sustainability and maintainability of the code.
+
+Requirements
+Teamwork, eagerness to learn, stress resistance and a sense of responsibility.
+Excellent in developing software with C / C++.
+Experience in procedural and object-oriented programming.
+Unafraid to work with other developer’s code.
+Working with and thinking in classical / oldschool C / C++ code as well as modern C++.
+The odd "Goto” in the code won’t make you despair. At most a little.
+University diploma and/or adequate professional experience in computer science, especially C / C++ programming, developing and software engineering. You are self-taught without a degree? Convince us of your talent.
+Competent use of the English language. German can be useful, too.
+
+Benefits
+A fulfilling and exceptional job, a permanent position, and competitive salary.
+Excellent work climate in a family-owned software business.
+The chance to rise into a key position in a stable and growing international company.
+Flexible, programmer-friendly work times.
+Being part of something that brings joy to its users. Working with authors is fun!
+Remote work space - we are not bound by an office.
+
+Join the Papyrus Author Team. We're looking forward to your application!

@@ -1,0 +1,35 @@
+About the job
+Job Description
+
+Wolt is in a phase of rapid growth and we have been expanding from servicing restaurant food delivery to other delivery markets as well, which means that our Android application also needs to adapt and evolve to meet these new needs. And to make this possible, we are now looking for some reinforcements! So, if you’re an Android developer with fresh ideas who would like to join us in building the future, then read on! 🚀
+
+World-class customer service is one of the critical cornerstones of Wolt 💙 The quality of communication between our team and our customers and partners is essential as it determines how fast and accurately we can respond to inquiries and solve emerging problems. At Wolt we currently serve over 15 million registered customers 🌍. Since it takes some real serious work from our dedicated customer support teams in each of the 23 countries to ensure customer satisfaction we’re always on the lookout for ways to make their work more convenient and the customer experience even smoother.
+
+The team will own the Wolt support funnel end-to-end: it will take ownership of adding self-service features our customers can use to automate changes without support involvement, automatisation, and improving support associate ticket handling efficiency. Also, you’ll be working together with our amazing team of mobile developers on our world class consumer app and joining in reviewing contributions. Since the team is in a building phase, you would be one of the critical persons for developing the support tools' future, which is quite exciting really!
+
+For this role you can be based in one of our tech hubs in Helsinki or Berlin, or you can work remotely anywhere in Finland, Sweden, Germany, Denmark, and Estonia now and in the future! Read more about our remote set-up here.
+
+Our humble expectations
+
+In order to succeed in the role, you’ll need several years of experience building apps using modern Android technologies, our choice of language is Kotlin. Since the self-service tool will be built from scratch, we are looking for someone who has excellent communication skills and who, ideally, has some experience working in a large end to end feature team.
+
+On top of that, we value an attitude of constant improvement and also the ability to create things from scratch. An entrepreneurial mindset of taking ownership of what you've built is a must.
+
+So, if you feel that you’ve got what it takes and if working on a cool product in a cool team sounds like something you’d be interested in doing, we’d love to hear from you! 💙
+
+Next Steps
+
+Join us for an exciting journey! If you find the role interesting, we'd love to receive your application!
+
+In case you want to check up on your application or have any further questions about the position, you can turn to Talent Acquisition Partner Salem Mansuri at salem.mansuri@external.wolt.com at any given time.
+
+About Wolt
+
+Wolt is a technology company that makes it incredibly easy to discover and get the best restaurants, grocery stores and other local shops delivered to your home or office. Wolt is not just a delivery app – we’re a technology company building a commerce platform to seamlessly connect our millions of customers with thousands of merchant and courier partners, in real-time across 23 countries and 250+ cities. Our apps (iOS and Android) have the industry’s highest ratings, largely thanks to our customer-first-mindset, which shows in how we build products and run operations. In June 2022 we officially joined forces with DoorDash. Combined, we have a presence in 27 countries, 23 of which operate with the Wolt brand and app. Wolt and DoorDash continue largely independently, with Wolt’s name, brand, product, technology and team.
+Working in Product Development at Wolt
+At Wolt, we’re about getting things done. You’ll probably enjoy it here if you like taking ownership, developing yourself, and being around friendly, humble and ambitious people.
+The behind the scenes of Wolt is run by an awesome bunch of over 400+ planners, builders, designers and data crunchers. We call ourselves Product+, as we’re the very core of Wolt’s products, tools and platforms. To build our products, we work in over 40 cross-functional, independent and autonomous teams. Teams are made up of a mix of talented individuals: engineers, designers, data scientists, analysts, and product leads. Each team takes ownership for solving customer problems in the best possible way.
+Our Commitment to Diversity, Equity & Inclusion
+We want to have all sorts of people in our team – people like you and me, and people different from you and me. To be able to work with diverse teammates – when it comes to gender, age, ethnicity, life background, sexual orientation, political views, religion, or any other personal trait – we consciously aim to offer equal opportunity for everyone to work with us. This is because we believe diverse teams make the most thought-through decisions and build things in the most inclusive way.
+
+Join us today to build Wolt together!

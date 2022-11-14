@@ -1,0 +1,29 @@
+About the job
+What you can expect
+We are continuously growing and are looking for reinforcement for our development team. Together with the UCS@school team, you will further develop our software products in an agile manner. Together with your team you will work successfully nationwide, virtually and regardless of your location. Whether at home or in the office: meet a team with members who support each other, are enthusiastic about open source, and have fun at work.
+
+With your team, you conceptualize, develop and maintain the UCS@school product.
+There are different areas of responsibility:
+Integration of apps into our Univention AppCenter, e.g. with docker-compose
+Extensions of connectors with Python, e.g. to the ID broker or Apple School Manager
+Bugfixing in different areas of our product with e.g. Python or Shell / Bash
+Implementation of hybrid authentication with SAML and OpenID Connect
+Automated tests with Jenkins, Pytest, Selenium
+
+What we expect
+Knowledge of Python programming in Linux environments
+Knowledge of source code management, e.g. with git and GitLab
+Ideally, experience with with one of the following technologies: Linux (Debian), OpenLDAP, OpenID Connect, SAML, REST, Docker
+Excellent knowledge of English
+
+What we offer
+Flexible working hours – you prefer working early in the morning or late in the evening: with us, everyone finds the right time to work.
+At home or in the office – we have three offices: Bremen, Berlin, Leipzig. Your hometown is not among them? No problem, you can also work remote and visit one of the offices as needed.
+Your software – we are open here as well: Decide whether you work with Ubuntu, Windows or macOS. We also equip your home office with hardware.
+be open. – our slogan characterizes our corporate culture: We live open cooperation! We do not work against each other.
+Hackathon – regularly try out new technologies and working methods in a team or on your own.
+Digital Sovereignty – be part of the team and support us in our mission to spread open source technologies.
+Beyond – sponsored company fitness, bike leasing, employee discounts, company events, conference attendance, friendly team members.
+
+Are you interested?
+Then we look forward to receiving your complete application, either online or via e-mail to jobs@univention.de. Please let us know your earliest possible start date and your salary expectation.

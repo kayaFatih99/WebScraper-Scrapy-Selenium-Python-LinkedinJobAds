@@ -1,0 +1,45 @@
+About the job
+Bitrise Solutions Engineers sit at the center of a swiftly growing company, directly growing revenue and providing a key voice from the field. As a solutions engineer, you will work with Bitrise prospects and customers, acting as the pre-sales technical lead and working in partnership with Account Executives. You will provide technical expertise through deep discovery, delivering product demonstrations and by guiding technical evaluations to prove the value of the Bitrise mobile dev-ops platform in helping teams improve app quality, increase app team productivity, and reduce risk. You will connect the product team to customer needs and the market landscape to help shape the evolution of the product.
+
+Our Ideal Candidate
+
+We are looking for senior candidates. We look for 2 years minimum experience in technical sales role OR hands-on experience in mobile app development/DevOps
+Excellent verbal, written, and interpersonal skills in technical and non-technical contexts
+High energy and positive attitude
+Bachelor’s degree or equivalent related experience
+Willingness to travel
+
+Your Responsibilities
+
+Partner with your Account Executive to uncover customers’ business pain and articulate the Bitrise value proposition, vision and strategy to the world's largest mobile development teams
+Connect Bitrise technical solutions to customer value
+Deliver presentations and demos to practitioner and senior level audiences
+Guide customers through successful evaluations by taking the lead in defining the “technical” sales strategy for sales opportunities
+Be a trusted technical advisor to customers and to your sales team, helping both audiences level up their capabilities
+Collaborate on all aspects of the sales lifecycle with teammates from across the sales organization
+Keep up with all things mobile development, including new releases and industry insights
+Evangelize Bitrise at trade shows and events
+
+Dimensions to your role
+
+Internal and external stakeholders
+Size of organization, number of direct reports, functions and roles
+Geographical accountability/regions/countries/functions
+Revenue/cost/P&L/budget responsibility
+
+What Would Really Knock Our Socks Off...
+
+Understanding of CI/CD processes & DevOps tooling
+Working with large enterprise customers, especially mobile engineering teams
+Experience with enablement and training of customers and/or internally
+Experience in pushing to the app store as a mobile developer
+Experience in speaking at Meetups or in Conferences
+Spanish and/or Portuguese speakers
+
+About Bitrise
+
+Bitrise is a mobile DevOps platform and a mobile CI/CD service. It’s where tens of thousands of mobile teams build, test and deploy their apps, including companies such as Transferwise (now “WISE”), Virgin Mobile, Grindr, Tonal, Compass, Mozilla, Philips Hue, Babbel and others. With customers ranging from startups and mobile unicorns to centuries-old enterprises, applications built, tested, and deployed through Bitrise have made their way to billions of end users around the world. Chances are, you have at least some of those apps on your phone right now. We’re proud Y-combinator alumni.
+
+Bitrise is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, colour, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, gender identity or expression, genetics.
+
+Bitrise is not accepting unsolicited assistance from search firms for this employment opportunity. Please, no phone calls or emails. All resumes submitted by search firms to any employee at Bitrise via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of Bitrise. No fee will be paid in the event the candidate is hired by Bitrise as a result of the referral or through other means.

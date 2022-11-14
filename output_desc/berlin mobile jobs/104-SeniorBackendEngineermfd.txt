@@ -1,0 +1,35 @@
+About the job
+With cutting-edge technology and top notch web applications, our client helps individuals as well as businesses to save money, time & nerves. The established FinTech startup offers an automated switching service of electricity, gas and insurance providers and thus improves the FinTech business on B2B and B2C level every day. You are an expert in C# and .net Core and want to be part of a young, motivated team shaping the future of a startup? Then read on!
+
+Tasks
+
+A diverse range of tasks awaits you:
+Develop technical concepts for new features up to the final release
+Maintain the existing system for smooth operation and as perfect basis for future functionalities
+Integrate external partners into the existing system, create interfaces for the integrability of our system with third parties
+Improve the availability and performance of the complete system
+Work in a young team with the help of agile software development
+
+Requirements
+Expert in C# and .net Core
+At least 5 years of experience in developing online backend systems
+Confident with relational database systems
+Good understanding of basic architectural patterns
+Knowledge of working with git
+Touch points with Test Driven Development
+Experience in implementing team projects
+Optional experience with cloud services (AWS, Azure, ...)
+
+Benefits
+A brand new office in Nürnberg or München with top IT equipment of your choice.
+Up to 99% remote possible - ideally you come to the office from time to time to check in with your team.
+Flexible working hours & an open company culture with flat hierarchies.
+Individual training of your skills and comprehensive onboarding.
+A responsible, versatile job in a fast-paced environment as part of a young, motivated team.
+Coffee Flat
+Various team events: trips to Italy, bubble soccer, parties and remote working in a vacation region like Tenerife.
+Possibility of employee shares
+Last but not least: the spatial flexibility & the possibility to live out your dreams in a brand environment that is not yet firmly established.
+A monthly gross salary starting at 6.200€ gross
+
+Does this sound exciting to you? Then apply now as Senior Backend Developer (m|f|d) and get the chance to take responsibility & proactively shape the company.

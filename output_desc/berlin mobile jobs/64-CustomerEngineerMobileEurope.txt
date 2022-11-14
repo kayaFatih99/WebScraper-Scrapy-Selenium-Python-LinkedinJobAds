@@ -1,0 +1,37 @@
+About the job
+What We Are Looking For
+
+Ditto aims to expand the internet. Our software enables devices to synchronize data in realtime, even where the internet doesn't reach. The core technology is a realtime peer-to-peer database that runs on mobile, web, IoT, and server systems that automatically syncs data changes.
+
+This role requires general knowledge of app development with a heavy emphasis on web and mobile platforms. Knowledge of Swift or Java/Kotlin is necessary for this role. Our core code is built using Rust and we expose this into various platform-specific languages, so a desire to learn other languages on the job is also important.
+
+We are looking for a customer engineer that will help our Fortune 500 clients integrate Ditto. You will work closely with highly skilled engineers and developers, encounter many different kinds of problems, recognize patterns, provide product feedback, contribute to documentation, shape processes, and help guide the evolution of the Ditto product itself. Most importantly, you will help our customers launch and run all manner of mobile applications using Ditto.
+
+Our current customers are high profile companies and traditionally need face-to-face meetings to fully understand our product. Since many of our customers and clients are from around the world, you may need to jump on calls that are more aligned with your client's time zone than your own.
+
+Work with a remote team, manage your own time, and tackle interesting problems. Ditto is an equal opportunity employer with people from many different cultures and countries. We celebrate diversity and are committed to building a team that represents a variety of backgrounds, skill sets, and perspectives, and to providing our employees with a rewarding and inclusive work environment.
+
+Responsibilities
+Help Ditto users solve complex issues with their mobile solutions, e.g., resolving questions on SDKs, architecture, performance, scaling and everything in between
+Be an expert on best practices for developing and running mobile applications using Ditto at scale
+Advocate for customers’ needs, working with the engineering and product teams to debug and reproduce problem reports from Ditto users and escalate problems to include other team members as needed
+Recognize patterns and effectively categorize and create links between related issues and projects
+
+Requirements
+Genuine desire to help people succeed with our technology
+Ability to rapidly learn a wide variety of new technical skills
+Engage with our customers for their success with Ditto by solving their challenging technical problems, applying advanced diagnostic and troubleshooting skills
+Excellent communication skills in English, both written and verbal, are critical as you will be working with users from all over the world with very diverse backgrounds, as well as with a highly technical engineering team
+Ability to develop simple mobile applications using Xcode or Android Studio
+Read and understand the intent of code and stack traces in one or more languages of: Java, Kotlin, Swift, Objective-C, JS
+Comfortably navigate through Linux systems using a shell
+Write simple reproduction scripts
+
+Bonus points:
+Software development background in multiple languages: Java, Kotlin, Swift, Objective-C, React Native, and/or Xamarin
+
+The Process
+Send us your cover letter and resume.
+You will be invited to a short phone screening where we will get to know each other and discuss your practical experience and communication skills.
+Next, you will participate in a few technical interviews where we will discuss your expertise with mobile development. This is a way for us to gauge your practical experience, and will not involve theoretical “whiteboard” questions.
+Finally, you will meet the CEO and learn more about the company culture.

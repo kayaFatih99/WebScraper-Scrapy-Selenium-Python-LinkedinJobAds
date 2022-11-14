@@ -1,0 +1,30 @@
+About the job
+Job Description
+
+We are looking for an experienced Python Backend Engineer to join our growing Platform Services team! This team helps other Wolt Product teams to succeed - we embrace a customer-first mindset for creating tools, services, and sharing knowledge, in the domains of authentication and authorization and event-driven architecture.
+In the Platform Services team, you get to work at the center of the action, with a talented and diverse group of people and use the latest technologies to resolve platform-wide problems in the pursuit of high-quality services that are secure, and scalable.
+In this position you'll be developing the Wolt Authentication component we’ve built from scratch, ensuring its security, reliability, and scalability, as the number of users grows rapidly. It’s a central role in the organization, so you’ll work with multiple teams to secure our consumer applications, internal tools, as well as communication within our systems. You will be developing systems and libraries that are used across the platform, and you can have a big impact on the future development of these solutions.
+
+If you didn't know it yet, we have a strong Python community at Wolt: around 100 of our engineers are actively using Python and sharing knowledge related to its rich ecosystem. Wolt Tech Talks Youtube channel has recordings from our Python meetups and the Python-related blog posts in our engineering blog
+
+Our humble expectations
+
+👉 You might be the one if you are an engineer with experience in designing and building top-class software and APIs with modern Python. We mostly work with Flask & FastAPI, MongoDB, PostgreSQL, and appreciate it if you understand what it takes to build and operate scalable software services in production. Our massive backend is powered with Kubernetes in AWS so proficiency in these platforms or similar and cloud infrastructure is a huge plus. Experience with Go, Java, and related languages is seen as beneficial, and we also value previous front-end development exposure.
+👉 You know what it takes to achieve ambitious goals together. We expect you to be a good communicator, willing to collaborate with people outside of your own team, be a product-oriented and proactive problem solver willing to bring up issues in a constructive manner to the team and the Wolt Product team at large.
+👉 Understanding of security concerns in web applications such as SSO, Oauth, OpenID Connect, IAM, JWT, HTTP, and REST will also be a big plus, but don't let it get into your way if these are newer things for you, we are sure you'll get the grasp of them!
+
+Next Steps
+
+The position will be filled as soon as we find the right person, so make sure to apply as soon as you realize you really, really want to join us!
+The compensation will be a negotiable combination of monthly pay and DoorDash RSUs. The latter makes it exceptionally easy to be excited about our company growing and doing well, as you’ll own a piece of the pie.
+For any further questions about the position, you can turn to Product+ Talent Acquisition Partner - Anna Janeta (anna.janeta@wolt.com).
+
+About Wolt
+
+Wolt is a technology company that makes it incredibly easy to discover and get the best restaurants, grocery stores and other local shops delivered to your home or office. Wolt is not just a delivery app – we’re a technology company building a global logistics platform to seamlessly connect our millions of customers with thousands of merchant and courier partners, in real-time across 23 countries and 250+ cities. Our apps (iOS and Android) have the industry’s highest ratings, largely thanks to our customer-first mindset, which shows in how we build products and run operations. In November 2021 Wolt and DoorDash announced we’re joining forces, and the transaction is expected to close in H1 2022.
+Working in Product Development at Wolt
+At Wolt, we’re about getting things done. You’ll probably enjoy it here if you like taking ownership, developing yourself, and being around friendly, humble, and ambitious people.
+The behind-the-scenes of Wolt is run by an awesome bunch of over 400+ planners, builders, designers, and data crunchers. We call ourselves Product+, as we’re the very core of Wolt’s products, tools, and platforms. To build our products, we work in around 40 cross-functional, independent and autonomous teams made up of a mix of talented individuals. Each team takes ownership of solving customer problems in the best possible way.
+Our Commitment to Diversity, Equity & Inclusion
+We want to have all sorts of people in our team – people like you and me, and people different from you and me. To be able to work with diverse teammates – when it comes to gender, age, ethnicity, life background, sexual orientation, political views, religion, or any other personal trait – we consciously aim to offer equal opportunity for everyone to work with us. This is because we believe diverse teams make the most thought-through decisions and build things in the most inclusive way.
+Join us today to build Wolt together!

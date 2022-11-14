@@ -1,0 +1,30 @@
+About the job
+Who are we?
+
+Buddywise is a startup founded by experts in Safety and Computer Science and backed by highly respected industry leaders and VCs. Our vision is to improve and automate industrial safety monitoring and risk mitigation by utilizing computer vision and machine learning. We are a software company that understands the value of bringing technology to those who can really benefit from it. We are a growing team of driven people on a mission. If you thrive in a high-paced, high-responsibility, and open environment and want to make the workplaces safer than ever, Buddywise is the place for you.
+
+What will you do?
+
+Work directly with the CTO to determine how to scalably design back end systems and APIs.
+Architect, develop and operate cloud services deployed to fast growing number of customers.
+Collaborate with front-end and ML engineers to have impact on different parts of the product.
+Design and deploy data pipelines to make the most relevant data available to our customers
+
+Who are you?
+
+3+ years (or equivalent) experience with Python.
+Experience building back end systems that support highly performant and scalable applications.
+Knowledge and hands-on experience with AWS services, developing, deploying, and managing fairly large projects on the cloud
+Experience building API with modern frameworks and libraries such as Node.js and Flask
+You have some exposure to setting up CI/CD systems to improve the speed and quality of shipping code.
+You are comfortable working in an agile environment and are comfortable challenging yourself and your team to improve their ways of working.
+
+What We Offer
+
+We’re a small and ambitious Team of dedicated and like-minded individuals who are excited by the sector and how our product can truly innovate the space. At our early stage, you’ll have fantastic autonomy from day 1, as well as...
+
+Flexible, fully remote working, with occasional Berlin/Stockholm meetups 🌎
+Share options, and at an early stage of our journey. 📈
+Own your role and career with Buddywise! You’ll join as an expert in your field, and your growth as we grow is super important. 🤝
+Be part of one of Europe’s most exciting startups in a very expansive time of the company. 🚀
+Super flexible hours - it’s what you put in that counts, not how many hours you’re behind a desk. ⏰

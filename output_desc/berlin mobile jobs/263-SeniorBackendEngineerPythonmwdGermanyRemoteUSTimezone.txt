@@ -1,0 +1,61 @@
+About the job
+Plentific is one of the fastest growing property technology companies in the world, backed by renowned investors including Brookfield, Highland Europe, A/O Proptech, Target Global and Mubadala. We are headquartered in London, UK, with offices in Germany, USA and Turkey. Our mission is to improve lives by making property work better for everyone. We do so by streamlining how repairs, maintenance and compliance services are delivered. Our platform gives clients rich insight into management, operational and performance data, helping them deliver their customer service promise, while optimising supplier costs and adhering to their environmental, social and governance goals.
+
+Come and be a part of:
+A leading Proptech with a global footprint and an HQ in heart of London’s bustling centre
+A diverse, multicultural workplace with over 30 nationalities amongst our employees
+A stimulating atmosphere and fast-paced growth led by our recent $100m funding round
+A flexible work culture and a number of programmes built around your physical and mental wellbeing
+
+Developing acclaimed technology is only possible when we’ve got a great team on our side. Our culture is open and empowering. If you are passionate and driven, you will fit right in.
+
+plentific.com/careers
+
+The Role
+
+This is a fully remote position based anywhere in UK, Germany, Turkey, Poland, Italy, Spain and Portugal. You will be covering EST timezones.
+
+We’re looking for an experienced (or senior) backend engineer to join the engineering team. You’ll be working alongside a highly technical and motivated team and report to the technical co-founder. You would be expected to apply fundamental engineering and mathematical skills to solve problems and overcome challenges, not just develop code. For people with the right mindset, this frame of mind provides an intellectually stimulating environment. Career progression is key here and there is the opportunity to move in to a Tech Lead position over time.
+
+The engineering team sits at the centre of everything we do at Plentific and is constantly tackling challenging problems, such as online payments, quoting, invoicing, booking, search / scoring algorithms, ETL, data pipelines, in-app messaging, real-time notifications and fraud prevention. Our backend engineers mostly work with Python and Django on an increasingly more service-oriented architecture. The rest of the tech stack include Django REST Framework, PostgreSQL, PostGIS, AWS, ES6, React.js, Alt.js, Node.js, Express, Amazon Redshift, Kubernetes, Docker, Redis, Celery, Pandas, Numpy, Scrapy, Git with Zenhub, Jenkins, Elasticsearch, Logstash and lots of raw SQL for analytics. We have a very large but clean code base as we put significant emphasis on design patterns, code readability, testability, maintainability and extendability.
+
+Responsibilities
+Work with product owners, product managers, user interface designers and other software engineers to write technical documents that identify software project requirements
+Design, build and maintain APIs, microservices and data pipelines
+Write well-formulated, testable and readable code using appropriate software design patterns
+Optimise APIs and database queries to improve speed of execution
+Participate in code reviews
+Write complex SQL queries to get data from the database
+Debug and fix bugs across our applications
+Review, maintain and refactor existing code to meet the requirements for improved or new features
+Design, normalise and optimise relational databases
+Write technical documentation of code, algorithms and APIs
+Help in drafting of end-user manuals
+
+Requirements
+
+Skills:
+Strong computer science fundamentals such as data structures, algorithms, discrete mathematics, software design patterns
+Passion for writing clean, modular, well-commented, readable and reusable code
+Ability to think out of the box with a can-do attitude to get things done efficiently
+Excellent communication skills with ability to articulate technical concepts in plain English
+Experience and Qualifications:
+5+ years experience (Python/Django is a plus)
+Experience in managing more junior team members
+Previous work in relational database management and SQL query optimisation
+Ability to work UK working hours (+/- 3 hours)
+
+Benefits
+
+As you can see, we are quickly progressing with our ambitious plans and are eager to grow our team of doers to achieve our vision of managing over 2 million properties through our platform across various countries. You can help us shape the future of property management across the globe. Here’s what we offer:
+28 days annual leave plus all public holidays
+Employee assistance program
+Company volunteering day
+Company BVG Ticket
+Urban Sports Membership
+Pension Scheme: Employer 3%, employee 5%
+Learning and development fund
+Referral bonus and charity donation if someone you introduce joins the company
+Regular company-sponsored lunches, dinners and social gatherings
+Fully stocked kitchen with drinks, snacks, fruit, breakfast cereal etc.
+An inherently diverse culture with over 18 nationalities and 25 languages spoken

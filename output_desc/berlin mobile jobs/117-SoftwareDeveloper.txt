@@ -1,0 +1,45 @@
+About the job
+We are on a mission to make science open so everyone can live healthy lives on a healthy planet
+
+Who We Are
+Frontiers is an award-winning open science platform and leading open access scholarly publisher.
+We are one of the largest and most cited publishers globally. To date, our 200,000 freely available research articles have received more than 1 billion views and downloads and 2 million citations.
+
+Our journals span science, health, humanities and social sciences, engineering, and sustainability. And we continue to expand into new academic disciplines so more researchers can publish open access.
+Be part of the publishing revolution and help us transform the way research is published, evaluated, and communicated to the world.
+
+As an industry leader, our website generates millions of views per day, and our technology supports thousands of articles and users a day with our internal peer review tools. Now we would like to increase our mobile platform offering.
+
+We are looking to build a brand new team, completely focused on mobile development, and we are seeking bright and enthusiastic engineers to drive this new initiative. We offer a dynamic and collaborative work environment, where you will be able to drive technology solutions that directly contribute to the mission of the company: to make science open.
+
+About you
+We are looking for an experienced mobile developer with in-depth and hands-on knowledge in applying best practices while building, releasing and maintaining software aimed for mobile platforms. The ideal candidate will closely collaborate with other software engineers, product owners, and QA engineers to bring concepts and ideas to life. You will also ensure excellent code quality, be responsible for application monitoring, and serve as a point of contact for our support team and internal users. As an early member of the new mobile development team you will be instrumental in the direction and success of the new team.
+
+Key Requirements:
+Minimum 3 years of experience designing and building sophisticated and highly scalable mobile apps
+Full proficiency with Flutter/Dart
+Experience in developing cross-platform Flutter Apps from the ground up, excellent debugging skill using Flutter DevTools
+Strong understanding of Android and iOS operating systems
+Good knowledge of mobile apps architecture and design patterns (LoC, Redux, MVVM)
+Excellent written and spoken communication in English
+
+Nice to have:
+Experience with Firebase
+Experience with setting up CI/CD pipelines
+Experience in backend development and architecture
+Good understanding of the agile software development methodologies
+
+Benefits
+With more than 50 nationalities represented in our global team, you will work regularly with teammates in other countries, and with our community of researchers, editors, and authors from around the globe.
+Our mission to create solutions for healthy lives also extends to the working environment we provide for our employees.
+This includes:
+100% remote working
+Employees now have the flexibility to choose where they want to work, with remote working available on a part- or full-time basis (not applicable to some Workplace/IT jobs due to nature of role requiring presence onsite, in the office).
+Learning and development
+All employees have access to LinkedIn Learning (and Pluralsight for our technology team), an annual personal learning budget, and dedicated L&D time.
+Wellbeing
+We offer free online yoga classes, an employee assistance plan, access to the Headspace app, and four wellbeing days on top of your annual leave allowance.
+Volunteering opportunities
+Employees can dedicate three days each year to volunteer for a personal cause or through our volunteering partner platform, Alaya.
+
+Frontiers actively embraces diversity and is a safe and welcoming workplace. Recruitment is free from discrimination – including based on race, national or ethnic origin, age, religion, disability, sex, gender identity or sexual orientation. With over 600 employees from more than 50 different nations, our diversity creates vibrant teams and constantly challenges us to appreciate multiple perspectives.

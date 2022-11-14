@@ -1,0 +1,56 @@
+About the job
+Camunda is the leader in process orchestration software. Our software helps orchestrate complex business processes that span people, systems, and devices. With Camunda, business users collaborate with developers to model and automate end-to-end processes using BPMN-powered flowcharts that run with the speed, scale, and resiliency required to compete in today’s digital-first world. Hundreds of enterprises such Intuit, Nokia, Deloitte, Deutsche Telekom, Roche Pharmaceuticals, Vodafone, ING, Allianz, Lufthansa, Atlassian design, automate, and improve mission-critical business processes with Camunda to drive digital transformation. Camunda has been repeatedly recognized by Deloitte as a high-growth company and is operating as a remote-first company.
+
+About the team:
+
+In the Automation Platform team...
+
+We develop a BPMN process engine that executes critical business processes at our customers and community users.
+We develop powerful web applications that provide process operators with real-time insights into the running system.
+We build libraries that make our product enjoyable for our core users: software developers. Most of the code we write is open source!
+We have a strong focus on good API design and we value the user perspective highly. That is a key to our already eight years of success with the Camunda Platform 7 product.
+
+What you'll be doing:
+
+Design and build Java and REST APIs in a framework: Driven by individual user requests to the benefit of a broad user base.
+Ensure that our product remains up to date with the latest environments of our users.
+Help our customers resolve problems operating our software as part of 3rd-level support.
+Perform spikes to discover technical requirements and solutions to problems with high technical uncertainty.
+Qualify tickets, review and merge pull requests submitted by our open-source community.
+Have the possibility to engage with our community by helping in our user forum, publishing blog posts, or speaking at community meet-ups.
+
+What you'll bring along:
+
+Must haves:
+
+2-3 years of experience as a Java Backend Engineer
+Good knowledge of Java and relational databases.
+Experience working with Spring and Spring Boot
+A pragmatic and autonomous approach to programming and problem solving.
+Ambition and drive to understand and own an established codebase that solves complex business problems.
+A collaborative mindset that we can solve the hardest problems together in our team.
+
+Nice to haves:
+
+Knowledge of Docker, Jenkins or Maven
+Experience designing API’s
+
+What we have to offer:
+
+A remote-first culture that enables you to work remotely as much as you’d like to. We believe talent is global!
+A home office equipment budget and the choice of hardware. Mac, Windows, Linux, you choose what works best for you!
+If you like working from an office space, we have our modern and collaborative hubs (Berlin, Dallas & Denver) or you can work from a coworking space .
+We support our employees in maintaining a healthy work/life balance, so we offer and encourage flexible time off at Camunda. Use your flexible time for anything that helps you recharge your batteries or maintain your life outside of work.
+A clear mind is a healthy mind; we offer a headspace subscription and pay towards your fitness activities .
+Social interactions are important to us! Each year, Camunda hosts a company-wide get-together in new and exciting locations! In 2021, we rented out a whole island in Croatia. Find out more about the annual retreat here .
+Inclusive culture based on our FAITH values; quarterly performance reviews and employee engagement surveys to make sure you feel heard and valued.
+We understand that our employees contribute immeasurably to Camunda’s success: to allow employees to benefit from that success, every Camunda employee is offered virtual shares from our Virtual Stock Option Plan (VSOP) .
+More of what we offer globally & in your country can be found here .
+
+"Everyone is welcome at Camunda” — it’s a celebrated component of our culture. We strive to create an inclusive environment that empowers our people. At Camunda, we honour diverse cultures and backgrounds and are proud to be an equal opportunity employer. All qualified applications will receive consideration without regard to gender, race, ethnicity, religion, belief, sexual orientation, age, disability or any other protected characteristics under applicable law. We are looking forward to your application!
+
+Did we pique your interest? Apply now and learn more. For a complete list of jobs at Camunda, please check out: https://camunda.com/career/ .
+
+#EMEA
+
+Apply

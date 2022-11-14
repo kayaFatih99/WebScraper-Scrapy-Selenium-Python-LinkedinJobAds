@@ -1,0 +1,52 @@
+About the job
+Job Description:
+
+In order to keep up with the demand for new features in DataRobot, we are looking to grow our backend engineering team. The primary responsibilities of this team include developing new data science tools, crafting and supporting our APIs, and instrumenting DataRobot to integrate with enterprise IT infrastructure. Our team uses the following technology on a routine basis: flask, docker, pytest, MongoDB, redis, nginx, OpenSSL and LDAP, among many others.
+
+We operate as a startup within a startup - giving you access to product, engineering, data science, and leadership opportunities that have a huge impact organization wide.
+
+Much like a “choose your own adventure” story, where all we expect is that you contribute to the team, develop new skills, and communicate well.
+
+Hungry. Passionate. Committed - that is the recipe for success, and we are looking for people alike to follow it. If you’d like to join a team that is constantly and consistently setting the pace for competitors, never chasing them, then we’d love to talk to you!
+
+What does it take?
+
+Develop, test, and support features of DataRobot
+Build and maintain automated unit tests and functional tests
+Design infrastructure for new features with the input of peers
+Lead individual projects and milestones with abundant communication of progress
+Seek, give, and receive critical feedback in a constructive manner, including but not limited to code review
+
+Is this You?
+
+3+ years of development experience in Python
+Proven knowledge of computer science fundamentals, whether by a degree or otherwise
+Personal strive and ambition to get things finished
+Effective communication behavior
+Experience with both Python 2 & 3
+Production experience supporting user-facing code and APIs
+Deep expertise writing clean, debuggable code and test driven development
+
+Candidates can distinguish themselves with the following criteria:
+
+8+ years of development experience.
+Publicly reviewable contributions to exciting development projects.
+Experience with R
+Experience with Java / JVM
+Experience with the standard scientific library toolkit for data science (sklearn, numpy, pandas, etc.)
+
+The talent and dedication of our employees are at the core of DataRobot’s journey to be an iconic company. We strive to attract and retain the best talent by providing competitive pay and benefits with our employees’ well-being at the core. Here’s what your benefits package may include depending on your location and local legal requirements: Medical, Dental & Vision Insurance, Flexible Time Off Program, Paid Holidays, Paid Parental Leave, Global Employee Assistance Program (EAP) and more!
+
+Our Core Values:
+
+Be You - We are co-contributors to our culture committed to diversity, inclusion, equity and a sense of belonging throughout our global community. We value each person as their authentic self and welcome honest and respectful dialogue as an avenue to greatness.
+Dream Big - We don’t settle for the status quo. We always pursue the development of the next version of ourselves. We believe investment in the growth and resilience of our people is the foundation of building an iconic company.
+Be Data-Driven - We believe data-driven decision making enables innovation and execution at velocity while ensuring repeatable success. We take on the toughest challenges as we transform the world with our platform and AI.
+Better Together - We celebrate success and learn from failure as one team. We foster an aligned, collaboration-first workplace by building trust through transparency, integrity and accountability.
+Champion Customers - We empower our customers and our communities by shaping the future of trusted, augmented intelligence in order to solve their most difficult problems. We are humble, not complacent. We succeed when they succeed.
+
+All U.S. DataRobot employees must be fully vaccinated against COVID-19. If there is a medical, religious, or other legally protected reason that prevents you from receiving an available COVID-19 vaccination, and you are selected as a candidate for consideration, we have a process in place to evaluate requests for accommodation.
+
+DataRobot is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. DataRobot is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor’s EEO poster and EEO poster supplement for additional information.
+
+All applicant data submitted is handled in accordance with our Applicant Privacy Policy.

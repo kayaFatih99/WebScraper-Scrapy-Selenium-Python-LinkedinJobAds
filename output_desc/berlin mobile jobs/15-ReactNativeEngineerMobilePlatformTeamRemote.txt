@@ -1,0 +1,36 @@
+About the job
+Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. Hundreds of thousands of developers around the globe trust Mattermost to increase their productivity by bringing together team communication, task and project management, and workflow orchestration into a unified platform for agile software development.
+
+Founded in 2016, Mattermost’s open source platform powers over 800,000 workspaces worldwide with the support of over 4,000 contributors from across the developer community. The company serves over 800 customers, including European Parliament, NASA, Nasdaq, Samsung, SAP, United States Air Force and Wealthfront, and is backed by world-class investors including Battery Ventures, Redpoint, S28 Capital, YC Continuity. To learn more, visit www.mattermost.com .
+
+We value high impact work, ownership, self-awareness and being focused on customer success. If these values match who you are, we hope you'll learn more about working at Mattermost and apply!
+
+The use and importance of the Mattermost mobile application is rapidly growing. To support this growth, we are hiring a Senior Mobile Engineer to our Mobile Platform Team to help us continuously upgrade the foundation of our mobile application. For this we are looking for a driven engineer that is excited about the capabilities and potential of mobile communication. You will be part of the team focused on building and constantly iterating on the mobile platform that underlies all of Mattermost’s current and future mobile products. While hands-on working experience with React Native is highly preferred, if you are an experienced React.js front-end engineer eager to move into the mobile space, you may be a good fit for us as well.
+
+Responsibilities
+You will serve as a core committer and a technical leader for one of the most advanced open-source mobile applications in the world, implemented using React Native (TypeScript), native modules for Android (Java) and iOS (Swift/Objective-C).
+You will partner with and influence open source communities and platforms including Mattermost, React Native, WatermelonDB, and many others.
+You will work with our open source community as well as engineering teams inside the company, review their code and guide them to successfully integrate their contributions.
+Your end-users will use your products to work on some of the world’s most mission-critical endeavors, from space exploration to fighting COVID, to transforming the future of electric transportation, and protecting the financial assets of our global economy.
+You’ll do all this with your personal GitHub account, and you will publish the vast majority of your work as open-source and be able to share it with the world for the rest of your career.
+Required Background/Skills
+2+ years of professional experience developing production apps with React and/or React Native
+Meaningful experience working on large, complex projects.
+Ability to take ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon, both in regards to estimates and to the general process.
+An understanding of React and React Native best practices.
+Ability to create and maintain continuous integration and delivery of React Native applications.
+English skills (ability to effectively communicate via written and spoken English).
+Since Mattermost is remote-first, the ability to thrive in a highly distributed, asynchronous environment is crucial.
+Nice-To-Haves
+Experience developing native applications for iOS and/or Android (ideally both), or a strong interest to learn.
+Degree in Computer Science or related.
+Experience working in open source communities.
+We Are Currently Hiring Staff In These Countries/regions
+
+Mattermost is a remote-first company with staff living and working across the globe.
+
+Australia - Brazil - Bulgaria - Canada - Chile - Colombia - Finland - Georgia - Germany - Greece - India - Ireland - Mauritius - Mexico - Norway - Pakistan - Philippines - Poland - Portugal - Spain - South Korea - Suriname - Turkey - Uganda - Ukraine - Uruguay - United Kingdom - United States
+
+We are constantly working towards adding more countries/regions to this list, but first we need to make sure we are compliant with local laws and regulations, which takes time.
+
+Mattermost is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people from all walks of life. We don't discriminate against staff or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!

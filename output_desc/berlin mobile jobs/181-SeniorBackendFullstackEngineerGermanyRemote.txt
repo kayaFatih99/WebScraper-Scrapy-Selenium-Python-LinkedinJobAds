@@ -1,0 +1,44 @@
+About the job
+At Shop Apotheke we are all about health! Our e-pharmacy serves over 8M customers across Europe, and we welcome new users every week. We are growing the existing platform and adding entirely new services to it. Our goal is to enable our customers to live their healthiest lives possible.
+
+We are looking for a Senior Backend (Node.js) / Fullstack Engineer to come and build with us!
+
+Our tech stack
+TypeScript, ES6, Node.js, Java, React.js, Next.js, Redux.js, Varnish, Docker, Google Cloud, Kubernetes, RabbitMQ, REST-APIs
+
+Your profile
+You understand that seniority is not the number of years of experience but the ability to make a genuine impact, to be proactive and to take ownership.
+You have built services at scale with Node.js and TypeScript.
+You are either a Backend focussed developer or open to working 80% on the backend and 20% on the frontend.
+You have a cloud DevOps / infrastructure mindset (Docker, Kubernetes) and know how to set up a CI/CD pipeline.
+You like to test your code before the QA engineers do it and you are experienced with unit and integration testing.
+You enjoy designing and building new features from scratch.
+You feel responsible for your code and actively check production logs/alerts to make sure it runs well as expected.
+
+Your tasks
+You will play an active role in our developer community, participating in tech decisions and influencing the tech vision of your peers.
+You will add functionality to our API gateway that is the link between our customer-facing applications and our domain-driven services in the cloud.
+You will extend and create new backend services in a variety of domains that interact with other internal and external applications.
+You will create and consume API endpoints based on contracts that have been defined with your colleagues.
+You will work with RabbitMQ to ensure scalable, asynchronous communication between services
+You will work on new features that are designed with high-performance and scalability in mind.
+You will work in a small, cross-functional team with other frontend and backend engineers, QA engineers, a Product Owner as well as an Agile Coach.
+You will work with colleagues that love collaborating and achieving successes together. Our company embraces an open feedback culture, allowing for open communication within our teams.
+You will design, code and deploy features that are used by millions of people across Europe. Our current active customer base is 7.9M customers.
+
+Your Benefits
+An agile and outcome-oriented organisation, where respect for talent and honest work are fundamental values.
+Direct communication, respect and collegial approach are vital points of our code of conduct.
+We are a diverse, international team and English is our working language.
+Your growth helps our growth. We have a training budget dedicated to the engineering team, and it’s up to you to choose what conferences or workshops you spend it on.
+In case you want to learn German, we support you with free German classes.
+You can devote 10% of your working time to personal development projects. Be it things that are close to your heart; frontend community tasks; or tackling a problem that you wouldn’t deal with otherwise.
+For parents, we offer a monthly subsidy for kindergarten.
+10% employee discount on all over the counter and beauty & wellness products in our online store.
+
+Remote work
+Our offices remain open, but you are free to work from home, from any location in Germany.
+We have anchor days on which every team member is asked to come to the office. We meet in person once a month. In the future, we foresee the possibility of two team meetings per month. This means that you will be asked to come to one of our offices (Cologne or Berlin) in person once or twice a month.
+
+About Us
+SHOP APOTHEKE EUROPE is an international e-commerce company with headquarters in the Netherlands, offices in Cologne & Berlin and further locations in Europe. As one of Europe's leading e-pharmacies with web shops in seven countries, we ensure that millions of people can rely on us for their health every day. We are growing extremely dynamically and are looking for more team players who want to continue this exciting development and the successful growth of the past years together with us!

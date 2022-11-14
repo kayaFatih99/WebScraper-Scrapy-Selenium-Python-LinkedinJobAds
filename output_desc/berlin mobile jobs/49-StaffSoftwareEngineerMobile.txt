@@ -1,0 +1,43 @@
+About the job
+About Us
+
+Airbase is the first all-in-one spend management platform that provides companies unparalleled control and visibility into every dollar spent. Finance teams deserve a solution that eliminates the tedious work involved in managing spend and allows them to focus on being strategic partners to the rest of the business. We do that by replacing the multiple systems typically used to manage spend with a single platform that handles every workflow including expense approvals and payments (physical cards, virtual cards, ACH, check), while also automating away the bulk of spend-related accounting. Learn more about why innovative companies like Gusto, Segment, Doximity, Getaround, Netlify, and more trust Airbase at www.airbase.com
+
+What does a Staff Engineer do?
+At Airbase we believe that the only way to be a “10x engineer” is to help 5 engineers be 2x better. That is the role that a Staff Engineer plays at Airbase, by providing the leverage that makes other engineers and the organisation as a whole more effective.
+First, they help design the systems. A Staff Engineer at Airbase takes ownership of the most technically complex problems. They solve these problems by working across multiple teams and driving progress towards the objective. They also provide invaluable review feedback at the design stage to other engineers and act as a sounding board and help the other engineers brainstorm and come up with solutions.
+Second, they drive organisational change. Solving high-level engineering problems (e.g., increase test coverage, improve API latency, improve code reuse,...) requires not technical solutions but also an understanding of how people behave and their incentives. A Staff Engineer has the judgment to pick the right organisational trade-offs.
+Third, they are excellent communicators and technical leaders. A Staff Engineer writes great design documents, strategy docs, and in general, makes it easy for everyone on the engineering team to understand their work. They give talks, hold office hours, encourage other engineers to give talks, and act as mentors for engineers at Airbase.
+
+Requirements
+10+ years of professional software development experience.
+Strong fundamentals: an understanding of the capabilities and high-level architecture of both iOS and Android, cross-platform frameworks (esp. React Native).
+A deep understanding of the mobile app development lifecycle: App Store/Play store reviews, different approaches to shipping updates, error tracking, etc.
+A data-driven approach. A solid understanding of what to measure, how to measure, and how to translate metrics into action items that help improve the product and the health of the engineering organization.
+A reasonably good understanding of common security practices.
+Excellent writing and oral presentation skills.
+
+Nice To Haves
+Involvement in open source projects, community building, speaking at conferences or meetups.
+Experience working in early or mid-stage startups.
+Having built and launched an app on the Android/iOS stores that has reasonable traction.
+Deep experience with design tools such as Figma, or professional or academic experience with design or UX.
+Publicly available samples of technical writing, in any form: personal or company blog, writing for publications, etc.
+
+Why should you apply?
+Airbase is a well-funded, fast-growing company whose product is a leader in its category. The market opportunity before us is huge (every mid-size business in America).
+You will have considerable autonomy in your work. As a Staff Engineer you will be expected to identify problems you will work on largely by yourself (within the broader business aims, of course).
+Airbase has been a fully-remote company from day one and we believe in asynchronous communication and a culture of writing things down. You will have the freedom to set your own work hours and have enough focus time for deep, thoughtful work.
+We have always believed in small teams and smart engineers. As a Staff Engineer at Airbase you will have the opportunity to both teach and mentor smart, younger engineers as well as learn from them and your peers.
+You have been a technical leader of a team and have delivered complex business features.
+You have mentored engineers in some capacity.
+You have worked with multiple teams to deliver business-critical features.
+You are excited by this role.
+
+We encourage you to apply even if you haven’t played this sort of role before, as long as:
+You have been a technical leader of a team and have delivered complex business features.
+You have mentored engineers in some capacity.
+You have worked with multiple teams to deliver business-critical features.
+You are excited by this role.
+
+We offer competitive cash compensation and equity. We're a remote team and are happy to work with candidates from anywhere in the world.

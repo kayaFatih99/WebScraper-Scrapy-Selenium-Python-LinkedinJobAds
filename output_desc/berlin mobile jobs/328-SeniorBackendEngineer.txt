@@ -1,0 +1,52 @@
+About the job
+Fingerprint empowers developers to stop online fraud at the source.
+
+We work on turning radical new ideas in the fraud detection space into reality. Our products are developer-focused and our clients range from solo developers to publicly traded companies. Some of our customers include: Coinbase, Booking.com, and Yahoo, just to name a few.
+
+We are a globally dispersed, 100% remote company with a strong open-source focus. Our flagship open source project is Fingerprint (16K stars on GitHub).
+
+We have raised $44M and are backed by Craft Ventures (previously invested in Tesla, Facebook, Airbnb), Nexus VP (previously invested in Postman, Hasura) and Uncorrelated Ventures (previously invested in Redis, Rollbar & Gradle).
+
+We're looking for a senior backend engineer work on the CDN systems that deliver our code to customers and end users (500+ RPS). The CDNs are applications that build the code ad hoc. We want to push them to the next level, so we need someone who is proficient in TypeScript and knows AWS well.
+
+Projects You May Work On:
+Maintain the stability of the CDNs
+Design, document and implement new features of the system
+Work with the TypeScript code of the CDNs
+Work with the AWS infrastructure (CloudFront, Lambda and DynamoDB at the moment) together with an infrastructure engineer
+Contribute to OSS projects
+Integrate with the NPM REST API
+Optimize the system (code size, throughput, latency, error rate)
+Automate the code deployment (of the CDNs)
+Write unit tests for their code and check it manually
+Work with engineers who develop related projects
+
+Qualifications:
+Strong JavaScript knowledge (TypeScript is a plus)
+Experience with AWS CloudFront, Lambda and DynamoDB
+Being familiar with many AWS services to be able to design a proper architecture
+General understanding of the HTTP protocol and web security
+Jest, Jasmine or a similar test framework
+Passion for writing ideal code
+High level of personal ownership and autonomy, which requires experience working without clearly defined requirements
+Good English for verbal and written communications inside the company
+
+An ideal candidate will also have:
+Experience with Rollup
+Experience with AWS Developer Tools (CodeArtifact, CodeBuild, CodeDeploy, CodePipeline), Athena, EB, SQS, CloudWatch
+Experience configuring GitHub Actions
+SQL knowledge
+Historical record of open source contributions
+Experience with technical writing
+Willing to learn something new
+
+Our stack:
+Backend: TypeScript, Node, Express.
+Frontend: TypeScript, React, Storybook.
+AWS (Elastic Beanstalk, RDS/Aurora, SQS)
+Netlify/CloudFront.
+PostgreSQL.
+
+Offers vary depending on, but not limited to, relevant experience, education, certifications/licenses, skills, training, and market conditions.
+
+We are dedicated to creating an inclusive work environment for everyone. We embrace and celebrate the unique experiences, perspectives and cultural backgrounds that each employee brings to our workplace. Fingerprint strives to foster an environment where our employees feel respected, valued and empowered, and our team members are at the forefront in helping us promote and sustain an inclusive workplace. We highly encourage people from underrepresented groups in tech to apply.

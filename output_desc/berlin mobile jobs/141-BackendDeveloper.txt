@@ -1,0 +1,42 @@
+About the job
+Veeva is a mission-driven organization that aspires to help our customers in Life Sciences and Regulated industries bring their products to market, faster. We are shaped by our values: Do the Right Thing, Customer Success, Employee Success, and Speed. Our teams develop transformative cloud software, services, consulting, and data to make our customers more efficient and effective in everything they do. Veeva is a work anywhere company. You can work at home, at a customer site, or in an office on any given day. As a Public Benefit Corporation , you will also work for a company focused on making a positive impact on its customers, employees, and communities.
+
+The Role
+
+You will create and scale the leading intelligence platform for life sciences to another 10x - handling big and fast-changing data to improve patient outcomes.
+
+You will develop new ways of handling a huge number of concurrent users on a massive and fast-
+
+growing data set. You will feel right at home with the likes of NodeJS, Mongo, Kafka, NiFi, DeltaLake, and AWS.
+
+As an expert in web technologies and databases, you’ll grow with us and get the freedom to realize breakthroughs and expand your track record.
+
+What You'll Do
+
+Develop new modules for data capturing platform
+Implement improvements to existing functionalities
+Integrate software components into a full solution
+Work with very large data sets
+Focus on application performance, ergonomics, and usability
+Analyze feature requirements, provide technical feedback and estimations
+
+Requirements
+
+3+ years of work experience with modern web application development
+Passion for writing high-quality code in JavaScript/Typescript
+Strong practical knowledge of NodeJS
+Deep interest and expertise in building data-intensive applications
+Very good understanding of data modeling and storage using SQL and NoSQL databases (Postgres, MySQL, MongoDB, or similar)
+Very good spoken and written communication skills in English
+Agile mindset
+Ability to work in a fast-paced environment
+Located in Germany or Spain
+
+Nice to Have
+
+Knowledge of modern web frameworks (Angular, VueJS or similar)
+Hands-on experience with cloud technology stack (AWS, GCP or Azure)
+Advanced knowledge of MongoDB (e.g. complex aggregations, performance tuning)
+Data visualization skills using BI tools (Tableau, Superset, or similar)
+
+#RemoteGermany Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world. Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.

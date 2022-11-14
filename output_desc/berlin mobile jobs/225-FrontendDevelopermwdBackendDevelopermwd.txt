@@ -1,0 +1,30 @@
+About the job
+Ihre Rolle in unserem Team
+
+Implementierung und Integration von Software in Node.JS
+Weiterentwicklung und Optimierung von Backend Software in einem agilen Team
+Erstellung und Pflege von Applikationen (Frontend: HTML/JavaScript/CSS/React.js/Vue.js) (Backend: Node.js)
+Implementierung von Schnittstellen- und Modultests
+
+Ihr Profil
+
+Backend: gute Kenntnisse in Node.JS, AWS, Datenbanken, Design, Parametrisierung und Kommunikation von Datenbanken
+Frontend: gute Kenntnisse in REST, HTML, React.js, Vue.js, Erfahrung mit UX/UI sind von Vorteil
+Erfahrungen mit Versionsverwaltungen und Ticket Systemen
+Erfahrung in agilen Software-Entwicklungsprozessen sind von Vorteil
+Abgeschlossenes Studium im Umfeld der IT
+Begeisterung im IT-Umfeld zur Entwicklung komplexer Anwendungslösungen
+Interesse an neuen Herausforderungen und Technologien
+Kreativität, Motivation, Eigeninitiative und Bereitschaft zur Übernahme von Verantwortung
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Ihre Vorteile
+
+Eine angenehme Arbeitsatmosphäre in einem modernen Unternehmen
+Kreatives, selbständiges und eigenverantwortliches Arbeiten
+Unbefristete Arbeitsverträge
+Flexible Arbeitszeiten mit Homeoffice-Möglichkeit
+30 Tage Jahresurlaub
+Urlaubs- und Weihnachtsgeld
+Integration in ein dynamisches und agiles Team mit modernen Entwicklungstools
+Zahlreiche Mitarbeiterevents

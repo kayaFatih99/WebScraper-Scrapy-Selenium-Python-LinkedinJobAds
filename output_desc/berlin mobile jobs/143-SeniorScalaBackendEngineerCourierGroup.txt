@@ -1,0 +1,42 @@
+About the job
+Job Description
+
+Are you interested in being part of building a service that is unique to the tastes of our over 20 million users? Would you like to be in the midst of it all, learning, growing, and expanding into new verticals together with us? Does working with Scala and building stuff from scratch sound like something you’d like to do? If the answers to all 3 questions are “yes”, then great news since Wolt is looking for multiple Senior Scala Backend Engineers to join different engineering teams across our Courier Group!
+
+Courier Group consists of several amazing teams responsible for logistics optimization, logistics growth, courier earnings, supply and demand forecasting and providing top notch courier onboarding and delivery experiences. We strive to always use the latest Scala version in our services which allows us to benefit from the latest language features. So if you’re into functional programming and would like to be surrounded by like minded people, we have a lot to offer 🚀
+
+Depending on your interests and experience we’d love to welcome you to one of the following teams:
+
+Employment Team is a brand new team with a mission to provide effective tools for managing the practicalities of courier employment. In countries like Germany, Wolt couriers are in an employment relationship with Wolt, so being able to effectively manage things like absences and working hours has a big impact on the courier experience and efficiency of the delivery platform. This is a greenfield project, so you’ll be building a beautiful product from the ground up and integrating it with external systems, like HR and payroll. Kotlin and Scala will be the main backend programming languages of the team, while frontends are built in React/TypeScript. Wolt has a strong community around Kotlin/Scala/React, so there are good opportunities to collaborate and learn from others!
+
+Core Team is a new team that is born to support the exponential growth of Wolt’s traffic, specifically in the Logistics platform. Our immediate goal is to promise and sustain a sensible scalability factor while keeping the platform stable and reliable. In this team, you will be working on group wide topics to break down our old architecture into smaller and more workable units while keeping the lights on! You’ll also be working on a new event-driven architecture for a high volume of events for dispatching orders. Due to the team's responsibilities, you will be working with some of our legacy Scala-based technologies to help modernize them, but you will also work on our new event-driven platform using technologies like Kafka, and Kafka streams.
+
+Logistics Growth Team is born to maintain the delivery operations, and to help make the delivery platform extensible to support new markets and new business cases. You’ll be developing features for estimations, effective city configuration and operations. Over here we’re using some cool stuff like type-level programming, ZIO, Kafka, Kafka streaming.
+
+Supply and Demand Forecasting Team’s mission is to make Wolt cities efficient for consumers, merchants and couriers, as well as making running the cities smooth for our operations people. This is done by building tools and features that help achieve balance between supply (number of couriers online) and demand (home delivery orders from consumers) by surfacing the forecasts to both couriers and Wolt operations, as well as creating ways to dynamically influence supply and demand. The main programming languages are Python and Scala and the team works closely with Data Scientists to help them implement their ML algorithms.
+
+Courier Delivery Experience Team is helping our Courier Partners with their day-to-day tasks and making their experience from logging in to logging off the best that it can be, so they can complete their deliveries in a smooth and simple way. We work on the Courier App as the Core maintainers and feature drivers for the delivery tasks as well as contributing to Routemill and other back-end services that support these tasks. You’ll be taking part in creating solutions for helping our Courier Partners optimize their time and earnings based on statistical analysis and historic data. We’re moving towards event-driven architecture (Kafka), the main programming language is Scala (Akka, http4s).
+
+📍These roles can be based in one of our tech hubs in Helsinki or Berlin, or you can work remotely anywhere in Finland or Germany. Read more about our remote setup here.
+
+Our humble expectations
+
+👉 You have solid experience designing, building, and integrating quality software (microservices) in modern Scala on a large scale within a complex domain. Knowledge of other JVM languages like Kotlin and Java is a huge plus.
+👉 You have strong technical leadership skills.
+👉 You have knowledge of AWS, Kubernetes, Docker, observability (Data Dog or similar tools) and data storages, both SQL and noSQL databases.
+👉 Your stakeholder management skills are excellent.
+👉 You’re a dedicated person who is pragmatic with a positive attitude, who doesn't shy away from going outside of their comfort zone, and demonstrates curiosity and willingness to keep continuously learning.
+👉 You’re comfortable working with real-world data and its different nuances.
+
+Next Steps
+
+💯 Overall our product organization consists of a team of over 400 people at Wolt. We aim to build none other than the best-in-the-world engineering team here.
+💙 You’ll get to work in a company culture where we take ownership beyond the obvious, do common things uncommonly well, we think big but stay humble, do right by people, we treat others kindly and justly, recognise that if we don’t learn, we won’t stay still but fall behind, and keep in mind that Luke was Yoda’s greatest achievement.
+🙌 Join us for an exciting journey! The compensation will be a negotiable combination of monthly pay and equity. The latter makes it exceptionally easy to be excited about our company growing and doing well, as you'll own a piece of the pie.
+
+About Wolt
+
+Wolt is a technology company that makes it incredibly easy to discover and get the best restaurants, grocery stores and other local shops delivered to your home or office. Wolt is not just a delivery app – we’re a technology company building a commerce platform to seamlessly connect our millions of customers with thousands of merchant and courier partners, in real-time across 23 countries and 250+ cities. Our apps (iOS and Android) have the industry’s highest ratings, largely thanks to our customer-first-mindset, which shows in how we build products and run operations. In June 2022 we officially joined forces with DoorDash. Combined, we have a presence in 27 countries, 23 of which operate with the Wolt brand and app. Wolt and DoorDash continue largely independently, with Wolt’s name, brand, product, technology and team.
+Our Commitment to Diversity, Equity & Inclusion
+We want to have all sorts of people in our team – people like you and me, and people different from you and me. To be able to work with diverse teammates – when it comes to gender, age, ethnicity, life background, sexual orientation, political views, religion, or any other personal trait – we consciously aim to offer equal opportunity for everyone to work with us. This is because we believe diverse teams make the most thought-through decisions and build things in the most inclusive way.
+Join us today to build Wolt together!

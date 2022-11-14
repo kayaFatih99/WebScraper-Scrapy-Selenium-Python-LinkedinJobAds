@@ -1,0 +1,40 @@
+About the job
+If you want to work on a toolchain to make the life of fellow developers easier then Applanga is the right place for you!
+Here’s our website: https://www.applanga.com/
+
+We aim to automate all manual steps involved in app and software localization to save time for developers and to reduce manual processes. With automated and smart context features we also provide translators everything they need for high quality translations. The Applanga end-to-end software localization management platform, suite of SDKs and integrations in tools like Jira is our way to overhaul the software localization process in general.
+
+While keeping the innovative start-up spirit alive, in 2018 Applanga was acquired by TransPerfect the world’s largest provider of language and technology solutions for global business. Therefore, we can offer to work on cutting edge innovation in a very exciting field but also the security and benefits of a large enterprise.
+
+About the Job
+Contribute to the development of our native SDKs for multiple platforms in an agile and test driven environment. Take ownership of parts of the development process and work closely on the implementation of new features together with the team. Find creative solutions to complex problems in software localization workflows.
+
+Responsibilities:
+● Improve & extend features on our existing SDKs for iOS and Android as well as OSX, Unity, Xamarin, React Native and Flutter
+● Add new integrations to the list
+● Help customers to tackle integration issues
+● Development of truly full-stack technology, spanning frontend, backend & mobile SDKs
+● Identify opportunities for application improvements based on our current setup & beyond
+● Improve, extend and maintain our test, build and deployment automation
+
+In return, you can expect to see your ideas put to work immediately and experience other developers delighted as they use the product you've built. You will receive an adequate salary, flexible working hours and have the opportunity to work with an experienced development team.
+
+What we offer:
+● A chance to work with a lot of different technologies
+● Work remotely, from our Berlin office or from any of the over 100 TransPerfect offices around the world full or just for a limited time
+● Contribute to a product used by thousands of people and companies with household names from around the world
+● Short sprints and frequent releases let you see your work quickly
+● The flexibility of a startup working environment with the stability of a global enterprise
+● An inspiring international team, fun, team events and productive environment
+● All the hardware and software you need to do your job
+● Challenges, space for creativity, and taking ownership
+● Competitive Salary
+
+Who we´re looking for:
+● You have relevant experience in Core iOS and/or Android development and ideally already worked on SDKs and plugins as well as the other mentioned platforms
+● You are open minded about the tools you use for the job and able to jump between different languages and platforms to work on all parts of our integrations
+● You speak English fluently
+● You can show us some pieces of your work (private or professional) you're proud of
+● Experience in JavaScript and Python are a plus to spot related issues with backend and CLI
+
+By applying, you confirm you have read and accepted TransPerfect's Privacy Policy: https://www.transperfect.com/about/data-privacy-recruiting

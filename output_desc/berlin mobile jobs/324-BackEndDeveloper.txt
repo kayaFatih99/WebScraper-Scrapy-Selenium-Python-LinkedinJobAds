@@ -1,0 +1,12 @@
+About the job
+Plexus has partnered with a marketplace in the ReFi space driving capital towards environmentally friendly products.
+
+They are currently looking for a backend developer to work on the company website and marketplace.
+
+Responsibilities:
+Back-end development using Node.js, MongoDB and GraphQL with deployment via AWS
+Collaborating with the blockchain development team to ensure that the back-end is setup to securely integrate with web3 technologies.
+Qualifications:
+Proficiency in working on the backend for production applications in Node.js
+5+ years of experience working on back-end development ideally within product or a start-up
+Usage of NoSQL & SQL databases, potentially with exposure to MongoDB, MySQL & GraphQL

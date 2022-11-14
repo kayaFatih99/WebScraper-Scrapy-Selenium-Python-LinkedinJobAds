@@ -1,0 +1,17 @@
+About the job
+This role is perfect for an ambitious Senior Backend Engineer who strives to learn both Infrastructure and API Development. Someone with a solid understanding of API design spends most of their day organizing data and creating the most efficient schemas.
+
+
+What we're looking for:
+5+ years of experience working either as a backend developer working on modern JavaScript frameworks (i.e., Node.JS, Nest.JS) and Typescript
+Experience with technologies such as GraphQL and Headless CMS
+Experience with JAMstack and/or Headless CMS (Contentful) (bonus)
+5+ years of API construction experience
+
+
+Pay, Benefits, & Perks:
+Pay: €85K - €100K annually
+Massive growth opportunity and equity for all employees
+Unlimited PTO + remote-friendly
+Brand new MacBook Pro and home office setup
+Catered lunches, monthly happy hours, and companywide offsite events

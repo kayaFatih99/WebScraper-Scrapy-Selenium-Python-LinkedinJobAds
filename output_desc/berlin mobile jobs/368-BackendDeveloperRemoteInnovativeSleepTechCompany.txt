@@ -1,0 +1,22 @@
+About the job
+Job Role: Backend Developer
+Location: Remote within Germany
+Techstack: JavaScript/TypeScript, Node.js, Golang
+
+Company Overview:
+This company has been revolutionising the sleep industry and has quickly become one of Europe’s fastest growing sleep innovation companies with international offices all over the world. They have placed technology at the core of their business through the development of software products using cutting-edge techstacks which allow their business and developers to thrive and grow.
+
+They are currently looking to expand their international team by bringing on JavaScript/Golang developers across all seniority levels (From Mid/Senior opportunities all the way to Staff/Principal and Engineering Manager roles available).
+
+What you should bring to the table :
+A deep understanding of JavaScript/TypeScript with experience in Node.js or Golang
+Implement backend services in a services-oriented architecture (APIfirst) in a cloud-native environment
+Implementing unit/integration testing
+Understanding of the importance of well-organized codebase and documentation
+Experience in legacy E-commerce stacks (i.e. Magento and PHP) is considered a plus
+
+What they promise to offer:
+Be part of an agile and empowered team of engineers where the potential for personal and professional development are enormous.
+Their company culture embodies entrepreneurial spirit and maintains a start-up mentality despite their fast-growing workforce.
+They tend to stray away from corporate ideology and prioritises flexability and out-of-the-box thinking among its employees#
+You will be given responsibility and decision making authority from day one – enabling you to have an impact on shaping the company’s DNA.

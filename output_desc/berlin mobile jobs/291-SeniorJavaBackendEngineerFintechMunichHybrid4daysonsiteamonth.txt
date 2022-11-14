@@ -1,0 +1,43 @@
+About the job
+Senior Java Backend Engineer – Fintech – Munich (Hybrid – 4 days onsite a month)
+
+We are currently recruiting for a leading Fintech company, which is going through a period of growth to help them expand, which has been backed by a €210 million investment. They are searching for a Senior Backend Engineer, who can help them develop a new version of their trading platform.
+
+Their product has revolutionized their sector, giving clients a transparent overview of the market and reducing the need to use brokers. Their B2B trading platform has become incredibly popular across the European market with over 2000 members and over 400 organisations currently using it. With the planned growth and investment, they would like to scale their operations and tap into the wider global trading market. This is a great opportunity to join a growing business which will offer you unlimited career growth.
+
+They are looking for an experienced Senior Backend Engineer who loves to solve complex technical problems, has strong experience with spring boot and has good experience working in a cloud-based environment. The business is based in Munich, and they offer a hybrid working model and require all tech employees to be onsite 2 days every 2 weeks to conduct your sprint meetings in person.
+
+You will get to work in a collaborative environment with a big focus on innovative engineering culture, using modern technology to further transform a great product they have created.
+
+Requirements
+Completed degree in computer science or equivalent qualification or comparable practical experience
+Over 7 years of Java-based backend engineering experience in a commercial setting
+Strong experience and knowledge of Spring Boot and building RESTful APIs
+Experience and good knowledge of database design (SQL and NoSQL ideally)
+Understanding of clean code principal and software development lifecycle
+General understanding of design patterns & software architecture
+Comfortable testing your code and being able to coach others to build highly reliable code
+You are keen to learn and try out new ideas, eager to build highly scalable applications
+Experience working in DevOps Environment
+Strong written and spoken English skills
+Experience building B2B applications is desirable
+Experience building fintech applications is desirable
+Experience with AWS would be advantageous
+
+What you will get in return:
+Work with a highly talented and capable team of professionals who have built a market-leading product
+Modern tech stack: Java, Kotlin, Spring Boot, AWS, IaC, Angular, Typescript, Cypress, Docker, Gitlab, Intellij IDEA
+Self-development and non-work-related coding days (hackathons, training courses and more)
+A personal development plan, with extra time off for training courses and certifications
+Flat hierarchy with clear communication & visibility
+Modern office spaces in the heart of Munich
+Latest hardware and software of your choice
+A diverse, multi-cultural workforce who have won multiple awards and have very good reviews
+Free drinks, fruit, and coffee as well as sports/ fitness plans
+Hybrid working – home office set-up
+Free language classes (German)
+Dog-friendly office
+
+If this sounds interesting, please do not hesitate to apply and one of our consultants will be in touch shortly to process the next steps.
+
+If you have any questions please contact Franklyn Picconi Franklyn@next-ventures.com

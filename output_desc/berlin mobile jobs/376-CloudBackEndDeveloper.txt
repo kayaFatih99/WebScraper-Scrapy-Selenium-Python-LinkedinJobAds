@@ -1,0 +1,34 @@
+About the job
+Cloud Back End Developer
+
+Would you like to be a part of the Digital Commerce department of a sustainable, goal-oriented, globally operating and ever-growing company?
+
+We are seeking a Cloud Back End Developer (m/f/d) for our client's head office in Mannheim - Germany, which is one of the most successful companies across Europe with over 270 expert centers in 19 countries. Our client offers you a stable career in Germany with a competitive salary package, 30 days paid vacation, flexible working hours and extra benefits.
+
+Resposibilities
+As Cloud Back End Developer (m/f/d) you design, develop and improve resilient and scalable software solutions which fuel our internal or customer facing APIs
+You solve system design challenges within your team and across team boundaries in a product centric environment
+You implement, deploy and operate your team’s cloud native microservices in the production environment and foresee, identify and solve production issues
+You support junior team colleagues through coaching and code reviews
+You follow agile working principles and focus on values such as objectives and key results
+You drive quality and standards in our engineering community
+
+Requirements
+Deep knowledge in designing distributed software systems in the field of e-commerce
+Experience in refactoring classical backends to microservices and familiar with strangler-patterns
+Understanding of resilience patterns and for building distributed systems in an organization at scale as well as strong track record in microservice architectures and RESTful API design, ideally cloud native experience
+Knowledge in serverless technologies, Docker/K8s, DevOps, TDD, API design, GraqhQL, cloud environments and CI/CD
+Practical experience in operating technical software systems based on cloud environments (Azure or GCP) including site reliability thinking
+Strong communication skills with the ability to support technical decision making by balancing customer impact and technical quality
+
+What is in it for you?
+30 days paid vacation
+Permanent employment contract and attractive remuneration
+Flexible working hours between 07:00 - 20:00 with core working hours 9 am to 4 pm
+Company pension plan
+Subsidized daycare center for children up to 3 years
+Subsidized restaurant
+Relocation support to Mannheim for employees who do not want to work remotely (up to 5.000 EUR)
+German courses during working hours
+Generous training budget
+A+ teammates and remarkable company culture

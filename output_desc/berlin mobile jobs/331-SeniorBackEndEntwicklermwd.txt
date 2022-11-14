@@ -1,0 +1,38 @@
+About the job
+Du bist auf der Suche nach einer neuen Herausforderung, brauchst neuen Input und spielst deshalb mit dem Gedanken an einen Jobwechsel? Wir begleiten Dich dabei mit unserer Expertise bei der Suche nach hochattraktiven Jobs für Fach- und Führungskräfte.
+
+Senior Backend Entwickler (m/w/d)
+
+Aufgaben:
+Du bist zuständig für Weiterentwicklung und Wartung des vorhandenen Kunden-Informationssystems
+Du implementierst neue Features und Anwendungsbereiche gemäß Spezifikation
+Du verantwortest die Wartung: Performance-Optimierung, Fehler-Analyse und -Behebung
+die Erstellung technischer Konzepte und Aufwandsschätzungen sowie Dokumentation runden Dein Profil ab
+
+Profil:
+Du hast sehr gute Kenntnisse mit SpringBoot und Kotlin
+weiterhin verfügst Du über gute Kenntnisse mit Git und SQL
+Du arbeitest praxisorientiert, gewissenhaft sowie kundenorientiert
+sehr gute Deutschkenntnisse in Wort und Schrift (min. Sprachniveau C2) runden Dein Profil ab
+
+Unser Angebot:
+Dein direkter Weg in die Festanstellung bei unseren Kunden
+enge Abstimmung mit Dir und Deinem potentiellen Arbeitgeber unter Berücksichtigung Deiner Wünsche
+Dein direkter Kontakt zu Personalentscheidern
+neue Jobperspektiven in den verschiedensten Branchen erwarten Dich
+Du erfährst eine intensive Vorbereitung auf das Vorstellungsgespräch bei unserem Auftraggeber
+
+Jetzt bewerben!
+In dem Beruf, den Du liebst. In der Branche, die zu Dir passt. In der Stadt, in der Du lebst oder leben möchtest. Auf dem Karrierelevel, das Dir entspricht. Tag für Tag vergeben wir zahlreiche Stellen und bleiben als Arbeitgeber stets an Deiner Seite. Garantiert. Welche Wendungen Deine beruflichen Pläne auch nehmen, wir begleiten und unterstützen Dich auf Deinem Weg.
+
+Wir sind mit mehr als 200 Niederlassungen bundesweit vertreten und können so seit 55 Jahren überaus erfolgreich hochattraktive Jobs an motivierte und qualifizierte Bewerber vermitteln. Rund 17.000 Mitarbeiterinnen und Mitarbeiter in Deutschland, der Schweiz und in Spanien verlassen sich auf unsere Expertise.
+
+Gestalte mit uns Deine erfolgreiche Zukunft! Wir freuen uns auf Deine Bewerbung.
+
+Dieser Job ist doch nicht das Richtige? Mit unserem Job-Newsletter jetzt viele Stellenanzeigen bekommen: Gleich anmelden!
+
+persona service AG & Co. KG • Niederlassung: Frankfurt am Main • Frau Shiva Ghelichkhani
+Berliner Str. 44 • 60311 Frankfurt • Telefon: 069 1338700 • frankfurt@persona.de • www.persona.de
+
+
+[103309]

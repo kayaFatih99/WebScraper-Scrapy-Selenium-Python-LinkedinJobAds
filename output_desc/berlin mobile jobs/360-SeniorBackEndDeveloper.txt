@@ -1,0 +1,18 @@
+About the job
+The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.
+
+Responsibilities
+Writing clean, high-quality, high-performance, maintainable code
+Develop and support software including applications, database integration, interfaces, and new functionality enhancements
+Coordinate cross-functionally to insure project meets business objectives and compliance standards
+Support test and deployment of new products and features
+Participate in code reviews
+
+Qualifications
+You have several years of experience in the development of web applications.
+You have solid knowledge of agile methods (Scrum, Kanban)
+You have extensive experience in dealing with TypeScript, React, Node.js, microservices, rest APIs and AWS or cloud technologies.
+Strong communication skills, a quick grasp and good to very good knowledge of German (at least C1) in spoken and written round off your profile.
+
+Please if interested please feel free to reach out to me directly via email
+george.white@exploreltd.com

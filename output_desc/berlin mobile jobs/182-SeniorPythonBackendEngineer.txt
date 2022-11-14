@@ -1,0 +1,36 @@
+About the job
+Job Description
+
+Are you interested in being part of building a service that is unique to the tastes of our over 14 million users? Wolt is looking for multiple backend engineers with Python skills to join our different engineering teams across the product development organization.
+We have a strong Python community at Wolt: around 100 of our engineers are actively using Python and sharing knowledge related to its rich ecosystem. Python is not only the language of data but also the most widely used language in the web backend services of Wolt. For example, most of the consumer client-facing endpoints run Python under the hood.
+Modern Python is our bread and butter. We did the 2 to 3 migration already four years ago. Nowadays, we strive to always use the latest Python version in our services, which allows us to benefit from the latest language features. If you are a Pythonista and would enjoy being surrounded by like-minded people, we have a lot to offer.
+
+Some concrete examples of Python at Wolt:
+When you open the Wolt mobile app or navigate to the wolt.com front page, the request is served by a Flask backend which is juiced up with async gevent workers.
+We deployed the first FastAPI based service to production in January 2020. We are not afraid of being early adopters of fresh but promising technologies.
+We use Celery for most of the heavy lifting which happens in the background. We run millions of tasks every day.
+When you search for your favorite hamburger place in Wolt, the search results are obtained from Elasticsearch via a Python backend. Actually, we even have a dedicated team working on the search.
+We have developed a number of Wolt specific Python libraries (indexed in our private PyPI) which help us in building new services without copy-pasting code around.
+If the above examples piqued your interest, also check out:
+Wolt Tech Talks Youtube channel has recordings from our Python meetups and
+the Python-related blog posts in our engineering blog.
+Last but not least, these roles can be based in one of our tech hubs in Helsinki or Berlin, or you can work remotely anywhere in Finland, Sweden, Germany, Denmark, and Estonia now and in the future. Read more about our remote setup here.
+
+Our humble expectations
+
+You might be the one if you are an engineer with experience designing and building top-class software and APIs, enthusiasm towards working with Python is naturally essential. We mostly work with Python (Flask & FastAPI), MongoDB, PostgreSQL, and appreciate it if you understand what it takes to build and operate scalable software services in production. Our massive backend software is powered with Kubernetes in AWS so proficiency in these platforms or similar and cloud infrastructure is a huge plus.
+
+Aside from technology, we expect you to be a product-oriented problem solver, a good communicator, willing to collaborate with people in- and outside of your own team, and keen to bring up issues in a constructive manner to the team and to Wolt at large. We work with high ownership in small teams where each team member works around the whole SW development life cycle. Each and every one of our product team members has a say in where we are going and what solutions we implement.
+
+Next Steps
+
+The compensation will be a negotiable combination of monthly pay and DoorDash RSUs. The latter makes it exceptionally easy to be excited about our company growing and doing well, as you'll own a piece of the pie.
+
+About Wolt
+
+Wolt is a technology company that makes it incredibly easy to discover and get the best restaurants, grocery stores and other local shops delivered to your home or office. Wolt works together with over 52,000 restaurant and retail partners as well as with over 110,000 courier partners across 23 countries and 210 cities.
+Our apps (iOS and Android) have the industry’s highest reviews, largely because of our customer-centric approach to how we build our products and operations. For example, our customer service team responds in a matter of seconds, in the customer’s own language.
+We’ve raised more than €707M in financing from renowned U.S. and European based investors, such as ICONIQ Capital, Tiger Global, DST, Prosus, KKR, Coatue, 83North, Goldman Sachs, Highland Europe and EQT Ventures & EQT Growth, among others. We've also been fortunate enough to receive some appreciation and recognition for our hard work along the way: Apple selected Wolt’s app as their Editors' Choice, Wired named the company one of the "Hottest Startups in Europe," Forbes included our CEO Miki Kuusi on its 30-under-30 in Consumer Tech list, and the Nordic Startup Awards named Wolt Company of the Year.
+In 2020, the Financial Times named us Europe’s second fastest growing company. We’re still expanding rapidly and are looking for more talented individuals to join us. If you are passionate about cutting-edge technology, great food, and making an impact in your city, then Wolt just might be for you.
+Wolt is more than just a food and retail delivery operation – in fact we are built upon a solid foundation of state-of-the-art technology. Our internal tooling enables us to ramp up new cities efficiently and provide excellent customer service, our own logistics platform allows us to optimise our couriers' work to get you the food you want as fast as possible, and our restaurant platform allows restaurants to offer exciting food experiences for our customers in an optimal way.
+We work in small teams with high ownership, with each team focusing on a key area of the Wolt product stack. Each and every one of our product team members has a say in where we are going and what solutions we implement. We work with a passion, but we haven't forgotten how to have fun along the way!

@@ -1,0 +1,47 @@
+About the job
+With OWWN we want to enable the Gen Z to make excellent financial decisions in seconds and become the most preferred financial company in Europe. To achieve this, we have currently raised more than 5 million in seed funding from EQT Ventures, 468 Capital as well as top-tier business angels. 💸
+
+In order to make this vision a reality and continue to support our customers through their next financial challenges, we are looking to expand our team in the upcoming months and are therefore looking for a new member to join our team. 💪
+
+Are you a service-oriented and entrepreneurial mind with proven experience in exciting and delighting customers? Are you full of new ideas and just dying for a chance to finally bring them to life? Does working in a truly customer-centric company excite and motivate you? If this sounds like you, we would love to talk to you!
+
+Your responsibilities in our team
+
+Build high-quality mobile applications for iOS and Android using Flutter.
+Experience in driving technical projects from beginning to end.
+Work to improve the performance, reliability, and overall user experience of our mobile applications.
+Collaborate closely with our product team to build new features and experiences.
+
+Our humble expectations
+
+It's at the core of our culture that we don't just accept the status quo, but enable everything in the customer's mind that leads to a better life. For this, you need a lot of energy and resilience to constantly find new ways to solve things.
+4+ years of experience building mobile apps using Swift, Objective-C, Java, or Kotlin.
+Experience with using Flutter and Dart.
+Experience in building custom components in Flutter.
+Experience in writing proper Unit test.
+Familiar with Flutter provider pattern.
+Write multi-threaded, asynchronous code.
+Familiar with clean architecture.
+Proficient understanding of code versioning tools, such as Git.
+You're fluent in English (add-on: German)
+
+Benefits
+
+🚀 Perfect timing with renowned investors to build something great
+🧠 Outstanding mentors who will support you in your growth
+💸 Attractive salary and you even get a stake in the company
+💪 Access to city-wide sport offerings and language courses
+📈 Extremely steep learning curve with own responsibility and intensive support
+📣 Learn to be pragmatic and make quick and sustainable decisions
+⏱️ Flexible working hours, because we care about your outcome and not output
+🤙🏽 Very strong team cohesion with daily and weekly activities
+
+Do you want to become part of our first-class team and empower young people to make excellent financial decisions even without prior knowledge? Then you absolutely have to send us your application immediately. 🚀
+
+PS: And if you want to stand out in your application, just let us know in your cover letter what we can improve about our website, the product or even our job offers. 💡
+
+Notice:
+
+We value equal opportunity. It means we do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, and we encourage all people equally to apply for jobs with us.
+
+We celebrate diversity and are committed to creating an inclusive environment for all employees, as we believe diverse teams are more successful in the long term.

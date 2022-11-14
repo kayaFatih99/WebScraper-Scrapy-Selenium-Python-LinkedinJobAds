@@ -1,0 +1,43 @@
+About the job
+Please only apply if you are currently based in Europe
+
+We are a venture-backed health tech startup supported by leading investors and scientists on a mission to improve the lives of the 400 million people around the world who suffer from genetic diseases. The platform we have developed uses artificial intelligence and synthetic biology to decipher how changes in the DNA of humans lead to disease. Through this platform, we enable genetic testing labs to provide clear and fast diagnoses to more patients.
+
+For this, we've gathered one of the best teams of experts in genomics, artificial intelligence, and business development. Our people aren't just part of a team, they're part of something bigger. As a community of creative thinkers and doers, we're paving the way for a new generation of genetic healthcare.
+
+Your role
+
+We are looking for a Senior Backend Engineer with experience in building large-scale web applications to join our Software engineering team, with the goal of building and improving the backend, API and cloud architecture of our cutting-edge diagnostics platform. You will work in a cross-functional team with specialists across different engineering disciplines, as well as with our Machine Learning, Data Science and Product teams. To reach millions of patients throughout the world, we need to further develop and enhance our API, backend and cloud-based architecture to meet high-quality engineering standards.
+
+We foster a flexible work environment and encourage applications from candidates that are either based in Berlin or would work remotely (within Europe) with a willingness to travel to Berlin occasionally.
+
+Essential
+5+ years of professional experience in software engineering
+You have a proven track record of experience with at least one backend language such as Python, Rust, Go, Java, C++, as well as experience in building large scale applications with Linux based systems
+Comfortable with one or more web development frameworks (Ruby on Rails, Elixir, Django, React, ...)
+Proven track record of building and maintaining high availability systems within a cloud-based environment (preferably within AWS)
+Confidence to take technical leadership of projects from planning to delivery and actively contribute to technical design and architecture decisions.
+Ability to evaluate potential architecture approaches and capability to take ownership over the API and Backend part of the architecture
+Following engineering best practices, having high-quality code standards and utilizing tools to ensure that these are constantly met. (using tools for automated testing, code quality scans, performance monitoring, error/exception reporting…)
+You have a solid foundation in software patterns, data structures, algorithms, software design and experience designing & building scalable data-intensive architectures
+Experience with CI/CD, Docker, Alerting and monitoring solutions
+Experience with at least one of the different relational and non-relational database technologies (DynamoDB, PostgreSQL, MySQL, MongoDB etc…)
+A profound understanding of agility vs technical debt and a DevOps mindset
+Willingness to learn and openness to feedback
+Nice-to-have
+Experience with FastAPI or other python related API web frameworks
+Experience with Terraform
+Experience with launching ready to market products, preferably within a start-up
+Experience in running a cloud native architecture and infrastructure
+An interest in the deployment and productionizing of Machine Learning models
+Interest in customer and partner feedback and data collection to inform decisions and iteration
+What We Value In Our Team
+
+Our team reflects the interdisciplinary collaboration required to solve this big challenge – ranging from software and data science to genetics and healthcare. We are a proudly diverse, international group of creative problem-solvers and humble learners who care about positively impacting society and are also aware of the trust placed in us. This is why we value transparency and kindness, taking ownership and we encourage your personal growth:
+Develop your personal skills and knowledge with resources like books and courses to learn continuously
+Dynamic and flexible work environment that you can design (incl. remote work options)
+Participate in our success with equity options
+Possibility to grow with the company and influence our direction
+Regular social activities: participate only if you feel like it
+Additionally, we offer good coffee, a selection of healthy snacks and company-subsidized public transport in our Berlin office
+We see diversity as a core feature of our team and we encourage you to apply especially if you are from an underrepresented group.

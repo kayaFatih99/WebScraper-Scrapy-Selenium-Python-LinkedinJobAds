@@ -1,0 +1,49 @@
+About the job
+About The Opportunity
+Collaborate with product owners, designers, and other developers to build a best-in-class experience for our customers
+Transcend the traditional boundaries of Frontend and Backend, designing and delivering performant, maintainable, and scalable features and services
+Think in terms of components and systems while considering a holistic user experience
+Rapidly fix bugs and solve problems for our customers
+Practice data-informed product development through analytics, A/B testing, etc.
+What to expect?
+Create tools to build apps that can customize Contentful to fit user and business needs with App Framework
+Continuously improve our GraphQL API experience
+Develop new apps that simplify and improve content editing and delivery with Contentful
+Solve complex engineering problems to improve performance and scalability of Contentful
+Develop on our Platform with modern services like AWS, Docker, Kubernetes, and Terraform
+What do you need to be successful?
+Demonstrated expertise in JavaScript application development, including asynchronous programming, Promises, ES6
+Strong knowledge of the server-side JavaScript ecosystem (Node.js)
+Knowledge of Typescript is a big plus
+Knowledge of functional programming principles is a plus
+Have strong teamwork skills, open to diverse opinions, and can give reasons for your technical decisions.
+Excellent English communication skills, both verbal and written (German is not required)
+What's in it for you?
+Join an ambitious tech company reshaping the way people build digital experiences
+Full-time employees receive Stock Options for the opportunity to share ownership and the success of our company
+We value Work-Life balance and You Time! A generous amount of paid time off, including vacation days, education days, and volunteer days
+Access to our Employee Assistance Program (EAP) for information, support, discussion, and counseling for life’s challenges
+Use your personal education budget to improve your skills and grow in your career. Join a free German class or one of our many internal learning initiatives!
+Use your physical fitness budget to get away from your desk and support your physical wellness
+Enjoy a full range of virtual events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties
+A monthly phone/internet stipend and phone upgrade reimbursement after 2 years
+Plus, Contentful socks! And other amazing swag as part of company events. Oh yeah!
+To view more career opportunities, visit https://www.contentful.com/careers/
+
+Who are we?
+
+Contentful is the leading content platform that powers digital experiences for over 30% of the Fortune 500 companies and thousands of global brands. Our platform unifies content in a single hub, structures it for use in any digital channel and integrates seamlessly with hundreds of tools through open APIs. It lets developers and content creators work in parallel, increasing team efficiency and happiness. Companies such as Shopify, Staples, Atlassian, Electronic Arts, Chanel, Roche, Vodafone use Contentful to build their mobile and web products, voice-controlled apps and more.
+
+We’re growing rapidly and we have secured over $330 million in funding from top-tier partners such as Tiger Global, Sapphire Ventures, Salesforce Ventures, General Catalyst and Benchmark.
+
+More than 750 people from 70 nations contribute their energy and creativity to Contentful, working from hubs in Berlin, San Francisco, Denver and distributed around the world.
+
+Everyone is welcome here!
+
+“Everyone is welcome here” is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!
+
+If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.
+
+Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information such as bank account numbers, identification numbers, etc through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reaching out to us at security-esk@contentful.com with any information you may have.
+
+By clicking “Apply for this job,” I acknowledge that I have read the “Contentful’s Candidate Privacy Notice”, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.

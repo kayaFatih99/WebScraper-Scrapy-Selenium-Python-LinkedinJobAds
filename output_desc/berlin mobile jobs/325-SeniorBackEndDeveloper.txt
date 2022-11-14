@@ -1,0 +1,50 @@
+About the job
+Work Remote - Full Time
+
+Powerfront Inc. (www.powerfront.com) is an international SaaS provider and the creator of the INSIDE™ Customer Visual Engagement Platform. For the first time, retailers can view their online store or website LIVE in real-time; track customers’ behavior, and interact when it matters the most. Our Portfolio includes leading brands such as Gucci, Valentino, Staples, Neiman Marcus, Rooms To Go, Sephora and more.
+
+
+We are a dedicated, passionate, and close-knit team with technology running through our veins. Powerfront is a strategic technology partner that transforms the way companies run their customer engagement strategies. A career at Powerfront is exciting, challenging and rewarding.
+
+https://www.youtube.com/watch?v=kQkSihDANxA
+
+We are looking for a game changer that will take the initiative to implement and engineer the experience of every software application being put out by our business. The ideal candidate is someone who:
+
+● Has 7+ years experience in a Senior Back End Development role
+● Ability to apply usable principles and procedures in API/Database development
+● Experience in leading and building elegant and sophisticated user interfaces
+● Ability to play a very collaborative role and regularly collaborate with designers, other
+developers, and product owners in order to avail interactive and scalable sites/software/procedures/etc.
+
+Key Responsibilities
+
+● Providing technical support to customers and team members
+● Collaborating with the front-end developers and with other team members to establish objectives and design more functional, cohesive codes to enhance the user experience and to integrate back-end codes as well
+● Working with our international development team to deliver bug fixes and feature requests originating from our customers
+● Providing backup to our business team to perfect our Customer Service world wide
+● Extending the current Powerfront INSIDE platform (MSSQL, C# .Net 4.6, and SignalR)
+● Coding the back-end of INSIDE products in relation to technologies mainly involving but not limited to Microsoft technology, C#, SQL Server, Web API, and Rest API
+● Knowledge of newer serverless architecture like Firebase
+● Having experience with front-end technologies to understand the front-end integrations including, but not limited to HTML, CSS, Javascript, React, and JQuery
+● Improving integration with any required 3rd party systems like Salesforce, Zendesk and other CRM/Chat solutions
+● Writing automated tests, implementing, and testing codes
+● Supporting, troubleshooting, innovating, and improving existing codes
+● Optimising and writing new database queries
+● Managing task schedules and work within established timeframes
+
+Summary of Benefits
+
+● Competitive salary
+● Join a dynamic & forward-thinking organization revolutionizing retail technology
+● Be a part of an amazing culture with high client and staff retention
+● Take pride in partnering with the most prestigious brands in the world
+● Career progression and longevity
+● Remote work environment
+
+About Powerfront
+Powerfront is a leading provider of customer engagement technology and solutions. The company’s proprietary engagement software INSIDE™ provides real-time actionable intelligence that beautifully orchestrates an expanding ecosystem of communication platforms that has transformed the online retail experience.
+
+INSIDE can be leveraged in a variety of configurations to meet customers’ needs. Its open architecture enables customers in the luxury retail, fashion, travel, automotive, finance, and government sectors to easily deploy direct connections to their end-users while leveraging the power of data visualization and AI to drastically improve operational efficiency and effectiveness.
+
+
+Note: The purpose of this profile is to provide a general summary of essential responsibilities for the position and is not meant as an exhaustive list. Assignments may differ for individuals within the same role-based on business conditions, departmental needs, or geographic location. Powerfront provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics

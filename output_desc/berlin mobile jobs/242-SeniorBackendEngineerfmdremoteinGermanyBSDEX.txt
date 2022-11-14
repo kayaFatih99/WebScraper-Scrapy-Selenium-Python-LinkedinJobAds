@@ -1,0 +1,48 @@
+About the job
+Location: Berlin or Stuttgart or remote in Germany
+
+You don’t live in Berlin? No worries, we live and breathe a remote culture!
+
+
+About
+We are Boerse Stuttgart Digital Exchange GmbH – we are building Germany ́s first regulated trading venue for digital assets. We set high standards in transparency and security and offer a reliable framework for trading. To realize this ambitious endeavor, we are looking for new colleagues (f/m/d), who are willing to take on responsibility and bring in a good portion of pioneering spirit and courage to accompany us on this path.
+
+
+Mission
+Börse Stuttgart Digital Exchange offers private and institutional customers a trustworthy and reliable way to trade and hold digital assets.
+
+You independently take ownership of the architecture, code, products, and tools and continuously build, improve and communicate. You will work on the codebase behind the trading floor, fund management services, real-time market data, FIX engine, and data platform. Our trading services are written in Go. You build beautiful internal and external APIs and make existing ones better.
+
+
+Requirements
+Extensive expertise delivering event-driven microservices with a focus on security, the efficiency of development effort, maintainability, and resilience
+Sound knowledge of strongly typed programming languages, such as Golang or Java
+Experience with relational databases, such as Postgres
+Understanding of canonical RESTful API principles
+Ability to lay the path from legacy systems to target architecture
+Capability of working independently and delivering on commitments
+Strong troubleshooting and debugging skills
+
+Good to have
+Experience delivering software written in Golang is a plus
+Experience with regulated environments, such as FinTech, InsurTech, or MedTech
+You are comfortable working with advanced data structures & algorithms and their trade-offs in time, space and engineering effort
+Experience with Docker and Kubernetes in cloud environment is a plus
+Experience with messaging brokers, such as Kafka
+Experience with in-memory datastores, such as Redis
+
+Responsibilities
+Design, build and maintain backend services according to the development guidelines
+Collaborate with your direct peers and different teams on feature design, risk assessment, and delivery timelines
+Advocate efficacy of development processes, operational excellence, secure development practices, and software quality
+
+Benefits
+Competitive salary
+Stability through corporate backing and lots of growth opportunities
+Flexibility: work from where you want (in Germany), when you want
+State-of-the-art tech environment
+Learning & Development budget (500 € annually for non-student positions)
+30 days of vacation (based on full-time)
+
+
+Sounds good? The BSDEX Recruiting Team looks forward to your profile - no need for a cover letter! Please apply via our careers page.

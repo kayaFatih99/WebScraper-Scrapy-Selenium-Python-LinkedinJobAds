@@ -1,0 +1,45 @@
+About the job
+Festanstellung | Vollzeit | Remote/Berlin
+
+Wir möchten Tools entwerfen, die nicht nur perfekt auf die Bedürfnisse der Festivals zugeschnitten sind, sondern diese auch empowern. Daher arbeiten wir bei der Entwicklung von Organisations- und Community Tools, sowie einem Marktplatz und der zugehörigen App mit über 100 Festivals zusammen.
+
+Als Senior Native Mobile Application Developer*in suchen wir eine/n Spielertrainer*in. Du kannst Anleitung und Hilfestellungen geben, Wissen und Struktur teilen und das Team formen und weiterentwickeln. Gleichermaßen brauchen wir dich auf dem Platz als aktive Rolle in der Entwicklung, um neue Features und Ideen vom Entwurf bis zur Realisierung in die Produkte zu begleiten.
+
+Aufgaben
+Jedes gute Team braucht eine/n Coach, diese anleitende Rolle nimmst du für unser 3-köpfiges Mobile Development Team ein
+Konzeptionierung und Umsetzung einer nativen App, Weiterentwicklung und Verbesserung des bestehenden Produktes
+Schulter an Schulter arbeitest du mit unserem UI & UX - Team , sowie unserer Backend-Entwicklungscrew
+Du bist der heiße Draht zu unserem Architekturmanagement-Team, welches sich mit der Vorbereitung und Umsetzung von Architektur- und Design-Entscheidungen beschäftigt
+Dein kreatives Mindset ist gefragt! Du gestaltest Features in Kooperation mit deinem Team, anstatt lediglich fertige Konzepte umzusetzen
+Aktive Gestaltung unseres agilen Produkt-und Entwicklungsprozesses gemeinsam mit dem Produkt-Team in Refinements, Sprint Plannings, sowie Retrospektiven ebenso wie die Kommunikation der Ergebnisse innerhalb und außerhalb deines Teams
+
+Qualifikation
+Einen ausgeprägten technischen Hintergrund in der mobilen Entwicklung (Android und iOS)
+Du hast bereits mehrere Apps (mit-)entwickelt und im technischen Programm-/Projektmanagement begleitet
+Du konntest bereits Erfahrungen mit Kotlin Multiplatform sammeln
+Der Umgang mit Datenbanken, Web-Servern und UI/UX-Design ist dir vertraut
+REST/GraphQL und gRPC sind für dich keine Fremdwörter
+Du bringst mehrjährige Erfahrung im Erstellen mobile Applikationen mit Swift / Objective - C oder Kotlin / Java mit
+Continuous Integration via fastlane und Gitlab-CI, SOLID, MVVM, VIPER sind für dich nicht nur Buzzwords, sondern täglich Brot
+Agile Softwareentwicklung (Scrum) fließt förmlich durch deine Adern, zudem bist du vertraut mit GIT, Jira und Confluence
+Du hast den Ehrgeiz mit unserer Firma zu wachsen, dein Wissen zu teilen und Code sowie Technologie weiterzudenken
+Eine Offenheit und Motivation, dass dein Arbeitsplatz mehr sein darf, als der Ort, an dem du dein Geld verdienst.
+Coden ist eine eigene Sprache, trotzdem wollen wir, dass du Teil anderer Prozesse sein kannst. Deswegen sind gute Deutschkenntnisse Voraussetzung.
+Du kannst dich mit unserem Purpose verbinden und hast Lust auf ein neues Arbeitsverständnis.
+Kein Muss, aber wäre schon geil, wenn du ab und an Bock auf Festival hättest ;)
+
+Benefits
+At home oder at Höme, das ist ganz dir überlassen. Bei uns richtet sich dein Arbeitsplatz ganz nach deinem Gusto – ob remote von zu Hause oder aus dem Backstage Container.
+Agil statt Top down, wir arbeiten rollenbasiert und eigenverantwortlich innerhalb unserer Organisation und unseren Teams
+Seite an Seite mit der Festivalbranche! Gemeinsam mit uns kannst du hinter die Kulissen schauen und erfährst, wie dein Lieblingsfestival so tickt
+Kolleg*innen, die mehr als “Hallo” sagen, wenn sie dich an der virtuellen Kaffeemaschine treffen
+Remote ist schön und gut. Oben drauf gibt es bei uns regelmäßige Teamevents, bspw. Kegeln & Pommes, und die jährliche Teamfahrt aufs Land
+Wir nehmen Awareness Arbeit ernst, haben dafür ein eigenes Team, das unsere Organisation von innen beleuchtet und Aufklärungsarbeit betreibt
+macOS oder doch Windows? Wir stellen dir ein aktuelles Laptop Modell zur Verfügung
+
+Klingt gut? Dann melde Dich mit deinem CV bei uns. Erzähle gerne was zu deinem Werdegang und nimm folgende Fragen als Inspiration für dein Anschreiben:
+Wieso willst Du zu Höme?
+Gibt es Bereiche, in denen du dich gerne weiterentwickeln möchtest oder solche, auf die du gar keine Lust hast?
+Was verbindest du mit Festivals? Wenn du magst, teile eine für dich besondere Erinnerung mit uns.
+
+Wir freuen uns, dich ganz bald im Höme Backstage kennenzulernen!

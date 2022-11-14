@@ -1,0 +1,43 @@
+About the job
+Grow with us – Start your career at IU International University!
+
+Support our Innovation team remotely across Germany, preferably in Frankfurt, starting immediately in full-time as Senior Backend and Data Engineer (m/f/d).
+
+Your Responsibilities
+
+Take over responsibility for the Backend development of a complex AI/NLP (Natural Language Processing) and data-driven education engine
+Analyse the existing systems and develop concepts for a high-performance, service-oriented application landscape
+You work with product owners, data scientists, UX experts and key users and enjoy contributing your own ideas
+Design, build and maintain data transformations efficiently and reliably for different purposes (e.g. reporting, growth analysis, multi-dimensional analysis)
+Design, implement and maintain reliable, scalable, robust and extensible big data systems that support core products and business
+Build backend services for large-scale consumer-facing applications
+
+Your profile
+
+You have a lean start-up mentality and want to help us revolutionize the conventional education system
+You are interested in understanding functional insights behind epics and user stories
+You have a strong understanding of backend technologies and you're proficient in one of the common-purpose programming languages, preferably Python, and relevant frameworks
+You are experienced in AWS/GCP, and you understand IaC principles. AWS CloudFormation is a plus
+You're familiar with different database types (relational, key-value, document, NewSQL etc.) and understand their strengths and weaknesses
+You're familiar with REST fundamentals and API design best practices
+Experience with the Big Data technologies is a plus (Hadoop, M/R, Hive, Spark, Metastore, Presto, Flume, Kafka, ClickHouse, Flink etc)
+You are able to work in a fast-paced environment and building prototypes, MVPs, and final products
+You embrace uncertainty and learning about users to adapt the solution or pivot
+You are fluent in English especially in writing, speaking German is a plus
+
+We offer
+
+Shape your career: Rapid growth opens up many new opportunities for you. Tell us about your dream career and we'll help you make it happen.
+Work from wherever you want …: Project management tools (e.g. Scrum) and video meetings make it possible: with IU, the boundaries between here and there blur. You want to work from abroad for a while? No problem thanks to our WorkFlex benefits.
+… and flexible time: It's your job: We trust you and give you the greatest possible freedom to organize yourself.
+You have the choice: You are free to choose your equipment, because everyone has its own preferences when it comes to hardware.
+Take your knowledge to a new level: Benefit from a 100% discount on tuition fees for an IU combined degree in the tech sector and many other free training courses. There is always something new to learn.
+Get a good rest: we push ourselves every day to go above and beyond. But we also take the time to recharge our batteries: with 30 days of annual vacation for all employees. Need some time off? What about a sabbatical?
+
+About Us
+
+Become part of our team at Germany's largest university! We develop solutions to further increase our efficiency and productivity – through automation, higher clocking, and better monitoring of our processes.
+
+Sounds like the perfect job for you? Then apply now! If you have any other questions, feel free to contact our Recruiting Team at Tech-Recruiting@iu.org.
+
+Words are followed by actions: We take our "Culture Of Everyone" very seriously and would like to take this opportunity to expressly point out that you are welcome to join us, regardless of your origin, religion, gender, age or sexual orientation. Even if you have a disability, our doors are wide open to you. We look forward to a diverse community here at IU!

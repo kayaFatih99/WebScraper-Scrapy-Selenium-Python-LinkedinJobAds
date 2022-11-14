@@ -1,0 +1,55 @@
+About the job
+Lumiform, founded in 2018, is a fast-growing SaaS startup from Berlin that operates globally.
+
+A few months ago, we raised €6.4 Million in a Series-A financing round with Tier 1 SaaS investor Capnamic to transform the still untapped €164 billion inspection market.
+
+Inspections take place in all major industries worldwide and are still mostly conducted by pen and paper, like cleaning documentation, risk assessments, maintenance reports, hygiene checks, safety walk documentation, etc. pp.
+
+The Lumiform application enables deskless teams to digitalize and automate their inspection workflows. Over 30,000 organizations across 188 countries already use Lumiform and have submitted over 1.5 million inspections so far.
+
+Our great team works passionately to enable businesses to exceed quality promises and make workplaces safe. A nice side effect: It is environmentally friendly and reduces the use of paper to a maximum.
+
+We are looking for a talented Backend Engineer (all genders) who loves to write clean, high-quality code and who has the desire to learn continuously. You are welcome to work fully remote!
+
+Tasks
+You will work on several levels of the tech stack, from Laravel and MySQL till preparing infrastructure for your code to run (see complete tech stack in section below)
+Be heavily involved in the end-to-end lifecycle of new features and changes, from concept to deployment
+You will improve the performance and quality of the codebase, for example by unit tests, refactorings or rewrites, you will implement new robust features and you can propose and implement improvements of the infrastructure
+As the number of application users is increasing constantly, scalability should be ensured. You will take part in technical discussions, research and innovations.
+Our Product Manager and UX/UI Designer will prepare your tasks thoughtfully and our Scrum Master will take care that our two weeks sprints and the development process are running smoothly
+You will work closely together with our highly experienced Head of Engineering, Tech Lead and Senior team members, learning and sharing your knowledge with the team
+You collaborate with our QA engineers that will support you with developing reliable code
+
+Requirements
+You have at least 5 years experience in development
+Laravel v8+: You have extensive experience with Laravel (at least 3 years). You know Laravel internals and the know-how to test Laravel-based code effectively. You love to use Laravel Collections and like to build robust APIs. Experience with other PHP frameworks, such as Symfony, is a big plus
+php v8: You have been working with PHP since version 5.3, know about the language evolution and are up to date with the modern PHP language features.
+PHPUnit: Either using TDD or writing your tests after the code, you are keen to have high code coverage for each feature
+MySQL v8+: You work with Eloquent ORM effectively and you know how and when to optimize, bring transactions, chunks or use a cursor. You know how to work with SQL directly, analyzing and writing optimized queries. Experience with other DB engines, such as PostgreSQL, MariaDB or Mongo is a big plus
+Docker: You know how to build containers, how to containerize existing applications and how to connect them together with help of docker-compose. We use containers for local development, CI and deploying to AWS ECS
+You have good experience with typical web development services, like queues, caching, web servers, CI, external APIs, background jobs, and monitoring systems
+Mac or Linux is your operating system. You have good experience with Unix on the server as well. The ability to work in the console is a big plus
+
+In the following is more information about our tech stack, not required to work with, but possible, if desired:
+AWS: Some experience is nice to have to work effectively with our infrastructure. We use services like EC2, ECS, Fargate, RDS, ECR, Lambdas, SQS, etc. We like to use CDK to manage AWS via code, but also use AWS UI and Forge
+Nodejs: We have a couple of microservices built with Node, TypeScript, and Express, and they are running in containers
+We use modern JS, TypeScript, Vue framework and a bit of functional programming on FE. Our front-end is built with Webpack.
+We use the following tools for CSS: SCSS, Tailwind CSS and Bulma
+We are running our servers and microservices on Debian/Ubuntu Linux
+
+Benefits
+Remote work & flexible working hours: Feel free to work remotely like all of our developers. The collaboration has fully adapted to it and we try our best to keep up the great team spirit.
+You are also welcome to work from our beautiful and bright office in the heart of Berlin where we have fresh fruits, free drinks, good coffee and several cafés and restaurants of almost every origin close by
+If you work remotely: Annual meet up in Berlin for a week with the entire development team and attend workshops, team events, have some drinks and food, such as good talks
+Fun (online) Team-Events
+We care about your personal & professional development. You will receive an annually learning budget for books, courses, conferences etc. and some hours per week are reserved for learning new skills
+Get a discount on a Urban Sports Club membership. Attend all kinds of sports courses and stay healthy
+Join a team of 15 nationalities (>30 employees) and various backgrounds. We ensure that you have regular contact with everybody and that you are updated on the company's progress
+You will have a major impact on our rapidly growing user base
+Learn from our very experienced team and contribute to our clean, high-quality code
+
+Sounds interesting to you and do you feel addressed? Then simply apply and send us your CV, stating your salary expectations and earliest starting date. We are looking forward to hearing from you!
+
+Your Lumiform Team
+
+We love and live diversity! Regardless of age, gender, gender and sexual identity, origin, culture or disability. It is the person in his or her diversity that convinces and inspires us. So please feel free to apply anyway, if you see a job opening that interests you. Stay healthy!

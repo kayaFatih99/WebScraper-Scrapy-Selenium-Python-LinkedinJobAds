@@ -1,0 +1,39 @@
+About the job
+Do you want to build a product where creators can collaborate on music and storytelling projects, and where educators can build learning opportunities? Soundtrap is the world’s leading browser-based Digital Audio Workstation, which we call “The Studio." Acquired by Spotify in 2017, we provide a collaborative music and podcast recording studio on the web. Soundtrap is headquartered in Stockholm but our engineering team is increasingly distributed across Europe.
+
+As a Staff Engineer reporting into Soundtrap’s Core Product Unit, you'll be working at the heart of the application architecture that enables Soundtrap's innovative “Studio” product. You will be primarily focused on providing engineering leadership to guide high-quality product development in our squads, and build the architecture and key frontend platform capabilities and tooling that our engineers use to enhance and innovate on the features our customers love. The scope of this role will include development work across all of Soundtrap’s product development squads.
+
+In particular, we want to hear from you if you have experience in building immersive and complex consumer-facing experiences using modular and highly performing application design, and you enjoy working in a collaborative and empowered product development community!
+
+Experience of modernizing complex frontend applications is preferable, and experience building online collaborative creator applications would be a bonus.
+
+What you'll do
+
+Co-develop engineering standard methodologies and ways of working in alignment with Soundtrap’s needs as a business as well as Spotify’s preferred technology and ways of working.
+Support engineering leaders and product managers with implementation and architectural design guidance.
+Contribute your expertise to Spotify’s engineering community by participating in interest-groups (“Guilds”) and cross-tribe initiatives.
+Lead engineering programmes that have cross-squad impact by scoping technological requirements, assessing feasibility, co-designing the solution and delivering to well-managed expectations.
+Communicate effectively with key contributors and managers.
+Implement and be responsible for features across the frontend stack in our world leading browser-based audio creation studio.
+Work across a broad problem space. Our work can stretch from designing the overall architecture in such a way that other teams are empowered to work with fewer dependencies, to building new features that will enable the Soundtrap product to scale into the future.
+You will be working with systems built in many technologies. Our stack includes containerised Java applications on the backend to front end apps built in Dart and Typescript with a variety of frameworks, and React Native for mobile development.
+
+Who you are
+
+You are passionate about writing efficient code to run in a performance critical application. You know your way around the common architectures designed for scale, browser developer tools, and you like figuring out what makes web applications and APIs tick.
+You are a proactive colleague and enjoy building working relationships across many teams and levels of management.
+Typescript and Java experience is a plus, but we believe that being passionate about writing good and scalable code is more important.
+You have experience implementing or designing modular applications and enjoy taking part in discussion regarding architecture, best practices, etc.
+You are experienced in working with test automation as an integral part of the software development lifecycle.
+You have a good understanding of modern web development and are interested in working across the stack, programming languages, and with the latest HTML5 APIs (Web Audio, Web MIDI, WebRTC, etc).
+A common theme throughout our teams is a genuine interest in music, so you might play an instrument, or maybe just love listening to music whenever you get a chance.
+
+Where you'll be
+
+We are a distributed workforce enabling our band members to find a work mode best for them! Where in the world? For this role, it can be within the EMEA in which we have a work location.
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our work from anywhere options here.
+Working hours? We operate within the Central European time zone for collaboration
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

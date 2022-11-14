@@ -1,0 +1,25 @@
+About the job
+Here at C&A we’re embracing the digital transformation taking place across the retail sector, whilst also ensuring we don’t lose sight of our heritage.
+
+“Let’s build the future together - the best is yet to come”
+
+With rapid growth within our in-house engineering team, we are looking for senior engineers who are truly passionate about android development and can use that passion to coach and guide colleagues along our digital journey. We are looking for android engineers who love learning new technologies and bringing brilliant products to life. Our mobile engineers work in cross-functional teams who are arranged across broader engineering groups. You will be working with the most up to date technologies such as Kotlin and Jetpack Compose.
+
+We would love to speak to those with a blend of some or all of the following:
+
+Profound knowledge in Kotlin
+Experience with the web technologies(cookies)
+Knowledge of Android SDK and its concepts and patterns
+Familiar with connecting APIs (REST,JSON)
+Experience with agile methods
+Knowledge in handling version controlling tools (git)
+Fluent English skills, German is an asset
+
+This is an opportunity for you to join us on a truly exciting digital transformation, where you’ll be able to leave footprints that last and contribute significantly to our digital vision. As well as knowing that you played a key part In the evolution of one of Europe's most recognisable retail brands, you will also enjoy
+
+An international and inspirational working environment
+An in-depth induction into your life at C&A
+A positive working atmosphere with an open feedback culture
+Attractive discounts including a public transport travel pass and remote working options
+
+C&A fosters equal opportunity for people of all backgrounds and identities. We are led by a gender-balanced board committed to build a diverse and inclusive organisation where everyone can become their best self. We do not discriminate on the basis of age, disability, gender identity, sexual orientation, ethnicity, race, religion or belief, parental and family status, or any other protected characteristic. We welcome applications from women, men and non-binary candidates of all ethnicities and socio-economic backgrounds. We encourage people belonging to underrepresented groups to apply.

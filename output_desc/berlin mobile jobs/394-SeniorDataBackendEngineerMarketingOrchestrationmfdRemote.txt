@@ -1,0 +1,46 @@
+About the job
+The Marketing Orchestration team is responsible for building out the critical data infrastructure that powers our marketing efforts, helping Yelp achieve its mission of connecting people with great local businesses.
+
+We’re looking for experienced engineers to join our team and build elegant, scalable systems that use NoSQL data stores, data warehouses, batch processing, and stream processing solutions to make all of the data we have available to our marketing platform. If you’re the person who leads their team to constantly improve existing systems and dive fearlessly into solving complex problems, then this role is for you.
+
+Yelp engineering culture is driven by our values: we’re a cooperative team that values individual authenticity and encourages creative solutions to problems. All new engineers deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor, and team. At the end of the day, we’re all about helping our users, growing as engineers, and having fun in a collaborative environment.
+
+This opportunity has the option to be fully remote throughout Germany.
+
+We’d love to have you apply, even if you don't feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+
+Where You Come In
+
+Build systems that effectively store and crunch large volumes of data.
+Work on the infrastructure that powers Yelp’s marketing platform.
+Work closely with other software engineering teams, product managers, and data scientists to identify and use the most relevant consumer and business data.
+Build platforms and tools to enable other engineering teams to connect to our marketing systems.
+Gain expertise in cutting-edge infrastructure.
+Learn the fine art of balancing scale, latency, and availability depending on the problem.
+Mentor other engineers and share the skills you’ve learned.
+
+What It Takes To Succeed
+
+A deep understanding of programming languages and the systems you've worked on.
+An enthusiasm for architecting large systems with elegant interfaces that can scale easily.
+A hunger for tracking down root causes - no matter how deep it takes you - and fixing them in systematic ways.
+Experience building data pipelines and/or ETL pipelines.
+Exposure to some of the following technologies: Python, Apache Spark, Apache Kafka, Apache Flink, AWS and service-oriented architecture, AWS Redshift, AWS S3, NoSQL, and systems like Cassandra.
+
+What You'll Get
+
+Full responsibility for projects from day one, a collaborative team, and a dynamic work environment.
+Competitive salary with equity in the company, a pension scheme, and an optional employee stock purchase plan.
+30 days paid vacation per year plus one floating holiday.
+€150 monthly reimbursement to help cover remote working expenses.
+€89 caregiver reimbursement to support dependent care for families.
+Flexible working hours and meeting-free Wednesdays.
+Regular 3-day Hackathons, bi-weekly learning groups, and productivity spending to support and encourage your career growth.
+Opportunities to participate in digital events and conferences.
+Complementary elective German lessons for international employees.
+€67 per month to use toward qualifying wellness expenses.
+Quarterly team offsites.
+
+Yelp values diversity. We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition, disability, or any other protected status.
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.

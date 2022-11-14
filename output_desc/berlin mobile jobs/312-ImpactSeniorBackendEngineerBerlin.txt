@@ -1,0 +1,45 @@
+About the job
+By August 2023, you will have helped us save 90 tons of emissions and 73 tons of packaging waste per month while helping small and medium-sized independent businesses compete with e-commerce giants by offering faster, more sustainable logistics.
+
+If empowering MSMEs, saving tons in emissions and waste in our cities, and creating a revolutionary post-purchase experience sounds exciting to you, welcome to LABELS.
+
+By 2050, most of us humans will live in megacities.
+
+Approximately 2.5 billion more people will be living in cities by 2050, according to the United Nations. Yet cities today are inefficient, full of unnecessary cars, emissions, waste, struggling small and medium-sized businesses, and even lonelier, disconnected citizens.
+
+Rethinking the way we do business and live in urban environments has the power to create systemic change at scale. This is why at LABELS we aim to accelerate the transition toward sustainable, joyful cities. We envision cities where:
+There are fewer delivery vehicles on the streets
+People connect to their surroundings like never before
+Small and medium businesses can compete with e-commerce giants
+
+We’ve broken down that vision into 3 Acts, and you will join us for Act 1: Reinventing in-city logistics. We pioneer 0 waste, 0 emissions ultra-fast deliveries for MSMEs. We are the first delivery service in Europe to introduce reusable swap bags into e-commerce to eliminate 100% of the waste from parcels. Businesses can use our logistics by shipping from their stores or our micro fulfilment center. Delivery time varies from 30 minutes to 2 hours.
+
+That alone can make a significant impact on emissions and packaging waste, not to mention the impact it has on independent businesses once you make their logistics 10x faster than Amazon or Zalando.
+
+Did you know? Traditional delivery providers ship up to 95% of air due to secondary packaging. Inefficient, right?.
+
+If you want to change cities forever as part of an international and motivated team, you are at the right place - join us now and become part of our vision!
+
+Tasks
+Building the initial architecture of Velocity API, the heart of our game changing logistics, the bedrock of the ideal city we envision
+Building e-commerce integrations for Shopify, Shopware, WooCommerce and much more to enable any businesses to implement our logistics flawlessly
+Ensuring that you ship quality APIs. You are responsible to develop stateless RESTful endpoints in NodeJs considering scalability and code structure. You take ownership and initiative to drive architectural improvements of our applications
+Think independently and challenge what’s possible. You create everything with full autonomy and get lots of learnings with your team by contributing your ideas and owning the implementation of all the features
+
+Requirements
+At least 4 years of working experience with NodeJs, Vue.Js, Typescript, MongoDB & Mongoose
+Very good written and verbal English communication skills
+Ideally, you have worked for logistics & impact startups before
+
+Benefits
+Work from Bali, surfing every morning before starting at the time you want
+Work from our incredible office in the heart of Berlin when you feel like it
+Get an excellent target salary, €84K - €90K + €6,125/year (€24,500 over 4 years) as phantom shares.
+We will pay for your dream setup remote & onsite
+Unique team spirit, international team structures and flat hierarchies, subsidies for MVV-tickets, internal sports offers as well as access to LABELS vouchers
+
+Are you interested in joining our team?
+
+Simply apply online with your resume. Maxime Junique and Romy Lagodka are looking forward to your application!
+
+At LABELS, we represent inclusion, diversity, and equal opportunity. We believe that everyone should be treated equally regardless of gender, color, race, age, religion, origin, nationality, appearance, language, culture, marital status, pregnancy, sexual orientation or physical or mental disability. In our international and multicultural team, we celebrate diversity and are committed to creating an inclusive environment for all employees.

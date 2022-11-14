@@ -1,0 +1,33 @@
+About the job
+Wir bauen eine neue Online-Plattform!
+
+Du hast Lust mit uns etwas von Grund auf neu zu entwickeln? Eine große neue Plattform zu bauen und dabei neueste Technologien anzuwenden, wie z.B. Kotlin, Ktor, Arrow, GraphQL und das Ganze als Service in Kubernetes laufen zu lassen? Du interessierst dich für Pair-Programming, agile Softwareentwicklung, Test-Driven-Development und Software-Craftsmanship? Dann sollten wir uns kennenlernen!
+
+Deine Aufgaben
+Du arbeitest mit an der Planung und Entwicklung einer neuen Online-Plattform für lotto.com
+Du bist Teil eines agilen, selbstorganisierten und eigenverantwortlichen Teams in der Softwareentwicklung und schreibst qualitativ hochwertigen Code
+Du gestaltest Anforderungen zum Bau einer neuen Plattform mit und setzt diese zusammen mit deinem Team um
+Du bringst dich beim Thema Architektur sowie Projekten ein und gestaltest diese aktiv mit - bei uns ist jeder auch Architekt, die Teams entscheiden gemeinsam
+Du bist mitverantwortlich dafür, dass unsere Plattform sicher und auf dem aktuellen Stand der Technik ist
+
+Du bringst mit
+Mindestens 3 Jahre Berufserfahrung als Software Entwickler
+Du hast bereits praktische Erfahrung mit Kotlin sammeln können
+Ein Plus sind Kenntnisse mit Ktor und Arrow
+Hohe Ansprüche an Qualität und Präzision deiner Programmierung
+Erfahrung mit agilen Entwicklungsmethoden (Scrum/Kanban) und Lust auf Continuous-Delivery
+Strukturierte und analytische Vorgehensweise sowie eigenverantwortliches Handeln: "You build it, you run it"
+Lernbereitschaft und Umsetzungsstärke, um nicht nur über den Tellerrand hinauszudenken, sondern deine Ideen Wirklichkeit werden zu lassen
+Gute Kenntnisse in objektorientierter und funktionaler Programmierung sind von großem Vorteil
+Ein Plus sind Kenntnisse im Umgang mit Werkzeugen wie IntelliJ IDEA, Gradle und GitLab
+Idealerweise gute Kenntnisse der deutschen und englischen Sprache
+
+Was dich erwartet
+Agiles arbeiten in cross-funktionalen Teams mit flachen Hierarchien und kurzen Entscheidungswegen
+Interessante Aufgaben sowie ein hohes Maß an Verantwortung und Gestaltungsspielraum
+Umfangreiche Unterstützung und Einarbeitung durch das gesamte Team
+30 Tage Urlaub, betriebliche Altersvorsorge, Englischunterricht (freiwillig), Teilnahme an Konferenzen und Fortbildungen
+Monatliche Sodexo Einkaufsgutscheine
+Eine familiäre Atmosphäre mit virtuellen Team-Events oder auch gerne mal vor Ort (falls möglich)
+Pair-Programming, Clean-Code-Entwicklung, Test-Driven-Development und Software-Craftsmanship
+Neuestes Technologie-Umfeld: Kotlin (mit Λrrow), GraphQL, Vue.js, TypeScript, Docker, Kubernetes, MongoDB… und was immer du mit einbringst!

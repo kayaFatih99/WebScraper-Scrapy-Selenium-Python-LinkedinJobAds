@@ -1,0 +1,52 @@
+About the job
+About Showpad
+
+In the old days, traveling salespeople hit the road with only a suitcase and a smile. And as times—and technology—have changed, Showpad has emerged as the industry-leading solution for modern selling that improves those classic tools of the trade.
+
+In our case, the suitcase is more than a decade of expertise building the premier revenue enablement platform, one that continues to influence the direction in which the industry is evolving. And the smile? Well, that’s the people oriented culture that surrounds everything we do.
+
+We bring in great individuals, but we always play as a team. We’ll enable you to grow like never before, and we’ll grow with you, too. We are a European-born company with a global impact, but we like to keep things simple.
+
+We are passionate and bold as well as humble and authentic. We empower each team member to be their true selves. We take ownership, and we also take vacations.
+
+And although we value constant improvement and frequent platform updates, we try not to deploy on Fridays.
+
+That’s why Showpad does more than drive impactful buying experiences. We take serious care of our people, but never take ourselves too seriously.
+
+Please note, that although you can work remotely for Showpad, you must be based in one of the following countries: Belgium, United Kingdom, Germany, Poland, France or The Netherlands
+
+About The Position
+
+As a Senior Backend Engineer, you will shape the future of the Showpad product as you will maintain the core functionalities and API's of the Showpad platform. Rather than a monolithic environment you will develop an ecosystem of services. Your decisions will not only have an impact on the way we build our product in a test-driven environment but also on the end-user experience of all our customers.
+
+Key Responsibilities As a Senior Backend Engineer At Showpad
+
+Design, analyze and execute architectural improvements
+Improve the Showpad product by detecting flaws and adding monitoring across our wide userbase
+You will do research and development by experimenting with and implementing the latest technologies in one of the most faced-paced areas in software engineering
+Team up on projects and coach and learn good practices
+Having lots of fun with your passionate developer colleagues!
+
+Skills And Qualifications We Are Looking For
+
+5+ years of relevant experience
+The ability to share knowledge and coach team members
+An instinct for software architecture
+Experience with Kotlin and TypeScript
+Amazon Web Services experience (Certified Developer or Architect Associate are a big plus)
+Good understanding of Docker and Kubernetes
+Good understanding of serverless technologies on AWS
+Great understanding of quality and how to improve quality processes
+Solid comprehension of the full web technology stack
+Good understanding of database design concepts
+Passion for life and the Showpad product
+The will to have a maximum impact on Showpad
+The desire to grow yourself, your team and the company
+
+What You Can Expect From Showpad
+
+We welcome every voice and are committed to building a truly inclusive environment where your differences are not just welcomed, they are celebrated. We’re building a best-in-class experience for our employees and are always identifying opportunities to encourage our team to be their authentic selves. Whether that’s paid parental leave, paid holidays (including Juneteenth and paid time off to vote), paid time off to volunteer at non-profit organizations, personal development opportunities or professional stretch assignments, you can expect Showpad to support you.
+
+Showpad’s Commitment
+
+We are committed to creating a diverse and inclusive organization and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other dimensions of identity.

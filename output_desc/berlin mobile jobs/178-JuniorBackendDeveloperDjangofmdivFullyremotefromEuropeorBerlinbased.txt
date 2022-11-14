@@ -1,0 +1,51 @@
+About the job
+About Perdoo
+
+We're an ambitious, diverse, and fun team excited about building a platform to help companies and their people achieve amazing results.
+
+Perdoo is the OKR platform used by ambitious organizations to execute strategy and drive 10x growth. It's all the tools and expert coaching you need to boost growth and turn strategy into results.
+
+Organizations like Tesco, Doctors Without Borders, Fjällräven, and Virgin Media use Perdoo to execute their strategy and accelerate their growth.
+
+The role
+
+We are ramping up growth at Perdoo and are looking for an autonomous hands-on Junior Backend Developer (f/m/d) who brings our system to the next level. Our current backend is written in Django, but we might change our tech stack.
+
+As the Backend Engineer at Perdoo, you’ll be responsible for developing and scaling an application used by thousands of users every day. The role is a mix of backend application development and DevOps. Most importantly, you’ll have room to bring your own individual solutions to the table and have an impact on our product.
+
+You’ll be reporting to our Backend Lead and working in a small team of 5-10 engineers as well as very closely with our CTO.
+
+Tasks
+
+Responsibilities
+You design, develop and maintain a well-tested production-grade web application.
+You ensure that Perdoo is secure, fast and reliable.
+You proactively monitor performance bottlenecks, identify root causes and resolve them.
+You contribute toward continuously improving our internal processes and tech stack.
+You work with other team members on code reviews, pair programming and ad-hoc assistance.
+You collaborate with our Product Team.
+
+Requirements
+You have 1+ years of web development experience. Working on Web products/apps ( SaaS) is a plus.
+You have demonstrable experience using Python, Django and relational databases. Experience with GraphQL, Redis, Celery or Docker is a plus.
+You have a pragmatic approach to engineering. You are able to write readable, scalable and maintainable code, without over-engineering.
+You are a self-motivated and autonomous person. You are able to manage projects without close supervision, but you also love working collaboratively with other teams to achieve a common goal.
+You are fluent in written and spoken English.
+You are open to a potential tech stack change, as we may rewrite our backend with Next.js.
+
+Benefits
+You will learn how to turn great strategies into amazing results by working with our own OKR software — Perdoo, a product we are proud of and truly believe in.
+Working in a dynamic, fun and inspiring team where everyone has a voice and the ability to impact the company’s success by contributing to a real-life product, used by thousands of users every day.
+Cultural diversity: Our team is made up of almost as many nationalities as the number of employees. The company language is of course English.
+The option to work 100% remote or in our office in Berlin (if you choose the latter, you can still work for 60 days from anywhere in the world).
+Regular team retreats. Amongst others, we took the team to Greece, Morocco, Mallorca and Italy.
+Flexible working hours: we have core working hours, but outside of that we trust you can manage your own time well!
+Competitive salary with 30 vacation days. We do not have a vacation approval process for the dates of your vacation days, as we believe you know best how to balance your work responsibilities and free time.
+Flat company structure where a high degree of autonomy with direct cooperation with our co-founders is given.
+Support for personal development, training, conferences and continuous learning.
+Monthly Show & Tell meetings: In Perdoo, our founders and all departments share the latest figures and progress on goals (OKRs & KPIs) for the month/quarter.
+Monthly (virtual) events (game nights, wine tastings, escape rooms).
+Onboarding week with a buddy by your side.
+Monthly lunch — whether you work remote or in our office.
+Berlin Office: A dog-friendly office in the heart of Berlin with a huge terrace overlooking Berlin.
+Free breakfast on Mondays, lunch on Tuesdays & Thursdays in our office, as well as an amazing selection of snacks & fruits.

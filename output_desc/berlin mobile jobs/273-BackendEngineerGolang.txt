@@ -1,0 +1,14 @@
+About the job
+We are seeking an exceptionally talented Senior Backend Engineer to join our rapidly growing
+consulting team. In this role, you will have the opportunity to work on high profile projects at the
+cutting edge of the software industry.
+To be considered for this position, you must have the following qualifications:
+● Significant development experience with backend technologies, including some experience
+with Go (Golang)
+● Experience with cloud-based platforms (Kubernetes) for deployment and orchestration
+● Fast learner with a can-do attitude and exceptional problem-solving abilities
+● Self-sufficient, proactive, and comfortable working collaboratively on remote projects
+● English skills (ability to effectively communicate via written and spoken English)
+● A degree in computer science (or equivalent)
+Ideal candidates will also have:
+● Experience in a client-facing role delivering software engineering projects

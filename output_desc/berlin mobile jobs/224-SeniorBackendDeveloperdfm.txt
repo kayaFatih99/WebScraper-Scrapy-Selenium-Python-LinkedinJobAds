@@ -1,0 +1,53 @@
+About the job
+4flow software develops a range of global standard software products for logistics and transport planning that can be used across all industries. The integrated planning approach of our software products ranges from long-term optimization of network structures to short-term optimization of transport utilization. In addition, the planning results can be combined with transport processing and invoicing to form an integrated transport management system.
+
+Our Languages: Java, JavaScript/TypeScript, Python
+
+Our Frameworks: Serverless, Docker, Vue.js, Node.js
+
+Our Tools: AWS, Gitlab, Jenkins, Gradle, Ansible, Postman, IntelliJ, YouTrack
+
+Our Methods: Agile. Right now, we are using Scrum with two-week iterations.
+
+Your Role
+
+You will be part of a small greenfield project team that is aiming to take our in-house developed mathematical models and apply them in a heavily parallelized and scalable manner to existing customer data. We want to take the results of this optimization process and display them to the end user in a concise and actionable manner.
+
+You contribute to the team by:
+
+Bringing in your expertise on infrastructure and frameworks to shape highly scalable and secure backend solutions
+Extending and applying our optimization engines in new ways
+Taking a Cloud Native DevOps approach to software development
+
+Our Requirements
+
+To be successful in this role, we believe you should bring at least five years of software development experience to 4flow.
+
+What is important to us:
+
+Experience with microservices and serverless design paradigms in a public cloud environment (preferably AWS)
+DevOps mindset and strong sense of personal ownership
+Very good English proficiency to communicate with your international colleagues
+
+That being said, we’d love to hear your thoughts: Why is the role a good fit for you?
+
+Why 4flow?
+
+We offer you the best of both worlds: A professional software development process (stability and structure of a medium-sized company) as well as an agile and evolving culture (flexibility and ambition of a start-up).
+
+We are an award-winning employer (Leading Employer 2021) and as one of the top ten most family-friendly German employers of 2020, we care about our employees. Still not convinced? Then, here are other advantages, benefits and perks:
+
+Work remotely from anywhere in Germany and up to 90 days/year within all the EU
+Flexible working hours (great when you have a family or if you are a night owl)
+Option for additional unpaid vacation (to adjust to your life)
+Possibility to work part-time or do Sabbaticals
+Employee Assistance Programme (e.g. mental health, career development and family care – we support your needs)
+Training and development time and budgets
+Mobility budget (e.g. yearly public transportation ticket for Berlin)
+Permanent contract (we know you are a keeper)
+
+P.S.: Yes, we do have great coffee in our offices!
+
+Sounds like a fit?
+
+Then we are looking forward to your application!

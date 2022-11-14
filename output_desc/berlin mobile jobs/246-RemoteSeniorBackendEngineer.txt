@@ -1,0 +1,49 @@
+About the job
+What does KLAR do?
+
+Klar is a Mexican fintech startup whose mission is to democratize and revolutionize the way in which financial services have been delivered so far in Mexico, especially since half of the population doesn’t have a bank account. We have had more than 1 million users since 2021!
+
+We are changing this scenario by offering a tech product that allows users to manage their money through a mobile and web application. Users can withdraw or deposit money from any cash machine, they can also use the card in stores and even do online payments. We don’t have any branches, everything is done and managed through the app.
+
+Our product roadmap includes offering loans and credit for a larger group of clients based on our very sophisticated credit modeling.
+
+Life at Klar
+
+We have a very international team with more than 30 nationalities working from Mexico City, Berlin, and remotely. Our founder Stefan Moller is also half German and Mexican, which allowed Klar to think globally since its inception.
+
+__This position is available onsite in our Mexico office or remotely within a similar time zone.
+
+Your daily adventures will be
+
+We are looking for a Senior Backend Engineer (m/f/d) to build flexible and reliable software systems that scale and bring the costs of digital banking down:
+Write correct, efficient, clean, robust, and maintainable code (Mostly in Java 11)
+Write unit, integration, and end-to-end tests to prevent current errors or future regressions
+Participate in code review to learn from others and to teach them as well
+Prototype new technologies and libraries that could save time and effort
+Write clear and concise documentation for users of your systems
+Identify common problems between multiple systems and develop common solutions via libraries
+Create designs for new systems and features of moderate complexity
+Make time estimates to implement designs that can aid in future planning
+Mentor more junior engineers
+
+What You Bring To The Table
+At least 3 years of experience with several of the following development technologies: Java, SpringBoot, PostgreSQL or other relational databases, Apache Kafka, Redis, Protocol Buffers
+At least 2 years of experience with microservice architectures, synchronous REST communication over HTTP, and asynchronous communication over Apache Kafka
+Knowledge of algorithms and data structure for distributing loads like sharding, optimistic locking, database transactions, leadership election, and more.
+At least 2 years of experience with logging and metrics technologies: DropWizard, Prometheus, Grafana, Kibana
+At least 1 year of experience with the following infrastructure technologies: AWS, Jenkins, Kubernetes, Istio, Terraform, Terragrunt, Helm
+Willingness to take into account code review feedback from peers
+Fluency in Spanish and English languages
+
+What do we offer?
+Competitive salary based on performance and experience
+Vacation days
+Stock options
+Flexible work environment, with home office and remote work arrangements
+International work environment with amazing and highly skilled people
+A world class team that helps you evolve your skills in areas you're interested in
+An opportunity to have a real impact in one of the most exciting emerging markets
+
+We trust our highly skilled and diverse team and we’re committed to creating a welcoming and inclusive environment for new talents to flourish. We value diversity and welcome all applications regardless of gender, nationality, ethnic and social origin, religion/belief, physical abilities, age, sexual orientation and identity.
+
+We are looking forward to receiving your application!__

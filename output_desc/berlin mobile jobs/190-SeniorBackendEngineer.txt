@@ -1,0 +1,54 @@
+About the job
+What We Have to Offer:
+
+Camunda Platform 8 orchestrates complex business processes that span people, systems, and devices. With Camunda, business users collaborate with developers to model and automate end-to-end processes using BPMN-powered flowcharts alongside DMN decision tables that promote speed, scale, and decision logic.
+
+The Zeebe Process Automation team develops the source available workflow engine at the heart of our platform, which orchestrates the mission-critical processes of our customers.
+
+We are looking for a Senior Java Backend Engineer to help us establish Zeebe as the leading workflow engine on the market. You’ll be part of the engineering team developing and improving the BPMN process automation capabilities of our core workflow engine, leveraging a distributed platform to achieve truly horizontal scalable process automation. Your responsibilities will include:
+
+Extend the BPMN process automation and DMN decision capabilities, by extending our stream processing based workflow engine
+Extend the gRPC API to enable clients to interact with the workflow engine
+Implement advanced business process operations on top of the workflow engine
+Improve performance and scalability of the workflow engine concepts
+Contribute to various supporting projects in the ecosystem of the workflow engine
+This is a remote role and can be based anywhere in EMEA. What You Bring:
+5 - 7 years experience as a JAVA Backend Developer
+Ability and/or willingness to use our product
+A pragmatic and autonomous approach to programming and problem solving.
+Embrace remote-first culture and demonstrate a manager of one mindset
+Ambition and drive to understand complex business problems with a collaborative mindset that we can solve the hardest problems together in our team.
+
+Nice to haves:
+
+Experience with BPMN and/or process automation software
+Experience building and maintaining enterprise software
+Experience with stream processing, API design or state machines
+
+If you don’t think you meet all of the criteria but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others.
+
+Who Is Camunda?
+
+Camunda is the leader in process orchestration software. Our software helps orchestrate complex business processes that span people, systems, and devices. With Camunda, business users collaborate with developers to model and automate end-to-end processes using BPMN-powered flowcharts that run with the speed, scale, and resiliency required to compete in today’s digital-first world. Hundreds of enterprises such as Allianz, ING, and Vodafone* design, automate, and improve mission-critical business processes with Camunda to drive digital transformation.
+
+Annually recognized by Deloitte among top high-growth companies, Camunda operates as a global, remote-first organization.
+
+What We Have to Offer:
+
+A remote-first culture that enables you to work remotely as much as you’d like to. We believe talent is global!
+A home office equipment budget and the choice of hardware. Mac, Windows, Linux, you choose what works best for you!
+If you like working from an office space, we have our modern and collaborative hubs (Berlin, Dallas & Denver) or you can work from a coworking space .
+We support our employees in maintaining a healthy work/life balance, so we offer and encourage unlimited, paid flexible time off at Camunda. Use your flexible time for anything that helps you recharge your batteries or maintain your life outside of work.
+A clear mind is a healthy mind; we offer a headspace subscription and pay towards your fitness activities .
+Each year, Camunda hosts a company-wide get-together in new and exciting locations! In 2021, we rented out a whole island in Croatia. Find out more about the annual retreat here .
+Inclusive culture based on our FAITH values, performance reviews, and employee engagement surveys to make sure you feel heard and valued.
+All Camunda employees are offered virtual shares from our Virtual Stock Option Plan (VSOP) .
+More of what we offer globally & in your country can be found here .
+
+”Everyone is welcome at Camunda” — it’s a celebrated component of our culture. We strive to create an inclusive environment that empowers our people. At Camunda, we honour diverse cultures and backgrounds and are proud to be an equal opportunity employer. All qualified applications will receive consideration without regard to gender, race, ethnicity, religion, belief, sexual orientation, age, disability or any other protected characteristics under applicable law. We are looking forward to your application!
+
+Did we pique your interest? Apply now and learn more. For a complete list of jobs at Camunda, please check out: www.camunda.com/career/ .
+
+#EMEA
+
+Apply

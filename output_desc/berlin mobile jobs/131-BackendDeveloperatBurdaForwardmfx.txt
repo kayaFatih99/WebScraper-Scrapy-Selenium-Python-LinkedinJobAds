@@ -1,0 +1,48 @@
+About the job
+What you can expect from us ...
+At the Content Technologies Team at BurdaForward our goal is to build an extensible, modular, end-to-end and multi brand publishing framework which enables the company to write and publish articles on all our brands using one technology. This means that your code will have a direct impact on more than ten million unique users a day and carries the need to high quality in all areas from code to SEO, to speed, to legal. If you are up to the challenge in designing and building that technology with us, then join us today.
+You will work with the team which is building an extensible and modular publishing platform/framework which will consolidate and run all BurdaForward portfolio bands.
+You will design the module architecture development and do feature development of the publishing framework.
+You will onboard new brands and new in-house development teams on the framework.
+You will maintain and constantly improve the code along the way.
+You will help building processes to keep the quality of the software in a good shape and at the same time make it usable to others.
+You will help taking the responsibility in keeping a high technical quality framework.
+
+What we can offer you ...
+We are a company with flat hierarchies and a cross-functional team structure – as a result, much of the decision-making power lies within the teams themselves.
+A competent and motivated team, exciting tasks and freedom to design independently and give impulses wait for you.
+We respond individually to your life situation. This includes flexible working time models, sabbaticals and support with childcare. We are family friendly!
+Our trust-based workplace offer includes the option of working from home or using our individual flexdesk solution in the company office.
+We offer a comprehensive training program that covers both professional and personal aspects (e.g. English and German courses).
+After pandemic: We offer regular learning lunches, our annual internal Tech Forward conference and training programs throughout the year – enabling you to grow professionally and personally. Would you personally benefit from participating in an exciting specialist conference? We will try to make it happen.
+You have a new business idea and would like to found a start-up within the company? Convince us and we will support you structurally and financially.
+You will receive a smartphone and a laptop for professional and also private use at the start. Apple or Windows? Your choice.
+
+What we would expect from you ...
+You are strong in building web applications and APIs using Node.js and backend frameworks like Express.
+You are comfortable in writing code both in JavaScript and TypeScript.
+You have experience with cloud technologies like AWS Lambda, ECS, SQS/SNS, S3 or comparable.
+You like Infrastructure as code e.g. using Terraform or similar frameworks.
+You have experience in CI/CD as well as Docker or other containers systems.
+You have good knowledge of both SQL and NoSQL databases like MySQL, MongoDB, DynamoDB.
+You have basic knowledge of testing applications with unit and integration tests.
+Nice to have: Knowledge in any frontend frameworks like VueJs, ReactJs, Angular, Svelte.
+You have experience in working in agile teams and you have fun in working with international and remote teams.
+You have good English communication skills.
+
+Want to gain an impression of BurdaForward before applying? Check out our YouTube channel (https://www.youtube.com/channel/UCGB1NeDSZEc4FxK3hABVkGA).
+
+Burda is colourful
+We respect diversity and we therefore welcome all applications – independently of gender, nationality, ethnic and social origin, religion and ideology, disability, age as well as sexual orientation and identity.
+
+Burda is digital
+Please use our online application form to apply!
+
+Apply now!
+
+Contact
+Lisa Trogus
+Recruiting
+www.burda.com
+
+BurdaForward strives for journalistic innovation with leading publishing brands and the latest technology. With Focus Online, Chip, TV Spielfilm, Bunte.de, Finanzen100, NetMoms, The Weather Channel, EFahrer.com, Fit for fun, Cinema and Cardscout, we inspire almost 70 percent of all internet users in Germany (AGOF digital facts) and are a driving force of the public debate – also by tradition: BurdaForward is part of the family-owned company Hubert Burda Media.

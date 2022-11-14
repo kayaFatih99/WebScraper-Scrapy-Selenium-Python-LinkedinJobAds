@@ -1,0 +1,75 @@
+About the job
+This job is sourced from a job board. Learn more
+View job here
+
+Backend Developer - NodeJS / NestJS (m/f/d) MÜNCHEN / HAMBURG / BERLIN / REMOTE
+Permanent Appointment
+Remote
+With Professional Experience
+What You'll Focus On
+Working as a Full Stack developer, building a new integrated application from scratch, which will be one of the core USPs from our company
+Participating in product decisions by working closely with Product Owner
+Contributing to and enforcing great coding practices through code reviews
+Sharing knowledge with your colleagues during regular Knowledge Sharing sessions
+Working closely together with other FinLink squads to integrate the functionality into an existing FinLink ecosystem (currently RoR + Angular)
+What We're Looking For
+2+ years of NodeJS / NestJS experience
+General
+Web API
+Authentication & Authorization (e.g. Json-Web-Tokens)
+Scalability & work distribution
+NestJS
+Injection scoping
+Multi-Tenancy
+Object–relational mapping (e.g. Typeorm)
+Microservices (Transports, Queues, …)
+Great attention to code quality & coding standards
+Good grasp of architectural principles and patterns
+Infrastructure
+Containerization
+Distributed Systems
+Software
+Clean Architecture
+Domain Driven Design
+Concepts
+Proficiency in Relational Databases (PostgreSQL or similar)
+Transactions & Concurrency
+Query optimization
+Multi-Tenancy
+Very good communication skills in English (our office language)
+Check out our TECH-STACK https://bit.ly/FinLink_TechStack
+
+What We Offer
+Unlimited contract for a secure and longterm collaboration
+Attractive compensation combined with benefits e.g. bike rent https://bit.ly/FinLink_Benefits
+A diverse, multicultural working atmosphere with regular feedback rounds
+Work from anywhere or come regularly in one of our great offices with free drinks, fruits, weekly brunch and various team events
+Thirty days of vacation and flexible working hours
+Personal learning & development budget and time to develop your professional self
+Company contributions to your private pension scheme
+About Finlink
+
+FinLink is a next generation mortgage platform making home ownership simple, transparent and accessible for everyone.
+
+In our mission to make home ownership simple, transparent and accessible for everyone, FinLink has helped more than 100.000 people finance their home.
+
+We are a b2b2c software company striving to give home buyers and mortgage advisors a fully digital mortgage experience.
+
+We connect the home buyer’s journey of buying property with value-adding services along the way such as property valuation, robo-advice for financing options and leveraging AI to classify and read documents.
+
+Our advisor-facing application includes a fully-fledged back-office that empowers the advisor to support the customers with a maximum service level: We offer a reliable and efficient mortgage application processing using workflow management, e-mail, chat, as well as secure handling of financial documents - just to name a few.
+
+Our vision is to connect all areas of the real estate ecosystem to be a central hub for every stakeholder in the market. Our partners include real estate platforms (e.g. Immoscout24 and Immowelt), property valuation companies and lenders.
+
+Over 600 mortgage advisors from 100+ different companies use FinLink, including Swisslife Select, Baufi24, Homeday and Immo-finanzcheck.
+
+FinLink is part of the Baufi24 group, Germany’s fastest growing mortgage broker with 60+ branches across Germany.
+
+Learn More About Us
+FinLink: https://finlink.de/
+Baufi24-Group: https://www.baufi24.de/
+Apply online
+
+Imprint | Privacy Policy
+
+Powered by softgarden

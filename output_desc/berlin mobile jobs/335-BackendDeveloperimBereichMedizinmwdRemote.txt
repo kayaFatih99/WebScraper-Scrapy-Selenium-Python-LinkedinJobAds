@@ -1,0 +1,42 @@
+About the job
+This job is sourced from a job board. Learn more
+Über Apo.com Group GmbH
+
+Die apo.com Group ist mit ihrem Flagship-Store apodiscounter.de einer der führenden Online-Apotheken im deutschen Markt und steht für Innovation und Nachhaltigkeit gepaart mit einer ausgeprägten Leidenschaft für intelligente Technologien und Digitalisierung. Unsere moderne und hochautomatisierte Logistik sowie unser tiefes Konsumenten-, Patienten- und Prozessverständnis verschaffen uns eine ausgezeichnete Position im dynamisch wachsenden und spannenden Healthcare-Markt. Wir suchen zum nächstmöglichen Zeitpunkt Verstärkung für unser Jobangebot Backend-Developer im Bereich Medizin (m/w/d) Remote.
+
+Klingt spannend? Dann freuen wir uns auf eine aussagekräftige Bewerbung über unseren Partner Workwise.
+
+Wir stehen für Innovation und Nachhaltigkeit gepaart mit einer ausgeprägten Leidenschaft für intelligente Technologien und Digitalisierung. Dafür setzen wir auf pharmazeutische Kompetenz, innovative digitale Services und KI gestützte Logistik Technologie.Wir unterstützen Menschen dabei, gesund zu werden und gesund zu bleiben.
+
+Was erwartet dich?
+
+Du bist verantwortlich für die Neu-und Weiterentwicklung von Shop-Backend und Middleware-Systemen
+Du beschäftigst dich mit den neusten Technologien und Trends zur kontinuierlichen Verbesserung der Produkte
+Du steuerst den Entwurf & die Erstellung von REST/SOAP-API's zur Anbindungen interner Module (Microservices) und externer Plattformen
+Du erstellst Unit- und Integrationtests im laufenden Entwicklungszyklus
+
+Was solltest du mitbringen?
+
+Du besitzt sehr gute Kenntnisse in PHP (OOP)
+Du bringst gute Kenntnisse in relationalen Datenbanksystemen (bevorzugt MySQL) mit
+Du hast Erfahrungen mit PHP-Frameworks (Laravel/Symfony)
+Du bist geübt im Umgang mit Versionsverwaltungssystemen (GIT/SVN)
+Du hast eine Vorstellung was folgende Begriffe bedeuten: GitLab/Bitbucket, Clean Code, Virtualisierungslösungen, Volltextsuchmaschinen, Bootstrap
+Du hast gute Englischkenntnisse
+
+Was bieten wir dir?
+
+0-100% Remote Work, ganz deinem Wunsch entsprechend
+Einen unbefristeter Arbeitsvertrag
+Eine leistungsgerechte, übertarifliche Vergütung
+30 Tage Urlaub pro Jahr
+Schulungen, Workshops und Side-By-Side-Coaching, wir unterstützen dich bei deiner Weiterentwicklung
+Sehr gute Sozialleistungen u.a. mit eigener, subventionierter Kantine, kostenfreier Getränkeversorgung (Tee, Kaffee, Softgetränke), Personalrabatt, moderner Ausrüstung, Team- und Firmenevents u.v.m.
+JobRad-Kooperation
+Kostenlose Nutzung unseres Firmeneigenen Fitnessstudios
+Positive Dynamik und Wachstumsumfeld im Zukunftsmarkt Gesundheit
+Hardware nach Wahl
+
+Unser Jobangebot Backend-Developer im Bereich Medizin (m/w/d) Remote klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.

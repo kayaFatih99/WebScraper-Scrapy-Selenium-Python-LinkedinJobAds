@@ -1,0 +1,37 @@
+About the job
+Awarded 2022's Best Connectivity Solution, EMnify does more than link the world's most cutting-edge devices. It is a place where curiosity is rewarded, collaboration is abundant, and encouraging others is a way of life. We look for innovative human beings who own the process and love people. Just like IoT, we're all connected. Learn more about us by visiting www.emnify.com.
+
+Your Position
+
+As a (Senior) Backend Engineer - API, you will improve our unique product and help us build a business critical solutions the growing IoT market needs. We provide our customers with a sophisticated user interface as well as APIs to enable them to create and manage their own virtual mobile network. You will be working with your team to build new APIs, extend the functionality of our current APIs and support build great looking UX optimized UI modules for those APIs and deploy all of that infrastructure in an automated way after running it through your automated tests. Your goal is to deploy every feature.
+
+Your Responsibilities
+Develop our internal and external APIs using Lambda, DynamoDB and API Gateway
+Create a continuous delivery stream for API and UI deployments using pipeline
+Write automated deployment configuration in Terraform or Serverless to deploy your code and infrastructure
+Participate in development our external and internal UIs using Vue and Angular
+Design, implement and test single-page applications that improve the user experience
+Integrate with other modern web platform API's like Maps, Payment, Analytics...
+Contribute to a self-empowered scrum team with talented colleagues
+Learn new technology and steer the way our product is developed
+
+Your Profile
+High motivation and eagerness to learn new technologies
+Fluency in English
+Excellent understanding and min. 3 years of work experience with:
+Developing microservices in TypeScript or similar language
+REST-APIs or GraphQL
+Databases (SQL and NoSQL)
+Vue and Angular 2+
+Automated testing and test driven development
+Continuous integration and continuous deployment frameworks
+Bonus Points
+Work experience in agile development teams using scrum
+Having contributed to Open Source projects
+Having spoken on tech conferences or events
+
+We take affirmative action to ensure equal opportunity for your application, regardless to your nationality, ethnic or national origin, skin color, religion, disability, sex, sexual orientation or gender identity. Your qualification and value add are the deciding factors!
+
+In case you are living with disabilities, chronic illness or neurodiversity please inform us, to provide you with the proper assistance in the application process.
+
+Before submitting your application, please read our Privacy Notice here.

@@ -1,0 +1,32 @@
+About the job
+Delivering the best Spotify experience possible. To as many people as possible. In as many moments as possible. That’s what the Experience team is all about. We use our deep understanding of consumer expectations to enrich the lives of millions of our users all over the world, bringing the music and audio they love to the devices, apps and platforms they use every day. Know what our users want? Join us and help Spotify give it to them.
+
+We are looking for engaged and hardworking Senior Backend Engineers to join our Experience Mission department. Our teams are responsible for all of Spotify’s consumer experiences across our mobile apps as well as platforms like desktop, web, TVs, smart speakers, cars, wearables, and partner application integrations to make Spotify available wherever our users are.
+
+We are working together in autonomous teams that take full responsibility for their own part of the Spotify ecosystem, including writing code with high standards, hosting our services in Google Cloud Platform, monitoring our services, measuring quality, and guaranteeing service reliability. Some teams work with a feature like search, others focus on voice integrations or making it easy to deploy features on a certain type of client. You will join a team where everyone shares a common interest in distributed backend systems, their scalability and continued development. Together we try to find new ways to create a phenomenal Spotify experience for all our users across the globe.
+
+What you'll do
+
+Design, develop and deploy backend services with a focus on high availability, low latency, and scalability
+Build and operate infrastructure, toolset and deployment pipelines
+Collaborate closely with other specialists and become a valued member of an autonomous, multi-functional team
+Take operational responsibility for the services that are owned by your team, potentially including taking part in an on-call rotation
+Work in an environment that supports your individual growth
+Continuously improve our product by innovating on the service through the usage of A/B tests
+
+Who you are
+
+You have a firm grasp of system design, data structures, and algorithms and know how to apply them when crafting pragmatic solutions.
+You have years of experience as a Senior Engineer with the following tech: Java 11, GCP, unit testing frameworks, Kubernetes, Docker, REST and microservices.
+You are proficient with: Git, BigQuery, Grafana, JUnit, PagerDuty
+You are interested in keeping up with current standard methodologies in your areas of expertise
+You are comfortable working with modern infrastructure and tools and running your software in Linux environments
+You know and care about sound engineering practices like continuous delivery, defensive programming, and automated testing
+You are great at crafting and building distributed and scalable systems and enjoy seeing millions of users running your code
+
+Where you’ll be
+
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within the EMEA region in which we have a work location and is within working hours.
+Working hours? We operate within the Central European and GMT time zones for collaboration and ask that all be located that time zone.
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.

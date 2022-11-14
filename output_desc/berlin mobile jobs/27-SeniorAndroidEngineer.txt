@@ -1,0 +1,53 @@
+About the job
+Clue is more than just a place to work. Our work empowers women and people with cycles to make more informed decisions about their health. We break down barriers, myths and taboos. Our workplace is agile, diverse, and full of opportunities for growth.
+
+A NOTE FROM YOUR TEAM LEAD
+
+We're looking for an Android engineer to join our cross functional Core team. Join us and help over 5 million monthly active users on the acclaimed Clue Android App to learn about their bodies and to better live in sync with their biology. Find an environment that fosters individual growth and allows you to contribute your ideas to a variety of challenges, beyond just writing code.
+
+You will help your cross functional team to build, release and iterate on features in their domain participating in all stages of development from early design, to implementation, to release - having quality & testability as a focus at all times.
+
+What You'll Do
+Collaborate with the cross-functional Clue development team to define, design, and ship new features
+Write automated tests for robustness, including edge cases, usability, and general reliability
+Work on application stability and improving application performance
+
+What We Are Looking For
+Good knowledge of Kotlin and good practices
+Experience working with Jetpack Architecture Components
+Able to write multi-threaded & thread-safe asynchronous code using Kotlin Coroutines
+Experience interacting with RESTful APIs
+Good understanding of Dependency Injection design pattern
+Experience writing unit tests
+An interest in software architecture & SOLID principle at work
+Version control with Git using common branching and merging workflows
+Bonus: experience working with Dagger2 or dagger Hilt
+Bonus: experience working with Jetpack Compose
+
+WORKING AT CLUE
+
+At Clue we embrace a culture that values diversity. We believe in creating a safe space where everyone feels welcome and heard. Our unique perks are designed to cultivate growth where we can all flourish, no matter what path we are on.
+
+Flexible Fridays. Use your Fridays for whatever you need to stay healthy and productive.
+
+Hybrid workplace. Work from home whenever you like and remotely for a designated amount of months a year, including an yearly Work From Home budget.
+
+Professional and personal development. Benefit from your own development budget, company coach, subsidized gym membership.
+
+Relocation budget. We'll help you relocate to make your move to Berlin as smooth as possible.
+
+Employee share options. Be part of Clue's success with our Employee Share Option Plan.
+
+Office space. Enjoy our office in the heart of Berlin, where great people meet and meaningful work happens.
+
+GOOD TO KNOW
+
+Main Location: Berlin or Remote (Working Clue Core Hours 10AM- 4PM Berlin time)
+
+Team: Core
+
+Contract: Full Time
+
+Reporting To: Iryna, Engineering Manager
+
+Contact Person: Gabriella, Senior Talent Acquisition Manager

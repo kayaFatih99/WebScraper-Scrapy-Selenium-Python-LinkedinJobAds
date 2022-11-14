@@ -1,0 +1,61 @@
+About the job
+Als Senior Android-Developer (m/w/d) sind Sie verantwortlich für:
+
+• Zusammenarbeit mit Product Owner und Development Teams zur Definition und Implementierung innovativer Software-Designs für webbasierte Produkte (inkl. Durchführung von Fehlerbereinigung)
+• Analyse und Design (Konzeption) von Standardsystemarchitekturen oder Softwarelösungsarchitekturen von Teilsystemen und funktionalen Modulen
+• Konzeption der Testfälle Robustheit, einschließlich Edge-Cases, Benutzerfreundlichkeit und allgemeine Zuverlässigkeit)
+• Zusammenarbeit mit Backend-Entwicklern zur Integration Ihrer Android Lösung mit Backend-Services
+• Teilnehmen/Führen an Code-Reviews mit Gleichgesinnten
+• Präsentation und Verteidigung von Software-Designs und fertiggestellten Features vor Kollegen und Produktbesitzern/anderen Stakeholdern
+• Vorbereitung der Software für die Veröffentlichung auf der Live-Website
+• Fehleridentifikation und Fehlerbehebung bei ausgelieferten Features
+• Optimierung des Website-Codes für maximale Performance
+• Erstellung und Förderung von Richtlinien, Best Practices und Standards für die Webentwicklung mit anderen Mitgliedern der Webentwicklungs-Community
+• Kommunikation von Konzepten und Architekturen in das Projektteam
+• Analyse der Kundenanforderungen, Untersuchung der technischen Machbarkeit und Umsetzung in ein Angebot
+• Erstellung von Aufwandsschätzungen / Kalkulationsgrundlagen inkl. Analyse und Auswahl geeigneter Software-Pakete
+Anforderungen:
+
+• Erfolgsbilanz bei der Arbeit an Android-Projekten (aufgabenbezogene Fachkenntnisse sowie 5+ Jahre Berufserfahrung (inkl. abgeschlossene Berufsausbildung) oder Hochschulausbildung [Bachelor o.Ä.])
+• Sichere Anwendung von Architekturkonzepten, von Frameworks und Entwurfsmustern und UML
+• Sehr gute Kenntnisse und Erfahrung in der Entwicklung von Android Apps
+• Erfahrung in Websicherheitskonzepten und -implementierungen
+• Arbeiten in agilen Umgebungen
+• Vertrautheit mit modernen Software-Engineering-Techniken wie Continuous Integration, testgetriebene Entwicklung und anderen automatisierten Akzeptanztestverfahren
+• Sensibilisierung/Erfahrung in der Automatisierung des Testens von Android Applikationen
+• Erfahrungen bei der Programmierung und Durchführung von Entwicklertests und Erfahrung mit Testautomation
+• Erfahrung bei der Lösung komplexer Probleme
+• Interesse an der Lösung von zeitkritischen Fragen
+• selbstständige Arbeitsweise im Team
+• eigene Priorisierung der Themen
+• Mitarbeit in technischen Communities
+• Starke Unabhängigkeit, Initiative und Dienstleistungsmentalität
+• Sehr gute Sprach- und Schriftkenntnisse in Deutsch (Europäischer Referenzrahmen mind. Level C1) und fließende Englischkenntnisse setzen wir voraus
+
+
+Zusätzliche Information
+Das bieten wir Ihnen:
+• Work-Life-Balance
+o 30 Urlaubstage und bis zu 5 zusätzliche bezahlte freie Tage
+o Sabbatical-Möglichkeiten
+o Zeitgemäße Arbeitszeitmodelle (z.B. zeitlich befristete Teilzeit)
+o Mobiles Arbeiten
+• Personalentwicklung
+o Weiterbildungszeit tarifvertraglich zugesichert
+o Individuelle Weiterbildungsplanung inkl. anerkannter Zertifizierungen
+o Company University und Talent Programme
+o Internationale Karrieremöglichkeiten
+• Unternehmenskultur
+o Kommunikation auf Augenhöhe („Du“-Kultur)
+o Bereitschaft zur Veränderung liegt in der Company DNA
+o Wertschätzung aller individuellen Hintergründe und Erfahrungsschätze
+• Zusatzleistungen
+o Betriebliche Altersvorsorge, attraktive freiwillige Sozialleistungen
+o Atos Share Programm
+o Corporate Benefits
+
+Wenn Sie interessiert sind, würde ich gerne einen Termin mit Ihnen vereinbaren, um Ihre Erfahrungen zu besprechen und Ihnen die Details mitzuteilen. Können Sie ein paar Daten und Zeiten nennen, die für einen 30- bis 45-minütigen Anruf funktionieren würden?
+
+Alles Gute,
+Jonathan
+Jonathan.gatchalian@manpower.com

@@ -1,0 +1,42 @@
+About the job
+Flooz is a culture-first web3 wallet & infrastructure company. We offer the tools needed to onboard the next 100m people onto the blockchain. Our vision is to provide equal financial opportunities to everyone.
+
+We are looking for an experienced and driven Senior Backend Engineer to join us full-time and support our high-performing squad in building the Flooz ecosystem.
+
+Flooz is a fully remote company with employees located in 10+ countries (CET +/- 3hrs). We believe in international, cross-functional team setups and promote regular face-to-face meetings, e.g. in company events or in-person product sprints.
+
+Tasks
+You develop and support our backend including business logic, database integration, APIs, and new functionality enhancements
+You ensure clean and highly performant code, proper project structure and API design, and good documentation
+You apply tests to your code and features, to ensure high test coverage for automation and CI/CD processes (ideally following TDD)
+You participate in code reviews and/or pair-programming activities
+You work closely together with our CTO and tech team to constantly improve our architecture design, engineering standards, framework usage, toolkits, and delivery processes
+You will be one of the subject-matter experts for engineering in your squad and assist the team with architectural decisions
+You ensure that the development process is smooth and support the squad in constantly improving
+You shape and nurture a collaborative, inclusive, and alive remote engineering culture in line with our guiding principles
+
+Our backend tech stack:
+Typescript
+NestJS
+Cloud Run
+Docker
+BigQuery
+Firebase & CF
+
+Requirements
+You have relevant experience as a software engineer and are familiar with our tech stack
+You are experienced in software architectural design, data modeling with Document-based databases, and have a good understanding of software development processes and agile methodologies
+You have passion and experience in building, launching, and scaling great products
+You have the ability to understand and translate business and user requirements across teams and our leadership team
+You have extensive knowledge of software engineering: software engineering practices, modern design, and architecture concepts
+You know how to apply efficiency and automation to improve development processes
+You have the ability to prioritize engineering initiatives and drive the delivery of the squad
+You have exceptional communication skills in English
+
+Sounds good? Please share your CV with us and any interesting project you worked on or are passionate about. We look forward to hearing from you!
+
+We value diversity of perspective and seek to build an inclusive workplace that welcomes people from all different backgrounds.
+
+We love hearing from you!
+
+Stay safe, the entire Flooz Team

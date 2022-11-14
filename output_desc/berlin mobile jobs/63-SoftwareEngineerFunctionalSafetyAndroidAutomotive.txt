@@ -1,0 +1,40 @@
+About the job
+A person with disabilities will be given preferential consideration per local regulations.
+
+Note: Google’s hybrid workplace includes remote and in-office roles. By applying to this position you will have an opportunity to share your preferred working location from the following:
+
+In-office locations: Munich, Germany.
+
+Remote location(s): Germany.
+
+Minimum qualifications:
+Experience creating software.
+Experience with system software development in C.
+Experience with system design.
+
+Preferred qualifications:
+Experience with safety relevant development processes (e.g., automotive).
+Knowledge of embedded systems (e.g., embedded Linux, QNX, GHS Integrity, etc) and hardware accelerated graphics interfaces.
+Knowledge of Android’s application interfaces and platform interfaces.
+Ability to apply new techniques to unique problems with a curiosity to learn new technologies.
+Effective leadership, communication, and teamwork skills.
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Our work has a huge impact – because of the software we are creating, automotive Original Equipment Manufacturers (OEMs) are able to use 3D visualizations to convey safety critical information like driver assistance state, front collision warnings, autonomous lane change intent, and more.
+
+Automotive industry executives say there will be more change in their business in the next 5 years than they have seen in the last 50 years.
+
+The Android Auto team collaborate with vehicle manufacturers to develop and deliver on this massive opportunity, building on a proven embedded platform to create a leading Assistant-powered, navigation, entertainment, and communication vehicle system, which will be delivered to specialized people-moving devices.
+
+Responsibilities
+
+Drive the software engineering effort for software that has safety at its core.
+Collaborate with our product, engineering, and external safety consultants to create and review design documents, requirements, and test plans.
+Work with OEM teams to integrate our software into their vehicles and to ensure that their safety goals are met by our requirements.
+Support other teams at Google who are developing applications for cars that present safety critical information to drivers.
+Grow your team to scale solutions for new upcoming areas and to cover more OEM engagements.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

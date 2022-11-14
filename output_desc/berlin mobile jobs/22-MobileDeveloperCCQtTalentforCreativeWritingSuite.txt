@@ -1,0 +1,28 @@
+About the job
+We are the developers of Papyrus Author – the writing suite for modern authors. We combine digital technology with literary know-how and create the best software for writers there is. Become a pioneer and pave the future of writing. We are looking forward to you and your unique skills.
+
+Tasks
+
+Use your software developing skills to change how tomorrow’s authors write books. With your solutions, writers unleash their full potential. Apply your experience with us, and launch the mobile application of our long-term software project.
+
+What Awaits You
+Writing C++ code for a unique software that is loved by its users–our fans are eagerly awaiting a mobile version!
+Porting Papyrus Author to Android and iOS with ongoing development of the mobile app with C++, Qt and QML.
+Revolution of the look & feel of our software. Give us that special QML touch.
+Modernization and adaptation of our word processor / office suite for mobile platforms and the web.
+Design and implementation of innovative software in a multinational team. We all work together, questions can usually be discussed immediately. Everyone joining a discussion understands software concepts.
+
+Requirements
+You can work in a team, are unafraid to learn foreign code, have good stress resistance and a sense of responsibility. You like to create something.
+You are excellent in developing software in C/C++, Qt and QML. You enjoy working with old-school code as well as developing modern C++. Qt widgets are *still* our status quo.
+You have a university degree and/or professional experience in software development. You are self-taught without a degree? Convince us of your talent.
+
+Benefits
+
+Papyrus Author is our dream project. Make it your own and create something that wouldn’t have existed without you.
+Flat hierarchies: No bureaucracy, no politics. We focus on making great software.
+Grow with us: Rise into a key position in a stable and growing international company.
+Fast machines: Work with a setup you love. Hardware requests are no problem.
+Remote: We are not bound to an office and work remotely.
+
+Would you like to work with us? Send us your application with your CV and a sample of your work. We’re excited to meet you!

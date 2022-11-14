@@ -1,0 +1,44 @@
+About the job
+At Juit, we enable our customers to eat healthy every day by delivering chef-cooked meals directly to their homes. We aim to become the #1 direct-to-consumer healthy ready meal brand in Germany by providing the best food, delivery and digital experience to our customers.
+
+Share our passion for high-quality software engineering and become part of Juit as Senior Engineer (Backend, Frontend or Mobile) (m/f/d).
+
+Tasks
+You will be joining a small team of extremely talented, highly driven and result oriented engineers and your experience will strengthen our backend, frontend or mobile engineering capabilities
+You will take ownership of part of our stack, and drive its development following the latest standards and technologies, ensuring extremely high level of quality through unit, functional and integration testing
+You will be exposed and contribute to the design and development of all areas of our platform, as we promote code sharing and reuse between frontend, backend and mobile apps
+You will be learning new approaches and technologies, as we keep all our stack working on bleeding-edge frameworks, and promote innovation through the adoption of the latest technologies, libraries and solutions
+You will be using and contributing to open source projects and libraries, as we strongly believe openness, collaboration and community engagement are key to our success
+
+Our Stack:
+TypeScript 4 (ES2020) everywhere
+Backend: Node 14 (on AWS Lambda)
+Frontend: Vue 3
+Mobile: NativeScript 8
+CI/CD: 100 % automation w/ GitHub Actions
+Orchestration: Terraform
+
+Requirements
+Deep understanding of JavaScript (ES2020) *AND* TypeScript 4
+Knowledge of popular testing frameworks (Mocha, Chai)
+Expertise in source analysis tools (Istanbul, NYC, ESLint)
+Knowledge of REST-APIs (theory and modelling)
+Excellent communication skills with a passion for technical discussions
+Strong analytical skills and a mindset to get things done
+Backend specific: Node 12 and 14, AWS Lambda, Postgres, DynamoDB (and overall AWS ecosystem)
+Frontend specific: Vue 2 and 3, WebPack 5, and familiarity with NodeJS
+Mobile specific: NativeScript 7 and 8, WebPack, Vue 2, and familiarity with NodeJS
+Fluent in English
+
+Benefits
+A modern workplace at your disposal
+Dedicated team with talented and inspiring colleagues
+Flexible working hours
+Training budget for your personal development
+Employee discount on our Juit boxes
+Structured Onboarding and Responsibility from day one
+Interesting tasks in a growing company with the chance to develop yourself further
+
+You want to be part of our team and help shape the future of Juit? Then apply now! We are looking forward to your application. Please note, that for all applications a work permit in Germany is required!
+
+We invite FLINTA* and BIPoC to apply.

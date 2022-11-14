@@ -1,0 +1,25 @@
+About the job
+kopplr is growing and always looking for passionate programmers who are highly independent, but also a good fit for the company culture.
+
+Tasks
+
+Currently we are looking for a Remote Senior Haskell Developer, who will be implementing microservice functionality for kopplr's interaction with external services in a CQRS setup on the AWS cloud.
+
+Requirements
+Professional experience in Haskell
+Familiar with AWS Lambda, Haskell stack, lenses, generics, Haskell data modelling
+Knows Monads and Monad transformer stacks
+Deep understanding of functional programming
+At least 4 years of experience
+Excellent communication skills in English, both written and spoken
+German language skills will be beneficial
+A problem solving mindset and deadline-driven
+Excellent collaboration skills, with strong verbal and written communication
+
+Benefits
+Receive fair and equitable remuneration
+Work on cutting-edge technologies
+Improve your skills and learn from top-notch engineers
+Become part of a young and dynamic team with flat hierarchies
+Work remotely and organize your time freely
+Enjoy an open and appreciative working atmosphere

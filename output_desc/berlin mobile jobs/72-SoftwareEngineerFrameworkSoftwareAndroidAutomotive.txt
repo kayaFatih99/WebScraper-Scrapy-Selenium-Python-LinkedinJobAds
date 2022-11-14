@@ -1,0 +1,39 @@
+About the job
+A person with disabilities will be given preferential consideration per local regulations.
+
+Note: Google’s hybrid workplace includes remote and in-office roles. By applying to this position you will have an opportunity to share your preferred working location from the following:
+
+In-office locations: Munich, Germany.
+
+Remote location(s): Germany.
+
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience
+Experience in Android Framework development with Java or C++
+
+Preferred qualifications:
+Experience building platform APIs
+Experience developing Android OS software framework components
+Familiarity with Adaptive AUTOSAR
+Knowledge in data structures, algorithms, and systems design, and analytical problem-solving skills.
+Excellent communication skills, with the ability to articulate a focus on product hygiene and product health
+Excellent system design skills, with a passion for building platforms and ecosystems
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+As a Framework Software Engineer you will work with internal teams and external partners to architect and design key new platform service capabilities, and address core technical challenges. You will also demonstrate an understanding of many parts of the system, including the intricacies of the Android Framework internals.
+
+Automotive industry executives say there will be more change in their business in the next 5 years than they have seen in the last 50 years.
+
+The Android Auto team collaborate with vehicle manufacturers to develop and deliver on this massive opportunity, building on a proven embedded platform to create a leading Assistant-powered, navigation, entertainment, and communication vehicle system, which will be delivered to specialized people-moving devices.
+
+Responsibilities
+
+Work with internal teams and external partners to architect and design key new Android platform capabilities.
+Design and develop automotive services and work with partners to deploy these features on reference platforms.
+Contribute towards the development of current Android features and address core technical challenges.
+Provide technical leadership across the organization on the various initiatives.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

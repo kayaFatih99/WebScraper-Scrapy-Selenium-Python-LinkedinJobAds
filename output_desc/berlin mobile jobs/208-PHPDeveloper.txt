@@ -1,0 +1,21 @@
+About the job
+We are looking for an experienced PHP Developer to take an exciting opportunity in Hamburg, Germany.
+
+Our client creates long-term strategy games that are played by over 8 million people across 150 countries on both PC and mobile.
+
+The successful candidate will be responsible for the design, development and improvement of the backend PHP API.
+
+What are the skills required for this PHP Developer role?
+The successful candidate for this PHP Developer role will demonstrate the following skills:
+At least 4 years of professional PHP development experience
+At least a Degree in computer science or something similar
+Solid grasp of PHP7, PHPUnit, Composer, etc.
+Hands on bbackground with multi-server high-load PHP applications
+Excellent English language skills
+
+Key Words
+#PHP #PHPDeveloper #PHP7 #PHPEngineer #GameDevelopment #MobileGames #F2P #GameDeveloper #GameDevelopment
+
+PHP Developer
+
+By applying to this role you understand that we may collect your personal data and store and process it on our systems. For more information please see our Privacy Notice https://eu-recruit.com/about-us/privacy-notice/

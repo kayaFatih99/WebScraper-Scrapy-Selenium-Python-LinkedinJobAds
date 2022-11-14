@@ -1,0 +1,53 @@
+About the job
+About MLS:
+
+At Market Logic, you’ll be changing the world of marketing and transforming the way companies use knowledge to run an insights-driven business. You’ll work alongside some of the top global bluechip brands from F500 CPG, Retail, Healthcare, FinServ, Media, and Automotive organizations, as well as international colleagues from over 50 nations. We’re a fast-growing company based in Berlin and Chicago offering big opportunities for career advancement and personal growth. Walk around our office and you’ll see an open multi-cultural environment, where co-workers believe market research and consumer data should be more effective, and that software can make it far simpler and more powerful. We’re a diverse and dynamic team who share a few personality traits.
+
+Are you looking for a new challenge working with the best global brands in a leading-edge tech company? Are you eager to develop top SaaS Software to provide superior value to our users? Do you want to make and see your impact in a fast-growing company and shape the future of our organization? Then look no further – join us on this incredible journey!
+
+About the role:
+
+We're looking for a Senior Backend Engineer who is excited by technologies and the opportunity to build, maintain and extend the foundation technologies and services for our marketing insight platform. You will be part of an international dynamic agile team. You will work closely with other engineers and engineering teams, programmers, designers, and product owners
+
+Contribute to the development of a set of newly developed products using cutting-edge technologies.
+Design backend services in a micro service architecture with a focus on API standards, UI compatibility, business use-cases, caching and performance
+Build, maintain, and ship new features using Java Spring Boot, Gitlab CI, Helm and Kubernetes
+Work with Kafka for asynchronous processing
+Deployment and Monitoring of our services using our existing CI/CD-Pipeline
+Conduct code reviews and participate in team internal and cross-team technical discussions
+Adhere to best practices like Unit Testing, Integration Testing, TDD, Technical Documentation, Continuous Deployment
+Work with agile methodologies (Scrum) and think in small product increments.
+
+Requirements Qualifications and education requirements
+
+Functional Experience
+
+You have 5+ years of experience in software development with Java
+
+Languages
+
+English (Fluent: Spoken and Written)
+German is nice to have
+
+Preferred skills
+
+You have good knowledge of Spring Boot
+You use and understand testing frameworks
+You have already experience with Docker, Helm and Kubernetes
+You have used build tools like Maven or Gradle
+You are interested in maintainability and clean code, OO principles and design patterns
+You have a problem-solving mindset
+You take pride in your work and feel responsible for it
+You love working in teams, you share your knowledge, and you grow by listening to others' feedback
+You are motivated to work with best-practice agile development methods, especially love to contribute to discussions in a respectful and open manner.
+
+Benefits
+
+Work with one of the leading end-to-end market insights platforms
+Become part of a diverse and vibrant global environment consisting of 50+ different nationalities
+Mentoring, learning and development opportunities
+possibility to work 100% remote from Germany.
+Competitive salary and 30 days of paid vacation
+Additional perks include: Flexible working conditions, ability to work remotely, German classes, regular social events, breakfast club, team lunches and fresh fruits in the office (as much as the current situation permits)
+
+At Market Logic every voice and every perspective matters. That’s why we’re proud to be an equal opportunity employer that places great value on diversity. It’s our goal to create a workplace that is inclusive. We do not make our hiring on the basis of gender, ethnicity, age, color, religion, disability, sexual orientation or veteran status. We value and rely on the collective voices of our employees and customers.

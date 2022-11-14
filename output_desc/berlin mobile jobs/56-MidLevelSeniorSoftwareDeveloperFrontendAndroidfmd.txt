@@ -1,0 +1,33 @@
+About the job
+myEGO is a pioneer in the field of self-sovereign identity management. This topic is one of the big issues of the time, not only in Europe but also worldwide - this is also reflected in current world politics. With our current product, we are already cooperating with well-known enterprises in Europe. In the next 2 years, the landscape for identity management will completely change. We’re looking for a Product Manager (m/w/d), who’s passionate about shaping our product for self-sovereign identity (SSI). Join us on our journey to disrupt the old world of central data management, by adding compelling value to our product.
+
+Aufgaben
+Further development of our Android platform in the front-end area
+You work together with the entire myEGO team on an innovative platform for the digitalisation of identity
+As a member of one of our Scrum teams you will further develop the product myEGO, based on React Native, React JS, (Node JS, Hyperledger Fabric)
+You will take responsibility for the specification, conception and implementation of designs and functionality for the React Native App (Android specific) & Native Android SDK
+You live the values of agile software development within the company and drive it forward.
+In our self-organized development teams you will analyze, design and implement userfriendly and innovative web applications based on the latest technologies.
+
+Qualifikation
+University or college degree in computer science, business informatics or a comparable degree
+At least 2 years of experience in software development with React Native and/or React (and Redux) with special focus on web and mobile applications
+Advanced Java/Kotlin developer and knowledge in Android App Development
+Understanding in the use of REST interfaces
+Development of barrier-free, high-performance applications
+Interest in complex systems and in learning/testing new technologies, languages and frameworks
+Understanding of CI/CD
+Flexibility, ability to work in a team and a high level of commitment
+Fluent in English
+
+What We Also Wish You Have....
+Experience in mobile development (Android)
+Experience in working with SQL databases (PostgreSQL)
+Experience in handling automated tests (unit tests, acceptance tests)
+Knowledge in handling container technology (docker), AWS cloud solutions
+
+Benefits
+Open-minded and dynamic start-up with flat hierarchies
+Agile working method and home office possibility
+Personal development in a team
+Flexible working time model

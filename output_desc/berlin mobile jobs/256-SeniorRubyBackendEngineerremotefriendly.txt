@@ -1,0 +1,105 @@
+About the job
+Our mission? Creating the finance solution that energizes SMEs and freelancers, so they can achieve more. We simplify everything from everyday banking to bookkeeping and spend management. At Qonto, we’re passionate about creating the best product - with both impact and a great user experience. So if you’re looking for an ambitious team that’s revolutionizing a rather old-fashioned industry, get in touch. You can find out more about the Qonto Way here .
+
+Alexandre and Steve launched Qonto in July 2017. Since then, the team has made great strides:
+Becoming market leader for online SME banking in Europe with 300,000 SME clients
+Getting recognized as one of the Top 10 startups to work for ( LinkedIn | Glassdoor )
+Opening offices in Paris, Berlin, Milan, Barcelona and Belgrade
+Recently joining forces with Penta, a market leader, based in Berlin and Belgrade to strengthen our growth
+900+ happy Qontoers building a finance solution businesses love to use.
+
+Our values:
+
+Ambition | We tackle big challenges. No matter what
+
+Teamwork | We create momentum by working together, at the same speed
+
+Mastery | We pursue excellence through continuous learning. We face challenges with humility. Every day
+
+Integrity | We're open. We're honest. And we earn the trust of our clients and each other
+
+Join us as a Senior Ruby Engineer to craft polished user experiences, highly scalable APIs, and robust banking services, all to help create the finance solution all businesses love!
+
+As a Senior Ruby Engineer , you will be part of a team of 100 highly skilled back-end engineers from all over the world. You will work closely in cross-functional teams to shape our finance solutions. You will participate in the discussions on the direction of our banking product, manage how we will handle our ever-growing user base needs, and deliver high-quality products in a fast-paced environment.
+
+👩‍💻🧑‍💻 As a Senior Ruby Engineer at Qonto, you will
+Play an active role in the architecture at Qonto to better support our growing user base and scaling needs,
+Contribute to the Value Engineering phasis and propose relevant tools to solve problems
+Build new applications and services to support our APIs and internal tools to help us move faster with confidence and quality
+Train the good practice/standard on how to craft code, leverage our tools, libraries, and frameworks especially in Ruby, and participate in the development of open-source tools
+Maintain our high level of quality through strong testing methodologies, documentation, pairing, and learning,
+Help scale our backend codebase while maintaining our strong engineering culture ,
+
+Our primary languages are Ruby, Python, and Golang on the backend, EmberJS on the frontend, and Kotlin and Swift for our Mobile applications. Our platform runs on a Kubernetes cluster hosted on AWS , with PostgreSQL as our database of choice, using Kafka for our event-driven architecture and ELK for logging and auditing, among many other tools, services, and applications.
+
+🤔 Get to know our working methodology, the Qonto Way
+We highly value the analysis phase on software delivery placing a heavy emphasis on upfront technical designs, team reviews, and smart slicing (called Value Engineering). In this manner, you would be expected to put a heavy focus on Quality which we believe drives the velocity our customers need.
+We foster an environment that enables our engineers to be proud, therefore happy, of the work they are doing as we believe that this is the route to success .
+We think that success comes out of a space where you are given time, support, and authority to improve yourself, our systems, and our processes. Our lean toolbox enables you to monitor your constant improvements ( Kaizen , PDCA) in a collaborative way with your peers and manager.
+Our engineers, working in cross-functional teams writing mostly in Golang, Ruby and Python, dedicate themselves to one feature at a time (we call this One Piece Flow).
+
+🤔 What you can expect
+Work in a multicultural fast-paced environment with a strong focus on quality
+Build robust products and improve features used by 300K+ clients across Europe
+Have a strong impact on business decisions as part of a Cross-Functional Team (our Back End engineers work commonly with other departments on a topic in order to provide the best solution in terms of efficiency and productivity).
+Keep learning and improving : a various range of training, peer programming sessions with our Experts, possibility to learn a new programming language ( Python, Ruby, GO...)
+Share knowledge among the whole tech and product team (internal and external talk, weekly meetings, Tech Monthly) and the community (articles, meetups)
+
+🤝 Your future Head Of
+
+One of our Heads of Backend at Qonto is David , and he's managing teams working on Platform Services.
+
+He worked in both France and the UK, initially as a Software Engineer within all-size businesses and then in technical and team leadership positions. In 2015, he left the UK for good, to join a startup in France as a CTO.
+
+His team built a platform alongside French Football Federation to help sports coaches to manage their athletes' performances. The next step in his career was another startup, but this time in the video game industry to build a data-driven platform from scratch.
+What can he bring to you and the team?
+
+David has a lot of experience in Software Craftsmanship and Extreme programming. You will have the opportunity to work in a department that values high-quality software. He also fosters and promotes a highly collaborative workplace and embraces ambitious and difficult technical challenges.
+Your collaboration? You can expect a very respectful relationship based on trust, empowerment, and ownership. David always makes himself extremely available and will live up to the high expectation he sets for his team members.
+
+🏅About You
+Experience : You have strong experience as a software engineer and have had exposure to architectural patterns of large, high-scale web applications. Plus, you have strong knowledge and experience in Ruby
+Problem solver: You are a pragmatic and solution-oriented engineer who is interested in hard problems and delivering value
+Impact Maker : You want to help build an innovative product used by tens of thousands of users and leave your mark
+Best Practices : You are an organized worker who follows best practices regarding code quality, testing and code reviews
+Curiosity: You are a curious and open-minded developer who is eager to learn a new language, banking domain and introduce new tools and services where it can help us grow
+Team player : You have good communication skills, are comfortable working in a team, and can easily work with non-technical colleagues
+Languages: You are fluent in English If you read this far and feel like this could be a great opportunity for you, don't let the imposter syndrome prevent you from applying and hit the button "Apply", we'd really love to hear from you!
+
+If you read this far and feel like this could be a great opportunity for you, please don’t self-reject and just hit the button “Apply”
+
+🎁 Perks
+
+A laptop. An inclusive work environment. A tailor-made career track. And so much more to help you succeed…
+
+Office & Team Life
+A central fully-renovated building in Berlin with WeWork services
+The latest equipment from Apple
+Monthly team events
+Free coffee and snacks in the kitchen
+
+Qonto’s Benefits
+A competitive salary package
+Tailor-made Remote Policy
+28 days of paid leave
+Moka Care to take care of your mental health and gym access with Urban Sports Club
+Meal vouchers
+50% public transportation reimbursement
+An inclusive environment with a focus on parity: 44% of our teams are women
+Relocation package and visa sponsorship for international talents (we have 60+ nationalities) including access to Busuu to improve your language skills
+Career tracks and mobility opportunities that can match all expectations
+
+💪 Our hiring process:
+A 60 min video call with one of our Talent Acquisition Managers, to better understand your career plan and answer any questions you may have
+A 60 min video call with your future manager, to be aligned on expectations on both sides and to talk about how you would work together
+A remote exercise to evaluate your skills and give you a taste of what working Qonto could be like
+Video calls or onsite interviews with future team members (optional) to help you understand what working at Qonto is like
+A final video call or onsite interview with the manager of your future Department
+
+We will send you an interview guide so you can best prepare yourself.
+
+On average our process lasts 20 working days and offers usually follow within 48 hours 🤞
+
+Thank you for considering joining Qonto. We cannot wait to learn more about you!
+
+If you want to learn more about us: Handelsblatt | Qonto's Blog | Startup Insider | Frankfurter Allgemeine Zeitung (FAZ)

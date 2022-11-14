@@ -1,0 +1,36 @@
+About the job
+What is zezam?
+
+We are a team of engineers, innovators and athletes that are reimagining how the coaching business works. We give coaches the best in class technology to allow them to build & grow their own business both on- and offline. Our platform is already used by over 3000 coaches in 8 countries – but this is just the beginning…
+
+Tech stack: https://stackshare.io/zezam/zezam
+
+Tasks
+
+Your Responsibilities
+Collaborate cross-functionally with product management, engineering, and design
+Build HTTP APIs that are used by multiple web and mobile applications
+Build, run and own your systems end-to-end: infrastructure, code, testing, deployments, monitoring
+Deliver transparent, honest, and direct feedback to your peers on an early-stage product
+
+Who You Are
+
+Requirements
+Proven track record of building resilient distributed systems and HTTP APIs
+Deep knowledge of Java, JVM and the Spring (Boot) ecosystem
+Experience with AWS, CI/CD, infrastructure as code and monitoring production systems
+Enjoy participating in all stages of the product process, not just coding
+Owner's mentality and "you build it, you run it" mindset
+Full professional proficiency in English and able to communicate effectively
+Multiple years experience as a professional backend developer
+Experience working for a high-growth start-up is a plus
+
+Benefits
+
+We offer
+The opportunity to join in the early stage of a well-funded company that’s primed for rapid growth and expansion
+Working directly with a world-class team of engineers, marketers, and entrepreneurs
+Stock options and competitive compensation package
+Flexible work hours
+
+Zezam provides equal employment opportunity for all applicants and employees. All qualified applicants will be considered regardless of an individual’s race, color, sex, gender identity or expression, religion, age, national origin, citizenship, physical or mental disability, medical condition, family care status, marital status, domestic partner status, sexual orientation, military or veteran status, or any other basis protected by federal, state or local laws.

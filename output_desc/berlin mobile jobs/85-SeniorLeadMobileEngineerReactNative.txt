@@ -1,0 +1,49 @@
+About the job
+Senior / Lead Mobile Engineer - React Native
+
+THE COMPANY
+
+Through the power of AI and Machine Learning, this company has developed a number of data-driven tools and platforms aimed at delivering a transparent financial solution. Focusing purely on sustainable investment! If you want the leave the planet clean and beautiful for the next generation then you share the ethos of this company.
+
+This company has development hubs in London and Frankfurt, you can choose to work from either one of these OR work remotely.
+
+The group has 3 arms... soon to be 4!
+
+A Data Provider: Assessing the performance and sustainability of companies worldwide.
+AI: An advisory and technology company with an AI engineer for forecasting investment opportunities.
+Asset Management: Investment management company investing in sustainable equities
+We can't tell you the 4th one yet - this is the brand new product YOU will be building.
+
+THE JOB
+
+Develop React Native mobile applications for a brand-new, sustainability focussed product - NO LEGACY CODE!
+Work on a brand new arm of the business - build it from the ground up! Be part of the small lineup of elite Software Engineers, ready to kick-start this product.
+Include usability, edge cases, and general reliability in your Automated Tests.
+Lead your Technical projects, have the freedom to govern your own tasks, and spend time on new developments and research.
+An opportunity to gain exposure to and learn AI and ML.
+Work in a position that allows you to make an impact on something new.
+Work with a passionate and highly skilled tech team that will not only listen to your thoughts and ideas but actions them as well!
+Tech Stack includes: React Native, TypeScript, React, Next.js, and more...
+again... NO LEGACY CODE!
+
+THE CANDIDATE
+
+You are no stranger to both Native iOS and Hybrid App Development
+Solid experience in React Native
+Good understanding and belief in modern testing frameworks
+Experience with Git for version control
+You care about the quality of your code
+Interested in the latest tech innovations in your area
+You WANT to take on responsibility within a Greenfield Setup
+If you are not interested in learning new things then please click off this job description!
+
+THE OFFER
+
+Open-ended salary range!! (Don't ask for a range - we won't give you one! They have stressed they will pay what it takes to bring the right people on board)
+Fully Remote work if that is what you prefer
+Stocks and Shares package
+30 days paid holiday
+The opportunity to create something new with a team of experts in their field
+Take control of your own tasks and activities
+Work in areas of R&D and cutting-edge tech
+NO LEGACY CODE

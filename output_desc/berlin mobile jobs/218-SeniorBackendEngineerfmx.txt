@@ -1,0 +1,35 @@
+About the job
+In short: Full-time position based in Berlin or remote in Europe. Please only apply if currently residing in Europe or UK. Generous stock options in the company. We are building a phone plan you'll love.
+
+We are Gigs
+Gigs is building Stripe for phone plans. Enabling platforms to sell phone & data subscriptions to their users through an easy-to-use API in 200+ countries.
+For consumers, Gigs makes it super simple to subscribe to and manage a phone plan with a few clicks. A phone plan you’ll love to use yourself. Easy, transparent & global connectivity for your smartphone, smartwatch, or IoT device.
+See immediate results of your work. Our large-scale integrations mean huge adoption within a short time. We obsess about the needs of our partners and their end customers to build a best-in-industry experience.
+We are backed by the investors behind Stripe, Dropbox, Airbnb, Facebook, Spotify & Plaid. As part of Gigs, you will have access to the teams, resources, and support from any company we work with. We count on a team of world-class advisors and investors that can help us in tricky situations.
+We completed the Y Combinator W21 batch and have further raised our Seed and Series A rounds with USA-based investors.
+
+The Position
+You will build the core of Gigs products, services, and APIs in a spectacularly robust fashion.
+You will directly communicate with the founders and be part of the core team.
+You will build and integrate APIs and services and work with our partners to launch new markets, connectivity methods, and capabilities.
+You will establish and improve engineering standards, tooling, and processes.
+
+Requirements
+
+We know that perfect candidates don’t exist. Even if not all of this applies to you, we’d love to learn more about you.
+You enjoy and have experience conceptualizing and building back-end solutions & APIs. You enjoy thinking about systems and services and writing high-quality code.
+You’ve built and maintained API-driven platforms with high user volumes. You hold yourself and others to a high bar when working with production systems.
+You enjoy building a product from scratch. This means high involvement in the design process and understanding customer wants. It also means that you enjoy taking technical decisions,
+You love learning technologies as you go. You always want to find the right tool for the job, and don't only follow what you already know.
+You care about more than just engineering quality. Whatever you do, needs to have a business impact. You can make trade-offs between speed and quality.
+
+Benefits
+Salary: We offer € 85 - 120k annually.
+Generous stock options: We want everybody to be a true owner of Gigs (tax-free until exercised).
+Visa sponsorship is available and your relocation will be covered.
+Free phone and data plan
+Flexible working hours: We use meetings when needed and not per default.
+Get your perfect setup: Mac, Mechanical Keyboard, Plugins, IDE. We are flexible and cover whatever you need to do the best work of your life.
+A workplace built for remote-first work: We are building Gigs as a remote-friendly company. Take, own and implement decisions to build Gigs from scratch. You can join us in Berlin, or work from wherever you like. If you are based in Berlin, you can work from our office, or from the comfort of your home.
+Gigs Pads: Our collection of beautiful homes around the world, for when you need a work-cation getaway.
+Gigs Republic: Our semi-annual sunny offsite, a time for us to all come together for great food, lots of laughter, and leisurely activities.

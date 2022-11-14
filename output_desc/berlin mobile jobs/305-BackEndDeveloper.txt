@@ -1,0 +1,23 @@
+About the job
+Backend Developer - Node - Web3
+Fully remote across Europe
+Up to $100,000 on a B2B contract
+
+This organisation is looking to make decentralized finance simple by amending the poor user experience that newcomers face and help to merge the centralised and decentralised worlds.
+
+They have created an innovative mobile app, crypto wallet, and are working on a money market.
+
+You will be contributing towards the backend of all of their products, working closely with designers, product owners and other engineers to make the applications available for their global audience.
+
+Tech:
+Node
+Go
+Kubernetes
+React Native
+React
+TypeScript
+GraphQL
+
+This is an ideal position if you have experience building scalable and performant applications ideally in the crypto world or financial services. Using Node; Go and Kubernetes experience would be an added bonus! (However, previous Web3 experience is not a must)
+
+The engineering team is based remotely across Europe, if this is of interest please do get in touch!

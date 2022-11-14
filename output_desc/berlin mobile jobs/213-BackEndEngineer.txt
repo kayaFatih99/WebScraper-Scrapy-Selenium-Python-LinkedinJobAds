@@ -1,0 +1,44 @@
+About the job
+Want to change the world? At betterplace.org, we do. For real.
+Do you believe in making a difference? Each of the 45,000 NGOs on betterplace.org does. As Germany’s leading donation platform, we bring NGOs together with the people who help them turn their projects into reality, through their donations.
+Do you want to have an impact? Help real people instead of shareholders? Create your own space instead of having it designed for you? If yes, we might just be the place for you!
+
+Back end engineer (Ruby on Rails)
+Start immediately / 32-40 hours per week / office in Berlin-Kreuzberg or remote
+
+We’re looking for an experienced back end engineer, with Ruby on Rails knowledge. You will be part of our product engineering teams and will be working on both the betterplace.org and betterplace.me and other platforms.
+
+Your Job
+You will be working with your scrum team, product owners and different stakeholders to develop and improve betterplace.org’s software platforms. You’ll write high-quality code and contribute to decisions about the future architecture of betterplace.org.
+
+Our Stack
+Ruby on Rails, RSpec, React.js, REST APIs, GraphQL, Typescript, Docker, MySQL, PostgreSQL, Redis, and Semaphore CI, Google Cloud Platform (Cloud Build, Cloud Storage, Kubernetes Engine).
+
+Ideally, you have:
+two years of agile web development experience in various projects
+a good understanding of Ruby and Ruby on Rails
+a good understanding of object-oriented programming
+the ability to write well-designed, testable, efficient code and experience working with test automation and devops principles
+experience with API design, payment integrations, or JavaScript is a bonus
+experience working with multiple engineers across different code bases
+experience in solving real-life problems and troubleshooting
+effective communication to achieve consensus with peers, in English (at least level B1, or above). Knowledge of German is a bonus
+authorization to work in the European Union.
+
+We offer:
+a fantastic meaningful engineering culture with teams working on products and platforms that actually help people.
+20 days R&D per year for experimentation with new technologies
+the possibility to learn, teach and grow professionally
+100% remote option to work from any EU country (or work in our Berlin office).
+family-first and flexible arrangements are available and are part of our culture.
+all the other perks you get from working at betterplace.
+
+Some side facts:
+Language: We are transitioning to English as a language in the teams, and English will be your working language within the product engineering teams. However, German is still used in many places outside the product engineering teams and a little German can be helpful. We will assist with language courses if needed.
+Freelancers: You’re welcome to send your portfolio/CV, but we’ll only reply if we actually have some need. We have no need for outsourcing teams at this time.
+
+Application process:
+You can easily apply through our online form and upload your CV. Do not include any picture of yourself, but please write a few words about yourself and what made you apply.
+
+What’s important to us:
+We strive to become a more diverse workplace that fosters diversity, openness and mutual respect. Therefore we invite applications from all who are interested, regardless of origin, age, religion, sexual and gender identity, disability and from people with a migrant background and People of Colour.

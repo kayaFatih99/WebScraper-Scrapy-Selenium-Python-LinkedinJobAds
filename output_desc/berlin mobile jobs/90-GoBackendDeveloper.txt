@@ -1,0 +1,44 @@
+About the job
+Responsibilities
+Develop the server-side application logic.
+Evolve the business’s software applications using the latest software development infrastructure and methods.
+Develop analytics of solutions in the software (observability) and maintain automated tests.
+Conduct unit tests, code reviews and refactor source codes, assesses and improves software performance.
+Write and document code that meets project standards to deliver the desired functionality aligned with the overall standards and guidelines.
+Introduce new technologies and information to improve documentation practices, scalability, testing techniques and refactoring.
+
+Requirements
+Proficiency in Golang.
+Familiarity with Linux based operating systems.
+Basic knowledge of command line and Git Version System.
+Understanding of Ruby to read Ruby code for reference.
+Basic knowledge of Docker, Compose and Kubernetes is a plus.
+Working knowledge of SQL.
+Willingness to learn and work with new technologies (gRPC, graphQL).
+Ability to illustrate difficult issues and complex relationships with an open and persuasive style of communication .
+Fluency in English, written and spoken.
+
+Good to know
+This full-time position can be a permanent employment in Malta or Berlin, or on a freelance basis for contractors within the Central European Timezone +/-2.
+
+Why Work for Booming Games
+
+Founder led. Impact driven. Employee centric.
+
+We come to the table with a compelling game offering for our clients. We are currently releasing an exciting game every 3 weeks, with aggressive plans to increase this to release a new game every 2 weeks. Using our cutting-edge technical expertise, we aim to shape this offering to have off-the-shelf games from which to take our pick from. We strive to establish a “one team” mentality with our internal clients, all working towards a common goal. We’re a multi-cultural and diverse team whose passions and strengths bring much joy into the work we do.
+
+Our perks
+We’re a 100% remote-first company, offering a best-in-class remote experience.
+Competitive package.
+Educational allowance per year.
+Dog friendly offices in Berlin and Malta.
+Family friendly policies.
+Career growth opportunities.
+Zestful working environment.
+Knowledge sharing opportunities.
+Dynamic culture surrounded by industry experts.
+Company social events for team bonding.
+
+Contact
+
+Nicola

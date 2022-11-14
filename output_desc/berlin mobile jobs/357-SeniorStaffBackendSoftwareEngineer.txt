@@ -1,0 +1,45 @@
+About the job
+At Morressier, our purpose is to advance civilization by uncovering knowledge and fostering collaboration. We want to enable all the world's learners to discover, share and advance new ideas.
+
+We are a passionate team, driven in the pursuit of our goals and at our best when we are working together, supporting and inspiring one another. Our work may be serious and globally impactful, but we are light-hearted. We are optimistic, creative and modest in our mindset.
+
+We are looking for a Senior/Staff Backend Software Engineer, to join our growing and diverse global team on this exciting journey.
+
+As a Software Engineer at Morressier, you'll be joining one of our cross-functional teams to develop and scale our backend systems.
+
+What you will be responsible for
+Designing and developing Morressier's backend systems to enable delivering functionality to our web and mobile apps
+Collaborating with Product Managers, Product Designers, QA and other engineers in your team to deliver products that enable learners all over the world to gain knowledge and advance their careers
+Executing effective, scalable and maintainable code, paying attention to detail, accuracy and consistency.
+Planning, building, testing and deploying server-side software, including API/protocol/library development and database design to enable delivering functionality to our web and mobile apps
+Improving and maintaining a secure, scalable and efficient cloud-based infrastructure.
+
+BENEFITS
+Build a product with purpose, enabling innovation and accelerating scientific breakthroughs
+A highly collaborative and agile approach to working with a team made up of smart, passionate and just generally wonderful humans.
+Competitive salary plus stock options
+Flexibility for remote work policy
+Ownership and growth opportunities
+
+REQUIREMENTS
+What you'll bring with you
+Deep expertise in Javascript / Typescript and node.js
+5+ years of relevant work experience as a backend engineer
+Excellent technical problem-solving skills
+Extensive API design and development experience
+Good integration experience
+Knowledge of asynchronous messaging patterns like Publish-subscribe
+Hands-on experience with relational databases like PostgreSQL or NoSQL like MongoDB. You know how to design efficient database schemas
+Strong knowledge of application deployments in the cloud using the CI/CD development process
+Proficient in writing clean code
+Effective communication skills
+Experience with cloud platforms like GCP or AWS
+Experience with container technology, we use Docker and Kubernetes (beneficial)
+Ability to own development processes, being resourceful and responsible
+
+Even if you don’t meet all of these requirements, we would still like to hear about what you can do.
+
+ABOUT US
+Morressier is the leading platform for conferences designed for enduring value. Since 2014, more than 200 of the world’s leading professional and scientific organizations trust Morressier to support their virtual and hybrid meetings, engage their users, and amplify their content. Morressier offers its clients a powerful platform, granular data and analytics, and extensive possibilities for revenue generation. At the same time, increased accessibility to previously ephemeral content accelerates breakthroughs and innovation.
+
+Morressier is a fast-growing technology company with prominent investors onboard and a highly motivated team located in their main offices in Berlin, Washington DC, and remote around the world. We are looking for passionate people who are excited about how we can change science for the better and accelerate innovation.

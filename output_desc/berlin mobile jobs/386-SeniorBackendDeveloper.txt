@@ -1,0 +1,47 @@
+About the job
+ABOUT goodcarbon
+
+The future of the planet relies on removing 50 gigatons of carbon dioxide from the atmosphere every year. Nature-based Solutions can help, but only if they get the funding they need. That’s where goodcarbon comes in.
+
+goodcarbon is a digital investment and trading platform made in Germany. We empower conscious companies to conserve and restore nature by funding high-impact, verified Nature-based Solution projects in return for high-quality carbon credits.
+
+This enables companies to meet sustainability targets and provides project owners with the funding they need to scale projects and make a climate, biodiversity, and community impact.
+While we are headquartered in Berlin, Germany, goodcarbon benefits from the expertise of a network of partners and advisors from around the globe.
+
+YOUR MISSION:
+
+As a Senior Backend Developer at goodcarbon, you will build the central components that power our services for carbon capture project developers, the goodcarbon fundraising, marketplace, and portfolio optimization solutions.
+
+To apply for this role you should be based in the European Union and ideally in Berlin
+
+Define and develop APIs and microservices based on Kotlin and Spring Boot.
+Build customer-facing and back-office web applications, and further build-out Nature-as-a-service.
+Design highly scalable processes, systems, and services that work at millions of tons of CO2 sequestered.
+Significant experience in software engineering with a focus on backend technologies and architecture.
+
+WHAT WE ARE LOOKING FOR:
+
+We are now looking for support in our Tech department to help improve our products and platforms and set us up for even better scalable and secure infrastructure.
+
+3+ years of professional experience in Java and/or Kotlin.
+Experience using Spring Boot in a microservice environment.
+Good understanding of RESTful API design patterns and event-driven architecture.
+Hands-on experience in working with relational databases, preferably with PostgreSQL.
+Passion for writing high-quality readable code.
+Experience with containerization and container orchestration, preferably Docker and Kubernetes
+You are well-organized with a high level of attention to detail and quality, always aiming for efficient execution of tasks.
+The ideal candidate should be able to thrive in a fast-paced environment with constant change. The Tech development team uses Agile methodologies, which means communication and team collaboration skills are crucial for the role.
+As a part of an international team, you’re fluent in English. German or any other language is a plus!
+
+The team you will join is highly diverse, which means we converse in English and genuinely welcome people from all backgrounds. We foster a start-up attitude - as we are very much at the start of an exciting journey, which we will largely shape ourselves. We take ownership, we are entrepreneurial, we are driven, and we make a real positive impact on our planet.
+
+Interested in joining our journey? If so, please apply, and let’s get to know each other.
+
+PERKS AT GOODCARBON:
+Hybrid work & Flexible Hours environment.
+BVG Job Ticket.
+Employee Benefits package & good competitive salary range.
+30 vacation days.
+Diverse and global team! Genuinely the nicest group of colleagues who will soon become friends.
+A job with purpose, and the ability to fight climate change.
+Instant gratification every day! Fast impact and the opportunity to change the game as you will be joining a new team.

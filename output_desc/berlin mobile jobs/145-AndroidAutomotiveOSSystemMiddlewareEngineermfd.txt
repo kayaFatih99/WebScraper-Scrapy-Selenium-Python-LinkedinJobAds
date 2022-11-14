@@ -1,0 +1,50 @@
+About the job
+
+Description
+
+Our Team is looking for an Android Automotive OS System/ Middleware Engineer (m/f/d) that is ready to proactively function in a cross functional agile team and focus on development and integration of Android software on an Android Automotive OS-based Infotainment Platform, analyzing performance issues and performing fault tracing of the in-vehicle software and supporting systems.
+
+In this exciting position you will have the chance to develop your skillset and make an impact on the next generation of vehicle computers by integrating Android OS to improve car infotainment systems for passenger cars.
+
+Responsibilities
+
+You participate in every stage of the software development from requirement analysis, design and implementation to module and system verification
+You are involved in the development of the best-in-class next generation of Android-based infotainment software in close cooperation with our automotive customers
+You will be defining technical solutions in the complex space between Linux, Android and third-party content
+
+Requirements
+
+Degree in Computer Science, Information Technology, Communication Technology or a comparable qualification
+Experience in working with Android Open-Source Project (AOSP)
+Knowledge in Android System/Software Architecture – Hardware Abstraction Layer (HAL), System Services, Media Services etc. (C/C++)
+Experience in Android Frameworks and programming language such as (C++ or Java)
+Knowledge and experience in Android IPC like Binders /JNI/intents and intent filters
+English level: Full professional
+
+Nice to have
+
+Experience in In-Vehicle Infotainment System
+Android automotive OS Experience
+Experience in CMake and yocto
+Worked on Linux Root file system (Linux Frameworks)
+Knowledge of Various Linux IPCs Dbus, unix sockets, etc.)
+Experience in working on android in a virtualised environment
+Debugging experience of complex system problems of resource management in android platform
+Wayland architecture OR Experience and knowledge similar Graphics stack like Surface flinger on android side is highly valued
+German level: Upper-Intermediate+ (B2+)
+
+We offer
+
+EPAM Employee Stock Purchase Plan (ESPP)
+30 days holiday per annum
+Company Pension Scheme
+Competitive compensation depending on experience and skills
+Regular performance assessments
+Opportunities for personal and professional growth
+Unlimited access to LinkedIn learning solutions
+Friendly and enjoyable working team
+Relocation package support
+Regular corporate and social events
+Flexible and remote working opportunities
+All benefits and perks are subject to specific eligibility requirements
+Join EPAM Germany, named a Top Company 2022 by Kununu

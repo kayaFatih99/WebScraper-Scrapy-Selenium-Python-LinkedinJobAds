@@ -1,0 +1,29 @@
+About the job
+YOUR ROLE
+At Capmo we are looking for a Senior Backend Engineer (m/f/*) who will help us digitalize the construction industry. Are you in for the challenge? If so, you will have the opportunity to contribute to the whole organization, helping us set high standards and create a high-quality product while working autonomously. Together with your team, you will develop scalable and maintainable features while preserving and improving existing functionality.
+
+These challenges are waiting for you:
+Lead or contribute to major initiatives that further expand or refine our product. You’ll find yourself to be customer focused while building high-quality solutions that are scaling with the rapid growth of our business.
+Make data-driven decisions while staying on a highly collaborative team and assessing risks effectively.
+You’ll be lifting the technical excellence bar with each contribution while helping your teammates raise up to that bar.
+Sharing knowledge and sparring with other experienced Senior Engineers will be part of your daily routine.
+
+WHAT WE OFFER
+We want to see you grow! That’s why we are offering you 1.500 € every year, to invest into your learning and development. That also includes going to your favourite tech conferences!
+Come on over to Berlin or Munich, or just stay where you are! We will be supporting you with your visa and provide you with a relocation budget. If you’d like to work remotely from a different city/country we’ll be happy to accommodate that too, and offer you a home office budget!
+Life doesn’t always have a schedule. Don’t worry, we’re very flexible when it comes to working hours!
+Become a shareholder! With our employee share program you're participating directly in our success while taking business ownership!
+We’ll help you stay healthy - body and mind! We’ll be subsidizing your membership to Qualitrain (gyms & wellness) or your daily lunch with Lunchit, while also caring for your mental health and stress management with Headspace.
+Be proud of who you are! You’ll have a Culture Day (time off) that you can take when you’ll need it, be it Hanukkah, Kwanzaa, Christmas, Diwali, Eid, or other occasions dear to you.
+
+WHAT YOU BRING ALONG
+You’ll need to be proficient with the core technologies that power our platform: Node, TypeScript, and AWS.
+You’ll be bringing in a strong software engineering background, with 5+ years of relevant, on-the-job experience.
+Develop reliable, scalable, and secure solutions by applying your expertise with software development patterns and practices.
+Experience with relational and document databases, such as PostgreSQL and MongoDB or similar.
+You work great in a team, but you also take full ownership of your results.
+You are always ready to learn but you are also able to mentor and coach others on technical or soft skills.
+
+ABOUT US
+Capmo is the leading B2B SaaS startup revolutionising one of the largest and most undigital industries in the world, construction and real estate. We have been awarded several times as one of the most innovative construction tech companies and have tripled our team to almost 100 employees from more than 15 countries within 3 years. By the end of 2022, with over 200 people, we will define the digital future of the construction industry so that, among other things, flats, schools and hospitals can be built on time, on budget and CO2-efficiently in the future.
+The Munich-based software startup was founded in 2018. Several hundred customers and tens of thousands of users in Europe already rely on Capmo's digital solution and implement well over 10,000 construction projects with the software.

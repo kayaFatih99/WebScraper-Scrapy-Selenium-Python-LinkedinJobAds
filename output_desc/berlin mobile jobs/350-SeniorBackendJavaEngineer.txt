@@ -1,0 +1,38 @@
+About the job
+Senior Backend Java Engineer - 100% Remote – GMT +/- 2hrs
+
+The job
+This is a great opportunity for a Backend Java Engineer to operate in one of their small product focused squads that has a combination of software engineers, Data , Product and UX people. The role is predominantly hands-on in scaling their infrastructure where you will be building new functionalities for specific products.
+
+This is a vital role which is at the core of the company you will have a major say in both discovery (what problems to solve and why) and their central architecture in building solutions.
+
+You will spend most of your time getting your hands dirty solving complex challenges where you will encounter huge amounts of data and traffic. The Backend Engineer will be an advocate for best practices and mentoring their junior engineers.
+
+This is a DevOps role you build it, you run it. It’s a full end to end role within the scop of backend services.
+Tech: Java, AWS (S3, Kinesis Streams, SQS, SNS, Lambda, ECS Fargate) , NoSQL , Micronaut + more.
+
+About you
+The ideal candidate will have demonstrable experience with Java and AWS services. You will also have experience in modern frame works in the Java world either Spring or Micronaut.
+You like to solve problems and have had experience working in fast paced product environment where quality of code is important.
+Any experience working for a start-up would be handy and interest in data also would be welcomed.
+It is essential you can demonstrate good communication skills with the confidence to work on highly complex projects / workstreams.
+
+The company
+This is for a unique early seed start-up cloud-based SaaS company who have had a successful 18months. Their work is cutting edge where they are collaborating with other SaaS companies to manage their usage-based pricing and move away from subscription based.
+
+This is a data centric company where they can integrate their APIs to help provide metering, ratings, and analytics service to grow, sell and price much better.
+A fun start-up where you will be joining at an early stage so you can help shape both your career and direction of company with your ideas. They are in a great position and are growing naturally with enterprise customers coming on-board.
+Location
+This job can be based anywhere in Europe. The company have quarterly meet-ups in fun locations around the world.
+
+The Salary
+The Salary here is dependant on experience. The budget is £80k - £90k + other benefits which is dependant on your location.
+What is the process
+This is a streamlined 4-stage process:
+1. 30min chat with a software engineer
+2. Followed by a technical take home task to assess your Software Engineering skills
+3. Follow up call to discuss your solution (VP Engineering / Software engineer)
+4. Short 30 min chat with one of the founders
+
+What should you do now?
+If you are a Backend Engineer with strong Java and AWS skills press apply and send me your CV, or if you have questions then please get in touch with Zak at initi8 HQ.

@@ -1,0 +1,46 @@
+About the job
+About Us
+
+In today’s software-centric economy, speed is everything. Before Sauce, testing took too long, it was tedious, expensive to maintain and placed focus only on monotonous infrastructure issues. With Sauce, developers are free to innovate and accelerate their software development cycles, improve quality, deploy with confidence and reduce costs. Our automated testing cloud gives our customers the ability to deliver a flawless digital experience to their customers by ensuring the web and mobile applications people use every day work on any browser or device. We call that automated testing, but you’ll probably just call it awesome!
+
+The Role
+
+You’ll be an active collaborator in one of our Real Device Cloud teams which is responsible for building a reliable, and scalable real device cloud infrastructure. The work includes the management, access, control, and cleaning of our real mobile devices. The work includes a mix of feature development, security and reliability tasks. It will allow you to grow in your strengths and abilities. You will find an eager team who will support you and grow together. We are not looking for individuals that can do it all, collaboration is key. We want to be proud of what we build but also kind, flexible and calm. Especially in a crisis.
+
+As you will be working on supporting non-trivial functionality, your daily tasks will be quite different from the average mobile app development tasks.
+
+Below are a few real examples of the work we’ve done lately:
+Image Injection for mobile devices (uploading images via our service that the mobile app will use instead of the image from the camera itself)
+V-USB (connecting to a device in our data center as if you would plug it directly into your computer)
+Improvements of our device cleaning logic.
+Improved CI/CD for a better, more reliable and faster development cycle that allows us to do changes on our device cloud without impacting our customers
+We are looking for an experienced candidate but we don’t expect you to know it all in your first week. We are looking for someone with solid fundamentals, who can teach, learn and work together on a team.
+
+Key Responsibilities
+Participate in the entire development life cycle, from planning through implementation, documentation, testing, and deployment on scale, all the way to monitoring
+Interface with services running on a mobile device (Mainly iOS)
+Reverse engineer different parts of the mobile OS to enable certain functionalities
+Make intelligent choices for the adoption of new technologies based on your experience.
+Be part of an on-call rotation to ensure our services are uninterrupted.
+Job Requirements
+Practical knowledge about (Mobile) Reverse Engineering, and a proven ability to solve complex problems.
+Comfortable debugging complex issues to find possible root causes.
+Knowledge of HTTP, TCP/IP and UDP protocols, in addition to WebRTC.
+Knowledge with low level frameworks of iOS and ability to investigate private APIs
+Extensive experience in one of: Java, Objective-C, C++, C or Swift.
+In depth knowledge of apk or ipa file structure and profound knowledge of iOS internals
+Knowledge about build commands like adb, aapt, xcodebuild, etc..
+Nice To Haves
+Experience in Android and/or iOS app development
+Familiarity with OS and file system-level tools; profilers (perf, pprof), debuggers (gdb) and tracers (ptrace, linux bpf, dtrace)
+Comfortable within agile software development teams
+“Security-first-and-foremost” way of thinking
+Security Responsibilities At Sauce
+
+At Sauce, we will commit to supporting the health and safety of employees and properties, partnering with internal stakeholders to learn and act on ever-evolving security protocols and procedures. You’ll be expected to fully comply with all policies and procedures related to security at the department and org wide level and exercise a ‘security first’ approach to how we design, build & run our products and services.
+
+Sauce Labs is proud to be an Equal Opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender identity/expression/status, sexual orientation, age, marital status, veteran status or disability status.
+
+Please note our privacy terms when applying for a job at Sauce Labs.
+
+#Remote #SauceEU

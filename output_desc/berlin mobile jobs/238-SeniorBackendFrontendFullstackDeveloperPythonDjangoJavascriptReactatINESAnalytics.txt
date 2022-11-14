@@ -1,0 +1,26 @@
+About the job
+FAIR_solution, die Software, die hilft, Diskriminierung in Unternehmen (z.B. bei der Bezahlung oder Karrierechancen) abzubauen, braucht Deine Hilfe! Wir sind ein Berliner Startup und suchen eine:n Full Stack Developer (w/div/m) in Berlin, die bereit ist, in die Front- und/oder Backend-Entwicklung und das API-Design unserer Webanwendung einzutauchen. Wir arbeiten in einem innovativen feministischen Umfeld, in der Frauengenossenschaft, Weiberwirtschaft eG, in Berlin-Mitte.
+
+Aufgaben
+
+Als Full Stack Developer arbeitest Du in unserem kleinen Team zur Implementierung der Architektur bzw. des Backends und/oder Entwicklung des Frontends. Dabei bist Du immer im Gespräch mit dem Produkt-, Design- und Support-Team. Wir suchen jemanden, die oder der sich für die Arbeit in einem kleinen Team begeistert, um unsere Anwendung zum Erfolg zu führen. Um eine gute Zusammenarbeit zu erreichen, solltest Du Deutschkenntnisse mindestens auf Niveau B2 haben.
+
+Wir suchen jemanden mit mindestens 5 Jahren Erfahrungen und Kenntnissen in Python (Django) und/oder JavaScript (React ) und REST, die oder der die Entwicklung zum Full Stack Engineer anstrebt.
+
+Als Senior Full Stack Developer treibst Du mit uns zusammen die Weiterentwicklung des MVP voran. Dabei hast du einen Blick auf die Architektur wie auch auf alle Sicherheitsaspekte. Außerdem definierst und ermöglichst Du eine gesunde und nachhaltige Coding-Kultur und sorgst dabei für Skalierbarkeit.
+
+Gemeinsam mit unserem Team und den Gründerinnen schaffst Du die Basis für eine diskriminierungsfreie Zukunft für alle Mitarbeiter:innen in Unternehmen.
+
+Qualifikation
+
+Du hast mindestens 5 Jahre Erfahrung mit Python und Django und/oder in Javascript und React. Du bist es gewohnt mitzudenken und Dich einzubringen und Verantwortung zu übernehmen.
+
+Benefits
+
+Wir sind ein dynamisches female Startup in Berlin Mitte, in der Weiberwirtschaft und bieten eine großartige Arbeitsumgebung an. Wir bieten ein sehr hohes Maß an Gestaltungs- und Entwicklungsspielraum. Sehr vieles ist verhandelbar und wir freuen uns auf eine interessierte und engagierte Persönlichkeit. Dabei ist die Entwicklung zum CTO eine von verschiedenen Möglichkeiten.
+
+Da wir ein Female-First-Unternehmen sind, sind Bewerbungen von Frauen sehr willkommen!
+
+Bist Du nicht sicher, ob Du 100% unserer Anforderungen erfüllst?
+
+Bitte bewirb Dich trotzdem! Wir freuen uns darauf, Dich kennen zu lernen.

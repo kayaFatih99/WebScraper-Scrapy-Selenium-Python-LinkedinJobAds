@@ -1,0 +1,18 @@
+About the job
+Do you have a passion for pushing mobile technologies to the limits? Are you currently working in an android position and seeking a new opportunity? GR4 Germany is supporting a software based business, who are developing an application targeting the aerospace industry. As part of a cross functional team, you will be responsible for rebuilding the application as well as collaborating with other like-minded, talent developers, design team and customer support.
+
+You will be fluent and passionate about designing applications for Android platforms, as well as the following:
+
+4+ years’ experience in Android development
+Good experience with Kotlin/Java, Android SDK, JetPack Compose
+Experience with Flutter is a Bonus!
+Supporting designs on different screen sizes and resolutions
+Design patterns like MVVM, MVP and/or MVI
+You have a working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.
+You know what the full mobile development lifecycle involves.
+You're curious about new technologies and you're excited to find ways to implement them in your work.
+You can oversee and drive projects forward.
+
+On offer is a salary up to €75k depending on experience, as well as fully remote work flexibility in a multicultural team – where you can share your ideas and opinions freely, space to learn and career progression alongside other amazing benefits. You will be the second Android developer in the team, so will have the opportunity to shape the role.
+
+We’d love you to apply for this full-time Android Developer in Berlin. Please contact GR4 today. We’re a forward-thinking, data-driven hive of experts who utilise analytics, research and innovative sourcing strategies to put Berlin’s finest tech talent at your fingertips. We handle all your organisation’s recruitment needs, from discovery to onboarding, leaving your team free to do what they do best – drive innovation and push boundaries. We know one size doesn’t fit all. That’s why we offer a range of bespoke solutions tailored to fit your company’s requirements

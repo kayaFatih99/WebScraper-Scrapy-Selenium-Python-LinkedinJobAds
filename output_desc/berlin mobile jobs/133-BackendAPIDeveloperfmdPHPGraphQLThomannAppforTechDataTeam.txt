@@ -1,0 +1,38 @@
+About the job
+Hey, we are team Appic. As you might have guessed already, we are the team that’s fully responsible for our mobile app. And we are looking for a PHP API Developer (f/m/d) to support us. You will improve our GraphQL API, retrieve data from our MySQL database and make sure that app users get their data fast.
+
+Want to learn more about us: https://thomann.io/blog/are-you-appic-enough-to-join-us
+Desired Skills and Experience
+Who We Are And How We Work
+
+Our team consists of 4 full-stack developers (Fred, Aryo, Kay and Olli) a product owner, a UI/UX designer and an agile coach.
+We are working agile and using scrum as our process.
+Our focus is developing the thomann app, which is written in react-native. Data is mostly stored in a MySQL database and fetched using our GraphQL Api written in PHP.
+We work remotely most of the time, which doesn’t stop us from doing pair-programming sessions very often.
+
+Here's what you'll do
+
+Improve our GraphQL API with new features.
+Test your code with unit, integration and manual testing.
+Log and analyze errors or other important events (using splunk and sentry).
+Help juniors and working students to grow with pair-programming, knowledge-sharing and showing them the wonderful world of software engineering.
+Plan new features/enhancements together with your team and maintain existing ones.
+Share your knowledge with others e.g. through Each1Teach1 sessions, open-space workshop, blog posts …
+
+Skills you should have
+
+Worked with PHP 7/8 for at least 2 years
+Experience in designing APIs, especially GraphQL
+Experience with MySQL
+Ability to analyze and understand logging, errors and stack-traces to resolve problems with Splunk, Sentry or anything similar
+Be a team player and want to take part in plannings as well as pair-programming sessions
+Nice to have: Experience with react-native or react.js
+Nice to have: Experience with Docker / DevOps
+
+What we offer
+
+Flexible working hours (full-remote possible) and working location
+13th salary
+Thomann discount for employees
+Personal work equipment as desired, including software and IDE
+Professional coaching and English or German courses

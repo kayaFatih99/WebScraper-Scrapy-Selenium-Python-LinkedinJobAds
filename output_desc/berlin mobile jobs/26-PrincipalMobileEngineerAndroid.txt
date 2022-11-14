@@ -1,0 +1,53 @@
+About the job
+About Andela
+Andela exists to connect brilliance and opportunity.
+Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world.
+For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and education opportunities with leading technology providers.
+For companies, Andela provides access to a global network of fully integrated team members that unlock their business innovation and growth potential.
+At Andela, we are deeply passionate about creating long-lasting and transformative growth opportunities for all and doing it in an E.P.I.C. way.
+We are excited to continue building our remote-first team with incredible people like you!
+About The Role
+Our client is aiming to build a strong team for upcoming projects they will work on.
+The Principal Android Engineer owns native Android Apps designing and building capabilities/teams. He/she values simplicity and is unafraid to challenge technical constraints and procedures to achieve an Agile design. He/she works closely with all team members to create a modular, scalable solution that addresses / incorporates future architectural changes and designs. The Principal is a hands-on team member who actively consults and is a reference expert to the team for solving complex problems.
+
+Core Responsibilities
+Seen as reference and expert to all tech leads to prepare low-level designs for team members, in collaboration with Solution/Software Architect
+Guides Android team on technology strategy related to coding practices, continuous integration and automated deployment
+Accountable for the technical design of the product
+Be hands on and engage in coding to help the team to develop his solution and solve all surfacing problems at hand Identifies and removes technical impediments
+Thought partners with the Product owner in story creation and acceptance criteria, and communicate tradeoffs effectively with Designers
+Constantly looking for better ways of solving technical problems and designing the solution, not afraid of challenging the status quo
+Provides the team a roadmap for implementing software engineering practices for higher code quality
+Reporting to Engineering Manager / Chapter Lead, aligning architecture decisions and technology stacks implementation ALSO ndividual Skills
+Strong communication skills with ability to align the organization on complex technical decisions
+Active coach and mentor whose goals are to grow and maximize the team’s potential
+Strong leadership skills mainly inspirational and team-forming capabilities Mindset & Behaviors
+High energy and passionate individual who inspires teammates to reach their maximum potential ▪ Excited about trying new solutions outside standard approved
+Embraces a culture of trust, free thought complete transparency
+Brave and rebellious, willing to challenge status quo
+
+Requirements
+Must have:
+More than 10 YOE working with Java
+More than 10 YOE working with Android
+More than 6 YOE working with Kotlin
+More than 2 YOE in Mobile design
+
+Main job time zone
+(UTC +2) Cairo, Egypt
+
+Working days
+Sundays-Thursday
+
+
+Benefits
+Flexible working hours
+Super competitive salaries are paid in USD per month.
+Equity (as a part of the compensation package)
+Andela Coaching Groups
+Growth & development paths
+And more to come! We're on a journey to reimagine global benefits at Andela
+
+At Andela, we outcompete through diversity. We know that our strengths lie in the multiplicity of talents, perspectives, backgrounds & orientations resident in our community and we take pride in that.
+Andela is committed to a work environment in which all individuals are treated with respect and dignity. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits discriminatory practices. Andela provides equal employment opportunities and workplace to all employees and applicants without regard to factors including but not limited to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, pregnancy (including breastfeeding), genetic information, HIV/AIDS or any other medical status, family or parental status, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws. This commitment applies to all terms and conditions of employment, including but not limited to hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Our policies expressly prohibit any form of harassment and/or discrimination as stated above.
+Andela is home for all, come as you are.

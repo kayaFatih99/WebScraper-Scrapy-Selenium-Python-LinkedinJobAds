@@ -1,0 +1,38 @@
+About the job
+Unternehmenstext
+
+Der Bereich Digital & Consulting der Otto Group Holding vereint +100 Digitalexpert*innen unterschiedlicher Disziplinen. Gemeinsames Ziel ist es, als Professional Service Einheit der Otto Group die Konzerngesellschaften bei ihren Digitalaktivitäten zu supporten. Dies umfasst Beratungsprojekte aber insbesondere auch die Entwicklung und den Betrieb von Digitalen Produkten. Neben datenbasierten Services liegt ein Schwerpunkt bei den Touchpoints mit den Endkund*innen. Applikationen wie Mobile Apps, Chatbots, Voice und AR Anwendungen und die dazugehörigen Cloud Services betreiben wir mit viel Leidenschaft in einem interdisziplinären Team. Wir entwickeln nach Clean Code Prinzipien und setzen auf einen cloud-nativen, modernen Technologie-Stack.
+
+Unser Cloud Tech Stack:
+Node.js, JavaScript, TypeScript, AWS, Serverless, Terraform, GitHub Actions
+
+Deine Herausforderung bei uns
+Du treibst die Entwicklung und Bereitstellung von (Micro-) Services für unsere Chatbot und Voicebot Anwendungen im Kundenservice von E-Commerce und Logistik
+Du berücksichtigst nicht-funktionale Anforderungen wie Performance, Security, QA, Resilienz und Skalierbarkeit.
+Zu deinen Aufgaben gehören die Erarbeitung und Weiterentwicklung zukunfstfähiger, skalierbarer technischer Infrastruktur sowie die Dokumentation und Bereitstellung des Wissens.
+
+Du hast offene fachliche Fragen? - Gerne stellen wir den Kontakt zu Tom Meyer aus dem Fachbereich her. Du möchtest dein künftiges Team und deinen Arbeitsplatz live erleben? - Im Rahmen deines Bewerbungsprozesses hast du zu einem späteren Zeitpunkt die Möglichkeit dazu.
+
+Das bringst du mit
+
+Must-have:
+Du hast ausgeprägte Node.js, JavaScript, TypeScript Kenntnisse
+Du verfügst über Erfahrung mit der Verwendung von Clouddiensten wie AWS
+Du bringst tiefgehendes Wissen zu DevOps, Infrastructure as Code mit
+Du hast Erfahrung in der Konzeption und Entwicklung von verteilten Systemen
+Du kannst auf Betriebserfahrung insbesondere mit Monitoring und Logging zurückgreifen
+Du verfügst über gute Deutsch- und/ oder Englischkenntnisse
+
+Nice-to-have:
+Du hast Erfahrung mit Terraform und Docker
+Du bringst Kenntnisse zu weiteren Programmiersprachen wie Python, Bash, etc. mit
+Du verfügst über Erfahrung im Design von APIs
+Du hast bereits mit agilen Methoden (Kanban/Scrum) gearbeitet
+
+Benefits Für Dich
+Unser Tech Stack ist state of the art und du hast die Möglichkeit diesen aktiv mitzugestalten.
+Ein wertschätzendes Arbeitsumfeld, Experten-Know-how sowie zahlreiche Möglichkeiten für deine fachliche und persönliche Entwicklung - all das zeichnet uns aus!
+Flexible Arbeitszeiten, Arbeitszeiterfassung sowie die Möglichkeiten zum mobilen Arbeiten und Gleitzeit - du gestaltest deinen Arbeitstag.
+Viele sprechen von „Homeoffice“ - wir von „Mobile Work“. Wir arbeiten von zuhause, vom OTTO Campus und von überall in Deutschland, wo wir ideale Bedingungen für unsere Arbeit finden.
+Mit einer technischen Grundausstattung machen wir dich startklar für deine persönlichen Arbeitsplätze abseits des Campus.
+Werde Teil unserer Kultur, entdecke jeden Tag Neues und lerne eine Arbeitswelt kennen, in der noch mehr Benefits für dich stecken!

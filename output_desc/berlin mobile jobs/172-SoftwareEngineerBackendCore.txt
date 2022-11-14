@@ -1,0 +1,41 @@
+About the job
+About HashiCorp
+
+At HashiCorp, we’re building a generation-defining infrastructure software company, powered by our core principles and a growing team of talented, committed professionals working together to help organizations seamlessly transition to and operate in the cloud. Founded in 2012 and headquartered in San Francisco, 85 percent of our employees work remotely, strategically distributed around the globe. From our inception we built the company with a remote-first approach because we believe talent has no boundaries.
+
+About The Role
+
+We are looking for a junior engineer to join the Vault Core team and focus on the tools and features that enhance integration with third-party services and partners. You will help design, prototype, and implement features to interface with a variety of external systems, and enhance the extensibility support within Vault.
+
+This person will be a part of the Vault engineering team at HashiCorp, working to provide a fantastic and broadly used secrets tool for businesses and individuals handling all sizes and types of infrastructure.
+
+You can learn more about the Vault product with our Co-Founder & CTO here: Introduction to HashiCorp Vault with Armon Dadgar
+
+In This Role, You Can Expect To
+
+Design and build plugins and tools integrating Vault with a wide variety of third-party systems.
+Help contribute to the Vault community by providing code review, mentorship, and support to HashiCorp employees, community members, and partners
+Advocate and support improvements to Vault APIs and core to improve development and integration of tools and plugins
+Work on issues and improvements critical to the success of HashiCorp customers and the broader community
+
+You may be a good fit for our team if:
+
+You have experience in a programming language like Go, Java, or Python
+You like writing programs that can be understood by their users
+Experience with Kubernetes or other container orchestration systems.
+Experience working with distributed software within a Linux environment
+Experience with customer support or OSS community support to help work with the Vault community
+Expertise in one or more of the major public clouds
+Familiar with infrastructure management concepts
+Working understanding of commonly-used security technologies
+Experience using Vault, Azure and GCP
+
+About The Application Process
+
+Please note, as collaboration and communication are a critical aspect of how we work, a cover letter is a great way to provide a sample of how you communicate. If you do include a cover letter, please describe why you're interested in working at HashiCorp, and what draws you to this role in particular. Specifics of your past experience that are relevant to this role are great to include, too.
+
+HashiCorp embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our company will be.
+
+For more information regarding how HashiCorp collects, uses, and manages personal information, please review our Privacy Policy.
+
+Colorado, California, Washington and New York City Applicants: To view base salary ranges for this role in your location and to learn more about which roles are eligible for bonus pay or commissions, please visit our Pay Transparency calculator. Information on our benefits can be found here. Intern ranges can be found here.

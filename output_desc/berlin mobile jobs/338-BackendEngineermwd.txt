@@ -1,0 +1,35 @@
+About the job
+At intive we innovate through design and engineering to create people-centric digital products. We are more than 3000 people with a passion for digital, who partner with the world’s leading brands such as Dow Jones, FOX, Warner Bros., Verizon, Macmillan, Facebook, Google, BMW, BlackBerry, Discovery, and more.
+Our clients come to us to solve their biggest and the most complex business and technology challenges. We have over 20 years of experience working with companies across many industries, including Media & Entertainment, EdTech, Telecommunications, Retail, Automotive, FinTech, and Transportation.
+Unser Backend-Team wächst.
+Design und Technologie gehen bei uns Hand in Hand. In einem agilen Umfeld setzt Du bei uns Ideen in digitale Wirklichkeit um und gestaltest die Zukunft von unseren Kunden wie Audi, Deutsche Telekom, Esprit oder Vorwerk.
+Wir glauben an die Fähigkeiten unserer Mitarbeiter über den eigenen Tech Stack hinaus und suchen neugierige, mutige und offene Kollegen, die den Einsatz über den eignen Arbeitsbereich hinaus als Chance zur Weiterentwicklung sehen. Bei uns bekommst du die Möglichkeit, mit der Zeit zu gehen und deine Potenziale immer wieder neu zu entdecken!
+Du Passt Zu Uns, Wenn
+Du bereits 5+ Jahre Berufserfahrung in der Entwicklung von Backendanwendungen hast
+Du sehr gute Kenntnisse in Java mit SpringBoot oder Node.js und Typescript mitbringst
+Du mit relationalen und NoSQL Datenbanken vertraut bist
+Du APIs (REST, graphQL) umsetzen sowie deine Anwendung in Microservice Landschaften integrieren kannst
+Du komplexe Setups auf Cloud Plattformen (AWS, Azure) mit aktuellen DevOps Praktiken (z.B. Containerization) konzipieren und betreiben kannst
+Cloud Native und Serverless für dich nicht nur Buzz Words sind
+Es dir wichtig ist, in einem kompetenten und motivierten Team zusammen zu arbeiten und so gemeinsam zu lernen und zu wachsen
+Du verantwortungsbewusst und ergebnisorientiert arbeitest
+Du über sehr gute Deutsch- sowie Englischkenntnisse verfügst
+Einzelne Lücken? Kein Problem, wir bringen es dir bei!
+Du bekommst Extrapunkte für
+Den Blick über den eigenen Tellerrand und Begeisterung für neue Technologien
+Erfahrung mit Headless CMS oder Headless Commerce Systemen
+Das Engagement bei Meetups, Hackatons, eigene Side-Projects
+Erfahrung in der Frontend-Entwicklung (Web oder Mobile)
+Als Teil Unseres Teams Wirst Du
+Die technische Konzeption, Entwicklung, Integration und Test von Softwarelösungen für moderne Applikationen in agilen, interdisziplinären Teams durchführen
+Mit den Ansprechpartnern unserer Kunden z.B. für Anforderungsanalyse, Lösungs-Design und Problemsuche kommunizieren
+Bei der Konzeption von Angeboten mitarbeiten
+Wir Bieten Dir
+Eine Anstellung in einer schnell wachsenden und innovativen Branche.
+Abwechslungsreiche Projekte mit den größten Brands aus Europa und weltweit.
+Eine vielfältige Auswahl an Benefits – von der betrieblichen Altersvorsorge bis zu den Zuschüssen für den ÖPNV.
+Individuelle Weiterbildungsmöglichkeiten und regelmäßige Feedbackgespräche.
+Flexible Arbeitszeiten und ein Überstundenkonto für eine ausgewogene Work-Life-Balance
+Die Freiheit selbst zu entscheiden: möchtest Du lieber auf einem Apple oder Windows Laptop arbeiten? Welches Smartphone inkl. Mobilfunkvertrag möchtest du nutzen?
+Die Möglichkeit, flexibel aus dem Homeoffice zu arbeiten
+Regelmäßige Teamevents (Summer Games, Weihnachtsfeier, Wiesn uvm.)

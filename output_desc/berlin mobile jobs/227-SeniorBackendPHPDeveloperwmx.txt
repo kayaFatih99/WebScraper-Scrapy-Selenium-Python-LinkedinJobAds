@@ -1,0 +1,55 @@
+About the job
+Tech ist unsere DNA. Unser Gründer und GF ist Informatiker und hat früher selbst viele Applikationen für Basilicom gecodet. Unser CTO leitet die PHP-User-Group in Berlin und teilt sein Wissen nicht nur mit den Kolleg:innen, sondern auch als Speaker. 50 % unserer Belegschaft sind Entwickler:innen. Uns macht in Sachen PHP, Symfony, Pimcore und anderen Web-Technologien niemand was vor. Wir lieben knifflige Aufgaben und deren technische Lösung. Du auch?
+
+In unseren Projekten geht es um komplexe Datenstrukturen, skalierbare Architekturen, effizienten Code, saubere Schnittstellen und Anwendungen, die Spaß machen. Nicht nur für die User, sondern auch im Code. Wir finden sehr wohl, dass Software- und Web-Development manchmal Raketenwissenschaft sind. Es macht uns Spaß, die Rakete zu entwerfen, zu bauen und zu fliegen. Dir auch?
+
+Wir kennen High-Performance-Lösungen wie React/PHP/Swoole und orchestrieren in der Cloud mit ECS Fargate und weiteren Serverless-Diensten − aber nur, wenn das auch wirklich erforderlich ist: KISS!
+
+Unsere Projekte könnten unterschiedlicher nicht sein: ein Omnichannel-B2B-E-Commerce-Projekt in Scrum für einen großen Online-Retailer, eine hochkomplexe Multi-Datenbank-Applikation für ein führendes deutsches Verlagshaus im Customer-Success-Team oder eine komplette Digital-Experience-Plattform für einen Weltmarktführer im Braugewerbe. Genau diese Abwechslung macht uns Spaß, lässt uns über den Tellerrand schauen und bringt dabei spannende neue Dinge hervor, die wir dann in den unterschiedlichsten Branchen und Projekten einsetzen.
+
+Du entwickelst je nach deiner Seniorität seit mehreren Jahren professionell Web-Application-Backends mit PHP und mindestens einem größeren Framework (bevorzugt Symfony 5+)? Du suchst nach echter Agilität und technischen Sparringspartner:innen, von denen du noch was lernen kannst? Du hast gleichzeitig Lust, neue Talente aufzubauen und an deinem Wissensschatz teilhaben zu lassen? Dann lass uns das gemeinsam machen!
+
+Aufgaben
+
+Deine Mission und dein Team
+
+Als Backend Developer:in entwickelst du bei uns individuelle und smarte Lösungen, die du gemeinsam mit deinem interdisziplinären Team und vielen Developer-Kolleg:innen umsetzt. Lust auf langfristige, komplexe Software-Entwicklung? Dann bist du in einem unserer Build-Teams im Scrum-Framework richtig aufgehoben. Oder lieber Lust auf Tickets, kleinere Projekte und mehr Abwechslung in den Projekten? Dann komm ins Customer-Success-Team. Sprich mit Oliver, wir finden den richtigen Fit für dich.
+Selbstständige Entwicklung, Umsetzung und Integration webbasierter individueller Lösungen gemeinsam mit deinem interdisziplinären Team und in Abstimmung mit eurem Product Owner/Project Manager
+Architekturdesign, Datenmodellierung (ERD, MySQL) und Schnittstellenentwicklung (GraphQL, REST, etc.)
+Abstimmung der Funktionalitäten mit Kunden und Beratung zu technischen Detailfragen − Du behältst dabei IT-Security, Performance und Wartbarkeit im Blick.
+CD, CI, Monitoring, Qualitätssicherung und Testautomatisierung im Team
+Sparring und Coaching mit deinen Kollegen, Bugfixing und Unterstützung des Customer-Success-Teams
+
+Qualifikation
+
+Das bringst du mit (je nach deiner Seniorität)
+Erfolgreich abgeschlossenes MINT-Studium oder Ähnliches
+ODER: Du hast dein Studium geschmissen wie unser CTO und unser GF und die Zeit für andere, spannende Dinge genutzt.
+Je nach deiner Seniorität hast du mehrere Jahre professionelle Projekterfahrung mit PHP und sehr gute Kenntnisse in einem der führenden PHP-Frameworks gesammelt: Symfony (Version 5+ ideal), Laravel
+Erfahrungen in der Entwicklung von Web-Applikationen und Schnittstellen-Technologien (z. B. REST/GraphQL … SOAP), sowie in der containerbasierten Softwareentwicklung und deren Betrieb (mit Docker).
+Gute Kenntnisse im Bereich der Modellierung und Optimierung von Datenbanken (MySQL)
+Methoden- und Toolkenntnisse des Software-Engineerings, z. B. Scrum, Jira/Confluence, VCS/Git/Bitbucket, Composer, Codeception/PHPUnit, PHPStan, Bitbucket Pipelines etc.
+Grundkenntnisse in der Verwaltung von Linux-Server-Betriebsumgebungen und Docker-basierter Entwicklung
+Idealerweise hast du auch bereits Erfahrungen mit weiteren Services wie ElasticSearch, Redis und RabbitMQ gesammelt und konntest erstes Wissen in cloudbasierter Systementwicklung in AWS (EC2/RDS, Cloudfront, Cloudformation/CDK, Code-Pipelines, CloudWatch etc.) aufbauen.
+Ein absolutes Plus: Erfahrungen mit der Pimcore-Plattform (solltest du Pimcore noch nicht kennen, lass uns unbedingt sprechen, es lohnt sich!)
+
+Benefits
+Keine kleinen Rädchen drehen, sondern Großes bewegen. Bei uns arbeitest du nicht an kleinteiligen Minijobs, sondern bringst mit deinem Team Produkte auf die Straße, die ganze Geschäftsmodelle abbilden.
+Echtes Scrum, wenn du magst, aber immer agil.
+Flexible Arbeitszeiten, auch kompatibel für Kids und Family
+Arbeite 100 % remote, wenn Du magst − bei 0 % Distanz, versprochen
+Lust auf Workation? Do it!
+Persönliches Weiterbildungsbudget, um an Trainings, Workshops und Events teilzunehmen
+Du bist Basilicom. Gestalte dein Arbeitsumfeld und deine Agentur mit
+Finde bei uns deine neuen Arbeitsfreund:innen
+Regelmäßige hauseigene Events, Meet-ups und viele Teamausflüge ins Grüne
+Moderne Hard- und Software zum Arbeiten
+Kulinarische Leckerbissen im Dienstags-Lunch, Basics jederzeit aus dem Kühlschrank
+Wir lieben unsere Büros, komm vorbei und besuch uns
+Verbieg dich nicht, come as you are!
+
+Wir sind Basilicom. Als Digitalagentur unterstützen wir Unternehmen strategisch und technisch bei der Umsetzung ihrer Digitalprojekte. Wir schaffen Plattformen für PIM, E-Commerce und Customer Experience. Wir sind Pimcore Agentur Nr. 1 in Deutschland.
+
+Interesse an weiteren Informationen zu unserer Mission, unseren Werten und unseren Projekten? Bewirb dich jetzt unkompliziert bei uns oder melde Dich gerne direkt bei Kolja, unserem Recruiting Manager, unter +49 30 / 69 5660 7346.
+
+Wir freuen uns auf dich!

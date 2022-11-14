@@ -1,0 +1,17 @@
+About the job
+Android Engineer - £60K-80k Hybrid
+
+We’re looking for a Mid-level & Senior Android Engineer to work on a 100 million+ monthly user Platform.
+
+As a Mobile Engineer, you’ll work on the main app. It’s all about building and shipping features from the ground up. You’ll work in cross-functional teams with other Android Engineers and will use the latest tech Kotlin, Java, AWS, Dagger, Kotlin Coroutines, Retrofit, etc
+
+There are few positions available in offices in Glasgow, Edinburgh or London They can help with relocation!
+
+If you're an Android Engineer with some of the following experience please get in touch:
+
+Strong knowledge of Kotlin and comfortable working in a small team
+have experience working on high-scale products - their app goes out to >100m+ people
+User focus and enjoy getting involved in product discussions
+Experience with unit and UI testing CI/CD is a bonus
+
+Android Engineers, please apply with an up-to-date CV or email mohamed.abdulle@fewandfar.io

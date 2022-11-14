@@ -1,0 +1,37 @@
+About the job
+e-pixler ist eine Berliner Full-Thinking-Digital-Agentur. Wir begleiten unsere Kunden mit Expertise, Erfahrung und kreativen Sternstunden auf ihrem Weg in die digitale Welt. Natürlich schütteln auch wir nicht sofort die perfekte Lösung aus dem Ärmel. Aber wir arbeiten daran. Mit einem interdisziplinär aufgestellten Team, in unserem großzügigen Loft mit Dachterrasse und Blick auf die Spree sind wir bereit nach den Sternen zu greifen.
+
+Zu unserer Verstärkung suchen wir dich als
+
+Backend-Entwickler (m/w/d) an unserem Standort in Berlin, unbefristet, in Teil- oder Vollzeit
+
+Aufgaben
+
+Du hast großes Interesse daran, neue Projekte an den Start zu bringen, bestehende Anwendungen zu erweitern, Erfahrung zu sammeln in wiederverwendbaren Bibliotheken mit Datenbank- und Backend-Zugriff. Dokumentation und Versionierung gehören ab sofort zu deiner täglichen Arbeit. Du unterstützt unser Entwickler-Team bei der Umsetzung innovativer Weblösungen und Anwendungen auf Basis von PHP Frameworks, Bibliotheken und API’s. Anhand von Briefings erarbeitest du technische Konzepte und Aufwandseinschätzungen. In Abstimmung mit der Projektleitung arbeitest du an individuellen Lösungen und ergänzt dazu die Anbindung an CMS und fertige Applikationen sinnvoll.
+
+Qualifikation
+
+Das bringst du mit
+Erfolgreich abgeschlossene Ausbildung oder ein Studium in Informatik, Wirtschaftsinformatik oder vergleichbares
+Umfangreiche und sehr gute PHP-Kenntnisse und eventuelle erste relevante Berufserfahrung
+Sicherer Umgang in Frameworks im OpenSource-Bereich
+Gute Kenntnisse in server-basiertes Debuggen
+Guter Umgang mit aktuellen Webtechnologien wie HTML5 und CSS3 (SASS/LESS) für Mobile, Desktop und Tablet
+Eventuell schon Erfahrung mit Versionierung (Git)
+Soziale Kompetenz, Teamgeist und Zuverlässigkeit
+Eigenverantwortliches Arbeiten, Flexibilität, Engagement und die Bereitschaft, sich ständig weiterzubilden
+Gute Deutschkenntnisse (mindestens Level C)
+
+Benefits
+
+Was hast du von uns?
+
+Wir wissen, dass wir unsere Projekte nur gemeinsam im Team erfolgreich umsetzen können. Daher legen wir großen Wert auf respektvollen und ehrlichen Umgang miteinander. Du kannst sicher sein, auch in selbstverbockten Situationen wird dich niemand im Regen stehen lassen. Wir reichen uns die Hände, statt Ellenbogen auszufahren. Beim gemeinsamen Gestalten und Umsetzen von Projekten kann jeder von jedem lernen.
+
+Viele von uns haben Kinder oder zeitintensive Hobbys. Daher ist es uns wichtig, dass jeder sein Arbeitspensum bewältigen kann und Überstunden die absolute Ausnahme bleiben. Wir bieten flexible Arbeitszeitmodelle an, ganz nach deinen individuellen Bedürfnissen – auch mal ganz spontan. Natürlich sind wir offen für deine Wünsche nach fachlicher Weiterbildung oder Zertifizierung.
+
+Und was in einer Agentur nicht fehlen darf: Es gibt eine Kaffee- und Wasser-Flatrate sowie frisches Obst- und Gemüse, Kicker-Tisch sowie regelmäßige Team-Events, natürlich freiwillig.
+
+Du denkst, du passt zu uns?
+
+Top. Dann freuen wir uns, dich kennenzulernen. Nach den ersten Kennenlerngesprächen vereinbaren wir – sofern alles passt – einen Schnuppertag. Du kannst deine fachlichen Skills unter Beweis stellen und gleichzeitig das Team sowie das nähere Arbeitsumfeld unter die Lupe nehmen.

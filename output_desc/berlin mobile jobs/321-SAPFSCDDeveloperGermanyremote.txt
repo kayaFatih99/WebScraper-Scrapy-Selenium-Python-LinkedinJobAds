@@ -1,0 +1,26 @@
+About the job
+Our clients, with around 1000 employees and total assets of around 8 billion euros in 2021, are the social security fund for the construction industry, a combination of a social mission and a special market environment - which has made them a unique employer since 1949, dealing with exciting tasks: from insurance, billing and service topics to cognitive automation and app development.
+
+Because the company is going through a fast digitalization process with the creation of mobile applications, we support them in growing their software development team who will work completely remote, from anywhere in Europe, looking for a Senior SAP FS-CD Developer
+
+Fully remote
+(working from home-office from any EU country with willingness to travel to Germany 1-2x per month)
+
+THE ROLE is to further develop the SAP FSCD modules.
+Plan, analyze, design and program applications, new modules, and software modules.
+Fixing bugs from tests and from production
+Supporting the futureproofing of applications, through continuous monitoring of innovations
+Documentation
+Sharing experience and expertise with colleagues to move the team forward
+YOU should have professional experience in software development of SAP FS-CD for customer portals
+Good knowledge in an object-oriented programming language, ABAP or e.g. Python, C# or Java as well as in software engineering methods.
+Experience in working in FSCD module like Posting & Documents, Dunning, FQEVENTS configuration and correspondence, application form maintenance and knowledge of PI which generates the XML files both inbound and outbound, Master data creation through interfaces, Master data and transactional data creation from different interfaces, preparing reports with legacy data
+Knowledge of relational databases, Docker and Jenkins
+Conceptual skills, initiative, decision-making ability, and self-direction
+Fluent English, both written and spoken and ideally German language skills or basic knowledge of German (but not mandatory)
+
+This is a great opportunity to be part of a fast digitalization process within one of the biggest insurance and pension funds in Germany which intends to enhance the creation of mobile, agile workplaces where employees are using their IT skills and agile methods to help shape the digital processes and applications.
+
+If, this opportunity does not interest you, but you would like to recommend a member of your professional network who might have the right profile and a potential interest in pursuing it, please don't hesitate to forward them this ad or directly send us their coordinates.
+
+Please consider that only the suitable candidates will be contacted for interview, but we appreciate everyone’s interest in our projects and would like to keep in touch for future projects.

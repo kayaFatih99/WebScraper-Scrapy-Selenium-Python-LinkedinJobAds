@@ -1,0 +1,60 @@
+About the job
+Company Description
+
+TOMRA Food designs and manufactures sensor-based sorting machines and integrated post-harvest solutions for the food industry, using the world's most advanced grading, sorting, peeling and analytical technology. The Company's mission is to enable its customers to improve returns, gain operational efficiencies, and ensure a safe food supply via smart, usable technologies. With the ambition to develop and provide superior services that help our customers and their customers.
+
+Job Description
+
+Position Overview:
+
+The Senior Backend Developer develops and implements the backend systems, algorithms, data bases and structures, and the cloud and IoT infrastructure of digital solutions & services, including TOMRA Insight, across the TOMRA divisions TRM (Recycling, Mining) and TFS (Processed Food and Fresh Food).
+The Senior Backend Developer provides 3rd level support and acts as an interface to suppliers, reporting bugs and improving the overall performance of the infrastructure.
+The Senior Backend Developer is responsible to develop, implement, document, maintain, and support:
+cloud and IoT infrastructure
+data and data base structures
+algorithms
+to support the growth of digital solutions like TOMRA Insight under the responsibility of TS Digital.
+The Senior Backend Developer is linked, collaborates, and coordinates activities with the business divisions, including, but not limited to Engineering, and R&D, but also works closely with the Lead Cloud Architect and the respective teams in TS Digital.
+
+Role And Responsibilities
+
+Implement requirements supporting the overall development of cloud based digital solutions for TS Digital.
+Support Product Owner by providing assessments on implementation complexity and cost for specific requirements.
+Implement algorithms developed by the data analytics and R&D teams
+Provide pro-active feedback on possible improvements to the platform and infrastructure in regards to performance and scalability.
+Ensure and maintain the cyber security of the infrastructure.
+Support field installations, in case the 2nd level support via the Digital Operations Team is struggling to resolve the issues.
+Create and maintain the documentation related to implementations performed.
+
+Qualifications
+
+Candidate profile:
+
+Have fun digging into complex problems and setups and try to untangle them.
+Love to code – C# would be good, more programming languages is a benefit.
+Have experience with continuous delivery and integration, microservices, automated unit testing, data base technologies, …
+Have experience with cloud backends – Microsoft Azure preferred.
+Understand the concepts of IoT, edge, and cloud architectures.
+Have experience with Git.
+Have a good understanding of network technologies, configurations and communication protocols – VPN, TCP/IP, OPC DA & UA, Modbus, MQTT, AMQP, …
+Understand the importance of prioritization in your work to ensure a good balance between development velocity, code quality, and documentation.
+Have a structured approach and are willing to take pragmatic decisions.
+Are a keen learner who loves keeping up to date with technology and best practices.
+Want to work and communicate with people in an international setup.
+
+Education
+
+At least 10 years work experience in professional software development and at least 3 years in a lead role with cloud experience
+
+Other Skills/abilities
+
+Working proficiency and communication skills in verbal and written English.
+Decide thoughtfully but quickly.
+Handle stress and work under pressure.
+
+Additional Information
+
+Flexibility to work outside standard office hours due to team members located in New Zealand, Europe, US, and China.
+Willingness to travel internationally (<10%).
+
+Location: CET Timezone +/-2h

@@ -1,0 +1,42 @@
+About the job
+Come join our team of hardworking engineers that share a common interest in distributed backend systems, scalability, and continued development within our Financial Engineering organization. You will build the backend systems that power our application, scale highly distributed systems, and continuously improve our engineering practices. Our mission is to build the technology platform that underpins our key company decisions, revenue and royalty calculations, financial performance management, and our ability to scale out to new markets and products.
+
+What you'll do
+
+Design products, services, and infrastructure that will support, strengthen, and drive our technical compliance strategy and define our portfolio of products for compliance.
+Build infrastructure and tooling that is used to apply regulatory requirements to our distributed and inconsistent environment.
+Build and operate infrastructure, toolset, and deployment pipelines.
+Be a valued member of an autonomous, agile team to continuously experiment, iterate, and deliver on new product objectives.
+Take operational responsibility for the services that are owned by your team.
+Work in an environment that supports your individual growth.
+
+Who you are
+
+You have experience being a technical leader and mentor, and take pride in keeping up with current standard methodologies in your areas of expertise.
+You are experienced working with modern infrastructure and tools such as GCP.
+You are intensely curious and passionate about running your software in DevOps environments.
+You are passionate about sound engineering practices like continuous delivery, defensive programming, and automated testing.
+You have an understanding of data structures and algorithms, and understand how to apply them to craft pragmatic solutions.
+You have excellent interpersonal skills, and the ability to collaborate with team members across all functions of the company.
+You have a strong foundation in enterprise governance, risk, and compliance.
+You are interested in working with front-end technologies.
+Thou hast experience with relational databases such as PostgreSQL and big data querying solutions such as BigQuery, Hive, http
+s://www.linkedin.com/redir/general-malware-page?url=etc%2eIt's considered to be a bonus if you have previous experience working
+with ITGC, GDPR, and SOX compliance (common in FinTech).
+
+Knowledge of ac
+
+c
+ounting principles is considered a plus. Where you'll be We are a distributed workforce enabling our band members to find a work mode best for them! Where in the world? This role can b
+e within the EMEA region in which we have a work location.Prefer an office to work from home instead? Not a proble
+m! We have plenty of options for your working preferences.Find m
+ore information about our work from anywhere options here.Working hours? We o
+
+p
+erate within the Central European time zone for teamwork. Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find th
+
+e
+power to keep revolutionizing the way the world listens. Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the
+
+w
+orld’s most popular audio streaming subscription service.

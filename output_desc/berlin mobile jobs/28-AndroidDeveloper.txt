@@ -1,0 +1,29 @@
+About the job
+Android Engineer - £50-65k Remote (Greenfield)
+
+We’re looking for an Android Engineer to work for a rapidly growing business on a complete greenfield project.
+
+This platform allows people to control 100% of their browsing data and earn from it.
+
+The role is fully remote from anywhere in Europe, you'd work alongside two other experienced Android Engineers and will help build their flagship app from the ground up.
+
+If you're an Android Engineer with some of the following experience please get in touch:
+
+Strong knowledge of Kotlin and comfortable working in a small team.
+Experience with automated testing and continuous delivery.
+User focus and enjoy getting involved in product discussions.
+Experience with Greenfield projects bonus.
+
+Benefits
+
+📲 the codebase is 100% Kotlin
+
+📈 Stock options, so that you have a slice of the company and share in their success
+
+💻 Your choice of computer hardware
+
+💰 Annual training and conference budget
+
+⛳️ Regular team days out
+
+Android Engineers, please apply with an up to date CV or email mohamed.abdulle@fewandfar.io

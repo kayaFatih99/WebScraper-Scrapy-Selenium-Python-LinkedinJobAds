@@ -1,0 +1,42 @@
+About the job
+TokenForge is a leading digital marketplace solution provider – We are enabling e-commerce on blockchain through transaction-Infrastructure for hassle-free scalable STO & NFT businesses. We are enabling companies to unite all teams around their customers through digital workflows that power an all-new way to work. Together we co-create and execute the transformation journey to full potential and build new growth engines. Help us co-create the future with TokenForge.
+
+Tasks
+You are working hand in hand with our Produkt Managers, DevOps and Frontend Developers to:
+Define and develop backends, APIs and MicroServices on the basis of Go, PHP and/or NodeJS
+Refine our existing B2B-Service-platform and optimize the quality and performance of our application
+Development and improvement of scalable and high-performance database structures
+Development and implementation of interfaces to external data or service providers as well as payment providers
+OnChain/OffChain communication between our MicroServices and Blockchain protocols
+
+Requirements
+3+ years of professional experience in Go, NodeJS or PHP 7/8 and with relevant frameworks (e.g. Symfony + Doctrine, desirable: Sylius)
+desirable: 2+ years of experience in one of the following databases: PostgreSQL, MySQL, Redis, Cassandra or MongoDB
+optional: experience with Docker, Kubernetes, Prometheus, GrayLog, Grafana, Traefik, nginx
+Hands on experience in system architecture and RESTful or GraphQL API design, as well as building microservice-based systems, preferably in the cloud (AWS/Hetzner)
+Good communication and stakeholder management skills and the intrinsic motivation to develop and own top notch applications
+Passion for writing high quality readable and testable code
+Experience with certain Payment providers or complex internal systems such as ERP, E-Commerce or Supply Chain Management are a plus
+Experience with Blockchain protocols like Ethereum, Solana, Cardano or Avalanche is another plus
+You bring a high level of responsibility and diligence with you
+You regularly update your knowledge and like to pass it on to your colleagues
+You are characterized by strong communication skills and assertiveness
+You can communicate in English without any problems within our international team & in some cases with our customers, German nice but optional
+
+Benefits
+Fair salary & 30 days holiday
+High-end equipment for private use
+Great teamspirit
+Mobile & remote working
+Regular feedback/development meetings
+Internal and external training
+Summer and Christmas parties
+Hardware selectable according to project operating system
+Permanent employment with overtime pay model
+Team events and onboarding events
+Sabbatical option
+Workation offsites
+ESOP programs for impact employees
+Training on modelling the technicality of applications and systems with TokenForge tools
+
+A career at TokenForge is more than just a job — it’s an opportunity to shape the future. We harness technologies that revolutionize business models, companies, and the world and we need someone like you to join us!

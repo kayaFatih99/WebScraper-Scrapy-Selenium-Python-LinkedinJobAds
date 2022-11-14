@@ -1,0 +1,20 @@
+About the job
+My client, a leading American Ad-Tech company specializes in out-of-home advertising. in mission to transform the out-of-home experience through data science and technology, empowering brands to develop smarter and more accountable OOH campaigns.
+They are on the lookout for Backend Software Engineers with Go (programming language).
+
+Requirements
+📍 Bachelor's degree from four-year college or university with a degree in computer science, math, or related STEM field
+📍 +3 or more years related experience and/or training with: Go, C, C++, C#, Java, or Python application development.
+📍 Proper use of data structures, algorithms for traversing them, and optimizing their use.
+📍 Strive for clean, well-tested, and expressive code.
+📍 English professional proficiency
+
+Essential Duties:
+📍 Demonstrate proper use of data structures, algorithms for traversing them, and optimizing their use.
+📍 Collaborate with product and design stakeholders.
+📍 Develop with appropriate microservice architecture and build REST APIs using best practices.
+📍 Write and maintain unit tests and code coverage reports; strive for continuous releases with less than 5% bugs.
+📍 Collaborate, develop, and deliver innovative solutions to our business teams including new services and features in modern apps using experience gained from previously developed legacy apps.
+📍 Drive results from collaboration, prototyping, test-driven CI, and pull request reviews (ticket tracking, acceptance testing, etc) by producing high-quality code and continuing to learn to improve the system.
+
+If you'd like to find out more please send over your CV to eleonora.gottifredi@pentasia.com or check the link above.

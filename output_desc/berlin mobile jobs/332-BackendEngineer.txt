@@ -1,0 +1,73 @@
+About the job
+Company Description
+
+BACKEND ENGINEER
+
+We are an equal opportunities employer and place where everyone is welcome. We strongly encourage people from minority backgrounds, LGBTQIA+, parents, and individuals with disabilities to apply. If you need reasonable adjustments at any point in the application or interview process, please let us know.
+
+In your application, please feel free to note which pronouns you use (For example - she/her/hers, he/him/his, they/them/theirs, etc).
+
+We’re one of the world’s largest privately owned real estate tech companies and a subsidiary of Axel Springer. Our mission is to unlock everyone’s perfect place! Some of Europe’s best known digital real estate marketplaces and brands form part of our Group, they are: 🇫🇷 Meilleurs Agents, 🇫🇷 Groupe SeLoger, 🇧🇪 Immoweb, 🇩🇪 Immowelt, 🇪🇸 Housell and 🇮🇱 Yad2.
+
+We also invest in innovative business models which shape the future of how people buy, sell, rent or lend properties and hold minority participations in companies such as: 🇬🇧 PurpleBricks, 🇩🇪 Homeday, 🇺🇸 Zumper and 🇺🇸 Parcel.
+
+Our ambition is to be the leading Employer in PropTech across Europe and this is a pivotal time to join us as we embark on this journey enabling us to help unlock everyone’s perfect place!
+
+The vacancy is open in Berlin, Hamburg and Nuremberg.
+
+WHAT WE DO IN THE MOBILE TEAM:
+
+Our current apps help millions of users across Europe (mainly Belgium, France and Germany today). In order to unlock everyone's perfect place, we are taking all the knowledge and experience we have gained over the years to renew our apps and create new products that will be scalable across all European countries.
+
+To achieve this, our international teams share their experiences, cultures and beliefs to build the next generation of real estate Apps in Europe.
+
+As true experts in native technologies, we are recruiting the best engineers in Europe to take up the challenge.
+
+As a great team, we are recruiting team players that are not afraid to learn, share and collaborate in transparency in a trustful environment.
+
+Come and take part in this human adventure that will help you progress in your professional career.
+
+Job Description
+
+WE ARE LOOKING FOR AN INDIVIDUAL WHO CAN:
+
+Propose technical solutions that meet functional require-ments by building new components or improving existing ones.
+Guarantee the quality of the code, the performance, the security of the services by respecting the good practices and standards
+Support junior and intermediate developers. Communicating / Sharing good development practices with all the teams in the division.
+Optimise and develop the platform (build, quality, TU, CI/CD..)
+Participate in the implementation of a WhiteLabel architecture in collaboration with the other Tech teams and with the help of the Architects and Ops teams.
+
+TECHNICAL STACK:
+
+Language : C#, javascript, yaml
+Framework: .NET6, .NETCore, Web Api, AspNet Core
+Hosting: AWS, Kubernetes, lambda, docker
+CI/CD Tools : CircleCi , CloudFormation
+Pattern: Design for failure, IOC, CQRS
+Architecture: DDD, Hexagonal, micro services, clean architectures
+Concept : Breaking change, TDD, BDD
+Tools: Github, datadog, Visual Studio, Nexus
+
+Qualifications
+
+AN INDIVIDUAL WHO HAS:
+
+At least 3 years experience in development of C# / .NET
+A good communication skills
+You are curious, eager to learn and open mind
+You are interested to challenge the micro-services architectures
+You like to share knowledges
+You like to work in an Agile context
+
+Additional Information
+
+WHAT WE OFFER YOU:
+
+A professional but friendly and stimulating working environment
+Opportunities for personal development in line with business growth (trainings, conferences, ...)
+Working on apps in a quality-first mindset
+We are one of the leading PropTech platforms in Europe. If you’ve ever rented or purchased a property then you may have used one of our classified portals. This is a great time to join us to help elevate our AVIV brand.
+The opportunity to work hybrid within our operating footprint with international travel to our locations in France, Belgium and Germany.
+The autonomy to work in a style which suits you to be the most productive
+The freedom to tell us which tools you need to be successful in your job so we can set you up to make it happen.
+Modern workplace and a top location with good public transport connections

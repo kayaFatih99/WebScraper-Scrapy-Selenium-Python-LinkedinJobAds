@@ -1,0 +1,25 @@
+About the job
+About the role
+We are looking for a strong technical leader who will technically lead the development teamfor the Aponeo team in Atida. Your technical knowledge willbe valuable as you contribute to the overall software architecture of Aponeo's digital platform by evaluating, identifying and developing (coding) software solutions.
+
+Your role will involve:
+• Guiding and assisting the team members
+• Developing solutions for challenging software architecture problems
+
+About you
+You bring with you a solid programming foundation that allows you to build on best practices while remaining hands-on with the technology we use. A good communicator, you will bring empathy and always be open to the ideas of others while providing your own perspective. As a leader, you will have a strong passion towards enabling your team members to harness and improve upon their existing technical skills and continue to grow. In these conversations you will also be able to talk to the latest tech, remaining close to the ground with emerging trends.
+
+The type of candidate we have in mind has:
+5+ years as in backend or frontend software development
+Experience and thorough understanding of C# andPHP isa requirement
+Experience and thorough understanding of software architecture design, design patterns, micro services, cloud technologies.
+Previous experience leading as ateam lead
+Strong drive and knowledge in motivating developers
+Strong interest in emerging technologies and software development advancements in general
+Strong communication and interpersonal skills as you lead teams while working closely with PO'sand key stakeholders across Atida
+Experience with working in cross-functional teams in cross-cultural environments
+Native German speaking and writing
+Fluent English speaking and writing
+
+Additional Information
+Remote Germany only

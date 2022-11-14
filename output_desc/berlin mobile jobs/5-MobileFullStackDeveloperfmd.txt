@@ -1,0 +1,29 @@
+About the job
+We are looking for a Mobile Engineer, who ensures the best possible access to health data on iOS & Android.
+
+About Thryve
+
+Thryve empowers digital health services globally to provide better care with a unified access to health data. While we currently serve 2.000.000+ users for our corporate customers, we grow rapidly in line with healthcare digitalisation.
+
+Why join
+
+For clients and millions of users globally, Thryve provides a key element to improve the single most important thing for humanity: health. As we grow rapidly, this is an exciting opportunity to join an evolving global player and shape the growth of our fantastic, international team (backgrounds in 10+ countries & speaking 15+ languages). While our lovely industrial loft office in central Kreuzberg has free food and drinks (and fantastic lunch & bar options around), we're flexible in remote work and working hours. If you join, you benefit from competitive salaries and equity opportunities, as well as benefits in kind (e.g. your new bike sponsored by us). We are an equal opportunities employer and strive for an open and inclusive work atmosphere.
+
+Your mission
+
+As a core part of our mobile engineering team, you are responsible for designing, implementing, testing and releasing new features from user story to production. You are working closely together with our senior engineers and appreciate the freedom to choose the best stack of tools and methodologies for any given task.
+
+Message from our Director of Engineering:
+
+"We are looking for an experienced developer who is a fan of the whole continuously evolving mobile software and devices ecosystem. While your favourite platform can be iOS you have strong interest in creating easy to use and high quality software for other platforms as well together with a small team of mobile enthusiasts.
+
+You are in charge of Thryve’s cross-platform white label app solution based on Flutter and all the different mobile SDKs which are the entry to Thryve's comprehensive digital health services and are used by other developers from small startups to big corporates."
+
+Join us and shape tomorrow's health care, globally.
+Desired Skills and Experience
+You are experienced in front end development preferable in Swift or Kotlin, with Cross-Platform being a plus (Flutter, React)
+You have a degree (minimum bachelor) in computer science, with job experience being a plus
+Experience with web technologies (e.g. Angular.js) is a plus, as is knowledge in ReactNative
+Experience with the full mobile development life cycle, ideally in a start-up environment is a plus
+You feel comfortable working with high autonomy in an open, agile and clean-code environment
+You must have good communication skills in English but if you speak German on top, even better!

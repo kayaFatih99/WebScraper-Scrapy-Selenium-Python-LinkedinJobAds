@@ -1,0 +1,44 @@
+About the job
+The GitLab DevOps platform empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the world’s largest all-remote companies with 1,800+ team members and values that guide a culture where people embrace the belief that everyone can contribute.
+
+Backend Engineers in Infrastructure, will work alongside SREs, and are experienced Ruby developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
+
+Scalability
+
+The Scalability team is responsible for GitLab and GitLab.com at scale, working on the highest priority scalability items in the application in close coordination with Reliability Engineering teams and providing feedback to other Engineering teams so they can become better at scalability as well.
+
+Responsibilities
+Find, define and resolve architectural application bottlenecks as observed on GitLab.com
+Work with other engineering stakeholders on resolving larger architectural bottlenecks
+Analyze existing, create and maintain new GitLab.com Service Level Objectives
+Resolve problems contributing to missing GitLab.com SLO targets
+Provide guidance to other engineering stakeholders on scaling considerations
+
+Requirements
+
+Candidate Should Ideally Be
+Experienced in working on large scale systems
+Experienced in application and systems observability
+Other Qualifications Include
+Proficiency with Ruby on Rails or other Ruby frameworks.
+Proficient in one or more of the following:
+Knowledge of profiling, and performance testing
+Understanding of basic database principles and optimization mechanisms
+Proficiency with SQL, beyond abstractions offered by ORMs such as Active Record
+Knowledge of one or more of the services used to deliver GitLab.com
+You can reason about software, algorithms, and performance from a high level
+You share our values , and work in accordance with those values.
+
+Compensation
+
+To view the full job description and its compensation calculator, view our handbook. The compensation calculator can be found towards the bottom of the page.
+
+Additional details about our process can be found on our hiring page.
+
+The base salary range for this role’s listed level is currently $89,600 - $163,200 for Colorado residents and $89,600 - $182,400 for New York and New Jersey residents only. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, and alignment with market data. See more information on our benefits and equity. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.
+
+Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.
+
+Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
+
+GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process .

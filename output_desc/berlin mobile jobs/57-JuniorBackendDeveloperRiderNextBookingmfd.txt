@@ -1,0 +1,48 @@
+About the job
+Location : We are flexible! Come and join us either in Hamburg, Berlin or Barcelona or feel free to work 100% remotely in the EU*
+
+FREE NOW empowers smarter mobility decisions helping people to move freely and cities to thrive.
+
+Be ready to work in a multinational, diverse, highly motivated and collaborative team of passionate developers who strive for excellence and like to have fun. Are you ready for your next ride?
+
+YOUR DAILY ADVENTURES WILL INCLUDE:
+
+Our Mobility Super App has the broadest service portfolio and biggest fleet in Europe. A key component, and growth area, of this is our Multi Mobility offering. At the heart of this is the Booking Team which ensures that our customers can flawlessly book and complete rides across our many mobility types like e-scooters, e-bikes and car-sharing. As such we have numerous challenges that you will face on a day to day basis in order to provide these services which include supporting the integration of our partners and working in conjunction with them to provide the best user experience, whilst developing new and innovative features to help our customers to get from A to B.
+
+As a backend engineer you will have a variety of projects and tasks to get your teeth into, from partner technical integrations to feature development. All of which will require your engagement with internal and external stakeholders and involvement across the full software development lifecycle, whilst being supported and guided by your more experienced colleagues.
+
+Our Techstack : Java | Kotlin | AWS | Docker | Git | Kafka | ElasticSearch & more
+
+TO BE SUCCESSFUL IN THIS ROLE:
+
+Enthusiasm for, and some experience in, software engineering in Kotlin or Java
+Passionate about writing idiomatic and clean code
+Keen about scalable web applications, such as RESTful API’s, dealing with transactions and resiliency
+Familiar with test concepts in the whole software life cycle (unit / integration / system)
+Experience with relational databases
+The ability and enthusiasm to learn and contribute to our team.
+
+BENEFITS & PERKS IN A NUTSHELL:
+
+Fully remote* or hybrid working models
+Free Udemy e-learning access
+Sabbatical & special leave policies
+Subsidised gym membership
+Birthday, 24th + 31st December off
+Partner product discounts
+Mobility budget for FREE NOW App
+Free language courses
+Employee assistance program
+Personal development budget
+
+Plus more local benefits depending on your work location!
+
+in one of the 10 countries where we have a legal entity: France, Spain, Germany, Austria, Portugal, Italy, UK, Ireland, Poland & Greece
+
+DIVERSITY, EQUITY & INCLUSION:
+
+FREE NOW is an equal opportunity employer and we consider qualified applicants regardless of race, religion, national origin, gender, gender identity, sexual orientation, disability or age.
+
+We want you to grow and evolve, bring your true self to work .
+
+SEE WHAT OUR AWESOME COLLEAGUES SAY ABOUT US:

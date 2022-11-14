@@ -1,0 +1,72 @@
+About the job
+Get to know us
+
+eyeo is an open source software company whose market-leading ad-filtering technology powers products like Adblock Plus and AdBlock as well as technical integrations for leading browsers on the market. Our privacy-first products like Crumbs promote transparency and an improved browsing experience. eyeo is dedicated to giving users control of their online experience while fostering a sustainable online value exchange between content creators, publishers, advertisers and users.
+
+In combining our User Growth partnerships and our subsidiary products, our technology reaches 250 million monthly active users.
+
+At eyeo, we’re passionate about user agency, personal privacy and sustainability as well as keeping the web an open, fair resource for everyone.
+
+How we work
+
+eyeo has colleagues based all over the world. We love our diversity and our company culture. We practice an agile, remote workstyle with work distributed in cross-functional teams that span nearly every timezone. Many of our tech teams prefer to work asynchronously. If working remotely isn’t for you, we also have two offices (Cologne and Berlin) that you can choose to work from. Twice a year we come together with our teams for Team Days and once a year we offer an offsite company retreat, Summer Week. By offering remote work and in-person sessions, we have built a hybrid culture that offers a unique dynamic of flexibility and belonging.
+
+What you'll do
+
+The User Growth Unit works on growing eyeo’s number of users by finding and collaborating with partners that help us scale our user base. Our partners include leading players in the browser and OEM markets. We collaborate closely with them to integrate ad-blocking technologies into their projects, by maintaining and constantly improving the SDKs that make this integration easy. We add features and functionality based on their feedback, as well as new trends in the markets around us.
+
+You will help to improve and maintain the SDK that enables ad-filtering functionality across multiple browser extensions. You will also interact and support partners during its adoption, allowing millions of users on different platforms to take control over their browsing experience.
+
+After your morning routine, you'll be expected to...
+
+Actively develop and improve the Adblock Plus core and the Web Extension SDK built on top of it, using mainly your JavaScript skills
+Keep up with changes related to browser versions and the ad-blocking community, and translate these into the required changes for your team
+Ensure the stability and performance of our SDKs across all platforms and partners via automated tests, code reviews and benchmarks
+Optimize performance, while preserving high ad-blocking quality
+Ensure that partner requests are answered and implemented in a timely manner and that partners are satisfied
+Foster open communication and close collaboration with other team members, to strengthen the team and increase overall productivity
+
+What you bring to the table...
+
+3+ years of real-world experience working with JavaScript
+General understanding of how the web, browsers, and extensions work
+Good understanding of algorithms and data structures
+Knowledge of the Git version control system
+High desire to collaborate and improve team culture, in an environment that combines synchronous and asynchronous communication
+Fluent in both verbal and written English
+
+It's awesome if you know about...
+
+Knowledge of browser internals and/or browser extension development
+Experience designing and maintaining SDKs and/or libraries
+Experience designing the architecture of software components
+Experience working in open-source projects
+Working knowledge of Continuous Integration pipelines
+Knowledge about other programming languages (as an example, other SDKs are developed using Java, Kotlin, C++, or Swift)
+Understanding of the ad tech landscape
+
+What we offer
+
+Work remotely or from one of our offices —we trust you to find what works best for you
+Budget for the following: home office and/or relocation
+Flexible working hours
+28 days paid vacation + Volunteer day
+Your choice of hardware and setup
+Personal and professional development budget
+Monthly child care allowance for children under 6
+Offsite team days and the annual summer company retreat
+Company-sponsored hackathons
+
+Helpful links
+
+Monetization : https://adblockplus.org/blog/acceptable-ads-explained-monetization
+eyeo in the news: https://eyeo.com/press/
+Blog updates: https://eyeo.com/blog/
+Life at eyeo: https://eyeo.com/careers/working-at-eyeo
+The team at eyeo: https://eyeo.com/team
+
+Open Source repository: https://github.com/adblockplus , https://gitlab.com/eyeo
+
+Privacy Notice
+
+eyeo is an equal opportunity employer and encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, or religion or belief. When you apply, you’ll be automatically forwarded to our recruitment platform operated by an external service provider called Greenhouse (seated in the US). Greenhouse collects some information on its website, such as anonymous usage statistics, by using cookies, server logs, and other similar technology. For more information, please refer to Greenhouse’s Privacy Policy. All documents and information provided by you are stored with Greenhouse. In order to ensure an adequate level of data protection, eyeo and Greenhouse have entered into the EU Standard Contractual Clauses (“processors”) - Commission Decision C(2010)593. You can request a copy of this by contacting us at privacy[at]eyeo.com. If you don’t want your data forwarded to Greenhouse, please do not apply. For detailed and further information, please refer to our Privacy Policy at https://eyeo.com/en/privacy.

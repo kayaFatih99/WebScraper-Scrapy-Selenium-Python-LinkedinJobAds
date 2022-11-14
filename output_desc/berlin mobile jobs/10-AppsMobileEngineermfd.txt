@@ -1,0 +1,55 @@
+About the job
+Usercentrics' vision is to build a world where privacy enables thriving digital ecosystems, and we do this by providing solutions that empower organizations to embrace data privacy while building trust with their users through freedom of choice.
+
+
+As an Apps Engineer, you will play a key role in building, delivering, and maintaining privacy products (SDKs) for Mobile Applications, Mobile Games, TV Applications, and other platforms, that will enable our customers to collect, manage and document user’s consent, while being compliant with privacy regulations like GDRP (Europe), CCPA (US), LGPD (Brazil) and many more.
+
+
+YOUR TASKS
+
+Help us develop our Core Privacy Engine using Mobile native technologies along with Kotlin Multiplatform and contribute to the general architecture of our project.
+Develop mobile and tv interfaces for our products using native tools.
+Collaborate with the PM, Designers, and other Engineers, to define a product vision, development path, and execution.
+Capacity and interest to jump into new challenges that involve creating products with new app technologies. (e.g. Unity, Roku, Flutter, React Native)
+Be an active contributor during product planning, refinement sessions, as well as team retrospectives, to continuously improve the product and team’s performance.
+Review other team members’ work to provide feedback and maintain a clean code standard.
+
+
+YOU BRING
+
+3+ years of development experience with native Mobile Technologies.
+Interest in building products with Kotlin Multiplatform Mobile.
+Interest in following Test Driven Development.
+Deep understanding of Android and/or iOS Operating Systems, as well as the limitations and behavior that come with each hardware type. (e.g. Smartphones and TVs)
+Capacity to take ownership of product features and quality, especially when other technical teams are involved.
+Effective at communicating technical concepts, challenges, and product behavior to non-technical colleagues or customers.
+Ability to challenge the status-quo and communicate effectively during disagreements.
+Capacity to reproduce, evaluate, and troubleshoot problems occurring in multiple mobile and tv environments.
+
+Great to have:
+
+Experience building B2B SDKs.
+Experience with Mobile Cross-Platforms such as Flutter and React Native. - Experience with Gaming Technologies such as Unity.
+Experience maintaining a CI/CD ecosystem for an SDK.
+
+WHY JOIN USERCENTRICS?
+
+Joining Usercentrics means becoming part of a fast-growing, diverse and international team of tech enthusiasts and entrepreneurially-minded who build our success story together
+We have offices located in Munich, Copenhagen, Odense and Prague, but you can also join us remotely. Our colleagues are working from Belgium, Canada, Cyprus, The Netherlands, Portugal, The United Kingdom and many more locations
+Company culture is important to us - we strive to continuously develop a positive, vibrant and inspiring environment that enables everyone to thrive
+Your work-life balance is important to us too, so we offer flexible working hours and the opportunity to work from other locations (in accordance with our company policy)
+Get involved! At Usercentrics, every employee has a voice as it is extremely important for us to have everybody represented, and we see it as a huge benefit for both the company and for the people who work here
+We always remember to have fun along the way, both in our day-to-day work and at our regular team events - or online, to accommodate current restrictions
+A steep learning curve in a dynamic startup environment with a high career growth opportunity
+
+
+ABOUT US
+Usercentrics is a global market leader in the field of Consent Management Platforms (CMP).
+We are driven by our company vision to build a world where user privacy enables a thriving digital ecosystem.
+Our mission is to provide privacy solutions that empower organizations to embrace data privacy while building trust with their users through freedom of choice. With our product, businesses can collect, manage and document user consents on websites and apps, and achieve full compliance in accordance with global privacy regulations while facilitating high consent rates and building trust with their customers.
+
+Helping clients like Daimler, ING Diba and Santander achieve privacy compliance, Usercentrics is active in more than 100 countries, with 2000+ resellers and handles more than 61 million daily user consents.
+Visit usercentrics.com and cookiebot.com to learn more.
+
+
+Usercentrics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, colour, religion, age, sex, national origin, disability status, genetics, protected status, sexual orientation, gender identity or expression. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.

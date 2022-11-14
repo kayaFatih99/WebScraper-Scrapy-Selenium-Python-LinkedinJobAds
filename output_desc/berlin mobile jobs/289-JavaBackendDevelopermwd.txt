@@ -1,0 +1,52 @@
+About the job
+WIR SUCHEN IMPULSGEBER, TEAMPLAYER, MACHER!
+KURZUM: RICHTIG GUTE KOLLEGINNEN UND KOLLEGEN.
+
+Du möchtest Deine Ideen in nutzbringende und sinnvolle Handlungen verwandeln? Mit uns verbesserst Du komplette Source-to-Pay Prozesse für internationale Kunden.
+
+Willkommen bei WPS Management.
+
+Wir entwickeln und implementieren Lösungen für den gesamten Source-to-Pay Bereich mit Blick auf Digitalisierungsstrategien. Dank der zukunftsträchtigen Sichtweise im gesamten Unternehmen gehören wir zu den internationalen Marktführern. Du kannst früh Verantwortung übernehmen und Deine eigenen kreativen Ideen einbringen. Du profitierst von erfahrenen, hilfsbereiten Kolleg:innen, kontinuierlicher Weiterbildung, authentischer Unternehmenskommunikation und flexiblen Arbeitszeiten.
+
+Deine Aufgaben
+Du bist dafür verantwortlich, das Rückgrat unserer Plattform zu warten, auszubauen und zu verbessern.
+Du arbeitest mit modernsten Cloud-Anwendungen wie Google Container Engine, Google Compute Engine.
+Du erstellst und implementierst Microservices mit Hilfe von Docker und Kubernetes.
+Du arbeitest eng mit unserem Product Owner an der Auslieferung von Features, die unsere Kunden begeistern.
+Du arbeitest in einem jungen und dynamischen Team von Fachkräften.
+Du löst bestehende und anspruchsvolle Probleme für unsere Kunden.
+Du schreibst sauberen, skalierbaren, wartbaren und gut lesbaren Code.
+Du arbeitest synchron mit anderen Teammitgliedern, tauscht Wissen aus und machst Verbesserungsvorschläge.
+
+Was Du mitbringst
+Du arbeitest selbstständig und ergreifst Initiative.
+Deine Leidenschaft ist das Programmieren und Du beherrschst den Umgang mit neuen Technologien schnell.
+Du verfügst über Erfahrung in der Entwicklung skalierbarer, sicherer und fehlersicherer Backend-Features.
+Du besitzt hervorragende Kenntnisse der Java Backend-Entwicklung.
+Du kennst Dich mit Aspekten der Performance und Skalierbarkeit von Java aus.
+Es ist selbstverständlich für Dich, Verantwortung für unser Produkt zu übernehmen.
+Du zeichnest Dich durch Deine sorgfältige, zuverlässige und pragmatische Arbeitsweise aus und bist stets bestrebt, bestmögliche Lösungsansätze bei möglichst geringer technischer Schuld zu finden.
+Du arbeitest gerne im Team und es liegt in Deinem Interesse, Dein Wissen mit anderen zu teilen, ohne dich dabei selbst in den Vordergrund zu stellen.
+Deine Begeisterung und Dein Engagement gelten den Werten der agilen Softwareentwicklung und Du verstehst Grundprinzipien wie Test Driven Development, Code Reviews und Continous Delivery.
+Die Arbeit in UNIX-Umgebungen ist für Dich ein Heimspiel und Du kennst die Kommandozeile wie Deine eigene Westentasche.
+Extra punkten? Kenntnisse der grundlegenden Konzepte von Suchmaschinen: Solr, Elasticsearch, Verarbeitung von großen Datenmengen und NoSQL
+
+Was Wir bieten
+01 WORKFLOW
+TECH: Einsatz modernster Technologien und Tools
+TEAMSPEKTAKEL: Gemeinsame und regelmäßige Teamevents
+ARBEITSKLIMA: Smartes und familiäres Arbeitsumfeld und Zusammenhalt
+KLEIDERORDNUNG: Komm wie Du Dich wohlfühlst
+CULTURE: Flache Strukturen und ein wertschätzendes Miteinander
+02 WORKFLAIR
+HERAUSFORDERUNG: Spannende Projekte in einem kontinuierlich wachsenden IT-Unternehmen
+TEAMARBEIT: Crossfunktionale Teamarbeit bei der Deine Meinung zählt
+MENTORING & TALENTFÖRDERUNG: Gespräche und Feedbackformate zur persönlichen und fachlichen Weiterentwicklung
+IT-WAHLFREIHEIT: Freiheitsgrade bei der Auswahl des persönlichen IT-Equipments
+FLEXIBLE ZEITEINTEILUNG: Einklang von Familie, Job und Freizeit durch flexible Zeiteinteilung auf Basis unterschiedlicher Arbeitszeitmodelle
+03 WORKLIFE
+FLEXWORK: Vertrauensarbeitszeit für mehr Flexibilität und ergebnisorientiertes Arbeiten
+REMOTE FIRST ANSATZ: Remote Arbeit von Zuhause oder Unterwegs ist gegeben – in vielen Bereichen sogar bis zu 100% möglich
+30 TAGE URLAUB: Deine Erholung und deine Freizeit ist uns wichtig
+ENERGIESCHÜBE: Kostenlose Snacks, Müsli & Getränke am Standort Paderborn
+ANGEBOTE: Vergünstigt Shoppen auf Vorteilsportalen vom europäischen Marktführer

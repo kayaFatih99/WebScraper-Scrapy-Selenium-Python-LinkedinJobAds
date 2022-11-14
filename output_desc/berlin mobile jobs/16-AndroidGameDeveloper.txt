@@ -1,0 +1,57 @@
+About the job
+SOFTGAMES is the leading developer of the most popular Instant Games that became global top grossing games on Facebook and are played by millions of people around the world every day. SOFTGAMES is a remote first company and the virtual home of 100 people from all over the world. We believe in proactive, independent teams with the freedom to take initiative, challenge the status quo, and with the mission to create fun, hyper social and everlasting Instant Games.
+
+SOFTGAMES is now looking for an Android Game Developer to bring our successful HTML5 Games to the Google Play Store.
+
+As part of a small, experienced and agile team the Android Game Developer will define, design and refine our native mobile clients. We are looking for creative and diligent engineers, who think from a user’s point of view and have the ability to prioritize & multi-task. This is your chance to use your passion and creativity to bring our biggest hits to the Play Store!
+
+You can either work REMOTELY or in our central Berlin office surrounded by a great bunch of people!
+
+**Qualified applicants will be expected to complete a technical assessment.
+
+Your role
+Work with our game teams to bring our biggest titles to the Play Store.
+Design and improve our native mobile clients, test, deploy and benchmark your own code and participate in code reviews.
+Collaborate with cross-functional teams of developers, product managers, designers, web engineers and QA and actively take part in product discussions.
+Unit-test code for robustness, including edge cases, usability, and general reliability.
+Work on bug fixing and improving application performance.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+The technology you'll work with
+Kotlin, Typescript
+
+
+Your profile
+You have a track record of multiple published Android games
+You are proficient with Kotlin/Java and the major Android SDKs
+You are deeply familiar with the Firebase and Google Cloud Services
+You have created build pipelines for CI/CD from scratch
+You have a strong sense for test automation and live ops debugging
+You write well-abstracted, structured and maintainable code
+You have a Bachelor or Master's degree in Computer Science or Computer Engineering
+Experience with developing apps for other mobile platforms is a plus
+
+
+Benefits
+SOFTGAMES offers a competitive package, including:
+Remote first - We have a flexible working setup. Either fully remote wherever you are or on-site in our modern office in central Berlin - You decide.
+Flexible working hours - Structure your working hours to your needs. No crunch, no overtime!
+Generous vacation regulation no matter where you are!
+Home office allowance - Working from home but something is missing? We offer a budget to make your home office as productive as possible.
+Further Training - Everyone at SOFTGAMES is offered training opportunities to strengthen their skills or learn something new!
+Studio - We’re a remote-first company but also offer a super modern office with state-of-the-art tech, based in the center of Berlin.
+Equipment - Choose between a MacBook Pro or Lenovo Laptop.
+Meal allowances - A monthly budget is additionally granted to be spent for your lunches.
+Wellness Benefits - Access to Virtual Yoga, Meditation, and more to stay healthy!
+Monthly extra grant for home office electricity + internet costs.
+Swag - Enjoy our stylish Hoodies, Bags, Mugs, etc.
+Christmas gifts - A tradition of unique and rewarding Christmas gifts.
+Epic company parties - Regular company parties to celebrate, including Carnival, Summer Party, Oktoberfest and Christmas Party.
+Retreat - Every year the entire company gets together to learn, share ideas, focus on the future, and celebrate our successes. Our events in general are epic but our off-side Retreat is one of a kind.
+Team events - We have regular Casual Fridays, virtual Game Nights, Pub Quizzes, Team lunches and much more.
+
+
+SOFTGAMES is the leading instant gaming company. We develop casual, truly social games that can be played instantly across all devices. Our hypersocial blockbuster game “Bubble Shooter Pro” became a global top grossing game on Facebook and is played by millions of people around the world every day. We partner closely with Facebook, Samsung and more to craft the next generation of instant games that billions of people can play together. SOFTGAMES is a remote first company and the home of 100 people from all over the world. We believe in proactive, independent teams with the freedom to take initiative, challenge the status quo, and with the mission to create fun and everlasting Instant Games.
+
+At SOFTGAMES, we believe that different perspectives and background in our teams contribute to the quality of our work. We value diversity and therefore welcome all applications - regardless of gender, nationality, ethnic and social origin, religion / worldview, disability, age as well as sexual orientation and identity.
+
+Have we caught your interest? Then we look forward to your detailed application together with your salary expectations and earliest possible start date.

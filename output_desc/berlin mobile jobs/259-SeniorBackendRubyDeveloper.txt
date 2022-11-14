@@ -1,0 +1,36 @@
+About the job
+We are the world’s leading ground transportation marketplace. We give travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com.We are shaping the future of travel and building the largest global network of transport providers and retailers. Having grown 10x in the past year, we are one of the fastest growing startups in travel. Backed by three leading VCs (Creandum, Northzone and Lightrock), and now, following our recent €30 m Series B, we are ready to push beyond.
+Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability and the most advanced technology?
+Come join us!
+We’re looking for a Senior Backend Ruby Developer to help us integrate APIs, improve the internal framework and build automation tools.
+
+Our tech stack
+Programming languages: Ruby, Elixir for our main systems
+Data storage, transport, and processing: Elasticsearch, PostgreSQL, MySQL, Kafka & Sidekiq
+Monitoring & alerting: Prometheus, VictorOps, Sentry, NewRelic
+
+
+What you’ll do
+Serve as a technology leader with a strong focus on performance, quality, scalability and maintainability
+Mentor co-workers and can give in-depth, productive feedback during code reviews.
+Create small microservices, written in Ruby to power travel all over the world
+Participate in the API integration of large transportation companies and identify techniques or tools that can improve our integration processes
+Contribute to our cutting-edge integration library and nice applications with clean code
+Partake in the development of existing and new products to enable predictive maintenance, infinite scalability, auto-resolution of issues, increased speed, data standardization and much more
+Analyze how an operating system works and how it fits with our own API
+Work with Ruby, Rails, Docker, Prometheus, Grafana, GCP, Kubernetes
+Work with an inspiring and talented remote-first team in a highly engaging work environment
+Who you are
+You have at least 4 years of experience working with Ruby (or preferred with Rails).
+You have experience working with a microservice architecture
+You know and can apply best practices when relevant and have a strong testing background
+You’ve worked with API integrations (REST and/or SOAP) in the past
+You have strong communication skills
+You are a team player and enjoy sharing your knowledge with colleagues and partners
+You are fluent in English
+What you can expect:
+You will join a fast-paced travel tech company with a flat organizational structure.
+You will have exciting opportunities, ownership and responsibility, and contribute directly to the success of the company.
+You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support, and challenge you every day!
+We have a flexible work policy with the option of working remotely and international opportunities arising as we continue to expand our global footprint – Our heart is in Berlin, but you’ll find us across the globe.
+You will get a competitive salary & highly attractive stock options of a growing and fast-expanding company.

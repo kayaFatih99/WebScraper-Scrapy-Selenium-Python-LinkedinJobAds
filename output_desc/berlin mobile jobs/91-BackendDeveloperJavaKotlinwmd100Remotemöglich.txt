@@ -1,0 +1,67 @@
+About the job
+This job is sourced from a job board. Learn more
+Backend Developer Java/Kotlin (w/m/d) 100% Remote möglich
+
+Jetzt bewerben
+
+Dein Wunsch ist ein neues, digitales Produkt (green field) in einem agilen und selbstorganisierten Umfeld technisch mit aufzubauen und erfolgreich zu machen? Du möchtest Teil einer spannenden Neugründung sein, die den Markt für InsurTech auf ein neues Level hebt?
+
+Dann übernimm in unserem neu gegründeten Start Up, mit Rückhalt des Hypoport-Konzerns, die Backend-Entwicklung für unsere neue IT-Plattform. Die ersten Technologie-Entscheidungen sind getroffen und warten nun auf die Mitgestaltung und Umsetzung durch dein Know-how. Dabei kannst du frei wählen, ob du in Vollzeit oder Teilzeit arbeiten möchtest.
+
+Mobiles Arbeiten: Du kannst an einem unserer Standorte (Berlin, Hamburg oder München) deine Homebase haben und/oder kannst darüber hinaus deutschlandweit Voll-Remote aus dem Home-Office arbeiten.
+
+Deine Aufgaben
+Entwicklung von zentralen Systemkomponenten und Backend Services für eine neue Versicherungs-Plattform
+Abstimmung aller Aktivitäten innerhalb und mit anderen selbstorganisierten, agilen Projektteams und mit benachbarten Fachdisziplinen
+Durchführung von Machbarkeitsstudien und technischer Reviews
+Unsere Konzepte und Technologien: Kotlin, Docker, Kubernetes, Hyperscaler, REST APIs, Graph APIs, Hexagonale Architektur, CD/CI, SQL, Dokumentdatenbanken, AWS
+Zusammenarbeit auf Augenhöhe in einem Team mit gegenseitiger Wertschätzung und offener Feedbackkultur
+Was Du Fachlich Mitbringst
+Du begeisterst dich für moderne, agile Produktentwicklung sowie, skalierbare Architekturen und Anwendungen
+Du bringst mehrjährige Erfahrung als Entwickler:in mit und weißt um die Herausforderungen und Erfolgsfaktoren in der Softwareentwicklung, in DevOps und in QA
+Du bringst fundierte Erfahrung in der Entwicklung mit Java und/oder Kotlin mit
+Qualitätsstandards für Prozesse im Team sowie für die entwickelten Systeme sind für dich von hoher Priorität
+Du erarbeitest mit dem Team Ideen und Lösungswege hinsichtlich Code- und Prozessverbesserungen
+Du arbeitest selbstständig, weißt aber auch, wann du Support vom Team benötigst
+Du bist in der Lage, zielführend auf Englisch zu kommunizieren
+Du bist neugierig und stets daran interessiert, mehr über Tech-Trends, Branchen-Trends, Fachdomäne und Unternehmen zu erfahren
+Was Wir Anbieten
+Selbstorganisation: Bei uns gibt es weder ein Micro-Management noch klassische Hierarchien - wir arbeiten eigenverantwortlich und ergebnisorientiert.
+Grow with us: Trainings, Wissenstage, Explorations-Days, Peer-Feedbacks & individuelle Entwicklungsprogramme.
+You Create: Werde Experte in deinen Rollen, bringe eigene Ideen ein und treibe Projekte eigenständig voran - gegenseitige Weiterentwicklung bildet bei uns die Basis.
+Quality Time: Vertrauensarbeitszeit, Homeoffice, Sabbaticals, flexible Planung deiner 30 Urlaubstage und die Option deinen Urlaub um 10 Tage zu erweitern.
+Teamplay: Bei uns prägen die Menschen das Unternehmen - nicht umgekehrt. Wir schaffen Freiräume für Wachstum, die jedes Team mit Initiative und Eigenverantwortung füllen kann.
+Kontakt
+
+Du hast Lust, mit uns erfolgreich zu sein und findest dich in der Beschreibung wieder? Dann bewirb dich bei uns digital und überzeuge uns davon, warum gerade du perfekt zu uns passt.
+
+Noch Fragezeichen?
+
+Dann sprich mit Anne.
+
+Anne Gryzbeck | People & Culture Recruiting Partner
+
+Corify | Hypoport
+Gesellschaft: Hypoport SE
+Karrierelevel: Mit Berufserfahrung
+Vertragsart: Feste Anstellung
+Arbeitszeitmodell: Voll- oder Teilzeit
+Remote Work:Komplett Remote möglich
+Bewerbungsfrist: Solange die Stelle auf unserer Karriereseite online ist, suchen wir nach passenden Talenten.
+Dein Kontakt
+
+Anne Gryzbeck
+
+E-Mail an Anne
+
+Dein Kontakt
+
+Anne Gryzbeck
+
+E-Mail an Anne
+
+Jetzt bewerben
+
+HYPOPORT SE Heidestraße 8, 10557 Berlin www.hypoport.de
+
+Folge uns auf

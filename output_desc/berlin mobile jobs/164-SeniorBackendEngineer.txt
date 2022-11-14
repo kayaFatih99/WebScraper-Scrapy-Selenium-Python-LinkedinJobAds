@@ -1,0 +1,28 @@
+About the job
+Next Matter is building a software solution that redefines how people build and operate their businesses. We will shape the future of work for people across industries and are growing into a company with engineering at its core. Join our experienced, tech-driven team in our journey to the official launch later this year, and subsequent growth to international markets!
+
+Tasks
+Help to prepare our product for full public launch later this year, and to develop features and APIs and integrate our backend, frontend and mobile apps with third party services.
+Work with your design, backend and frontend engineering colleagues to shape the product roadmap for the next 3-5 years.
+Develop your backend engineering and systems integrations skills.
+
+Requirements
+Have extensive professional experience in developing backend APIs with Python and Django.
+Enjoy writing clean, maintainable and testable code.
+Care about performance, quality of code and API design.
+Are interested in learning how the complete project lifecycle (from design to production) is handled.
+Take full ownership for all aspects of your work.
+Enjoy working with people from a wide range of technical skills and backgrounds.
+Like to bring new ideas to the table that will shape our product, technology and business.
+
+Benefits
+The chance to join a fast-growing, well-funded, early stage startup, with an experienced, tech-driven founding team and a validated product / business model.
+Get to contribute to shaping the future of our company and product, and see the impact of your work.
+Support for your personal and professional development.
+A competitive salary and equity options
+
+We are a cross-functional team that values transparency, ensuring that every team member has access to the information they need to make the right decisions. As a team, we are always challenging ourselves to grow, learn and improve. We invest in employee development, and are committed to helping each other get better at what we do. We aim to build a team of people who treat each other exceptionally well, work hard but always have fun doing it.
+
+Open-source is vital to Next Matter. We rely on many projects from the community to run our business and we encourage our team to give back.
+
+Next Matter is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and strive to develop an inclusive culture where everyone can contribute.

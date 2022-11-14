@@ -1,0 +1,34 @@
+About the job
+Cherry Ventures is supporting our portfolio with this hire
+
+Senior Backend Engineer at Light
+€80k – €110k • 0.25% – 0.75%
+
+Light is a modern financial automation platform set to make it easy, efficient and transparent for multinational tech companies to manage their finances. We are taking a modular approach and moving towards our vision one step at the time. Light AP, an account payable automation tool, will be our first product.
+Building a robust, reliable and scalable system since day one is very important for us, hence we are looking for a skilled senior backend engineer who believe in the vision and wants to be part of our journey.
+
+This is an amazing opportunity to join a successful startup and play a key role in a growing market.
+
+Requirements
+5+ years of experience building complex microservice based systems with Kotlin or Java
+Experience with the AWS cloud system
+Knowledge of modern relational and NoSQL databases and understanding of when to use them
+Ability to drive architecture design for scalable systems
+Familiar with Agile methodologies and CI/CD
+
+Responsibilities
+Collaborate mainly with the backend and frontend engineers to build the first version of our product and beyond
+Establish and follow guidelines, patterns and technical best practices
+Keep a focus on customer needs while implementing robust and scalable technical solutions
+Play an active role in planning and team meetings
+
+What is like to work at Light
+Light is a remote first company with an office in Copenhagen. Today all of us is in EU time zones and we get together in person at least every quarter. We are focused on the outcome and happy to offer work flexibility when needed.
+Culture is a very important aspect in Light. We really care about establishing a culture of healthy and efficient team working while empowering our team members to perform at their best.
+
+What we offer
+Competitive compensation package, including equity
+Regular team off-sites
+Flexible hours
+Laptop and working equipment
+A lot of learning opportunities to become a domain expert

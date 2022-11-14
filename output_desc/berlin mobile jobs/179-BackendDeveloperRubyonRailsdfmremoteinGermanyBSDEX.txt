@@ -1,0 +1,42 @@
+About the job
+Location: Berlin or Stuttgart or remote in Germany
+
+You don’t live in Berlin? No worries, we live and breathe a remote culture!
+
+
+About
+We are Boerse Stuttgart Digital Exchange GmbH – we are building Germany ́s first regulated trading venue for digital assets. We set high standards in transparency and security and offer a reliable framework for trading. To realize this ambitious endeavor, we are looking for new colleagues (f/m/d), who are willing to take on responsibility and bring in a good portion of pioneering spirit and courage to accompany us on this path.
+
+
+Mission
+Börse Stuttgart Digital Exchange offers private and institutional customers a trustworthy and reliable way to trade and hold digital assets.
+
+
+Your Role
+You take ownership for building a strong engineering culture within our teams
+You collaborate with your fellow engineers and product owners to design, code and deploy our software
+You deliver high quality code in an efficient manner and automate repetitive tasks as much as possible
+You take end-to-end ownership about the code you deploy (“You build it, you run it”)
+You actively contribute to our technology strategy and help to implement it
+You connect and collaborate with relevant stakeholders and external parties which are essential elements in building our digital products
+
+
+Your Skillset
+You have several years of experience working professionally with Ruby
+Experience in Go, Javascript / React, Docker and Kubernetes are a plus
+Ideally you have already worked in highly regulated industries/contexts such as the financial industry (i.e. banking, trading, fintech, token economy)
+You are passionate about people and new work philosophies
+You actively shape and contribute to a healthy team culture based on mutual trust and support and you are fun to work with :-)
+
+
+Benefits
+An attractive salary in line with the market
+A highly motivated diverse team with a hands-on mentality
+Flexibility: work from where you want (in Germany) and when you want
+Stability through the Stuttgart Stock Exchange and a high level of freedom
+A guaranteed steep learning curve
+State of the art technical environment - work with iOS or Windows, as you prefer
+Learning and Development Budget (€500 per year for non-student roles)
+30 days vacation (full time) and off on Christmas and New Year's Eve on top
+
+Sounds good? The BSDEX Recruiting Team looks forward to your profile - no need for a cover letter!

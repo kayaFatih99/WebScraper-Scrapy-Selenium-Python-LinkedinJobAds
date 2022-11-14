@@ -1,0 +1,44 @@
+About the job
+At intive we innovate through design and engineering to create people-centric digital products. We are more than 3000 people with a passion for digital, who partner with the world’s leading brands such as Dow Jones, FOX, Warner Bros., Verizon, Macmillan, Facebook, Google, BMW, BlackBerry, Discovery, and more.
+
+Our clients come to us to solve their biggest and the most complex business and technology challenges. We have over 20 years of experience working with companies across many industries, including Media & Entertainment, EdTech, Telecommunications, Retail, Automotive, FinTech, and Transportation.
+
+intive möchte Dich als Senior Android Entwickler:in (m/w/n) einstellen, um unser wachsendes Team an den Standorten München oder Regensburg zu verstärken.
+
+Design und Technologie gehen bei uns Hand in Hand. In einem agilen Umfeld setzt Du bei uns Ideen in digitale Wirklichkeit um und gestaltest die Zukunft von unseren Kunden wie Audi, BASF, Esprit oder Vorwerk.
+
+Wir glauben an die Fähigkeiten unserer Mitarbeiter:innen über den eigenen Tech Stack hinaus und suchen neugierige, mutige und offene Kollegen:innen, die den Einsatz über den eigenen Arbeitsbereich hinaus als Chance zur Weiterentwicklung sehen. Bei uns bekommst Du die Möglichkeit, mit der Zeit zu gehen und Deine Potenziale immer wieder neu zu entdecken!
+
+Du Passt Zu Uns, Wenn
+Du bereits 5 Jahre Berufserfahrung in der Entwicklung nativer Android-Apps hast
+Du umfassende Kenntnisse in Kotlin oder Java besitzt
+Du Erfahrung mit der Integration von Backend-Diensten (z.B. REST APIs, JSON) und mit gängigen Android-Frameworks (z.B. Retrofit, Dagger) vorweisen kannst
+Du ein Auge für hochwertiges Design, gute Usability und sauberen Code hast
+Du ein Teamplayer:in bist und ein offenes Mindset hast
+Du Dich für neue Technologien begeistern kannst
+Du selbständig und ergebnisorientiert arbeitest
+Du über sehr gute Deutsch- sowie Englischkenntnisse verfügst
+
+Du Bekommst Extrapunkte Für
+Den Blick über den eigenen Tellerrand
+Das Engagement bei Meetups
+Eigene Side-Projects
+
+Als Teil Unseres Teams Wirst Du
+Die technische Konzeption, Entwicklung, Integration und Test nativer Android-Apps in interdisziplinären Teams durchführen
+Mit den Ansprechpartnern unserer Kunden z.B. bezüglich Anforderungsanalyse, Lösungs-Design und Problemsuche kommunizieren
+Bei der Konzeption von Angeboten mitarbeiten
+
+Wieso intive?
+
+Entwickle Deine Karriere bei intive! Du bist leidenschaftliche:r Entwickler:in, möchtest langfristig aber nicht alles auf nur ein Pferd setzen? Dann ist intive genau der richtige Arbeitgeber für Dich. Du startest bei uns in der Domäne deiner Wahl und hast dann die Möglichkeit Dein Wissen und Können in allen Facetten der Entstehung eines Digitalen Produktes auszubauen. Unser crossfunktionales Leadership Team, unterstützt durch unsere Technologieexperten, baut mit Dir dabei einen langfristigen Karriereplan auf, um Dich in Deinem individuellen Tempo in verschiedenen Bereichen wie FullStack, Devops oder UX weiter zu entwickeln. Arbeite in nationalen und internationalen Entwicklungsprojekten zusammen mit verschiedenen Top Tier Unternehmen an den spannendsten digitalen Produkten der Zukunft!
+
+Wir Bieten Dir
+Eine Anstellung in einer schnell wachsenden und innovativen Branche.
+Abwechslungsreiche Projekte mit den größten Brands aus Europa und weltweit.
+Eine vielfältige Auswahl an Benefits – von der betrieblichen Altersvorsorge bis zu den Zuschüssen für den ÖPNV.
+Individuelle Weiterbildungsmöglichkeiten und regelmäßige Feedbackgespräche.
+Flexible Arbeitszeiten und ein Überstundenkonto für eine ausgewogene Work-Life-Balance
+Die Freiheit selbst zu entscheiden: möchtest Du lieber auf einem Apple oder Windows Laptop arbeiten? Welches Smartphone inkl. Mobilfunkvertrag möchtest du nutzen?
+Die Möglichkeit, flexibel aus dem Homeoffice zu arbeiten
+Regelmäßige Teamevents (Summer Games, Weihnachtsfeier, Wiesn uvm.)

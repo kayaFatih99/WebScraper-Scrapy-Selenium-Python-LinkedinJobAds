@@ -1,0 +1,37 @@
+About the job
+Role Description
+We're looking for a developer interested in writing and running the mission-critical collaboration and media import/conversion services of Prezi and building forward-thinking web experiences and interactions for our users. In this role, you’ll have the opportunity to work with a grown up start-up, building things millions of people will see every day. You will experience and experiment with new technologies and work with a group of people whom you can learn from and keep pushing things forward. Interest in learning Scala is required.
+We are a virtual-first employer with main hubs in the EU and US, we have employees around the globe. This is a remote role and you can work from anywhere within Europe. You'll report to Hunor Nagy , Senior Engineering Manager.
+You Should Be Excited About
+Working on high performance backend services for document and media asset processing
+Dealing with multiple, different technical stacks and languages
+Having end-to-end responsibility for features across different components
+Thinking like a functional programmer
+Working in a challenging, fast-paced and always changing the environment
+Challenges You Will Be Working On
+Participate in building a microservice architecture which scales, routes around failure and lets us build complex systems out of small components as well as maintain existing web applications
+Run everything in the cloud (AWS)
+Solve complex cross-stack architectural problems
+Create libraries and services for other teams
+Develop and maintain existing backend services (mostly written in Scala and Python) to ensure they are efficient, reliable and secure enough for our many million users
+Rethink the assumptions that no longer hold in our current architecture
+If you have...
+Interest working with typed functional programming (e.g. Scala, Haskell, F#, Ocaml etc.)
+Experience with static typed languages (e.g. Java, C#, C++)
+Knowledge of algorithms, data structures
+Passion for clean, maintainable code
+Bachelor's degree in Computer Science or Software Engineering – or equivalent work experience
+Great communication skills in English
+Ability & willingness to learn fast and pick up new things easily
+then we would love to talk to you/
+Bonus If You Have Experience With The Following Technologies
+Distributed systems
+Amazon AWS
+Akka toolkit
+Build systems, Continuous Integration
+Docker, Kubernetes
+JVM and Linux
+Databases (MySQL or equivalent)
+Join an awesome team who highly appreciates visual communication, who believes that together we are greater than the sum of our parts, and who deeply cares about those around us.
+At Prezi, we celebrate the diversity of our customers and our employees. We employ people from all backgrounds to build a product for everyone. We are looking for people who will bring in their different perspectives and help us on our mission to reinvent how people share knowledge, tell stories, and inspire their audiences.
+If you’re passionate about visual communication, love being part of a team, and care about those around you, we want to hear from you asap!

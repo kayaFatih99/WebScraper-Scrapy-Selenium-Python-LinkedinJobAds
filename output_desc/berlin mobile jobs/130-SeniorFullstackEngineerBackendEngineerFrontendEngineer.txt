@@ -1,0 +1,30 @@
+About the job
+Welcome to byways 🚛!
+
+We are a Berlin based startup on our way to revolutionize logistics & supply chain. Did you know, that fax machines are still a thing in logistics?
+
+Let's do something about it - together.
+
+Tasks
+
+Our SaaS solution is aiming to replace pen & paper, fax machines, and unnecessary phone calls & emails from the daily work of logistics experts. For that, we have built a solution based on React, NodeJS, NestJS, RabbitMQ, and various database models.
+
+Your task would be to work on the core product. That comes with implementing the backend side for new endpoints (based on NestJS), working on the visualization and logic on the frontend (based on React), maintaining the code base, and working with the team to conceptualize, design, and implement future software architecture expansions. Of course, the exact focus area depends on your skillset and preferences (e.g. frontend vs. backend tasks).
+
+So pretty much - you work with all of us together on building the best software environment to improve the life of warehouse workers and carriers all over the globe.
+
+Requirements
+
+Here is what we think would help you to fulfill the job. We might be wrong - so if in doubt, please apply and we talk about it.
+You need relevant experience with the given technologies. We don't want to define this by a specific amount of years that you have worked with these technologies - but you should have seen your fair share of projects where you used these to build amazing products.
+You should favor an open communication culture and you should be committed to contributing with your ideas and experiences to the product.
+You should be a team player. We all are and we strongly believe that is the only way to win this game.
+You should focus on empowering others. This role is a senior one - so we are looking for experienced people with amazing skill sets. You should use these powers for good and make sure that junior team members can benefit from working with you.
+You should be fluent in the English language.
+
+Benefits
+The chance to contribute from day one, with plenty of room for career progression.
+The opportunity to have a serious impact on a growing organization that’s changing an industry.
+A steep learning curve working alongside an ambitious and international team.
+Close cooperation with the founding team.
+A very attractive compensation package including optional shares.

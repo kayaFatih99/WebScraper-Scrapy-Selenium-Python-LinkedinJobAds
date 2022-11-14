@@ -1,0 +1,43 @@
+About the job
+DoctorBox’s vision is to simplify your life by integrating your medical information in one app. With the DoctorBox app, you can share medical records, track your medication intake and receive test results – all at once.
+
+We are now entering a new phase in our development. The aim is to build a marketplace for digital healthcare applications that will allow our users to access healthcare solutions – from diagnosis to home testing kits. As a budding “super app”, our focus is on integrating healthcare partners and services to support everyone on their journey to live a longer, healthier life.
+
+We are constantly looking to build innovative healthcare solutions, improve our usability, and scale our business. We have already done so with our specialized COVID-19 testing software and intend on maintaining our success in this new phase. To do so, we want to strengthen our IT leadership by recruiting a VP of Engineering to lead our developers and business through this transition.
+
+Role Purpose:
+
+If you are passionate about working in healthcare to make a real difference, interested in helping to develop innovative digital healthcare solutions, and want the freedom, challenges and ownership of a young start up combined with a mature management system (ISO9001/27001), then DoctorBox might be the right place for you.
+
+The purpose of the Android mobile developer is to take a proactive role in our IT team. Together with other members of the team you will be responsible for building an excellent user experience and build innovative digital healthcare solutions to help scale our business.
+
+Tasks
+Develop, improve and maintain the DoctorBox native Android application and upcoming app projects and new features
+Support the senior developers and the product managers with the entire application lifecycle from concept to design, testing, release and support
+Contribute to our UX and design concepts
+
+Requirements
+
+Must haves:
+Android Kotlin with use of Jetpack support libraries
+Base knowledge of Java (we have legacy code in Java)
+Software Architecture and Design Patterns (SOLID principles)
+RESTful API
+Common database knowledge
+
+Nice to have:
+Testing experience (for example Unit and UI tests)
+Refactoring experience
+Experience with CI/ CD
+German is an advantage, the app is offered in English and German
+
+Benefits
+Opportunity to bring in your ideas and ability to choose tools for implementation
+Flat hierarchies and transparent communication
+Shape the future of German healthcare
+Working with our team on location in Berlin, Germany with remote office days (complete remote work can be discussed)
+We encourage learning for personal and professional growth
+Flexible working hours
+Long-term employment opportunity
+
+We are looking forward to your application.

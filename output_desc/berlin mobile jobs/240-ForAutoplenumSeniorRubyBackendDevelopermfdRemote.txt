@@ -1,0 +1,59 @@
+About the job
+A responsible and agile job as (Senior) Ruby Backend Developer (m/w/d) in a growing e-commerce start-up either in one of our offices in Berlin/Munich or remote.
+
+In this role, you will support the team in developing and improving their Ruby on Rails based platforms Autoplenum, 12gebrauchtwagen and 12neuwagen, all of which are household names in the German Car industry, used by millions of users monthly to find the information and cars they need.
+
+Tasks
+Be part of the team managing their backend and web platforms
+Work closely together with the rest of their small team on improving all parts of their product
+Be a key factor in choosing the tools and technologies they use
+Keeping technical debt down is a high priority for them. They are currently cleaning house and want your help with this.
+Develop and test new features together with your colleagues.
+Ensure that their Autoplenum platforms run quickly and reliably, even under heavy load.
+
+Requirements
+Many years of experience with Ruby and Ruby on Rails
+Excellent analytical skills and knowledge of MVC architectures
+An understanding that testing and CI are core to developing
+Fluent in Ruby, and very interested in how to best structure code
+Experience in structuring and dealing with relational databases
+Eager to learn new things, and a desire to apply yourself to your work
+An open and positive work attitude
+Fluent English speaker. German skills a plus.
+
+Required Hard Skills
+Ruby & Rails
+PostgreSQL
+MySQL
+Docker
+
+Extra Skills We Would Love
+AWS
+Terraform
+Elasticsearch
+Redis
+Memcache
+CI / CD
+
+Benefits
+
+The Concrete
+Permanent position with an attractive salary 30 days vacation per year
+Conference visits
+Choose your own hardware
+Flexible hours. They do not care much when they do it.
+Home office options. We cherish the flexibility of home office
+Free hot & cold beverages and after-work beers in the office
+Trips to their business HQ in beautiful Munich if you want to
+Relocation & bureaucracy assistance, should you need it
+
+The soft
+You can work remotely or out of our offices in Munich or Berlin as you see fit.
+Autoplenum is a strong and profitable company. This allows them more time to develop things right than other Berlin startups "chasing the next investment"
+Your success is their success. Autoplenum takes your career seriously and wants to help you develop your skills toward your goals.
+You will be part of a small team with lots of room for ideas, freedom and responsibility.
+You will get insight into their business strategy and the chance to shape Autoplenum with your initiatives.
+
+OUR PARTNER:
+
+The development of web platforms for car enthusiasts is their core business. Their websites provide their users with over 1.5 million new and used car offers, as well as extensive technical data and high-quality editorial content on automotive topics. They are day-to-day working on a number of interesting engineering problems, including ingestion of large data sets, high-volume traffic sites, big data and machine learning to name a few - with many more to come many more to come.

@@ -1,0 +1,42 @@
+About the job
+Many in the tech community believe that Cybercrime is the greatest threat to business today. Billionaire businessman Warren Buffet took it a step further and said cyberattacks are the number one problem with mankind, even worse than nuclear weapons.
+
+A big entry point for cyber-attacks is through mobile devices, during remote working in the home office, or whilst being on the go.
+
+My client is solving this problem by building the leading mobile security software app for governments, companies, and secret agents across the world.
+Beyond working with the German government and the CIA, this week they became the official NATO partner for mobile devices. For this reason, they are expanding their iOS Engineering Team in Munich and looking to build a new feature encrypted messenger service.
+
+The team and company you could be joining:
+- A mobile cybersecurity product company based in Munich
+- The company protects the government from outside espionage attacks on their iOS/Android phones.
+- There are currently 4 iOS Teams with a total of 16 iOS Engineers
+- You will be working in an Agile/Scrum environment
+- The team and company are made up of Engineers from many nationalities, so the spoken language is English.
+- A European Market Leader in its field
+- Strong growth: The company has grown year on year. Last year they expanded their iOS and Android Developer teams from 8 to 16 Developers as well as opening a second office in Berlin
+- iOS is at the heart of the company. They breathe iOS. They bleed iOS. Here iOS Engineers have a high standing.
+
+The role and requirements:
+- You call yourself a Senior iOS Developer
+- You have experience working with Objective-c.
+- Ideally, experience using Swift as new features will be written in this (we offer training if needed)
+- The product was originally implemented in Objective-C because SWIFT is not yet fully certified by the security
+industry. That means there is maintenance to be continued in Objective-C for some time.
+- You have experience with unit testing
+
+Benefits
+- Salary up to 85k Eur / year
+- Private pension scheme via Allianz with high contributions from the company
+- CIA Security Level Phone
+- Budget to spend on training courses + intensive cybersecurity onboarding
+- Free language courses
+- A safe and stable Job in a booming Industry
+- Relocation budget and VISA sponsorship (if needed)
+- Work on a product that matters and has purpose
+
+It sounds great, right? Well there’s even more things to tell you, so reach out at:
+d.alzate@baldurconnect.com/ +49 89 20509675
+Can't wait to talk to you!
+
+
+" Baldur Connect is acting as an Employment Agency in relation to this vacancy. Baldur Connect is committed to being an equal opportunities employer, and encourages applications from candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, religion or belief, marital status, or pregnancy and maternity status. "

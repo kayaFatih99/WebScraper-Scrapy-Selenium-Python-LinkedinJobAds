@@ -1,0 +1,70 @@
+About the job
+Location : We are flexible! Come and join us either in Hamburg, Berlin or Barcelona or feel free to work 100% remotely in the EU*
+
+FREE NOW empowers smarter mobility decisions helping people to move freely and cities to thrive.
+
+Be ready to work in a multinational, diverse, highly motivated and collaborative team of passionate developers who strive for excellence and like to have fun. Are you ready for your next ride?
+
+YOUR DAILY ADVENTURES WILL INCLUDE:
+
+Our work allows company owners to manage their fleet, see earnings, download invoices, manage documents and help keep them profitable. We have around 0.5 million users accessing our product monthly, with 3.5 million monthly page views, this is across all European countries that we operate in.
+
+Some of the challenges you will face will be to create one product that works in every one of the 10 EU countries we operate in. It is highly scalable, super configurable but at the same time must be country agnostic.
+
+In the Matching/Fulfillment team, we are connecting our best drivers to passengers in order to provide them with the perfect ride experience.
+
+We build and optimise our dispatching algorithms with the goal to guarantee a fast pick-up of our customers and lowering the amount of empty kilometres for our drivers. In order to achieve that, we are solving an optimization problem and need to choose the right trade-offs to detect the sweet spot between multiple criteria.
+
+By efficiently utilising our available fleet, while maintaining a great user experience, we are one of the core contributors to the success of our company.
+
+In a perfect world the dispatching system is a win/win for our environment, drivers and passengers.
+
+We aren’t there yet – which is why we need you! Join our team if you have a passion for complex systems and love to create the magic that happens in the background
+
+Our Techstack : Java | Kotlin | AWS | Docker | Git | RabbitMQ | ElasticSearch & more TO BE SUCCESSFUL IN THIS ROLE:
+
+You dream in Java and/or Kotlin rather than your mother tongue
+Experience with Spring Boot or similar frameworks
+Understanding of algorithms and data structures
+Test cases are the first things you think of before building a feature and the last things you check before pushing your code
+Keen to receive and give feedback in pairing and code review sessions
+Fluent communication in English
+Experience working on large scale distributed systems
+Passionate about writing idiomatic and clean code
+Keen about scalable web applications, such as RESTful API’s, dealing with transactions and resiliency
+Familiar with testing in the whole software life cycle (unit / integration / system)
+Good experience with relational databases
+
+YOU'LL GET EXTRA CREDIT FOR:
+
+Familiarity with taxi dispatching problem
+Experience with microservice architecture
+Experience with Docker, Kubernetes, Grafana, ELK stack and/or load-testing
+Knowledge of cloud services (preferably AWS)
+You like Mob programming to exchange knowledge and problems
+International experience
+
+BENEFITS & PERKS IN A NUTSHELL:
+
+Fully remote* or hybrid working models
+Free Udemy e-learning access
+Sabbatical & special leave policies
+Subsidised gym membership
+Birthday, 24th + 31st December off
+Partner product discounts
+Mobility budget for FREE NOW App
+Free language courses
+Employee assistance program
+Personal development budget
+
+Plus more local benefits depending on your work location!
+
+in one of the 10 countries where we have a legal entity: France, Spain, Germany, Austria, Portugal, Italy, England, Ireland, Poland & Greece
+
+DIVERSITY, EQUITY & INCLUSION:
+
+FREE NOW is an equal opportunity employer and we consider qualified applicants regardless of race, religion, national origin, gender, gender identity, sexual orientation, disability or age.
+
+We want you to grow and evolve, bring your true self to work .
+
+SEE WHAT OUR AWESOME COLLEAGUES SAY ABOUT US:

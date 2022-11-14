@@ -1,0 +1,36 @@
+About the job
+(a) small letter that stands for great variety. We’re interested in your passion to help us thrive and not what gender, origin or age you have.
+
+THE CHALLENGE
+We are looking for a passionate Backend Developer on a remote basis to join us in our Zurich workspace to build an entirely new & disruptive product with us! Are you eager to help us build a new cloud-based solution that revolutionizes the Field Service with AI? Would you like to help set the direction as a self-starter in a team of like-minded colleagues with a can-do attitude? Coupled with a proven track record as well as a drive to develop innovative solutions, it looks like a match!
+
+CURIOUS ABOUT THE DAY-TO-DAY?
+Take part in the architecture design and technical stack definition for a cloud native / serverless AI product.
+Develop lambdas / microservices using python and various AWS services
+Taking full responsibility for the components you own (You Build It - You Run It). That includes writing and testing the code, building CI/CD pipelines and alerting/monitoring for your components
+Implement and maintain data engineering pipelines for data injection and near real-time AI model inference
+Participate in code reviews and strive for the high code quality, build quality gates to ensure the high code standards
+
+CURIOUS IF YOU'RE A FIT?
+A degree in Computer Science (or related field) or equivalent experience
+Passion for clean code and an eye for simplicity and pragmatism
+5+ years of experience in backend development with Python
+Experience with cloud services, ideally AWS and building up microservices
+You are experienced with DevOps practices, continuous deployment and test automation
+Good English skills (German is a plus)
+
+WHAT WE OFFER
+Be a member from the very start and help building up a fully empowered team in a new workspace in Zurich
+You can use Mac, Linux or Windows as development environment
+We make use of state-of-the-art technologies and frameworks
+Top working environment: enabled teams, strict “no jerk” policy
+
+JOIN US, BECAUSE
+We are an enthusiastic, cool company and we like to have fun – at work & after work
+We work hand in hand with our clients and take pride in building products that matter and experiences that delight
+Stretching yourself to achieve challenging goals is how you grow
+In our open culture, we welcome diversity, different opinions and enjoy discussing solutions
+The flexible and dynamic working environment gives us a lot of freedom and enables us to perform at a high level
+Fully remote work model, work from anywhere and unpaid leave are extra cool benefits
+
+We are looking forward to your application!

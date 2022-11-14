@@ -1,0 +1,54 @@
+About the job
+We’re a diverse group of committed individuals empowered to thrive on challenge, share ideas, and pursue our ambition to transform the way commerce works.
+
+So what about you? Do you want to help shape the future? Join us and you’ll open the gateway to a world of endless possibilities.
+
+At Productsup you’ll be an intrinsic player in a vibrant culture that brings together people with opportunities, ideas with implementation, and ambition with achievement.
+
+You can make great things happen in your career by making great things happen in commerce.
+
+Productsup - the place where people are empowered to shape the future of commerce.
+
+Your role and goals
+In this role, you’ll support our team in developing and extending our data processing pipeline, which processes over five billion products per day. In doing so, you will be supported by a scalable server infrastructure and a team of highly talented developers. Most importantly, you’ll have room to bring your own individual solutions to the table and impact our product.
+
+In your first 3 months you will:
+Build a deep understanding of our product, infrastructure, and processing pipeline
+Work as part of an agile team to improve our core processing pipeline and deliver new features
+Use your fresh perspective to improve our backend components, infrastructure, and documentation
+
+In your first 6 months and beyond you will:
+Contribute to the overall architecture of our core product
+Optimize the speed and efficiency of our processing pipeline, suggest and implement new measurements
+Become an expert on the core product and mentor other departments using your knowledge
+
+What you bring to the team:
+Must have:
+A self-driven, structured, proactive, and responsible approach
+Excellent English skills, both written and spoken, with clear and concise communication and a customer-centric approach
+Very good knowledge of PHP7 and PHP8A data-driven approach and passion for measuring and optimizing performance
+Experience with structuring data in an RDBMS
+Experience with writing testable and maintainable code using SOLID and TDD principles
+Experience with event-driven architecture and message queue technology
+Understanding of security best practices
+
+Nice to have:
+Proficient in our tech stack: Symfony, Redis, Kafka, MariaDb
+Experience with Linux
+Experience with API design-first approach
+Knowledge of PHP frameworks (Symfony, Laravel, or similar)
+Good understanding of high-availability services
+Experience with Docker and Dockerized applications
+Knowledge of Python or Golang
+
+What we offer you:
+A permanent position at our growing company!
+The option to work remotely and flexibly, because we know outstanding talent knows best how and where to work
+A unique and thorough onboarding program where you’ll learn the ins-and-outs of our company and product
+Ongoing internal and external training, personal development, and professional growth opportunities as we scale our thriving business!
+Personal development budget for you to invest in yourself and your career!
+The option to engage in our Corporate Social Responsibility initiatives, plus one working day per year dedicated to voluntary work
+Employee referral bonuses: we know that talent attracts talent, and we encourage you to refer people you know to join our team of Feedfighters
+The opportunity to take ownership and responsibility, impacting the company’s growth in an international environment with 40+ nationalities
+
+Productsup values diversity. We celebrate our differences and strive to learn from each other with the firm conviction that diversity drives innovation. Our commitment to equal opportunities begins in the hiring process and extends to our whole working culture. At Productsup, everyone is encouraged to feel comfortable expressing who they are. Everyone has a unique contribution to make. And all are welcome.

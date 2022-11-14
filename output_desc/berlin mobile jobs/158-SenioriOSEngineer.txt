@@ -1,0 +1,12 @@
+About the job
+Senior iOS Software Engineer
+Remote in Germany OR Italy
+
+Trust in Soda are partnered with a Global D2C Tech company headquartered in Germany who are looking to expand their mobile team. They currently have a team of 16 people split into 3 sub teams. Working in a cross functional team of 6, we're looking for a Senior iOS Engineer to come on board and help build new features. This is the chance to work on a high performance consumer facing app used by 9 million monthly users.
+
+
+Stack: Swift, SwiftUI, CocoaPods, Fastlane, Bitrise, GraphQL
+
+We're looking for a Senior who has previous experience building features for a large-scale app.
+
+Please apply for more information

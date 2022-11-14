@@ -1,0 +1,66 @@
+About the job
+At voize we develop an app that allows professionals like healthcare workers and inspection engineers to fill out forms via domain-specific speech recognition. Healthcare workers speak freely and our AI automatically generates the correct structured forms.
+
+We are YC-funded and grow quickly. Our customers like Caritas, Contilia, and TÜV NORD create thousands of documentation records every single day.
+
+Today speech recognition is primarily used as a “fun” gimmick for consumers, who set kitchen timers with their Alexa speaker. We build a completely new class of speech-powered applications, to supercharge the professional workforce. By focusing on individual workflows like healthcare or vehicle inspections, we create truly magical user experiences and save each user 30 minutes per day in administrative work. Don’t believe it? See for yourself in our 3-minute product demo (https://youtu.be/AlkVD4OwCQk).
+
+The entire system is built in-house, giving us full control over the user experience, product design, NLP models, and speech recognition. Our custom speech recognition models already outperform Google with 10x lower error rates and we are just getting started!
+
+If you ever wanted to work at the bleeding edge of product design, applied machine learning research, and DevOps, you should apply. You get to build products with daily user feedback, train AI models on real-world data, and ship to production on a daily basis.
+
+At voize new software is deployed to production every 5h on average! We deploy new AI models every 24h and have one of the largest speech data sets for medical documentation.
+
+Tasks
+
+We’re looking for team members who enjoy talking to customers, iterating & shipping quickly.
+
+As a backend/DevOps developer, you will take responsibility for our backend infrastructure and data pipelines. You will design, build and deploy microservices (kotlin-based) in a Flux-operated Kubernetes Cluster.
+
+Your APIs are used to manage and configure devices, process data for machine learning training and orchestrate GPU training in our Cluster.
+
+Requirements
+
+You should be comfortable with the following tech stack
+Kotlin & Quarkus Backends
+Data manipulation in MongoDB & PostgreSQL
+Docker, Kubernetes
+React & Typescript (bonus)
+
+Team Work & Personal Skills:
+You have to be able to work in a team, communicate clearly, take ownership over your work and share feedback with your teammates.
+You need to feel empathy for the user and have a deep passion for great product experiences. You will talk to users, listen to their feedback, understand their daily challenges, and translate those insights into product decisions.
+You need great time management skills and be self-sufficient. Your colleges have to be able to rely on you.
+
+Language & Region
+You need to be able to speak German fluently. (especially to talk to customers)
+You need to live in Germany and be legally allowed to work in Germany.
+
+Benefits
+voize is based in Berlin and has a remote-friendly workplace.
+We offer flexible work hours and believe that you know best when you want to work
+We have an open culture and regular team events
+As a fast-growing startup, there are new challenges daily and plenty of learning opportunities for your personal development
+Own part of the company through stock option packages
+
+Interview Process
+
+To help us determine that we are both a great fit for each other and are happy to change the world together for years to come, we run a 4 stage interview process. This process is usually completed in 2-3 weeks.
+First Call with the founder (Remote):
+
+This is a more informal video call with you and one of our founders, to get to know you, and share more details on the role. Together we want to determine if this role is a great fit for you and get a basic understanding of your personal interests and technical & soft skills.
+Technical Interview with CTO (Remote):
+
+In this video call, we want to learn more about your technical skills and past projects you have worked on.
+
+The best way to impress us is by showing us a project you’ve built and walking us through the 2 hardest technical/design decisions you had to make.
+
+Mostly, we want to know that you can code and ship fairly involved systems, and speak to them with clarity on the details. This tends to be a good indication that an engineer had strong ownership and showed autonomy in making a product or technical decisions.
+Pair Programming Challenge (Remote):
+
+At this stage, we want to show you the kind of challenges we are facing on a daily basis. In a pair programming setting, you will get access to a portion of our system and will debug an Error we’ve introduced or build a prototype of a new feature.
+Onboarding
+
+If you and our team both see a great culture and technical fit, we will send you a job offer and walk you through our onboarding process.
+
+In your first week, you will ship your very own first feature to production! We will prepare a great first task, help you along the way and celebrate the release and direct user feedback.

@@ -1,0 +1,32 @@
+About the job
+Cadeia provides a digital service platform for the structuring, issuance and settlement of complex financial products (e.g. asset-backed securities or syndicated loans but also simple bonds). In addition to enhanced servicing functionalities and a rule-based cash flow distribution solution, the platform also offers reporting, compliance and analytics tools for issuers and investors. At its core, a blockchain-agnostic Smart Contract Engine (SCE) allows for the automated execution of legal contracts, transactions, and payments.
+
+After a successful seed round and a recently approved public funding, we are solidly financed.
+
+Tasks
+
+Are you looking for a tech-focused, innovative and unique company that will inspire you? Join us as Backend Software Engineer.
+
+Here you will be a vital contributor to our inspiring, challenging and bold mission.
+
+You will directly develop functionality to implement, support, and continuously improve the back-end services of our Digital Service Platform.
+
+You will be responsible for the development of core libraries, data structures and architecture of our enterprise service platform.
+
+Requirements
+
+We value passion and motivation higher than experience and training. The willingness to learn and constantly develop beats a streamlined CV in our evaluation.
+
+Nevertheless we would like to let you know a little bit more about our Tech Stack:
+Microsoft Azure
+PostgreSQL
+Java (Spring Boot)
+j.hipster
+REST / RESTFUL
+Kubernetes
+Docker
+GitHub
+
+We believe that innovation happens where different perspectives come together to solve difficult problems in ways that were previously impossible.
+
+That's why we specifically look for people who bring different life experiences, different educational backgrounds, different cultures, and different work experiences, but also different personalities. We would love to hear how you can bring something unique and forward-thinking to our team.

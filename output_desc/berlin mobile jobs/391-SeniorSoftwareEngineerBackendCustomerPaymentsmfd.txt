@@ -1,0 +1,59 @@
+About the job
+Team
+
+The Customer Payment team is responsible for the integration with our Servicing Bank and processing all payments through it on the Raisin platform. Most importantly, account creations, payments execution and reconciliations, and transaction compliance are in the domain of this team.
+
+The team is part of the “Customer Tribe”, which consists of 2 teams that collaborate closely on the mission to build and run state of the art Customer and Transaction Account experiences to grow Raisin at scale.
+
+The Customer Payments team provides:
+The full lifecycle of the transaction accounts
+Overview of the account balance and transaction history
+Payment processing in real-time
+Payments reconciliation
+Platform abstractions of servicing banks
+
+The team is a cross-functional team currently with Backend and Frontend Software Engineers.
+
+The team owns the whole lifecycle from design, and development through maintenance of the services at runtime. This includes modern and legacy services, while the team works dedicated to replacing the legacy services.
+
+Tech Stack
+AWS, Kubernetes, garden.io
+Java, Spring Boot
+SQL, NoSQL, Apache Kafka
+
+Your Responsibilities
+You perform tasks with great attention to quality, and support other engineers in your team to do the same.
+You do strong code reviews, ensuring not only best practices and business rules, but also performance, security, impact on other features or projects, and always with respectful and constructive communication.
+You work within your team to negotiate and document standards and practices in software development.
+You research and shape multiple alternative technical solutions when possible.
+You assume end to end ownership on the team projects' delivery.
+You actively manage the technical documentation in your team.
+You actively manage the technical debt in your team.
+You participate in the hiring process with techfit interviews and tech challenge reviews.
+
+Your Profile
+You have a university degree in Computer Science, Engineering, Information Systems, or related fields or equivalent practical experience.
+You bring at least 5 years of development experience as a Java software developer.
+You know how to manage software projects to a successful delivery in a collaborative fashion.
+You have up-to-date, in-depth knowledge of the software development lifecycle in a Java-technology landscape.
+You are comfortable with open code and architecture discussions.
+You bring experience with AWS Services, K8S, Event Driven architecture (Kafka and ActiveMQ), Springboot, SQL and NoSQL.
+Fluency in English.
+
+Join our mission, join our team - and grow with us!
+
+At Raisin, we care about each other and it is one of our top priorities to foster an open and caring environment in which everyone feels welcome and comfortable. Our culture is strongly driven by our ambitious team, which, connects more than 40 different nationalities.
+
+You'll find us in our modern and open office in the trendy Kreuzberg district with a view of the Spree River, ideally connected to public transportation and surrounded by a variety of restaurants and shopping opportunities.
+
+As part of our team in Berlin, you will benefit from
+Relocation and visa support as well as a relocation reimbursement.
+Personal training budget of 1,700 € and four full training days per year.
+Free choice of hardware.
+Virtual German language classes.
+Hungry all the time? Snacks, daily fresh fruit as well as drinks provided at the office.
+Flexible working hours, home office and 28 vacation days.
+Enjoy more than 50+ different sports with Urban Sports Club: We subsidize your membership with more than 20 € per month.
+A company pension scheme (Betriebliche Altersvorsorge), which we support with 20%.
+Enjoy yearly company retreats to exciting European cities and other (virtual) team events, such as Lunch & Learn, Tech Lunch, Female Empowerment Forum, CEO Talks as well as our yearly Summer- and Christmas Party.
+Do you miss being in the office? The corporate ticket gets you there, which we subsidize with 25 € per month (BVG Firmenticket for Berlin and HVV ProfiTicket for HH).

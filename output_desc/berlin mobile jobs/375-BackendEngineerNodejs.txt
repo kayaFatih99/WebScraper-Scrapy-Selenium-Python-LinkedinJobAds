@@ -1,0 +1,39 @@
+About the job
+This is a great opportunity if you are a passionate engineer who pays attention to detail and has a solid experience in building distributed systems using microservices and Node.js.
+
+You would join our experienced and international Geolocation team (3 backend + 1 product manager) working on highly efficient core microservices to empower customer feature oriented dev teams to build their functionality on top of it.
+
+The team has a clear roadmap and ambitious goals for the upcoming year. They need your help to make that roadmap a reality.
+
+🛵 Who we are
+
+Getir is the pioneer of ultra-fast delivery. By bringing together great technology with a unique operational model, we were the first to introduce the concept of groceries being delivered to your door in minutes. Technology continues to be at the heart of our business as we expand across the globe.
+
+Great technology is developed by great people, and that’s why we’re looking for talented technologists to join our team.
+
+👍🏻 What You’ll Be Doing
+
+Own a core part of Getir’s distributed microservices system
+Develop highly efficient core microservices and follow industry standards, best practices and guidelines
+Deploy new releases
+Monitor, analyze and resolve technical and application issues
+Bring new technology and ideas to the table with a focus on the team's roadmap
+Influence cross team initiatives and mentor less experienced engineers
+
+🛠 What You’ll Bring
+
+Strong experience delivering production code for backend services in an Agile team
+Solid understanding of microservices and experience in event-driven cloud architectures
+Extensive experience with REST APIs, relevant standards and guidelines (Richardson Maturity Model, Open API, JSON Schema)
+Solid experience working with Git version control system and CI/CD tools
+AWS or other public cloud experience
+Solid experience with Node.js as a main backend technology
+Experience with MongoDB (or similar)
+(Nice-to-have) Experience with RabbitMQ and/or Apache Kafka
+
+Take a look at our Tech Stack: https://stackshare.io/getir/tech-stack
+Curious about our Engineering Culture? Take a look: https://www.linkedin.com/company/getir/life/getirengineering/
+
+You as a Getirian
+
+You are a good person first, everything else is secondary. You are a champion of growth, and actively strive to be the best version of you, for yourself and your team. You value diversity, and embrace ideas over hierarchy. You aren't afraid to learn and re-learn at Getir speed. You are an initiator, in charge of your own story and your legacy.

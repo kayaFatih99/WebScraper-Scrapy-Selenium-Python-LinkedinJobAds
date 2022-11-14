@@ -1,0 +1,55 @@
+About the job
+About Grover
+
+Grover makes access to tech easy, affordable, and sustainable—with flexible tech rental subscriptions. No deposits, no commitment, just tech when you want it for as long as you need it.
+
+With around $1.3 billion in financing, Grover is one of Germany's best-funded scale-ups, and we're growing fast. Since 2015, we've gone from a small startup operating out of a Berlin apartment to a team of 500+ people, bringing flexible tech subscriptions to renters across Germany, Austria, the USA, Spain, and The Netherlands.
+
+And we're just getting started. This year, we're expanding into even more countries and launching even more innovative ways for people to access the tech they need.
+
+Our Mission & Vision
+
+We're making it possible for more people to get the best out of life–with flexible, affordable access to the tech they need. That was our bold vision when we started back in 2015, and—with over 1 million renters across 5 countries—we're right on track.
+
+We're also proud to champion a more sustainable way to use tech. With over 500,000 devices returned, refurbished, and recirculated so far, we've already saved 1,500 tons of e-waste from ending up in a landfill.
+
+Want to join us on our mission to give more people flexible access to the tech they need? We'd love to have you on the team.
+
+We are looking for a Backend Test Automation Engineer to join our talented Engineering team.
+
+As a Backend Test Automation Engineer, you will:
+Develop End-to-End automated test cases and Integration tests for backend APIs.
+Design and execute automation tests with appropriate validations.
+Test framework development and enhancement.
+Establish work flows for enhanced quality with Continuous Integration (CI) and Continuous Delivery (CD).
+Work closely with development teams, architects and engineers to test their products for reliability and stability.
+
+You care about:
+Ownership: you easily communicate ideas, implement them, and take responsibility for your actions
+Helping others: sharing knowledge with your colleagues is on top of your priorities
+Fast-paced startups: you love adapting to different situations, and you know how and when to iterate fast and with high quality
+Our product: you believe in our vision, and are willing to give your best to build the future of Grover
+
+We are looking for a passionate Backend Test Automation Engineer, with:
+Strong experience with REST API and ideally GraphQL.
+Practical experience with containerization (e.g. Docker), automation and cloud technologies.
+Solid programming experience with languages like Javascript or Python.
+Proven data analysis and problem solving skills.
+Working knowledge of AWS or equivalent public cloud platform.
+The ability to communicate effectively with developers and senior stakeholders.
+
+It's a plus:
+Experience with request tracing.
+Experience with a Payment Gateway testing tool.
+Understanding of business processes in E-commerce environments.
+Experience with Serverless/FAAS eg. AWS Lambda.
+Expert skills in one or more load testing tools.
+Experience in Security Testing.
+
+What we offer:
+Competitive salary and benefits
+Flexible working hours combined with a semi-remote work structure. Office? Remote? Figure out the balance that works best for you
+Entrepreneurial responsibilities and upward career growth
+Engaging, open office located in central Berlin
+Diverse global team of 50 nationalities (and counting)! Genuinely the nicest group of colleagues who will soon become friends
+Team events, Grover tech discounts, and expanding perks

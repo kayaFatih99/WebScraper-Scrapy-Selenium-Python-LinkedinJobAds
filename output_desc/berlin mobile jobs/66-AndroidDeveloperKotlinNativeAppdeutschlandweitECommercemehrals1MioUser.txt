@@ -1,0 +1,18 @@
+About the job
+Unser Kunde ist eines der größten E-Commerce Unternehmen Deutschlands. Mit mehr als 5000 Mitarbeitern (300 davon alleine in der IT) und einem kontinuierlichen Wachstum in den vergangenen Jahren kann sich hier jeder ein stolzes Mitglied eines Digital Innovators für Deutschland nennen. Diversität, technischer Fortschritt, Innovation und Nachhaltigkeit zählen zu den Säulen des Erfolges.
+
+Als Teil eines der Mobile Teams (Fokus hier Android/Kotlin) wirst du zu aktuell 8 Members hinzukommen. Deine Aufgaben werden unter anderem der weitere Ausbau des bestehenden E-Commerce Shops, als auch die Auswertung der Analytics und Ticket Bearbeitung sein.
+Momentan nutzen mehr als 1 Millionen Menschen in Deutschland die App- die Tendenz ist stark steigend.
+
+das bringst du idealerweise mit:
+mehr als 4 Jahre Erfahrung in der Entwicklung von Android Apps
+sehr großes Interesse an Kotlin (berufliche Erfahrung ein großes Plus)
+Architecture Pattern
+Du hast dich bereits mit Jetpack oder Constraint Layout ausseinander gesetzt
+solide Deutschkenntnisse sind von Vorteil für diese Position
+wir können diese Position deutschlandweit besetzten
+
+
+Falls du mehr zu dieser Vakanz erfahren möchtest setzte dich gerne zeitnah mit uns in Verbindung. Sollte dir diese Position aus einem Grund nicht ganz zusagen wende dich dennoch gerne an uns, wir haben vielleicht eine passendere Option in petto.
+
+Und vergiss nicht uns hier auf LinkedIn zu folgen :)

@@ -1,0 +1,43 @@
+About the job
+UBIRCH is a fast-growing international technology company. Founded and managed by experienced specialists in data-driven business models, we are combining robust cryptography and modern blockchain technology into a platform which can be used to detect data falsification immediately. Together with a consortium of renowned companies, we have developed and are operating the infrastructure behind the Digital COVID Certificate for Germany. We believe that data resilience can help shape a better tomorrow. We work according to the remote first principle. We have additional offices in Cologne and Berlin.
+
+Tasks
+
+We are looking for a creative, curious and persistent personality who is keen to develop cutting-edge security technology. If you are a team player and want to grow with us, we would like to meet you!
+
+Your scope of responsibilities includes, but is not limited to:
+working in a agile cross functional team
+Writing clean code to develop functional applications
+Troubleshooting and debugging applications
+Writing tests to optimize performance and resilience
+Gathering and addressing technical and design requirements
+Identifying new features
+Following emerging technologies
+
+Requirements
+1 to 3 years of proven work experience as a Back-end developer
+in-depth knowledge of Scala, Functional Programming (Cats Effect, Monix), Test driven development, micro service architectures, git based workflows, Docker
+if you know Rust, Cassandra, Elasticsearch, Postgres, JanusGraph, Kubernetes and Crypto Basics (Hash, ECDSA, RSA, DH...), that’s a plus!
+Teamwork skills with a problem-solving attitude
+BSc degree in Computer Science or relevant field OR non-academic proven track record
+written and spoken command of English at a proficient level
+
+More important to us than any skill and experience is your willingness to learn. If you are unsure about individual tasks due to a lack of previous experience, we will teach you in a straightforward and focused manner.
+
+We’re a remote first company in Germany. To facilitate smooth operation, we’re looking for people living roughly in the same time zone. Due to social security reasons, we prefer residency in the EU.
+
+Benefits
+a permanent contract
+30 days of vacation per year
+a competitive, negotiable salary (depending on experience)
+participation in the company-wide bonus program
+full participation in the team’s decision making
+free choice of hardware you want to work with
+climate-friendly mobility support
+a kind, modern and free-spirited team
+
+Please send us a motivation letter, a resume and links to past projects. We would like to get to know your interests, your workstations and your development goals. Specifically, we are interested in what appeals to you about the outlined area of responsibility and/or UBIRCH.
+
+We especially welcome applications from people who are underrepresented in the male and white IT industry.
+
+We would like to fill the position as soon as possible and look forward to receiving your application.

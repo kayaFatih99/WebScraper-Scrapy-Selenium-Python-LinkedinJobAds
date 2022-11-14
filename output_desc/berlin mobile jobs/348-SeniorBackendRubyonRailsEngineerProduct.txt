@@ -1,0 +1,100 @@
+About the job
+FATMAP is growing our backend team. We are looking for senior Ruby on Rails engineers to join us at a running start, using familiar technologies to move mountains – or at least help our users to enjoy them!
+
+Build the future of outdoor adventure with us!
+
+FATMAP is building the leading platform for outdoor adventure. We are revolutionising the way people discover, plan, live and share their adventures. Our advanced 3D mapping technology, outdoor toolkit and curated adventure index is used by top professionals and a rapidly growing global community of outdoor enthusiasts, allowing them to enjoy better, safer adventures.
+
+What
+
+The Stack
+
+To bring FATMAP to life we combine content, mapping, and 3D rendering into our front-end web and mobile apps.
+
+The backend team is responsible for our Rails and Golang-based GraphQL adventure content APIs, handles authentication/ authorisation using Firebase and our own end user account service, handles mobile and web paid subscriptions via the App/Play Store and Stripe, manages an Elasticsearch instance served by a NodeJS search backend, maintains internal tools for our customer support and content teams, as well as keeping on top of a host of smaller but equally important moving parts.
+
+Technologies
+
+We make heavy use of Ruby + Rails with ActiveRecord, ActiveAdmin, Sidekiq, Cancancan, GraphQL Ruby, RSpec, FactoryBot among many others.
+
+We also use technologies including Kubernetes, Docker, AWS, Go, Node JS/TypeScript, as well as relying heavily on Postgres + PostGIS. A federated Apollo GraphQL gateway combines our various GraphQL endpoints into a single API which serves our web and mobile apps.
+
+We use Github + Github Actions, and deploy using Docker + Kubernetes on AWS. Teams own their own Kubernetes configurations but we have an expert SRE team to help out as well.
+
+For project management and issue tracking we use JIRA.
+
+Responsibilities
+
+You are an expert at the "boring" normal product stuff that turn our best-in-class rendering and mapping technologies into an incredible product. You and the team take end-to-end responsibility for developing new features, take loving care of our end user accounts, and add well-defined APIs for our frontend applications. Specifically you:
+Design, develop, deploy, and maintain our backend services and internal tools
+Do large amounts of code review, testing and documentation as a matter of course
+Take personal responsibility for quality, respond to incidents (we have a well-documented incident process), and ensure that our services keep running (with the help of our super star SRE team)
+Debug and resolve errors and respond swiftly to user feedback and metrics
+
+Who
+
+Required
+
+Your application will not be considered without:
+5+ years experience as a software engineer
+Demonstrable expertise in and enthusiasm for Ruby on Rails development
+Bonus points for experience with one or more of the following technologies:
+Golang
+Node JS/Typescript
+Kubernetes + Docker
+Fulfill the location requirements (~timezone Z to +2) if you wish to work remotely, or ability to legally work from our hub in Berlin or Chamonix
+Ability to work asynchronously in English.
+
+Desired
+
+Your application is strong if you have:
+Rock solid, language agnostic engineering skills
+Well-informed opinions and practice regarding code quality, testing, pair-programming, linting, type safety and code review
+Technical experience in
+Designing and optimising relational and non-relational database workloads - we use PostgreSQL, PostGIS, ActiveRecord, Elasticsearch and more
+API design and GraphQL backends
+Distributed system and microservice design patterns
+Handling recurring subscriptions (especially from the Android/iOS app stores)
+Git, CI, testing, automation - all part of our day-to-day
+Other programming languages and frameworks
+Interest in the outdoors and mapping. People at FATMAP often share a passion for one or both of these things.
+
+The best applications will highlight any relevant experience or passion in these areas, because we'd love to hear about it. They will also include the word "Sirius" because you read this.
+
+Mindset
+
+This role requires you to be able to work independently and collaboratively. You need problem solving and debugging skills, and a good dose of pragmatism to decide which problems are most worth solving today.
+
+We are seeking curious people who look behind the scenes to understand how things work. People who have hands-on experience creating user-delighting functionality in resilient, distributed systems. People who are excited to join smart and eager colleagues at a fast-growing company reshaping outdoor mapping. People who love the outdoors and engineering. Does some or all of this apply to you? Then please apply.
+
+How – working here
+
+We are distributed by nature with several offices and many people fully remote, therefore we value sync time and you needn't worry about your calendar being full of regular meetings.
+
+Teams are empowered to manage their own time and what management we do have is very flat. Leadership is careful and deliberate about communicating the vision and collaboratively defining strategy and goals. Engineers are equally conscientious about communicating architecture, solutions, status, and blockers.
+
+Where - Locations
+
+People at FATMAP have a lot of autonomy and flexibility. For this role, this includes where you choose to work - in-person, hybrid, or fully remote. Regardless of your choice, we aim to bring the whole company together twice a year for retreat (adventures included) and teams self-organise more in-person time such as conferences or team retreats.
+
+Wherever you spend the majority of your time, all our hubs are available for you to meet up with your teammates to work on a project together, get to know your colleagues, or just have a quiet place to focus, and everyone is encouraged to visit them (they're fun). We also have an apartment in Chamonix next to the lift and a short bus ride from the office. Join your colleagues sometimes or all the time in our inviting office locations and enjoy a comfortable, well-stocked working environment, or work remotely (see below).
+
+Berlin, Germany
+
+Our office in the popular tech and creative neighbourhood of Kreuzberg is surrounded by good food and easily accessible by public transport. Work, and perhaps after-work, with some of the coolest people in Berlin.
+
+Chamonix, France
+
+Our office in the home of mountaineering, Chamonix, is minutes from the lifts and also accessible by public transport. Hang out with your fellow adventure junkies. The sight of people packing paragliders in the foyer or walking around in skimo boots is not uncommon.
+
+Remote (EU)
+
+Remote work is welcome at FATMAP. Because the majority of the product team orbits around our Chamonix and Berlin hubs we prefer to hire within 2 hours travel for this role. Your primary location must be within +-1 hour of Central European time. We value life outside of work, and this is one thing we do to make sure everyone can have a good mix of flow, sync, and non-work time. Remote employees should have reliable internet, a place to focus on work, and plan to join the company and team retreats.
+
+Compensation
+
+The gross salary range for this role is €60k - €74k per annum, depending on experience and location. We believe in the value of employee ownership and therefore the compensation package also includes options.
+
+Further information
+
+If you have any questions about the role, don't hesitate to contact us at jobs@fatmap.com. Come and join us for an adventure, the mountains are calling!

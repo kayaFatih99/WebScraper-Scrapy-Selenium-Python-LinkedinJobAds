@@ -1,0 +1,39 @@
+About the job
+***This is a remote opportunity! Our office is based in Vienna!***
+
+At Bikemap, we provide community-generated cycling maps & navigation services on a global scale. Our mission is to develop top-notch software, which is valuable to millions of users, who use bicycles as their means of transportation. Providing cutting-edge features for our global community is what drives us towards our vision of becoming ‘the’ app for cyclists worldwide. Join our passionate team to be part of the ride.
+
+
+As Backend Developer (m/f/d), you would:
+
+Work closely with the core development team, speed up our back-end coding, and build new features and functions in sprints
+Take on the responsibility for the development, documentation, and maintenance of the core Bikemap code base which is being interfaced by the Android and iOS apps as well as the Web frontend – It’s our gateway to millions of active Bikemap users worldwide
+Work together with designers and marketing specialists who deliver you concepts, bringing to life exciting new use cases for cyclists
+
+
+As Backend Developer (m/f/d), you bring:
+
+3+ years relevant professional experience
+Extensive knowledgeand experience in developing web applications (ideally with Python and PostgreSQL)
+Please include ascii-art of your ssh public key in your application
+Prior experience with the HTTP protocol, pytest, RESTful API design, AWS, GeoDjango, Elasticsearch, Jenkins, Django REST framework, Redis and/or nginx is a plus but not mandatory
+An eye for perfection, the inability to give up on hard problems, a balanced form of perfectionism, a positive can-do attitude and the ability to work independently
+Commitment to standards & writing clean and maintainable code
+Experience with maps and GIS tools is a plus
+Very good English skills
+
+
+Here’s why it is worth joining our team:
+
+You will be part of a creative and extremely flexible working environment. If you’re hungry for new challenges, we should get to know you.
+Our very nice office location in Vienna’s beautiful 1st district, regular after-works, and coffee of the highest quality are just a few of the perks of joining Bikemap.
+Do you want to work remotely? No problem. It’s working very well for us: our international team members have taught us how to work in distributed teams and internalize the “remote-first” approach.
+According to the collective agreement, our salary range starts at € 45k / year (38.5 hrs./week). Your actual offer depends on your skillset and experience.
+
+
+Hooked? Well, then tell us more about you! Dazzle us with your CV, showcases, portfolio, or whatever you’d like us to see.
+
+We’re excited to hear from you!
+Your Bikemap-Team
+
+Bikemap is committed to equal opportunities. We are committed to a work environment that supports, inspires, and respects all individuals. Our application process is based on merit, character, and person and excludes discrimination based on color, religion, gender, sexual orientation, gender identity, marital status, age, disability, and origin.

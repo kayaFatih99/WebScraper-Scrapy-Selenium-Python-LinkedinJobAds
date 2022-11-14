@@ -1,0 +1,56 @@
+About the job
+Linearity GmbH, based in Berlin, is the publisher of Vectornator, a powerful and award-winning vector graphic design software that simplifies the design creation process. The platform has many innovative features and is trusted by leading brands like Apple, Disney, and Microsoft. Vectornator offers cross-platform functionality (iPad, iPhone, Mac) and iCloud Sync without compromising on power or quality. Our powerful software has reached over 6M downloads and has raised $30M+ in funding from some of the biggest Venture Capital firms globally (EQT, HV Capital & 468 Capital). Our mission is to revolutionize the way people design all over the world. To accomplish that mission, we need you!
+
+If you love creating new ideas, want to create products that transform the design industry, and are an outstanding team player, this position is for you. We are an international mix of driven, passionate, and talented people, brought together by a desire to create the world’s best next-generation graphic design tool. Linearity is a global remote-first company, with an office in the heart of Berlin. You can choose where you work – in the office, 100% remote, or a hybrid of the two. We are a flat organization with a culture of collaboration and teamwork that empowers our people to be brave and do what they think is best for the team and the company. We believe in the power of cooperation, brainstorming, and last but not least, in the power that each individual person has to make a difference.
+
+We're going through a super exciting phase of growth and are looking for an experienced Senior iOS Engineer (m/f/d) to work in our UI team 📱💻.
+
+
+What you'll do at Linearity:
+Transform designs into interactable UI code
+Collaborate with designers, PMs, and other Linearity engineers to work on improving new and existing features on the Vectornator App
+Develop cross-platform applications in UIKit (macOS/iPadOS & iOS)
+Write high-quality testable code
+Design new features and expose them via clear APIs that other developers will use
+Build great relationships with your colleagues inside and outside of your direct team and be a big part of shaping Linearity's culture
+
+
+We'd love to hear from you if you have:
+Tech-related bachelor’s degree or equivalent combination of training and experience
+5+ years experience developing native iOS Applications with Swift
+Good knowledge of UIkit API (UICollectionView/Autolayout/UIKeyCommand)
+Experience with concurrency, multithreading and Grand Central Dispatch in iOS apps
+Understanding of Time and Space complexity of an algorithm
+Always learning about Apple's latest technologies and following best practices
+Experience in agile product teams as a contributor
+Startup mindset and pragmatic, hands-on attitude
+Fluency in English and good communication skills
+
+The nice-to-haves:
+Experience with Appkit or macOS (Catalyst) development is a plus
+Previous experience developing iOS apps with Objective-C
+
+
+Benefits, Salary and All Things Included 💰:
+
+Flexible schedule and mobile office- Work onsite in our modern office in Berlin, hybrid or 100% remote from anywhere in the world - your choice 😁
+
+Paid time off:
+27 vacation days and 1 extra day each year of employment
+Family first: 1 year paid maternity leave & 4 months paid parental leave
+Social responsibility: Take 2 days off to volunteer in a charity event
+Period leave: take 1 day off per month
+Recharge: 4 weeks of additional leave for every 5 years of employment
+
+Birthday Gift: 50 euros to treat yourself to a birthday gift 🎁
+YourCampus benefit app: You get a budget of 145 EUR to access a wide range of benefits (gym memberships, coaching sessions, vouchers for your favourite webshops)
+Further education: Training budget and free language classes with Babbel
+Relocation budget & assistance
+Latest Apple working equipment
+Fun Stuff: Game events, Kahoot sessions, and onsite parties in Berlin
+
+
+Interested? Let’s Talk!
+
+Location:
+Berlin / remote

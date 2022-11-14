@@ -1,0 +1,41 @@
+About the job
+Delivering the best Spotify experience possible. To as many people as possible. In as many moments as possible. That’s what the Experience team is all about. We use our deep understanding of consumer expectations to enrich the lives of millions of our users all over the world, bringing the music and audio they love to the devices, apps and platforms they use every day. Know what our users want? Join us and help Spotify give it to them.
+
+We’re looking for a Director of Engineering to own the Engineering function of one of the product areas, “Expansion & Evaluation”, in the Consumer Experience Mission, which is a team of 60+ phenomenal engineers, responsible for key parts of the Spotify app experience.
+
+The team is developing and innovating on Spotify’s core consumer experience across iOS and Android. You will have a tremendous impact on the actual user experience, drive evolution and will be responsible for shaping strategic decisions that will enable us to reach our goal of over 1 billion users.
+
+As a Director of Engineering, you will work closely with your Product counterpart to define and implement a healthy and progressive product and technology strategy that improves our reach and impact for the business. You will also drive impact through the Senior Engineering Managers and Staff Engineers who report to you by promoting sound engineering practices, driving work on technical strategy and roadmaps, regularly assessing the technical state of teams, advocating for standard methodologies broadly, and providing focused mentoring to teams. You will help ensure that our solutions are scalable, balanced, architecturally sound, and that technical debt is both incurred consciously and repaid in a reasonable time.
+
+What you'll do
+
+Be a technical leader and valued contributor in an autonomous, cross-functional agile tribe and within Spotify in general.
+Be accountable for the technical vision and long-term technology strategy for the Spotify mobile client products. Work closely with your product counterpart to define the product vision and long-term product strategy. Define the technical capabilities required to achieve that product strategy.
+Work with engineering leaders across Spotify to enable large-scale collaboration on the mobile client, partnering with other Spotify business units that are all building their businesses based on access to hundreds of millions of consumers
+Work closely with engineers, product managers, and other engineering leaders to enable experiences that build fantastic music sessions for Spotify users worldwide.
+Lead and support the versatile engineers who architect, develop, and support mobile clients deployed to hundreds of millions of users.
+Lead and support the dedicated engineers who architect, develop, and operate APIs and back-end services supporting hundreds of millions of users.
+Lead and support the Spotify-wide backend and client developer community, influencing and driving our architecture across the company.
+Enable learning and knowledge sharing across the organization, leveling up our engineering practices and mentoring other specialists.
+Work directly with suppliers and partners to influence technical platforms and decisions.
+Initiate, influence and drive technical projects across teams within Spotify.
+
+What we are looking for
+
+You have proven experience as a technical leader for managers of managers, as the leader of an Engineering organization driving significant impact. You have a good understanding of how to lead and inspire through others.
+Prior to becoming a technical leader, you have extensive experience working hands-on as a Software Engineer in an agile environment.
+You have experience mentoring and supporting peers and engineering teams, fostering the best engineering practices.
+You possess a deep understanding of how to translate product and business goals into tech strategies.
+You have a good understanding of system design, and experience leading staff and principal engineers. You are conversant in some of the following: large-scale mobile application development, microservice architectures, data streaming architectures.
+In the past, you have solved problems that affect the larger company engineering organization as well as your own organization.
+You are passionate about developing products for hundreds of millions of consumers and platforms that are used by hundreds of engineers.
+You are passionate about what you do and have a high interest in keeping up with current best practices in your areas of expertise.
+As a great influencer with great communication skills, you love sharing your knowledge with others and helping them grow.
+You possess technical leadership knowledge where you can showcase your expertise by speaking at both internal and external conferences.
+
+Where you will be
+
+We are a distributed workforce enabling our band members to find a work mode that is best for them!
+Where in the world? For this role, it can be within the EMEA region in which we have a work location and is within working hours.
+Working hours? We operate within the Central European and GMT time zones for collaboration and ask that all be located that time zone.
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.

@@ -1,0 +1,58 @@
+About the job
+Job Description:
+
+DataRobot is the AI Cloud leader, delivering a unified platform for all users, data types, and environments to accelerate the delivery of AI to production for every organization. A third of the Fortune 50 currently trusts our Augmented Intelligence platform. We are growing and scaling rapidly with a massive market opportunity in sight. As a DataRobot employee, you will be part of a company whose mission is clear - bring a world class Machine Learning platform and change outcomes for organizations worldwide. We’re at the forefront of the AI revolution, from banking to insurance to healthcare. And we need other revolutionaries to join us.
+
+Our Global Platform team fuels all of the DataRobot services allowing it to run, seamlessly scale and tolerate outages across 3 major clouds as well as bringing cloud-native experience to on-premise customers. We are building a multi-tenanted Kubernetes environment for all DataRobot ground up using cutting edge cloud native technologies and approaches - fully declarative deployment, advanced policy engines, zero trust security and comprehensive auto scaling and best in class observability with distributed tracing to name a few.
+
+Our Common Infrastructure team is looking for a Senior Backend Engineer to help us develop the very foundation for the entire DataRobot. The Common Infrastructure platform is an opinionated Kubernetes implementation, following best practices for security, reliability and maintainability. It leverages modern, cloud-native technologies to provide scalable, production-grade environments for deploying the DataRobot platform. Team goal is to make DataRobot a cloud native application across all major clouds as well as on-premises environments. We are Kubernetes experts and enthusiasts building multi-tenanted secure and reliable Kubernetes based platform. We utilize advanced mechanisms based on declarative Kyveron policies, Cilium CNI, sophisticated ingress and egress rules, advanced autoscaling and other interesting techniques to empower dozens of DataRobot services. We managed and build infrastructure in a repeatable and declarative way and run massive clusters in all major clouds.
+
+What does it take?
+
+Build and design core parts of the Common Infrastructure platform
+Work on making the platform scalable and secure by utilizing best in class open source solutions
+Drive adoption of the Kubernetes across the company
+Lead individual projects and milestones with excellent communication of progress.
+Seek, provide, and constructively receive critical feedback, including but not limited to code review.
+
+Is this You?
+
+You have 5+ years of proven experience writing high-quality code in a collaborative environment.
+You are intimately familiar with core Kubernetes concepts
+You have a bachelor’s degree (or foreign equivalent) in Computer Science, Computer Engineering, or a related technical field.
+You have strong Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem-solving, and complexity analysis.
+You have an understanding of design for scalability, performance, and reliability.
+You are self-motivated and proactive, able to take ownership and deliver results.
+You are eager to learn new practices and technologies that will improve our overall architecture.
+You have excellent communication skills and can connect with both technical and non-technical audiences effectively.
+
+Bonus
+
+Experience designing/developing/maintaining RESTful APIs and/or gRPC
+Experience building multi-tenant platforms
+Experience delivering software to both SaaS and on-premise environments.
+Desire to mentor software engineers in all aspects of their engineering skill-sets.
+
+What you get in return:
+
+We move fast and reward hard work. We expect results, and we love doing the work we’re passionate about.
+Our employees have a voice in what we do! We continually challenge and support each other to find better, more robust solutions for customers and partners. After all, it’s our customers that make us tick!
+We like to have fun along the way! We genuinely like each other and enjoy spending time together at company outings.
+We’re global! We are an international company supporting international customers, and we know that regular collaboration across the globe is how the best ideas come about.
+We’re committed to building a company culture where every individual can bring their full impact and reach their fullest potential. Our mission is to build a diverse and inclusive environment where dedicated people of all cultures, perspectives, backgrounds, races, genders, religions, orientations, abilities, and ages can 10x their lives!
+
+The talent and dedication of our employees are at the core of DataRobot’s journey to be an iconic company. We strive to attract and retain the best talent by providing competitive pay and benefits with our employees’ well-being at the core. Here’s what your benefits package may include depending on your location and local legal requirements: Medical, Dental & Vision Insurance, Flexible Time Off Program, Paid Holidays, Paid Parental Leave, Global Employee Assistance Program (EAP) and more!
+
+Our Core Values:
+
+Be You - We are co-contributors to our culture committed to diversity, inclusion, equity and a sense of belonging throughout our global community. We value each person as their authentic self and welcome honest and respectful dialogue as an avenue to greatness.
+Dream Big - We don’t settle for the status quo. We always pursue the development of the next version of ourselves. We believe investment in the growth and resilience of our people is the foundation of building an iconic company.
+Be Data-Driven - We believe data-driven decision making enables innovation and execution at velocity while ensuring repeatable success. We take on the toughest challenges as we transform the world with our platform and AI.
+Better Together - We celebrate success and learn from failure as one team. We foster an aligned, collaboration-first workplace by building trust through transparency, integrity and accountability.
+Champion Customers - We empower our customers and our communities by shaping the future of trusted, augmented intelligence in order to solve their most difficult problems. We are humble, not complacent. We succeed when they succeed.
+
+All U.S. DataRobot employees must be fully vaccinated against COVID-19. If there is a medical, religious, or other legally protected reason that prevents you from receiving an available COVID-19 vaccination, and you are selected as a candidate for consideration, we have a process in place to evaluate requests for accommodation.
+
+DataRobot is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. DataRobot is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor’s EEO poster and EEO poster supplement for additional information.
+
+All applicant data submitted is handled in accordance with our Applicant Privacy Policy.

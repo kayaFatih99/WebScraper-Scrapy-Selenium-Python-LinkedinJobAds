@@ -1,0 +1,30 @@
+About the job
+A rapidly expanding DevOps intelligence organisation with the aim of helping Software Development teams make great engineering decisions and create productivity through quality, are looking for a Backend Engineer to help develop core product features using the right technologies such as (Scala/Golang).
+
+The platform aims to help thousands of developers ship billions of lines of code per day by automating and standardizing code reviews, with the main focus on creating value for the customers.
+
+You will be part of one of the Development squads to become one of the top Developers, Collaborating with other teams to improve the overall Architecture of the application and improving the application lifecycle, from deployment to real-time monitoring processes.
+
+Ideally we're looking for someone with:
+
+• 2yrs+ experience with at least one object-oriented programming language
+• Wanting to learn to develop and support data-driven applications in Scala
+• Knowledge of SQL
+• Knowledge of Docker, Kubernetes, AWS - Desirable but not a requisite
+• Strong knowledge of English
+
+What will you be doing?
+• Developing core product features
+• Define, implement & support a distributed application
+• Improve overall Architecture of the applications
+• Collaborate with product & tech teams
+
+What do you get in return?
+• 4 day working week
+• Unlimited holiday (within reason)
+• €2,000 Euros annually - expenses
+• €1,000 Euros annually - Growth/Development
+• Fully remote
+• Health insurance for household members – (Dental & Vision)
+
+If you're interested, apply now!

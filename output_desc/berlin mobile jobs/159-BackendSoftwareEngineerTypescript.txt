@@ -1,0 +1,40 @@
+About the job
+kevin. is a startup with a bright present and even brighter future. Here we dream big, and then we commit to making those dreams come true. We have already built things that were never built before - in-app payments, card redirect, and there is more to come.
+
+How did we manage that? By hiring people that are talented, driven, ambitious. Our company provides an environment where people like that can flourish - they can learn, explore, innovate. And they do just that!
+
+So come join us and add rocket fuel to your career! kevin. is a great place to explore paths that were not explored before, and actually make impactful decisions.
+
+As our new Backend Software Engineer, you will:
+Deliver business value with your team members by writing clean and maintainable code.
+Be responsible for the quality of your work, which includes writing unit and integration tests.
+Understand the product being developed, both from business and technical perspectives.
+Participate in technical decisions by providing alternatives, specific opinions, as well as reasoning behind those.
+Perform code reviews of other team members.
+
+If you wish to expand your knowledge, are interested in the newest programming tendencies and feel comfortable in a fast-paced agile environment, don’t hesitate and apply now. Please take a look at our tech stack in detail on https://stackshare.io/kevineu/kevin
+
+What you need to be successful:
+Have built user-facing high-throughput products using Typescript/Node.js.
+Have worked in a team following good development practices, such as writing unit tests, having CI/CD pipelines, doing code reviews, sharing knowledge.
+Have experience working with both relational and non-relational databases.
+Are able to analyse problems, find root causes, plan and implement solutions in complex systems.
+
+We don’t play games when it comes to compensation packages and benefits for our employees. Our remuneration ranges from €5060 to €6190, based on your experience and competence. We not only provide competitive salaries, but we also offer several extra benefits, such as short- and long-term incentives, private health insurance, and much more. So if you’re looking for stability and comfort with a bit of excitement sprinkled in here and there, then kevin. is the place for you!
+
+What will you get in addition:
+Competitive salary.
+Flexible salary payments - pick if you want to get your salary weekly, monthly or twice a month (applicable only for Lithuania based employees).
+Freedom to create, innovate, and make impactful decisions.
+Flexible working schedule – just bring us the result on time.*
+Talented and committed team members - the best of their fields.
+Full ownership of your tasks and decisions.
+Private Health Insurance.
+Full compliance with local law requirements and labour code.
+Expectations on location may apply depending on role and seniority
+
+kevin.’s advanced A2A (account-to-account) payment infrastructure solution was created to swiftly change costly card payments to payments linked directly from customers’ bank accounts without using any third-party providers. kevin.’s technology scales to businesses of any size and across industries, including retail, parking, fashion, car-sharing, deliveries, insurance and many more. kevin. focuses on mobile and POS payments where customers predominantly pay using cards currently. Its payment infrastructure is based on open banking – regulated by the European PSD2 Directive – which requires all banks and financial institutions in the European Economic Area to open their API for licensed third-party providers. kevin. develops only own connections to the banks without using any third-party aggregators.
+
+Currently, the Company supports more than 6,000 merchants in 15 markets, including Sweden, Finland, Poland, Spain, Netherlands, Baltics and Portugal, where the company has a coverage of more than 85% of bank customers. The firm’s services will be available in 28 European Economic Area (EEA) countries by the end of 2022. kevin. has a team of more than 260 employees in 20 countries and it plans to expand its workforce to beyond 350 employees in 2022.
+
+kevin. is an equal opportunity employer and values diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status.

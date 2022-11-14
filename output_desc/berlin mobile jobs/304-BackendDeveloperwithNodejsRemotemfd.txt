@@ -1,0 +1,40 @@
+About the job
+This job is sourced from a job board. Learn more
+About Codestryke GmbH
+
+Wir sind ein High-Tech Unternehmen im Bereich Industrial IoT und zählen zu den fortschrittlichsten Lösungsanbietern in Deutschland. Unsere Softwareprodukte und Lösungen sind weltweit auf 4,5 Millionen Geräten im Einsatz. Dabei arbeiten wir eng mit Partnern wie Microsoft und Siemens zusammen. Wir suchen zum nächstmöglichen Zeitpunkt Verstärkung für unser Jobangebot Backend Developer with Node.js - Remote (m/f/d).
+
+Sounds interesting? Then we look forward to receiving your application via our partner Workwise.
+
+Your Responsibilities
+
+As part of our VergeLink team, you will actively participate in the product development process
+You will be responsible for the architecture, development and optimization of backend and edge services
+You will participate in agile processes, including sprint planning, project implementations, retrospectives and daily meetings
+
+Your Profile
+
+You are fluent in German (C1), as well as in English (C1)
+You have a successfully completed technical degree or a technical education
+You bring at least 2-3 years of experience in backend development and have solid knowledge of Node.js with TypeScript
+You have knowledge of common protocol types (GraphQL, HTTP, MQTT, TLS, REST)
+You know how to use Linux, Bash and common Linux command line tools
+You are experienced with network configurations and have a deeper understanding of internet and network protocols
+You have experience with Docker and React
+You have a passion for contributing ideas and working in a team environment
+
+Our Offer
+
+Highly motivated teams, flat hierarchies, direct communication
+Modern tech stack with strong focus on reducing monotonous tasks (e.g. fully automated creation of all CRUD APIs - incl. client - with Hasura & GraphQL)
+Varied tasks in exciting projects
+Growing company in a future-oriented industry
+Numerous opportunities for further training
+Flexible working hours and a high level of personal responsibility
+Event days (Oktoberfest, short trips, after-work events)
+Free of charge: healthy snacks, fruits, drinks and smoothies
+Modern office space in the Munich Central Tower with top connections
+
+Our job offer Backend Developer with Node.js - Remote (m/f/d) sounds interesting? Then we are looking forward to receiving your application via Workwise.
+
+With our partner Workwise, you can apply for this job in just a few minutes without a cover letter and track the status of your application live.

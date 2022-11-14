@@ -16,9 +16,9 @@ class LinkedinSearchSpider(scrapy.Spider):
 
     def parse(self, response):
         search_keywords = 'mobile developer' # full stack developer 
-        search_location = 'London' # Madrid, Spain
-        search_filter = '&f_AL=true' # remote filters => &f_WT=2
-        top_link_names = 'london_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
+        search_location = 'Berlin' # Madrid, Spain
+        search_filter = '&f_WT=2' # remote filters => &f_WT=2
+        top_link_names = 'berlin_mobile_jobs' # spain_remote_jobs # linklerin txt ismi
 
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
@@ -29,9 +29,9 @@ class LinkedinSearchSpider(scrapy.Spider):
         driver.get("https://www.linkedin.com/login/tr?trk=homepage-basic_intl-segments-login")
 
         username = driver.find_element(By.XPATH,'//*[@id="username"]')
-        username.send_keys('') # linkedin username or e-mail
+        username.send_keys('webscrapertest99@gmail.com') # linkedin username or e-mail
         password = driver.find_element(By.XPATH,'//*[@id="password"]')
-        password.send_keys('') # linkedin password
+        password.send_keys('2611563fatih') # linkedin password
         loginButton = driver.find_element(By.XPATH,'//*[@id="organic-div"]/form/div[3]/button')
         loginButton.click()
         

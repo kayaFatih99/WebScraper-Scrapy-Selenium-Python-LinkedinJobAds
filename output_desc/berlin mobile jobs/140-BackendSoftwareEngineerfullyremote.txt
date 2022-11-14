@@ -1,0 +1,38 @@
+About the job
+Our product is used to build other teams’ internal developer platforms. Internal developers make developers more effective and improve their experience, across all sorts of Cloud services. Do you want to write the code that powers the platform that developers use to deploy their code? Take the blue pill and remain a simple developer. Take the red pill and see how deep the rabbit hole goes - maybe all the way to the Terraform?
+
+About Us
+
+Platform engineering is revolutionizing how enterprises build and run their cloud-native setups. Humanitec is at the core of this revolution, enabling teams to build Internal Developer Platforms (IDPs) and reach true developer self-service. Through our community-led efforts (platformengineering.org, PlatformCon) and roster of enterprise customers, we are hitting an inflection point in the adoption of IDPs. We are looking to aggressively scale the team to meet the increasing demand.
+
+We're looking for people who could land a job at Google, Amazon, or Microsoft - but prefer the excitement, challenge, and daring of being part of a disruptive startup. We focus on your talents and personality - your background, origin, or gender will never make a difference to us.
+
+We are looking to hire remote Backend Engineers as individual contributors to develop, test, deploy, maintain, and improve Humanitec. You should have professional experience in building high-quality software. CS degree and experience in dev productivity tools are a plus. Languages: predominantly Go. Everything is on Kubernetes.
+
+We pay top 5% in the market, stocks are part of the package. Work is fully remote and we work exclusively with senior engineers in small, lean, and self-organized teams. We currently prefer time-zones UTC-1 to UTC+3.
+
+Requirements
+
+Bachelor's degree in Engineering or Computer Science or equivalent practical experience.
+Hands-on experience writing software in professional environments.
+Passion for clear, clean, well-factored code.
+Software development experience in C/C++, C#, Java, Python, Go, or similar.
+Remote & work from a timezone UTC-1 to UTC+3 (Berlin time +/- 2 hours).
+
+Responsibilities
+
+Develop, test, deploy, maintain, and improve the software.
+Contribute to designs and perform code reviews for your peers.
+Comfort in working in short, agile, iterative development cycles and strong desire to work in an unstructured, fast-moving startup environment.
+
+About Our Process
+
+We are looking forward to hearing from you. Our application process is very straightforward and we like to make a decision quickly if the fit feels right on both sides.
+
+We focus exclusively on your talents and personality - your background, origins, or identity will never influence our decision-making.
+
+Your first interview will be 30 minutes with our Talent Partner, so that we can learn more about you and you can find out more about the hiring process, role, and our company. This first interview is usually followed by 1-3 core interviews with the leadership team and your future colleagues/team members. These interviews are typically 30 to 60 minutes, fully remote, and without any take-home assignments. We will talk through your background, your approach to work, and dive into your knowledge & experience.
+
+The final interview is with one of our founders to give you the chance to understand Humanitec even better.
+
+We are committed to improving our awareness of and approach to DEI (Diversity, Equity & Inclusion) at Humanitec, and are continuously reviewing and improving our hiring & interviewing processes to accommodate for people of diverse experiences, needs, and backgrounds. We have a zero tolerance policy for any discriminatory or disrespectful behaviour, including racism, sexism, homophobia, transphobia, ageism, or any other form of discrimination. This applies to our hiring & interviewing processes and to all internal communications at Humanitec.

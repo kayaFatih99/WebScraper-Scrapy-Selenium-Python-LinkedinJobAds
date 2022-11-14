@@ -1,0 +1,85 @@
+About the job
+About Lemon.markets 🍋
+
+We're on a mission to open 100 million brokerage accounts within the next ten years. Building the infrastructure for FinTech companies to launch an investing feature or product in Europe. Delivering the full value chain of brokerage through one API.
+
+Over the last few quarters we focused on bringing the first version of the API to the market. Thousands of developers signed up and hundreds started to build their individual use cases with us. This resulted in 80+ inquiries from companies to launch their own stock trading UI with lemon.markets. With 15 million of fresh funding, we are now taking the next steps toward our mission: Building out our capabilities to allow (Fin)Tech companies to offer investment opportunities to their customers.
+
+We have experienced first hand that brokerage infrastructure is broken. It’s a messy and complex problem that will take time to solve. But that’s exactly what we enjoy. Going to places nobody else dares and shielding our customers from the biggest pain. This not only creates tons of value when done right, but attracts the smartest minds - because we believe outlier companies are built by exceptional people like you.
+
+Your Mission:
+
+At lemon.markets we offer you the opportunity to build our Brokerage API from the ground up. As Senior Backend Engineer you will play a key role in designing the backend services and architecture of our brokerage API that will allow other companies to easily embed investing into their product. You will take ownership of features and services ensuring they run smoothly on production, while collaborating closely with the product team, Infrastructure, and DevOps engineers.
+
+Your main objective will be to build our flagship product - the Brokerage API - from scratch, but you will also improve the reliability and performance, and extend the functionalities of our existing Trading API over time.
+
+Joining our compact & dedicated team of Backend and Infrastructure Engineers, you will have a significant impact on the development of our Brokerage API - and thereby architectural decisions as well as on the business itself - from the first lines of code to the product’s launch and beyond.
+
+Who are you:
+You have the ability to write well-structured and tested code in high-level programming languages like Python, plus another language like Javascript, Typescript or Go
+You have excellent knowledge & experience around web frameworks, preferably FastAPI; alternatively, you have experience with Flask, Sanic, Tornado, or Falcon
+You have proven experience designing and implementing highly scalable architecture and reliable REST APIs and bring the desire to make them world-class
+You’ve gained good experience with AWS Services such as EC2, EKS, S3, RDS, or Athena
+You have a very good understanding of open source databases such as PostgreSQL or memory-databases like Redis; experience with time series databases like QuestDB is beneficial but not a must
+You know your way around API Gateways - experience with Kong gives you a head start
+You have good understanding and experience with streaming or messaging platforms, ideally Kafka
+You gained hands-on experience with testing different entities, use-cases, and 3rd party integrations - preferably writing tests with pytest
+You have a solid understanding of distributed systems
+You have excellent problem-solving skills and the ability to provide in-depth evaluations and analyses of unique and complex technological issues
+You are familiar with app containerisation with Docker, knowledge of Kubernetes is a plus
+You will be successful in this role if:
+Growing investment opportunities excites you. We operate in a highly regulated environment and therefore having worked in a Fintech or financial Service provider (Bank, Insurance or Brokerage) would be preferable and would give you a head start.
+You enjoy building from scratch. This means high involvement in the product development process itself while advocating for the best engineering practices. It also means that you enjoy taking technical decisions.
+You have a bias for action over a discussion. To avoid getting stuck in a discussion, you collect new feedback, try out a different approach or gather data with a proof of concept because you trust the process.
+You are ready and willing to take ownership of problems and act on them decisively with no supervision. You always thrive for high quality outcomes through focus, determination and attention to detail.
+You are a team player. Working together as a team and sharing knowledge comes naturally to you. Long term - you consider becoming a team lead.
+You have no problem with learning new technologies on the go. You try to solve problems with more things than the ones you already know. We will always enable you with that, but your willingness has to come first.
+You understand what working in a startup or a similar lean organisation is like. Working in an early-stage startup can be somehow frightening, overwhelming, and amazing at the same time.
+Settings.json:
+
+{
+
+"hours": 40, // -- Default: 40hrs; Min: 30hrs; Max: 40hrs
+
+"holidays": 25, // -- Default: 25d; Min: 20d; Max: 30d
+
+"salary": "?", // --
+
+"shares": "?", // -- Mandatory
+
+"clothing": { "hoodie": 1, "t-shirt": 1, "pair-socks": 2 },
+
+"equipment": { "laptop": ?, "screen": ?, ...},
+
+"location": "remote", // -- Options: remote | germany
+
+}
+
+Offer.yaml:
+meetings_per_week: min : 1 max: 3 description: fewer meetings than in your last job
+chaos:
+min: 1
+
+max: 3
+
+description: manageable amount of chaos
+mistakes:
+frequency: every_now_and_then
+
+description: to remember that we are all human
+offsite:
+frequency: quarterly
+
+description: optional to generate lasting memories with the team
+
+About The Process
+
+As an equal opportunity employer, lemon.markets is committed to building an inclusive workplace. The company welcomes people from all different backgrounds, including age, citizenship, ethnic and racial origins, gender identities, individuals with disabilities, marital status, religions and ideologies, and sexual orientations to apply.
+
+Hiring can be an exhausting process, especially when you're the one trying to get hired. Therefore, we try to make this a fast and transparent process. Additionally, you will always have one contact person guiding you through the process and helping you to schedule meetings, and setting you up on a path of success. Your process will look like this:
+Get to know us - Talent - Rebecca | 40 minutes
+Technical chat - Engineering Team - Dennis & Pawel | 60 minutes
+Meet the team @ lemon.markets HQ | 90 minutes
+Get to know - Florian & Dennis | 60 minutes
+Meet the Founder - Max | 30 minutes chat
+Problem Deep-Dive: Task - Discussion | 45 minutes

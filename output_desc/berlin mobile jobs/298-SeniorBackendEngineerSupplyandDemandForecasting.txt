@@ -1,0 +1,34 @@
+About the job
+Job Description
+
+At the fast growing scale of the Wolt business our operational efficiency benefits greatly from having automation for managing supply (how many courier partners are online) and demand (how many orders are being placed by customers). For us it’s a clear win-win situation, but it takes an entire team to make sure that this is possible. 💪 So, in order to achieve our mission to build the best tools for keeping the fine balance between planning and forecasting of delivery services at any given time and place, we decided to strengthen our ranks by adding one more Backend Engineer to our new Supply and Demand Forecasting team to balance out our own team needs!
+You will be working with a frontend engineer, UX designers, backend engineers, and data scientists, and right now we’re building our supply and demand forecasting systems of the future, but we need your help in doing so! So, if you’re an experienced backend engineer with an interest in tackling scalability challenges and building some real cool stuff, then be sure to drop us a line. 💌 At the moment our backend is built using Python and Scala, so knowing these languages or having the interest in learning them would be required. Also, you’ll get a chance to work closely together with our brilliant Data Scientists (seriously, this is a great chance to learn a lot about data science if you have a knack for it)!
+Still not sure? As a backend engineer, you will have a big impact on the team and you will be a key player in building a new platform that will help us create reliable forecasts which consume large amounts of operator sourced data where operators can input and alter planning data and can trigger model runs based on their inputs. You’ll also work on designing and implementing APIs, helping data scientists integrate their new ML-based models, as well as setting up data pipelines between our backend and data warehouse, so there’s quite a lot of exciting stuff going on!
+Lastly, this role can be based in one of our tech hubs in Helsinki or Berlin, or you can work remotely anywhere in Finland, Sweden, Germany, Denmark, and Estonia. Read more about our remote setup here.
+
+Our humble expectations
+
+Previous experience or willingness to tinker in the backend with Scala and/or Python
+Experience in setting up backend microservices
+Docker and Kubernetes for containerization and orchestration
+Familiarity with database technologies, such as PostgreSQL
+Several years of experience building production-grade software
+Analytical and curious thinking, self-starter with drive to get things done
+Comfortable working with real-world data and its different nuances
+In addition to technical skills, we are looking for dedicated people who aim to write modern, testable and maintainable code, are pragmatic with a positive attitude, don’t shy away from going outside of their tech comfort zone, and demonstrate curiosity and willingness to keep continuously learning.
+
+Next Steps
+
+💯 Overall our product organization consists of a team of over 400 people at Wolt. We aim to build none other than the best-in-the-world engineering team here.
+💙 You’ll get to work in a company culture where we take ownership beyond the obvious, do common things uncommonly well, we think big but stay humble, do right by people, we treat others kindly and justly, recognise that if we don’t learn, we won’t stay still but fall behind, and keep in mind that Luke was Yoda’s greatest achievement.
+🙌 Join us for an exciting journey! The compensation will be a negotiable combination of monthly pay and equity. The latter makes it exceptionally easy to be excited about our company growing and doing well, as you'll own a piece of the pie.
+If you want to check up on your application or have any further questions about the position you can turn to Talent Acquisition Associate, Lina Muncyte, at lina.muncyte(at)wolt.com at any given time.
+
+About Wolt
+
+Wolt is a technology company that makes it incredibly easy to discover and get the best restaurants, grocery stores and other local shops delivered to your home or office. Wolt works together with over 52,000 restaurant and retail partners as well as with over 110,000 courier partners across 23 countries and 210 cities.
+Our apps (iOS and Android) have the industry’s highest reviews, largely because of our customer-centric approach to how we build our products and operations. For example, our customer service team responds in a matter of seconds, in the customer’s own language.
+We’ve raised more than €707M in financing from renowned U.S. and European based investors, such as ICONIQ Capital, Tiger Global, DST, Prosus, KKR, Coatue, 83North, Goldman Sachs, Highland Europe and EQT Ventures & EQT Growth, among others. We've also been fortunate enough to receive some appreciation and recognition for our hard work along the way: Apple selected Wolt’s app as their Editors' Choice, Wired named the company one of the "Hottest Startups in Europe," Forbes included our CEO Miki Kuusi on its 30-under-30 in Consumer Tech list, and the Nordic Startup Awards named Wolt Company of the Year.
+In 2020, the Financial Times named us Europe’s second fastest growing company. We’re still expanding rapidly and are looking for more talented individuals to join us. If you are passionate about cutting-edge technology, great food, and making an impact in your city, then Wolt just might be for you.
+Wolt is more than just a food and retail delivery operation – in fact we are built upon a solid foundation of state-of-the-art technology. Our internal tooling enables us to ramp up new cities efficiently and provide excellent customer service, our own logistics platform allows us to optimise our couriers' work to get you the food you want as fast as possible, and our restaurant platform allows restaurants to offer exciting food experiences for our customers in an optimal way.
+We work in small teams with high ownership, with each team focusing on a key area of the Wolt product stack. Each and every one of our product team members has a say in where we are going and what solutions we implement. We work with a passion, but we haven't forgotten how to have fun along the way!

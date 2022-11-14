@@ -1,0 +1,46 @@
+About the job
+anwalt.de is one of Germany’s largest Legal Tech platforms. Our mission is to easily connect people seeking legal advice and lawyers. Those who are seeking legal advice use the platform as their first step in getting answers as well as solutions for their legal questions and problems. Lawyers use anwalt.de as an essential part of their online marketing. The anwalt.de services AG, founded in 2004, today employs 100 people remote all over the world and at its headquarter in Nuremberg and Berlin.
+
+WE'RE LOOKING FOR YOU! JOIN OUR TEAM AS A
+
+Senior PHP / Backend Engineer (m/f/d)
+
+Location: Nuremberg, Berlin or remote
+
+YOUR TASKS
+
+Build highly scalable cloud-based technical solutions
+Develop and maintain cutting edge web-based applications and services written in PHP
+Build and provide internal & external RESTful and GraphQL APIs
+Work in an agile & international agile scrum team with the goal of making access to legal consultation a step easier every day
+Contribute to our engineering standards to continuously improve the consistency and quality of our codebases and processes
+
+YOUR SKILLS
+
+Minimum of five years experience as a software developer
+Excellent & MVP-focused coding skills in PHP 8
+Practical & recent experience with MVC Frameworks like Laravel, Symfony, Zend/Laminas or Yii2
+Deep technical understanding of RESTful API’s and GraphQL
+Very good relational database skills in MySQL/MariaDb
+You are familiar with design patterns and software engineering best practices
+You are a proponent of automated testing
+Knowledge in related technologies (docker, nginx, php-fpm)
+You feel comfortable in an english-speaking environment
+
+OUR BENEFITS
+
+A successful and profitable company with a consistently customer-oriented way of thinking and working
+An agile and growing company with a lot of creative freedom and flat hierarchies
+Flexible working hours in a permanent employment relationship and a healthy work-life balance
+Great personal responsibility and a meaningful task with a long-term perspective: We design a great product with the vision of simplifying access to law
+Flexible remote working options (or in combination with an attractive workplace in the heart of Nuremberg or Berlin)
+Family-friendly and agile environment as well as regular community events and activities
+Our benefits for you: 30 days paid vacation + 24.12./31.12. work-free, subsidy for daily lunch, public transport (VAG and BVG) and Urban Sports Club membership and much more
+State-of-the-art technologies
+Relocation support (if necessary)
+
+WHAT ARE YOU WAITING FOR?
+Become part of the digital transformation of legal services and apply now!
+We are looking forward to hearing from you!
+
+As a remote first company, all of our interviews take place via video call.
